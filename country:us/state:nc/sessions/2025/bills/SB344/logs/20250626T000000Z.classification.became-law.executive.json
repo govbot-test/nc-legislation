@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Ch. SL 2025-24",
+    "occurred_at": "2025-06-26",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/S344",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 344"
+}

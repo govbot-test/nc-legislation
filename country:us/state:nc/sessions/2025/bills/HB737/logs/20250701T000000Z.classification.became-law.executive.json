@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Ch. SL 2025-45",
+    "occurred_at": "2025-07-01",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H737",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 737"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on Today's Calendar",
+    "occurred_at": "2025-02-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/S104",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 104"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Held by House Clerk",
+    "occurred_at": "2025-10-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/S599",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 599"
+}

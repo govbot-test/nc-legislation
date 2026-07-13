@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Re-ref Com On Rules, Calendar, and Operations of the House",
+    "occurred_at": "2025-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H288",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 288"
+}

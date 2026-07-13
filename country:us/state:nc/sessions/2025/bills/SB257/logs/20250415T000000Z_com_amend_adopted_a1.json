@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Com Amend Adopted A1",
+    "occurred_at": "2025-04-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/S257",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 257"
+}

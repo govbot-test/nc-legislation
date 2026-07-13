@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Passed 3rd Reading",
+    "occurred_at": "2025-06-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/S254",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 254"
+}

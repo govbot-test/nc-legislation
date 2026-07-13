@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Re-ref to Health Care.  If fav, re-ref to Rules and Operations of the Senate",
+    "occurred_at": "2025-06-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H565",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 565"
+}

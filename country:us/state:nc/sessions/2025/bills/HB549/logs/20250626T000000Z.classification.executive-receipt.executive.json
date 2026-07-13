@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Pres. To Gov. 6/26/2025",
+    "occurred_at": "2025-06-26",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H549",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 549"
+}

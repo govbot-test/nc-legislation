@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Cal Pursuant Rule 36(b)",
+    "occurred_at": "2025-05-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H918",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 918"
+}

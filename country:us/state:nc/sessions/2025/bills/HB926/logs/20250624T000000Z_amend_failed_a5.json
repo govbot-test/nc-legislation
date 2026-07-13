@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amend Failed A5",
+    "occurred_at": "2025-06-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H926",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 926"
+}

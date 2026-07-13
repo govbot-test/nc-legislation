@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed On Cal For 05/06/2025",
+    "occurred_at": "2025-05-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H606",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 606"
+}
