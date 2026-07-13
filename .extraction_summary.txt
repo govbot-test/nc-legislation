@@ -1,0 +1,8 @@
+📊 Text Extraction Summary for nc
+========================================
+
+Total bills:                 1794
+Processed:                   1794
+Successful:                  677
+Errors:                      0
+Skipped (already processed): 1117
