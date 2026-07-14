@@ -1,0 +1,138 @@
+Title: HOUSE BILL 1168
+Official Title: HOUSE BILL 1168
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Limit Electric Util. Hist. Fuel Cost Recovery. (Public)
+Sponsors: Representatives T. Brown, Reives, Prather, and Pittman (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO RESTORE CERTAIN LIMITATIONS PREVENTING ELECTRIC PUBLIC
+3 UTILITIES FROM RECOVERING HISTORIC FUEL COSTS FROM CUSTOMERS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 62-133.2(d) reads as rewritten:
+6 "(d) The Commission shall provide for notice of a public hearing with reasonable and
+7 adequate time for investigation and for all intervenors to prepare for hearing. At the hearing the
+8 Commission shall receive evidence from the utility, the Public Staff, and any intervenor desiring
+9 to submit evidence, and from the public generally. In reaching its decision, the Commission shall
+10 consider all evidence required under subsection (c) of this section as well as any and all other
+11 competent evidence that may assist the Commission in reaching its decision including changes
+12 in the cost of fuel consumed and fuel-related costs that occur within a reasonable time, as
+13 determined by the Commission, after the test period is closed. The Commission shall incorporate
+14 in its cost of fuel and fuel-related costs determination under this subsection the experienced
+15 over-recovery or under-recovery of reasonable costs of fuel and fuel-related costs prudently
+16 incurred by the electric public utility, during the test period, based upon the prudent standards set
+17 pursuant to subsection (d1) of this section, in fixing an increment or decrement rider. The
+18 Commission shall not incorporate in this determination any fuel or fuel-related costs incurred
+19 prior to the test period. Upon request of the electric public utility, the Commission shall also
+20 incorporate in this determination the experienced over-recovery or under-recovery of costs of
+21 fuel and fuel-related costs through the date that is 30 calendar days prior to the date of the hearing,
+22 provided that the reasonableness and prudence of these costs shall be subject to review in the
+23 utility's next annual hearing pursuant to this section. The Commission shall use deferral
+24 accounting, and consecutive test periods, in complying with this subsection, and the
+25 over-recovery or under-recovery portion of the increment or decrement shall be reflected in rates
+26 for 12 months, notwithstanding any changes in the base fuel cost in a general rate case. Any
+27 experienced over-recovery or under-recovery of reasonable fuel and fuel-related costs prudently
+28 incurred during the test period shall accrue interest at the commercial paper rate as identified by
+29 the Federal Reserve for A2/P2 nonfinancial issuers, or reasonable successor thereto, on a
+30 weighted average basis over the applicable time period. The burden of proof as to the correctness
+31 and reasonableness of the charge and as to whether the cost of fuel and fuel-related costs were
+32 reasonably and prudently incurred shall be on the utility. The Commission shall allow only that
+33 portion, if any, of a requested cost of fuel and fuel-related costs adjustment that is based on
+34 adjusted and reasonable cost of fuel and fuel-related costs prudently incurred under efficient
+35 management and economic operations. In evaluating whether cost of fuel and fuel-related costs
+*H1168-v-1*
+General Assembly Of North Carolina Session 2025
+1 were reasonable and prudently incurred, the Commission shall apply the rule adopted pursuant
+2 to subsection (d1) of this section. To the extent that the Commission determines that an increment
+3 or decrement to the rates of the utility due to changes in the cost of fuel and fuel-related costs
+4 over or under base fuel costs established in the preceding general rate case is just and reasonable,
+5 the Commission shall order that the increment or decrement become effective for all sales of
+6 electricity and remain in effect until changed in a subsequent general rate case or annual
+7 proceeding under this section."
+8 SECTION 2. There is appropriated from the General Fund to the Utilities
+9 Commission the sum of ten thousand dollars ($10,000) in nonrecurring funds for the 2026-2027
+10 fiscal year to be used for purposes consistent with this act.
+11 SECTION 3. This act becomes effective July 1, 2026, and applies to any rate-making
+12 mechanisms filed by an electric public utility on or after that date.
+Page 2 House Bill 1168-First Edition
+[DELETED:  1 L ( R R A A A T R C L P E P U T S " T a C t c c i t c o f c a f c t o w a r t a d i o i p t s ( o t s i f a i o d r T C p i f p u n a h p t t s T C s u d a a c t p i c w t s a t o f e i t F R f A n i o r s t o a w a r p a m]
+[DELETED:  S  H w t o o t e a r i e u c i a s g r c o a p S 2  T i a f t G F t t U C f S m]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1168
+Short Title: Limit Electric Util. Hist. Fuel Cost Recovery. (Public)
+Sponsors: Representatives T. Brown, Reives, Prather, and Pittman (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO RESTORE CERTAIN LIMITATIONS PREVENTING ELECTRIC PUBLIC
+3 UTILITIES FROM RECOVERING HISTORIC FUEL COSTS FROM CUSTOMERS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 62-133.2(d) reads as rewritten:
+6 "(d) The Commission shall provide for notice of a public hearing with reasonable and
+7 adequate time for investigation and for all intervenors to prepare for hearing. At the hearing the
+8 Commission shall receive evidence from the utility, the Public Staff, and any intervenor desiring
+9 to submit evidence, and from the public generally. In reaching its decision, the Commission shall
+10 consider all evidence required under subsection (c) of this section as well as any and all other
+11 competent evidence that may assist the Commission in reaching its decision including changes
+12 in the cost of fuel consumed and fuel-related costs that occur within a reasonable time, as
+13 determined by the Commission, after the test period is closed. The Commission shall incorporate
+14 in its cost of fuel and fuel-related costs determination under this subsection the experienced
+15 over-recovery or under-recovery of reasonable costs of fuel and fuel-related costs prudently
+16 incurred by the electric public utility, during the test period, based upon the prudent standards set
+17 pursuant to subsection (d1) of this section, in fixing an increment or decrement rider. The
+18 Commission shall not incorporate in this determination any fuel or fuel-related costs incurred
+19 prior to the test period. Upon request of the electric public utility, the Commission shall also
+20 incorporate in this determination the experienced over-recovery or under-recovery of costs of
+21 fuel and fuel-related costs through the date that is 30 calendar days prior to the date of the hearing,
+22 provided that the reasonableness and prudence of these costs shall be subject to review in the
+23 utility's next annual hearing pursuant to this section. The Commission shall use deferral
+24 accounting, and consecutive test periods, in complying with this subsection, and the
+25 over-recovery or under-recovery portion of the increment or decrement shall be reflected in rates
+26 for 12 months, notwithstanding any changes in the base fuel cost in a general rate case. Any
+27 experienced over-recovery or under-recovery of reasonable fuel and fuel-related costs prudently
+28 incurred during the test period shall accrue interest at the commercial paper rate as identified by
+29 the Federal Reserve for A2/P2 nonfinancial issuers, or reasonable successor thereto, on a
+30 weighted average basis over the applicable time period. The burden of proof as to the correctness
+31 and reasonableness of the charge and as to whether the cost of fuel and fuel-related costs were
+32 reasonably and prudently incurred shall be on the utility. The Commission shall allow only that
+33 portion, if any, of a requested cost of fuel and fuel-related costs adjustment that is based on
+34 adjusted and reasonable cost of fuel and fuel-related costs prudently incurred under efficient
+35 management and economic operations. In evaluating whether cost of fuel and fuel-related costs
+*H1168-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 were reasonable and prudently incurred, the Commission shall apply the rule adopted pursuant
+2 to subsection (d1) of this section. To the extent that the Commission determines that an increment
+3 or decrement to the rates of the utility due to changes in the cost of fuel and fuel-related costs
+4 over or under base fuel costs established in the preceding general rate case is just and reasonable,
+5 the Commission shall order that the increment or decrement become effective for all sales of
+6 electricity and remain in effect until changed in a subsequent general rate case or annual
+7 proceeding under this section."
+8 SECTION 2. There is appropriated from the General Fund to the Utilities
+9 Commission the sum of ten thousand dollars ($10,000) in nonrecurring funds for the 2026-2027
+10 fiscal year to be used for purposes consistent with this act.
+11 SECTION 3. This act becomes effective July 1, 2026, and applies to any rate-making
+12 mechanisms filed by an electric public utility on or after that date.
+Page 2 House Bill 1168-First Edition
+
+[DELETED:  1 L ( R R A A A T R C L P E P U T S " T a C t c c i t c o f c a f c t o w a r t a d i o i p t s ( o t s i f a i o d r T C p i f p u n a h p t t s T C s u d a a c t p i c w t s a t o f e i t F R f A n i o r s t o a w a r p a m]
+[DELETED:  S  H w t o o t e a r i e u c i a s g r c o a p S 2  T i a f t G F t t U C f S m]

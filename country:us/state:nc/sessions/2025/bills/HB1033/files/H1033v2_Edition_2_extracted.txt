@@ -1,0 +1,564 @@
+Title: HOUSE BILL 1033
+Official Title: HOUSE BILL 1033
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+Committee Substitute Favorable 5/12/26
+Short Title: Dental Board Reform. (Public)
+Sponsors:
+Referred to:
+April 23, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE CHANGES TO THE NORTH CAROLINA BOARD OF DENTAL
+3 EXAMINERS AND TO RESPOND TO THE HOLDING IN NORTH CAROLINA STATE
+4 BOARD OF DENTAL EXAMINERS V. FEDERAL TRADE COMMISSION, AS
+5 RECOMMENDED BY THE JOINT LEGISLATIVE ADMINISTRATIVE PROCEDURE
+6 OVERSIGHT COMMITTEE.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1.(a) The title of G.S. 90-22 reads as rewritten:
+9 "§ 90-22. Practice of dentistry regulated in public interest; Article liberally construed;
+10 Board of Dental Examiners; composition; qualifications and terms of members;
+11 vacancies; nominations and elections; compensation; expenditures by Board."
+12 SECTION 1.(b) G.S. 90-22(a) reads as rewritten:
+13 "(a) Purpose of the Practice of Dentistry. – The practice of dentistry in the State of North
+14 Carolina is hereby declared to affect affects the public health, safety and welfare and to be is
+15 subject to regulation and control by the State in the public interest. It is further declared to be a
+16 matter of public interest and concern that the dental profession merit and receive the confidence
+17 of the public and that only qualified persons be permitted to practice dentistry in the State of
+18 North Carolina. This Article shall be liberally construed to carry out these objects and purposes."
+19 SECTION 1.(c) G.S. 90-22(b) reads as rewritten:
+20 "(b) Creation. – The North Carolina State Board of Dental Examiners heretofore
+21 previously created by Chapter 139, Public Laws 1879 and by Chapter 178, Public Laws 1915, is
+22 hereby continued as the agency of the State for the regulation of the practice of dentistry in this
+23 State. Said It is a matter of public interest that State officials must possess and exercise power to
+24 review the acts of private parties and disapprove those that fail to accord with State policy. The
+25 potential for State supervision is not an adequate substitute for a decision by the State.
+26 (b1) Board of Dental Examiners. – The Board of Dental Examiners shall consist of six 11
+27 members, as follows:
+28 (1) Six dentists who are licensed to practice dentistry in North Carolina, one
+29 Carolina and have been actively engaged in the practice of dentistry in this
+30 State for at least five years immediately preceding their appointment.
+31 (2) Two dental hygienist who is hygienists who are licensed to practice dental
+32 hygiene in North Carolina and one person who have been actively engaged in
+33 the practice of dentistry in this State for at least five years immediately
+34 preceding their appointment.
+35 (3) Three public consumer members, each of whom shall be a citizen and resident
+36 of North Carolina and who shall meet each of the following criteria:
+*H1033-v-2*
+General Assembly Of North Carolina Session 2025
+1 a. Not be licensed to practice neither dentistry nor dentistry, dental
+2 hygiene. hygiene, or any other dental profession.
+3 b. Does not have any financial interest in the provision of dental services.
+4 c. Never has been licensed to practice dentistry or dental hygiene.
+5 d. Never has been registered, certified, or licensed by an occupational
+6 licensing agency in the health care field.
+7 e. Is not employed by or does not participate in the management of a
+8 business entity or other organization receiving funds from the Board.
+9 f. Does not use or receive a substantial amount of tangible goods,
+10 services, or money from the Board, other than compensation or
+11 reimbursement authorized by law for Board membership, attendance,
+12 or expenses.
+13 g. Not be affiliated with or employed by the Board or by any member on
+14 the Board.
+15 h. Is not a spouse of a dentist or dental hygienist.
+16 (b2) Limitation on Voting. – The dental hygienist hygienists or the consumer member
+17 members cannot participate or vote in any matters of the Board which involves involve the
+18 issuance, renewal or revocation of the a license to practice dentistry in the State of North
+19 Carolina. The consumer member members cannot participate or vote in any matters of the Board
+20 which involve the issuance, renewal or revocation of the license to practice dental hygiene in the
+21 State of North Carolina.
+22 (b3) Members of the Board licensed to practice dentistry in North Carolina shall have been
+23 elected in an election held as hereinafter provided in which every person licensed to practice
+24 dentistry in North Carolina and residing or practicing in North Carolina shall be entitled to vote.
+25 Terms. – Each member of said appointed to the Board shall be elected serve for a term of three
+26 years and years. Each member may be reappointed for one additional consecutive term. No
+27 member shall serve more than two three-year terms; however, a member shall serve until his or
+28 her successor shall be is elected and shall qualify. Each year there shall be elected two dentists
+29 for such terms of three years each. Every three years there shall be elected one dental hygienist
+30 for a term of three years. Dental hygienists shall be elected to the Board in an election held in
+31 accordance with the procedures hereinafter provided in which those persons licensed to practice
+32 dental hygiene in North Carolina and residing or practicing in North Carolina shall be entitled to
+33 vote. Every three years a person who is a citizen and resident of North Carolina and licensed to
+34 practice neither dentistry nor dental hygiene shall be appointed to the Board for a term of three
+35 years by the Governor of North Carolina. Any vacancy occurring on said Board shall be filled
+36 by a majority vote of the remaining members of the Board to serve until the next regular election
+37 conducted by the Board, at which time the vacancy will be filled by the election process provided
+38 for in this Article, except that when the seat on the Board held by a person licensed to practice
+39 neither dentistry nor dental hygiene in North Carolina shall become vacant, the vacancy shall be
+40 filled by appointment by the Governor for the period of the unexpired term. No dentist shall be
+41 nominated for or elected to membership on said Board, unless, at the time of such nomination
+42 and election such person is licensed to practice dentistry in North Carolina and actually engaged
+43 in the practice of dentistry. No dental hygienist shall be nominated for or elected to membership
+44 on said Board unless, at the time of such nomination and election, such person is licensed to
+45 practice dental hygiene in North Carolina and is currently employed in dental hygiene in North
+46 Carolina. No person shall be nominated, elected, or appointed to serve more than two consecutive
+47 terms on said Board.qualified."
+48 SECTION 1.(d) Repeal of the Board of Dental Elections. – G.S. 90-22(c) through
+49 (e) are repealed.
+50 SECTION 1.(e) Article 2 of Chapter 90 of the General Statutes is amended by adding
+51 a new section to read:
+Page 2 House Bill 1033-Second Edition
+General Assembly Of North Carolina Session 2025
+1 "§ 90-22A. Appointment of Board members; vacancies; compensation; terms.
+2 (a) Appointment of Board Members. – The Board of Dental Examiners shall be appointed
+3 as follows:
+4 (1) Four members shall be appointed by the Governor as follows:
+5 a. Two dentists that meet the requirements of G.S. 90-22(b1)(1).
+6 b. One dental hygienist who meets the requirements of
+7 G.S. 90-22(b1)(2).
+8 c. One public consumer member who meets the requirements of
+9 G.S. 90-22(b1)(3).
+10 (2) Four members shall be appointed by the General Assembly as follows:
+11 a. Two dentists that meet the requirements of G.S. 90-22(b1)(1) by
+12 recommendation of the Speaker of the House of Representatives.
+13 b. Two dentists that meet the requirements of G.S. 90-22(b1)(1) by
+14 recommendation of the President Pro Tempore of the Senate.
+15 (3) Three members shall be appointed by the Commissioner of Labor as follows:
+16 a. One dental hygienist that meets the requirements of G.S. 90-22(b1)(2).
+17 b. Two public consumer members who meet the requirements of
+18 G.S. 90-22(b1)(3).
+19 (b) Vacancies; Removal. – A vacancy shall be filled in the same manner as the original
+20 appointment, except that all unexpired terms of Board members appointed by the General
+21 Assembly shall be filled in accordance with G.S. 120-122. Appointees to fill vacancies shall
+22 serve the remainder of the unexpired term and until their successors have been duly appointed
+23 and qualified, not to exceed 60 days. The appointing authority shall have the power to remove
+24 their respective Board member for neglect of duty, incompetence, or unprofessional conduct.
+25 (c) Compensation. – Each member of the Board shall receive per diem and
+26 reimbursement for travel and subsistence as provided in G.S. 93B-5.
+27 (d) Officers. – The officers of the Board shall be a chair, who shall be a licensed dentist,
+28 a vice-chair, and other officers deemed necessary by the Board to carry out the purposes of this
+29 Article. All officers shall be elected annually by the Board for one-year terms and shall serve
+30 until their successors are elected and qualified."
+31 SECTION 1.(f) G.S. 90-43 reads as rewritten:
+32 "§ 90-43. Compensation and expenses Expenses of Board.
+33 Notwithstanding G.S. 93B-5(a), each member of the North Carolina State Board of Dental
+34 Examiners shall receive as compensation for his services in the performance of his duties under
+35 this Article a sum not exceeding one hundred dollars ($100.00) for each day actually engaged in
+36 the performance of the duties of his office, said per diem to be fixed by said Board, and all
+37 legitimate and necessary expenses incurred in attending meetings of the said Board.
+38 The Board is authorized and empowered to expend from funds collected hereunder such
+39 additional sum or sums as it may determine necessary in the administration and enforcement of
+40 this Article, and employ such personnel as it may deem requisite to assist in carrying out the
+41 administrative functions required by this Article and by the Board."
+42 SECTION 2. Transition of Board Members. – Notwithstanding G.S. 90-22, as
+43 amended by this act, and G.S. 90-22A, as enacted by this act, the current members of the North
+44 Carolina Board of Dental Examiners (Board) shall each finish their current respective terms on
+45 the Board. Prior to the expiration or termination of each member's current term, the new member
+46 for that seat shall be appointed pursuant to G.S. 90-22 and G.S. 90-22A, as set forth in this act.
+47 The newly created seats for one dental hygienist member and two public consumer members
+48 shall be filled within 30 days of this act becoming law as described below.
+49 The licensed dentist seats that become eligible for appointment after this act becomes
+50 law shall be appointed for three-year terms in the following order:
+House Bill 1033-Second Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (1) The first two seats: the Governor shall appoint two licensed dentists in
+2 accordance with G.S. 90-22A(a)(1).
+3 (2) The third and fifth seats: the Speaker of the House of Representatives shall
+4 appoint two licensed dentists in accordance with G.S. 90-22A(a)(2)a.
+5 (3) The fourth and sixth seats: the President Pro Tempore of the Senate shall
+6 appoint two licensed dentists in accordance with G.S. 90-22A(a)(2)b.
+7 The licensed dental hygienist seats that become eligible for appointment after this act
+8 becomes law shall be appointed in the following manner:
+9 (4) A member for the newly created seat for a dental hygienist shall be appointed
+10 by the Commissioner of Labor in accordance with G.S. 90-22A(a)(3)a.
+11 (5) A member for the seat created by the expiration of the term of the current
+12 dental hygienist member shall be appointed by the Governor in accordance
+13 with G.S. 90-22A(a)(1)b.
+14 The public consumer member seats that become eligible for appointment after this act
+15 becomes law shall be appointed for three-year terms in the following order:
+16 (6) Members for the two newly created seats for public consumer members shall
+17 be appointed by the Commissioner of Labor in accordance with
+18 G.S. 90-22A(a)(3)b.
+19 (7) A member for the seat created by the expiration of the term of the current
+20 public consumer member shall be appointed by the Governor in accordance
+21 with G.S. 90-22A(a)(1)c.
+22 SECTION 3. The North Carolina Board of Dental Examiners shall adopt temporary
+23 rules to implement the provisions of Sections 1 and 2 of this act and shall adopt permanent rules
+24 to replace the temporary rules. Those temporary rules shall remain in effect until permanent rules
+25 that replace those rules become effective.
+26 SECTION 4.(a) G.S. 93B-5(g) reads as rewritten:
+27 "(g) Within six months of a board member's initial appointment to the board, and at least
+28 once within every two calendar years thereafter, a board member shall receive training, either
+29 from the board's staff, including its legal advisor, or from an outside educational institution such
+30 as the School of Government of the University of North Carolina, on the statutes governing the
+31 board and rules adopted by the board, as well as the following State and federal laws, in order to
+32 better understand the obligations and limitations of a State agency:
+33 (1) Chapter 150B, The Administrative Procedure Act.
+34 (2) Chapter 132, The Public Records Law.
+35 (3) Article 33C of Chapter 143, The Open Meetings Act.
+36 (4) Articles 31 and 31A of Chapter 143, The State Tort Claims Act and The
+37 Defense of State Employees Law.
+38 (5) Chapter 138A, The State Government Ethics Act.
+39 (6) Chapter 120C, Lobbying.
+40 (7) Antitrust law and State action immunity.
+41 Completion of the training requirements contained in Chapter 138A and Chapter 120C of the
+42 General Statutes satisfies the requirements of subdivisions (5) and (6) of this subsection."
+43 SECTION 4.(b) Chapter 93B of the General Statutes is amended by adding six new
+44 sections to read:
+45 "§ 93B-17. Occupational licensing board rulemaking.
+46 (a) Each occupational licensing board shall adopt rules for the receipt and resolution of
+47 complaints, for taking disciplinary or enforcement actions against its licensees, and for taking
+48 enforcement actions against persons not licensed by the board.
+49 (b) Any interpretation, clarification, or other delineation of the scope of practice of an
+50 occupational licensing board shall be adopted as a rule.
+51 "§ 93B-18. Unlicensed activity.
+Page 4 House Bill 1033-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (a) An occupational licensing board shall have the authority to investigate unlicensed
+2 activity and notify unlicensed persons and entities of the possible violation of the law and
+3 administrative rules and any civil action or criminal penalty that may be imposed by a court. The
+4 notification shall not indicate that the occupational licensing board has made any finding of a
+5 violation but may indicate the board's belief or opinion that a particular act may violate the
+6 board's enabling statutes, include factual information regarding legislation and court proceedings
+7 concerning the potential violation, and provide notice of the board's intention to pursue
+8 administrative remedies or court proceedings with regard to the potential violation.
+9 (b) Any occupational licensing board providing notification to unlicensed persons and
+10 entities of a possible violation of the law and administrative rules and any civil action or criminal
+11 penalty that may be imposed by a court shall include the following statement in the notification:
+12
+13 You are hereby notified that the opinion expressed herein is not a legal
+14 determination. An occupational licensing board does not have the authority to
+15 order you to discontinue your current practices. Only a court may determine that
+16 you have violated or are violating any law and, if appropriate, impose a remedy
+17 or penalty for the violation. Further, pursuant to G.S. 150B-4, you may have the
+18 right, prior to initiation of any court action by the occupational licensing board,
+19 to request a declaratory ruling regarding whether your particular conduct is
+20 lawful. You are further notified that any right to a declaratory ruling supplements
+21 any other legal rights that you may already have to establish the legality of your
+22 conduct with respect to the goods or services you offer or provide.
+23
+24 "§ 93B-19. Venue for court enforcement.
+25 Notwithstanding any other provision of law, the venue for occupational licensing boards
+26 seeking court orders for injunctive relief or to show cause for failure to comply with a subpoena
+27 lawfully issued by the occupational licensing board shall be in the superior court of the county
+28 where the defendant resides or in the county where the occupational licensing board has its
+29 principal place of business.
+30 "§ 93B-20. Injunctive relief.
+31 An occupational licensing board may appear in its own name in superior court in actions for
+32 injunctive relief to restrain the violation of the provisions of a statute administered by the board
+33 or a rule or order of the board. The superior court shall have the jurisdiction to grant these
+34 injunctions, restraining orders, or take other appropriate action even if criminal prosecution has
+35 been or may be instituted as a result of the violations, or whether the person is a licensee of the
+36 board. No board shall issue such orders independently of the superior court unless specifically
+37 authorized to do so by law.
+38 "§ 93B-21. Jurisdictional disputes between boards.
+39 It is the policy of the State that jurisdictional disputes among occupational licensing boards
+40 shall be resolved through informal procedures. If a jurisdictional dispute among occupational
+41 licensing boards cannot be resolved through informal procedures, any affected board may
+42 commence an administrative proceeding to resolve the jurisdictional dispute by filing a petition
+43 with the Office of Administrative Hearings and serve the petition on all affected boards. Once
+44 the petition is filed and the required fee is paid, the dispute shall become a contested case and
+45 shall be conducted by the Office of Administrative Hearings under Articles 3 and 4 of Chapter
+46 150B of the General Statutes.
+47 "§ 93B-22. Complaint process.
+48 Each occupational licensing board shall develop and implement a complaint process that
+49 provides for all of the following:
+50 (1) A description of the complaint process on the board's website, including the
+51 types of violations that are under the jurisdictional authority of the board.
+House Bill 1033-Second Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (2) Electronic complaint submission via the board's website, including a
+2 prominently displayed link to a complaint form.
+3 (3) The ability to provide complainants with a written description of the final
+4 disposition of each complaint."
+5 SECTION 5. Section 4(a) of this act becomes effective October 1, 2026. Section
+6 4(b) of this act becomes effective October 1, 2026, and applies to actions arising on or after that
+7 date. The remainder of this act is effective when it becomes law.
+Page 6 House Bill 1033-Second Edition
+[DELETED:  2 D (   A A A T M C T T N C B O D E B O D E V F T C A R O T S " B v S " P C s m o N S " C – T N C S B o D E h p h S r p ( B m ( S d w a l t p d i N C o C S ( T h t p o d i t S f a l f y i p ( T o]
+[DELETED:  S  H a N b l t p n d n d d h b D c N d N l e I b f D n u o r a s a o t g s o m f t B o t c o r o g N t h I ( L m i i r o r o t a l t p d i t S o N C w S ( M e d T y y t m h f f a d v p y b c f n f n a i o p C t S ( S a]
+[DELETED:  S  P " ( A a ( F a T b O d h w m t r o G c O p c m w m t r o G ( F a T d t m t r o G b r b T d t m t r o G b r ( T a O b T p c m w m t r o G ( V a e t a u t o B m a b t G A s a t ( C – E m o t B s r p d a r ( O a A u S " N E t t l T a t a S 2  T o B M – N G a a C t f T s T l]
+[DELETED:  S  H ( T f t s t G s a t l d i a ( T a ( T a T b ( A b ( A d w T b ( M b a b t C o L i a w G ( A p w S r t t S " W o f a b b ( C ( C ( A ( A D ( C ( C ( A C G S s " ( E c e ( A o "]
+[DELETED:  S  P ( A a a n u p a e o t p v o t l a a n v b c t p v a p n o t b i t p a ( A e p  Y a h n t t o e h i n a l d o y o r t r a d r r w y p c i l a c  " N s l w p " A i o i b b a " I s l b c b r t i p a a b m c w t s 1 " E p ( A t]
+[DELETED:  S  H ( E c s v t b w i a p ( T d S 4 d]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 1033
+Committee Substitute Favorable 5/12/26
+Short Title: Dental Board Reform. (Public)
+Sponsors:
+Referred to:
+April 23, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE CHANGES TO THE NORTH CAROLINA BOARD OF DENTAL
+3 EXAMINERS AND TO RESPOND TO THE HOLDING IN NORTH CAROLINA STATE
+4 BOARD OF DENTAL EXAMINERS V. FEDERAL TRADE COMMISSION, AS
+5 RECOMMENDED BY THE JOINT LEGISLATIVE ADMINISTRATIVE PROCEDURE
+6 OVERSIGHT COMMITTEE.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1.(a) The title of G.S. 90-22 reads as rewritten:
+9 "§ 90-22. Practice of dentistry regulated in public interest; Article liberally construed;
+10 Board of Dental Examiners; composition; qualifications and terms of members;
+11 vacancies; nominations and elections; compensation; expenditures by Board."
+12 SECTION 1.(b) G.S. 90-22(a) reads as rewritten:
+13 "(a) Purpose of the Practice of Dentistry. – The practice of dentistry in the State of North
+14 Carolina is hereby declared to affect affects the public health, safety and welfare and to be is
+15 subject to regulation and control by the State in the public interest. It is further declared to be a
+16 matter of public interest and concern that the dental profession merit and receive the confidence
+17 of the public and that only qualified persons be permitted to practice dentistry in the State of
+18 North Carolina. This Article shall be liberally construed to carry out these objects and purposes."
+19 SECTION 1.(c) G.S. 90-22(b) reads as rewritten:
+20 "(b) Creation. – The North Carolina State Board of Dental Examiners heretofore
+21 previously created by Chapter 139, Public Laws 1879 and by Chapter 178, Public Laws 1915, is
+22 hereby continued as the agency of the State for the regulation of the practice of dentistry in this
+23 State. Said It is a matter of public interest that State officials must possess and exercise power to
+24 review the acts of private parties and disapprove those that fail to accord with State policy. The
+25 potential for State supervision is not an adequate substitute for a decision by the State.
+26 (b1) Board of Dental Examiners. – The Board of Dental Examiners shall consist of six 11
+27 members, as follows:
+28 (1) Six dentists who are licensed to practice dentistry in North Carolina, one
+29 Carolina and have been actively engaged in the practice of dentistry in this
+30 State for at least five years immediately preceding their appointment.
+31 (2) Two dental hygienist who is hygienists who are licensed to practice dental
+32 hygiene in North Carolina and one person who have been actively engaged in
+33 the practice of dentistry in this State for at least five years immediately
+34 preceding their appointment.
+35 (3) Three public consumer members, each of whom shall be a citizen and resident
+36 of North Carolina and who shall meet each of the following criteria:
+*H1033-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 a. Not be licensed to practice neither dentistry nor dentistry, dental
+2 hygiene. hygiene, or any other dental profession.
+3 b. Does not have any financial interest in the provision of dental services.
+4 c. Never has been licensed to practice dentistry or dental hygiene.
+5 d. Never has been registered, certified, or licensed by an occupational
+6 licensing agency in the health care field.
+7 e. Is not employed by or does not participate in the management of a
+8 business entity or other organization receiving funds from the Board.
+9 f. Does not use or receive a substantial amount of tangible goods,
+10 services, or money from the Board, other than compensation or
+11 reimbursement authorized by law for Board membership, attendance,
+12 or expenses.
+13 g. Not be affiliated with or employed by the Board or by any member on
+14 the Board.
+15 h. Is not a spouse of a dentist or dental hygienist.
+16 (b2) Limitation on Voting. – The dental hygienist hygienists or the consumer member
+17 members cannot participate or vote in any matters of the Board which involves involve the
+18 issuance, renewal or revocation of the a license to practice dentistry in the State of North
+19 Carolina. The consumer member members cannot participate or vote in any matters of the Board
+20 which involve the issuance, renewal or revocation of the license to practice dental hygiene in the
+21 State of North Carolina.
+22 (b3) Members of the Board licensed to practice dentistry in North Carolina shall have been
+23 elected in an election held as hereinafter provided in which every person licensed to practice
+24 dentistry in North Carolina and residing or practicing in North Carolina shall be entitled to vote.
+25 Terms. – Each member of said appointed to the Board shall be elected serve for a term of three
+26 years and years. Each member may be reappointed for one additional consecutive term. No
+27 member shall serve more than two three-year terms; however, a member shall serve until his or
+28 her successor shall be is elected and shall qualify. Each year there shall be elected two dentists
+29 for such terms of three years each. Every three years there shall be elected one dental hygienist
+30 for a term of three years. Dental hygienists shall be elected to the Board in an election held in
+31 accordance with the procedures hereinafter provided in which those persons licensed to practice
+32 dental hygiene in North Carolina and residing or practicing in North Carolina shall be entitled to
+33 vote. Every three years a person who is a citizen and resident of North Carolina and licensed to
+34 practice neither dentistry nor dental hygiene shall be appointed to the Board for a term of three
+35 years by the Governor of North Carolina. Any vacancy occurring on said Board shall be filled
+36 by a majority vote of the remaining members of the Board to serve until the next regular election
+37 conducted by the Board, at which time the vacancy will be filled by the election process provided
+38 for in this Article, except that when the seat on the Board held by a person licensed to practice
+39 neither dentistry nor dental hygiene in North Carolina shall become vacant, the vacancy shall be
+40 filled by appointment by the Governor for the period of the unexpired term. No dentist shall be
+41 nominated for or elected to membership on said Board, unless, at the time of such nomination
+42 and election such person is licensed to practice dentistry in North Carolina and actually engaged
+43 in the practice of dentistry. No dental hygienist shall be nominated for or elected to membership
+44 on said Board unless, at the time of such nomination and election, such person is licensed to
+45 practice dental hygiene in North Carolina and is currently employed in dental hygiene in North
+46 Carolina. No person shall be nominated, elected, or appointed to serve more than two consecutive
+47 terms on said Board.qualified."
+48 SECTION 1.(d) Repeal of the Board of Dental Elections. – G.S. 90-22(c) through
+49 (e) are repealed.
+50 SECTION 1.(e) Article 2 of Chapter 90 of the General Statutes is amended by adding
+51 a new section to read:
+Page 2 House Bill 1033-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 "§ 90-22A. Appointment of Board members; vacancies; compensation; terms.
+2 (a) Appointment of Board Members. – The Board of Dental Examiners shall be appointed
+3 as follows:
+4 (1) Four members shall be appointed by the Governor as follows:
+5 a. Two dentists that meet the requirements of G.S. 90-22(b1)(1).
+6 b. One dental hygienist who meets the requirements of
+7 G.S. 90-22(b1)(2).
+8 c. One public consumer member who meets the requirements of
+9 G.S. 90-22(b1)(3).
+10 (2) Four members shall be appointed by the General Assembly as follows:
+11 a. Two dentists that meet the requirements of G.S. 90-22(b1)(1) by
+12 recommendation of the Speaker of the House of Representatives.
+13 b. Two dentists that meet the requirements of G.S. 90-22(b1)(1) by
+14 recommendation of the President Pro Tempore of the Senate.
+15 (3) Three members shall be appointed by the Commissioner of Labor as follows:
+16 a. One dental hygienist that meets the requirements of G.S. 90-22(b1)(2).
+17 b. Two public consumer members who meet the requirements of
+18 G.S. 90-22(b1)(3).
+19 (b) Vacancies; Removal. – A vacancy shall be filled in the same manner as the original
+20 appointment, except that all unexpired terms of Board members appointed by the General
+21 Assembly shall be filled in accordance with G.S. 120-122. Appointees to fill vacancies shall
+22 serve the remainder of the unexpired term and until their successors have been duly appointed
+23 and qualified, not to exceed 60 days. The appointing authority shall have the power to remove
+24 their respective Board member for neglect of duty, incompetence, or unprofessional conduct.
+25 (c) Compensation. – Each member of the Board shall receive per diem and
+26 reimbursement for travel and subsistence as provided in G.S. 93B-5.
+27 (d) Officers. – The officers of the Board shall be a chair, who shall be a licensed dentist,
+28 a vice-chair, and other officers deemed necessary by the Board to carry out the purposes of this
+29 Article. All officers shall be elected annually by the Board for one-year terms and shall serve
+30 until their successors are elected and qualified."
+31 SECTION 1.(f) G.S. 90-43 reads as rewritten:
+32 "§ 90-43. Compensation and expenses Expenses of Board.
+33 Notwithstanding G.S. 93B-5(a), each member of the North Carolina State Board of Dental
+34 Examiners shall receive as compensation for his services in the performance of his duties under
+35 this Article a sum not exceeding one hundred dollars ($100.00) for each day actually engaged in
+36 the performance of the duties of his office, said per diem to be fixed by said Board, and all
+37 legitimate and necessary expenses incurred in attending meetings of the said Board.
+38 The Board is authorized and empowered to expend from funds collected hereunder such
+39 additional sum or sums as it may determine necessary in the administration and enforcement of
+40 this Article, and employ such personnel as it may deem requisite to assist in carrying out the
+41 administrative functions required by this Article and by the Board."
+42 SECTION 2. Transition of Board Members. – Notwithstanding G.S. 90-22, as
+43 amended by this act, and G.S. 90-22A, as enacted by this act, the current members of the North
+44 Carolina Board of Dental Examiners (Board) shall each finish their current respective terms on
+45 the Board. Prior to the expiration or termination of each member's current term, the new member
+46 for that seat shall be appointed pursuant to G.S. 90-22 and G.S. 90-22A, as set forth in this act.
+47 The newly created seats for one dental hygienist member and two public consumer members
+48 shall be filled within 30 days of this act becoming law as described below.
+49 The licensed dentist seats that become eligible for appointment after this act becomes
+50 law shall be appointed for three-year terms in the following order:
+House Bill 1033-Second Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (1) The first two seats: the Governor shall appoint two licensed dentists in
+2 accordance with G.S. 90-22A(a)(1).
+3 (2) The third and fifth seats: the Speaker of the House of Representatives shall
+4 appoint two licensed dentists in accordance with G.S. 90-22A(a)(2)a.
+5 (3) The fourth and sixth seats: the President Pro Tempore of the Senate shall
+6 appoint two licensed dentists in accordance with G.S. 90-22A(a)(2)b.
+7 The licensed dental hygienist seats that become eligible for appointment after this act
+8 becomes law shall be appointed in the following manner:
+9 (4) A member for the newly created seat for a dental hygienist shall be appointed
+10 by the Commissioner of Labor in accordance with G.S. 90-22A(a)(3)a.
+11 (5) A member for the seat created by the expiration of the term of the current
+12 dental hygienist member shall be appointed by the Governor in accordance
+13 with G.S. 90-22A(a)(1)b.
+14 The public consumer member seats that become eligible for appointment after this act
+15 becomes law shall be appointed for three-year terms in the following order:
+16 (6) Members for the two newly created seats for public consumer members shall
+17 be appointed by the Commissioner of Labor in accordance with
+18 G.S. 90-22A(a)(3)b.
+19 (7) A member for the seat created by the expiration of the term of the current
+20 public consumer member shall be appointed by the Governor in accordance
+21 with G.S. 90-22A(a)(1)c.
+22 SECTION 3. The North Carolina Board of Dental Examiners shall adopt temporary
+23 rules to implement the provisions of Sections 1 and 2 of this act and shall adopt permanent rules
+24 to replace the temporary rules. Those temporary rules shall remain in effect until permanent rules
+25 that replace those rules become effective.
+26 SECTION 4.(a) G.S. 93B-5(g) reads as rewritten:
+27 "(g) Within six months of a board member's initial appointment to the board, and at least
+28 once within every two calendar years thereafter, a board member shall receive training, either
+29 from the board's staff, including its legal advisor, or from an outside educational institution such
+30 as the School of Government of the University of North Carolina, on the statutes governing the
+31 board and rules adopted by the board, as well as the following State and federal laws, in order to
+32 better understand the obligations and limitations of a State agency:
+33 (1) Chapter 150B, The Administrative Procedure Act.
+34 (2) Chapter 132, The Public Records Law.
+35 (3) Article 33C of Chapter 143, The Open Meetings Act.
+36 (4) Articles 31 and 31A of Chapter 143, The State Tort Claims Act and The
+37 Defense of State Employees Law.
+38 (5) Chapter 138A, The State Government Ethics Act.
+39 (6) Chapter 120C, Lobbying.
+40 (7) Antitrust law and State action immunity.
+41 Completion of the training requirements contained in Chapter 138A and Chapter 120C of the
+42 General Statutes satisfies the requirements of subdivisions (5) and (6) of this subsection."
+43 SECTION 4.(b) Chapter 93B of the General Statutes is amended by adding six new
+44 sections to read:
+45 "§ 93B-17. Occupational licensing board rulemaking.
+46 (a) Each occupational licensing board shall adopt rules for the receipt and resolution of
+47 complaints, for taking disciplinary or enforcement actions against its licensees, and for taking
+48 enforcement actions against persons not licensed by the board.
+49 (b) Any interpretation, clarification, or other delineation of the scope of practice of an
+50 occupational licensing board shall be adopted as a rule.
+51 "§ 93B-18. Unlicensed activity.
+Page 4 House Bill 1033-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (a) An occupational licensing board shall have the authority to investigate unlicensed
+2 activity and notify unlicensed persons and entities of the possible violation of the law and
+3 administrative rules and any civil action or criminal penalty that may be imposed by a court. The
+4 notification shall not indicate that the occupational licensing board has made any finding of a
+5 violation but may indicate the board's belief or opinion that a particular act may violate the
+6 board's enabling statutes, include factual information regarding legislation and court proceedings
+7 concerning the potential violation, and provide notice of the board's intention to pursue
+8 administrative remedies or court proceedings with regard to the potential violation.
+9 (b) Any occupational licensing board providing notification to unlicensed persons and
+10 entities of a possible violation of the law and administrative rules and any civil action or criminal
+11 penalty that may be imposed by a court shall include the following statement in the notification:
+12
+13 You are hereby notified that the opinion expressed herein is not a legal
+14 determination. An occupational licensing board does not have the authority to
+15 order you to discontinue your current practices. Only a court may determine that
+16 you have violated or are violating any law and, if appropriate, impose a remedy
+17 or penalty for the violation. Further, pursuant to G.S. 150B-4, you may have the
+18 right, prior to initiation of any court action by the occupational licensing board,
+19 to request a declaratory ruling regarding whether your particular conduct is
+20 lawful. You are further notified that any right to a declaratory ruling supplements
+21 any other legal rights that you may already have to establish the legality of your
+22 conduct with respect to the goods or services you offer or provide.
+23
+24 "§ 93B-19. Venue for court enforcement.
+25 Notwithstanding any other provision of law, the venue for occupational licensing boards
+26 seeking court orders for injunctive relief or to show cause for failure to comply with a subpoena
+27 lawfully issued by the occupational licensing board shall be in the superior court of the county
+28 where the defendant resides or in the county where the occupational licensing board has its
+29 principal place of business.
+30 "§ 93B-20. Injunctive relief.
+31 An occupational licensing board may appear in its own name in superior court in actions for
+32 injunctive relief to restrain the violation of the provisions of a statute administered by the board
+33 or a rule or order of the board. The superior court shall have the jurisdiction to grant these
+34 injunctions, restraining orders, or take other appropriate action even if criminal prosecution has
+35 been or may be instituted as a result of the violations, or whether the person is a licensee of the
+36 board. No board shall issue such orders independently of the superior court unless specifically
+37 authorized to do so by law.
+38 "§ 93B-21. Jurisdictional disputes between boards.
+39 It is the policy of the State that jurisdictional disputes among occupational licensing boards
+40 shall be resolved through informal procedures. If a jurisdictional dispute among occupational
+41 licensing boards cannot be resolved through informal procedures, any affected board may
+42 commence an administrative proceeding to resolve the jurisdictional dispute by filing a petition
+43 with the Office of Administrative Hearings and serve the petition on all affected boards. Once
+44 the petition is filed and the required fee is paid, the dispute shall become a contested case and
+45 shall be conducted by the Office of Administrative Hearings under Articles 3 and 4 of Chapter
+46 150B of the General Statutes.
+47 "§ 93B-22. Complaint process.
+48 Each occupational licensing board shall develop and implement a complaint process that
+49 provides for all of the following:
+50 (1) A description of the complaint process on the board's website, including the
+51 types of violations that are under the jurisdictional authority of the board.
+House Bill 1033-Second Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (2) Electronic complaint submission via the board's website, including a
+2 prominently displayed link to a complaint form.
+3 (3) The ability to provide complainants with a written description of the final
+4 disposition of each complaint."
+5 SECTION 5. Section 4(a) of this act becomes effective October 1, 2026. Section
+6 4(b) of this act becomes effective October 1, 2026, and applies to actions arising on or after that
+7 date. The remainder of this act is effective when it becomes law.
+Page 6 House Bill 1033-Second Edition
+
+[DELETED:  2 D (   A A A T M C T T N C B O D E B O D E V F T C A R O T S " B v S " P C s m o N S " C – T N C S B o D E h p h S r p ( B m ( S d w a l t p d i N C o C S ( T h t p o d i t S f a l f y i p ( T o]
+[DELETED:  S  H a N b l t p n d n d d h b D c N d N l e I b f D n u o r a s a o t g s o m f t B o t c o r o g N t h I ( L m i i r o r o t a l t p d i t S o N C w S ( M e d T y y t m h f f a d v p y b c f n f n a i o p C t S ( S a]
+[DELETED:  S  P " ( A a ( F a T b O d h w m t r o G c O p c m w m t r o G ( F a T d t m t r o G b r b T d t m t r o G b r ( T a O b T p c m w m t r o G ( V a e t a u t o B m a b t G A s a t ( C – E m o t B s r p d a r ( O a A u S " N E t t l T a t a S 2  T o B M – N G a a C t f T s T l]
+[DELETED:  S  H ( T f t s t G s a t l d i a ( T a ( T a T b ( A b ( A d w T b ( M b a b t C o L i a w G ( A p w S r t t S " W o f a b b ( C ( C ( A ( A D ( C ( C ( A C G S s " ( E c e ( A o "]
+[DELETED:  S  P ( A a a n u p a e o t p v o t l a a n v b c t p v a p n o t b i t p a ( A e p  Y a h n t t o e h i n a l d o y o r t r a d r r w y p c i l a c  " N s l w p " A i o i b b a " I s l b c b r t i p a a b m c w t s 1 " E p ( A t]
+[DELETED:  S  H ( E c s v t b w i a p ( T d S 4 d]

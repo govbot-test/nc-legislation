@@ -1,0 +1,305 @@
+Title: SENATE BILL DRS45551-NPa-45
+Official Title: SENATE BILL DRS45551-NPa-45
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Apr 30, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 1046
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: A.I. in Environmental Permitting. (Public)
+Sponsors: Senator Jarvis (Primary Sponsor).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROMOTE THE USE OF ARTIFICIAL INTELLIGENCE AS A
+3 DECISION-SUPPORT TOOL IN THE REVIEW AND DRAFTING OF
+4 ENVIRONMENTAL PERMITS.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Legislative Findings. – The General Assembly makes the following
+7 findings:
+8 (1) Environmental permitting by the Department of Environmental Quality is a
+9 critical function of State government that protects public health, the
+10 environment, and the economy of North Carolina.
+11 (2) Advances in artificial intelligence, including large language model systems
+12 and retrieval-augmented generation tools, offer significant potential to assist
+13 agency staff in the drafting and review of environmental permits by
+14 accelerating routine tasks, improving consistency, and reducing processing
+15 times.
+16 (3) The use of artificial intelligence as a permit drafting and permit review tool,
+17 subject to independent human review and decision-making by agency staff
+18 exercising professional judgement, is consistent with the principles of
+19 government efficiency.
+20 (4) A joint initiative between the Environmental Management Commission and
+21 the Department of Environmental Quality to use artificial intelligence tools
+22 for environmental permitting will benefit permit applicants, regulated entities,
+23 State employees, and the general public.
+24 SECTION 2. Joint Program. – Article 7 of Chapter 143B of the General Statutes is
+25 amended by adding a new section to read:
+26 "§ 143B-279.22. Artificial Intelligence in Environmental Permitting.
+27 (a) Definitions. – The following definitions apply in this section:
+28 (1) Artificial intelligence or A.I. – A machine-based system that processes inputs
+29 and generates outputs, such as texts, recommendations, comparisons,
+30 summaries, and predictions. Artificial intelligence includes large language
+31 models, natural language processing tools, and retrieval-augmented
+32 generation systems.
+33 (2) Commission. – The Environmental Management Commission.
+34 (3) Department. – The Department of Environmental Quality.
+35 (4) Environmental permit. – Any permit, certificate, approval, or authorization
+36 issued by the Commission or the Department under this Article, Article 4 of
+*DRS45551-NPa-45*
+General Assembly Of North Carolina Session 2025
+1 Chapter 113A, Articles 9 or 10 of Chapter 130A, or Articles 21, 21A, or 21B
+2 of Chapter 143 of the General Statutes, or the rules adopted thereunder.
+3 (b) Joint A.I. Environmental Permitting Program; Established. – The Commission and
+4 the Department shall jointly establish a program to implement the use of artificial intelligence to
+5 assist agency staff in the drafting and review of applications for environmental permits.
+6 (c) Rulemaking. – The Commission may adopt rules to establish standards and
+7 procedures for the use of artificial intelligence systems by agency staff of the Department of
+8 Environmental Quality to review and analyze permit applications and to draft environmental
+9 permits. Rules adopted by the Commission pursuant to this section are not subject to
+10 G.S. 150B-19.4 or G.S. 150B-21.3(b3), and may do the following:
+11 (1) Define the permissible uses of artificial intelligence in the permitting process.
+12 (2) Establish quality assurance and control requirements for permits drafted with
+13 the assistance of artificial intelligence.
+14 (3) Adopt training requirements for agency staff who use artificial intelligence to
+15 review applications for environmental permits.
+16 (4) Establish confidentiality, cybersecurity, and data protection requirements for
+17 information processed, transmitted, stored, or generated through artificial
+18 intelligence systems, including requirements to protect confidential business
+19 information, trade secrets, security-sensitive infrastructure information, and
+20 other information protected from disclosure under State or federal law.
+21 (5) Prohibit the use of artificial intelligence systems that use applicant
+22 information, permit application materials, or agency records to train a
+23 vendor-owned or third-party artificial intelligence model unless expressly
+24 authorized by the Department under standards approved by the State Chief
+25 Information Officer.
+26 (6) Establish protocols for monitoring and discontinuing the use of artificial
+27 intelligence based on the performance and accuracy of artificial intelligence
+28 systems.
+29 (d) Agency Staff Review; Decision-making. – No environmental permit application shall
+30 be approved, denied, delayed, conditioned, or otherwise acted upon solely on the basis of
+31 artificial intelligence output. Relevant agency staff shall independently review, evaluate, and, as
+32 appropriate, modify any analysis, recommendation, draft permit, draft permit condition,
+33 deficiency letter, or other work product prepared with the assistance of artificial intelligence.
+34 (e) Transparency. – The Department shall maintain and make publicly available
+35 documents describing the artificial intelligence systems used by agency staff and the functions
+36 performed by those artificial intelligence systems in the environmental permitting process. The
+37 Department shall inform an applicant for an environmental permit to the fact that artificial
+38 intelligence was used by agency staff to assist in reviewing the permit application or to assist in
+39 drafting the permit.
+40 (f) Federal and State Law Compliance. – The Commission and the Department shall
+41 implement the program established in this section only to the extent consistent with State law,
+42 federal law, and federal delegation agreements, federally approved State programs, and all
+43 applicable public notice, public comment, hearing, administrative review, and judicial review
+44 requirements. Nothing in this section shall be construed to alter the substantive standards
+45 applicable to the issuance, denial, modification, or revocation of an environmental permit.
+46 (g) Reporting. – No later than January 15 each year, the Department shall submit a report
+47 to the Environmental Review Commission, the Joint Legislative Oversight Committee on
+48 Agriculture and Natural and Economic Resources, and the Fiscal Research Division. The report
+49 shall contain the following information from the previous year:
+50 (1) The number and type of permits for which artificial intelligence was used.
+51 (2) A performance assessment for each type of artificial intelligence system used.
+Page 2 DRS45551-NPa-45
+General Assembly Of North Carolina Session 2025
+1 (3) A comparison of the average permit processing timeframes for agency staff
+2 using artificial intelligence relative to agency staff not using artificial
+3 intelligence.
+4 (4) A report on each incident in which agency staff have identified artificial
+5 intelligence system errors, and the corrective actions taken in response to these
+6 incidents.
+7 (5) Any recommendations as to whether to continue, expand, modify, or
+8 discontinue the use of artificial intelligence systems in the environmental
+9 permitting process."
+10 SECTION 3. Program Implementation. – The Commission and the Department shall
+11 implement the Joint A.I. Environmental Permitting Program (Program) established in
+12 G.S. 143B-279.22, as enacted by Section 2 of this act, in the following sequence, with each phase
+13 to be initiated only upon the Commission having determined that the applicable rules, quality
+14 assurance requirements, and staff training are sufficiently in place:
+15 (1) Phase I. – Post-construction stormwater permits issued under Article 21 of
+16 Chapter 143 of the General Statutes.
+17 (2) Phase II. – Major and minor new source review air permits issued under
+18 Article 21B of Chapter 143 of the General Statutes.
+19 (3) Phase III. – Erosion and sedimentation control permits issued under Article 4
+20 of Chapter 113A of the General Statutes.
+21 (4) Phase IV. – Any other environmental permit to be determined by the
+22 Commission following the Program's extension through the first three
+23 implementation phases as provided in this section.
+24 SECTION 4. Staffing Flexibility. – Funds appropriated in this section may be used
+25 by the Director of the Commission's staff to hire temporary employees with demonstrated
+26 expertise in artificial intelligence technologies to provide technical guidance and assistance in
+27 implementing A.I. tools for purposes of improving the efficiency and quality of environmental
+28 permit processing under this act. Notwithstanding any other provision of law to the contrary,
+29 temporary employment or engagement under this section shall be funded from appropriations
+30 made available under this act and shall not be subject to the position classification or salary
+31 schedule requirements of Chapter 126 of the General Statutes.
+32 SECTION 5. Appropriation. – There is appropriated from the General Fund to the
+33 Department of Environmental Quality the sum of one million dollars ($1,000,000) in
+34 nonrecurring funds for the 2026-2027 fiscal year to be used for purposes of implementing the
+35 Joint A.I. Environmental Permitting Program established in G.S. 143B-279.22, as enacted by
+36 Section 2 of this act. Funds appropriated under this section shall not revert at the end of the
+37 2026-2027 fiscal year but shall remain available until expended.
+38 SECTION 6. Effective Date. – This act becomes effective July 1, 2026.
+DRS45551-NPa-45 Page 3
+[DELETED:  D A ( S  A T P T U O A I A A T I T R A D O E f o S g t p p h t A s i t d a r o e p b T p j i c w t p o A D A g o s a t r c a p A i i l l n l p t a r C D E]
+[DELETED:  S  D J R – T C m a r t e s a R a b t C p t t s a n s t D E A E p t s o g t a P t u o a i s t u a p a m o a r t t a o t a i m u e E p f m a d t u o a A a d d c o o a u s o t b o m a a r d p d p c T – T D s m a m p a s i a a f a e p t t f t a F l a f d a f a S p a a N i t s s b c t a t s s R t E R C t J L O C o T A]
+[DELETED:  S  P A a i r t a s n u a A r o e i i w a s h i a A r a t w t c e m o t u o a i s i t e t J A E P P ( e i P P I – M m s r a p i u P P I – A o e p t b d b t f t P e t t f t t D o t C s t h t e w d o E Q t s o o m d ( i]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Apr 30, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 1046
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS45551-NPa-45
+Short Title: A.I. in Environmental Permitting. (Public)
+Sponsors: Senator Jarvis (Primary Sponsor).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROMOTE THE USE OF ARTIFICIAL INTELLIGENCE AS A
+3 DECISION-SUPPORT TOOL IN THE REVIEW AND DRAFTING OF
+4 ENVIRONMENTAL PERMITS.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Legislative Findings. – The General Assembly makes the following
+7 findings:
+8 (1) Environmental permitting by the Department of Environmental Quality is a
+9 critical function of State government that protects public health, the
+10 environment, and the economy of North Carolina.
+11 (2) Advances in artificial intelligence, including large language model systems
+12 and retrieval-augmented generation tools, offer significant potential to assist
+13 agency staff in the drafting and review of environmental permits by
+14 accelerating routine tasks, improving consistency, and reducing processing
+15 times.
+16 (3) The use of artificial intelligence as a permit drafting and permit review tool,
+17 subject to independent human review and decision-making by agency staff
+18 exercising professional judgement, is consistent with the principles of
+19 government efficiency.
+20 (4) A joint initiative between the Environmental Management Commission and
+21 the Department of Environmental Quality to use artificial intelligence tools
+22 for environmental permitting will benefit permit applicants, regulated entities,
+23 State employees, and the general public.
+24 SECTION 2. Joint Program. – Article 7 of Chapter 143B of the General Statutes is
+25 amended by adding a new section to read:
+26 "§ 143B-279.22. Artificial Intelligence in Environmental Permitting.
+27 (a) Definitions. – The following definitions apply in this section:
+28 (1) Artificial intelligence or A.I. – A machine-based system that processes inputs
+29 and generates outputs, such as texts, recommendations, comparisons,
+30 summaries, and predictions. Artificial intelligence includes large language
+31 models, natural language processing tools, and retrieval-augmented
+32 generation systems.
+33 (2) Commission. – The Environmental Management Commission.
+34 (3) Department. – The Department of Environmental Quality.
+35 (4) Environmental permit. – Any permit, certificate, approval, or authorization
+36 issued by the Commission or the Department under this Article, Article 4 of
+*DRS45551-NPa-45*
+
+General Assembly Of North Carolina Session 2025
+1 Chapter 113A, Articles 9 or 10 of Chapter 130A, or Articles 21, 21A, or 21B
+2 of Chapter 143 of the General Statutes, or the rules adopted thereunder.
+3 (b) Joint A.I. Environmental Permitting Program; Established. – The Commission and
+4 the Department shall jointly establish a program to implement the use of artificial intelligence to
+5 assist agency staff in the drafting and review of applications for environmental permits.
+6 (c) Rulemaking. – The Commission may adopt rules to establish standards and
+7 procedures for the use of artificial intelligence systems by agency staff of the Department of
+8 Environmental Quality to review and analyze permit applications and to draft environmental
+9 permits. Rules adopted by the Commission pursuant to this section are not subject to
+10 G.S. 150B-19.4 or G.S. 150B-21.3(b3), and may do the following:
+11 (1) Define the permissible uses of artificial intelligence in the permitting process.
+12 (2) Establish quality assurance and control requirements for permits drafted with
+13 the assistance of artificial intelligence.
+14 (3) Adopt training requirements for agency staff who use artificial intelligence to
+15 review applications for environmental permits.
+16 (4) Establish confidentiality, cybersecurity, and data protection requirements for
+17 information processed, transmitted, stored, or generated through artificial
+18 intelligence systems, including requirements to protect confidential business
+19 information, trade secrets, security-sensitive infrastructure information, and
+20 other information protected from disclosure under State or federal law.
+21 (5) Prohibit the use of artificial intelligence systems that use applicant
+22 information, permit application materials, or agency records to train a
+23 vendor-owned or third-party artificial intelligence model unless expressly
+24 authorized by the Department under standards approved by the State Chief
+25 Information Officer.
+26 (6) Establish protocols for monitoring and discontinuing the use of artificial
+27 intelligence based on the performance and accuracy of artificial intelligence
+28 systems.
+29 (d) Agency Staff Review; Decision-making. – No environmental permit application shall
+30 be approved, denied, delayed, conditioned, or otherwise acted upon solely on the basis of
+31 artificial intelligence output. Relevant agency staff shall independently review, evaluate, and, as
+32 appropriate, modify any analysis, recommendation, draft permit, draft permit condition,
+33 deficiency letter, or other work product prepared with the assistance of artificial intelligence.
+34 (e) Transparency. – The Department shall maintain and make publicly available
+35 documents describing the artificial intelligence systems used by agency staff and the functions
+36 performed by those artificial intelligence systems in the environmental permitting process. The
+37 Department shall inform an applicant for an environmental permit to the fact that artificial
+38 intelligence was used by agency staff to assist in reviewing the permit application or to assist in
+39 drafting the permit.
+40 (f) Federal and State Law Compliance. – The Commission and the Department shall
+41 implement the program established in this section only to the extent consistent with State law,
+42 federal law, and federal delegation agreements, federally approved State programs, and all
+43 applicable public notice, public comment, hearing, administrative review, and judicial review
+44 requirements. Nothing in this section shall be construed to alter the substantive standards
+45 applicable to the issuance, denial, modification, or revocation of an environmental permit.
+46 (g) Reporting. – No later than January 15 each year, the Department shall submit a report
+47 to the Environmental Review Commission, the Joint Legislative Oversight Committee on
+48 Agriculture and Natural and Economic Resources, and the Fiscal Research Division. The report
+49 shall contain the following information from the previous year:
+50 (1) The number and type of permits for which artificial intelligence was used.
+51 (2) A performance assessment for each type of artificial intelligence system used.
+Page 2 DRS45551-NPa-45
+
+General Assembly Of North Carolina Session 2025
+1 (3) A comparison of the average permit processing timeframes for agency staff
+2 using artificial intelligence relative to agency staff not using artificial
+3 intelligence.
+4 (4) A report on each incident in which agency staff have identified artificial
+5 intelligence system errors, and the corrective actions taken in response to these
+6 incidents.
+7 (5) Any recommendations as to whether to continue, expand, modify, or
+8 discontinue the use of artificial intelligence systems in the environmental
+9 permitting process."
+10 SECTION 3. Program Implementation. – The Commission and the Department shall
+11 implement the Joint A.I. Environmental Permitting Program (Program) established in
+12 G.S. 143B-279.22, as enacted by Section 2 of this act, in the following sequence, with each phase
+13 to be initiated only upon the Commission having determined that the applicable rules, quality
+14 assurance requirements, and staff training are sufficiently in place:
+15 (1) Phase I. – Post-construction stormwater permits issued under Article 21 of
+16 Chapter 143 of the General Statutes.
+17 (2) Phase II. – Major and minor new source review air permits issued under
+18 Article 21B of Chapter 143 of the General Statutes.
+19 (3) Phase III. – Erosion and sedimentation control permits issued under Article 4
+20 of Chapter 113A of the General Statutes.
+21 (4) Phase IV. – Any other environmental permit to be determined by the
+22 Commission following the Program's extension through the first three
+23 implementation phases as provided in this section.
+24 SECTION 4. Staffing Flexibility. – Funds appropriated in this section may be used
+25 by the Director of the Commission's staff to hire temporary employees with demonstrated
+26 expertise in artificial intelligence technologies to provide technical guidance and assistance in
+27 implementing A.I. tools for purposes of improving the efficiency and quality of environmental
+28 permit processing under this act. Notwithstanding any other provision of law to the contrary,
+29 temporary employment or engagement under this section shall be funded from appropriations
+30 made available under this act and shall not be subject to the position classification or salary
+31 schedule requirements of Chapter 126 of the General Statutes.
+32 SECTION 5. Appropriation. – There is appropriated from the General Fund to the
+33 Department of Environmental Quality the sum of one million dollars ($1,000,000) in
+34 nonrecurring funds for the 2026-2027 fiscal year to be used for purposes of implementing the
+35 Joint A.I. Environmental Permitting Program established in G.S. 143B-279.22, as enacted by
+36 Section 2 of this act. Funds appropriated under this section shall not revert at the end of the
+37 2026-2027 fiscal year but shall remain available until expended.
+38 SECTION 6. Effective Date. – This act becomes effective July 1, 2026.
+DRS45551-NPa-45 Page 3
+
+[DELETED:  D A ( S  A T P T U O A I A A T I T R A D O E f o S g t p p h t A s i t d a r o e p b T p j i c w t p o A D A g o s a t r c a p A i i l l n l p t a r C D E]
+[DELETED:  S  D J R – T C m a r t e s a R a b t C p t t s a n s t D E A E p t s o g t a P t u o a i s t u a p a m o a r t t a o t a i m u e E p f m a d t u o a A a d d c o o a u s o t b o m a a r d p d p c T – T D s m a m p a s i a a f a e p t t f t a F l a f d a f a S p a a N i t s s b c t a t s s R t E R C t J L O C o T A]
+[DELETED:  S  P A a i r t a s n u a A r o e i i w a s h i a A r a t w t c e m o t u o a i s i t e t J A E P P ( e i P P I – M m s r a p i u P P I – A o e p t b d b t f t P e t t f t t D o t C s t h t e w d o E Q t s o o m d ( i]

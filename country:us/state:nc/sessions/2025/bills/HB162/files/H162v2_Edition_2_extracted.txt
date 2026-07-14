@@ -1,0 +1,261 @@
+Title: HOUSE BILL 162
+Official Title: HOUSE BILL 162
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+Senate Agriculture, Energy, and Environment Committee Substitute Adopted 6/17/26
+Short Title: Parking Lot Reform/Stormwater Control. (Public)
+Sponsors:
+Referred to:
+February 24, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO RESTRICT LOCAL GOVERNMENTS FROM REGULATING CERTAIN
+3 ASPECTS OF OFF-STREET PARKING SPACES AND TO MODIFY THE AUTHORITY
+4 OF CERTAIN LOCAL GOVERNMENTS TO REQUIRE STORMWATER CONTROL
+5 FOR REDEVELOPED PROPERTY.
+6 The General Assembly of North Carolina enacts:
+7
+8 PART I. PROHIBITING CERTAIN ZONING AND DEVELOPMENT LIMITATIONS
+9 RELATED TO OFF-STREET PARKING
+10 SECTION 1.(a) G.S. 160D-702 reads as rewritten:
+11 "§ 160D-702. Grant of power.
+12 …
+13 (c) A zoning or other development regulation shall not do any of the following:
+14 (1) Set a minimum square footage of any structures subject to regulation under
+15 the North Carolina Residential Code.
+16 (2) Require a an off-street parking space to be larger than 9 feet wide by 20 feet
+17 long unless the parking space is designated for handicap, parallel, or diagonal
+18 parking.
+19 (2a) Require an off-street parking lot to meet a minimum number of parking spaces
+20 per development or structure, regardless of occupancy or use. The limitations
+21 of this subdivision shall not, however, apply to local governments located in
+22 the coastal area, as those terms are defined under G.S. 113A-103, except with
+23 respect to the following properties located in the coastal area:
+24 a. Within the boundaries of a National Register Historic District or a
+25 local historic district.
+26 b. That are either (i) individually listed in the National Register of
+27 Historic Places or (ii) individually designated as a local historic
+28 landmark.
+29 c. Properties located within a district on the Study List for the National
+30 Register of Historic Places as maintained by the North Carolina State
+31 Historic Preservation Office or a national or State historic landmark.
+32 (3) Require additional fire apparatus access roads into developments of one- or
+33 two-family dwellings that are not in compliance with the required number of
+34 fire apparatus access roads into developments of one- or two-family dwellings
+35 set forth in the Fire Code of the North Carolina Residential Code for One- and
+36 Two-Family Dwellings.
+*H162-v-2*
+General Assembly Of North Carolina Session 2025
+1 (4) Establish or require pavement design standards for public roads or private
+2 roads that are more stringent than the minimum pavement design standards
+3 adopted by the Department of Transportation.
+4 …."
+5 SECTION 1.(b) This section becomes effective July 1, 2026.
+6
+7 PART II. MODIFY THE AUTHORITY OF CERTAIN LOCAL GOVERNMENTS TO
+8 REQUIRE STORMWATER CONTROL FOR REDEVELOPED PROPERTY
+9 SECTION 2.(a) G.S. 143-214.7 reads as rewritten:
+10 "§ 143-214.7. Stormwater runoff rules and programs.
+11 …
+12 (a1) Definitions. – The following definitions apply in this section:
+13 (1) Built-upon area. – As defined in G.S. 143-214.7D.
+14 (2) Development. – Any land-disturbing activity that increases the amount of
+15 built-upon area or that otherwise decreases the infiltration of precipitation into
+16 the subsoil. When additional development occurs at a site that has existing
+17 development, the built-upon area of the existing development shall not be
+18 included in the density calculations for additional stormwater control
+19 requirements, and stormwater control requirements cannot be applied
+20 retroactively to existing development, unless otherwise required by federal
+21 law.
+22 (2)(3) Redevelopment. – Any land-disturbing activity that does not result in a net
+23 increase in built-upon area and that provides greater or equal stormwater
+24 control to that of the previous development.
+25 …
+26 (b3) Stormwater runoff rules and programs shall not require private property owners to
+27 install new or increased stormwater controls for (i) preexisting development existing built-upon
+28 area or (ii) redevelopment activities that do not remove or decrease existing stormwater controls.
+29 When a preexisting development is redeveloped, either in whole or in part, increased stormwater
+30 controls shall only be required for the amount of impervious surface being created that exceeds
+31 the amount of impervious surface that existed before the redevelopment, irrespective of whether
+32 the impervious surface that existed before the redevelopment is to be demolished or relocated
+33 during the development activity. When development or redevelopment occurs at a site that has
+34 existing built-upon area, (i) the existing built-upon area shall not be included in the density
+35 calculations for additional stormwater control requirements, irrespective of whether the existing
+36 built-upon area is to be demolished, relocated, replaced, or remains in place during development
+37 activity, (ii) the existing built-upon area at the site is not subject to additional stormwater control
+38 requirements under this section, regardless of whether the existing built-upon area is demolished,
+39 relocated, replaced, or remains in place during the development activity, (iii) for purposes of
+40 determining the size of the area for which stormwater control measures are required for a
+41 development or redevelopment, built-upon area that existed before the development or
+42 redevelopment shall be applied on a square-foot-for-square-foot basis to reduce the built-upon
+43 area for which stormwater control measures are required, and (iv) stormwater control
+44 requirements cannot be applied retroactively to existing built-upon area, unless otherwise
+45 required by federal law. A property owner may elect to treat the stormwater resulting from the
+46 net increase in built-upon area above the preexisting existing built-upon area at the development
+47 or redevelopment for the purpose of exceeding allowable density under the applicable water
+48 supply watershed rules as provided in G.S. 143-214.5(d3). This subsection applies to all local
+49 governments regardless of the source of their regulatory authority. Local governments shall
+50 include the requirements of this subsection in their stormwater ordinances.
+51 …
+Page 2 House Bill 162-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (b8) A local government may offer nonmandatory incentives that waive building, zoning,
+2 connection, or other regulations or fees; provide additional tax and financial benefits; or institute
+3 other incentives for development or redevelopment that implements additional stormwater
+4 control measures beyond those required by this section and rules adopted thereunder.
+5 …."
+6 SECTION 2.(b) Each local government that implements a stormwater management
+7 program shall amend its stormwater ordinance to conform to G.S. 143-214.7(b3), as amended by
+8 subsection (a) of this section, within 12 months of the effective date of this section. Any local
+9 stormwater ordinance that is inconsistent with G.S. 143-214.7(b3), as amended by subsection (a)
+10 of this section, is void and unenforceable on and after that date. A local government may adopt,
+11 amend, or repeal ordinance provisions implementing G.S. 143-214.7(b8) at any time after the
+12 effective date of this section.
+13 SECTION 2.(c) This section is effective when it becomes law and applies to
+14 stormwater rules and stormwater program amendments adopted on or after that date.
+15
+16 PART III. EFFECTIVE DATE
+17 SECTION 3. Except as otherwise provided, this act is effective when it becomes
+18 law.
+House Bill 162-Second Edition Page 3
+[DELETED:  2 P (   A A A T R L G F R C A O C L G T R S C F T  P R S " … ( A ( S t ( R l p ( R p o t r a W l b T a e ( i l i t N R o H P o ( i d a a l h l c P R H ( R t f s T]
+[DELETED:  S  H ( E r a … S  P R S " … ( D ( B ( D A a b t d i i t d c f a s c r a s c r c b a r l ( R i i b a a t p g o e s c … ( S i a W c t t d e c b a r r d t s o t a f w s c m a r f a d o r b a t e b t d o r a f w s c m a r a ( s c r c b a r t e b a u o r n o s g o a L i …]
+[DELETED:  S  P ( A c o i f d o r t i a s c … S p s s o a e S 2  T s i e w i b l a a t s  P S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 162
+Senate Agriculture, Energy, and Environment Committee Substitute Adopted 6/17/26
+Short Title: Parking Lot Reform/Stormwater Control. (Public)
+Sponsors:
+Referred to:
+February 24, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO RESTRICT LOCAL GOVERNMENTS FROM REGULATING CERTAIN
+3 ASPECTS OF OFF-STREET PARKING SPACES AND TO MODIFY THE AUTHORITY
+4 OF CERTAIN LOCAL GOVERNMENTS TO REQUIRE STORMWATER CONTROL
+5 FOR REDEVELOPED PROPERTY.
+6 The General Assembly of North Carolina enacts:
+7
+8 PART I. PROHIBITING CERTAIN ZONING AND DEVELOPMENT LIMITATIONS
+9 RELATED TO OFF-STREET PARKING
+10 SECTION 1.(a) G.S. 160D-702 reads as rewritten:
+11 "§ 160D-702. Grant of power.
+12 …
+13 (c) A zoning or other development regulation shall not do any of the following:
+14 (1) Set a minimum square footage of any structures subject to regulation under
+15 the North Carolina Residential Code.
+16 (2) Require a an off-street parking space to be larger than 9 feet wide by 20 feet
+17 long unless the parking space is designated for handicap, parallel, or diagonal
+18 parking.
+19 (2a) Require an off-street parking lot to meet a minimum number of parking spaces
+20 per development or structure, regardless of occupancy or use. The limitations
+21 of this subdivision shall not, however, apply to local governments located in
+22 the coastal area, as those terms are defined under G.S. 113A-103, except with
+23 respect to the following properties located in the coastal area:
+24 a. Within the boundaries of a National Register Historic District or a
+25 local historic district.
+26 b. That are either (i) individually listed in the National Register of
+27 Historic Places or (ii) individually designated as a local historic
+28 landmark.
+29 c. Properties located within a district on the Study List for the National
+30 Register of Historic Places as maintained by the North Carolina State
+31 Historic Preservation Office or a national or State historic landmark.
+32 (3) Require additional fire apparatus access roads into developments of one- or
+33 two-family dwellings that are not in compliance with the required number of
+34 fire apparatus access roads into developments of one- or two-family dwellings
+35 set forth in the Fire Code of the North Carolina Residential Code for One- and
+36 Two-Family Dwellings.
+*H162-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 (4) Establish or require pavement design standards for public roads or private
+2 roads that are more stringent than the minimum pavement design standards
+3 adopted by the Department of Transportation.
+4 …."
+5 SECTION 1.(b) This section becomes effective July 1, 2026.
+6
+7 PART II. MODIFY THE AUTHORITY OF CERTAIN LOCAL GOVERNMENTS TO
+8 REQUIRE STORMWATER CONTROL FOR REDEVELOPED PROPERTY
+9 SECTION 2.(a) G.S. 143-214.7 reads as rewritten:
+10 "§ 143-214.7. Stormwater runoff rules and programs.
+11 …
+12 (a1) Definitions. – The following definitions apply in this section:
+13 (1) Built-upon area. – As defined in G.S. 143-214.7D.
+14 (2) Development. – Any land-disturbing activity that increases the amount of
+15 built-upon area or that otherwise decreases the infiltration of precipitation into
+16 the subsoil. When additional development occurs at a site that has existing
+17 development, the built-upon area of the existing development shall not be
+18 included in the density calculations for additional stormwater control
+19 requirements, and stormwater control requirements cannot be applied
+20 retroactively to existing development, unless otherwise required by federal
+21 law.
+22 (2)(3) Redevelopment. – Any land-disturbing activity that does not result in a net
+23 increase in built-upon area and that provides greater or equal stormwater
+24 control to that of the previous development.
+25 …
+26 (b3) Stormwater runoff rules and programs shall not require private property owners to
+27 install new or increased stormwater controls for (i) preexisting development existing built-upon
+28 area or (ii) redevelopment activities that do not remove or decrease existing stormwater controls.
+29 When a preexisting development is redeveloped, either in whole or in part, increased stormwater
+30 controls shall only be required for the amount of impervious surface being created that exceeds
+31 the amount of impervious surface that existed before the redevelopment, irrespective of whether
+32 the impervious surface that existed before the redevelopment is to be demolished or relocated
+33 during the development activity. When development or redevelopment occurs at a site that has
+34 existing built-upon area, (i) the existing built-upon area shall not be included in the density
+35 calculations for additional stormwater control requirements, irrespective of whether the existing
+36 built-upon area is to be demolished, relocated, replaced, or remains in place during development
+37 activity, (ii) the existing built-upon area at the site is not subject to additional stormwater control
+38 requirements under this section, regardless of whether the existing built-upon area is demolished,
+39 relocated, replaced, or remains in place during the development activity, (iii) for purposes of
+40 determining the size of the area for which stormwater control measures are required for a
+41 development or redevelopment, built-upon area that existed before the development or
+42 redevelopment shall be applied on a square-foot-for-square-foot basis to reduce the built-upon
+43 area for which stormwater control measures are required, and (iv) stormwater control
+44 requirements cannot be applied retroactively to existing built-upon area, unless otherwise
+45 required by federal law. A property owner may elect to treat the stormwater resulting from the
+46 net increase in built-upon area above the preexisting existing built-upon area at the development
+47 or redevelopment for the purpose of exceeding allowable density under the applicable water
+48 supply watershed rules as provided in G.S. 143-214.5(d3). This subsection applies to all local
+49 governments regardless of the source of their regulatory authority. Local governments shall
+50 include the requirements of this subsection in their stormwater ordinances.
+51 …
+Page 2 House Bill 162-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (b8) A local government may offer nonmandatory incentives that waive building, zoning,
+2 connection, or other regulations or fees; provide additional tax and financial benefits; or institute
+3 other incentives for development or redevelopment that implements additional stormwater
+4 control measures beyond those required by this section and rules adopted thereunder.
+5 …."
+6 SECTION 2.(b) Each local government that implements a stormwater management
+7 program shall amend its stormwater ordinance to conform to G.S. 143-214.7(b3), as amended by
+8 subsection (a) of this section, within 12 months of the effective date of this section. Any local
+9 stormwater ordinance that is inconsistent with G.S. 143-214.7(b3), as amended by subsection (a)
+10 of this section, is void and unenforceable on and after that date. A local government may adopt,
+11 amend, or repeal ordinance provisions implementing G.S. 143-214.7(b8) at any time after the
+12 effective date of this section.
+13 SECTION 2.(c) This section is effective when it becomes law and applies to
+14 stormwater rules and stormwater program amendments adopted on or after that date.
+15
+16 PART III. EFFECTIVE DATE
+17 SECTION 3. Except as otherwise provided, this act is effective when it becomes
+18 law.
+House Bill 162-Second Edition Page 3
+
+[DELETED:  2 P (   A A A T R L G F R C A O C L G T R S C F T  P R S " … ( A ( S t ( R l p ( R p o t r a W l b T a e ( i l i t N R o H P o ( i d a a l h l c P R H ( R t f s T]
+[DELETED:  S  H ( E r a … S  P R S " … ( D ( B ( D A a b t d i i t d c f a s c r a s c r c b a r l ( R i i b a a t p g o e s c … ( S i a W c t t d e c b a r r d t s o t a f w s c m a r f a d o r b a t e b t d o r a f w s c m a r a ( s c r c b a r t e b a u o r n o s g o a L i …]
+[DELETED:  S  P ( A c o i f d o r t i a s c … S p s s o a e S 2  T s i e w i b l a a t s  P S l]

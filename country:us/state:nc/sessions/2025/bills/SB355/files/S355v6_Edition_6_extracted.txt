@@ -1,0 +1,826 @@
+Title: SENATE BILL 355
+Official Title: SENATE BILL 355
+Number of Sections: 1
+Source: versions - Edition 6
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 6
+Judiciary Committee Substitute Adopted 4/29/25
+Pensions and Retirement and Aging Committee Substitute Adopted 4/30/25
+House Committee Substitute Favorable 5/13/26
+House Committee Substitute #2 Favorable 6/9/26
+House Committee Substitute #3 Favorable 6/24/26
+Short Title: Support the Dept. of Adult Correction.-AB (Public)
+Sponsors:
+Referred to:
+March 24, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO SUPPORT THE WORK OF THE DEPARTMENT OF ADULT CORRECTION.
+3 The General Assembly of North Carolina enacts:
+4
+5 PART I. COMMUNITY SUPERVISION
+6
+7 WAIVE TUITION FOR SURVIVORS OF FALLEN PROBATION OFFICERS
+8 SECTION 1.1.(a) G.S. 115B-1 reads as rewritten:
+9 "§ 115B-1. Definitions.
+10 The following definitions apply in this Chapter:
+11 …
+12 (4) Permanently and totally disabled as a direct result of a traumatic injury
+13 sustained in the line of duty. – A person: (i) who as a law enforcement officer,
+14 correctional officer, probation officer, firefighter, volunteer firefighter, or
+15 rescue squad worker suffered a disabling injury while in active service or
+16 training for active service, (ii) who at the time of active service or training was
+17 a North Carolina resident, and (iii) who has been determined to be
+18 permanently and totally disabled for compensation purposes by the North
+19 Carolina Industrial Commission.
+20 (4c) Probation officer. – An employee of an employer who is certified as a
+21 probation officer under the provisions of Article 1 of Chapter 17C of the
+22 General Statutes.
+23 …
+24 (6) Survivor. – Any person whose parent, legal guardian, legal custodian, or
+25 spouse: (i) was a law enforcement officer, a correctional officer, a probation
+26 officer, a firefighter, a volunteer firefighter, or a rescue squad worker, (ii) was
+27 killed while in active service or training for active service or died as a result
+28 of a service-connected disability, and (iii) at the time of active service or
+29 training was a North Carolina resident. The term does not include the widow
+30 or widower of a law enforcement officer, correctional officer, probation
+31 officer, firefighter, volunteer firefighter, or a rescue squad worker if the
+32 widow or widower has remarried.
+*S355-v-6*
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 1.1.(b) G.S. 115B-2(a) reads as rewritten:
+3 "(a) The constituent institutions of The University of North Carolina and the community
+4 colleges as defined in G.S. 115D-2(2) shall permit the following persons to attend classes for
+5 credit or noncredit purposes without the required payment of tuition:
+6 …
+7 (2) Any person who is the survivor of a law enforcement officer, correctional
+8 officer, probation officer, firefighter, volunteer firefighter, or rescue squad
+9 worker killed as a direct result of a traumatic injury sustained in the line of
+10 duty.
+11 (3) The spouse of a law enforcement officer, correctional officer, probation
+12 officer, firefighter, volunteer firefighter, or rescue squad worker who is
+13 permanently and totally disabled as a direct result of a traumatic injury
+14 sustained in the line of duty.
+15 (4) Any child, if the child is at least 17 years old but not yet 24 years old, whose
+16 parent, legal guardian, or legal custodian is a law enforcement officer,
+17 correctional officer, probation officer, firefighter, volunteer firefighter, or
+18 rescue squad worker who is permanently and totally disabled as a direct result
+19 of a traumatic injury sustained in the line of duty. However, a child's eligibility
+20 for a waiver of tuition under this Chapter shall not exceed: (i) 54 months, if
+21 the child is seeking a baccalaureate degree, or (ii) if the child is not seeking a
+22 baccalaureate degree, the number of months required to complete the
+23 educational program to which the child is applying.
+24 …."
+25 SECTION 1.1.(c) G.S. 115B-5(b) reads as rewritten:
+26 "(b) The officials of the institutions charged with administration of this Chapter shall
+27 require the following proof to insure that a person applying to the institution and who requests a
+28 tuition waiver under G.S. 115B-2(a)(2), (3), or (4) is eligible for the benefits provided by this
+29 Chapter.
+30 …
+31 (3) The cause of death of the law enforcement officer, correctional officer,
+32 probation officer, firefighter, volunteer firefighter, or rescue squad worker
+33 shall be verified by certification from the records of the Department of State
+34 Treasurer, the appropriate city or county law enforcement agency that
+35 employed the deceased, the administrative agency for the fire department or
+36 fire protection district recognized for funding under the Department of State
+37 Auditor, or the administrative agency having jurisdiction over any paid
+38 firefighters of all counties and cities.
+39 …."
+40 SECTION 1.1.(d) This section is effective when it becomes law and applies to
+41 waivers of tuition granted on or after that date.
+42
+43 MODIFY TECHNICAL REQUIREMENTS FOR ELECTRONIC
+44 MONITORING/SATELLITE-BASED MONITORING
+45 SECTION 1.2.(a) G.S. 15A-101.1 reads as rewritten:
+46 "§ 15A-101.1. Electronic technology in criminal process and procedure.
+47 As used in this Chapter, in Chapter 7A of the General Statutes, in Chapter 15 of the General
+48 Statutes, and in all other provisions of the General Statutes that deal with criminal process or
+49 procedure:procedure, the following definitions shall apply:
+50 (1) "Attach" or "attached" means, when Attach or attached. – When referring to
+51 documents existing in paper form, physical attachment by staples, clips, or
+Page 2 Senate Bill 355-Sixth Edition
+General Assembly Of North Carolina Session 2025
+1 other mechanical means, or managed such that neither document is stored or
+2 delivered without the other. When referring to documents stored in electronic
+3 form, the term means either storage as a single digital file or storage in a
+4 manner that a user interface for access to the documents displays clearly the
+5 logical association between them, to the exclusion of other, unassociated
+6 documents displayed with them. When referring to documents delivered in
+7 electronic form, the term means documents delivered simultaneously and via
+8 the same mechanism or medium, including, but not limited to, any of the
+9 following: (i) delivery via a single email message, (ii) delivery on a single unit
+10 of removable electronic media, or (iii) delivery in immediate,
+11 contemporaneous sequence with one another from the same source to the same
+12 recipient. It is not necessary that the relationship between documents appear
+13 on the face of the documents in order to be deemed attached.
+14 (1a) "Copy" means all Copy. – All identical versions of a document created or
+15 existing in paper or electronic form, including the original and all other
+16 identical versions of the document. Except where otherwise expressly
+17 provided by law or when authority is vested only in a certified copy, a copy
+18 of a document is equally authoritative as the original.
+19 (2) "Document" means any Document. – Any pleading, criminal process,
+20 subpoena, complaint, motion, application, notice, affidavit, commission,
+21 waiver, consent, dismissal, order, judgment, or other writing intended in a
+22 criminal or contempt proceeding to authorize or require an action, to record a
+23 decision or to communicate or record information. A document may be
+24 created and exist in paper form or in electronic form or in both forms. Each
+25 document shall contain the legible, printed name of the person who signed the
+26 document.
+27 (3) "Electronic" means relating Electronic. – Relating to technology having
+28 electrical, digital, magnetic, wireless, optical, electromagnetic, Internet, or
+29 similar capabilities.
+30 (3a) "Electronic monitoring" or "electronically monitor" or "satellite-based
+31 monitoring" means monitoring Electronic monitoring or electronically
+32 monitor or satellite-based monitoring. – Monitoring with an electronic
+33 monitoring device that is not removed from a person's body, that is utilized by
+34 the supervising agency in conjunction with a Web-based computer system that
+35 actively monitors, identifies, tracks, and records a person's location at least
+36 once every minute 24 hours a day, that has a battery life of at least 48 hours
+37 without being recharged, that timely records and reports or records the
+38 person's presence near or within a crime scene or prohibited area or the
+39 person's departure from a specified geographic location, and that has
+40 incorporated into the software the ability to automatically compare crime
+41 scene data with locations of all persons being electronically monitored so as
+42 to provide any correlation daily or in real time. In areas of the State where lack
+43 of cellular coverage requires the use of an alternative device, the supervising
+44 agency shall use an alternative device that works in concert with the software
+45 and records location and tracking data for later download and crime scene
+46 comparison.
+47 (4) "Electronic Repository" means an Electronic repository. – An automated
+48 electronic repository for criminal process created and maintained pursuant to
+49 G.S. 15A-301.1.
+50 …
+Senate Bill 355-Sixth Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (6) "Entered" means signed Entered. – Signed and filed in the office of the clerk
+2 of superior court of the county in which the document is to be entered. A
+3 document may be entered in either paper form or electronic form.
+4 (7) "Filing" or "filed" means:Filing or filed. –
+5 …
+6 (8) "Issued" applies Issued. – Applies to documents in either paper form or
+7 electronic form. A document that is first created in paper form is issued when
+8 it is signed. A document that is first created in electronic form is issued when
+9 it is signed and filed in the office of the clerk of superior court of the county
+10 for which it is to be issued.
+11 (9) "Original" means:Original. –
+12 …
+13 (10) "Signature" means any Signature. – Any symbol, including, but not limited to,
+14 the name of an individual, which is executed by that individual, personally or
+15 through an authorized agent, with the intent to authenticate or to effect the
+16 issuance or entry of a document. A document may be signed by the use of any
+17 manual, mechanical mechanical, or electronic means that causes the
+18 individual's signature to appear in or on the document. Any party challenging
+19 the validity of a signature shall have the burden of pleading, producing
+20 evidence, and proving that the signature was not the act of the person whose
+21 signature it appears to be."
+22 SECTION 1.2.(b) This section is effective when it becomes law and applies to an
+23 electronic monitoring device used on or after that date.
+24
+25 MODIFICATION OF POST-RELEASE SUPERVISION REQUIREMENTS
+26 SECTION 1.3.(a) G.S. 143B-1491(d) reads as rewritten:
+27 "(d) The granting, denying, revoking, or rescinding of parole, the authorization of
+28 work-release privileges to a prisoner, or any other matters of business coming before the
+29 Commission for consideration and action shall be decided by majority vote of the full
+30 Commission, except that a three-member panel of the Commission may set the terms and
+31 conditions for a post-release supervisee under G.S. 15A-1368.4 and may decide questions of
+32 violations thereunder, violations, including the issuance of warrants. warrants, and may decide
+33 questions of parole under G.S. 20-179(p). Any single member of the Commission may set and
+34 modify the terms and conditions for a post-release supervisee under G.S. 15A-1368.4, may
+35 authorize the issuance of a letter of reprimand, and may continue an offender's supervision. In
+36 the event of a tie in a vote by the full Commission, the chair shall break the tie with an additional
+37 vote."
+38 SECTION 1.3.(b) This section is effective when it becomes law and applies to
+39 actions taken by the Commission on or after that date.
+40
+41 PART II. INSTITUTIONS
+42
+43 SEXUALLY VIOLENT PREDATOR DETERMINATIONS
+44 SECTION 2.1.(a) G.S. 14-208.20(b) reads as rewritten:
+45 "(b) Prior to sentencing a person as a sexually violent predator, the court shall order a
+46 presentence investigation in accordance with G.S. 15A-1332(c). However, the study of the
+47 defendant and whether the defendant is a sexually violent predator shall be conducted by a board
+48 of experts selected by the Division of Prisons of the Department of Adult Correction. The board
+49 of experts shall be composed of at least four people. Two of the board members shall be experts
+50 in the field of the behavior and treatment of sexual offenders, one of whom shall be selected from
+51 a panel of experts in those fields provided by the North Carolina Medical Society and not be
+Page 4 Senate Bill 355-Sixth Edition
+General Assembly Of North Carolina Session 2025
+1 employed full-time with the Division of Prisons of the Department of Adult Correction or
+2 employed on a full-time basis with any other State agency. One of the board members shall be a
+3 victims' rights advocate, and one of the board members shall be a representative of law
+4 enforcement agencies."
+5 SECTION 2.1.(b) This section becomes effective December 1, 2026, and applies to
+6 boards of experts selected on or after that date.
+7
+8 INCREASE LIMIT ON PURCHASES FROM CORRECTION ENTERPRISES
+9 SECTION 2.2. G.S. 148-132 reads as rewritten:
+10 "§ 148-132. Distribution of products and services.
+11 The Division of Correction Enterprises of the Department of Adult Correction is empowered
+12 and authorized to market and sell products and services produced by Correction Enterprises to
+13 any of the following entities:
+14 …
+15 (5) Any current employee or retiree of the State of North Carolina, member,
+16 employee, or retiree of the North Carolina National Guard, or of a unit of local
+17 government of this State, verified through federal or State-issued
+18 identification, or through proof of retirement status, but purchases by a State
+19 employee or retiree, National Guard member, employee, or retiree, or local
+20 governmental employee or retiree may not exceed two thousand five hundred
+21 dollars ($2,500) four thousand dollars ($4,000) during any calendar year.
+22 Products purchased by State employees or retirees, National Guard members,
+23 employees or retirees, and local governmental employees and retirees under
+24 this section may not be resold.
+25 …."
+26
+27 AUTHORIZE SUBSTANCE ABUSE ASSESSMENTS AND ADETS BY DAC
+28 SECTION 2.3.(a) G.S. 122C-3 reads as rewritten:
+29 "§ 122C-3. Definitions.
+30 The following definitions apply in this Chapter:
+31 …
+32 (14) Facility. – Any person at one location, or in the case of an opioid treatment
+33 program facility licensed to operate an opioid treatment program medication
+34 unit, an opioid treatment program mobile unit, or both, any person at one or
+35 more locations, whose primary purpose is to provide services for the care,
+36 treatment, habilitation, or rehabilitation of individuals with mental illnesses or
+37 intellectual or other developmental disabilities or substance abusers, and
+38 includes all of the following:
+39 …
+40 j. Any facility operated by the Department of Adult Correction that
+41 provides alcohol and drug education traffic school or substance abuse
+42 assessments under G.S. 122C-142.1.
+43 …."
+44 SECTION 2.3.(b) G.S. 122C-142.1 reads as rewritten:
+45 "§ 122C-142.1. Substance abuse services for those convicted of driving while impaired or
+46 driving while less than 21 years old after consuming alcohol or drugs.
+47 (a) Services. – An area authority shall provide, directly or by contract, the substance
+48 abuse services needed by a person to obtain a certificate of completion required under
+49 G.S. 20-17.6 as a condition for the restoration of a drivers license. A person may obtain the
+50 required services from an area facility, from a private facility authorized by the Department to
+51 provide this service, or, with the approval of the Department, from an agency that is located in
+Senate Bill 355-Sixth Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 another state. An eligible person housed in a facility operated by the Department of Adult
+2 Correction may obtain the required services from the Department of Adult Correction.
+3 …
+4 (a2) Authorization of Department of Adult Correction. – The Department shall authorize
+5 approved facilities operated by the Department of Adult Correction to provide substance abuse
+6 services needed to obtain a certificate of completion to a person housed in that facility if all of
+7 the following requirements are met:
+8 (1) The Department of Adult Correction notifies the Department of the designated
+9 facilities which may provide the services.
+10 (2) Assessments and alcohol and drug education traffic (ADET) school provided
+11 by the Department of Adult Correction under this subsection comply with
+12 rules adopted under the North Carolina Administrative Code, including
+13 placement criteria, documentation, and reporting requirements, and adhere to
+14 Department of Adult Correction security and custody policies.
+15 (3) No fee, tuition, or charge is imposed upon an individual for an assessment or
+16 ADET school provided directly by the Department of Adult Correction
+17 pursuant to this subsection. The Department of Adult Correction shall be
+18 responsible for any costs associated with purchasing required curriculum
+19 materials.
+20 (4) Services delivered by the Department of Adult Correction under this
+21 subsection are exempt from licensure under Article 2 of this Chapter and are
+22 covered by the exclusions in G.S. 122C-22(a)(10).
+23 …
+24 (f) Fees. – A person who has a substance abuse assessment conducted for the purpose of
+25 obtaining a certificate of completion shall pay to the assessing agency a fee of one hundred dollars
+26 ($100). A person shall pay to a school a fee of one hundred sixty dollars ($160.00). A person
+27 shall pay to a treatment facility a fee of seventy-five dollars ($75.00). If the defendant is treated
+28 by an area mental health facility, G.S. 122C-146 applies after receipt of the seventy-five dollar
+29 ($75.00) fee.
+30 A facility that provides to a person who is required to obtain a certificate of completion a
+31 substance abuse assessment, an ADET school, or a substance abuse treatment program may
+32 require the person to pay a fee required by this subsection before it issues a certificate of
+33 completion. As stated in G.S. 122C-146, however, an area facility may not deny a service to a
+34 person because the person is unable to pay.
+35 A facility shall remit to the Department ten percent (10%) of each fee paid to the facility
+36 under this subsection by a person who attends an ADET school conducted by the facility. The
+37 Department may use amounts remitted to it under this subsection only to support, evaluate, and
+38 administer ADET schools.
+39 Substance abuse services provided by the Department of Adult Correction shall not charge a
+40 fee to the individual or require a fee to be paid to the Department. The Department of Adult
+41 Correction shall be responsible for any costs associated with purchasing required curriculum
+42 materials.
+43 …."
+44 SECTION 2.3.(c) G.S. 143B-1455 is amended by adding a new subsection to read:
+45 "(g) The Program may provide substance abuse assessments and alcohol and drug
+46 education traffic (ADET) school to eligible individuals housed in a facility operated by the
+47 Department of Adult Correction, consistent with the applicable State laws, Administrative Code
+48 provisions, and prison policy."
+49
+50 PART III. OFFICE OF STAFF DEVELOPMENT AND TRAINING (OSDT)
+51
+Page 6 Senate Bill 355-Sixth Edition
+General Assembly Of North Carolina Session 2025
+1 VESTED PROBATION AND PAROLE OFFICERS MAINTAIN ELIGIBILITY FOR
+2 SUPPLEMENTAL RETIREMENT WHEN SERVING IN CERTAIN ROLES
+3 SECTION 3.1.(a) G.S. 135-1(17a) reads as rewritten:
+4 "(17a) "Probation/Parole Officer" shall mean a full-time paid employee of the
+5 Division of Community Supervision and Reentry of the Department of Adult
+6 Correction whose duties include supervising, evaluating, or otherwise
+7 instructing offenders who have been placed on probation, parole, or
+8 post-release supervision or have been assigned to any other community-based
+9 program operated by the Division of Community Supervision and
+10 Reentry.Reentry, or a full-time paid employee of the Department of Adult
+11 Correction's Office of Staff Development and Training who is certified as a
+12 Probation/Parole Officer and works exclusively in a training role."
+13 SECTION 3.1.(b) This section is effective when it becomes law and applies to
+14 determinations under Article 1 of Chapter 135 of the General Statutes made on or after that date.
+15
+16 PART IV. REDUCE MEETING REQUIREMENT OF STATE REENTRY COUNCIL
+17 COLLABORATIVE
+18 SECTION 4.1. G.S. 143B-1484(b) reads as rewritten:
+19 "(b) The Secretary, or the Secretary's designee, shall chair the SRCC which shall meet at
+20 least quarterly annually upon the call of the chair. The SRCC shall study the needs of
+21 ex-offenders who have been recently released from a correctional institution and to increase the
+22 effectiveness of local reentry councils."
+23
+24 PART V. TECHNICAL CORRECTIONS
+25
+26 POST-RELEASE SUPERVISION ELIGIBILITY AND PROCEDURE
+27 SECTION 5.1.(a) G.S. 15A-1368.2(c1) reads as rewritten:
+28 "(c1) Notwithstanding subsection (c) of this section, a person required to submit to
+29 satellite-based monitoring pursuant to G.S. 15A-1368.4(b1)(6) shall continue to participate in
+30 satellite-based monitoring beyond the period of post-release supervision until the Commission
+31 superior court in the county where the conviction occurred releases the person from that
+32 requirement pursuant to G.S. 14-208.43."
+33 SECTION 5.1.(b) This section is effective when it becomes law and applies to
+34 satellite-based monitoring releases ordered on or after that date.
+35
+36 EXCLUDE DEPARTMENT OF ADULT CORRECTION INVESTIGATIONS FROM
+37 CERTAIN INFORMATION TECHNOLOGY RESTRICTIONS
+38 SECTION 5.2.(a) G.S. 143-805(d) reads as rewritten:
+39 "(d) Subsections (a) and (b) of this section shall not apply to an official or employee that
+40 is engaged in any of the following activities in the course of that official's or employee's official
+41 duties:
+42 …
+43 (8) Investigating matters involving offenders incarcerated with, or otherwise
+44 under the supervision of, the Department of Adult Correction or matters
+45 related to the misuse of devices owned by the Department of Adult
+46 Correction."
+47 SECTION 5.2.(b) This section is effective when it becomes law and applies to
+48 investigations occurring before, on, or after that date.
+49
+50 CLARIFY PROBATION AND PAROLE RECORDS ACCESS FOR CHEROKEE AND
+51 CATAWBA MARSHALS SERVICES
+Senate Bill 355-Sixth Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 SECTION 5.3. G.S. 1E-20 reads as rewritten:
+2 "§ 1E-20. Cherokee and Catawba Marshals Services.
+3 …
+4 (c) Notwithstanding any other provision of law, marshals of the Cherokee Marshals
+5 Service shall have access to all probation and parole records of the North Carolina Department
+6 of Public Safety Adult Correction to the same extent as a probation or post-release supervision
+7 officer of the Department for any person over which the Cherokee Tribal Courts have jurisdiction
+8 to proceed in a criminal case and impose a sentence, including a fine, community service, or
+9 imprisonment. The Department may enter into a memorandum of understanding addressing the
+10 specifics of transferring information to the Cherokee Tribal Courts.
+11 …
+12 (f) Notwithstanding any other provision of law, Marshals of the Catawba Indian Nation
+13 shall have access to all probation and parole records of the North Carolina Department of Public
+14 Safety Adult Correction to the same extent as a probation or post-release supervision officer of
+15 the Department for any person with the Catawba Nation Tribal Courts have jurisdiction to
+16 proceed in a criminal case and impose a sentence, including a fine, community service, or
+17 imprisonment. The Department may enter into a memorandum of understanding addressing the
+18 specifics of transferring information to the Catawba Nation Tribal Courts."
+19
+20 PART VI. SEVERABILITY AND EFFECTIVE DATE
+21
+22 SEVERABILITY CLAUSE
+23 SECTION 6.1. If any part, section, or provision of this act is declared
+24 unconstitutional or invalid by the courts, it does not affect the validity of this act as a whole or
+25 any part other than the part declared to be unconstitutional or invalid.
+26
+27 EFFECTIVE DATE
+28 SECTION 6.2. Except as otherwise provided, this act is effective when it becomes
+29 law.
+Page 8 Senate Bill 355-Sixth Edition
+[DELETED:  6 S (   A A T  P  W S " T … ( P a t d a a d r o a t i s c o p o f v f o r t a N C r a ( w h b d t b p a t d f c p b t N C ( P o – A e o a e w i c a a p p G … ( S – A p w p l g l c o s o k o o t o w o a l e o c o p o f v f o a r s w i t w]
+[DELETED:  S  S … S " T c c … ( A o w d ( T s o a l e o c o p o f v f o r s w w i p a t d a a d r o a t i s ( A p l g o l c i a l e o c o p o f v f o r o f t b d t n o m r t c t e … S " T r t C … ( T c o d o t l e o c o p s T t a c o c l e a t e f A o t a a h j o a p f … S w  M T R F E M S " A S p ( " d]
+[DELETED:  S  P o d f m l a b t t t e o o u d e t f o r e m o ( d i i c r o ( " e i p o e f i t o a a o i v o t d E w o e p o ( " m a D – A p c p s c m a n a c w c d o t c o r i A d m b c d d ( " m r E – R t t h e d m w o e I o s ( " m o " m o " m m m E m o e m o s m – M w a e m t a o w b r t t r a r o r t p p n o w a c s o p a o t p d f a s g l a t h i i t s t a t a c c s t o a a c ( " R m a E r – A a e G …]
+[DELETED:  S  S ( " o d ( " … ( " a I – A t d i e p f o e i i f ( " … ( " t t i m m m o e m t c t i t v o a s s h t b o p p e s S e  M S " T g d r o r o p t a o w p t a p o a o m o b c b t C f c a a s b d b m v o t f C e t a t p o t C m s t t a c v q m t t a c f a p s u G m a t v S a  P  S S " P p i i a w G H t s o t d o o i a]
+[DELETED:  S  P e f w t D o P o t D o A C o e v r a a o o t b m s b a r o l e S b  I S " T a a … ( A c e o o S o N C m e g o t S v t f o S i e g d ( f t d ( d a c y P e t …  A S " T … ( F p u m t i o o d d o s a a i … j A f o b t D o A C t p a … S " d ( S a s n b a p t o a c o c r u G r p]
+[DELETED:  S  S a s A e p h i a f o b t D o A C … ( A a s t ( T f ( A b r a u t N C A C i p D ( N A s p d b t D o A C p t t s T D o A C s b r f a c a w p r c m ( S d b t D o A C u t s c … ( F o ( s b ( A s r t p t p a f r b t s b i i a c o c p A u D a S f C m … S " T P m p s a a a a a d e ( D p  P ]
+[DELETED:  S  P V P A P O M E F S S " " O s m a f p e o t D C w d i s e o o i o w h b p o p p o p p o b t D o C S a R C P S d  P M C S " T l q a u t c o t c T S s s t n o e e  P  P S " N s ( o t s a p r t s t s s s c i t c w t c o r t p f t r S s  E D O A C I F C S " S i d … ( I m i o i w o o u t s o t D o A C o m r t t m o d o b t D o A C S i  C C]
+[DELETED:  S  S S " … ( N a o p o l m o t C M S o o t i s … ( N s S t D f a p w t C N T C h j t p i a c c a i a s i a f c s o i s  P  S S 6  I a p s o p o t a i d u a  E S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 6
+SENATE BILL 355
+Judiciary Committee Substitute Adopted 4/29/25
+Pensions and Retirement and Aging Committee Substitute Adopted 4/30/25
+House Committee Substitute Favorable 5/13/26
+House Committee Substitute #2 Favorable 6/9/26
+House Committee Substitute #3 Favorable 6/24/26
+Short Title: Support the Dept. of Adult Correction.-AB (Public)
+Sponsors:
+Referred to:
+March 24, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO SUPPORT THE WORK OF THE DEPARTMENT OF ADULT CORRECTION.
+3 The General Assembly of North Carolina enacts:
+4
+5 PART I. COMMUNITY SUPERVISION
+6
+7 WAIVE TUITION FOR SURVIVORS OF FALLEN PROBATION OFFICERS
+8 SECTION 1.1.(a) G.S. 115B-1 reads as rewritten:
+9 "§ 115B-1. Definitions.
+10 The following definitions apply in this Chapter:
+11 …
+12 (4) Permanently and totally disabled as a direct result of a traumatic injury
+13 sustained in the line of duty. – A person: (i) who as a law enforcement officer,
+14 correctional officer, probation officer, firefighter, volunteer firefighter, or
+15 rescue squad worker suffered a disabling injury while in active service or
+16 training for active service, (ii) who at the time of active service or training was
+17 a North Carolina resident, and (iii) who has been determined to be
+18 permanently and totally disabled for compensation purposes by the North
+19 Carolina Industrial Commission.
+20 (4c) Probation officer. – An employee of an employer who is certified as a
+21 probation officer under the provisions of Article 1 of Chapter 17C of the
+22 General Statutes.
+23 …
+24 (6) Survivor. – Any person whose parent, legal guardian, legal custodian, or
+25 spouse: (i) was a law enforcement officer, a correctional officer, a probation
+26 officer, a firefighter, a volunteer firefighter, or a rescue squad worker, (ii) was
+27 killed while in active service or training for active service or died as a result
+28 of a service-connected disability, and (iii) at the time of active service or
+29 training was a North Carolina resident. The term does not include the widow
+30 or widower of a law enforcement officer, correctional officer, probation
+31 officer, firefighter, volunteer firefighter, or a rescue squad worker if the
+32 widow or widower has remarried.
+*S355-v-6*
+
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 1.1.(b) G.S. 115B-2(a) reads as rewritten:
+3 "(a) The constituent institutions of The University of North Carolina and the community
+4 colleges as defined in G.S. 115D-2(2) shall permit the following persons to attend classes for
+5 credit or noncredit purposes without the required payment of tuition:
+6 …
+7 (2) Any person who is the survivor of a law enforcement officer, correctional
+8 officer, probation officer, firefighter, volunteer firefighter, or rescue squad
+9 worker killed as a direct result of a traumatic injury sustained in the line of
+10 duty.
+11 (3) The spouse of a law enforcement officer, correctional officer, probation
+12 officer, firefighter, volunteer firefighter, or rescue squad worker who is
+13 permanently and totally disabled as a direct result of a traumatic injury
+14 sustained in the line of duty.
+15 (4) Any child, if the child is at least 17 years old but not yet 24 years old, whose
+16 parent, legal guardian, or legal custodian is a law enforcement officer,
+17 correctional officer, probation officer, firefighter, volunteer firefighter, or
+18 rescue squad worker who is permanently and totally disabled as a direct result
+19 of a traumatic injury sustained in the line of duty. However, a child's eligibility
+20 for a waiver of tuition under this Chapter shall not exceed: (i) 54 months, if
+21 the child is seeking a baccalaureate degree, or (ii) if the child is not seeking a
+22 baccalaureate degree, the number of months required to complete the
+23 educational program to which the child is applying.
+24 …."
+25 SECTION 1.1.(c) G.S. 115B-5(b) reads as rewritten:
+26 "(b) The officials of the institutions charged with administration of this Chapter shall
+27 require the following proof to insure that a person applying to the institution and who requests a
+28 tuition waiver under G.S. 115B-2(a)(2), (3), or (4) is eligible for the benefits provided by this
+29 Chapter.
+30 …
+31 (3) The cause of death of the law enforcement officer, correctional officer,
+32 probation officer, firefighter, volunteer firefighter, or rescue squad worker
+33 shall be verified by certification from the records of the Department of State
+34 Treasurer, the appropriate city or county law enforcement agency that
+35 employed the deceased, the administrative agency for the fire department or
+36 fire protection district recognized for funding under the Department of State
+37 Auditor, or the administrative agency having jurisdiction over any paid
+38 firefighters of all counties and cities.
+39 …."
+40 SECTION 1.1.(d) This section is effective when it becomes law and applies to
+41 waivers of tuition granted on or after that date.
+42
+43 MODIFY TECHNICAL REQUIREMENTS FOR ELECTRONIC
+44 MONITORING/SATELLITE-BASED MONITORING
+45 SECTION 1.2.(a) G.S. 15A-101.1 reads as rewritten:
+46 "§ 15A-101.1. Electronic technology in criminal process and procedure.
+47 As used in this Chapter, in Chapter 7A of the General Statutes, in Chapter 15 of the General
+48 Statutes, and in all other provisions of the General Statutes that deal with criminal process or
+49 procedure:procedure, the following definitions shall apply:
+50 (1) "Attach" or "attached" means, when Attach or attached. – When referring to
+51 documents existing in paper form, physical attachment by staples, clips, or
+Page 2 Senate Bill 355-Sixth Edition
+
+General Assembly Of North Carolina Session 2025
+1 other mechanical means, or managed such that neither document is stored or
+2 delivered without the other. When referring to documents stored in electronic
+3 form, the term means either storage as a single digital file or storage in a
+4 manner that a user interface for access to the documents displays clearly the
+5 logical association between them, to the exclusion of other, unassociated
+6 documents displayed with them. When referring to documents delivered in
+7 electronic form, the term means documents delivered simultaneously and via
+8 the same mechanism or medium, including, but not limited to, any of the
+9 following: (i) delivery via a single email message, (ii) delivery on a single unit
+10 of removable electronic media, or (iii) delivery in immediate,
+11 contemporaneous sequence with one another from the same source to the same
+12 recipient. It is not necessary that the relationship between documents appear
+13 on the face of the documents in order to be deemed attached.
+14 (1a) "Copy" means all Copy. – All identical versions of a document created or
+15 existing in paper or electronic form, including the original and all other
+16 identical versions of the document. Except where otherwise expressly
+17 provided by law or when authority is vested only in a certified copy, a copy
+18 of a document is equally authoritative as the original.
+19 (2) "Document" means any Document. – Any pleading, criminal process,
+20 subpoena, complaint, motion, application, notice, affidavit, commission,
+21 waiver, consent, dismissal, order, judgment, or other writing intended in a
+22 criminal or contempt proceeding to authorize or require an action, to record a
+23 decision or to communicate or record information. A document may be
+24 created and exist in paper form or in electronic form or in both forms. Each
+25 document shall contain the legible, printed name of the person who signed the
+26 document.
+27 (3) "Electronic" means relating Electronic. – Relating to technology having
+28 electrical, digital, magnetic, wireless, optical, electromagnetic, Internet, or
+29 similar capabilities.
+30 (3a) "Electronic monitoring" or "electronically monitor" or "satellite-based
+31 monitoring" means monitoring Electronic monitoring or electronically
+32 monitor or satellite-based monitoring. – Monitoring with an electronic
+33 monitoring device that is not removed from a person's body, that is utilized by
+34 the supervising agency in conjunction with a Web-based computer system that
+35 actively monitors, identifies, tracks, and records a person's location at least
+36 once every minute 24 hours a day, that has a battery life of at least 48 hours
+37 without being recharged, that timely records and reports or records the
+38 person's presence near or within a crime scene or prohibited area or the
+39 person's departure from a specified geographic location, and that has
+40 incorporated into the software the ability to automatically compare crime
+41 scene data with locations of all persons being electronically monitored so as
+42 to provide any correlation daily or in real time. In areas of the State where lack
+43 of cellular coverage requires the use of an alternative device, the supervising
+44 agency shall use an alternative device that works in concert with the software
+45 and records location and tracking data for later download and crime scene
+46 comparison.
+47 (4) "Electronic Repository" means an Electronic repository. – An automated
+48 electronic repository for criminal process created and maintained pursuant to
+49 G.S. 15A-301.1.
+50 …
+Senate Bill 355-Sixth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (6) "Entered" means signed Entered. – Signed and filed in the office of the clerk
+2 of superior court of the county in which the document is to be entered. A
+3 document may be entered in either paper form or electronic form.
+4 (7) "Filing" or "filed" means:Filing or filed. –
+5 …
+6 (8) "Issued" applies Issued. – Applies to documents in either paper form or
+7 electronic form. A document that is first created in paper form is issued when
+8 it is signed. A document that is first created in electronic form is issued when
+9 it is signed and filed in the office of the clerk of superior court of the county
+10 for which it is to be issued.
+11 (9) "Original" means:Original. –
+12 …
+13 (10) "Signature" means any Signature. – Any symbol, including, but not limited to,
+14 the name of an individual, which is executed by that individual, personally or
+15 through an authorized agent, with the intent to authenticate or to effect the
+16 issuance or entry of a document. A document may be signed by the use of any
+17 manual, mechanical mechanical, or electronic means that causes the
+18 individual's signature to appear in or on the document. Any party challenging
+19 the validity of a signature shall have the burden of pleading, producing
+20 evidence, and proving that the signature was not the act of the person whose
+21 signature it appears to be."
+22 SECTION 1.2.(b) This section is effective when it becomes law and applies to an
+23 electronic monitoring device used on or after that date.
+24
+25 MODIFICATION OF POST-RELEASE SUPERVISION REQUIREMENTS
+26 SECTION 1.3.(a) G.S. 143B-1491(d) reads as rewritten:
+27 "(d) The granting, denying, revoking, or rescinding of parole, the authorization of
+28 work-release privileges to a prisoner, or any other matters of business coming before the
+29 Commission for consideration and action shall be decided by majority vote of the full
+30 Commission, except that a three-member panel of the Commission may set the terms and
+31 conditions for a post-release supervisee under G.S. 15A-1368.4 and may decide questions of
+32 violations thereunder, violations, including the issuance of warrants. warrants, and may decide
+33 questions of parole under G.S. 20-179(p). Any single member of the Commission may set and
+34 modify the terms and conditions for a post-release supervisee under G.S. 15A-1368.4, may
+35 authorize the issuance of a letter of reprimand, and may continue an offender's supervision. In
+36 the event of a tie in a vote by the full Commission, the chair shall break the tie with an additional
+37 vote."
+38 SECTION 1.3.(b) This section is effective when it becomes law and applies to
+39 actions taken by the Commission on or after that date.
+40
+41 PART II. INSTITUTIONS
+42
+43 SEXUALLY VIOLENT PREDATOR DETERMINATIONS
+44 SECTION 2.1.(a) G.S. 14-208.20(b) reads as rewritten:
+45 "(b) Prior to sentencing a person as a sexually violent predator, the court shall order a
+46 presentence investigation in accordance with G.S. 15A-1332(c). However, the study of the
+47 defendant and whether the defendant is a sexually violent predator shall be conducted by a board
+48 of experts selected by the Division of Prisons of the Department of Adult Correction. The board
+49 of experts shall be composed of at least four people. Two of the board members shall be experts
+50 in the field of the behavior and treatment of sexual offenders, one of whom shall be selected from
+51 a panel of experts in those fields provided by the North Carolina Medical Society and not be
+Page 4 Senate Bill 355-Sixth Edition
+
+General Assembly Of North Carolina Session 2025
+1 employed full-time with the Division of Prisons of the Department of Adult Correction or
+2 employed on a full-time basis with any other State agency. One of the board members shall be a
+3 victims' rights advocate, and one of the board members shall be a representative of law
+4 enforcement agencies."
+5 SECTION 2.1.(b) This section becomes effective December 1, 2026, and applies to
+6 boards of experts selected on or after that date.
+7
+8 INCREASE LIMIT ON PURCHASES FROM CORRECTION ENTERPRISES
+9 SECTION 2.2. G.S. 148-132 reads as rewritten:
+10 "§ 148-132. Distribution of products and services.
+11 The Division of Correction Enterprises of the Department of Adult Correction is empowered
+12 and authorized to market and sell products and services produced by Correction Enterprises to
+13 any of the following entities:
+14 …
+15 (5) Any current employee or retiree of the State of North Carolina, member,
+16 employee, or retiree of the North Carolina National Guard, or of a unit of local
+17 government of this State, verified through federal or State-issued
+18 identification, or through proof of retirement status, but purchases by a State
+19 employee or retiree, National Guard member, employee, or retiree, or local
+20 governmental employee or retiree may not exceed two thousand five hundred
+21 dollars ($2,500) four thousand dollars ($4,000) during any calendar year.
+22 Products purchased by State employees or retirees, National Guard members,
+23 employees or retirees, and local governmental employees and retirees under
+24 this section may not be resold.
+25 …."
+26
+27 AUTHORIZE SUBSTANCE ABUSE ASSESSMENTS AND ADETS BY DAC
+28 SECTION 2.3.(a) G.S. 122C-3 reads as rewritten:
+29 "§ 122C-3. Definitions.
+30 The following definitions apply in this Chapter:
+31 …
+32 (14) Facility. – Any person at one location, or in the case of an opioid treatment
+33 program facility licensed to operate an opioid treatment program medication
+34 unit, an opioid treatment program mobile unit, or both, any person at one or
+35 more locations, whose primary purpose is to provide services for the care,
+36 treatment, habilitation, or rehabilitation of individuals with mental illnesses or
+37 intellectual or other developmental disabilities or substance abusers, and
+38 includes all of the following:
+39 …
+40 j. Any facility operated by the Department of Adult Correction that
+41 provides alcohol and drug education traffic school or substance abuse
+42 assessments under G.S. 122C-142.1.
+43 …."
+44 SECTION 2.3.(b) G.S. 122C-142.1 reads as rewritten:
+45 "§ 122C-142.1. Substance abuse services for those convicted of driving while impaired or
+46 driving while less than 21 years old after consuming alcohol or drugs.
+47 (a) Services. – An area authority shall provide, directly or by contract, the substance
+48 abuse services needed by a person to obtain a certificate of completion required under
+49 G.S. 20-17.6 as a condition for the restoration of a drivers license. A person may obtain the
+50 required services from an area facility, from a private facility authorized by the Department to
+51 provide this service, or, with the approval of the Department, from an agency that is located in
+Senate Bill 355-Sixth Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 another state. An eligible person housed in a facility operated by the Department of Adult
+2 Correction may obtain the required services from the Department of Adult Correction.
+3 …
+4 (a2) Authorization of Department of Adult Correction. – The Department shall authorize
+5 approved facilities operated by the Department of Adult Correction to provide substance abuse
+6 services needed to obtain a certificate of completion to a person housed in that facility if all of
+7 the following requirements are met:
+8 (1) The Department of Adult Correction notifies the Department of the designated
+9 facilities which may provide the services.
+10 (2) Assessments and alcohol and drug education traffic (ADET) school provided
+11 by the Department of Adult Correction under this subsection comply with
+12 rules adopted under the North Carolina Administrative Code, including
+13 placement criteria, documentation, and reporting requirements, and adhere to
+14 Department of Adult Correction security and custody policies.
+15 (3) No fee, tuition, or charge is imposed upon an individual for an assessment or
+16 ADET school provided directly by the Department of Adult Correction
+17 pursuant to this subsection. The Department of Adult Correction shall be
+18 responsible for any costs associated with purchasing required curriculum
+19 materials.
+20 (4) Services delivered by the Department of Adult Correction under this
+21 subsection are exempt from licensure under Article 2 of this Chapter and are
+22 covered by the exclusions in G.S. 122C-22(a)(10).
+23 …
+24 (f) Fees. – A person who has a substance abuse assessment conducted for the purpose of
+25 obtaining a certificate of completion shall pay to the assessing agency a fee of one hundred dollars
+26 ($100). A person shall pay to a school a fee of one hundred sixty dollars ($160.00). A person
+27 shall pay to a treatment facility a fee of seventy-five dollars ($75.00). If the defendant is treated
+28 by an area mental health facility, G.S. 122C-146 applies after receipt of the seventy-five dollar
+29 ($75.00) fee.
+30 A facility that provides to a person who is required to obtain a certificate of completion a
+31 substance abuse assessment, an ADET school, or a substance abuse treatment program may
+32 require the person to pay a fee required by this subsection before it issues a certificate of
+33 completion. As stated in G.S. 122C-146, however, an area facility may not deny a service to a
+34 person because the person is unable to pay.
+35 A facility shall remit to the Department ten percent (10%) of each fee paid to the facility
+36 under this subsection by a person who attends an ADET school conducted by the facility. The
+37 Department may use amounts remitted to it under this subsection only to support, evaluate, and
+38 administer ADET schools.
+39 Substance abuse services provided by the Department of Adult Correction shall not charge a
+40 fee to the individual or require a fee to be paid to the Department. The Department of Adult
+41 Correction shall be responsible for any costs associated with purchasing required curriculum
+42 materials.
+43 …."
+44 SECTION 2.3.(c) G.S. 143B-1455 is amended by adding a new subsection to read:
+45 "(g) The Program may provide substance abuse assessments and alcohol and drug
+46 education traffic (ADET) school to eligible individuals housed in a facility operated by the
+47 Department of Adult Correction, consistent with the applicable State laws, Administrative Code
+48 provisions, and prison policy."
+49
+50 PART III. OFFICE OF STAFF DEVELOPMENT AND TRAINING (OSDT)
+51
+Page 6 Senate Bill 355-Sixth Edition
+
+General Assembly Of North Carolina Session 2025
+1 VESTED PROBATION AND PAROLE OFFICERS MAINTAIN ELIGIBILITY FOR
+2 SUPPLEMENTAL RETIREMENT WHEN SERVING IN CERTAIN ROLES
+3 SECTION 3.1.(a) G.S. 135-1(17a) reads as rewritten:
+4 "(17a) "Probation/Parole Officer" shall mean a full-time paid employee of the
+5 Division of Community Supervision and Reentry of the Department of Adult
+6 Correction whose duties include supervising, evaluating, or otherwise
+7 instructing offenders who have been placed on probation, parole, or
+8 post-release supervision or have been assigned to any other community-based
+9 program operated by the Division of Community Supervision and
+10 Reentry.Reentry, or a full-time paid employee of the Department of Adult
+11 Correction's Office of Staff Development and Training who is certified as a
+12 Probation/Parole Officer and works exclusively in a training role."
+13 SECTION 3.1.(b) This section is effective when it becomes law and applies to
+14 determinations under Article 1 of Chapter 135 of the General Statutes made on or after that date.
+15
+16 PART IV. REDUCE MEETING REQUIREMENT OF STATE REENTRY COUNCIL
+17 COLLABORATIVE
+18 SECTION 4.1. G.S. 143B-1484(b) reads as rewritten:
+19 "(b) The Secretary, or the Secretary's designee, shall chair the SRCC which shall meet at
+20 least quarterly annually upon the call of the chair. The SRCC shall study the needs of
+21 ex-offenders who have been recently released from a correctional institution and to increase the
+22 effectiveness of local reentry councils."
+23
+24 PART V. TECHNICAL CORRECTIONS
+25
+26 POST-RELEASE SUPERVISION ELIGIBILITY AND PROCEDURE
+27 SECTION 5.1.(a) G.S. 15A-1368.2(c1) reads as rewritten:
+28 "(c1) Notwithstanding subsection (c) of this section, a person required to submit to
+29 satellite-based monitoring pursuant to G.S. 15A-1368.4(b1)(6) shall continue to participate in
+30 satellite-based monitoring beyond the period of post-release supervision until the Commission
+31 superior court in the county where the conviction occurred releases the person from that
+32 requirement pursuant to G.S. 14-208.43."
+33 SECTION 5.1.(b) This section is effective when it becomes law and applies to
+34 satellite-based monitoring releases ordered on or after that date.
+35
+36 EXCLUDE DEPARTMENT OF ADULT CORRECTION INVESTIGATIONS FROM
+37 CERTAIN INFORMATION TECHNOLOGY RESTRICTIONS
+38 SECTION 5.2.(a) G.S. 143-805(d) reads as rewritten:
+39 "(d) Subsections (a) and (b) of this section shall not apply to an official or employee that
+40 is engaged in any of the following activities in the course of that official's or employee's official
+41 duties:
+42 …
+43 (8) Investigating matters involving offenders incarcerated with, or otherwise
+44 under the supervision of, the Department of Adult Correction or matters
+45 related to the misuse of devices owned by the Department of Adult
+46 Correction."
+47 SECTION 5.2.(b) This section is effective when it becomes law and applies to
+48 investigations occurring before, on, or after that date.
+49
+50 CLARIFY PROBATION AND PAROLE RECORDS ACCESS FOR CHEROKEE AND
+51 CATAWBA MARSHALS SERVICES
+Senate Bill 355-Sixth Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 5.3. G.S. 1E-20 reads as rewritten:
+2 "§ 1E-20. Cherokee and Catawba Marshals Services.
+3 …
+4 (c) Notwithstanding any other provision of law, marshals of the Cherokee Marshals
+5 Service shall have access to all probation and parole records of the North Carolina Department
+6 of Public Safety Adult Correction to the same extent as a probation or post-release supervision
+7 officer of the Department for any person over which the Cherokee Tribal Courts have jurisdiction
+8 to proceed in a criminal case and impose a sentence, including a fine, community service, or
+9 imprisonment. The Department may enter into a memorandum of understanding addressing the
+10 specifics of transferring information to the Cherokee Tribal Courts.
+11 …
+12 (f) Notwithstanding any other provision of law, Marshals of the Catawba Indian Nation
+13 shall have access to all probation and parole records of the North Carolina Department of Public
+14 Safety Adult Correction to the same extent as a probation or post-release supervision officer of
+15 the Department for any person with the Catawba Nation Tribal Courts have jurisdiction to
+16 proceed in a criminal case and impose a sentence, including a fine, community service, or
+17 imprisonment. The Department may enter into a memorandum of understanding addressing the
+18 specifics of transferring information to the Catawba Nation Tribal Courts."
+19
+20 PART VI. SEVERABILITY AND EFFECTIVE DATE
+21
+22 SEVERABILITY CLAUSE
+23 SECTION 6.1. If any part, section, or provision of this act is declared
+24 unconstitutional or invalid by the courts, it does not affect the validity of this act as a whole or
+25 any part other than the part declared to be unconstitutional or invalid.
+26
+27 EFFECTIVE DATE
+28 SECTION 6.2. Except as otherwise provided, this act is effective when it becomes
+29 law.
+Page 8 Senate Bill 355-Sixth Edition
+
+[DELETED:  6 S (   A A T  P  W S " T … ( P a t d a a d r o a t i s c o p o f v f o r t a N C r a ( w h b d t b p a t d f c p b t N C ( P o – A e o a e w i c a a p p G … ( S – A p w p l g l c o s o k o o t o w o a l e o c o p o f v f o a r s w i t w]
+[DELETED:  S  S … S " T c c … ( A o w d ( T s o a l e o c o p o f v f o r s w w i p a t d a a d r o a t i s ( A p l g o l c i a l e o c o p o f v f o r o f t b d t n o m r t c t e … S " T r t C … ( T c o d o t l e o c o p s T t a c o c l e a t e f A o t a a h j o a p f … S w  M T R F E M S " A S p ( " d]
+[DELETED:  S  P o d f m l a b t t t e o o u d e t f o r e m o ( d i i c r o ( " e i p o e f i t o a a o i v o t d E w o e p o ( " m a D – A p c p s c m a n a c w c d o t c o r i A d m b c d d ( " m r E – R t t h e d m w o e I o s ( " m o " m o " m m m E m o e m o s m – M w a e m t a o w b r t t r a r o r t p p n o w a c s o p a o t p d f a s g l a t h i i t s t a t a c c s t o a a c ( " R m a E r – A a e G …]
+[DELETED:  S  S ( " o d ( " … ( " a I – A t d i e p f o e i i f ( " … ( " t t i m m m o e m t c t i t v o a s s h t b o p p e s S e  M S " T g d r o r o p t a o w p t a p o a o m o b c b t C f c a a s b d b m v o t f C e t a t p o t C m s t t a c v q m t t a c f a p s u G m a t v S a  P  S S " P p i i a w G H t s o t d o o i a]
+[DELETED:  S  P e f w t D o P o t D o A C o e v r a a o o t b m s b a r o l e S b  I S " T a a … ( A c e o o S o N C m e g o t S v t f o S i e g d ( f t d ( d a c y P e t …  A S " T … ( F p u m t i o o d d o s a a i … j A f o b t D o A C t p a … S " d ( S a s n b a p t o a c o c r u G r p]
+[DELETED:  S  S a s A e p h i a f o b t D o A C … ( A a s t ( T f ( A b r a u t N C A C i p D ( N A s p d b t D o A C p t t s T D o A C s b r f a c a w p r c m ( S d b t D o A C u t s c … ( F o ( s b ( A s r t p t p a f r b t s b i i a c o c p A u D a S f C m … S " T P m p s a a a a a d e ( D p  P ]
+[DELETED:  S  P V P A P O M E F S S " " O s m a f p e o t D C w d i s e o o i o w h b p o p p o p p o b t D o C S a R C P S d  P M C S " T l q a u t c o t c T S s s t n o e e  P  P S " N s ( o t s a p r t s t s s s c i t c w t c o r t p f t r S s  E D O A C I F C S " S i d … ( I m i o i w o o u t s o t D o A C o m r t t m o d o b t D o A C S i  C C]
+[DELETED:  S  S S " … ( N a o p o l m o t C M S o o t i s … ( N s S t D f a p w t C N T C h j t p i a c c a i a s i a f c s o i s  P  S S 6  I a p s o p o t a i d u a  E S l]

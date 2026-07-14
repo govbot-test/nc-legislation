@@ -1,0 +1,267 @@
+Title: SENATE BILL 948
+Official Title: SENATE BILL 948
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: Screen Free Schools Act. (Public)
+Sponsors: Senators Chitlik and Chaudhuri (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE GOVERNING BODIES OF PUBLIC SCHOOL UNITS TO ADOPT
+3 POLICIES RESTRICTING THE USE OF WIRELESS COMMUNICATION DEVICES IN
+4 SCHOOLS AND TO APPROPRIATE FUNDS FOR TEACHER ASSISTANTS.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 115C-76.25(a) reads as rewritten:
+7 "§ 115C-76.25. Parent legal rights for their child's education.
+8 (a) Parents have legal rights with regards to their child's education, including the
+9 following:
+10 …
+11 (13) The right to opt out of being issued a wireless communication device by a
+12 school, any requirement that a student take a wireless communication device
+13 home with them from school, or use of a wireless communication device for
+14 testing or assessments except those assessments issued by the State for
+15 compliance with federal law."
+16 SECTION 2. G.S. 115C-76.100 reads as rewritten:
+17 "§ 115C-76.100. Regulation of wireless communication devices.
+18 (a) The following definitions apply in this section:
+19 (1) Wireless communication device. – Any portable wireless device that has the
+20 capability to provide voice, messaging, or other data communication between
+21 two or more parties, including the following:
+22 a. Cellular telephones.
+23 b. Tablet computers.
+24 c. Laptop computers.
+25 d. Paging devices.
+26 e. Two-way radios.
+27 f. Gaming devices.
+28 (2) Wireless communication policy. – A policy governing the use of wireless
+29 communication devices by students.
+30 (b) The governing body of a public school unit shall establish a wireless communication
+31 policy. At a minimum, except as permitted in subsection (c) of this section, the policy shall
+32 prohibit students from using, displaying, or having a wireless communication device turned on
+33 during instructional time.time and include at least the following restrictions:
+34 (1) For kindergarten through grade five, the following:
+35 a. Prohibit students from using any wireless communication device in
+36 classrooms.
+*S948-v-1*
+General Assembly Of North Carolina Session 2025
+1 b. Require all instruction to be print-based and hands-on.
+2 c. To the extent practicable, require all tests and assessments to be
+3 conducted using printed materials.
+4 (2) For grades six through eight, the following:
+5 a. Allow that students may use wireless communication devices that are
+6 shared between other students or classrooms. This excludes using their
+7 own personal wireless communication device.
+8 b. Prohibit schools from issuing wireless communication devices to
+9 students.
+10 c. Require that any wireless communication device that is owned or
+11 contracted for use by a school and used for instructional purposes
+12 restrict access to any non-instructional content, including social media
+13 platforms and any shared video or media platforms.
+14 d. Provide that the total amount of time that a student spends on any
+15 wireless communication device during normal school hours shall be
+16 less than one hour per school day.
+17 e. Require that any wireless communication device owned or contracted
+18 for use by a school shall remain on school premises at all times.
+19 (3) For grades nine through 12, the following:
+20 a. Allow a school to issue wireless communication devices to students
+21 individually for instructional purposes.
+22 b. Provide that the total amount of time that a student spends on any
+23 wireless communication device during normal school hours shall be
+24 less than one hour and 30 minutes per school day.
+25 c. Require that a student's use of a school-issued wireless communication
+26 device is only for instructional purposes.
+27 d. Require that any assignments or homework that require the use of a
+28 school-issued wireless communication device outside of normal
+29 school hours shall not require a student to use such digital device for
+30 more than one hour per day to complete the assignments or homework.
+31 (c) A wireless communication policy shall allow student use of a wireless communication
+32 device during instructional time as follows:
+33 (1) If authorized by a teacher for educational purposes or for use in the event of
+34 an emergency. The governing body may establish parameters to be followed
+35 by a teacher in granting authorizations.
+36 (2) As required by the student's individualized education program or section 504
+37 (29 U.S.C. § 794) plan.
+38 (3) As required to manage a student's health care, in accordance with a
+39 documented medical condition.
+40 (d) The governing body shall establish the consequences for violations of the wireless
+41 communication policy, which may include confiscation of the wireless communication device
+42 and disciplinary measures under the public school unit's Code of Student Conduct.
+43 (e) No later than September 1 of the year in which this section becomes effective, every
+44 public school unit shall send to the Department of Public Instruction a copy of the public school
+45 unit's wireless communication policy. The public school unit shall provide the Department of
+46 Public Instruction with a copy of the wireless communication policy anytime it is changed. No
+47 later than October 1 of each year, the Department of Public Instruction shall report to the Joint
+48 Legislative Education Oversight Committee the number of public school units that are in
+49 compliance with this section and the name of any public school unit which is not in compliance
+50 with this section."
+51 SECTION 3. G.S. 115C-85 reads as rewritten:
+Page 2 Senate Bill 948-First Edition
+General Assembly Of North Carolina Session 2025
+1 "§ 115C-85. Textbook needs are determined by course of study.
+2 When the State Board of Education has adopted, upon the recommendation of the
+3 Superintendent of Public Instruction, a standard course of study at each instructional level in the
+4 elementary school and the secondary school, setting forth what subjects shall be taught at each
+5 level, it shall proceed to select and adopt textbooks.
+6 As used in this part, "textbook" means systematically organized material comprehensive
+7 enough to cover the primary objectives outlined in the standard course of study for a grade or
+8 course. Formats for textbooks may be print or nonprint, including hardbound books, softbound
+9 books, activity-oriented programs, classroom kits, and technology-based programs that require
+10 the use of electronic equipment in order to be used in the learning process.process, provided that
+11 printed materials shall be used in all classrooms for kindergarten through grade eight.
+12 Textbooks adopted in accordance with the provisions of this Part shall be used by the public
+13 schools of the State except as provided in G.S. 115C-98(b1)."
+14 SECTION 4.(a) There is appropriated from the General Fund to the Department of
+15 Public Instruction the sum of nine hundred thirty million dollars ($930,000,000) in recurring
+16 funds beginning with the 2026-2027 fiscal year to be used to allocate one teacher assistant to
+17 every classroom serving students in kindergarten through grade five.
+18 SECTION 4.(b) There is appropriated from the General Fund to the Department of
+19 Public Instruction the sum of four million three hundred thousand dollars ($4,300,000) in
+20 recurring funds beginning with the 2026-2027 fiscal year to provide grants pursuant to
+21 G.S. 115C-269.31.
+22 SECTION 5. This act is effective when it becomes law.
+Senate Bill 948-First Edition Page 3
+[DELETED:  1 S ( S R A A P S T S " ( P h l r w r t t c e i t f … ( T s h t o a e t a i b t S f c S " ( T ( W c t a C b T c L d P e T f G ( W c ( T p p d ( F a P c]
+[DELETED:  S  S b R c T t e p r a t a a t b c ( F a A s o b P s f i w c d t s c R t a w c d t i o o c f u b a s a u f i p r p d P w l e R f ( F a A i b P w l c R d d R s w c d o o n s m ( A d ( I a b ( A ( ( A r t m a s h c i a w a d ( T c a ( N p u P l L E O C t n o p s u t a i c w S]
+[DELETED:  S  P " W t S B o E h a u t r o t S e l A e c b t p T s S P f e S P I t s o f m t h t d ( i r f b w t 2 f y t p g p t G S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 948
+Short Title: Screen Free Schools Act. (Public)
+Sponsors: Senators Chitlik and Chaudhuri (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE GOVERNING BODIES OF PUBLIC SCHOOL UNITS TO ADOPT
+3 POLICIES RESTRICTING THE USE OF WIRELESS COMMUNICATION DEVICES IN
+4 SCHOOLS AND TO APPROPRIATE FUNDS FOR TEACHER ASSISTANTS.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 115C-76.25(a) reads as rewritten:
+7 "§ 115C-76.25. Parent legal rights for their child's education.
+8 (a) Parents have legal rights with regards to their child's education, including the
+9 following:
+10 …
+11 (13) The right to opt out of being issued a wireless communication device by a
+12 school, any requirement that a student take a wireless communication device
+13 home with them from school, or use of a wireless communication device for
+14 testing or assessments except those assessments issued by the State for
+15 compliance with federal law."
+16 SECTION 2. G.S. 115C-76.100 reads as rewritten:
+17 "§ 115C-76.100. Regulation of wireless communication devices.
+18 (a) The following definitions apply in this section:
+19 (1) Wireless communication device. – Any portable wireless device that has the
+20 capability to provide voice, messaging, or other data communication between
+21 two or more parties, including the following:
+22 a. Cellular telephones.
+23 b. Tablet computers.
+24 c. Laptop computers.
+25 d. Paging devices.
+26 e. Two-way radios.
+27 f. Gaming devices.
+28 (2) Wireless communication policy. – A policy governing the use of wireless
+29 communication devices by students.
+30 (b) The governing body of a public school unit shall establish a wireless communication
+31 policy. At a minimum, except as permitted in subsection (c) of this section, the policy shall
+32 prohibit students from using, displaying, or having a wireless communication device turned on
+33 during instructional time.time and include at least the following restrictions:
+34 (1) For kindergarten through grade five, the following:
+35 a. Prohibit students from using any wireless communication device in
+36 classrooms.
+*S948-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 b. Require all instruction to be print-based and hands-on.
+2 c. To the extent practicable, require all tests and assessments to be
+3 conducted using printed materials.
+4 (2) For grades six through eight, the following:
+5 a. Allow that students may use wireless communication devices that are
+6 shared between other students or classrooms. This excludes using their
+7 own personal wireless communication device.
+8 b. Prohibit schools from issuing wireless communication devices to
+9 students.
+10 c. Require that any wireless communication device that is owned or
+11 contracted for use by a school and used for instructional purposes
+12 restrict access to any non-instructional content, including social media
+13 platforms and any shared video or media platforms.
+14 d. Provide that the total amount of time that a student spends on any
+15 wireless communication device during normal school hours shall be
+16 less than one hour per school day.
+17 e. Require that any wireless communication device owned or contracted
+18 for use by a school shall remain on school premises at all times.
+19 (3) For grades nine through 12, the following:
+20 a. Allow a school to issue wireless communication devices to students
+21 individually for instructional purposes.
+22 b. Provide that the total amount of time that a student spends on any
+23 wireless communication device during normal school hours shall be
+24 less than one hour and 30 minutes per school day.
+25 c. Require that a student's use of a school-issued wireless communication
+26 device is only for instructional purposes.
+27 d. Require that any assignments or homework that require the use of a
+28 school-issued wireless communication device outside of normal
+29 school hours shall not require a student to use such digital device for
+30 more than one hour per day to complete the assignments or homework.
+31 (c) A wireless communication policy shall allow student use of a wireless communication
+32 device during instructional time as follows:
+33 (1) If authorized by a teacher for educational purposes or for use in the event of
+34 an emergency. The governing body may establish parameters to be followed
+35 by a teacher in granting authorizations.
+36 (2) As required by the student's individualized education program or section 504
+37 (29 U.S.C. § 794) plan.
+38 (3) As required to manage a student's health care, in accordance with a
+39 documented medical condition.
+40 (d) The governing body shall establish the consequences for violations of the wireless
+41 communication policy, which may include confiscation of the wireless communication device
+42 and disciplinary measures under the public school unit's Code of Student Conduct.
+43 (e) No later than September 1 of the year in which this section becomes effective, every
+44 public school unit shall send to the Department of Public Instruction a copy of the public school
+45 unit's wireless communication policy. The public school unit shall provide the Department of
+46 Public Instruction with a copy of the wireless communication policy anytime it is changed. No
+47 later than October 1 of each year, the Department of Public Instruction shall report to the Joint
+48 Legislative Education Oversight Committee the number of public school units that are in
+49 compliance with this section and the name of any public school unit which is not in compliance
+50 with this section."
+51 SECTION 3. G.S. 115C-85 reads as rewritten:
+Page 2 Senate Bill 948-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 "§ 115C-85. Textbook needs are determined by course of study.
+2 When the State Board of Education has adopted, upon the recommendation of the
+3 Superintendent of Public Instruction, a standard course of study at each instructional level in the
+4 elementary school and the secondary school, setting forth what subjects shall be taught at each
+5 level, it shall proceed to select and adopt textbooks.
+6 As used in this part, "textbook" means systematically organized material comprehensive
+7 enough to cover the primary objectives outlined in the standard course of study for a grade or
+8 course. Formats for textbooks may be print or nonprint, including hardbound books, softbound
+9 books, activity-oriented programs, classroom kits, and technology-based programs that require
+10 the use of electronic equipment in order to be used in the learning process.process, provided that
+11 printed materials shall be used in all classrooms for kindergarten through grade eight.
+12 Textbooks adopted in accordance with the provisions of this Part shall be used by the public
+13 schools of the State except as provided in G.S. 115C-98(b1)."
+14 SECTION 4.(a) There is appropriated from the General Fund to the Department of
+15 Public Instruction the sum of nine hundred thirty million dollars ($930,000,000) in recurring
+16 funds beginning with the 2026-2027 fiscal year to be used to allocate one teacher assistant to
+17 every classroom serving students in kindergarten through grade five.
+18 SECTION 4.(b) There is appropriated from the General Fund to the Department of
+19 Public Instruction the sum of four million three hundred thousand dollars ($4,300,000) in
+20 recurring funds beginning with the 2026-2027 fiscal year to provide grants pursuant to
+21 G.S. 115C-269.31.
+22 SECTION 5. This act is effective when it becomes law.
+Senate Bill 948-First Edition Page 3
+
+[DELETED:  1 S ( S R A A P S T S " ( P h l r w r t t c e i t f … ( T s h t o a e t a i b t S f c S " ( T ( W c t a C b T c L d P e T f G ( W c ( T p p d ( F a P c]
+[DELETED:  S  S b R c T t e p r a t a a t b c ( F a A s o b P s f i w c d t s c R t a w c d t i o o c f u b a s a u f i p r p d P w l e R f ( F a A i b P w l c R d d R s w c d o o n s m ( A d ( I a b ( A ( ( A r t m a s h c i a w a d ( T c a ( N p u P l L E O C t n o p s u t a i c w S]
+[DELETED:  S  P " W t S B o E h a u t r o t S e l A e c b t p T s S P f e S P I t s o f m t h t d ( i r f b w t 2 f y t p g p t G S]

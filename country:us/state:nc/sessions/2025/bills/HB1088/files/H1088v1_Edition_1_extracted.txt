@@ -1,0 +1,55 @@
+Title: HOUSE BILL 1088
+Official Title: HOUSE BILL 1088
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Traffic Signal Preemption Software. (Public)
+Sponsors: Representative K. Brown.
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO FUND TRAFFIC SIGNAL PREEMPTION TECHNOLOGY.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. There is appropriated from the Highway Fund to the Department of
+5 Transportation the sum of two million seven hundred thousand dollars ($2,700,000) in
+6 nonrecurring funds for the 2026-2027 fiscal year to be used for traffic signal preemption
+7 technology to allow real-time signal changes prioritizing first responder vehicles, reducing
+8 response times and improving intersection safety.
+9 SECTION 2. This act becomes effective July 1, 2026.
+*H1088-v-1*
+[DELETED:  1 T ( R A A A T S T t s o t m s h t d ( i n f f t 2 f y t b u f t s p t t a r s c p f r v r r S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1088
+Short Title: Traffic Signal Preemption Software. (Public)
+Sponsors: Representative K. Brown.
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO FUND TRAFFIC SIGNAL PREEMPTION TECHNOLOGY.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. There is appropriated from the Highway Fund to the Department of
+5 Transportation the sum of two million seven hundred thousand dollars ($2,700,000) in
+6 nonrecurring funds for the 2026-2027 fiscal year to be used for traffic signal preemption
+7 technology to allow real-time signal changes prioritizing first responder vehicles, reducing
+8 response times and improving intersection safety.
+9 SECTION 2. This act becomes effective July 1, 2026.
+*H1088-v-1*
+
+[DELETED:  1 T ( R A A A T S T t s o t m s h t d ( i n f f t 2 f y t b u f t s p t t a r s c p f r v r r S]

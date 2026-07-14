@@ -1,0 +1,340 @@
+Title: HOUSE BILL 1172
+Official Title: HOUSE BILL 1172
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: The Ciji Graham Act. (Public)
+Sponsors: Representatives Johnson-Hostler, Greenfield, and Clark (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO IMPROVE MATERNAL HEALTH OUTCOMES AND REDUCE MATERNAL
+3 HEALTH DISPARITIES IN NORTH CAROLINA THROUGH THE ESTABLISHMENT
+4 OF A HIGH-RISK PREGNANCY CARE NAVIGATION PROGRAM, A PREGNANCY
+5 CONSULTATION HOTLINE, A CENTRALIZED CLINICAL INFORMATION HUB
+6 FOR MANAGING HIGH-RISK PREGNANCIES, AND STANDARDIZED REFERRAL
+7 PATHWAYS FOR HIGH-RISK PREGNANCIES; AND TO APPROPRIATE FUNDS TO
+8 THE DEPARTMENT OF HEALTH AND HUMAN SERVICES, DIVISION OF PUBLIC
+9 HEALTH, FOR THESE PURPOSES.
+10 Whereas, the untimely death of Ciji Graham – a beloved mother, daughter, and friend
+11 – highlights the devastating intersection of medical risk, delayed treatment, and restrictive
+12 healthcare policies; and
+13 Whereas, current policy created an unfortunate situation in which Ciji Graham's
+14 serious underlying illness, the hesitancy of physicians due to restrictive laws, and policy-driven
+15 delays prevented timely, coordinated care when minutes and days mattered; and
+16 Whereas, maternal health outcomes in North Carolina remain a significant public
+17 health concern, particularly among Black women and rural populations; and
+18 Whereas, there is an urgent need to bolster North Carolina's healthcare system to
+19 ensure access to timely and accurate information, resources, and care for high-risk pregnancies;
+20 Now, therefore,
+21 The General Assembly of North Carolina enacts:
+22
+23 PART I. TITLE
+24 SECTION 1.1. This act shall be known as "The Ciji Graham Act."
+25
+26 PART II. HIGH-RISK PREGNANCY CARE NAVIGATION PROGRAM
+27 SECTION 2.1.(a) There is appropriated from the General Fund to the Department
+28 of Health and Human Services, Division of Public Health, the sum of two million three hundred
+29 thousand dollars ($2,300,000) in recurring funds beginning in the 2026-2027 fiscal year to
+30 establish a uniform High-Risk Pregnancy Care Navigation Program (the program) in each of the
+31 six North Carolina Medicaid managed care regions to support the use of licensed nurses as care
+32 navigators to assist individuals experiencing high-risk pregnancies with accessing timely,
+33 equitable, and clinically appropriate care. These funds shall be allocated and used as follows:
+34 (1) One million three hundred thousand dollars ($1,300,000) to establish 12
+35 full-time, permanent Nurse Consultant positions within the Department of
+*H1172-v-1*
+General Assembly Of North Carolina Session 2025
+1 Health and Human Services, Division of Public Health, to be distributed
+2 equally among the six North Carolina Medicaid managed care regions. Each
+3 Nurse Consultant position funded by this section shall be dedicated to
+4 performing the following duties within the program, either in person or
+5 through the use of telehealth services, defined as the use of two-way, real-time
+6 interactive audio and video where the nurse consultant and the pregnant
+7 patient can hear and see each other:
+8 a. Assisting patients in understanding diagnoses associated with
+9 high-risk pregnancy conditions.
+10 b. Coordinating timely referrals to appropriate providers, including (i)
+11 maternal-fetal medicine specialists and high-risk obstetricians, (ii)
+12 hospital systems equipped for high-risk labor and delivery, and (iii)
+13 providers offering pregnancy termination services, when clinically
+14 indicated and consistent with patient choice and State law.
+15 c. Providing culturally competent, patient-centered guidance that
+16 respects patient autonomy and informed decision making.
+17 d. Addressing barriers to care, including transportation, insurance
+18 enrollment, appointment scheduling, and continuity of care.
+19 (2) One million dollars ($1,000,000) to cover the cost of program administration
+20 and to purchase equipment, high-speed internet access, and any other
+21 infrastructure necessary to establish telehealth services. The Department of
+22 Health and Human Services, Division of Public Health, may use up to one
+23 percent (1%) of these funds for administrative purposes related to the
+24 program.
+25 SECTION 2.1.(b) Annually by September 1, beginning September 1, 2028, the
+26 Department of Health and Human Services, Division of Public Health, shall report to the Joint
+27 Legislative Oversight Committee on Health and Human Services and the Fiscal Research
+28 Division on the establishment and operation of the High-Risk Pregnancy Care Navigation
+29 Program authorized and funded by subsection (a) of this section. The report shall include at least
+30 all of the following:
+31 (1) An itemized list of program expenditures.
+32 (2) A description of the care navigation services provided under the program,
+33 including the utilization frequency of these services.
+34 (3) An evaluation of the timeliness of referrals provided under the program and
+35 the impact on patient access to care.
+36 (4) An evaluation of the impact of the program on maternal and infant health
+37 outcomes associated with high-risk pregnancies.
+38 (5) Any obstacles to effective program operation and recommendations for
+39 program improvement.
+40
+41 PART III. PREGNANCY CONSULTATION HOTLINE
+42 SECTION 3.1.(a) There is appropriated from the General Fund to the Department
+43 of Health and Human Services, Division of Public Health, the sum of seven million seven
+44 hundred thousand dollars ($7,700,000) in recurring funds beginning in the 2026-2027 fiscal year
+45 to establish a statewide hotline that provides free, real-time telephone consultation to healthcare
+46 providers serving pregnant patients and community-based organizations focused on caring for
+47 pregnant women. The hotline shall be staffed Monday through Friday from 8:00 A.M. to 5:00
+48 P.M. with qualified healthcare providers capable of doing all of the following:
+49 (1) Providing rapid access to clinical guidance from qualified specialists,
+50 including maternal-fetal medicine specialists.
+51 (2) Offering immediate case-specific clinical guidance.
+Page 2 House Bill 1172-First Edition
+General Assembly Of North Carolina Session 2025
+1 (3) Supporting urgent and emergent decision making.
+2 (4) Providing referrals to all of the following:
+3 a. North Carolina's Pregnancy Medical Home Program.
+4 b. Maternal health services.
+5 c. Nutritional assistance programs, including the Women, Infants, and
+6 Children (WIC) Program and the Food and Nutrition Services
+7 Program.
+8 d. Community-based organizations that can serve as a resource to both
+9 healthcare providers and pregnant patients.
+10 SECTION 3.1.(b) No later than September 1, 2027, and September 1, 2028, the
+11 Department of Health and Human Services, Division of Public Health, shall submit to the Joint
+12 Legislative Oversight Committee on Health and Human Services and the Fiscal Research
+13 Division the following information regarding the hotline established pursuant to subsection (a)
+14 of this section:
+15 (1) The number of consultations provided over the previous fiscal year.
+16 (2) The geographic regions of the State utilizing the services offered by the
+17 hotline.
+18 (3) The percentage of hotline consultations that resulted in referral to a
+19 maternal-fetal medicine specialist.
+20 (4) The estimated number of avoided emergency department visits resulting from
+21 the services provided through the hotline.
+22 (5) Any other information the Department of Health and Human Services,
+23 Division of Public Health, deems relevant to successful operation of the
+24 hotline.
+25
+26 PART IV. CENTRALIZED CLINICAL INFORMATION HUB FOR MANAGING
+27 HIGH-RISK PREGNANCIES
+28 SECTION 4.1. The Department of Health and Human Services shall develop and
+29 maintain a centralized, evidence-based digital information hub for clinicians managing patients
+30 with high-risk pregnancies that includes all of the following:
+31 (1) Up-to-date clinical guidelines for managing high-risk pregnancy conditions.
+32 (2) A real-time, regionally organized directory of:
+33 a. Maternal-fetal medicine specialists.
+34 b. High-risk obstetric providers.
+35 c. Facilities equipped for complex pregnancy care.
+36 d. Providers of abortion care services, to the extent permitted by State
+37 law.
+38 (3) Standardized referral protocols to support timely and appropriate care
+39 transitions.
+40 (4) Decision-support tools to assist clinicians in counseling and referral for
+41 patients with complex or life-threatening conditions during pregnancy.
+42
+43 PART V. STANDARDIZED REFERRAL PATHWAYS FOR HIGH-RISK
+44 PREGNANCIES
+45 SECTION 5.1. The Department of Health and Human Services, in consultation with
+46 relevant stakeholders, shall establish uniform referral pathways to ensure that patients diagnosed
+47 with high-risk pregnancy conditions are offered either of the following:
+48 (1) For those seeking to continue their pregnancies, immediate referral to
+49 appropriate high-risk obstetric or maternal-fetal medicine care.
+House Bill 1172-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (2) For those electing not to continue their pregnancies or when termination of
+2 pregnancy is medically indicated, timely referral to qualified providers for
+3 pregnancy termination services to the extent permitted by State law.
+4
+5 PART VI. EFFECTIVE DATE
+6 SECTION 6.1. This act becomes effective July 1, 2026.
+Page 4 House Bill 1172-First Edition
+[DELETED:  1 T ( R A A A H O C H A C C I H F P T H W – h t d i o m r d t a r h W c p c a u s i w C G s d W h W e N T  P S  P S o t d ( i r f b i t 2 f y t e s n t a i e h p w a t e ( O m t h t d ( t e 1 f]
+[DELETED:  S  H H a H S D o P H t b d e N C p f b t s s b d t p t f d w t p e i p o t i a a v w t n c a t p p a A p i u d a w h b C m m s a h o ( h p o p t s w c i c P c c p g t r d A b t c i t i e ( O a t p e h i a a a o i H p ( o t f f a p r t t p S D L O C o H a H S a t F R D o t e a o o t H P C N P a ( A ( A i ( A t ( A o ( A o t e p o a r f p  P S o H a H S D o P H t s o s m s h t p p P ( P r a t c g f q s i ( O]
+[DELETED:  S  P ( S ( P a N b M c N C ( P a t F a N S P d C h S D L O C o H a H S a t F R D o ( T ( T g r o t S u t s o b t h ( T p o h c t r i r t a m ( T t ( A o i t D o H a H S D o P H d r t s o o t h  P I C C I H F M H S m w ( U ( A a M b H c F d P l ( S r p t s t a a c t ( D t t a c i c a r f p  P V S R P F H P S r w ( F t s t c t p i r t a]
+[DELETED:  S  H ( F p p  P S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1172
+Short Title: The Ciji Graham Act. (Public)
+Sponsors: Representatives Johnson-Hostler, Greenfield, and Clark (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO IMPROVE MATERNAL HEALTH OUTCOMES AND REDUCE MATERNAL
+3 HEALTH DISPARITIES IN NORTH CAROLINA THROUGH THE ESTABLISHMENT
+4 OF A HIGH-RISK PREGNANCY CARE NAVIGATION PROGRAM, A PREGNANCY
+5 CONSULTATION HOTLINE, A CENTRALIZED CLINICAL INFORMATION HUB
+6 FOR MANAGING HIGH-RISK PREGNANCIES, AND STANDARDIZED REFERRAL
+7 PATHWAYS FOR HIGH-RISK PREGNANCIES; AND TO APPROPRIATE FUNDS TO
+8 THE DEPARTMENT OF HEALTH AND HUMAN SERVICES, DIVISION OF PUBLIC
+9 HEALTH, FOR THESE PURPOSES.
+10 Whereas, the untimely death of Ciji Graham – a beloved mother, daughter, and friend
+11 – highlights the devastating intersection of medical risk, delayed treatment, and restrictive
+12 healthcare policies; and
+13 Whereas, current policy created an unfortunate situation in which Ciji Graham's
+14 serious underlying illness, the hesitancy of physicians due to restrictive laws, and policy-driven
+15 delays prevented timely, coordinated care when minutes and days mattered; and
+16 Whereas, maternal health outcomes in North Carolina remain a significant public
+17 health concern, particularly among Black women and rural populations; and
+18 Whereas, there is an urgent need to bolster North Carolina's healthcare system to
+19 ensure access to timely and accurate information, resources, and care for high-risk pregnancies;
+20 Now, therefore,
+21 The General Assembly of North Carolina enacts:
+22
+23 PART I. TITLE
+24 SECTION 1.1. This act shall be known as "The Ciji Graham Act."
+25
+26 PART II. HIGH-RISK PREGNANCY CARE NAVIGATION PROGRAM
+27 SECTION 2.1.(a) There is appropriated from the General Fund to the Department
+28 of Health and Human Services, Division of Public Health, the sum of two million three hundred
+29 thousand dollars ($2,300,000) in recurring funds beginning in the 2026-2027 fiscal year to
+30 establish a uniform High-Risk Pregnancy Care Navigation Program (the program) in each of the
+31 six North Carolina Medicaid managed care regions to support the use of licensed nurses as care
+32 navigators to assist individuals experiencing high-risk pregnancies with accessing timely,
+33 equitable, and clinically appropriate care. These funds shall be allocated and used as follows:
+34 (1) One million three hundred thousand dollars ($1,300,000) to establish 12
+35 full-time, permanent Nurse Consultant positions within the Department of
+*H1172-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 Health and Human Services, Division of Public Health, to be distributed
+2 equally among the six North Carolina Medicaid managed care regions. Each
+3 Nurse Consultant position funded by this section shall be dedicated to
+4 performing the following duties within the program, either in person or
+5 through the use of telehealth services, defined as the use of two-way, real-time
+6 interactive audio and video where the nurse consultant and the pregnant
+7 patient can hear and see each other:
+8 a. Assisting patients in understanding diagnoses associated with
+9 high-risk pregnancy conditions.
+10 b. Coordinating timely referrals to appropriate providers, including (i)
+11 maternal-fetal medicine specialists and high-risk obstetricians, (ii)
+12 hospital systems equipped for high-risk labor and delivery, and (iii)
+13 providers offering pregnancy termination services, when clinically
+14 indicated and consistent with patient choice and State law.
+15 c. Providing culturally competent, patient-centered guidance that
+16 respects patient autonomy and informed decision making.
+17 d. Addressing barriers to care, including transportation, insurance
+18 enrollment, appointment scheduling, and continuity of care.
+19 (2) One million dollars ($1,000,000) to cover the cost of program administration
+20 and to purchase equipment, high-speed internet access, and any other
+21 infrastructure necessary to establish telehealth services. The Department of
+22 Health and Human Services, Division of Public Health, may use up to one
+23 percent (1%) of these funds for administrative purposes related to the
+24 program.
+25 SECTION 2.1.(b) Annually by September 1, beginning September 1, 2028, the
+26 Department of Health and Human Services, Division of Public Health, shall report to the Joint
+27 Legislative Oversight Committee on Health and Human Services and the Fiscal Research
+28 Division on the establishment and operation of the High-Risk Pregnancy Care Navigation
+29 Program authorized and funded by subsection (a) of this section. The report shall include at least
+30 all of the following:
+31 (1) An itemized list of program expenditures.
+32 (2) A description of the care navigation services provided under the program,
+33 including the utilization frequency of these services.
+34 (3) An evaluation of the timeliness of referrals provided under the program and
+35 the impact on patient access to care.
+36 (4) An evaluation of the impact of the program on maternal and infant health
+37 outcomes associated with high-risk pregnancies.
+38 (5) Any obstacles to effective program operation and recommendations for
+39 program improvement.
+40
+41 PART III. PREGNANCY CONSULTATION HOTLINE
+42 SECTION 3.1.(a) There is appropriated from the General Fund to the Department
+43 of Health and Human Services, Division of Public Health, the sum of seven million seven
+44 hundred thousand dollars ($7,700,000) in recurring funds beginning in the 2026-2027 fiscal year
+45 to establish a statewide hotline that provides free, real-time telephone consultation to healthcare
+46 providers serving pregnant patients and community-based organizations focused on caring for
+47 pregnant women. The hotline shall be staffed Monday through Friday from 8:00 A.M. to 5:00
+48 P.M. with qualified healthcare providers capable of doing all of the following:
+49 (1) Providing rapid access to clinical guidance from qualified specialists,
+50 including maternal-fetal medicine specialists.
+51 (2) Offering immediate case-specific clinical guidance.
+Page 2 House Bill 1172-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (3) Supporting urgent and emergent decision making.
+2 (4) Providing referrals to all of the following:
+3 a. North Carolina's Pregnancy Medical Home Program.
+4 b. Maternal health services.
+5 c. Nutritional assistance programs, including the Women, Infants, and
+6 Children (WIC) Program and the Food and Nutrition Services
+7 Program.
+8 d. Community-based organizations that can serve as a resource to both
+9 healthcare providers and pregnant patients.
+10 SECTION 3.1.(b) No later than September 1, 2027, and September 1, 2028, the
+11 Department of Health and Human Services, Division of Public Health, shall submit to the Joint
+12 Legislative Oversight Committee on Health and Human Services and the Fiscal Research
+13 Division the following information regarding the hotline established pursuant to subsection (a)
+14 of this section:
+15 (1) The number of consultations provided over the previous fiscal year.
+16 (2) The geographic regions of the State utilizing the services offered by the
+17 hotline.
+18 (3) The percentage of hotline consultations that resulted in referral to a
+19 maternal-fetal medicine specialist.
+20 (4) The estimated number of avoided emergency department visits resulting from
+21 the services provided through the hotline.
+22 (5) Any other information the Department of Health and Human Services,
+23 Division of Public Health, deems relevant to successful operation of the
+24 hotline.
+25
+26 PART IV. CENTRALIZED CLINICAL INFORMATION HUB FOR MANAGING
+27 HIGH-RISK PREGNANCIES
+28 SECTION 4.1. The Department of Health and Human Services shall develop and
+29 maintain a centralized, evidence-based digital information hub for clinicians managing patients
+30 with high-risk pregnancies that includes all of the following:
+31 (1) Up-to-date clinical guidelines for managing high-risk pregnancy conditions.
+32 (2) A real-time, regionally organized directory of:
+33 a. Maternal-fetal medicine specialists.
+34 b. High-risk obstetric providers.
+35 c. Facilities equipped for complex pregnancy care.
+36 d. Providers of abortion care services, to the extent permitted by State
+37 law.
+38 (3) Standardized referral protocols to support timely and appropriate care
+39 transitions.
+40 (4) Decision-support tools to assist clinicians in counseling and referral for
+41 patients with complex or life-threatening conditions during pregnancy.
+42
+43 PART V. STANDARDIZED REFERRAL PATHWAYS FOR HIGH-RISK
+44 PREGNANCIES
+45 SECTION 5.1. The Department of Health and Human Services, in consultation with
+46 relevant stakeholders, shall establish uniform referral pathways to ensure that patients diagnosed
+47 with high-risk pregnancy conditions are offered either of the following:
+48 (1) For those seeking to continue their pregnancies, immediate referral to
+49 appropriate high-risk obstetric or maternal-fetal medicine care.
+House Bill 1172-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (2) For those electing not to continue their pregnancies or when termination of
+2 pregnancy is medically indicated, timely referral to qualified providers for
+3 pregnancy termination services to the extent permitted by State law.
+4
+5 PART VI. EFFECTIVE DATE
+6 SECTION 6.1. This act becomes effective July 1, 2026.
+Page 4 House Bill 1172-First Edition
+
+[DELETED:  1 T ( R A A A H O C H A C C I H F P T H W – h t d i o m r d t a r h W c p c a u s i w C G s d W h W e N T  P S  P S o t d ( i r f b i t 2 f y t e s n t a i e h p w a t e ( O m t h t d ( t e 1 f]
+[DELETED:  S  H H a H S D o P H t b d e N C p f b t s s b d t p t f d w t p e i p o t i a a v w t n c a t p p a A p i u d a w h b C m m s a h o ( h p o p t s w c i c P c c p g t r d A b t c i t i e ( O a t p e h i a a a o i H p ( o t f f a p r t t p S D L O C o H a H S a t F R D o t e a o o t H P C N P a ( A ( A i ( A t ( A o ( A o t e p o a r f p  P S o H a H S D o P H t s o s m s h t p p P ( P r a t c g f q s i ( O]
+[DELETED:  S  P ( S ( P a N b M c N C ( P a t F a N S P d C h S D L O C o H a H S a t F R D o ( T ( T g r o t S u t s o b t h ( T p o h c t r i r t a m ( T t ( A o i t D o H a H S D o P H d r t s o o t h  P I C C I H F M H S m w ( U ( A a M b H c F d P l ( S r p t s t a a c t ( D t t a c i c a r f p  P V S R P F H P S r w ( F t s t c t p i r t a]
+[DELETED:  S  H ( F p p  P S]

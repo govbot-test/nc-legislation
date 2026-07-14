@@ -1,0 +1,570 @@
+Title: HOUSE BILL 1043
+Official Title: HOUSE BILL 1043
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: CHCCS Act. (Public)
+Sponsors: Representatives B. Jones, Miller, Balkcom, and N. Jackson (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Education - K-12, if favorable, Rules, Calendar, and Operations of the House
+April 27, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AMEND PUBLIC SCHOOL UNIT REQUIREMENTS REGARDING CERTAIN
+3 PARENTAL RIGHTS, TO PROVIDE FOR CERTAIN REMEDIES AND COMPLIANCE
+4 ACTIONS FOR VIOLATIONS OF ARTICLE 7B OF CHAPTER 115C OF THE
+5 GENERAL STATUTES, TO PROVIDE FOR GENERAL ASSEMBLY ACCESS TO
+6 SCHOOL PERSONNEL RECORDS, TO ADD A RESPONSIBILITY FOR THE STATE
+7 AUDITOR TO CONDUCT INVESTIGATIONS INTO VIOLATIONS OF ARTICLE 7B
+8 OF CHAPTER 115C OF THE GENERAL STATUTES BY PUBLIC SCHOOL UNITS,
+9 AND TO APPROPRIATE FUNDS FOR THOSE PURPOSES.
+10 The General Assembly of North Carolina enacts:
+11
+12 PART I. TITLE
+13 SECTION 1. This act shall be known and may be cited as the Curriculum Honesty,
+14 Compliance, and Child Safety (CHCCS) Act.
+15
+16 PART II. AMEND PUBLIC SCHOOL UNIT REQUIREMENTS
+17 SECTION 2.1. G.S. 115C-76.25(a) is amended by adding the following new
+18 subdivisions to read:
+19 "(13) The right to consent to official changes to their child's name, gender
+20 designation, or identity within school records. The school shall not change
+21 these without first receiving consent from a parent.
+22 (14) The right to access the educational records, as defined in 20 U.S.C. § 1232g,
+23 of their child. These include counseling records, intervention records,
+24 behavioral and support plans, and communications with third parties
+25 regarding the student."
+26 SECTION 2.2. G.S. 115C-76.45(a) reads as rewritten:
+27 "(a) The governing body of a public school unit shall adopt procedures to notify a parent
+28 of the following:
+29 (1) At the beginning of each school year, notice of each health care service offered
+30 at his or her child's school and the means for the parent to provide consent for
+31 any specific service. A parent's consent to a health care service does not waive
+32 the parent's right to access his or her child's educational records or health
+33 records or to be notified of changes in his or her child's services or monitoring.
+34 (2) At the beginning of each school year, procedures to exercise the parental
+35 remedies provided by G.S. 115C-76.60.
+*H1043-v-1*
+General Assembly Of North Carolina Session 2025
+1 (3) Prior to administration to students in kindergarten through third grade, a copy
+2 of any student well-being questionnaire or health screening form and the
+3 means for the parent to consent to the use of the questionnaire or form for his
+4 or her child.
+5 (4) Prior to or contemporaneous with changes, notice of changes in services or
+6 monitoring related to his or her child's mental, emotional, or physical health
+7 or well-being and the school's ability to provide a safe and supportive learning
+8 environment for that child.
+9 (5) Prior to any changes in the name or pronoun used for a student in school
+10 records or by school personnel, notice to the parent of the change.change and
+11 receive parental consent for the change pursuant to G.S. 115C-76.25(a)(13).
+12 The following are examples of changes in name use by school personnel:
+13 a. Teacher or administrator, by request of the student, calls a student by
+14 a name other than the student's first or middle name.
+15 b. Teacher or administrator uses a name other than the student's first or
+16 middle name on any certificate, award, or other document.
+17 (6) Prior to the school taking action involving sensitive matters related to the
+18 child, schools shall provide written notice to parents of the sensitive matter.
+19 The following is a nonexhaustive list of sensitive matters related to a child:
+20 a. The child receiving counseling services related to the student's
+21 sexuality or gender identity.
+22 b. Referral to outside service providers related to the following:
+23 1. Mental health of the student.
+24 2. Emotional well-being of the student.
+25 3. Sexuality or gender identity of the student.
+26 c. Classroom or school-wide discussions regarding gender identity."
+27 SECTION 2.3. G.S. 115C-76.55 reads as rewritten:
+28 "§ 115C-76.55. Age-appropriate instruction for grades kindergarten through fourth grade.
+29 Instruction on gender identity, sexual activity, or sexuality shall not be included in the
+30 curriculum provided in grades kindergarten through fourth grade, regardless of whether the
+31 information is provided by school personnel or third parties. For the purposes of this section,
+32 curriculum includes (i) the standard course of study and support materials, (ii) locally developed
+33 curriculum, (iii) supplemental instruction, (iv) any electronic, print, or non-print resources for
+34 independent use by students and school personnel and not used as part of the standard course of
+35 study for any grade or course, and (v) textbooks and other supplementary materials, but does not
+36 include responses to student-initiated questions. Teachers teaching students in kindergarten
+37 through fourth grade shall not use any third-party resources for instruction, including
+38 instructional materials, supplementary materials, or websites, except those provided by the public
+39 school unit."
+40
+41 PART III. REMEDIES AND COMPLIANCE ACTIONS FOR VIOLATIONS OF
+42 ARTICLE 7B OF CHAPTER 115C OF THE GENERAL STATUTES
+43 SECTION 3.1. Article 7B of Chapter 115C of the General Statutes is amended by
+44 adding a new Part to read:
+45 "Part 2. Legal Remedies.
+46 "§ 115C-76.10. Remedies for violations of this Part.
+47 (a) Civil Remedies. – In addition to any other remedies or procedures provided by law,
+48 for any violation of this Article, a parent may bring a cause of action against the public school
+49 unit for any of the following forms of relief:
+50 (1) Declaratory relief.
+51 (2) Injunctive relief.
+Page 2 House Bill 1043-First Edition
+General Assembly Of North Carolina Session 2025
+1 (3) Damages of five thousand dollars ($5,000) per violation.
+2 (4) Reasonable attorneys' fees and costs.
+3 (5) Any other appropriate relief as determined by the court.
+4 (b) Exhaustion of Administrative Remedies. – Prior to filing a legal challenge pursuant
+5 to subsection (a) of this section, a parent shall exhaust all administrative remedies available
+6 pursuant to this Chapter."
+7 SECTION 3.2.(a) Article 7B of Chapter 115C of the General Statutes is amended
+8 by adding a new Part to read:
+9 "Part 10. Investigative Authority and Public School Unit Accountability.
+10 "§ 115C-76.150. Authority to investigate violations of this Article.
+11 (a) The following entities may conduct independent investigations into noncompliance
+12 with this Article:
+13 (1) The Department of Public Instruction.
+14 (2) The Office of the State Auditor.
+15 (b) An entity referenced in subsection (a) of this section may perform any of the following
+16 functions as part of an independent investigation pursuant to subsection (a) of this section:
+17 (1) Conduct audits.
+18 (2) Review public school unit policies and records, not including student
+19 information protected pursuant to the Family Educational Rights and Privacy
+20 Act (FERPA), 20 U.S.C. § 1232g.
+21 (3) Interview personnel employed by the public school unit, including
+22 contractors, temporary, or interim employees.
+23 (4) Issue formal findings of noncompliance with this Article.
+24 (c) A formal finding by an entity referenced in subsection (a) of this section of
+25 noncompliance with this Article triggers the accountability measures provided in
+26 G.S. 115C-76.155. Concurrence by another entity referenced in subsection (a) of this section is
+27 not required.
+28 "§ 115C-76.155. Public school unit accountability measures.
+29 Upon a formal finding by an entity referenced in subsection (a) of G.S. 115C-76.150 of
+30 noncompliance with this Article by a public school unit, the following shall occur:
+31 (1) The entity that issued the formal finding of noncompliance shall issue notice
+32 to the following entities:
+33 a. The noncompliant public school unit.
+34 b. Each other entity referenced in subsection (a) of G.S. 115C-76.150.
+35 c. The State Board of Education.
+36 d. The Joint Legislative Education Oversight Committee.
+37 e. The Joint Legislative Commission on Governmental Operations.
+38 (2) The noncompliant public school unit has a cure period of 45 days from the
+39 date that the formal finding of noncompliance is received by the noncompliant
+40 public school unit during which the public school unit shall take steps to cure
+41 its noncompliance, as stated in the formal finding issued pursuant to
+42 G.S. 115C-76.150. The State Auditor may grant a single 30-day extension to
+43 the cure period upon submission by the public school unit of evidence of
+44 substantial progress toward a cure of the noncompliance to the State Auditor.
+45 For purposes of this section, "cure" means submitting documented evidence
+46 demonstrating corrective action for each instance of noncompliance found
+47 during investigations conducted pursuant to G.S. 115C-76.150. The following
+48 is a nonexhaustive list of types of evidence that may be submitted to the State
+49 Auditor as proof of cure:
+50 a. Revised public school unit policies that correct any policies that are
+51 noncompliant with this Article.
+House Bill 1043-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 b. Resolutions or minutes adopted by the governing body of a public
+2 school unit showing it has corrected all instances of noncompliance
+3 with this Article.
+4 c. Updated public-facing materials that are compliant with this Article.
+5 d. Training records that show faculty and staff have been trained in a
+6 manner compliant with this Article.
+7 e. Evidence of the removal of any of the following that are noncompliant
+8 with this Article:
+9 1. Support material.
+10 2. Locally developed curriculum.
+11 3. Supplemental instruction.
+12 4. Electronic, print, or non-print resource for independent use by
+13 students and school personnel and not used as part of the
+14 standard course of study for any grade or course, whether held
+15 in a formal school library or in a classroom.
+16 5. Textbook or other supplementary material.
+17 f. Affidavit submitted under penalty of perjury by the superintendent that
+18 all actions listed in this subdivision have been completed.
+19 (3) The State Auditor shall review any evidence of cure submitted pursuant to
+20 subdivision (2) of this section within 30 days of receipt. The State Auditor
+21 shall make a determination as to whether a noncompliant public school unit
+22 has made sufficient changes to comply with this Article based on any evidence
+23 of cure submitted by the public school unit. If a public school unit does not
+24 submit evidence of cure prior to the end of the cure period, the State Auditor
+25 shall issue a determination that the public school unit has not made sufficient
+26 changes to be compliant with this Article. A determination that the public
+27 school unit has not made sufficient changes to be compliant with this Article
+28 by the end of the cure period pursuant to subdivision (2) of this section shall
+29 lead to the withholding of State funds pursuant to subdivision (4) of this
+30 section. The State Auditor shall send notice of the determination to the
+31 following entities:
+32 a. The Department of Public Instruction.
+33 b. The Joint Legislative Education Oversight Committee.
+34 c. The Joint Legislative Commission on Governmental Operations.
+35 d. If the noncompliant public school unit is a local school administrative
+36 unit, regional school, or laboratory school, the superintendent of the
+37 public school unit, as defined in G.S. 115C-76.1.
+38 e. If the noncompliant public school unit is a residential school, the
+39 superintendent of the residential school, as defined in G.S. 115C-76.1,
+40 and the Director of the Budget.
+41 (4) Beginning with the end of the cure period, upon a determination by the State
+42 Auditor that a noncompliant public school unit has not made sufficient
+43 changes to be compliant with this Article, the entity responsible for allocating
+44 funds to the public school unit shall withhold from the noncompliant public
+45 school unit funding, or assess administrative penalties equivalent to the
+46 amount to be withheld, until the State Auditor determines that the public
+47 school unit is no longer noncompliant and provides notice to the entity.
+48 Funding shall be withheld as follows:
+49 a. For a local school administrative unit, funds from the central office
+50 administration allotment.
+Page 4 House Bill 1043-First Edition
+General Assembly Of North Carolina Session 2025
+1 b. For a charter school, regional school, or laboratory school, an amount
+2 equal to the per pupil equivalent of the central office administration
+3 allotment allocated to the school from the local school administrative
+4 unit in which the charter school, regional school, or laboratory school
+5 is located for each child enrolled in the charter school, regional school,
+6 or laboratory school.
+7 c. For a residential school operating under Article 9C of this Chapter,
+8 upon receipt of notice from the State Board that a residential school is
+9 noncompliant with this Article pursuant to subdivision (3) of this
+10 section, the Director of the Budget shall withhold from the residential
+11 school the percentage of funds allocated to the residential school
+12 equivalent to the percentage of State funds received by the local school
+13 administrative unit where the residential school is located from the
+14 central office administration allotment when compared to the total
+15 amount of State funds received by the local school administrative unit
+16 where the residential school is located.
+17 (5) A public school unit may continue to submit evidence of cure to the State
+18 Auditor to show sufficient changes to be compliant with this Article beyond
+19 the cure period. The State Auditor shall continue to evaluate evidence of cure
+20 submitted by a public school unit until the State Auditor makes a
+21 determination that the public school unit is compliant with this Article.
+22 (6) Upon a determination by the State Auditor that a noncompliant public school
+23 unit has made sufficient changes to be compliant with this Article after the
+24 end of the cure period, any funds withheld shall be released to the public
+25 school unit and any administrative penalties assessed shall be forgiven."
+26 SECTION 3.2.(b) G.S. 115C-218.105(a2) reads as rewritten:
+27 "(a2) The State Board shall withhold or reduce distribution of funds to a charter school if
+28 any of the following applies:
+29 …
+30 (4) An entity submits a formal finding of noncompliance with Article 7B of this
+31 Chapter by the charter school pursuant to G.S. 115C-76.150 and the charter
+32 school does not provide sufficient evidence of cure to the State Auditor during
+33 the cure period pursuant to G.S. 115C-76.155(2) resulting in the State Auditor
+34 determining that the charter school is noncompliant pursuant to
+35 G.S. 115C-76.155(3)."
+36
+37 PART IV. GENERAL ASSEMBLY ACCESS TO SCHOOL PERSONNEL RECORDS
+38 SECTION 4. G.S. 115C-321(a) reads as rewritten:
+39 "§ 115C-321. Confidential information in personnel files; access to information.
+40 (a) All information contained in a personnel file, except as otherwise provided in this
+41 Chapter, is confidential and shall not be open for inspection and examination except to any of the
+42 following persons:
+43 …
+44 (7) The General Assembly or any committee of the General Assembly upon
+45 issuance of a subpoena by the General Assembly or any committee of the
+46 General Assembly for the personnel file."
+47
+48 PART V. RESPONSIBILITIES OF STATE AUDITOR
+49 SECTION 5. G.S. 147-64.6(c) is amended by adding the following new subdivisions
+50 to read:
+House Bill 1043-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 "(25) The Auditor may make independent investigations of public school units for
+2 compliance with Article 7B of Chapter 115C of the General Statutes pursuant
+3 to G.S. 115C-76.150.
+4 (26) The Auditor shall perform the duties required by G.S. 115C-76.155."
+5
+6 PART VI. APPROPRIATIONS
+7 SECTION 6. There is appropriated from the General Fund to the Department of
+8 Public Instruction the sum of ten thousand dollars ($10,000) in nonrecurring funds for the
+9 2026-2027 fiscal year to implement the provisions of this act.
+10
+11 PART VII. EFFECTIVE DATE
+12 SECTION 7. This act becomes effective July 1, 2026.
+Page 6 House Bill 1043-First Edition
+[DELETED:  1 C ( R E A A P A F V O A 7 O C 1 O T G S T P F G A A T S A O A T  P S C  P S 2  G i a b a t f n s " T r t c t o c t t c n g d t ( T o t c T i c r i r b a s p a c w t p r S " T o ( A a a t r ( A y r]
+[DELETED:  S  H ( P o a s w q o h s f a t m o ( P m o e ( P r r T a T a b T m ( P c T a T c r c s r t t s s b R 1 M 2 E 3 S c C S " I o g i s a o s s n b i i t c p i g k t f g r o t i c c i s i r t s q T t s i k t f g s n u a t r f i i i s  P I R A C A F V O A S a " " ( C f u ( D ( I]
+[DELETED:  S  P ( D ( R ( A ( E t p S b " " ( T w ( T ( T ( A f ( C ( R p s u p a r n i s i A ( I p e b t p s u i c ( I ( A f f b a e r i s ( o t s o n w t A t t a m p i G n " U n ( T t a T b E c T d T e T ( T d p i n a s i t f f i p t G t e s F d d i A a R n]
+[DELETED:  S  H b R s w c U d T m e E w 1 S 2 L 3 S 4 E s a s p a n u a p o t s i 5 T f A a ( T s s h o s s c s b l t t w o f p t s ( s T S A s s n o t d t t f a T b T c T d I u p e I t n p s u i a r s t s a ( B A t a n p s u h n m s c f s u f o a a p e t t a t b w u t S A d t t p s u i n l n a p n t t e F a F a]
+[DELETED:  S  P b F e a u i o c F u n w t A p t s ( o t s s t p o f a t t r s e a c o a a w c t t t a w ( A A t s b a p s u u t S A m a d ( U u e s S " T a … ( A C s t d t t c s i n p t G  P S " ( A C f … ( T G A o a c o t G A u i G  P S t]
+[DELETED:  S  H " T c t ( T  P S P I t s o t t d ( i n f f t 2  P S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1043
+Short Title: CHCCS Act. (Public)
+Sponsors: Representatives B. Jones, Miller, Balkcom, and N. Jackson (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Education - K-12, if favorable, Rules, Calendar, and Operations of the House
+April 27, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AMEND PUBLIC SCHOOL UNIT REQUIREMENTS REGARDING CERTAIN
+3 PARENTAL RIGHTS, TO PROVIDE FOR CERTAIN REMEDIES AND COMPLIANCE
+4 ACTIONS FOR VIOLATIONS OF ARTICLE 7B OF CHAPTER 115C OF THE
+5 GENERAL STATUTES, TO PROVIDE FOR GENERAL ASSEMBLY ACCESS TO
+6 SCHOOL PERSONNEL RECORDS, TO ADD A RESPONSIBILITY FOR THE STATE
+7 AUDITOR TO CONDUCT INVESTIGATIONS INTO VIOLATIONS OF ARTICLE 7B
+8 OF CHAPTER 115C OF THE GENERAL STATUTES BY PUBLIC SCHOOL UNITS,
+9 AND TO APPROPRIATE FUNDS FOR THOSE PURPOSES.
+10 The General Assembly of North Carolina enacts:
+11
+12 PART I. TITLE
+13 SECTION 1. This act shall be known and may be cited as the Curriculum Honesty,
+14 Compliance, and Child Safety (CHCCS) Act.
+15
+16 PART II. AMEND PUBLIC SCHOOL UNIT REQUIREMENTS
+17 SECTION 2.1. G.S. 115C-76.25(a) is amended by adding the following new
+18 subdivisions to read:
+19 "(13) The right to consent to official changes to their child's name, gender
+20 designation, or identity within school records. The school shall not change
+21 these without first receiving consent from a parent.
+22 (14) The right to access the educational records, as defined in 20 U.S.C. § 1232g,
+23 of their child. These include counseling records, intervention records,
+24 behavioral and support plans, and communications with third parties
+25 regarding the student."
+26 SECTION 2.2. G.S. 115C-76.45(a) reads as rewritten:
+27 "(a) The governing body of a public school unit shall adopt procedures to notify a parent
+28 of the following:
+29 (1) At the beginning of each school year, notice of each health care service offered
+30 at his or her child's school and the means for the parent to provide consent for
+31 any specific service. A parent's consent to a health care service does not waive
+32 the parent's right to access his or her child's educational records or health
+33 records or to be notified of changes in his or her child's services or monitoring.
+34 (2) At the beginning of each school year, procedures to exercise the parental
+35 remedies provided by G.S. 115C-76.60.
+*H1043-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (3) Prior to administration to students in kindergarten through third grade, a copy
+2 of any student well-being questionnaire or health screening form and the
+3 means for the parent to consent to the use of the questionnaire or form for his
+4 or her child.
+5 (4) Prior to or contemporaneous with changes, notice of changes in services or
+6 monitoring related to his or her child's mental, emotional, or physical health
+7 or well-being and the school's ability to provide a safe and supportive learning
+8 environment for that child.
+9 (5) Prior to any changes in the name or pronoun used for a student in school
+10 records or by school personnel, notice to the parent of the change.change and
+11 receive parental consent for the change pursuant to G.S. 115C-76.25(a)(13).
+12 The following are examples of changes in name use by school personnel:
+13 a. Teacher or administrator, by request of the student, calls a student by
+14 a name other than the student's first or middle name.
+15 b. Teacher or administrator uses a name other than the student's first or
+16 middle name on any certificate, award, or other document.
+17 (6) Prior to the school taking action involving sensitive matters related to the
+18 child, schools shall provide written notice to parents of the sensitive matter.
+19 The following is a nonexhaustive list of sensitive matters related to a child:
+20 a. The child receiving counseling services related to the student's
+21 sexuality or gender identity.
+22 b. Referral to outside service providers related to the following:
+23 1. Mental health of the student.
+24 2. Emotional well-being of the student.
+25 3. Sexuality or gender identity of the student.
+26 c. Classroom or school-wide discussions regarding gender identity."
+27 SECTION 2.3. G.S. 115C-76.55 reads as rewritten:
+28 "§ 115C-76.55. Age-appropriate instruction for grades kindergarten through fourth grade.
+29 Instruction on gender identity, sexual activity, or sexuality shall not be included in the
+30 curriculum provided in grades kindergarten through fourth grade, regardless of whether the
+31 information is provided by school personnel or third parties. For the purposes of this section,
+32 curriculum includes (i) the standard course of study and support materials, (ii) locally developed
+33 curriculum, (iii) supplemental instruction, (iv) any electronic, print, or non-print resources for
+34 independent use by students and school personnel and not used as part of the standard course of
+35 study for any grade or course, and (v) textbooks and other supplementary materials, but does not
+36 include responses to student-initiated questions. Teachers teaching students in kindergarten
+37 through fourth grade shall not use any third-party resources for instruction, including
+38 instructional materials, supplementary materials, or websites, except those provided by the public
+39 school unit."
+40
+41 PART III. REMEDIES AND COMPLIANCE ACTIONS FOR VIOLATIONS OF
+42 ARTICLE 7B OF CHAPTER 115C OF THE GENERAL STATUTES
+43 SECTION 3.1. Article 7B of Chapter 115C of the General Statutes is amended by
+44 adding a new Part to read:
+45 "Part 2. Legal Remedies.
+46 "§ 115C-76.10. Remedies for violations of this Part.
+47 (a) Civil Remedies. – In addition to any other remedies or procedures provided by law,
+48 for any violation of this Article, a parent may bring a cause of action against the public school
+49 unit for any of the following forms of relief:
+50 (1) Declaratory relief.
+51 (2) Injunctive relief.
+Page 2 House Bill 1043-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (3) Damages of five thousand dollars ($5,000) per violation.
+2 (4) Reasonable attorneys' fees and costs.
+3 (5) Any other appropriate relief as determined by the court.
+4 (b) Exhaustion of Administrative Remedies. – Prior to filing a legal challenge pursuant
+5 to subsection (a) of this section, a parent shall exhaust all administrative remedies available
+6 pursuant to this Chapter."
+7 SECTION 3.2.(a) Article 7B of Chapter 115C of the General Statutes is amended
+8 by adding a new Part to read:
+9 "Part 10. Investigative Authority and Public School Unit Accountability.
+10 "§ 115C-76.150. Authority to investigate violations of this Article.
+11 (a) The following entities may conduct independent investigations into noncompliance
+12 with this Article:
+13 (1) The Department of Public Instruction.
+14 (2) The Office of the State Auditor.
+15 (b) An entity referenced in subsection (a) of this section may perform any of the following
+16 functions as part of an independent investigation pursuant to subsection (a) of this section:
+17 (1) Conduct audits.
+18 (2) Review public school unit policies and records, not including student
+19 information protected pursuant to the Family Educational Rights and Privacy
+20 Act (FERPA), 20 U.S.C. § 1232g.
+21 (3) Interview personnel employed by the public school unit, including
+22 contractors, temporary, or interim employees.
+23 (4) Issue formal findings of noncompliance with this Article.
+24 (c) A formal finding by an entity referenced in subsection (a) of this section of
+25 noncompliance with this Article triggers the accountability measures provided in
+26 G.S. 115C-76.155. Concurrence by another entity referenced in subsection (a) of this section is
+27 not required.
+28 "§ 115C-76.155. Public school unit accountability measures.
+29 Upon a formal finding by an entity referenced in subsection (a) of G.S. 115C-76.150 of
+30 noncompliance with this Article by a public school unit, the following shall occur:
+31 (1) The entity that issued the formal finding of noncompliance shall issue notice
+32 to the following entities:
+33 a. The noncompliant public school unit.
+34 b. Each other entity referenced in subsection (a) of G.S. 115C-76.150.
+35 c. The State Board of Education.
+36 d. The Joint Legislative Education Oversight Committee.
+37 e. The Joint Legislative Commission on Governmental Operations.
+38 (2) The noncompliant public school unit has a cure period of 45 days from the
+39 date that the formal finding of noncompliance is received by the noncompliant
+40 public school unit during which the public school unit shall take steps to cure
+41 its noncompliance, as stated in the formal finding issued pursuant to
+42 G.S. 115C-76.150. The State Auditor may grant a single 30-day extension to
+43 the cure period upon submission by the public school unit of evidence of
+44 substantial progress toward a cure of the noncompliance to the State Auditor.
+45 For purposes of this section, "cure" means submitting documented evidence
+46 demonstrating corrective action for each instance of noncompliance found
+47 during investigations conducted pursuant to G.S. 115C-76.150. The following
+48 is a nonexhaustive list of types of evidence that may be submitted to the State
+49 Auditor as proof of cure:
+50 a. Revised public school unit policies that correct any policies that are
+51 noncompliant with this Article.
+House Bill 1043-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 b. Resolutions or minutes adopted by the governing body of a public
+2 school unit showing it has corrected all instances of noncompliance
+3 with this Article.
+4 c. Updated public-facing materials that are compliant with this Article.
+5 d. Training records that show faculty and staff have been trained in a
+6 manner compliant with this Article.
+7 e. Evidence of the removal of any of the following that are noncompliant
+8 with this Article:
+9 1. Support material.
+10 2. Locally developed curriculum.
+11 3. Supplemental instruction.
+12 4. Electronic, print, or non-print resource for independent use by
+13 students and school personnel and not used as part of the
+14 standard course of study for any grade or course, whether held
+15 in a formal school library or in a classroom.
+16 5. Textbook or other supplementary material.
+17 f. Affidavit submitted under penalty of perjury by the superintendent that
+18 all actions listed in this subdivision have been completed.
+19 (3) The State Auditor shall review any evidence of cure submitted pursuant to
+20 subdivision (2) of this section within 30 days of receipt. The State Auditor
+21 shall make a determination as to whether a noncompliant public school unit
+22 has made sufficient changes to comply with this Article based on any evidence
+23 of cure submitted by the public school unit. If a public school unit does not
+24 submit evidence of cure prior to the end of the cure period, the State Auditor
+25 shall issue a determination that the public school unit has not made sufficient
+26 changes to be compliant with this Article. A determination that the public
+27 school unit has not made sufficient changes to be compliant with this Article
+28 by the end of the cure period pursuant to subdivision (2) of this section shall
+29 lead to the withholding of State funds pursuant to subdivision (4) of this
+30 section. The State Auditor shall send notice of the determination to the
+31 following entities:
+32 a. The Department of Public Instruction.
+33 b. The Joint Legislative Education Oversight Committee.
+34 c. The Joint Legislative Commission on Governmental Operations.
+35 d. If the noncompliant public school unit is a local school administrative
+36 unit, regional school, or laboratory school, the superintendent of the
+37 public school unit, as defined in G.S. 115C-76.1.
+38 e. If the noncompliant public school unit is a residential school, the
+39 superintendent of the residential school, as defined in G.S. 115C-76.1,
+40 and the Director of the Budget.
+41 (4) Beginning with the end of the cure period, upon a determination by the State
+42 Auditor that a noncompliant public school unit has not made sufficient
+43 changes to be compliant with this Article, the entity responsible for allocating
+44 funds to the public school unit shall withhold from the noncompliant public
+45 school unit funding, or assess administrative penalties equivalent to the
+46 amount to be withheld, until the State Auditor determines that the public
+47 school unit is no longer noncompliant and provides notice to the entity.
+48 Funding shall be withheld as follows:
+49 a. For a local school administrative unit, funds from the central office
+50 administration allotment.
+Page 4 House Bill 1043-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 b. For a charter school, regional school, or laboratory school, an amount
+2 equal to the per pupil equivalent of the central office administration
+3 allotment allocated to the school from the local school administrative
+4 unit in which the charter school, regional school, or laboratory school
+5 is located for each child enrolled in the charter school, regional school,
+6 or laboratory school.
+7 c. For a residential school operating under Article 9C of this Chapter,
+8 upon receipt of notice from the State Board that a residential school is
+9 noncompliant with this Article pursuant to subdivision (3) of this
+10 section, the Director of the Budget shall withhold from the residential
+11 school the percentage of funds allocated to the residential school
+12 equivalent to the percentage of State funds received by the local school
+13 administrative unit where the residential school is located from the
+14 central office administration allotment when compared to the total
+15 amount of State funds received by the local school administrative unit
+16 where the residential school is located.
+17 (5) A public school unit may continue to submit evidence of cure to the State
+18 Auditor to show sufficient changes to be compliant with this Article beyond
+19 the cure period. The State Auditor shall continue to evaluate evidence of cure
+20 submitted by a public school unit until the State Auditor makes a
+21 determination that the public school unit is compliant with this Article.
+22 (6) Upon a determination by the State Auditor that a noncompliant public school
+23 unit has made sufficient changes to be compliant with this Article after the
+24 end of the cure period, any funds withheld shall be released to the public
+25 school unit and any administrative penalties assessed shall be forgiven."
+26 SECTION 3.2.(b) G.S. 115C-218.105(a2) reads as rewritten:
+27 "(a2) The State Board shall withhold or reduce distribution of funds to a charter school if
+28 any of the following applies:
+29 …
+30 (4) An entity submits a formal finding of noncompliance with Article 7B of this
+31 Chapter by the charter school pursuant to G.S. 115C-76.150 and the charter
+32 school does not provide sufficient evidence of cure to the State Auditor during
+33 the cure period pursuant to G.S. 115C-76.155(2) resulting in the State Auditor
+34 determining that the charter school is noncompliant pursuant to
+35 G.S. 115C-76.155(3)."
+36
+37 PART IV. GENERAL ASSEMBLY ACCESS TO SCHOOL PERSONNEL RECORDS
+38 SECTION 4. G.S. 115C-321(a) reads as rewritten:
+39 "§ 115C-321. Confidential information in personnel files; access to information.
+40 (a) All information contained in a personnel file, except as otherwise provided in this
+41 Chapter, is confidential and shall not be open for inspection and examination except to any of the
+42 following persons:
+43 …
+44 (7) The General Assembly or any committee of the General Assembly upon
+45 issuance of a subpoena by the General Assembly or any committee of the
+46 General Assembly for the personnel file."
+47
+48 PART V. RESPONSIBILITIES OF STATE AUDITOR
+49 SECTION 5. G.S. 147-64.6(c) is amended by adding the following new subdivisions
+50 to read:
+House Bill 1043-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 "(25) The Auditor may make independent investigations of public school units for
+2 compliance with Article 7B of Chapter 115C of the General Statutes pursuant
+3 to G.S. 115C-76.150.
+4 (26) The Auditor shall perform the duties required by G.S. 115C-76.155."
+5
+6 PART VI. APPROPRIATIONS
+7 SECTION 6. There is appropriated from the General Fund to the Department of
+8 Public Instruction the sum of ten thousand dollars ($10,000) in nonrecurring funds for the
+9 2026-2027 fiscal year to implement the provisions of this act.
+10
+11 PART VII. EFFECTIVE DATE
+12 SECTION 7. This act becomes effective July 1, 2026.
+Page 6 House Bill 1043-First Edition
+
+[DELETED:  1 C ( R E A A P A F V O A 7 O C 1 O T G S T P F G A A T S A O A T  P S C  P S 2  G i a b a t f n s " T r t c t o c t t c n g d t ( T o t c T i c r i r b a s p a c w t p r S " T o ( A a a t r ( A y r]
+[DELETED:  S  H ( P o a s w q o h s f a t m o ( P m o e ( P r r T a T a b T m ( P c T a T c r c s r t t s s b R 1 M 2 E 3 S c C S " I o g i s a o s s n b i i t c p i g k t f g r o t i c c i s i r t s q T t s i k t f g s n u a t r f i i i s  P I R A C A F V O A S a " " ( C f u ( D ( I]
+[DELETED:  S  P ( D ( R ( A ( E t p S b " " ( T w ( T ( T ( A f ( C ( R p s u p a r n i s i A ( I p e b t p s u i c ( I ( A f f b a e r i s ( o t s o n w t A t t a m p i G n " U n ( T t a T b E c T d T e T ( T d p i n a s i t f f i p t G t e s F d d i A a R n]
+[DELETED:  S  H b R s w c U d T m e E w 1 S 2 L 3 S 4 E s a s p a n u a p o t s i 5 T f A a ( T s s h o s s c s b l t t w o f p t s ( s T S A s s n o t d t t f a T b T c T d I u p e I t n p s u i a r s t s a ( B A t a n p s u h n m s c f s u f o a a p e t t a t b w u t S A d t t p s u i n l n a p n t t e F a F a]
+[DELETED:  S  P b F e a u i o c F u n w t A p t s ( o t s s t p o f a t t r s e a c o a a w c t t t a w ( A A t s b a p s u u t S A m a d ( U u e s S " T a … ( A C s t d t t c s i n p t G  P S " ( A C f … ( T G A o a c o t G A u i G  P S t]
+[DELETED:  S  H " T c t ( T  P S P I t s o t t d ( i n f f t 2  P S]

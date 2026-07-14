@@ -1,0 +1,1607 @@
+Title: HOUSE BILL DRH40655-MTap-144A
+Official Title: HOUSE BILL DRH40655-MTap-144A
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+H.B. 1054
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 27, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Gov't Employee Raises & Retiree COLA. (Public)
+Sponsors: Representative Logan.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO APPROPRIATE FUNDS TO RAISE SALARIES FOR PUBLIC SCHOOL
+3 EMPLOYEES AND STATE EMPLOYEES, TO ENHANCE STATE EMPLOYEE SICK
+4 LEAVE BENEFITS, AND TO PROVIDE A COST-OF-LIVING ADJUSTMENT FOR
+5 CERTAIN RETIREES.
+6 The General Assembly of North Carolina enacts:
+7
+8 PART I. PUBLIC SCHOOL EMPLOYEES
+9
+10 TEACHER SALARY SCHEDULE
+11 SECTION 1.1.(a) The following monthly teacher salary schedule shall apply for the
+12 2026-2027 fiscal year to licensed personnel of the public schools who are classified as teachers.
+13 The salary schedule is based on years of teaching experience.
+14 2026-2027 Teacher Monthly Salary Schedule
+15 Years of Experience "A" Teachers
+16 0 $4,469
+17 1 $4,551
+18 2 $4,633
+19 3 $4,714
+20 4 $4,796
+21 5 $4,878
+22 6 $4,983
+23 7 $5,083
+24 8 $5,181
+25 9 $5,280
+26 10 $5,379
+27 11 $5,477
+28 12 $5,576
+29 13 $5,675
+30 14 $5,774
+31 15-24 $5,873
+32 25+ $6,099
+33 SECTION 1.1.(b) Salary Supplements for Teachers Paid on This Salary Schedule.
+34 –
+*DRH40655-MTap-144A*
+General Assembly Of North Carolina Session 2025
+1 (1) Licensed teachers who have NBPTS certification shall receive a salary
+2 supplement each month of twelve percent (12%) of their monthly salary on
+3 the "A" salary schedule.
+4 (2) Licensed teachers who are classified as "M" teachers shall receive a salary
+5 supplement each month of ten percent (10%) of their monthly salary on the
+6 "A" salary schedule.
+7 (3) Licensed teachers with licensure based on academic preparation at the
+8 six-year degree level shall receive a salary supplement of one hundred
+9 twenty-six dollars ($126.00) per month in addition to the supplement provided
+10 to them as "M" teachers.
+11 (4) Licensed teachers with licensure based on academic preparation at the
+12 doctoral degree level shall receive a salary supplement of two hundred
+13 fifty-three dollars ($253.00) per month in addition to the supplement provided
+14 to them as "M" teachers.
+15 (5) Certified school nurses shall receive a salary supplement each month of ten
+16 percent (10%) of their monthly salary on the "A" salary schedule.
+17 (6) School counselors who are licensed as counselors at the master's degree level
+18 or higher shall receive a salary supplement each month of one hundred dollars
+19 ($100.00).
+20 SECTION 1.1.(c) For school psychologists, school speech pathologists who are
+21 licensed as speech pathologists at the master's degree level or higher, and school audiologists
+22 who are licensed as audiologists at the master's degree level or higher, the following shall apply:
+23 (1) The first step of the salary schedule shall be equivalent to the sixth step of the
+24 "A" salary schedule.
+25 (2) These employees shall receive the following salary supplements each month:
+26 a. Ten percent (10%) of their monthly salary, excluding the supplement
+27 provided pursuant to sub-subdivision b. of this subdivision.
+28 b. Three hundred fifty dollars ($350.00).
+29 (3) These employees are eligible to receive salary supplements equivalent to those
+30 of teachers for academic preparation at the six-year degree level or the
+31 doctoral degree level.
+32 (4) The twenty-sixth step of the salary schedule shall be seven and one-half
+33 percent (7.5%) higher than the salary received by these same employees on
+34 the twenty-fifth step of the salary schedule.
+35 SECTION 1.1.(d) Beginning with the 2014-2015 fiscal year, in lieu of providing
+36 annual longevity payments to teachers paid on the teacher salary schedule, the amounts of those
+37 longevity payments are included in the monthly amounts under the teacher salary schedule.
+38 SECTION 1.1.(e) A teacher compensated in accordance with this salary schedule
+39 for the 2026-2027 school year shall receive an amount equal to the greater of the following:
+40 (1) The applicable amount on the salary schedule for the applicable school year.
+41 (2) For teachers who were eligible for longevity for the 2013-2014 school year,
+42 the sum of the following:
+43 a. The salary the teacher received in the 2013-2014 school year pursuant
+44 to Section 35.11 of S.L. 2013-360.
+45 b. The longevity that the teacher would have received under the longevity
+46 system in effect for the 2013-2014 school year provided in Section
+47 35.11 of S.L. 2013-360 based on the teacher's current years of service.
+48 c. The annual bonus provided in Section 9.1(e) of S.L. 2014-100.
+49 (3) For teachers who were not eligible for longevity for the 2013-2014 school
+50 year, the sum of the salary and annual bonus the teacher received in the
+51 2014-2015 school year pursuant to Section 9.1 of S.L. 2014-100.
+Page 2 DRH40655-MTap-144A
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.1.(f) As used in this section, the term "teacher" shall also include
+2 instructional support personnel.
+3
+4 PRINCIPAL SALARY SCHEDULE
+5 SECTION 1.2.(a) The following annual salary schedule for principals shall apply
+6 for the 2026-2027 fiscal year, beginning July 1, 2026:
+7 2026-2027 Principal Annual Salary Schedule
+8 Avg. Daily Membership Base Met Growth Exceeded Growth
+9 0-200 $84,793 $93,271 $101,752
+10 201-400 $89,032 $97,935 $106,839
+11 401-700 $93,271 $102,600 $111,927
+12 701-1,000 $97,512 $107,263 $117,015
+13 1,001-1,600 $101,752 $111,927 $122,102
+14 1,601+ $105,991 $116,590 $127,189
+15 A principal's placement on the salary schedule shall be determined according to the
+16 average daily membership of the school supervised by the principal, as described in subsection
+17 (b) of this section, and the school growth scores, calculated pursuant to G.S. 115C-83.15(c), for
+18 each school the principal supervised in at least two of the prior three school years, as described
+19 in subsection (c) of this section, regardless of a break in service, and provided the principal
+20 supervised each school as a principal for at least a majority of the school year, as follows:
+21 (1) A principal shall be paid according to the Exceeded Growth column of the
+22 schedule if the school growth scores show the school or schools exceeded
+23 expected growth in at least two of the prior three school years.
+24 (2) A principal shall be paid according to the Met Growth column of the schedule
+25 if any of the following apply:
+26 a. The school growth scores show the school or schools met expected
+27 growth in at least two of the prior three school years.
+28 b. The school growth scores show the school or schools met expected
+29 growth in at least one of the prior three school years and exceeded
+30 expected growth in one of the prior three school years.
+31 c. The principal supervised a school in at least two of the prior three
+32 school years that was not eligible to receive a school growth score.
+33 (3) A principal shall be paid according to the Base column if any of the following
+34 apply:
+35 a. The school growth scores show the school or schools did not meet
+36 expected growth in at least two of the prior three school years.
+37 b. The principal has not supervised any school as a principal for a
+38 majority of the school year in at least two of the prior three school
+39 years.
+40 SECTION 1.2.(b) For purposes of determining the average daily membership of a
+41 principal's school, the allotted average daily membership for the school for the applicable school
+42 year shall be used. For purposes of this section, the allotted average daily membership of a
+43 principal's school shall include any prekindergarten students in membership at that school.
+44 SECTION 1.2.(c) For purposes of determining the school growth scores for each
+45 school the principal supervised in one or more prior school years, the following school growth
+46 scores shall be used during the following time periods:
+47 (1) For the first six months of the applicable fiscal year, the school growth scores
+48 from the first, second, and third years.
+49 (2) For the second six months of the applicable fiscal year, the school growth
+50 scores from the second, third, and fourth years.
+DRH40655-MTap-144A Page 3
+General Assembly Of North Carolina Session 2025
+1 (3) If a principal does not have a school growth score from any of the school years
+2 identified in this subsection, the most recent available growth scores, up to the
+3 fourth year, shall be used.
+4 SECTION 1.2.(d) Beginning with the 2017-2018 fiscal year, in lieu of providing
+5 annual longevity payments to principals paid on the principal salary schedule, the amounts of
+6 those longevity payments are included in the annual amounts under the principal salary schedule.
+7 SECTION 1.2.(e) A principal compensated in accordance with this section for the
+8 2026-2027 fiscal year shall receive an amount equal to the greater of the following:
+9 (1) The applicable amount on the principal salary schedule for the applicable
+10 fiscal year.
+11 (2) For principals who were eligible for longevity in the 2016-2017 fiscal year,
+12 the sum of the following:
+13 a. The salary the principal received in the 2016-2017 fiscal year pursuant
+14 to Section 9.1 or Section 9.2 of S.L. 2016-94.
+15 b. The longevity that the principal would have received as provided for
+16 State employees under the North Carolina Human Resources Act for
+17 the 2016-2017 fiscal year based on the principal's current years of
+18 service.
+19 (3) For principals who were not eligible for longevity in the 2016-2017 fiscal
+20 year, the salary the principal received in the 2016-2017 fiscal year pursuant to
+21 Section 9.1 or Section 9.2 of S.L. 2016-94.
+22 SECTION 1.2.(f) For purposes of this section, the following definitions apply:
+23 (1) First year. – The school year immediately preceding the second year.
+24 (2) Fourth year. – The school year immediately preceding the applicable school
+25 year.
+26 (3) Second year. – The school year immediately preceding the third year.
+27 (4) The applicable fiscal year. – The 2026-2027 fiscal year.
+28 (5) The applicable school year. – The 2026-2027 school year.
+29 (6) Third year. – The school year immediately preceding the fourth year.
+30
+31 ASSISTANT PRINCIPAL SALARIES
+32 SECTION 1.3.(a) For the 2026-2027 fiscal year, beginning July 1, 2026, assistant
+33 principals shall receive a monthly salary based on the salary schedule for teachers who are
+34 classified as "A" teachers plus nineteen percent (19%). An assistant principal shall be placed on
+35 the step on the salary schedule that reflects the total number of years of experience as a certified
+36 employee of the public schools. For purposes of this section, an administrator with a one-year
+37 provisional assistant principal's certificate shall be considered equivalent to an assistant principal.
+38 SECTION 1.3.(b) Assistant principals with certification based on academic
+39 preparation at the six-year degree level shall be paid a salary supplement of one hundred
+40 twenty-six dollars ($126.00) per month and at the doctoral degree level shall be paid a salary
+41 supplement of two hundred fifty-three dollars ($253.00) per month.
+42 SECTION 1.3.(c) Participants in an approved full-time master's in school
+43 administration program shall receive up to a 10-month stipend during the internship period of the
+44 master's program. The stipend shall be at the beginning salary of an assistant principal or, for a
+45 teacher who becomes an intern, at least as much as that person would earn as a teacher on the
+46 teacher salary schedule. The North Carolina Principal Fellows Program or the school of education
+47 where the intern participates in a full-time master's in school administration program shall supply
+48 the Department of Public Instruction with certification of eligible full-time interns.
+49 SECTION 1.3.(d) Beginning with the 2017-2018 fiscal year, in lieu of providing
+50 annual longevity payments to assistant principals on the assistant principal salary schedule, the
+Page 4 DRH40655-MTap-144A
+General Assembly Of North Carolina Session 2025
+1 amounts of those longevity payments are included in the monthly amounts provided to assistant
+2 principals pursuant to subsection (a) of this section.
+3 SECTION 1.3.(e) An assistant principal compensated in accordance with this section
+4 for the 2026-2027 fiscal year shall receive an amount equal to the greater of the following:
+5 (1) The applicable amount on the salary schedule for the applicable year.
+6 (2) For assistant principals who were eligible for longevity in the 2016-2017 fiscal
+7 year, the sum of the following:
+8 a. The salary the assistant principal received in the 2016-2017 fiscal year
+9 pursuant to Section 9.1 or Section 9.2 of S.L. 2016-94.
+10 b. The longevity that the assistant principal would have received as
+11 provided for State employees under the North Carolina Human
+12 Resources Act for the 2016-2017 fiscal year based on the assistant
+13 principal's current years of service.
+14 (3) For assistant principals who were not eligible for longevity in the 2016-2017
+15 fiscal year, the salary the assistant principal received in the 2016-2017 fiscal
+16 year pursuant to Section 9.1 or Section 9.2 of S.L. 2016-94.
+17
+18 CENTRAL OFFICE SALARIES
+19 SECTION 1.4.(a) For the 2026-2027 fiscal year, beginning July 1, 2026, the annual
+20 salary for superintendents, assistant superintendents, associate superintendents,
+21 directors/coordinators, supervisors, and finance officers whose salaries are supported from State
+22 funds shall be increased by nine percent (9%).
+23 SECTION 1.4.(b) The monthly salary maximums that follow apply to assistant
+24 superintendents, associate superintendents, directors/coordinators, supervisors, and finance
+25 officers for the 2026-2027 fiscal year, beginning July 1, 2026:
+26 2026-2027 Fiscal Year
+27 Maximum
+28 School Administrator I $8,255
+29 School Administrator II $8,746
+30 School Administrator III $9,267
+31 School Administrator IV $9,629
+32 School Administrator V $10,014
+33 School Administrator VI $10,607
+34 School Administrator VII $11,031
+35 The local board of education shall determine the appropriate category and placement
+36 for each assistant superintendent, associate superintendent, director/coordinator, supervisor, or
+37 finance officer within the maximums and within funds appropriated by the General Assembly
+38 for central office administrators and superintendents. The category in which an employee is
+39 placed shall be included in the contract of any employee.
+40 SECTION 1.4.(c) The monthly salary maximums that follow apply to
+41 superintendents for the 2026-2027 fiscal year, beginning July 1, 2026:
+42 2026-2027 Fiscal Year
+43 Maximum
+44 Superintendent I $11,692
+45 Superintendent II $12,389
+46 Superintendent III $13,133
+47 Superintendent IV $13,923
+48 Superintendent V $14,760
+49 The local board of education shall determine the appropriate category and placement
+50 for the superintendent based on the average daily membership of the local school administrative
+DRH40655-MTap-144A Page 5
+General Assembly Of North Carolina Session 2025
+1 unit and within funds appropriated by the General Assembly for central office administrators and
+2 superintendents.
+3 SECTION 1.4.(d) Longevity pay for superintendents, assistant superintendents,
+4 associate superintendents, directors/coordinators, supervisors, and finance officers shall be as
+5 provided for State employees under the North Carolina Human Resources Act.
+6 SECTION 1.4.(e) Superintendents, assistant superintendents, associate
+7 superintendents, directors/coordinators, supervisors, and finance officers with certification based
+8 on academic preparation at the six-year degree level shall receive a salary supplement of one
+9 hundred twenty-six dollars ($126.00) per month in addition to the compensation provided
+10 pursuant to this section. Superintendents, assistant superintendents, associate superintendents,
+11 directors/coordinators, supervisors, and finance officers with certification based on academic
+12 preparation at the doctoral degree level shall receive a salary supplement of two hundred
+13 fifty-three dollars ($253.00) per month in addition to the compensation provided for under this
+14 section.
+15 SECTION 1.4.(f) The State Board of Education shall not permit local school
+16 administrative units to transfer State funds from other funding categories for salaries for public
+17 school central office administrators.
+18
+19 NONCERTIFIED PERSONNEL SALARIES
+20 SECTION 1.5. For the 2026-2027 fiscal year, beginning July 1, 2026, the annual
+21 salary for noncertified public school employees whose salaries are supported from State funds
+22 shall be increased as follows:
+23 (1) For permanent, full-time employees on a 12-month contract, by nine percent
+24 (9%).
+25 (2) For the following employees, by an equitable amount based on the amount
+26 specified in subdivision (1) of this section:
+27 a. Permanent, full-time employees on a contract for fewer than 12
+28 months.
+29 b. Permanent, part-time employees.
+30 c. Temporary and permanent hourly employees.
+31
+32 STATE AGENCY TEACHERS
+33 SECTION 1.6. For the 2026-2027 fiscal year, employees of schools operated by the
+34 Department of Health and Human Services, the Department of Public Safety, the Department of
+35 Adult Correction, and the State Board of Education who are paid on the teacher salary schedule
+36 shall be paid as authorized under this act.
+37
+38 APPROPRIATION
+39 SECTION 1.7. There is appropriated from the General Fund to the Department of
+40 Public Instruction the sum of nine hundred thirty-nine million eight hundred thousand dollars
+41 ($939,800,000) in recurring funds for the 2026-2027 fiscal year to provide the compensation
+42 increases for public school employees authorized in this Part.
+43
+44 PART II. STATE EMPLOYEES/INCREASE/SICK LEAVE
+45
+46 SEVEN PERCENT LEGISLATIVE SALARY INCREASE AWARDED TO ELIGIBLE
+47 STATE-FUNDED EMPLOYEES
+48 SECTION 2.1.(a) Effective July 1, 2026, except as provided by subsection (b) of
+49 this section, a person (i) whose salary is set by this Part, pursuant to the North Carolina Human
+50 Resources Act, or as otherwise authorized in this act and (ii) who is employed in a State-funded
+Page 6 DRH40655-MTap-144A
+General Assembly Of North Carolina Session 2025
+1 position on June 30, 2026, is awarded a legislative salary increase in the 2026-2027 fiscal year,
+2 as follows:
+3 (1) A cost-of-living adjustment in the amount of seven percent (7%).
+4 (2) Any other salary adjustment otherwise allowed or provided by law.
+5 SECTION 2.1.(b) Effective July 1, 2026, the following persons are not eligible to
+6 receive the legislative salary increases provided by subsection (a) of this section:
+7 (1) Employees of local boards of education.
+8 (2) Local community college employees.
+9 (3) Employees of The University of North Carolina.
+10 (4) Clerks of superior court compensated under G.S. 7A-101.
+11 (5) Officers and employees to which Section 2.13 of this Part applies.
+12 (6) Officers and employees to which Section 2.14 of this Part applies.
+13 (7) Officers and employees to which Section 2.15 of this Part applies.
+14 (8) Officers and employees to which Section 2.16 of this Part applies.
+15 (9) Employees of schools operated by the Department of Health and Human
+16 Services, the Department of Public Safety, the Department of Adult
+17 Correction, the Governor Morehead School for the Blind, the Eastern North
+18 Carolina School for the Deaf, the North Carolina School for the Deaf, and the
+19 State Board of Education who are paid based on the teacher salary schedule.
+20 SECTION 2.1.(c) Part-time employees shall receive the increases authorized by this
+21 section on a prorated and equitable basis.
+22 SECTION 2.1.(d) No eligible State-funded employee shall be prohibited from
+23 receiving the full salary increases provided in this section solely because the employee's salary
+24 after applying the legislative salary increase is above the maximum of the salary range prescribed
+25 by the State Human Resources Commission.
+26
+27 GOVERNOR AND COUNCIL OF STATE
+28 SECTION 2.2.(a) Effective July 1, 2026, G.S. 147-11(a) reads as rewritten:
+29 "§ 147-11. Salary and expense allowance of Governor; allowance to person designated to
+30 represent Governor's office.
+31 (a) The salary of the Governor shall be two hundred three thousand seventy-three dollars
+32 ($203,073) two hundred seventeen thousand two hundred eighty-eight dollars ($217,288)
+33 annually, payable monthly."
+34 SECTION 2.2.(b) Effective July 1, 2026, the annual salaries for members of the
+35 Council of State, payable monthly, are set as follows:
+36 Council of State Annual Salary
+37 Lieutenant Governor $180,171
+38 Attorney General $180,171
+39 Secretary of State $180,171
+40 State Treasurer $180,171
+41 State Auditor $180,171
+42 Superintendent of Public Instruction $180,171
+43 Agriculture Commissioner $180,171
+44 Insurance Commissioner $180,171
+45 Labor Commissioner $180,171
+46
+47 CERTAIN EXECUTIVE BRANCH OFFICIALS
+48 SECTION 2.3. Effective July 1, 2026, the annual salaries, payable monthly, for the
+49 following executive branch officials are as follows:
+50 Executive Branch Officials Annual Salary
+51 Chairman, Alcoholic Beverage Control Commission $150,703
+DRH40655-MTap-144A Page 7
+General Assembly Of North Carolina Session 2025
+1 State Controller $209,847
+2 Commissioner of Banks $169,141
+3 Chair, Board of Review, Division of Employment Security $165,909
+4 Members, Board of Review, Division of Employment Security $163,881
+5 Chairman, Parole Commission $165,909
+6 Full-time Members of the Parole Commission $153,399
+7 Chairman, Utilities Commission $188,069
+8 Members of the Utilities Commission $169,141
+9 Executive Director, North Carolina Agricultural Finance Authority $146,762
+10 State Fire Marshal $148,784
+11
+12 JUDICIAL BRANCH
+13 SECTION 2.4.(a) Effective July 1, 2026, the annual salaries, payable monthly, for
+14 the following judicial branch officials are as follows:
+15 Judicial Branch Officials Annual Salary
+16 Chief Justice, Supreme Court $217,288
+17 Associate Justice, Supreme Court $211,648
+18 Chief Judge, Court of Appeals $208,301
+19 Judge, Court of Appeals $202,894
+20 Judge, Senior Regular Resident Superior Court $186,448
+21 Judge, Superior Court $180,964
+22 Chief Judge, District Court $179,276
+23 Judge, District Court $174,003
+24 Chief Administrative Law Judge $154,868
+25 District Attorney $179,051
+26 Assistant Administrative Officer of the Courts $162,442
+27 Public Defender $179,051
+28 Director of Indigent Defense Services $180,365
+29 SECTION 2.4.(b) The district attorney of a judicial district, with the approval of the
+30 Administrative Officer of the Courts, and the public defender of a judicial district, with the
+31 approval of the Commission on Indigent Defense Services, shall set the salaries of assistant
+32 district attorneys and assistant public defenders in that district such that the average salary of
+33 those assistants in that district does not exceed one hundred eight thousand three hundred ninety
+34 dollars ($108,390) and the minimum salary of any assistant is at least fifty-eight thousand one
+35 hundred seventy-five dollars ($58,175), effective July 1, 2026.
+36
+37 CLERKS OF SUPERIOR COURT
+38 SECTION 2.5. Effective July 1, 2026, G.S. 7A-101(a) reads as rewritten:
+39 "§ 7A-101. Compensation.
+40 (a) The clerk of superior court is a full-time employee of the State and shall receive an
+41 annual salary, payable in equal monthly installments, based on the number of State-funded
+42 assistant and deputy clerks of court as determined by the Administrative Office of Court's
+43 workload formula, according to the following schedule:
+44 Assistants and Deputies Annual Salary
+45 0-19 $111,726$119,547
+46 20-29 123,488$132,132
+47 30-49 135,248$144,175
+48 50-99 147,010$157,301
+49 100 and above 149,949$160,445
+50 If the number of State-funded assistant and deputy clerks of court as determined by the
+51 Administrative Office of Court's workload formula changes, the salary of the clerk shall be
+Page 8 DRH40655-MTap-144A
+General Assembly Of North Carolina Session 2025
+1 changed, on July 1 of the fiscal year for which the change is reported, to the salary appropriate
+2 for that new number, except that the salary of an incumbent clerk shall not be decreased by any
+3 change in that number during the clerk's continuance in office."
+4
+5 ASSISTANT AND DEPUTY CLERKS OF COURT
+6 SECTION 2.6. Effective July 1, 2026, G.S. 7A-102(c1) reads as rewritten:
+7 "(c1) A full-time assistant clerk or a full-time deputy clerk, and up to one full-time deputy
+8 clerk serving as head bookkeeper per county, shall be paid an annual salary subject to the
+9 following minimum and maximum rates:
+10
+11 Assistant Clerks and Head Bookkeeper Annual Salary
+12 Minimum $40,482$43,316
+13 Maximum 74,792$80,027
+14
+15 Deputy Clerks Annual Salary
+16 Minimum $36,315$38,857
+17 Maximum 58,740$62,852"
+18
+19 MAGISTRATES
+20 SECTION 2.7. Effective July 1, 2026, G.S. 7A-171.1(a)(1) reads as rewritten:
+21 "(1) A full-time magistrate shall be paid the annual salary indicated in the table set
+22 out in this subdivision. A full-time magistrate is a magistrate who is assigned
+23 to work an average of not less than 40 hours a week during the term of office.
+24 The Administrative Officer of the Courts shall designate whether a magistrate
+25 is full-time. Initial appointment shall be at the entry rate. A magistrate's salary
+26 shall increase to the next step every two years on the anniversary of the date
+27 the magistrate was originally appointed for increases to Steps 1 through 3, and
+28 every four years on the anniversary of the date the magistrate was originally
+29 appointed for increases to Steps 4 through 6:
+30 Table of Salaries of Full-Time Magistrates
+31 Step Level Annual Salary
+32 Entry Rate $47,228$50,534
+33 Step 1 $50,714$54,264
+34 Step 2 $54,475$58,288
+35 Step 3 $58,457$62,549
+36 Step 4 $63,228$67,654
+37 Step 5 $68,973$73,801
+38 Step 6 $75,415.$80,694."
+39
+40 LEGISLATIVE EMPLOYEES
+41 SECTION 2.8.(a) Effective July 1, 2026, the annual salaries of the Legislative
+42 Services Officer and of nonelected employees of the General Assembly in effect on June 30,
+43 2026, shall be legislatively increased by seven percent (7%).
+44 SECTION 2.8.(b) Nothing in this act limits any of the provisions of G.S. 120-32.
+45
+46 GENERAL ASSEMBLY PRINCIPAL CLERKS
+47 SECTION 2.9. Effective July 1, 2026, G.S. 120-37(c) reads as rewritten:
+48 "(c) The principal clerks shall be full-time officers. Each principal clerk shall be entitled
+49 to other benefits available to permanent legislative employees and shall be paid an annual salary
+50 of one hundred thirty-three thousand nine hundred thirty-six dollars ($133,936), one hundred
+51 forty-three thousand three hundred twelve dollars ($143,312), payable monthly. Each principal
+DRH40655-MTap-144A Page 9
+General Assembly Of North Carolina Session 2025
+1 clerk shall also receive such additional compensation as approved by the Speaker of the House
+2 of Representatives or the President Pro Tempore of the Senate, respectively, for additional
+3 employment duties beyond those provided by the rules of their House. The Legislative Services
+4 Commission shall review the salary of the principal clerks prior to submission of the proposed
+5 operating budget of the General Assembly to the Governor and shall make appropriate
+6 recommendations for changes in those salaries. Any changes enacted by the General Assembly
+7 shall be by amendment to this paragraph.subsection."
+8
+9 SERGEANTS-AT-ARMS AND READING CLERKS
+10 SECTION 2.10. Effective July 1, 2026, G.S. 120-37(b) reads as rewritten:
+11 "(b) The sergeant at arms and the reading clerk in each house shall be paid a salary of five
+12 hundred twenty-eight dollars ($528.00) five hundred sixty-five dollars ($565.00) per week plus
+13 subsistence at the same daily rate provided for members of the General Assembly, plus mileage
+14 at the rate provided for members of the General Assembly for one round trip only from their
+15 homes to Raleigh and return. The sergeants at arms shall serve during sessions of the General
+16 Assembly and at such time prior to the convening of, and subsequent to adjournment or recess
+17 of, sessions as may be authorized by the Legislative Services Commission. The reading clerks
+18 shall serve during sessions only."
+19
+20 COMMUNITY COLLEGES
+21 SECTION 2.11.(a) Effective July 1, 2026, the State Board of Community Colleges
+22 shall provide community college faculty and non-faculty personnel with an across-the-board
+23 salary increase in the amount of seven percent (7%).
+24 SECTION 2.11.(b) Effective July 1, 2026, the minimum salaries for nine-month,
+25 full-time curriculum community college faculty are as follows:
+26 Educational Level Minimum Salary
+27 Vocational Diploma/Certificate or Less $46,138
+28 Associate Degree or Equivalent $46,780
+29 Bachelor's Degree $49,563
+30 Master's Degree or Education Specialist $52,033
+31 Doctoral Degree $55,593
+32 SECTION 2.11.(c) No full-time faculty member shall earn less than the minimum
+33 salary for the faculty member's education level. The pro rata hourly rate of the minimum salary
+34 for each education level shall be used to determine the minimum salary for part-time faculty
+35 members.
+36
+37 THE UNIVERSITY OF NORTH CAROLINA
+38 SECTION 2.12. Effective July 1, 2026, the Board of Governors of The University
+39 of North Carolina shall provide SHRA employees, EHRA employees, and teachers employed by
+40 the North Carolina School of Science and Mathematics with an across-the-board salary increase
+41 in the amount of seven percent (7%).
+42
+43 CORRECTIONAL OFFICERS/YOUTH COUNSELORS/YOUTH COUNSELOR
+44 TECHNICIANS/YOUTH SERVICES BEHAVIORAL SPECIALISTS – SALARY
+45 SCHEDULE
+46 SECTION 2.13.(a) Effective July 1, 2026, State employees serving as correctional
+47 officers in the Department of Adult Correction shall be compensated at a specific pay rate on the
+48 basis of a salary schedule determined according to the duration of the employee's correctional
+49 officer work experience pursuant to the salary schedule in subsection (b) of this section.
+50 SECTION 2.13.(a1) Effective July 1, 2026, State employees serving in the
+51 Department of Public Safety, Division of Juvenile Justice and Delinquency Prevention, shall be
+Page 10 DRH40655-MTap-144A
+General Assembly Of North Carolina Session 2025
+1 compensated at a specific pay rate set on the basis of a salary schedule determined according to
+2 the duration of the employee's work experience, as follows:
+3 (1) Youth Counselor Technicians shall be paid under the Correctional Officer I
+4 salary schedule, as established in subsection (b) of this section.
+5 (2) Youth Services Behavioral Specialists shall be paid under the Correctional
+6 Officer II salary schedule, as established in subsection (b) of this section.
+7 (3) Youth Counselors shall be paid under the Correctional Officer III salary
+8 schedule, as established in subsection (b) of this section.
+9 SECTION 2.13.(b) Effective July 1, 2026, the following annual salary schedule will
+10 apply under subsections (a) and (a1) of this section:
+11 Experience COI COII COIII
+12 0 $40,254 $41,579 $44,467
+13 1 $43,071 $44,488 $47,581
+14 2 $45,657 $47,205 $50,437
+15 3 $47,939 $49,516 $52,959
+16 4 $49,856 $51,497 $55,076
+17 5 $51,353 $53,041 $56,728
+18 6+ $52,380 $54,102 $57,863
+19 SECTION 2.13.(c) If an employee will not receive a salary increase under this
+20 section because the employee's salary exceeds the scheduled salary level, then the employee shall
+21 receive an annual salary increase equal to the amount of the across-the-board legislative salary
+22 increase authorized in this Part.
+23
+24 STATE HIGHWAY PATROL SALARY SCHEDULE
+25 SECTION 2.14.(a) Effective July 1, 2026, law enforcement officers of the State
+26 Highway Patrol compensated pursuant to an experience-based salary schedule shall be
+27 compensated based on the officer's respective work experience pursuant to the salary schedule in
+28 subsection (b) of this section.
+29 SECTION 2.14.(b) Effective July 1, 2026, the following annual salary schedule
+30 applies under subsection (a) of this section:
+31 Years of Experience FY 2026-2027
+32 0 $58,850
+33 1 $62,675
+34 2 $66,749
+35 3 $71,088
+36 4 $75,708
+37 5 $80,629
+38 6+ $85,870
+39 SECTION 2.14.(c) If an employee will not receive a salary increase under this
+40 section because the employee's salary exceeds the scheduled salary level, then the employee shall
+41 receive an annual salary increase equal to the amount of the across-the-board legislative salary
+42 increase authorized in this Part.
+43
+44 STATE LAW ENFORCEMENT OFFICER SALARY SCHEDULE/INCREASES
+45 SECTION 2.15.(a) Effective July 1, 2026, law enforcement officers of the State
+46 Bureau of Investigation and Alcohol Law Enforcement shall be compensated pursuant to an
+47 experience-based salary schedule and shall be compensated based on the officer's respective
+48 work experience pursuant to the salary schedule in subsection (b) of this section.
+49 SECTION 2.15.(b) Effective July 1, 2026, the following annual salary schedule
+50 applies under subsection (a) of this section:
+51 Years of Experience FY 2026-2027
+DRH40655-MTap-144A Page 11
+General Assembly Of North Carolina Session 2025
+1 0 $57,220
+2 1 $60,941
+3 2 $64,902
+4 3 $69,121
+5 4 $73,614
+6 5 $78,399
+7 6+ $83,495
+8 SECTION 2.15.(c) If an employee will not receive a salary increase under this
+9 section because the employee's salary exceeds the scheduled salary level, then the employee shall
+10 receive an annual salary increase equal to the amount of the across-the-board legislative salary
+11 increase authorized in this Part.
+12
+13 PROBATION AND PAROLE OFFICERS/JUVENILE COURT COUNSELORS –
+14 SALARY SCHEDULE
+15 SECTION 2.16.(a) Effective July 1, 2026, probation and parole officers shall be
+16 compensated pursuant to the experience-based salary schedule based on the officer's respective
+17 work experience, as established in subsection (b) of this section.
+18 SECTION 2.16.(a1) Effective July 1, 2026, State employees serving in the
+19 Department of Public Safety, Division of Juvenile Justice and Delinquency Prevention, as
+20 Juvenile Court Counselors shall be compensated under the probation and parole officer salary
+21 schedule, as established in subsection (b) of this section.
+22 SECTION 2.16.(b) Effective July 1, 2026, the following annual salary schedule
+23 applies under subsections (a) and (a1) of this section:
+24 Years of Experience FY 2026-2027
+25 0 $48,602
+26 1 $51,760
+27 2 $55,126
+28 3 $58,709
+29 4 $62,525
+30 5 $66,589
+31 6+ $70,917
+32 SECTION 2.16.(c) If an employee will not receive a salary increase under this
+33 section because the employee's salary exceeds the scheduled salary level, then the employee shall
+34 receive an annual salary increase equal to the amount of the across-the-board legislative salary
+35 increase authorized in this Part.
+36
+37 MOST STATE EMPLOYEES
+38 SECTION 2.17. Effective July 1, 2026, unless otherwise expressly provided by this
+39 Part, the annual salaries in effect for the following persons on June 30, 2026, shall be legislatively
+40 increased as provided by this act:
+41 (1) Permanent, full-time State officials and persons whose salaries are set in
+42 accordance with the North Carolina Human Resources Act.
+43 (2) Permanent, full-time State officials and persons in positions exempt from the
+44 North Carolina Human Resources Act.
+45 (3) Permanent, part-time State employees.
+46 (4) Temporary and permanent hourly State employees.
+47
+48 ALL STATE-SUPPORTED PERSONNEL
+49 SECTION 2.18.(a) The legislative salary increases authorized by this act shall be
+50 paid effective on July 1, 2026, and do not apply to persons separated from service due to
+Page 12 DRH40655-MTap-144A
+General Assembly Of North Carolina Session 2025
+1 resignation, dismissal, reduction in force, death, or retirement or whose last workday is prior to
+2 June 30, 2026.
+3 SECTION 2.18.(b) The Director of the Budget is granted flexibility to administer
+4 the compensation increases enacted by this act. The State employer contribution rates enacted by
+5 this act for retirement and related benefits may be deemed by the Director of the Budget for
+6 administrative purposes to become effective after July 1 to provide flexibility in the collection
+7 and reconciliation of salary-related contributions as required by law, provided the estimated
+8 amount contributed to any affected employee benefit trust equals the amount that would have
+9 been contributed to the employee benefit trust if the enacted employer contribution rates had
+10 been effective on July 1.
+11 SECTION 2.18.(c) This section applies to all employees paid from State funds,
+12 whether or not subject to or exempt from the North Carolina Human Resources Act, including
+13 employees of public schools, community colleges, and The University of North Carolina.
+14
+15 USE OF FUNDS APPROPRIATED FOR LEGISLATIVELY MANDATED INCREASES
+16 SECTION 2.19.(a) The Office of State Budget and Management shall ensure that
+17 the appropriations made by this act for legislatively mandated salary increases and employee
+18 benefits are used only for those purposes.
+19 SECTION 2.19.(b) If the Director of the Budget determines that funds appropriated
+20 to a State agency for legislatively mandated salary increases and employee benefits exceed the
+21 amount required by that agency for those purposes, the Director may reallocate those funds to
+22 other State agencies that received insufficient funds for legislatively mandated salary increases
+23 and employee benefits.
+24 SECTION 2.19.(c) Funds appropriated for legislatively mandated salary and
+25 employee benefit increases may not be used to adjust the budgeted salaries of vacant positions,
+26 to provide salary increases in excess of those required by the General Assembly, or to increase
+27 the budgeted salary of filled positions to the minimum of the position's respective salary range.
+28 SECTION 2.19.(d) Any funds appropriated for legislatively mandated salary and
+29 employee benefit increases in excess of the amounts required to implement the increases shall be
+30 credited to the Pay Plan Reserve.
+31 SECTION 2.19.(e) No later than May 1, 2027, the Office of State Budget and
+32 Management shall report to the Fiscal Research Division on the expenditure of funds for
+33 legislatively mandated salary increases and employee benefits. This report shall include at least
+34 the following information for each State agency:
+35 (1) The total amount of funds that the agency received for legislatively mandated
+36 salary increases and employee benefits.
+37 (2) The total amount of funds transferred from the agency to other State agencies
+38 pursuant to subsection (b) of this section. This section of the report shall
+39 identify the amounts transferred to each recipient State agency.
+40 (3) The total amount of funds used by the agency for legislatively mandated salary
+41 increases and employee benefits.
+42 (4) The amount of funds credited to the Pay Plan Reserve.
+43
+44 APPROPRIATION
+45 SECTION 2.20. Effective July 1, 2026, there is appropriated from the General Fund
+46 the sum of nine hundred thirty-nine million eight hundred thousand dollars ($939,800,000) in
+47 recurring funds for the 2026-2027 fiscal year for the costs associated with implementing the
+48 provisions of this Part.
+49
+50 ENHANCED SICK LEAVE
+DRH40655-MTap-144A Page 13
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.21.(a) By January 1, 2027, the State Human Resources Commission
+2 shall adopt rules to implement enhanced sick leave benefits for State employees, effective July
+3 1, 2027, that provide for the following:
+4 (1) Sick leave shall accrue at the rate of one hour per 20 hours worked,
+5 commencing on the first day of employment. Accrued sick leave is cumulative
+6 without limit. A State agency may loan time in advance of accrual not to
+7 exceed the amount an employee can accumulate during the current calendar
+8 year.
+9 (2) If an employee is separated and rehired within 90 days by the same State
+10 agency, previously accrued unused sick leave is reinstated.
+11 (3) Permissible uses of sick leave shall include the following:
+12 a. The employee's own physical or mental illness, injury, medical
+13 condition, preventive care, or routine medical appointment; and
+14 temporary disability due to childbirth or recovery therefrom.
+15 b. Death of an immediate family member.
+16 c. Donations to a member of the immediate family who is an approved
+17 voluntary shared leave recipient.
+18 d. Adoption of a child limited to a maximum of 30 days for each parent.
+19 e. Absences related to the employee being the victim of domestic
+20 violence, sexual assault, or stalking, taken for the purpose of medical
+21 care, counseling, relocation, or legal proceedings.
+22 f. The same uses as sub-subdivision a. of this subdivision for an
+23 immediate family member.
+24 (4) For the purposes of this section, an "immediate family member" means (i) a
+25 spouse, domestic or civil union partner, (ii) a parent, including a biological,
+26 adoptive, or stepparent; a parent-in-law; or a person who stood in loco parentis
+27 to the employee, (iii) a child, including a biological, adoptive, foster, or
+28 stepchild; a child-in-law; a legal ward; or a person for whom the employee
+29 stands in loco parentis, (iv) a brother or sister, including adoptive, step, half,
+30 and in-law relationships, (v) a grandparent, great-grandparent, grandchild, or
+31 great-grandchild, including step and in-law relationships thereto, and (vi) any
+32 dependent living in the employee's household.
+33 (5) If an employee or the employee's spouse, parent, or child has a serious illness
+34 that qualifies under the federal Family Medical Leave Act (FMLA), the
+35 FMLA provisions apply. If the illness does not qualify under FMLA, the
+36 provisions of the State Human Resources Act (SHRA) apply.
+37 (6) A State agency may require documentation when an employee absence
+38 exceeds three consecutive working days, but the agency shall not require
+39 disclosure of details beyond what is reasonably necessary to verify the
+40 permissible purpose of the leave. Evidence to support leave for
+41 adoption-related purposes may be required. Sick leave shall be taken and
+42 charged in units appropriate and consistent with agency operational needs.
+43 Only scheduled work time shall be charged when calculating the amount of
+44 leave taken. When exhausting leave, an employee continues to accumulate
+45 leave, is entitled to holidays, and remains eligible for salary increases.
+46 (7) Nothing in this section shall be construed to affect existing rules and policies
+47 concerning the transferability of sick leave or how sick leave is handled upon
+48 separation and reinstatement unless specifically set forth in this section.
+49 SECTION 2.21.(b) Nothing in this section shall be construed to modify the treatment
+50 of sick leave for purposes of retirement credit under Chapter 135 of the General Statutes.
+51
+Page 14 DRH40655-MTap-144A
+General Assembly Of North Carolina Session 2025
+1 PART III. COST-OF-LIVING ADJUSTMENT FOR RETIREES OF THE TEACHERS'
+2 AND STATE EMPLOYEES' RETIREMENT SYSTEM, THE CONSOLIDATED
+3 JUDICIAL RETIREMENT SYSTEM, THE LEGISLATIVE RETIREMENT SYSTEM,
+4 AND THE LOCAL GOVERNMENTAL EMPLOYEES' RETIREMENT SYSTEM
+5 SECTION 3.1.(a) G.S. 135-5 is amended by adding a new subsection to read:
+6 "(aaaa) Effective July 1, 2026, the retirement allowance payable to, or on account of,
+7 beneficiaries whose retirement commenced on or before July 1, 2025, is increased by three
+8 percent (3%) of the allowance payable on June 1, 2025, in accordance with subsection (o) of this
+9 section. Effective July 1, 2026, the retirement allowance payable to, or on account of,
+10 beneficiaries whose retirement commenced after July 1, 2025, but before June 30, 2026, is
+11 increased by a prorated amount of three percent (3%), as determined by the Board of Trustees
+12 based upon the number of months that a retirement allowance was paid between July 1, 2025,
+13 and June 30, 2026."
+14 SECTION 3.1.(b) G.S. 135-65 is amended by adding a new subsection to read:
+15 "(ll) Effective July 1, 2026, the retirement allowance payable to, or on account of,
+16 beneficiaries whose retirement commenced on or before July 1, 2025, is increased by three
+17 percent (3%) of the allowance payable on June 1, 2025. Effective July 1, 2026, the retirement
+18 allowance payable to, or on account of, beneficiaries whose retirement commenced after July 1,
+19 2025, but before June 30, 2026, is increased by a prorated amount of three percent (3%), as
+20 determined by the Board of Trustees based upon the number of months that a retirement
+21 allowance was paid between July 1, 2025, and June 30, 2026."
+22 SECTION 3.1.(c) G.S. 120-4.22A is amended by adding a new subsection to read:
+23 "(ff) In accordance with subsection (a) of this section, effective July 1, 2026, the retirement
+24 allowance payable to, or on account of, beneficiaries whose retirement commenced on or before
+25 January 1, 2026, is increased by three percent (3%) of the allowance payable on June 1, 2026.
+26 Effective July 1, 2026, the retirement allowance payable to, or on account of, beneficiaries whose
+27 retirement commenced after January 1, 2026, but before June 30, 2026, is increased by a prorated
+28 amount of three percent (3%), as determined by the Board of Trustees based upon the number of
+29 months that a retirement allowance was paid between January 1, 2026, and June 30, 2026."
+30 SECTION 3.1.(d) G.S. 128-27 is amended by adding a new subsection to read:
+31 "(hhh) Effective July 1, 2026, the retirement allowance payable to, or on account of,
+32 beneficiaries whose retirement commenced on or before July 1, 2025, is increased by three
+33 percent (3%) of the allowance payable on June 1, 2025, in accordance with subsection (k) of this
+34 section. Effective July 1, 2026, the retirement allowance payable to, or on account of,
+35 beneficiaries whose retirement commenced after July 1, 2025, but before June 30, 2026, is
+36 increased by a prorated amount of three percent (3%), as determined by the Board of Trustees
+37 based upon the number of months that a retirement allowance was paid between July 1, 2025,
+38 and June 30, 2026."
+39 SECTION 3.2. There is appropriated from the General Fund to the Reserve for
+40 Retiree Cost-of-Living Adjustments the sum of two hundred fifty million dollars ($250,000,000)
+41 in recurring funds for the 2026-2027 fiscal year to implement this Part.
+42
+43 PART IV. EFFECTIVE DATE
+44 SECTION 4. This act becomes effective July 1, 2026.
+DRH40655-MTap-144A Page 15
+[DELETED:  D G ( R  A T A F T R S F P S B A T P A C A F " $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $]
+[DELETED:  S  D L t w h N c s r a s L L t w l b o a p a t d l s r a s s o o h L t w l b o a p a t d l s r a s s o t h C S T T T T T t f a p a t s d l o t T t s o t s s s b s a o T F T T T F t s o t s a a b t t r i t]
+[DELETED:  S  P 1  A u i t s t t " s a i B M E $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ A A T T T A T T p h n s a s a a p f a F F]
+[DELETED:  S  D I T o F T T F F F S T T T a o a 1  A p w c b o a a t s d l s b p a s s o o h 1  P i a a f m i s]
+[DELETED:  S  P T F T T l t t a p w h r a f S e u t N C H F f s a s a s a s d s a f $ $ $ $ $ $ $ 1  T m s m t f a t $ $ $ $ $]
+[DELETED:  S  D 1  L p f s a s 1  S a s a t d ( p m i a t t c p a t d d l s r a s s o t h 1  T S B o E s n p l s F F P f e o a c f f t 1 P T]
+[DELETED:  S  P A A E L E C O O O O E o s o b t D o H a H t D o P S t D o A 2  N e S e s b p f T t h s t t h e d ( A $ $ $ $ $ $ $ $ $ A $]
+[DELETED:  S  D $ $ $ $ $ $ $ $ $ $ A $ $ $ $ $ $ $ $ $ $ $ $ $ T s p i e m i b o t n o S a d c o c a d b t A O o C A $ 1 1 1 1]
+[DELETED:  S  P A s a h b p c s b p a a s s t t A $ 7 A $ 5 A A $ $ $ $ $ $ $ 2  E J 1 2 t s o L T]
+[DELETED:  S  D R o t P P T o t S r f a b o t G A t t G a s m a T M $ $ $ $ $ O C C S B S – S 2  E J 1 2 S e s i t]
+[DELETED:  S  P Y Y Y C s b p u t C O I s C C C $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ P c p t a e s s s b F $ $ $ $ $ $ $ F]
+[DELETED:  S  D $ $ $ $ $ $ $ A P O C C – 2  E J 1 2 S e s i t o P S D o J J a D P a F $ $ $ $ $ $ $ P f S o a p w s a s i P P T e o J 1 2 a d n a t p s f s d t]
+[DELETED:  S  P 2  F a f l m s a N s r t t F R D o t e o f f T T t s ( s T o r s T T]
+[DELETED:  S  D S l s a a t r o o h p 2 h w I P T e o p o m i i m p c o r m a a D D A A r t t e b t v o d T s u a s a o t s f a F t e ( a c i a b a f o I q u t f F M L A ( t p a I i d n q t A S a m r d w a e a t c w d b t a s n r o d b w i r n t v t p o t l E t s l f p m b r S l s b t a N]
+[DELETED:  S  P S E R S T C J 1 2 t r a p t o o a o E J 1 2 t r a p t o o a o w r c a J 1 2 b b J 3 2 i E J 1 2 t r a p t o o a o b t B o T b u t n o m t a r I E J 1 2 t r a p t o o a o E J 1 2 t r a p t o o a o w r c a J 1 2 b b J 3 2 i]
+
+
+================================================================================
+
+Raw Text:
+H.B. 1054
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 27, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH40655-MTap-144A
+Short Title: Gov't Employee Raises & Retiree COLA. (Public)
+Sponsors: Representative Logan.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO APPROPRIATE FUNDS TO RAISE SALARIES FOR PUBLIC SCHOOL
+3 EMPLOYEES AND STATE EMPLOYEES, TO ENHANCE STATE EMPLOYEE SICK
+4 LEAVE BENEFITS, AND TO PROVIDE A COST-OF-LIVING ADJUSTMENT FOR
+5 CERTAIN RETIREES.
+6 The General Assembly of North Carolina enacts:
+7
+8 PART I. PUBLIC SCHOOL EMPLOYEES
+9
+10 TEACHER SALARY SCHEDULE
+11 SECTION 1.1.(a) The following monthly teacher salary schedule shall apply for the
+12 2026-2027 fiscal year to licensed personnel of the public schools who are classified as teachers.
+13 The salary schedule is based on years of teaching experience.
+14 2026-2027 Teacher Monthly Salary Schedule
+15 Years of Experience "A" Teachers
+16 0 $4,469
+17 1 $4,551
+18 2 $4,633
+19 3 $4,714
+20 4 $4,796
+21 5 $4,878
+22 6 $4,983
+23 7 $5,083
+24 8 $5,181
+25 9 $5,280
+26 10 $5,379
+27 11 $5,477
+28 12 $5,576
+29 13 $5,675
+30 14 $5,774
+31 15-24 $5,873
+32 25+ $6,099
+33 SECTION 1.1.(b) Salary Supplements for Teachers Paid on This Salary Schedule.
+34 –
+*DRH40655-MTap-144A*
+
+General Assembly Of North Carolina Session 2025
+1 (1) Licensed teachers who have NBPTS certification shall receive a salary
+2 supplement each month of twelve percent (12%) of their monthly salary on
+3 the "A" salary schedule.
+4 (2) Licensed teachers who are classified as "M" teachers shall receive a salary
+5 supplement each month of ten percent (10%) of their monthly salary on the
+6 "A" salary schedule.
+7 (3) Licensed teachers with licensure based on academic preparation at the
+8 six-year degree level shall receive a salary supplement of one hundred
+9 twenty-six dollars ($126.00) per month in addition to the supplement provided
+10 to them as "M" teachers.
+11 (4) Licensed teachers with licensure based on academic preparation at the
+12 doctoral degree level shall receive a salary supplement of two hundred
+13 fifty-three dollars ($253.00) per month in addition to the supplement provided
+14 to them as "M" teachers.
+15 (5) Certified school nurses shall receive a salary supplement each month of ten
+16 percent (10%) of their monthly salary on the "A" salary schedule.
+17 (6) School counselors who are licensed as counselors at the master's degree level
+18 or higher shall receive a salary supplement each month of one hundred dollars
+19 ($100.00).
+20 SECTION 1.1.(c) For school psychologists, school speech pathologists who are
+21 licensed as speech pathologists at the master's degree level or higher, and school audiologists
+22 who are licensed as audiologists at the master's degree level or higher, the following shall apply:
+23 (1) The first step of the salary schedule shall be equivalent to the sixth step of the
+24 "A" salary schedule.
+25 (2) These employees shall receive the following salary supplements each month:
+26 a. Ten percent (10%) of their monthly salary, excluding the supplement
+27 provided pursuant to sub-subdivision b. of this subdivision.
+28 b. Three hundred fifty dollars ($350.00).
+29 (3) These employees are eligible to receive salary supplements equivalent to those
+30 of teachers for academic preparation at the six-year degree level or the
+31 doctoral degree level.
+32 (4) The twenty-sixth step of the salary schedule shall be seven and one-half
+33 percent (7.5%) higher than the salary received by these same employees on
+34 the twenty-fifth step of the salary schedule.
+35 SECTION 1.1.(d) Beginning with the 2014-2015 fiscal year, in lieu of providing
+36 annual longevity payments to teachers paid on the teacher salary schedule, the amounts of those
+37 longevity payments are included in the monthly amounts under the teacher salary schedule.
+38 SECTION 1.1.(e) A teacher compensated in accordance with this salary schedule
+39 for the 2026-2027 school year shall receive an amount equal to the greater of the following:
+40 (1) The applicable amount on the salary schedule for the applicable school year.
+41 (2) For teachers who were eligible for longevity for the 2013-2014 school year,
+42 the sum of the following:
+43 a. The salary the teacher received in the 2013-2014 school year pursuant
+44 to Section 35.11 of S.L. 2013-360.
+45 b. The longevity that the teacher would have received under the longevity
+46 system in effect for the 2013-2014 school year provided in Section
+47 35.11 of S.L. 2013-360 based on the teacher's current years of service.
+48 c. The annual bonus provided in Section 9.1(e) of S.L. 2014-100.
+49 (3) For teachers who were not eligible for longevity for the 2013-2014 school
+50 year, the sum of the salary and annual bonus the teacher received in the
+51 2014-2015 school year pursuant to Section 9.1 of S.L. 2014-100.
+Page 2 DRH40655-MTap-144A
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.1.(f) As used in this section, the term "teacher" shall also include
+2 instructional support personnel.
+3
+4 PRINCIPAL SALARY SCHEDULE
+5 SECTION 1.2.(a) The following annual salary schedule for principals shall apply
+6 for the 2026-2027 fiscal year, beginning July 1, 2026:
+7 2026-2027 Principal Annual Salary Schedule
+8 Avg. Daily Membership Base Met Growth Exceeded Growth
+9 0-200 $84,793 $93,271 $101,752
+10 201-400 $89,032 $97,935 $106,839
+11 401-700 $93,271 $102,600 $111,927
+12 701-1,000 $97,512 $107,263 $117,015
+13 1,001-1,600 $101,752 $111,927 $122,102
+14 1,601+ $105,991 $116,590 $127,189
+15 A principal's placement on the salary schedule shall be determined according to the
+16 average daily membership of the school supervised by the principal, as described in subsection
+17 (b) of this section, and the school growth scores, calculated pursuant to G.S. 115C-83.15(c), for
+18 each school the principal supervised in at least two of the prior three school years, as described
+19 in subsection (c) of this section, regardless of a break in service, and provided the principal
+20 supervised each school as a principal for at least a majority of the school year, as follows:
+21 (1) A principal shall be paid according to the Exceeded Growth column of the
+22 schedule if the school growth scores show the school or schools exceeded
+23 expected growth in at least two of the prior three school years.
+24 (2) A principal shall be paid according to the Met Growth column of the schedule
+25 if any of the following apply:
+26 a. The school growth scores show the school or schools met expected
+27 growth in at least two of the prior three school years.
+28 b. The school growth scores show the school or schools met expected
+29 growth in at least one of the prior three school years and exceeded
+30 expected growth in one of the prior three school years.
+31 c. The principal supervised a school in at least two of the prior three
+32 school years that was not eligible to receive a school growth score.
+33 (3) A principal shall be paid according to the Base column if any of the following
+34 apply:
+35 a. The school growth scores show the school or schools did not meet
+36 expected growth in at least two of the prior three school years.
+37 b. The principal has not supervised any school as a principal for a
+38 majority of the school year in at least two of the prior three school
+39 years.
+40 SECTION 1.2.(b) For purposes of determining the average daily membership of a
+41 principal's school, the allotted average daily membership for the school for the applicable school
+42 year shall be used. For purposes of this section, the allotted average daily membership of a
+43 principal's school shall include any prekindergarten students in membership at that school.
+44 SECTION 1.2.(c) For purposes of determining the school growth scores for each
+45 school the principal supervised in one or more prior school years, the following school growth
+46 scores shall be used during the following time periods:
+47 (1) For the first six months of the applicable fiscal year, the school growth scores
+48 from the first, second, and third years.
+49 (2) For the second six months of the applicable fiscal year, the school growth
+50 scores from the second, third, and fourth years.
+DRH40655-MTap-144A Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (3) If a principal does not have a school growth score from any of the school years
+2 identified in this subsection, the most recent available growth scores, up to the
+3 fourth year, shall be used.
+4 SECTION 1.2.(d) Beginning with the 2017-2018 fiscal year, in lieu of providing
+5 annual longevity payments to principals paid on the principal salary schedule, the amounts of
+6 those longevity payments are included in the annual amounts under the principal salary schedule.
+7 SECTION 1.2.(e) A principal compensated in accordance with this section for the
+8 2026-2027 fiscal year shall receive an amount equal to the greater of the following:
+9 (1) The applicable amount on the principal salary schedule for the applicable
+10 fiscal year.
+11 (2) For principals who were eligible for longevity in the 2016-2017 fiscal year,
+12 the sum of the following:
+13 a. The salary the principal received in the 2016-2017 fiscal year pursuant
+14 to Section 9.1 or Section 9.2 of S.L. 2016-94.
+15 b. The longevity that the principal would have received as provided for
+16 State employees under the North Carolina Human Resources Act for
+17 the 2016-2017 fiscal year based on the principal's current years of
+18 service.
+19 (3) For principals who were not eligible for longevity in the 2016-2017 fiscal
+20 year, the salary the principal received in the 2016-2017 fiscal year pursuant to
+21 Section 9.1 or Section 9.2 of S.L. 2016-94.
+22 SECTION 1.2.(f) For purposes of this section, the following definitions apply:
+23 (1) First year. – The school year immediately preceding the second year.
+24 (2) Fourth year. – The school year immediately preceding the applicable school
+25 year.
+26 (3) Second year. – The school year immediately preceding the third year.
+27 (4) The applicable fiscal year. – The 2026-2027 fiscal year.
+28 (5) The applicable school year. – The 2026-2027 school year.
+29 (6) Third year. – The school year immediately preceding the fourth year.
+30
+31 ASSISTANT PRINCIPAL SALARIES
+32 SECTION 1.3.(a) For the 2026-2027 fiscal year, beginning July 1, 2026, assistant
+33 principals shall receive a monthly salary based on the salary schedule for teachers who are
+34 classified as "A" teachers plus nineteen percent (19%). An assistant principal shall be placed on
+35 the step on the salary schedule that reflects the total number of years of experience as a certified
+36 employee of the public schools. For purposes of this section, an administrator with a one-year
+37 provisional assistant principal's certificate shall be considered equivalent to an assistant principal.
+38 SECTION 1.3.(b) Assistant principals with certification based on academic
+39 preparation at the six-year degree level shall be paid a salary supplement of one hundred
+40 twenty-six dollars ($126.00) per month and at the doctoral degree level shall be paid a salary
+41 supplement of two hundred fifty-three dollars ($253.00) per month.
+42 SECTION 1.3.(c) Participants in an approved full-time master's in school
+43 administration program shall receive up to a 10-month stipend during the internship period of the
+44 master's program. The stipend shall be at the beginning salary of an assistant principal or, for a
+45 teacher who becomes an intern, at least as much as that person would earn as a teacher on the
+46 teacher salary schedule. The North Carolina Principal Fellows Program or the school of education
+47 where the intern participates in a full-time master's in school administration program shall supply
+48 the Department of Public Instruction with certification of eligible full-time interns.
+49 SECTION 1.3.(d) Beginning with the 2017-2018 fiscal year, in lieu of providing
+50 annual longevity payments to assistant principals on the assistant principal salary schedule, the
+Page 4 DRH40655-MTap-144A
+
+General Assembly Of North Carolina Session 2025
+1 amounts of those longevity payments are included in the monthly amounts provided to assistant
+2 principals pursuant to subsection (a) of this section.
+3 SECTION 1.3.(e) An assistant principal compensated in accordance with this section
+4 for the 2026-2027 fiscal year shall receive an amount equal to the greater of the following:
+5 (1) The applicable amount on the salary schedule for the applicable year.
+6 (2) For assistant principals who were eligible for longevity in the 2016-2017 fiscal
+7 year, the sum of the following:
+8 a. The salary the assistant principal received in the 2016-2017 fiscal year
+9 pursuant to Section 9.1 or Section 9.2 of S.L. 2016-94.
+10 b. The longevity that the assistant principal would have received as
+11 provided for State employees under the North Carolina Human
+12 Resources Act for the 2016-2017 fiscal year based on the assistant
+13 principal's current years of service.
+14 (3) For assistant principals who were not eligible for longevity in the 2016-2017
+15 fiscal year, the salary the assistant principal received in the 2016-2017 fiscal
+16 year pursuant to Section 9.1 or Section 9.2 of S.L. 2016-94.
+17
+18 CENTRAL OFFICE SALARIES
+19 SECTION 1.4.(a) For the 2026-2027 fiscal year, beginning July 1, 2026, the annual
+20 salary for superintendents, assistant superintendents, associate superintendents,
+21 directors/coordinators, supervisors, and finance officers whose salaries are supported from State
+22 funds shall be increased by nine percent (9%).
+23 SECTION 1.4.(b) The monthly salary maximums that follow apply to assistant
+24 superintendents, associate superintendents, directors/coordinators, supervisors, and finance
+25 officers for the 2026-2027 fiscal year, beginning July 1, 2026:
+26 2026-2027 Fiscal Year
+27 Maximum
+28 School Administrator I $8,255
+29 School Administrator II $8,746
+30 School Administrator III $9,267
+31 School Administrator IV $9,629
+32 School Administrator V $10,014
+33 School Administrator VI $10,607
+34 School Administrator VII $11,031
+35 The local board of education shall determine the appropriate category and placement
+36 for each assistant superintendent, associate superintendent, director/coordinator, supervisor, or
+37 finance officer within the maximums and within funds appropriated by the General Assembly
+38 for central office administrators and superintendents. The category in which an employee is
+39 placed shall be included in the contract of any employee.
+40 SECTION 1.4.(c) The monthly salary maximums that follow apply to
+41 superintendents for the 2026-2027 fiscal year, beginning July 1, 2026:
+42 2026-2027 Fiscal Year
+43 Maximum
+44 Superintendent I $11,692
+45 Superintendent II $12,389
+46 Superintendent III $13,133
+47 Superintendent IV $13,923
+48 Superintendent V $14,760
+49 The local board of education shall determine the appropriate category and placement
+50 for the superintendent based on the average daily membership of the local school administrative
+DRH40655-MTap-144A Page 5
+
+General Assembly Of North Carolina Session 2025
+1 unit and within funds appropriated by the General Assembly for central office administrators and
+2 superintendents.
+3 SECTION 1.4.(d) Longevity pay for superintendents, assistant superintendents,
+4 associate superintendents, directors/coordinators, supervisors, and finance officers shall be as
+5 provided for State employees under the North Carolina Human Resources Act.
+6 SECTION 1.4.(e) Superintendents, assistant superintendents, associate
+7 superintendents, directors/coordinators, supervisors, and finance officers with certification based
+8 on academic preparation at the six-year degree level shall receive a salary supplement of one
+9 hundred twenty-six dollars ($126.00) per month in addition to the compensation provided
+10 pursuant to this section. Superintendents, assistant superintendents, associate superintendents,
+11 directors/coordinators, supervisors, and finance officers with certification based on academic
+12 preparation at the doctoral degree level shall receive a salary supplement of two hundred
+13 fifty-three dollars ($253.00) per month in addition to the compensation provided for under this
+14 section.
+15 SECTION 1.4.(f) The State Board of Education shall not permit local school
+16 administrative units to transfer State funds from other funding categories for salaries for public
+17 school central office administrators.
+18
+19 NONCERTIFIED PERSONNEL SALARIES
+20 SECTION 1.5. For the 2026-2027 fiscal year, beginning July 1, 2026, the annual
+21 salary for noncertified public school employees whose salaries are supported from State funds
+22 shall be increased as follows:
+23 (1) For permanent, full-time employees on a 12-month contract, by nine percent
+24 (9%).
+25 (2) For the following employees, by an equitable amount based on the amount
+26 specified in subdivision (1) of this section:
+27 a. Permanent, full-time employees on a contract for fewer than 12
+28 months.
+29 b. Permanent, part-time employees.
+30 c. Temporary and permanent hourly employees.
+31
+32 STATE AGENCY TEACHERS
+33 SECTION 1.6. For the 2026-2027 fiscal year, employees of schools operated by the
+34 Department of Health and Human Services, the Department of Public Safety, the Department of
+35 Adult Correction, and the State Board of Education who are paid on the teacher salary schedule
+36 shall be paid as authorized under this act.
+37
+38 APPROPRIATION
+39 SECTION 1.7. There is appropriated from the General Fund to the Department of
+40 Public Instruction the sum of nine hundred thirty-nine million eight hundred thousand dollars
+41 ($939,800,000) in recurring funds for the 2026-2027 fiscal year to provide the compensation
+42 increases for public school employees authorized in this Part.
+43
+44 PART II. STATE EMPLOYEES/INCREASE/SICK LEAVE
+45
+46 SEVEN PERCENT LEGISLATIVE SALARY INCREASE AWARDED TO ELIGIBLE
+47 STATE-FUNDED EMPLOYEES
+48 SECTION 2.1.(a) Effective July 1, 2026, except as provided by subsection (b) of
+49 this section, a person (i) whose salary is set by this Part, pursuant to the North Carolina Human
+50 Resources Act, or as otherwise authorized in this act and (ii) who is employed in a State-funded
+Page 6 DRH40655-MTap-144A
+
+General Assembly Of North Carolina Session 2025
+1 position on June 30, 2026, is awarded a legislative salary increase in the 2026-2027 fiscal year,
+2 as follows:
+3 (1) A cost-of-living adjustment in the amount of seven percent (7%).
+4 (2) Any other salary adjustment otherwise allowed or provided by law.
+5 SECTION 2.1.(b) Effective July 1, 2026, the following persons are not eligible to
+6 receive the legislative salary increases provided by subsection (a) of this section:
+7 (1) Employees of local boards of education.
+8 (2) Local community college employees.
+9 (3) Employees of The University of North Carolina.
+10 (4) Clerks of superior court compensated under G.S. 7A-101.
+11 (5) Officers and employees to which Section 2.13 of this Part applies.
+12 (6) Officers and employees to which Section 2.14 of this Part applies.
+13 (7) Officers and employees to which Section 2.15 of this Part applies.
+14 (8) Officers and employees to which Section 2.16 of this Part applies.
+15 (9) Employees of schools operated by the Department of Health and Human
+16 Services, the Department of Public Safety, the Department of Adult
+17 Correction, the Governor Morehead School for the Blind, the Eastern North
+18 Carolina School for the Deaf, the North Carolina School for the Deaf, and the
+19 State Board of Education who are paid based on the teacher salary schedule.
+20 SECTION 2.1.(c) Part-time employees shall receive the increases authorized by this
+21 section on a prorated and equitable basis.
+22 SECTION 2.1.(d) No eligible State-funded employee shall be prohibited from
+23 receiving the full salary increases provided in this section solely because the employee's salary
+24 after applying the legislative salary increase is above the maximum of the salary range prescribed
+25 by the State Human Resources Commission.
+26
+27 GOVERNOR AND COUNCIL OF STATE
+28 SECTION 2.2.(a) Effective July 1, 2026, G.S. 147-11(a) reads as rewritten:
+29 "§ 147-11. Salary and expense allowance of Governor; allowance to person designated to
+30 represent Governor's office.
+31 (a) The salary of the Governor shall be two hundred three thousand seventy-three dollars
+32 ($203,073) two hundred seventeen thousand two hundred eighty-eight dollars ($217,288)
+33 annually, payable monthly."
+34 SECTION 2.2.(b) Effective July 1, 2026, the annual salaries for members of the
+35 Council of State, payable monthly, are set as follows:
+36 Council of State Annual Salary
+37 Lieutenant Governor $180,171
+38 Attorney General $180,171
+39 Secretary of State $180,171
+40 State Treasurer $180,171
+41 State Auditor $180,171
+42 Superintendent of Public Instruction $180,171
+43 Agriculture Commissioner $180,171
+44 Insurance Commissioner $180,171
+45 Labor Commissioner $180,171
+46
+47 CERTAIN EXECUTIVE BRANCH OFFICIALS
+48 SECTION 2.3. Effective July 1, 2026, the annual salaries, payable monthly, for the
+49 following executive branch officials are as follows:
+50 Executive Branch Officials Annual Salary
+51 Chairman, Alcoholic Beverage Control Commission $150,703
+DRH40655-MTap-144A Page 7
+
+General Assembly Of North Carolina Session 2025
+1 State Controller $209,847
+2 Commissioner of Banks $169,141
+3 Chair, Board of Review, Division of Employment Security $165,909
+4 Members, Board of Review, Division of Employment Security $163,881
+5 Chairman, Parole Commission $165,909
+6 Full-time Members of the Parole Commission $153,399
+7 Chairman, Utilities Commission $188,069
+8 Members of the Utilities Commission $169,141
+9 Executive Director, North Carolina Agricultural Finance Authority $146,762
+10 State Fire Marshal $148,784
+11
+12 JUDICIAL BRANCH
+13 SECTION 2.4.(a) Effective July 1, 2026, the annual salaries, payable monthly, for
+14 the following judicial branch officials are as follows:
+15 Judicial Branch Officials Annual Salary
+16 Chief Justice, Supreme Court $217,288
+17 Associate Justice, Supreme Court $211,648
+18 Chief Judge, Court of Appeals $208,301
+19 Judge, Court of Appeals $202,894
+20 Judge, Senior Regular Resident Superior Court $186,448
+21 Judge, Superior Court $180,964
+22 Chief Judge, District Court $179,276
+23 Judge, District Court $174,003
+24 Chief Administrative Law Judge $154,868
+25 District Attorney $179,051
+26 Assistant Administrative Officer of the Courts $162,442
+27 Public Defender $179,051
+28 Director of Indigent Defense Services $180,365
+29 SECTION 2.4.(b) The district attorney of a judicial district, with the approval of the
+30 Administrative Officer of the Courts, and the public defender of a judicial district, with the
+31 approval of the Commission on Indigent Defense Services, shall set the salaries of assistant
+32 district attorneys and assistant public defenders in that district such that the average salary of
+33 those assistants in that district does not exceed one hundred eight thousand three hundred ninety
+34 dollars ($108,390) and the minimum salary of any assistant is at least fifty-eight thousand one
+35 hundred seventy-five dollars ($58,175), effective July 1, 2026.
+36
+37 CLERKS OF SUPERIOR COURT
+38 SECTION 2.5. Effective July 1, 2026, G.S. 7A-101(a) reads as rewritten:
+39 "§ 7A-101. Compensation.
+40 (a) The clerk of superior court is a full-time employee of the State and shall receive an
+41 annual salary, payable in equal monthly installments, based on the number of State-funded
+42 assistant and deputy clerks of court as determined by the Administrative Office of Court's
+43 workload formula, according to the following schedule:
+44 Assistants and Deputies Annual Salary
+45 0-19 $111,726$119,547
+46 20-29 123,488$132,132
+47 30-49 135,248$144,175
+48 50-99 147,010$157,301
+49 100 and above 149,949$160,445
+50 If the number of State-funded assistant and deputy clerks of court as determined by the
+51 Administrative Office of Court's workload formula changes, the salary of the clerk shall be
+Page 8 DRH40655-MTap-144A
+
+General Assembly Of North Carolina Session 2025
+1 changed, on July 1 of the fiscal year for which the change is reported, to the salary appropriate
+2 for that new number, except that the salary of an incumbent clerk shall not be decreased by any
+3 change in that number during the clerk's continuance in office."
+4
+5 ASSISTANT AND DEPUTY CLERKS OF COURT
+6 SECTION 2.6. Effective July 1, 2026, G.S. 7A-102(c1) reads as rewritten:
+7 "(c1) A full-time assistant clerk or a full-time deputy clerk, and up to one full-time deputy
+8 clerk serving as head bookkeeper per county, shall be paid an annual salary subject to the
+9 following minimum and maximum rates:
+10
+11 Assistant Clerks and Head Bookkeeper Annual Salary
+12 Minimum $40,482$43,316
+13 Maximum 74,792$80,027
+14
+15 Deputy Clerks Annual Salary
+16 Minimum $36,315$38,857
+17 Maximum 58,740$62,852"
+18
+19 MAGISTRATES
+20 SECTION 2.7. Effective July 1, 2026, G.S. 7A-171.1(a)(1) reads as rewritten:
+21 "(1) A full-time magistrate shall be paid the annual salary indicated in the table set
+22 out in this subdivision. A full-time magistrate is a magistrate who is assigned
+23 to work an average of not less than 40 hours a week during the term of office.
+24 The Administrative Officer of the Courts shall designate whether a magistrate
+25 is full-time. Initial appointment shall be at the entry rate. A magistrate's salary
+26 shall increase to the next step every two years on the anniversary of the date
+27 the magistrate was originally appointed for increases to Steps 1 through 3, and
+28 every four years on the anniversary of the date the magistrate was originally
+29 appointed for increases to Steps 4 through 6:
+30 Table of Salaries of Full-Time Magistrates
+31 Step Level Annual Salary
+32 Entry Rate $47,228$50,534
+33 Step 1 $50,714$54,264
+34 Step 2 $54,475$58,288
+35 Step 3 $58,457$62,549
+36 Step 4 $63,228$67,654
+37 Step 5 $68,973$73,801
+38 Step 6 $75,415.$80,694."
+39
+40 LEGISLATIVE EMPLOYEES
+41 SECTION 2.8.(a) Effective July 1, 2026, the annual salaries of the Legislative
+42 Services Officer and of nonelected employees of the General Assembly in effect on June 30,
+43 2026, shall be legislatively increased by seven percent (7%).
+44 SECTION 2.8.(b) Nothing in this act limits any of the provisions of G.S. 120-32.
+45
+46 GENERAL ASSEMBLY PRINCIPAL CLERKS
+47 SECTION 2.9. Effective July 1, 2026, G.S. 120-37(c) reads as rewritten:
+48 "(c) The principal clerks shall be full-time officers. Each principal clerk shall be entitled
+49 to other benefits available to permanent legislative employees and shall be paid an annual salary
+50 of one hundred thirty-three thousand nine hundred thirty-six dollars ($133,936), one hundred
+51 forty-three thousand three hundred twelve dollars ($143,312), payable monthly. Each principal
+DRH40655-MTap-144A Page 9
+
+General Assembly Of North Carolina Session 2025
+1 clerk shall also receive such additional compensation as approved by the Speaker of the House
+2 of Representatives or the President Pro Tempore of the Senate, respectively, for additional
+3 employment duties beyond those provided by the rules of their House. The Legislative Services
+4 Commission shall review the salary of the principal clerks prior to submission of the proposed
+5 operating budget of the General Assembly to the Governor and shall make appropriate
+6 recommendations for changes in those salaries. Any changes enacted by the General Assembly
+7 shall be by amendment to this paragraph.subsection."
+8
+9 SERGEANTS-AT-ARMS AND READING CLERKS
+10 SECTION 2.10. Effective July 1, 2026, G.S. 120-37(b) reads as rewritten:
+11 "(b) The sergeant at arms and the reading clerk in each house shall be paid a salary of five
+12 hundred twenty-eight dollars ($528.00) five hundred sixty-five dollars ($565.00) per week plus
+13 subsistence at the same daily rate provided for members of the General Assembly, plus mileage
+14 at the rate provided for members of the General Assembly for one round trip only from their
+15 homes to Raleigh and return. The sergeants at arms shall serve during sessions of the General
+16 Assembly and at such time prior to the convening of, and subsequent to adjournment or recess
+17 of, sessions as may be authorized by the Legislative Services Commission. The reading clerks
+18 shall serve during sessions only."
+19
+20 COMMUNITY COLLEGES
+21 SECTION 2.11.(a) Effective July 1, 2026, the State Board of Community Colleges
+22 shall provide community college faculty and non-faculty personnel with an across-the-board
+23 salary increase in the amount of seven percent (7%).
+24 SECTION 2.11.(b) Effective July 1, 2026, the minimum salaries for nine-month,
+25 full-time curriculum community college faculty are as follows:
+26 Educational Level Minimum Salary
+27 Vocational Diploma/Certificate or Less $46,138
+28 Associate Degree or Equivalent $46,780
+29 Bachelor's Degree $49,563
+30 Master's Degree or Education Specialist $52,033
+31 Doctoral Degree $55,593
+32 SECTION 2.11.(c) No full-time faculty member shall earn less than the minimum
+33 salary for the faculty member's education level. The pro rata hourly rate of the minimum salary
+34 for each education level shall be used to determine the minimum salary for part-time faculty
+35 members.
+36
+37 THE UNIVERSITY OF NORTH CAROLINA
+38 SECTION 2.12. Effective July 1, 2026, the Board of Governors of The University
+39 of North Carolina shall provide SHRA employees, EHRA employees, and teachers employed by
+40 the North Carolina School of Science and Mathematics with an across-the-board salary increase
+41 in the amount of seven percent (7%).
+42
+43 CORRECTIONAL OFFICERS/YOUTH COUNSELORS/YOUTH COUNSELOR
+44 TECHNICIANS/YOUTH SERVICES BEHAVIORAL SPECIALISTS – SALARY
+45 SCHEDULE
+46 SECTION 2.13.(a) Effective July 1, 2026, State employees serving as correctional
+47 officers in the Department of Adult Correction shall be compensated at a specific pay rate on the
+48 basis of a salary schedule determined according to the duration of the employee's correctional
+49 officer work experience pursuant to the salary schedule in subsection (b) of this section.
+50 SECTION 2.13.(a1) Effective July 1, 2026, State employees serving in the
+51 Department of Public Safety, Division of Juvenile Justice and Delinquency Prevention, shall be
+Page 10 DRH40655-MTap-144A
+
+General Assembly Of North Carolina Session 2025
+1 compensated at a specific pay rate set on the basis of a salary schedule determined according to
+2 the duration of the employee's work experience, as follows:
+3 (1) Youth Counselor Technicians shall be paid under the Correctional Officer I
+4 salary schedule, as established in subsection (b) of this section.
+5 (2) Youth Services Behavioral Specialists shall be paid under the Correctional
+6 Officer II salary schedule, as established in subsection (b) of this section.
+7 (3) Youth Counselors shall be paid under the Correctional Officer III salary
+8 schedule, as established in subsection (b) of this section.
+9 SECTION 2.13.(b) Effective July 1, 2026, the following annual salary schedule will
+10 apply under subsections (a) and (a1) of this section:
+11 Experience COI COII COIII
+12 0 $40,254 $41,579 $44,467
+13 1 $43,071 $44,488 $47,581
+14 2 $45,657 $47,205 $50,437
+15 3 $47,939 $49,516 $52,959
+16 4 $49,856 $51,497 $55,076
+17 5 $51,353 $53,041 $56,728
+18 6+ $52,380 $54,102 $57,863
+19 SECTION 2.13.(c) If an employee will not receive a salary increase under this
+20 section because the employee's salary exceeds the scheduled salary level, then the employee shall
+21 receive an annual salary increase equal to the amount of the across-the-board legislative salary
+22 increase authorized in this Part.
+23
+24 STATE HIGHWAY PATROL SALARY SCHEDULE
+25 SECTION 2.14.(a) Effective July 1, 2026, law enforcement officers of the State
+26 Highway Patrol compensated pursuant to an experience-based salary schedule shall be
+27 compensated based on the officer's respective work experience pursuant to the salary schedule in
+28 subsection (b) of this section.
+29 SECTION 2.14.(b) Effective July 1, 2026, the following annual salary schedule
+30 applies under subsection (a) of this section:
+31 Years of Experience FY 2026-2027
+32 0 $58,850
+33 1 $62,675
+34 2 $66,749
+35 3 $71,088
+36 4 $75,708
+37 5 $80,629
+38 6+ $85,870
+39 SECTION 2.14.(c) If an employee will not receive a salary increase under this
+40 section because the employee's salary exceeds the scheduled salary level, then the employee shall
+41 receive an annual salary increase equal to the amount of the across-the-board legislative salary
+42 increase authorized in this Part.
+43
+44 STATE LAW ENFORCEMENT OFFICER SALARY SCHEDULE/INCREASES
+45 SECTION 2.15.(a) Effective July 1, 2026, law enforcement officers of the State
+46 Bureau of Investigation and Alcohol Law Enforcement shall be compensated pursuant to an
+47 experience-based salary schedule and shall be compensated based on the officer's respective
+48 work experience pursuant to the salary schedule in subsection (b) of this section.
+49 SECTION 2.15.(b) Effective July 1, 2026, the following annual salary schedule
+50 applies under subsection (a) of this section:
+51 Years of Experience FY 2026-2027
+DRH40655-MTap-144A Page 11
+
+General Assembly Of North Carolina Session 2025
+1 0 $57,220
+2 1 $60,941
+3 2 $64,902
+4 3 $69,121
+5 4 $73,614
+6 5 $78,399
+7 6+ $83,495
+8 SECTION 2.15.(c) If an employee will not receive a salary increase under this
+9 section because the employee's salary exceeds the scheduled salary level, then the employee shall
+10 receive an annual salary increase equal to the amount of the across-the-board legislative salary
+11 increase authorized in this Part.
+12
+13 PROBATION AND PAROLE OFFICERS/JUVENILE COURT COUNSELORS –
+14 SALARY SCHEDULE
+15 SECTION 2.16.(a) Effective July 1, 2026, probation and parole officers shall be
+16 compensated pursuant to the experience-based salary schedule based on the officer's respective
+17 work experience, as established in subsection (b) of this section.
+18 SECTION 2.16.(a1) Effective July 1, 2026, State employees serving in the
+19 Department of Public Safety, Division of Juvenile Justice and Delinquency Prevention, as
+20 Juvenile Court Counselors shall be compensated under the probation and parole officer salary
+21 schedule, as established in subsection (b) of this section.
+22 SECTION 2.16.(b) Effective July 1, 2026, the following annual salary schedule
+23 applies under subsections (a) and (a1) of this section:
+24 Years of Experience FY 2026-2027
+25 0 $48,602
+26 1 $51,760
+27 2 $55,126
+28 3 $58,709
+29 4 $62,525
+30 5 $66,589
+31 6+ $70,917
+32 SECTION 2.16.(c) If an employee will not receive a salary increase under this
+33 section because the employee's salary exceeds the scheduled salary level, then the employee shall
+34 receive an annual salary increase equal to the amount of the across-the-board legislative salary
+35 increase authorized in this Part.
+36
+37 MOST STATE EMPLOYEES
+38 SECTION 2.17. Effective July 1, 2026, unless otherwise expressly provided by this
+39 Part, the annual salaries in effect for the following persons on June 30, 2026, shall be legislatively
+40 increased as provided by this act:
+41 (1) Permanent, full-time State officials and persons whose salaries are set in
+42 accordance with the North Carolina Human Resources Act.
+43 (2) Permanent, full-time State officials and persons in positions exempt from the
+44 North Carolina Human Resources Act.
+45 (3) Permanent, part-time State employees.
+46 (4) Temporary and permanent hourly State employees.
+47
+48 ALL STATE-SUPPORTED PERSONNEL
+49 SECTION 2.18.(a) The legislative salary increases authorized by this act shall be
+50 paid effective on July 1, 2026, and do not apply to persons separated from service due to
+Page 12 DRH40655-MTap-144A
+
+General Assembly Of North Carolina Session 2025
+1 resignation, dismissal, reduction in force, death, or retirement or whose last workday is prior to
+2 June 30, 2026.
+3 SECTION 2.18.(b) The Director of the Budget is granted flexibility to administer
+4 the compensation increases enacted by this act. The State employer contribution rates enacted by
+5 this act for retirement and related benefits may be deemed by the Director of the Budget for
+6 administrative purposes to become effective after July 1 to provide flexibility in the collection
+7 and reconciliation of salary-related contributions as required by law, provided the estimated
+8 amount contributed to any affected employee benefit trust equals the amount that would have
+9 been contributed to the employee benefit trust if the enacted employer contribution rates had
+10 been effective on July 1.
+11 SECTION 2.18.(c) This section applies to all employees paid from State funds,
+12 whether or not subject to or exempt from the North Carolina Human Resources Act, including
+13 employees of public schools, community colleges, and The University of North Carolina.
+14
+15 USE OF FUNDS APPROPRIATED FOR LEGISLATIVELY MANDATED INCREASES
+16 SECTION 2.19.(a) The Office of State Budget and Management shall ensure that
+17 the appropriations made by this act for legislatively mandated salary increases and employee
+18 benefits are used only for those purposes.
+19 SECTION 2.19.(b) If the Director of the Budget determines that funds appropriated
+20 to a State agency for legislatively mandated salary increases and employee benefits exceed the
+21 amount required by that agency for those purposes, the Director may reallocate those funds to
+22 other State agencies that received insufficient funds for legislatively mandated salary increases
+23 and employee benefits.
+24 SECTION 2.19.(c) Funds appropriated for legislatively mandated salary and
+25 employee benefit increases may not be used to adjust the budgeted salaries of vacant positions,
+26 to provide salary increases in excess of those required by the General Assembly, or to increase
+27 the budgeted salary of filled positions to the minimum of the position's respective salary range.
+28 SECTION 2.19.(d) Any funds appropriated for legislatively mandated salary and
+29 employee benefit increases in excess of the amounts required to implement the increases shall be
+30 credited to the Pay Plan Reserve.
+31 SECTION 2.19.(e) No later than May 1, 2027, the Office of State Budget and
+32 Management shall report to the Fiscal Research Division on the expenditure of funds for
+33 legislatively mandated salary increases and employee benefits. This report shall include at least
+34 the following information for each State agency:
+35 (1) The total amount of funds that the agency received for legislatively mandated
+36 salary increases and employee benefits.
+37 (2) The total amount of funds transferred from the agency to other State agencies
+38 pursuant to subsection (b) of this section. This section of the report shall
+39 identify the amounts transferred to each recipient State agency.
+40 (3) The total amount of funds used by the agency for legislatively mandated salary
+41 increases and employee benefits.
+42 (4) The amount of funds credited to the Pay Plan Reserve.
+43
+44 APPROPRIATION
+45 SECTION 2.20. Effective July 1, 2026, there is appropriated from the General Fund
+46 the sum of nine hundred thirty-nine million eight hundred thousand dollars ($939,800,000) in
+47 recurring funds for the 2026-2027 fiscal year for the costs associated with implementing the
+48 provisions of this Part.
+49
+50 ENHANCED SICK LEAVE
+DRH40655-MTap-144A Page 13
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.21.(a) By January 1, 2027, the State Human Resources Commission
+2 shall adopt rules to implement enhanced sick leave benefits for State employees, effective July
+3 1, 2027, that provide for the following:
+4 (1) Sick leave shall accrue at the rate of one hour per 20 hours worked,
+5 commencing on the first day of employment. Accrued sick leave is cumulative
+6 without limit. A State agency may loan time in advance of accrual not to
+7 exceed the amount an employee can accumulate during the current calendar
+8 year.
+9 (2) If an employee is separated and rehired within 90 days by the same State
+10 agency, previously accrued unused sick leave is reinstated.
+11 (3) Permissible uses of sick leave shall include the following:
+12 a. The employee's own physical or mental illness, injury, medical
+13 condition, preventive care, or routine medical appointment; and
+14 temporary disability due to childbirth or recovery therefrom.
+15 b. Death of an immediate family member.
+16 c. Donations to a member of the immediate family who is an approved
+17 voluntary shared leave recipient.
+18 d. Adoption of a child limited to a maximum of 30 days for each parent.
+19 e. Absences related to the employee being the victim of domestic
+20 violence, sexual assault, or stalking, taken for the purpose of medical
+21 care, counseling, relocation, or legal proceedings.
+22 f. The same uses as sub-subdivision a. of this subdivision for an
+23 immediate family member.
+24 (4) For the purposes of this section, an "immediate family member" means (i) a
+25 spouse, domestic or civil union partner, (ii) a parent, including a biological,
+26 adoptive, or stepparent; a parent-in-law; or a person who stood in loco parentis
+27 to the employee, (iii) a child, including a biological, adoptive, foster, or
+28 stepchild; a child-in-law; a legal ward; or a person for whom the employee
+29 stands in loco parentis, (iv) a brother or sister, including adoptive, step, half,
+30 and in-law relationships, (v) a grandparent, great-grandparent, grandchild, or
+31 great-grandchild, including step and in-law relationships thereto, and (vi) any
+32 dependent living in the employee's household.
+33 (5) If an employee or the employee's spouse, parent, or child has a serious illness
+34 that qualifies under the federal Family Medical Leave Act (FMLA), the
+35 FMLA provisions apply. If the illness does not qualify under FMLA, the
+36 provisions of the State Human Resources Act (SHRA) apply.
+37 (6) A State agency may require documentation when an employee absence
+38 exceeds three consecutive working days, but the agency shall not require
+39 disclosure of details beyond what is reasonably necessary to verify the
+40 permissible purpose of the leave. Evidence to support leave for
+41 adoption-related purposes may be required. Sick leave shall be taken and
+42 charged in units appropriate and consistent with agency operational needs.
+43 Only scheduled work time shall be charged when calculating the amount of
+44 leave taken. When exhausting leave, an employee continues to accumulate
+45 leave, is entitled to holidays, and remains eligible for salary increases.
+46 (7) Nothing in this section shall be construed to affect existing rules and policies
+47 concerning the transferability of sick leave or how sick leave is handled upon
+48 separation and reinstatement unless specifically set forth in this section.
+49 SECTION 2.21.(b) Nothing in this section shall be construed to modify the treatment
+50 of sick leave for purposes of retirement credit under Chapter 135 of the General Statutes.
+51
+Page 14 DRH40655-MTap-144A
+
+General Assembly Of North Carolina Session 2025
+1 PART III. COST-OF-LIVING ADJUSTMENT FOR RETIREES OF THE TEACHERS'
+2 AND STATE EMPLOYEES' RETIREMENT SYSTEM, THE CONSOLIDATED
+3 JUDICIAL RETIREMENT SYSTEM, THE LEGISLATIVE RETIREMENT SYSTEM,
+4 AND THE LOCAL GOVERNMENTAL EMPLOYEES' RETIREMENT SYSTEM
+5 SECTION 3.1.(a) G.S. 135-5 is amended by adding a new subsection to read:
+6 "(aaaa) Effective July 1, 2026, the retirement allowance payable to, or on account of,
+7 beneficiaries whose retirement commenced on or before July 1, 2025, is increased by three
+8 percent (3%) of the allowance payable on June 1, 2025, in accordance with subsection (o) of this
+9 section. Effective July 1, 2026, the retirement allowance payable to, or on account of,
+10 beneficiaries whose retirement commenced after July 1, 2025, but before June 30, 2026, is
+11 increased by a prorated amount of three percent (3%), as determined by the Board of Trustees
+12 based upon the number of months that a retirement allowance was paid between July 1, 2025,
+13 and June 30, 2026."
+14 SECTION 3.1.(b) G.S. 135-65 is amended by adding a new subsection to read:
+15 "(ll) Effective July 1, 2026, the retirement allowance payable to, or on account of,
+16 beneficiaries whose retirement commenced on or before July 1, 2025, is increased by three
+17 percent (3%) of the allowance payable on June 1, 2025. Effective July 1, 2026, the retirement
+18 allowance payable to, or on account of, beneficiaries whose retirement commenced after July 1,
+19 2025, but before June 30, 2026, is increased by a prorated amount of three percent (3%), as
+20 determined by the Board of Trustees based upon the number of months that a retirement
+21 allowance was paid between July 1, 2025, and June 30, 2026."
+22 SECTION 3.1.(c) G.S. 120-4.22A is amended by adding a new subsection to read:
+23 "(ff) In accordance with subsection (a) of this section, effective July 1, 2026, the retirement
+24 allowance payable to, or on account of, beneficiaries whose retirement commenced on or before
+25 January 1, 2026, is increased by three percent (3%) of the allowance payable on June 1, 2026.
+26 Effective July 1, 2026, the retirement allowance payable to, or on account of, beneficiaries whose
+27 retirement commenced after January 1, 2026, but before June 30, 2026, is increased by a prorated
+28 amount of three percent (3%), as determined by the Board of Trustees based upon the number of
+29 months that a retirement allowance was paid between January 1, 2026, and June 30, 2026."
+30 SECTION 3.1.(d) G.S. 128-27 is amended by adding a new subsection to read:
+31 "(hhh) Effective July 1, 2026, the retirement allowance payable to, or on account of,
+32 beneficiaries whose retirement commenced on or before July 1, 2025, is increased by three
+33 percent (3%) of the allowance payable on June 1, 2025, in accordance with subsection (k) of this
+34 section. Effective July 1, 2026, the retirement allowance payable to, or on account of,
+35 beneficiaries whose retirement commenced after July 1, 2025, but before June 30, 2026, is
+36 increased by a prorated amount of three percent (3%), as determined by the Board of Trustees
+37 based upon the number of months that a retirement allowance was paid between July 1, 2025,
+38 and June 30, 2026."
+39 SECTION 3.2. There is appropriated from the General Fund to the Reserve for
+40 Retiree Cost-of-Living Adjustments the sum of two hundred fifty million dollars ($250,000,000)
+41 in recurring funds for the 2026-2027 fiscal year to implement this Part.
+42
+43 PART IV. EFFECTIVE DATE
+44 SECTION 4. This act becomes effective July 1, 2026.
+DRH40655-MTap-144A Page 15
+
+[DELETED:  D G ( R  A T A F T R S F P S B A T P A C A F " $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $]
+[DELETED:  S  D L t w h N c s r a s L L t w l b o a p a t d l s r a s s o o h L t w l b o a p a t d l s r a s s o t h C S T T T T T t f a p a t s d l o t T t s o t s s s b s a o T F T T T F t s o t s a a b t t r i t]
+[DELETED:  S  P 1  A u i t s t t " s a i B M E $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ A A T T T A T T p h n s a s a a p f a F F]
+[DELETED:  S  D I T o F T T F F F S T T T a o a 1  A p w c b o a a t s d l s b p a s s o o h 1  P i a a f m i s]
+[DELETED:  S  P T F T T l t t a p w h r a f S e u t N C H F f s a s a s a s d s a f $ $ $ $ $ $ $ 1  T m s m t f a t $ $ $ $ $]
+[DELETED:  S  D 1  L p f s a s 1  S a s a t d ( p m i a t t c p a t d d l s r a s s o t h 1  T S B o E s n p l s F F P f e o a c f f t 1 P T]
+[DELETED:  S  P A A E L E C O O O O E o s o b t D o H a H t D o P S t D o A 2  N e S e s b p f T t h s t t h e d ( A $ $ $ $ $ $ $ $ $ A $]
+[DELETED:  S  D $ $ $ $ $ $ $ $ $ $ A $ $ $ $ $ $ $ $ $ $ $ $ $ T s p i e m i b o t n o S a d c o c a d b t A O o C A $ 1 1 1 1]
+[DELETED:  S  P A s a h b p c s b p a a s s t t A $ 7 A $ 5 A A $ $ $ $ $ $ $ 2  E J 1 2 t s o L T]
+[DELETED:  S  D R o t P P T o t S r f a b o t G A t t G a s m a T M $ $ $ $ $ O C C S B S – S 2  E J 1 2 S e s i t]
+[DELETED:  S  P Y Y Y C s b p u t C O I s C C C $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ P c p t a e s s s b F $ $ $ $ $ $ $ F]
+[DELETED:  S  D $ $ $ $ $ $ $ A P O C C – 2  E J 1 2 S e s i t o P S D o J J a D P a F $ $ $ $ $ $ $ P f S o a p w s a s i P P T e o J 1 2 a d n a t p s f s d t]
+[DELETED:  S  P 2  F a f l m s a N s r t t F R D o t e o f f T T t s ( s T o r s T T]
+[DELETED:  S  D S l s a a t r o o h p 2 h w I P T e o p o m i i m p c o r m a a D D A A r t t e b t v o d T s u a s a o t s f a F t e ( a c i a b a f o I q u t f F M L A ( t p a I i d n q t A S a m r d w a e a t c w d b t a s n r o d b w i r n t v t p o t l E t s l f p m b r S l s b t a N]
+[DELETED:  S  P S E R S T C J 1 2 t r a p t o o a o E J 1 2 t r a p t o o a o w r c a J 1 2 b b J 3 2 i E J 1 2 t r a p t o o a o b t B o T b u t n o m t a r I E J 1 2 t r a p t o o a o E J 1 2 t r a p t o o a o w r c a J 1 2 b b J 3 2 i]

@@ -1,0 +1,164 @@
+Title: HOUSE BILL 258
+Official Title: HOUSE BILL 258
+Number of Sections: 1
+Source: versions - Edition 4
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 4
+Committee Substitute Favorable 3/19/25
+Third Edition Engrossed 4/9/25
+Senate Judiciary Committee Substitute Adopted 6/3/26
+Short Title: Worker Safety Act of 2026. (Public)
+Sponsors:
+Referred to:
+March 4, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AMEND THE RETALIATORY EMPLOYMENT DISCRIMINATION ACT TO
+3 SPECIFY THE CONTENTS AND FILING METHODS FOR COMPLAINTS,
+4 AUTHORIZE RESPONDENTS TO SUBMIT POSITION STATEMENTS, CLARIFY THE
+5 TREATMENT OF EXTRANEOUS MATERIALS SUBMITTED WITH COMPLAINTS,
+6 AND PROVIDE FOR COMPUTATION OF TIME UNDER THAT ARTICLE.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1. G.S. 95-242 reads as rewritten:
+9 "§ 95-242. Complaint; investigation; conciliation.
+10 (a) An employee allegedly aggrieved by a violation of G.S. 95-241 may file a written
+11 complaint with the Commissioner of Labor alleging the violation. A complaint must contain all
+12 of the following:
+13 (1) The name, phone number, address, and email address, if known, of the
+14 complainant.
+15 (2) The name and address of the respondent.
+16 (3) The name, phone number, and email address, if known, of the human
+17 resources manager or other point of contact for the respondent.
+18 (4) The name, phone number, and email address, if known, of the supervisor of
+19 the complainant at the time of the alleged retaliatory action.
+20 (5) Identification of the protected activity listed in G.S. 95-241(a)(1) engaged in
+21 by the complainant prior to the alleged retaliatory action.
+22 (6) Form 18 from any relevant workers' compensation claim, if one exists.
+23 (7) A statement of the facts outlining the protected activity engaged in by the
+24 complainant prior to the alleged retaliatory action.
+25 (8) A description of the alleged retaliatory action and any relevant facts known to
+26 plaintiff that would explain a legitimate, nondiscriminatory reason for the
+27 adverse employment action.
+28 (9) The date of the most recent alleged retaliatory action.
+29 (10) The signature of the complainant.
+30 If the complaint is filed by anyone other than the complainant, except an attorney, the filer
+31 shall submit a written authorization dated and signed by the complainant allowing the person to
+32 file the complaint on the complainant's behalf. The complaint shall be filed through a form on
+33 the Department's website, by mail, or by email within 180 days of the alleged violation. If a
+34 complainant files a partial complaint within 180 days, the Department shall notify the
+*H258-v-4*
+General Assembly Of North Carolina Session 2025
+1 complainant of any deficiencies and the complainant shall have 30 days to submit a full
+2 complaint. Within 20 days following receipt of the complaint, the Commissioner shall forward a
+3 copy of the complaint full complaint to the person alleged to have committed the violation and
+4 shall initiate an investigation. Any extraneous materials submitted along with the complaint shall
+5 not be considered in the investigation and shall be destroyed. Notwithstanding G.S. 132-6 or any
+6 other provision of law, extraneous materials shall not be deemed public records and shall not be
+7 subject to inspection or examination. Within seven days of receipt of the complaint, the
+8 respondent may submit a position statement outlining affirmative defenses. Nothing in this
+9 subsection shall be construed to prevent the Commissioner from initiating an investigation prior
+10 to receiving a response from the respondent. If the Commissioner determines after the
+11 investigation that there is not reasonable cause to believe that the allegation is true, the
+12 Commissioner shall dismiss the complaint, promptly notify the employee and the respondent,
+13 and issue a right-to-sue letter to the employee that will enable the employee to bring a civil action
+14 pursuant to G.S. 95-243. If the Commissioner determines after investigation that there is
+15 reasonable cause to believe that the allegation is true, the Commissioner shall attempt to eliminate
+16 the alleged violation by informal methods which may consist of conference, conciliation, and
+17 persuasion. The Commissioner shall make a determination as soon as possible and, in any event,
+18 not later than 90 days after the filing of the complaint.
+19 …."
+20 SECTION 2. Article 21 of Chapter 95 of the General Statutes is amended by adding
+21 a new section to read:
+22 "§ 95-246. Computation of time.
+23 Computation of time under this Article shall be in accordance with G.S. 1A-1, Rule 6."
+24 SECTION 3. This act is effective when it becomes law.
+Page 2 House Bill 258-Fourth Edition
+[DELETED:  4 W (   A A S T C A F M F C A T A T S " ( A c o ( T n p n a a e a i k o t c ( T ( T n p n a e a i k o t h r ( T t ( I b ( F ( A c ( A p a ( T ( T I s f t c f a p c w 1 d t D s n t]
+[DELETED:  S  H c o a d a t c s h 3 d t s a f c c s n o s t i o e W s d o r o t c t r m s a p s o a d N i t s t r a r f t r I t C d a t i t t i n r c t b t t a i t t C a p t G I t C d a i t t i r t p n … S a " C S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 4
+HOUSE BILL 258
+Committee Substitute Favorable 3/19/25
+Third Edition Engrossed 4/9/25
+Senate Judiciary Committee Substitute Adopted 6/3/26
+Short Title: Worker Safety Act of 2026. (Public)
+Sponsors:
+Referred to:
+March 4, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AMEND THE RETALIATORY EMPLOYMENT DISCRIMINATION ACT TO
+3 SPECIFY THE CONTENTS AND FILING METHODS FOR COMPLAINTS,
+4 AUTHORIZE RESPONDENTS TO SUBMIT POSITION STATEMENTS, CLARIFY THE
+5 TREATMENT OF EXTRANEOUS MATERIALS SUBMITTED WITH COMPLAINTS,
+6 AND PROVIDE FOR COMPUTATION OF TIME UNDER THAT ARTICLE.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1. G.S. 95-242 reads as rewritten:
+9 "§ 95-242. Complaint; investigation; conciliation.
+10 (a) An employee allegedly aggrieved by a violation of G.S. 95-241 may file a written
+11 complaint with the Commissioner of Labor alleging the violation. A complaint must contain all
+12 of the following:
+13 (1) The name, phone number, address, and email address, if known, of the
+14 complainant.
+15 (2) The name and address of the respondent.
+16 (3) The name, phone number, and email address, if known, of the human
+17 resources manager or other point of contact for the respondent.
+18 (4) The name, phone number, and email address, if known, of the supervisor of
+19 the complainant at the time of the alleged retaliatory action.
+20 (5) Identification of the protected activity listed in G.S. 95-241(a)(1) engaged in
+21 by the complainant prior to the alleged retaliatory action.
+22 (6) Form 18 from any relevant workers' compensation claim, if one exists.
+23 (7) A statement of the facts outlining the protected activity engaged in by the
+24 complainant prior to the alleged retaliatory action.
+25 (8) A description of the alleged retaliatory action and any relevant facts known to
+26 plaintiff that would explain a legitimate, nondiscriminatory reason for the
+27 adverse employment action.
+28 (9) The date of the most recent alleged retaliatory action.
+29 (10) The signature of the complainant.
+30 If the complaint is filed by anyone other than the complainant, except an attorney, the filer
+31 shall submit a written authorization dated and signed by the complainant allowing the person to
+32 file the complaint on the complainant's behalf. The complaint shall be filed through a form on
+33 the Department's website, by mail, or by email within 180 days of the alleged violation. If a
+34 complainant files a partial complaint within 180 days, the Department shall notify the
+*H258-v-4*
+
+General Assembly Of North Carolina Session 2025
+1 complainant of any deficiencies and the complainant shall have 30 days to submit a full
+2 complaint. Within 20 days following receipt of the complaint, the Commissioner shall forward a
+3 copy of the complaint full complaint to the person alleged to have committed the violation and
+4 shall initiate an investigation. Any extraneous materials submitted along with the complaint shall
+5 not be considered in the investigation and shall be destroyed. Notwithstanding G.S. 132-6 or any
+6 other provision of law, extraneous materials shall not be deemed public records and shall not be
+7 subject to inspection or examination. Within seven days of receipt of the complaint, the
+8 respondent may submit a position statement outlining affirmative defenses. Nothing in this
+9 subsection shall be construed to prevent the Commissioner from initiating an investigation prior
+10 to receiving a response from the respondent. If the Commissioner determines after the
+11 investigation that there is not reasonable cause to believe that the allegation is true, the
+12 Commissioner shall dismiss the complaint, promptly notify the employee and the respondent,
+13 and issue a right-to-sue letter to the employee that will enable the employee to bring a civil action
+14 pursuant to G.S. 95-243. If the Commissioner determines after investigation that there is
+15 reasonable cause to believe that the allegation is true, the Commissioner shall attempt to eliminate
+16 the alleged violation by informal methods which may consist of conference, conciliation, and
+17 persuasion. The Commissioner shall make a determination as soon as possible and, in any event,
+18 not later than 90 days after the filing of the complaint.
+19 …."
+20 SECTION 2. Article 21 of Chapter 95 of the General Statutes is amended by adding
+21 a new section to read:
+22 "§ 95-246. Computation of time.
+23 Computation of time under this Article shall be in accordance with G.S. 1A-1, Rule 6."
+24 SECTION 3. This act is effective when it becomes law.
+Page 2 House Bill 258-Fourth Edition
+
+[DELETED:  4 W (   A A S T C A F M F C A T A T S " ( A c o ( T n p n a a e a i k o t c ( T ( T n p n a e a i k o t h r ( T t ( I b ( F ( A c ( A p a ( T ( T I s f t c f a p c w 1 d t D s n t]
+[DELETED:  S  H c o a d a t c s h 3 d t s a f c c s n o s t i o e W s d o r o t c t r m s a p s o a d N i t s t r a r f t r I t C d a t i t t i n r c t b t t a i t t C a p t G I t C d a i t t i r t p n … S a " C S]

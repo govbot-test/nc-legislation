@@ -1,0 +1,136 @@
+Title: HOUSE BILL DRH10573-DEa-5
+Official Title: HOUSE BILL DRH10573-DEa-5
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+H.B. 1182
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 30, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Part-Time Status for Disabled Students. (Public)
+Sponsors: Representative Greenfield.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE LOCAL SCHOOL ADMINISTRATIVE UNITS AND CHARTER
+3 SCHOOLS TO ALLOW PART-TIME ENROLLMENT OF STUDENTS WITH
+4 DISABILITIES THAT ATTEND NONPUBLIC SCHOOLS.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 115C-47 is amended by adding a new subdivision to read:
+7 "(53b) To Allow Part-Time Students. – Local boards of education shall develop a
+8 policy that permits children with disabilities who attend nonpublic school to
+9 enroll part-time in a public school under the board's jurisdiction in accordance
+10 with G.S. 115C-364.1. Each board shall make its policy available on the
+11 board's website."
+12 SECTION 2. G.S. 115C-107.6(a) reads as rewritten:
+13 "(a) Each local educational agency, in providing for the education of children with
+14 disabilities within its jurisdiction, must comply with IDEA and the rules adopted by the State
+15 Board under this Article. In addition, each local educational agency shall have in effect policies,
+16 procedures, and programs that are consistent with this Article, G.S. 115C-364.1, IDEA, and rules
+17 adopted by the State Board."
+18 SECTION 3. G.S. 115C-218.45 is amended by adding a new subsection to read:
+19 "(a1) Any child with a disability who attends nonpublic school is qualified to enroll in a
+20 charter school part-time in accordance with G.S. 115C-364.1. A charter school shall make
+21 information regarding part-time enrollment available on the school's website. Students enrolled
+22 in a charter school part-time shall not count toward the enrollment growth of the charter school
+23 under G.S. 115C-218.7."
+24 SECTION 4. Article 25 of Chapter 115C of the General Statutes is amended by
+25 adding a new section to read:
+26 "§ 115C-364.1. Admission for part-time students.
+27 (a) The following definitions apply to this section:
+28 (1) Child with a disability. – A child with at least one disability who because of
+29 that disability requires special education and related services.
+30 (2) Disability. – Includes intellectual disability; hearing impairment, including
+31 deafness; speech or language impairment; visual impairment, including
+32 blindness; serious emotional disturbance; orthopedic impairment; autism;
+33 traumatic brain injury; other health impairments, specific learning disability,
+34 or other disability as may be required to be included under IDEA. For a child
+35 aged 3 through 7, this term also includes developmental delay.
+*DRH10573-DEa-5*
+General Assembly Of North Carolina Session 2025
+1 (b) Local school administrative units and charter schools shall allow a child with a
+2 disability who attends nonpublic school to enroll part-time to access any courses, programs, or
+3 services offered by the local school administrative unit or the charter school, so long as the child
+4 is eligible for admission to public school under G.S. 115C-1 and G.S. 115C-364."
+5 SECTION 5. There is appropriated from the General Fund to the Department of
+6 Public Instruction the sum of ten thousand dollars ($10,000) in nonrecurring funds for the
+7 2026-2027 fiscal year to be allocated to local boards of education and charter schools for the
+8 administrative costs of implementing the provisions of this act.
+9 SECTION 6. This act becomes effective July 1, 2026, and applies to requests to
+10 begin part-time enrollment in the 2026-2027 school year.
+Page 2 DRH10573-DEa-5
+[DELETED:  D P ( R  A A S T A P E O S W D T S " T p e w G E b s m i p a o t b S " E l e a i p f t e o c w d B p a S " A c s p i a w G A c s s m i i u S a " ( T ( C t ( D d s o l i v i i b s e d o i a t o a]
+[DELETED:  S  D ( L s a u a c s s a a c w a d s i S P I t s o t t d ( i n f f t 2 a S b]
+
+
+================================================================================
+
+Raw Text:
+H.B. 1182
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 30, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH10573-DEa-5
+Short Title: Part-Time Status for Disabled Students. (Public)
+Sponsors: Representative Greenfield.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE LOCAL SCHOOL ADMINISTRATIVE UNITS AND CHARTER
+3 SCHOOLS TO ALLOW PART-TIME ENROLLMENT OF STUDENTS WITH
+4 DISABILITIES THAT ATTEND NONPUBLIC SCHOOLS.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 115C-47 is amended by adding a new subdivision to read:
+7 "(53b) To Allow Part-Time Students. – Local boards of education shall develop a
+8 policy that permits children with disabilities who attend nonpublic school to
+9 enroll part-time in a public school under the board's jurisdiction in accordance
+10 with G.S. 115C-364.1. Each board shall make its policy available on the
+11 board's website."
+12 SECTION 2. G.S. 115C-107.6(a) reads as rewritten:
+13 "(a) Each local educational agency, in providing for the education of children with
+14 disabilities within its jurisdiction, must comply with IDEA and the rules adopted by the State
+15 Board under this Article. In addition, each local educational agency shall have in effect policies,
+16 procedures, and programs that are consistent with this Article, G.S. 115C-364.1, IDEA, and rules
+17 adopted by the State Board."
+18 SECTION 3. G.S. 115C-218.45 is amended by adding a new subsection to read:
+19 "(a1) Any child with a disability who attends nonpublic school is qualified to enroll in a
+20 charter school part-time in accordance with G.S. 115C-364.1. A charter school shall make
+21 information regarding part-time enrollment available on the school's website. Students enrolled
+22 in a charter school part-time shall not count toward the enrollment growth of the charter school
+23 under G.S. 115C-218.7."
+24 SECTION 4. Article 25 of Chapter 115C of the General Statutes is amended by
+25 adding a new section to read:
+26 "§ 115C-364.1. Admission for part-time students.
+27 (a) The following definitions apply to this section:
+28 (1) Child with a disability. – A child with at least one disability who because of
+29 that disability requires special education and related services.
+30 (2) Disability. – Includes intellectual disability; hearing impairment, including
+31 deafness; speech or language impairment; visual impairment, including
+32 blindness; serious emotional disturbance; orthopedic impairment; autism;
+33 traumatic brain injury; other health impairments, specific learning disability,
+34 or other disability as may be required to be included under IDEA. For a child
+35 aged 3 through 7, this term also includes developmental delay.
+*DRH10573-DEa-5*
+
+General Assembly Of North Carolina Session 2025
+1 (b) Local school administrative units and charter schools shall allow a child with a
+2 disability who attends nonpublic school to enroll part-time to access any courses, programs, or
+3 services offered by the local school administrative unit or the charter school, so long as the child
+4 is eligible for admission to public school under G.S. 115C-1 and G.S. 115C-364."
+5 SECTION 5. There is appropriated from the General Fund to the Department of
+6 Public Instruction the sum of ten thousand dollars ($10,000) in nonrecurring funds for the
+7 2026-2027 fiscal year to be allocated to local boards of education and charter schools for the
+8 administrative costs of implementing the provisions of this act.
+9 SECTION 6. This act becomes effective July 1, 2026, and applies to requests to
+10 begin part-time enrollment in the 2026-2027 school year.
+Page 2 DRH10573-DEa-5
+
+[DELETED:  D P ( R  A A S T A P E O S W D T S " T p e w G E b s m i p a o t b S " E l e a i p f t e o c w d B p a S " A c s p i a w G A c s s m i i u S a " ( T ( C t ( D d s o l i v i i b s e d o i a t o a]
+[DELETED:  S  D ( L s a u a c s s a a c w a d s i S P I t s o t t d ( i n f f t 2 a S b]

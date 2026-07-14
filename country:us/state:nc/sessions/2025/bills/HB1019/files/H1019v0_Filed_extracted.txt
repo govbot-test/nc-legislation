@@ -1,0 +1,81 @@
+Title: HOUSE BILL DRH40625-DFf-1
+Official Title: HOUSE BILL DRH40625-DFf-1
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+H.B. 1019
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 21, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Mike Clampitt 1st Responder Tax Fairness Act. (Public)
+Sponsors: Representative Pyrtle.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO BROADEN THE EXEMPTION FROM HIGHWAY USE TAX FOR
+3 VOLUNTEER FIRE DEPARTMENTS AND RESCUE SQUADS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 105-187.6 reads as rewritten:
+6 "§ 105-187.6. Exemptions from highway use tax.
+7 (a) Full Exemptions. – The tax imposed by this Article does not apply when a certificate
+8 of title is issued as the result of a transfer of a motor vehicle:
+9 …
+10 (9) To a volunteer fire department or volunteer rescue squad that is not part of a
+11 unit of local government, has no more than two paid employees, government
+12 and is exempt from State income tax under G.S. 105-130.11, when the motor
+13 vehicle is one of the following:G.S. 105-130.11.
+14 a. A fire truck, a pump truck, a tanker truck, or a ladder truck used to
+15 suppress fire.
+16 b. A four-wheel drive vehicle intended to be mounted with a water tank
+17 and hose and used for forest fire fighting.
+18 c. An emergency services vehicle.
+19 …."
+20 SECTION 2. This act is effective for taxes imposed for taxable years beginning on
+21 or after July 1, 2026, and applies to certificates of title issued on or after that date.
+*DRH40625-DFf-1*
+[DELETED:  D M ( R  A A A T B T E F H U T F V T S " ( F o … ( T u a v a A s b A a c A … S o]
+
+
+================================================================================
+
+Raw Text:
+H.B. 1019
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 21, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH40625-DFf-1
+Short Title: Mike Clampitt 1st Responder Tax Fairness Act. (Public)
+Sponsors: Representative Pyrtle.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO BROADEN THE EXEMPTION FROM HIGHWAY USE TAX FOR
+3 VOLUNTEER FIRE DEPARTMENTS AND RESCUE SQUADS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 105-187.6 reads as rewritten:
+6 "§ 105-187.6. Exemptions from highway use tax.
+7 (a) Full Exemptions. – The tax imposed by this Article does not apply when a certificate
+8 of title is issued as the result of a transfer of a motor vehicle:
+9 …
+10 (9) To a volunteer fire department or volunteer rescue squad that is not part of a
+11 unit of local government, has no more than two paid employees, government
+12 and is exempt from State income tax under G.S. 105-130.11, when the motor
+13 vehicle is one of the following:G.S. 105-130.11.
+14 a. A fire truck, a pump truck, a tanker truck, or a ladder truck used to
+15 suppress fire.
+16 b. A four-wheel drive vehicle intended to be mounted with a water tank
+17 and hose and used for forest fire fighting.
+18 c. An emergency services vehicle.
+19 …."
+20 SECTION 2. This act is effective for taxes imposed for taxable years beginning on
+21 or after July 1, 2026, and applies to certificates of title issued on or after that date.
+*DRH40625-DFf-1*
+
+[DELETED:  D M ( R  A A A T B T E F H U T F V T S " ( F o … ( T u a v a A s b A a c A … S o]

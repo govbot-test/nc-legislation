@@ -1,0 +1,107 @@
+Title: HOUSE BILL 390
+Official Title: HOUSE BILL 390
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+Senate Health Care Committee Substitute Adopted 4/30/26
+Short Title: Medicaid Prepaid Health Plan Practices. (Public)
+Sponsors:
+Referred to:
+March 13, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ALLOW CERTAIN MEDICAID PREPAID HEALTH PLAN PRACTICES.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1.(a) If House Bill 696, 2025 Regular Session, becomes law, then
+5 G.S. 108D-65(b), as amended by Section 3C.15 of that act, reads as rewritten:
+6 "(b) Except as required by federal law or regulation, the Department shall not prohibit
+7 PHPs from requiring doing any of the following:
+8 (1) Requiring itemized bills for inpatient hospital outlier claims that are greater
+9 than two hundred fifty thousand dollars ($250,000) or more than two standard
+10 deviations from the median mean claim amount of the applicable billing code.
+11 (2) Aligning claims operations with national standards for coding, edits, and
+12 claims adjudication.
+13 (3) Directing inpatient hospital and inpatient hospital laboratory services to
+14 outpatient settings where appropriate, except that the Department may
+15 establish standards for when direction to outpatient settings is appropriate. The
+16 Department is authorized to adopt rules establishing these standards."
+17 SECTION 1.(b) If House Bill 696, 2025 Regular Session, does not become law by
+18 June 1, 2026, then G.S. 108D-65 reads as rewritten:
+19 "§ 108D-65. Role of the Department.
+20 (a) The role and responsibility of the Department during Medicaid transformation shall
+21 include the following activities and functions:
+22 …
+23 (b) Except as required by federal law or regulation, the Department shall not prohibit
+24 PHPs from doing any of the following:
+25 (1) Requiring itemized bills for inpatient hospital outlier claims that are greater
+26 than two hundred fifty thousand dollars ($250,000) or more than two standard
+27 deviations from the mean claim amount of the applicable billing code.
+28 (2) Aligning claims operations with national standards for coding, edits, and
+29 claims adjudication.
+30 (3) Directing inpatient hospital and inpatient hospital laboratory services to
+31 outpatient settings where appropriate, except that the Department may
+32 establish standards for when direction to outpatient settings is appropriate. The
+33 Department is authorized to adopt rules establishing these standards."
+34 SECTION 2. This act is effective when it becomes law and applies to contracts
+35 entered into or amended on or after that date.
+*H390-v-2*
+[DELETED:  2 M (   A A T S 1  I H B 6 2 R S b l t G " E P ( R t d ( A c o w n s f c e a c ( D i h a i h l s t o s w a e t t D m e D S J " ( T i … ( E P ( R t d ( A c o w n s f c e a c ( D i h a i h l s t o s w a e t t D m e D S e]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 390
+Senate Health Care Committee Substitute Adopted 4/30/26
+Short Title: Medicaid Prepaid Health Plan Practices. (Public)
+Sponsors:
+Referred to:
+March 13, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ALLOW CERTAIN MEDICAID PREPAID HEALTH PLAN PRACTICES.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1.(a) If House Bill 696, 2025 Regular Session, becomes law, then
+5 G.S. 108D-65(b), as amended by Section 3C.15 of that act, reads as rewritten:
+6 "(b) Except as required by federal law or regulation, the Department shall not prohibit
+7 PHPs from requiring doing any of the following:
+8 (1) Requiring itemized bills for inpatient hospital outlier claims that are greater
+9 than two hundred fifty thousand dollars ($250,000) or more than two standard
+10 deviations from the median mean claim amount of the applicable billing code.
+11 (2) Aligning claims operations with national standards for coding, edits, and
+12 claims adjudication.
+13 (3) Directing inpatient hospital and inpatient hospital laboratory services to
+14 outpatient settings where appropriate, except that the Department may
+15 establish standards for when direction to outpatient settings is appropriate. The
+16 Department is authorized to adopt rules establishing these standards."
+17 SECTION 1.(b) If House Bill 696, 2025 Regular Session, does not become law by
+18 June 1, 2026, then G.S. 108D-65 reads as rewritten:
+19 "§ 108D-65. Role of the Department.
+20 (a) The role and responsibility of the Department during Medicaid transformation shall
+21 include the following activities and functions:
+22 …
+23 (b) Except as required by federal law or regulation, the Department shall not prohibit
+24 PHPs from doing any of the following:
+25 (1) Requiring itemized bills for inpatient hospital outlier claims that are greater
+26 than two hundred fifty thousand dollars ($250,000) or more than two standard
+27 deviations from the mean claim amount of the applicable billing code.
+28 (2) Aligning claims operations with national standards for coding, edits, and
+29 claims adjudication.
+30 (3) Directing inpatient hospital and inpatient hospital laboratory services to
+31 outpatient settings where appropriate, except that the Department may
+32 establish standards for when direction to outpatient settings is appropriate. The
+33 Department is authorized to adopt rules establishing these standards."
+34 SECTION 2. This act is effective when it becomes law and applies to contracts
+35 entered into or amended on or after that date.
+*H390-v-2*
+
+[DELETED:  2 M (   A A T S 1  I H B 6 2 R S b l t G " E P ( R t d ( A c o w n s f c e a c ( D i h a i h l s t o s w a e t t D m e D S J " ( T i … ( E P ( R t d ( A c o w n s f c e a c ( D i h a i h l s t o s w a e t t D m e D S e]

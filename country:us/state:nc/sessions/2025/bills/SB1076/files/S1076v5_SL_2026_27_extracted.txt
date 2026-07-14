@@ -1,0 +1,572 @@
+Title: SENATE BILL 1076
+Official Title: SENATE BILL 1076
+Number of Sections: 11
+Source: versions - SL 2026-27
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+SESSION LAW 2026-27
+AN ACT TO PROHIBIT THE CITY OF ROCKY MOUNT FROM TRANSFERRING THE
+REVENUES OF ITS ELECTRIC AND NATURAL GAS SYSTEMS TO OTHER
+MUNICIPAL FUNDS; TO ESTABLISH A PUBLIC UTILITIES ADVISORY
+COMMITTEE IN THE CITY OF ROCKY MOUNT; TO PROHIBIT THE TOWN OF
+LOUISBURG FROM TRANSFERRING THE REVENUES OF ITS ELECTRIC SYSTEM
+TO OTHER MUNICIPAL FUNDS; AND TO DISALLOW THE TOWN OF LOUISBURG
+FROM USING REVENUE DERIVED FROM RATES FOR ELECTRIC SERVICE FOR
+ECONOMIC DEVELOPMENT PROJECTS.
+The General Assembly of North Carolina enacts:
+
+Section 2:
+SECTION 1.(a) G.S. 159B-39 reads as rewritten:
+"§ 159B-39. Permitted uses of revenue from electric power rates.
+(a) A municipality as authorized in this Chapter shall use revenue derived from rates for
+electric service to (i) pay the direct and indirect costs of operating the electric system and (ii)
+transfer to other funds of the municipality a sum that reflects a rate of return on the investment
+in the electric system to the extent allowed in subsection (c) of this section. system. Any
+remaining revenue shall be used to produce lower rates on electric service within the area served
+by the municipal electric system and to make additional debt service payments on bonds or other
+indebtedness incurred by the municipality to finance improvements to the electric system. A
+municipality shall not otherwise transfer revenue from an electric utility fund to any other fund
+of the municipality for any other purpose not explicitly authorized by law.
+(b) The direct and indirect costs of operating the electric system include all of the
+following:
+(1) Debt service payments on indebtedness incurred for the electric system or
+secured by revenues of the electric system.
+(2) Capital improvements or equipment for the electric system.
+(3) Payments for the cost of power purchased under contractual arrangements.
+(4) Debt service, maintenance, renewal, and replacement or other reserves
+required by legal documents entered into by the municipality in connection
+with the issuance of bonds or other indebtedness for the electric system.
+(5) Reserves deemed necessary by the governing body of the municipality to
+assure that funds are available to maintain the financial and operational
+integrity of the electric system.
+(6) Maintaining a rate stabilization fund to minimize the impact of periodic rate
+changes that would otherwise be required to reflect changes in costs of
+operations and demand for electric service.
+(7) Making payments in lieu of taxes to other governmental units to reflect
+property taxes that would have been collected by the other governmental unit
+if the municipality were not the owner of the electric system.
+*S1076-v-5*
+(8) Making transfers to the general fund or other funds of the municipality to
+reimburse the general fund or other funds for costs paid from the fund that are
+reasonably allocable to the electric system.
+(c) The total amount transferred to other funds of the municipality authorized as a rate of
+return on the investment of the municipality in the electric system shall be calculated using
+amounts reported in the municipality's audited financial statements for the preceding fiscal year.
+The amount transferred may be less than the following, but in no event may the amount
+transferred exceed the greater of the following:
+(1) Three percent (3%) of the gross capital assets of the electric system at the end
+of the preceding fiscal year.
+(2) Five percent (5%) of the gross annual revenues of the electric system for the
+preceding fiscal year.
+(d) The restrictions in this section shall not apply to any action required to be taken for a
+municipality by the Local Government Commission in accordance with G.S. 159-181(c).
+(e) This section applies only to the following cities and towns that are members of the
+North Carolina Eastern Municipal Power Agency: Apex, Ayden, Belhaven, Benson, Clayton,
+Edenton, Elizabeth City, Farmville, Fremont, Greenville, Hamilton, Hertford, Hobgood,
+Hookerton, Kinston, LaGrange, Laurinburg, Louisburg, Lumberton, New Bern, Pikeville, Red
+Springs, Robersonville, Rocky Mount, Scotland Neck, Selma, Smithfield, Southport, Tarboro,
+Wake Forest, Washington, and Wilson."
+
+Section 3:
+SECTION 1.(b) Article 16 of Chapter 160A of the General Statutes is amended by
+adding a new section to read:
+"§ 160A-314.2. Permitted uses of revenue from natural gas rates.
+(a) A municipality that operates a natural gas utility shall use revenue derived from rates
+for natural gas service to pay the direct and indirect costs of operating the natural gas system.
+Any remaining revenue shall be used to produce lower rates on natural gas service within the
+area served by the municipal natural gas system and to make additional debt service payments
+on bonds or other indebtedness incurred by the municipality to finance improvements to the
+natural gas system. A municipality shall not otherwise transfer revenue from a natural gas utility
+fund to any other fund of the municipality for any other purpose not explicitly authorized by law.
+(b) The direct and indirect costs of operating the natural gas system include all of the
+following:
+(1) Debt service payments on indebtedness incurred for the natural gas system or
+secured by revenues of the natural gas system.
+(2) Capital improvements or equipment for the natural gas system.
+(3) Debt service, maintenance, renewal, and replacement or other reserves
+required by legal documents entered into by the municipality in connection
+with the issuance of bonds or other indebtedness for the natural gas system.
+(4) Reserves deemed necessary by the governing body of the municipality to
+assure that funds are available to maintain the financial and operational
+integrity of the natural gas system.
+(5) Maintaining a rate stabilization fund to minimize the impact of periodic rate
+changes that would otherwise be required to reflect changes in costs of
+operations and demand for natural gas service.
+(6) Making payments in lieu of taxes to other governmental units to reflect
+property taxes that would have been collected by the other governmental unit
+if the municipality were not the owner of the natural gas system.
+(7) Making transfers to the general fund or other funds of the municipality to
+reimburse the general fund or other funds for costs paid from the fund that are
+reasonably allocable to the natural gas system.
+Page 2 Session Law 2026-27 Senate Bill 1076
+(c) The restrictions in this section shall not apply to any action required to be taken for a
+municipality by the Local Government Commission in accordance with G.S. 159-181(c).
+(d) This section applies only to the City of Rocky Mount."
+
+Section 4:
+SECTION 1.(c) This section applies only to the City of Rocky Mount.
+
+Section 5:
+SECTION 1.(d) This section is effective when it becomes law and expires January
+1, 2029.
+
+Section 6:
+SECTION 2.(a) Article 16 of Chapter 160A of the General Statutes is amended by
+adding a new section to read:
+"§ 160A-339. Rocky Mount Public Utilities Advisory Committee.
+(a) Creation; Purpose. – For the purpose of providing informed citizen review of, and
+recommendations concerning, the public utilities of the City of Rocky Mount, both within the
+corporate limits of the City and in the areas outside the corporate limits served by the City, an
+advisory committee to be designated as the Rocky Mount Public Utilities Advisory Committee
+(Committee) is hereby established. The Committee is advisory only and shall have no authority
+to manage, operate, maintain, or control the City's public utilities, to fix rates, to expend or hold
+funds, or to employ or discharge personnel; all such authority is reserved to the City Council and,
+as delegated, to the City Manager.
+(b) Membership. – The Committee shall consist of nine voting members appointed by the
+City Council. Five members shall be bona fide residents of the City, and four members shall be
+customers of the City's utility system who reside or are located outside the city limits within the
+utility service area, consisting of one residential customer and one commercial or industrial
+customer who reside or are located outside the city limits within Nash County and one residential
+customer and one commercial or industrial customer who reside or are located outside the city
+limits within Edgecombe County. All voting members shall be customers of the City's utility
+system. The City Manager, or the City Manager's designee, shall serve as an ex officio, nonvoting
+member. Each appointed member shall hold office for a term of three years, with the terms
+staggered so that, as nearly as practicable, an equal number expire each year on June 30, and
+shall serve until reappointed or replaced by the City Council. To establish staggered terms, the
+City Council shall designate the initial appointees' terms as expiring one, two, or three years from
+the next succeeding June 30. No appointed member shall serve more than two consecutive
+three-year terms.
+(c) Appointment; Qualification; Vacancies. – Members shall be appointed by the City
+Council at its regular monthly meeting in June of each year. The membership of the Committee
+should include some members with utilities, financial, engineering, environmental, technical, or
+development backgrounds, and should reflect a diverse cross section of the customers served.
+The four members residing or located outside the city limits shall be appointed from nominees
+of the Nash County Board of Commissioners and the Edgecombe County Board of
+Commissioners. Each board shall nominate two residential customers and two commercial or
+industrial customers who reside or are located outside the city limits within that county, and the
+City Council shall appoint, from the nominees provided, one residential customer and one
+commercial or industrial customer from each county. As the term of a member residing or located
+outside the city limits expires or such a seat otherwise becomes vacant, the City Council shall
+request a nomination from the board of the county that nominated that seat, and that board shall
+nominate two customers of the same customer class who reside or are located outside the city
+limits within that county, and the City Council shall appoint the replacement from the nominees
+provided. The members residing or located outside the city limits shall at all times consist of one
+residential customer and one commercial or industrial customer from Nash County and one
+residential customer and one commercial or industrial customer from Edgecombe County. If a
+county board fails to recommend a qualifying nominee within 60 days of the date requested by
+the City Council, the City Council may appoint any individual meeting the applicable residency,
+customer, and customer class requirements. No person who is an officer or employee of the City,
+Senate Bill 1076 Session Law 2026-27 Page 3
+Nash County, or Edgecombe County shall be eligible for appointment as a voting member, except
+that the City Manager or the City Manager's designee shall serve ex officio as provided in
+subsection (b) of this section. A vacancy shall be filled for the unexpired term by the City Council
+in the same manner provided in this subsection for the appointment to that seat.
+(d) Organization; Meetings. – The Committee shall organize by electing one of its voting
+members as chair and one as vice-chair, each to serve a term of one year. The Committee shall
+meet at least once each quarter at a time and place it designates, and the Committee and the City
+Council shall meet at least biannually to discuss matters of mutual interest concerning the City's
+public utilities. Minutes shall be kept of all meetings and forwarded to the City Council, and all
+meetings shall be conducted in compliance with Article 33C of Chapter 143 of the General
+Statutes. Members shall serve without compensation, except that the City Council may authorize
+reimbursement of actual and necessary expenses.
+(e) Duties. – The Committee shall review and make recommendations to the City Council
+concerning the management, operation, maintenance, improvement, and extension of the public
+utilities of the City, which utilities include electric, natural gas, water, and sewer services. The
+Committee shall do all of the following:
+(1) Review and advise the City Council on proposed utility rates, fees, and
+rate-setting methodology, and review any customer concerns regarding rates
+that are referred to it.
+(2) Review and comment on the proposed annual utility budget, the capital
+improvement program, and major utility construction contracts before their
+consideration by the City Council.
+(3) Review and advise the City Council on utility extension and service policies.
+(4) Review periodic financial and operating reports of the utility system,
+including the status of the utility enterprise funds.
+(5) Review and advise the City Council on any proposed transfer of funds from a
+utility enterprise fund to the general fund or any other fund, and on the use of
+utility revenues.
+(6) Advise the City Council on such other utility matters as the City Council may
+refer to the Committee or as the Committee deems appropriate.
+(f) Provision of Information. – City staff shall provide the Committee with such reports,
+data, and information as are reasonably necessary for the Committee to perform its advisory
+functions; provided, however, that nothing in this section shall require disclosure to the
+Committee or to the public of information that the City is obligated to keep confidential under
+its power supply, power sales, or related agreements, or that is otherwise confidential or
+competitively sensitive under applicable law. The Committee shall have no authority to direct,
+supervise, employ, discipline, or discharge any officer, agent, contractor, or employee of the City.
+(g) Budget Review. – In connection with the City's annual budget process under Chapter
+159 of the General Statutes, the City Manager shall transmit the proposed utility budget to the
+Committee for review, and the Committee shall submit a written recommendation to the City
+Council prior to adoption of the budget. The recommendation of the Committee shall be advisory
+and shall not be a condition of, or a substitute for, City Council approval of the budget.
+(h) Annual Report. – The Committee shall make an annual report to the City Council
+summarizing its activities and recommendations and shall make such additional reports as the
+City Council may request.
+(i) Applicability. – This section applies only to the City of Rocky Mount."
+
+Section 7:
+SECTION 2.(b) This section becomes effective July 1, 2027. The Committee is
+established July 1, 2028. Notwithstanding G.S. 160A-339(c), as enacted by this section, within
+30 days after this section becomes effective, the City Council shall request nominations for the
+four members residing or located outside the city limits from the Nash County Board of
+Commissioners and the Edgecombe County Board of Commissioners. The appointing authorities
+Page 4 Session Law 2026-27 Senate Bill 1076
+shall make the initial appointments on or before May 31, 2028, so that the Committee may hold
+its first meeting on or after July 1, 2028. The terms of the initial appointees begin July 1, 2028.
+
+Section 8:
+SECTION 3.(a) G.S. 159B-39 reads as rewritten:
+"§ 159B-39. Permitted uses of revenue from electric power rates.
+(a) A municipality as authorized in this Chapter shall use revenue derived from rates for
+electric service to (i) pay the direct and indirect costs of operating the electric system and (ii)
+transfer to other funds of the municipality a sum that reflects a rate of return on the investment
+in the electric system to the extent allowed in subsection (c) of this section. system. Any
+remaining revenue shall be used to produce lower rates on electric service within the area served
+by the municipal electric system and to make additional debt service payments on bonds or other
+indebtedness incurred by the municipality to finance improvements to the electric system. A
+municipality shall not otherwise transfer revenue from an electric utility fund to any other fund
+of the municipality for any other purpose not explicitly authorized by law.
+(b) The direct and indirect costs of operating the electric system include all of the
+following:
+(1) Debt service payments on indebtedness incurred for the electric system or
+secured by revenues of the electric system.
+(2) Capital improvements or equipment for the electric system.
+(3) Payments for the cost of power purchased under contractual arrangements.
+(4) Debt service, maintenance, renewal, and replacement or other reserves
+required by legal documents entered into by the municipality in connection
+with the issuance of bonds or other indebtedness for the electric system.
+(5) Reserves deemed necessary by the governing body of the municipality to
+assure that funds are available to maintain the financial and operational
+integrity of the electric system.
+(6) Maintaining a rate stabilization fund to minimize the impact of periodic rate
+changes that would otherwise be required to reflect changes in costs of
+operations and demand for electric service.
+(7) Making payments in lieu of taxes to other governmental units to reflect
+property taxes that would have been collected by the other governmental unit
+if the municipality were not the owner of the electric system.
+(8) Making transfers to the general fund or other funds of the municipality to
+reimburse the general fund or other funds for costs paid from the fund that are
+reasonably allocable to the electric system.
+(c) The total amount transferred to other funds of the municipality authorized as a rate of
+return on the investment of the municipality in the electric system shall be calculated using
+amounts reported in the municipality's audited financial statements for the preceding fiscal year.
+The amount transferred may be less than the following, but in no event may the amount
+transferred exceed the greater of the following:
+(1) Three percent (3%) of the gross capital assets of the electric system at the end
+of the preceding fiscal year.
+(2) Five percent (5%) of the gross annual revenues of the electric system for the
+preceding fiscal year.
+(d) The restrictions in this section shall not apply to any action required to be taken for a
+municipality by the Local Government Commission in accordance with G.S. 159-181(c).
+(e) This section applies only to the following cities and towns that are members of the
+North Carolina Eastern Municipal Power Agency: Apex, Ayden, Belhaven, Benson, Clayton,
+Edenton, Elizabeth City, Farmville, Fremont, Greenville, Hamilton, Hertford, Hobgood,
+Hookerton, Kinston, LaGrange, Laurinburg, Louisburg, Lumberton, New Bern, Pikeville, Red
+Springs, Robersonville, Rocky Mount, Scotland Neck, Selma, Smithfield, Southport, Tarboro,
+Wake Forest, Washington, and Wilson."
+Senate Bill 1076 Session Law 2026-27 Page 5
+
+Section 9:
+SECTION 3.(b) S.L. 2021-103 is repealed.
+
+Section 10:
+SECTION 3.(c) This section applies only to the Town of Louisburg.
+
+Section 11:
+SECTION 4. Except as otherwise provided, this act is effective when it becomes
+law.
+In the General Assembly read three times and ratified this the 2nd day of July, 2026.
+s/ Rachel Hunt
+President of the Senate
+s/ Destin Hall
+Speaker of the House of Representatives
+Page 6 Session Law 2026-27 Senate Bill 1076
+[DELETED:  O I E A N G S T O F T E A P U A I T C O R M T P T T O A t e s t t e a i s ( o t s s A T d a i c o o t e s i a o t D C P D s m r a r o o r R g t f a a t m t f a o M t w o b r t r c i c o M p i l o t t o g u t r]
+[DELETED:  S S M T a t m b l t t f b i n e m t a T F T T E C F F G H H H A T D C D s m r a r o o r R g t f a a t m t f a o M t w o b r t r c i c o M p i l o t t o g u t r M]
+[DELETED:  S P T T C M n s J 3 N a m s s m t t c A t N C B o C a t E C B o C s a f t n p o r c a o]
+[DELETED:  S S t C M C M d s s e o a p i O D R a a t C C o p u r f a R a c o t p a u b t c R R p f a o r o t u s R A P p h t n i t s s r d t t p s p s o r a o t i o c o B A A m r o l o t c l f t N C B o]
+[DELETED:  S P A t e s t t e a i s ( o t s s A T d a i c o o t e s i a o t D C P D s m r a r o o r R g t f a a t m t f a o M t w o b r t r c i c o M p i l o t t o g u t r M T a t m b l t t f b i n e m t a T F T T E C F F G H H H]
+[DELETED:  S S2 s s ]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+SESSION LAW 2026-27
+SENATE BILL 1076
+AN ACT TO PROHIBIT THE CITY OF ROCKY MOUNT FROM TRANSFERRING THE
+REVENUES OF ITS ELECTRIC AND NATURAL GAS SYSTEMS TO OTHER
+MUNICIPAL FUNDS; TO ESTABLISH A PUBLIC UTILITIES ADVISORY
+COMMITTEE IN THE CITY OF ROCKY MOUNT; TO PROHIBIT THE TOWN OF
+LOUISBURG FROM TRANSFERRING THE REVENUES OF ITS ELECTRIC SYSTEM
+TO OTHER MUNICIPAL FUNDS; AND TO DISALLOW THE TOWN OF LOUISBURG
+FROM USING REVENUE DERIVED FROM RATES FOR ELECTRIC SERVICE FOR
+ECONOMIC DEVELOPMENT PROJECTS.
+The General Assembly of North Carolina enacts:
+SECTION 1.(a) G.S. 159B-39 reads as rewritten:
+"§ 159B-39. Permitted uses of revenue from electric power rates.
+(a) A municipality as authorized in this Chapter shall use revenue derived from rates for
+electric service to (i) pay the direct and indirect costs of operating the electric system and (ii)
+transfer to other funds of the municipality a sum that reflects a rate of return on the investment
+in the electric system to the extent allowed in subsection (c) of this section. system. Any
+remaining revenue shall be used to produce lower rates on electric service within the area served
+by the municipal electric system and to make additional debt service payments on bonds or other
+indebtedness incurred by the municipality to finance improvements to the electric system. A
+municipality shall not otherwise transfer revenue from an electric utility fund to any other fund
+of the municipality for any other purpose not explicitly authorized by law.
+(b) The direct and indirect costs of operating the electric system include all of the
+following:
+(1) Debt service payments on indebtedness incurred for the electric system or
+secured by revenues of the electric system.
+(2) Capital improvements or equipment for the electric system.
+(3) Payments for the cost of power purchased under contractual arrangements.
+(4) Debt service, maintenance, renewal, and replacement or other reserves
+required by legal documents entered into by the municipality in connection
+with the issuance of bonds or other indebtedness for the electric system.
+(5) Reserves deemed necessary by the governing body of the municipality to
+assure that funds are available to maintain the financial and operational
+integrity of the electric system.
+(6) Maintaining a rate stabilization fund to minimize the impact of periodic rate
+changes that would otherwise be required to reflect changes in costs of
+operations and demand for electric service.
+(7) Making payments in lieu of taxes to other governmental units to reflect
+property taxes that would have been collected by the other governmental unit
+if the municipality were not the owner of the electric system.
+*S1076-v-5*
+
+(8) Making transfers to the general fund or other funds of the municipality to
+reimburse the general fund or other funds for costs paid from the fund that are
+reasonably allocable to the electric system.
+(c) The total amount transferred to other funds of the municipality authorized as a rate of
+return on the investment of the municipality in the electric system shall be calculated using
+amounts reported in the municipality's audited financial statements for the preceding fiscal year.
+The amount transferred may be less than the following, but in no event may the amount
+transferred exceed the greater of the following:
+(1) Three percent (3%) of the gross capital assets of the electric system at the end
+of the preceding fiscal year.
+(2) Five percent (5%) of the gross annual revenues of the electric system for the
+preceding fiscal year.
+(d) The restrictions in this section shall not apply to any action required to be taken for a
+municipality by the Local Government Commission in accordance with G.S. 159-181(c).
+(e) This section applies only to the following cities and towns that are members of the
+North Carolina Eastern Municipal Power Agency: Apex, Ayden, Belhaven, Benson, Clayton,
+Edenton, Elizabeth City, Farmville, Fremont, Greenville, Hamilton, Hertford, Hobgood,
+Hookerton, Kinston, LaGrange, Laurinburg, Louisburg, Lumberton, New Bern, Pikeville, Red
+Springs, Robersonville, Rocky Mount, Scotland Neck, Selma, Smithfield, Southport, Tarboro,
+Wake Forest, Washington, and Wilson."
+SECTION 1.(b) Article 16 of Chapter 160A of the General Statutes is amended by
+adding a new section to read:
+"§ 160A-314.2. Permitted uses of revenue from natural gas rates.
+(a) A municipality that operates a natural gas utility shall use revenue derived from rates
+for natural gas service to pay the direct and indirect costs of operating the natural gas system.
+Any remaining revenue shall be used to produce lower rates on natural gas service within the
+area served by the municipal natural gas system and to make additional debt service payments
+on bonds or other indebtedness incurred by the municipality to finance improvements to the
+natural gas system. A municipality shall not otherwise transfer revenue from a natural gas utility
+fund to any other fund of the municipality for any other purpose not explicitly authorized by law.
+(b) The direct and indirect costs of operating the natural gas system include all of the
+following:
+(1) Debt service payments on indebtedness incurred for the natural gas system or
+secured by revenues of the natural gas system.
+(2) Capital improvements or equipment for the natural gas system.
+(3) Debt service, maintenance, renewal, and replacement or other reserves
+required by legal documents entered into by the municipality in connection
+with the issuance of bonds or other indebtedness for the natural gas system.
+(4) Reserves deemed necessary by the governing body of the municipality to
+assure that funds are available to maintain the financial and operational
+integrity of the natural gas system.
+(5) Maintaining a rate stabilization fund to minimize the impact of periodic rate
+changes that would otherwise be required to reflect changes in costs of
+operations and demand for natural gas service.
+(6) Making payments in lieu of taxes to other governmental units to reflect
+property taxes that would have been collected by the other governmental unit
+if the municipality were not the owner of the natural gas system.
+(7) Making transfers to the general fund or other funds of the municipality to
+reimburse the general fund or other funds for costs paid from the fund that are
+reasonably allocable to the natural gas system.
+Page 2 Session Law 2026-27 Senate Bill 1076
+
+(c) The restrictions in this section shall not apply to any action required to be taken for a
+municipality by the Local Government Commission in accordance with G.S. 159-181(c).
+(d) This section applies only to the City of Rocky Mount."
+SECTION 1.(c) This section applies only to the City of Rocky Mount.
+SECTION 1.(d) This section is effective when it becomes law and expires January
+1, 2029.
+SECTION 2.(a) Article 16 of Chapter 160A of the General Statutes is amended by
+adding a new section to read:
+"§ 160A-339. Rocky Mount Public Utilities Advisory Committee.
+(a) Creation; Purpose. – For the purpose of providing informed citizen review of, and
+recommendations concerning, the public utilities of the City of Rocky Mount, both within the
+corporate limits of the City and in the areas outside the corporate limits served by the City, an
+advisory committee to be designated as the Rocky Mount Public Utilities Advisory Committee
+(Committee) is hereby established. The Committee is advisory only and shall have no authority
+to manage, operate, maintain, or control the City's public utilities, to fix rates, to expend or hold
+funds, or to employ or discharge personnel; all such authority is reserved to the City Council and,
+as delegated, to the City Manager.
+(b) Membership. – The Committee shall consist of nine voting members appointed by the
+City Council. Five members shall be bona fide residents of the City, and four members shall be
+customers of the City's utility system who reside or are located outside the city limits within the
+utility service area, consisting of one residential customer and one commercial or industrial
+customer who reside or are located outside the city limits within Nash County and one residential
+customer and one commercial or industrial customer who reside or are located outside the city
+limits within Edgecombe County. All voting members shall be customers of the City's utility
+system. The City Manager, or the City Manager's designee, shall serve as an ex officio, nonvoting
+member. Each appointed member shall hold office for a term of three years, with the terms
+staggered so that, as nearly as practicable, an equal number expire each year on June 30, and
+shall serve until reappointed or replaced by the City Council. To establish staggered terms, the
+City Council shall designate the initial appointees' terms as expiring one, two, or three years from
+the next succeeding June 30. No appointed member shall serve more than two consecutive
+three-year terms.
+(c) Appointment; Qualification; Vacancies. – Members shall be appointed by the City
+Council at its regular monthly meeting in June of each year. The membership of the Committee
+should include some members with utilities, financial, engineering, environmental, technical, or
+development backgrounds, and should reflect a diverse cross section of the customers served.
+The four members residing or located outside the city limits shall be appointed from nominees
+of the Nash County Board of Commissioners and the Edgecombe County Board of
+Commissioners. Each board shall nominate two residential customers and two commercial or
+industrial customers who reside or are located outside the city limits within that county, and the
+City Council shall appoint, from the nominees provided, one residential customer and one
+commercial or industrial customer from each county. As the term of a member residing or located
+outside the city limits expires or such a seat otherwise becomes vacant, the City Council shall
+request a nomination from the board of the county that nominated that seat, and that board shall
+nominate two customers of the same customer class who reside or are located outside the city
+limits within that county, and the City Council shall appoint the replacement from the nominees
+provided. The members residing or located outside the city limits shall at all times consist of one
+residential customer and one commercial or industrial customer from Nash County and one
+residential customer and one commercial or industrial customer from Edgecombe County. If a
+county board fails to recommend a qualifying nominee within 60 days of the date requested by
+the City Council, the City Council may appoint any individual meeting the applicable residency,
+customer, and customer class requirements. No person who is an officer or employee of the City,
+Senate Bill 1076 Session Law 2026-27 Page 3
+
+Nash County, or Edgecombe County shall be eligible for appointment as a voting member, except
+that the City Manager or the City Manager's designee shall serve ex officio as provided in
+subsection (b) of this section. A vacancy shall be filled for the unexpired term by the City Council
+in the same manner provided in this subsection for the appointment to that seat.
+(d) Organization; Meetings. – The Committee shall organize by electing one of its voting
+members as chair and one as vice-chair, each to serve a term of one year. The Committee shall
+meet at least once each quarter at a time and place it designates, and the Committee and the City
+Council shall meet at least biannually to discuss matters of mutual interest concerning the City's
+public utilities. Minutes shall be kept of all meetings and forwarded to the City Council, and all
+meetings shall be conducted in compliance with Article 33C of Chapter 143 of the General
+Statutes. Members shall serve without compensation, except that the City Council may authorize
+reimbursement of actual and necessary expenses.
+(e) Duties. – The Committee shall review and make recommendations to the City Council
+concerning the management, operation, maintenance, improvement, and extension of the public
+utilities of the City, which utilities include electric, natural gas, water, and sewer services. The
+Committee shall do all of the following:
+(1) Review and advise the City Council on proposed utility rates, fees, and
+rate-setting methodology, and review any customer concerns regarding rates
+that are referred to it.
+(2) Review and comment on the proposed annual utility budget, the capital
+improvement program, and major utility construction contracts before their
+consideration by the City Council.
+(3) Review and advise the City Council on utility extension and service policies.
+(4) Review periodic financial and operating reports of the utility system,
+including the status of the utility enterprise funds.
+(5) Review and advise the City Council on any proposed transfer of funds from a
+utility enterprise fund to the general fund or any other fund, and on the use of
+utility revenues.
+(6) Advise the City Council on such other utility matters as the City Council may
+refer to the Committee or as the Committee deems appropriate.
+(f) Provision of Information. – City staff shall provide the Committee with such reports,
+data, and information as are reasonably necessary for the Committee to perform its advisory
+functions; provided, however, that nothing in this section shall require disclosure to the
+Committee or to the public of information that the City is obligated to keep confidential under
+its power supply, power sales, or related agreements, or that is otherwise confidential or
+competitively sensitive under applicable law. The Committee shall have no authority to direct,
+supervise, employ, discipline, or discharge any officer, agent, contractor, or employee of the City.
+(g) Budget Review. – In connection with the City's annual budget process under Chapter
+159 of the General Statutes, the City Manager shall transmit the proposed utility budget to the
+Committee for review, and the Committee shall submit a written recommendation to the City
+Council prior to adoption of the budget. The recommendation of the Committee shall be advisory
+and shall not be a condition of, or a substitute for, City Council approval of the budget.
+(h) Annual Report. – The Committee shall make an annual report to the City Council
+summarizing its activities and recommendations and shall make such additional reports as the
+City Council may request.
+(i) Applicability. – This section applies only to the City of Rocky Mount."
+SECTION 2.(b) This section becomes effective July 1, 2027. The Committee is
+established July 1, 2028. Notwithstanding G.S. 160A-339(c), as enacted by this section, within
+30 days after this section becomes effective, the City Council shall request nominations for the
+four members residing or located outside the city limits from the Nash County Board of
+Commissioners and the Edgecombe County Board of Commissioners. The appointing authorities
+Page 4 Session Law 2026-27 Senate Bill 1076
+
+shall make the initial appointments on or before May 31, 2028, so that the Committee may hold
+its first meeting on or after July 1, 2028. The terms of the initial appointees begin July 1, 2028.
+SECTION 3.(a) G.S. 159B-39 reads as rewritten:
+"§ 159B-39. Permitted uses of revenue from electric power rates.
+(a) A municipality as authorized in this Chapter shall use revenue derived from rates for
+electric service to (i) pay the direct and indirect costs of operating the electric system and (ii)
+transfer to other funds of the municipality a sum that reflects a rate of return on the investment
+in the electric system to the extent allowed in subsection (c) of this section. system. Any
+remaining revenue shall be used to produce lower rates on electric service within the area served
+by the municipal electric system and to make additional debt service payments on bonds or other
+indebtedness incurred by the municipality to finance improvements to the electric system. A
+municipality shall not otherwise transfer revenue from an electric utility fund to any other fund
+of the municipality for any other purpose not explicitly authorized by law.
+(b) The direct and indirect costs of operating the electric system include all of the
+following:
+(1) Debt service payments on indebtedness incurred for the electric system or
+secured by revenues of the electric system.
+(2) Capital improvements or equipment for the electric system.
+(3) Payments for the cost of power purchased under contractual arrangements.
+(4) Debt service, maintenance, renewal, and replacement or other reserves
+required by legal documents entered into by the municipality in connection
+with the issuance of bonds or other indebtedness for the electric system.
+(5) Reserves deemed necessary by the governing body of the municipality to
+assure that funds are available to maintain the financial and operational
+integrity of the electric system.
+(6) Maintaining a rate stabilization fund to minimize the impact of periodic rate
+changes that would otherwise be required to reflect changes in costs of
+operations and demand for electric service.
+(7) Making payments in lieu of taxes to other governmental units to reflect
+property taxes that would have been collected by the other governmental unit
+if the municipality were not the owner of the electric system.
+(8) Making transfers to the general fund or other funds of the municipality to
+reimburse the general fund or other funds for costs paid from the fund that are
+reasonably allocable to the electric system.
+(c) The total amount transferred to other funds of the municipality authorized as a rate of
+return on the investment of the municipality in the electric system shall be calculated using
+amounts reported in the municipality's audited financial statements for the preceding fiscal year.
+The amount transferred may be less than the following, but in no event may the amount
+transferred exceed the greater of the following:
+(1) Three percent (3%) of the gross capital assets of the electric system at the end
+of the preceding fiscal year.
+(2) Five percent (5%) of the gross annual revenues of the electric system for the
+preceding fiscal year.
+(d) The restrictions in this section shall not apply to any action required to be taken for a
+municipality by the Local Government Commission in accordance with G.S. 159-181(c).
+(e) This section applies only to the following cities and towns that are members of the
+North Carolina Eastern Municipal Power Agency: Apex, Ayden, Belhaven, Benson, Clayton,
+Edenton, Elizabeth City, Farmville, Fremont, Greenville, Hamilton, Hertford, Hobgood,
+Hookerton, Kinston, LaGrange, Laurinburg, Louisburg, Lumberton, New Bern, Pikeville, Red
+Springs, Robersonville, Rocky Mount, Scotland Neck, Selma, Smithfield, Southport, Tarboro,
+Wake Forest, Washington, and Wilson."
+Senate Bill 1076 Session Law 2026-27 Page 5
+
+SECTION 3.(b) S.L. 2021-103 is repealed.
+SECTION 3.(c) This section applies only to the Town of Louisburg.
+SECTION 4. Except as otherwise provided, this act is effective when it becomes
+law.
+In the General Assembly read three times and ratified this the 2nd day of July, 2026.
+s/ Rachel Hunt
+President of the Senate
+s/ Destin Hall
+Speaker of the House of Representatives
+Page 6 Session Law 2026-27 Senate Bill 1076
+
+[DELETED:  O I E A N G S T O F T E A P U A I T C O R M T P T T O A t e s t t e a i s ( o t s s A T d a i c o o t e s i a o t D C P D s m r a r o o r R g t f a a t m t f a o M t w o b r t r c i c o M p i l o t t o g u t r]
+[DELETED:  S S M T a t m b l t t f b i n e m t a T F T T E C F F G H H H A T D C D s m r a r o o r R g t f a a t m t f a o M t w o b r t r c i c o M p i l o t t o g u t r M]
+[DELETED:  S P T T C M n s J 3 N a m s s m t t c A t N C B o C a t E C B o C s a f t n p o r c a o]
+[DELETED:  S S t C M C M d s s e o a p i O D R a a t C C o p u r f a R a c o t p a u b t c R R p f a o r o t u s R A P p h t n i t s s r d t t p s p s o r a o t i o c o B A A m r o l o t c l f t N C B o]
+[DELETED:  S P A t e s t t e a i s ( o t s s A T d a i c o o t e s i a o t D C P D s m r a r o o r R g t f a a t m t f a o M t w o b r t r c i c o M p i l o t t o g u t r M T a t m b l t t f b i n e m t a T F T T E C F F G H H H]
+[DELETED:  S S2 s s ]

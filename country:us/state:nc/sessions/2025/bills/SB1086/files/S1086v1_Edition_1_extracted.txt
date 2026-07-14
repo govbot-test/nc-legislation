@@ -1,0 +1,93 @@
+Title: SENATE BILL 1086
+Official Title: SENATE BILL 1086
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: Disclose Funds Original Source/Camp'n Finance. (Public)
+Sponsors: Senator Burgin (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+June 8, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE IDENTIFICATION AND DISCLOSURE OF THE ORIGINAL
+3 SOURCE OF FUNDS REGARDING THE REPORTING OF DONATIONS UNDER THE
+4 CAMPAIGN FINANCE LAWS.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 163-278.12 is amended by adding a new subsection to read:
+7 "(h) Except for political committees that do not receive more than six thousand eight
+8 hundred dollars ($6,800), or the amount set by G.S. 163-278.13, from any one person in an
+9 election, a filer reporting donations under this subsection shall disclose the identity of the original
+10 source of the funds, the amounts of those donations, and any intermediaries who transferred the
+11 funds before they were contributed to the filer. For purposes of this subsection, "original source"
+12 means an individual who contributes wages, investment income, or bequests or a person that
+13 contributes money received through ordinary commercial transactions. Any person or entity
+14 making a donation in an election to a person or entity required to report donations under this
+15 subsection shall inform that person or entity of the identity of the original sources of funds being
+16 transferred, the amounts of the persons' original funds being transferred, and the identity of any
+17 persons who previously transferred the original funds."
+18 SECTION 2. G.S. 163-278.12C is amended by adding a new subsection to read:
+19 "(e) Except for political committees that do not receive more than six thousand eight
+20 hundred dollars ($6,800), or the amount set by G.S. 163-278.13, from any one person in an
+21 election, a filer reporting donations under this subsection shall disclose the identity of the original
+22 source of the funds, the amounts of those donations, and any intermediaries who transferred the
+23 funds before they were contributed to the filer. "Original source" has the same meaning as in
+24 G.S. 163-278.12(h). Any person or entity making a donation in an election to a person or entity
+25 required to report donations under this subsection shall inform that person or entity of the identity
+26 of the original sources of funds being transferred, the amounts of the persons' original funds being
+27 transferred, and the identity of any persons who previously transferred the original funds."
+28 SECTION 3. This act is effective when it becomes law and applies to donations
+29 made on or after that date.
+*S1086-v-1*
+[DELETED:  1 D ( S R A A A T R I A D O T O S C T S " E s h e s f m c c o m s t p S " E h e s f G r o t S m]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 1086
+Short Title: Disclose Funds Original Source/Camp'n Finance. (Public)
+Sponsors: Senator Burgin (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+June 8, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE IDENTIFICATION AND DISCLOSURE OF THE ORIGINAL
+3 SOURCE OF FUNDS REGARDING THE REPORTING OF DONATIONS UNDER THE
+4 CAMPAIGN FINANCE LAWS.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 163-278.12 is amended by adding a new subsection to read:
+7 "(h) Except for political committees that do not receive more than six thousand eight
+8 hundred dollars ($6,800), or the amount set by G.S. 163-278.13, from any one person in an
+9 election, a filer reporting donations under this subsection shall disclose the identity of the original
+10 source of the funds, the amounts of those donations, and any intermediaries who transferred the
+11 funds before they were contributed to the filer. For purposes of this subsection, "original source"
+12 means an individual who contributes wages, investment income, or bequests or a person that
+13 contributes money received through ordinary commercial transactions. Any person or entity
+14 making a donation in an election to a person or entity required to report donations under this
+15 subsection shall inform that person or entity of the identity of the original sources of funds being
+16 transferred, the amounts of the persons' original funds being transferred, and the identity of any
+17 persons who previously transferred the original funds."
+18 SECTION 2. G.S. 163-278.12C is amended by adding a new subsection to read:
+19 "(e) Except for political committees that do not receive more than six thousand eight
+20 hundred dollars ($6,800), or the amount set by G.S. 163-278.13, from any one person in an
+21 election, a filer reporting donations under this subsection shall disclose the identity of the original
+22 source of the funds, the amounts of those donations, and any intermediaries who transferred the
+23 funds before they were contributed to the filer. "Original source" has the same meaning as in
+24 G.S. 163-278.12(h). Any person or entity making a donation in an election to a person or entity
+25 required to report donations under this subsection shall inform that person or entity of the identity
+26 of the original sources of funds being transferred, the amounts of the persons' original funds being
+27 transferred, and the identity of any persons who previously transferred the original funds."
+28 SECTION 3. This act is effective when it becomes law and applies to donations
+29 made on or after that date.
+*S1086-v-1*
+
+[DELETED:  1 D ( S R A A A T R I A D O T O S C T S " E s h e s f m c c o m s t p S " E h e s f G r o t S m]

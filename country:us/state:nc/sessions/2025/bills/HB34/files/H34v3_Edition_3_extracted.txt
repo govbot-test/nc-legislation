@@ -1,0 +1,616 @@
+Title: HOUSE BILL 34
+Official Title: HOUSE BILL 34
+Number of Sections: 1
+Source: versions - Edition 3
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 3
+Committee Substitute Favorable 2/25/25
+Senate Health Care Committee Substitute Adopted 6/17/26
+Short Title: Strengthen Medicaid Provider Controls. (Public)
+Sponsors:
+Referred to:
+February 4, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO STRENGTHEN MEDICAID PROVIDER CONTROLS AND MAKE OTHER
+3 CHANGES TO THE MEDICAID PROGRAM.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1.(a) G.S. 108C-1 reads as rewritten:
+6 "§ 108C-1. Scope; applicability of this Chapter.
+7 This Chapter applies to providers enrolled in Medicaid. The Department may adopt rules to
+8 implement any provision of this Chapter."
+9 SECTION 1.(b) Chapter 108C of the General Statutes is amended by adding a new
+10 section to read:
+11 "§ 108C-3.1. Licensure limitation checks for providers.
+12 When the Department becomes aware of an adverse action by a health care provider licensing
+13 entity, including through self-reporting required under the Medicaid provider administrative
+14 participation agreement, that either (i) imposes a license limitation or restriction on a provider's
+15 scope of practice, the range of services, or the time, place, and manner in which any service is
+16 rendered that deviates from the prevailing procedures for administering the services or (ii)
+17 imposes a license limitation or restriction on a provider's ability or authority to provide care for
+18 all patients, then the Department may deny or terminate the provider retroactively to the effective
+19 date of the provider's licensing entity's adverse action."
+20 SECTION 1.(c) Subsection (b) of this section is effective October 1, 2026, and
+21 applies to adverse actions effective on or after that date.
+22 SECTION 2.(a) G.S. 108C-2 is amended by adding a new subdivision to read:
+23 "(2e) Committee. – The Provider Enrollment Credentialing Committee, established
+24 under G.S. 108A-26.6."
+25 SECTION 2.(b) Part 1 of Article 2 of Chapter 108A of the General Statutes is
+26 amended by adding a new section to read:
+27 "§ 108A-26.6. Provider Enrollment Credentialing Committee; provider enrollment
+28 materials confidentiality.
+29 (a) The Department shall establish and determine the membership of the Provider
+30 Enrollment Credentialing Committee. The Committee is the centralized administrative body
+31 within the Department authorized to adjudicate provider participation in various programs
+32 administered by the Department.
+33 (b) The Provider Enrollment Credentialing Committee may review enrollment
+34 applications, including initial, reenrollment, and recredentialing during any provider
+35 credentialing process. The Provider Enrollment Credentialing Committee may review a
+*H34-v-3*
+General Assembly Of North Carolina Session 2025
+1 provider's continued participation when the ongoing monitoring process reveals findings that can
+2 impact a provider's eligibility for departmental programs.
+3 (c) The Provider Enrollment Credentialing Committee is authorized to issue
+4 determinations regarding the denial or termination of enrollment, reenrollment, revalidation, and
+5 enrollment maintenance for providers, including those with risk factors identified through initial
+6 application review or ongoing monitoring of the provider.
+7 (d) The Provider Enrollment Credentialing Committee shall adopt bylaws and comply
+8 with National Committee for Quality Assurance standards, federal law and regulations, and State
+9 law.
+10 (e) The following information about an individual that is acquired by the Department,
+11 including through the Provider Enrollment Credentialing Committee, in connection with the
+12 initial screening of applicants for enrollment, reenrollment, change requests, revalidation, or
+13 ongoing monitoring of a provider applying for or participating in a departmental program, is
+14 confidential and not a public record under Chapter 132 of the General Statutes:
+15 (1) Health information, including chemical dependency or psychiatric conditions.
+16 (2) Adverse licensure findings.
+17 (3) Hospital admitting privileges denials or revocations.
+18 (4) Liability insurance carrier cancellations, refusals, or unusual risk ratings.
+19 (5) Confidential malpractice judgments and settlements.
+20 (6) Any nonpublic criminal record information.
+21 (7) Fingerprints.
+22 (8) Any other information otherwise protected from public disclosure."
+23 SECTION 2.(c) G.S. 108C-3(a) reads as rewritten:
+24 "(a) Provider Screening. – The Department shall conduct provider screening of Medicaid
+25 providers in accordance with applicable State or federal law or regulation. The authorization of
+26 the Provider Enrollment Credentialing Committee extends to the Medicaid program, including
+27 all prepaid health plans, as defined in G.S. 108D-1."
+28 SECTION 3.(a) G.S. 108C-4 reads as rewritten:
+29 "§ 108C-4. Criminal history record checks for certain providers.
+30 (a) The Department shall conduct criminal history records checks of provider applicants
+31 and enrolled providers providers, as well as their owners, operators, and managing employees,
+32 in accordance with federal law and regulation.
+33 (b) The Division shall deny enrollment or terminate the enrollment of a provider where
+34 any person with a five percent (5%) or greater direct or indirect ownership interest in the provider
+35 has been convicted of a criminal offense related to that person's involvement with the Medicare,
+36 Medicaid, or any Children's Health Insurance Program in the last 10 years, unless the Division
+37 determines that denial or termination of enrollment is not in the best interests of Medicaid and
+38 the State Medicaid agency documents that determination in writing. The Department shall honor
+39 civil and criminal settlement agreements entered into with a provider or any person with a five
+40 percent (5%) or greater direct or indirect ownership interest in the provider within 10 years of
+41 the effective date of this act.
+42 (c) The Division may deny enrollment or terminate the enrollment of a provider subject
+43 to G.S. 108C-3(g) for any of the following offenses of the provider, an permanently exclude from
+44 participation any provider, or owner, an operator, or an managing employee if, after review of
+45 the seriousness, age, and other circumstances involving the offense, the Division determines it is
+46 in the best interest of the integrity of the North Carolina Medicaid program to do so:of a provider,
+47 for any of the following convictions:
+48 (1) Any criminal offenses conviction as set forth in any of the following Articles
+49 of Chapter 14 of the General Statutes:
+50 a. Article 5, Counterfeiting and Issuing Monetary Substitutes.
+51 b. Article 5A, Endangering Executive, Legislative, and Court Officers.
+Page 2 House Bill 34-Third Edition
+General Assembly Of North Carolina Session 2025
+1 c. Article 6, Homicide.
+2 d. Article 7B, Rape and Other Sex Offenses.
+3 e. Article 8, Assaults.
+4 f. Article 10, Kidnapping and Abduction.
+5 g. Article 13, Malicious Injury or Damage by Use of Explosive or
+6 Incendiary Device or Material.
+7 h. Article 14, Burglary and Other Housebreakings.
+8 i. Article 15, Arson and Other Burnings.
+9 j. Article 16, Larceny.
+10 k. Article 17, Robbery.
+11 l. Article 18, Embezzlement.
+12 m. Article 19, False Pretenses and Cheats.
+13 n. Article 19A, Obtaining Property or Services by False or Fraudulent
+14 Use of Credit Device or Other Means.
+15 o. Article 19B, Financial Transaction Card Crime Act.
+16 p. Article 20, Frauds.
+17 q. Article 21, Forgery.
+18 r. Article 26, Offenses Against Public Morality and Decency.
+19 s. Article 26A, Adult Establishments.
+20 t. Article 27, Prostitution.
+21 u. Article 28, Perjury.
+22 v. Article 29, Bribery.
+23 w. Article 31, Misconduct in Public Office.
+24 x. Article 35, Offenses Against the Public Peace.
+25 y. Article 36A, Riots and Civil Disorders.
+26 z. Article 39, Protection of Minors.
+27 aa. Article 40, Protection of the Family.
+28 bb. Article 59, Public Intoxication.
+29 cc. Article 60, Computer-Related Crime.
+30 (2) Any criminal conviction as set forth in any of the following Articles of
+31 Chapter 14 of the General Statutes when defined as a habitual felon under
+32 G.S. 14-7.1:
+33 a. Article 5A, Endangering Executive, Legislative, and Court Officers.
+34 b. Article 8, Assaults.
+35 c. Article 15, Arson and Other Burnings.
+36 d. Article 16, Larceny.
+37 e. Article 17, Robbery.
+38 f. Article 18, Embezzlement.
+39 g. Article 20, Frauds.
+40 h. Article 21, Forgery.
+41 (d) The Division may terminate the enrollment of a provider upon the conviction of the
+42 provider, or the owner, operator, or managing employee of that provider, under any of the
+43 following:
+44 (1) Article 5, Counterfeiting and Issuing Monetary Substitutes.
+45 (2) Article 10, Kidnapping and Abduction.
+46 (3) Article 13, Malicious Injury or Damage by Use of Explosive or Incendiary
+47 Device or Material.
+48 (4) Any criminal conviction in subdivision (2) of subsection (c) of this section
+49 when not defined as a habitual felon under G.S. 14-7.1.
+50 A provider may be excluded from enrollment for a period of 10 years from the date the
+51 provider, or owner, operator, or managing employee of that provider, was fully discharged from
+House Bill 34-Third Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 all imprisonment, probation, parole, and full payment of restitution for a conviction under this
+2 subsection.
+3 (e) The Division may terminate the enrollment of a provider upon the conviction of the
+4 provider, or the owner, operator, or managing employee of that provider, under any of the
+5 following:
+6 (2)(1) Possession or sale of drugs in violation of the North Carolina Controlled
+7 Substances Act, Article 5 of Chapter 90 of the General Statutes.
+8 (3)(2) Alcohol-related offenses such as sale to underage persons in violation of
+9 G.S. 18B-302.
+10 A provider may be excluded from enrollment for a period of five years from the date the
+11 provider, or owner, operator, or managing employee of that provider, was fully discharged from
+12 all imprisonment, probation, parole, and full payment of restitution for a conviction under this
+13 subsection.
+14 (f) The Division may terminate the enrollment of a provider upon the conviction of the
+15 provider, or the owner, operator, or managing employee of that provider, under any of the
+16 following:
+17 (1) Article 14, Burglary and Other Housebreakings.
+18 (2) Article 19, False Pretenses and Cheats.
+19 (3) Article 19A, Obtaining Property or Services by False or Fraudulent Use of
+20 Credit Device or Other Means.
+21 (4) Article 19B, Financial Transaction Card Crime Act.
+22 (5) Article 26, Offenses Against Public Morality and Decency.
+23 (6) Article 27, Prostitution.
+24 (7) Article 28, Perjury.
+25 (8) Article 29, Bribery.
+26 (9) Article 31, Misconduct in Public Office.
+27 (10) Article 35, Offenses Against the Public Peace.
+28 (11) Article 36A, Riots and Civil Disorders.
+29 (12) Article 39, Protection of Minors.
+30 (13) Article 40, Protection of the Family.
+31 (14) Article 59, Public Intoxication.
+32 (15) Article 60, Computer-Related Crime.
+33 (4)(16) Driving while impaired in violation of G.S. 20-138.1 through G.S. 20-138.5.
+34 A provider may be excluded from enrollment for a period of two years from the date the
+35 provider, or owner, operator, or managing employee of that provider, was fully discharged from
+36 all imprisonment, probation, parole, and full payment of restitution for a conviction under this
+37 subsection.
+38 (g) Following any period of exclusion under this section, applicants shall be subject to
+39 review by the Committee."
+40 SECTION 3.(b) Chapter 108C of the General Statutes is amended by adding a new
+41 section to read:
+42 "§ 108C-4.1. Termination for cause.
+43 (a) The Department may deny enrollment of, deny revalidation of, or terminate a
+44 provider's participation in the Medicaid program for any of the following reasons:
+45 (1) Submitting a claim, or claims, for services that could not have been furnished
+46 to a specific individual on the date of service for various reasons.
+47 (2) Billing for services furnished while the provider's license is in a state of
+48 suspension.
+49 (3) Engaging in a pattern of practice of prescribing drugs that is abusive or
+50 represents a threat to the health and safety of beneficiaries or that fails to meet
+51 Medicaid requirements.
+Page 4 House Bill 34-Third Edition
+General Assembly Of North Carolina Session 2025
+1 (4) Certifying false or misleading information on the provider's enrollment
+2 application as true.
+3 (5) Knowingly falsifying medical records to support services billed to Medicaid.
+4 (6) Failure to repay an overpayment in delinquent status exceeding one thousand
+5 five hundred dollars ($1,500).
+6 (7) Conduct that poses a risk to beneficiaries or the Medicaid program as
+7 demonstrated by repeated behavior, adverse actions, or other evidence
+8 indicating program integrity concerns.
+9 (8) For Medicaid providers that are subject to electronic visit verification
+10 requirements, failure to submit at least eighty-five percent (85%) of claims for
+11 applicable services electronically.
+12 (9) Any other reason allowable under State or federal law, rule, or regulation.
+13 (b) The Department may exercise its authority under this section regardless of whether
+14 the provider maintains a current, active license, certification, or other provider credential."
+15 SECTION 3.(c) Subsection (a) of this section is effective when it becomes law and
+16 applies to provider enrollment and revalidation occurring on or after that date. Subsection (b) of
+17 this section is effective 30 days after it becomes law.
+18 SECTION 4. The Department of Health and Human Services, Division of Health
+19 Benefits, shall ensure the Medicaid provider administrative participation agreement includes all
+20 of the following:
+21 (1) A requirement that the provider identify its electronic health record system
+22 vendor.
+23 (2) A requirement that the provider notify the Division of Health Benefits of any
+24 changes to its electronic health record system vendor.
+25 (3) A requirement that every user of the provider's electronic health record system
+26 utilize a unique login to that system.
+27 (4) A requirement that the provider notify the Division of Health Benefits when
+28 that provider becomes aware that any individual employed by the provider is
+29 newly convicted of any criminal offense identified under G.S. 108C-4. This
+30 requirement applies to both current employees and any individual employed
+31 by the provider within the preceding 12 months from the date of the new
+32 conviction.
+33 SECTION 5.(a) G.S. 108D-22, as amended by Section 3C.12(a) of S.L. 2026-1,
+34 reads as rewritten:
+35 "§ 108D-22. PHP provider networks.
+36 (a) Provider Networks. – Except as provided in G.S. 108D-23(c) subsection (e) of this
+37 section, G.S. 108D-23(c), and G.S. 108D-24(b), each PHP shall develop and maintain an open
+38 network of providers that meets access to care requirements for its enrollees.
+39 …
+40 (d) Closed Networks for Designated Service Categories. – If an open network for a
+41 designated service category would jeopardize quality of care, program integrity, or cost-effective
+42 use of Medicaid funds, then, notwithstanding subsection (a) of this section, a PHP may develop
+43 a closed network for that designated service category and exclude providers that are not
+44 designated essential providers from that closed network. Prior to creating a closed network for a
+45 designated service category, the PHP must receive approval from the Department of the PHP's
+46 written request to close its provider network for that service category. This written request must
+47 include a demonstration of ongoing network adequacy. If the Department does not respond to a
+48 written request from a PHP for approval to close its provider network for a designated service
+49 category within 180 days after the request was submitted, the request is deemed approved.
+House Bill 34-Third Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (e) Mandatory Closed Networks. – Each PHP shall develop and maintain a closed
+2 network, and may exclude providers from that closed network, for the provision of the following
+3 services:
+4 (1) Peer support services.
+5 (2) Research-based behavioral health treatment services."
+6 SECTION 5.(b) G.S. 108D-24, as amended by Section 3C.12(c) of S.L. 2026-1,
+7 reads as rewritten:
+8 "§ 108D-24. Children and families specialty plan networks.
+9 (a) The entity operating the children and families specialty plan shall operate provider
+10 networks in accordance with this section and G.S. 108D-22.
+11 (b) The In addition to the closed networks required under G.S. 108D-22, the entity
+12 operating the children and families specialty plan shall develop a closed network, and may
+13 exclude providers from that closed network, for the provision of the following services:
+14 (1) Intensive in-home services.
+15 (2) Multisystemic therapy.
+16 (3) Residential treatment services.
+17 (4) Services provided in psychiatric residential treatment facilities.
+18 (5) Community support team services.
+19 (d) In addition to the requirement to cover essential providers under G.S. 108D-22, the
+20 entity operating the CAF specialty plan shall not exclude federally recognized tribal providers or
+21 Indian Health Service providers from any provider network."
+22 SECTION 6.(a) G.S. 108A-54.3A(a) is amended by adding a new subdivision to
+23 read:
+24 "(25) Qualifying individuals allowed under section 214 of the Children's Health
+25 Insurance Program Reauthorization Act of 2009, P.L. 111-3, and described in
+26 42 U.S.C. § 1396b(v)(4)."
+27 SECTION 6.(b) G.S. 108A-54.3A(c), as amended by Section 3C.4(b) of S.L.
+28 2026-1, reads as rewritten:
+29 "(c) Medicaid coverage for individuals who are not citizens of the United States shall be
+30 limited to coverage that is federally required for the State's participation in the Medicaid
+31 program.program, except as provided for under subdivision (25) of subsection (a) of this section."
+32 SECTION 6.(c) This section is effective October 1, 2026.
+33 SECTION 7. Except as otherwise provided, this act is effective when it becomes
+34 law.
+Page 6 House Bill 34-Third Edition
+[DELETED:  3 S (   A A C T S " T i S s " W e i t s r u t M p a p s r t d f t p p f a t s o ( i a d S a S " C u S a " 1  P E C C p e m ( T D s e a d t m o t P E C C T C i t c a b w t D a t a p p i v p a ( T P E C C m r e a i i r a r d a p c p T P E C C m r a]
+[DELETED:  S  H p i ( T P E C C i a t i d e a ( T w l ( T i i o c ( H ( A ( H ( L ( C ( A ( F ( A S " P p t a S " ( T a i ( T a h M d t c p t ( T t p t i f ( A o a A b A]
+[DELETED:  S  P c A d A e A f A g A 1 M I o D b U o E o I h A i A j A k A l A m A n A U o A p A q A r A s A t A u A v A w A x A y A z A a A b A c A ( A c c a s f i a o t f A o C G a A b A c A d A e A f A g A h A ( T p o t o o o m e o t p u a o t f ( A ( A ( A D ( A w A p]
+[DELETED:  S  H a s ( T p o t o o o m e o t p u a o t f ( P o s o d i v o t N C C S ( A o s a s t u p i v o G A p a s ( T p o t o o o m e o t p u a o t f ( A ( A ( A C ( A ( A ( A ( A ( A ( A ( A ( A ( A ( A ( A ( A ( A p a s ( F r S s " ( T D m d e o d r o o t a p ( S t ( B f s f w t p l i i a s o s ( E i a p o p o p d t i a o r M]
+[DELETED:  S  P ( C f o m i o t p e a ( K ( F f ( C t p a r t b o t M p a d b r b a a o o e i ( F M p t a s t e v v r a ( A ( T t S a t S B o ( A v ( A c ( A u ( A t n r b c S r " ( P s n … ( C N f D S C – I a o n f a d u a c n f t d s c a e p t a n d d w i w c]
+[DELETED:  S  H ( M C N – E P s d a m a c n s ( P ( R S r " ( T n ( T I a t t c n r u G t e o t c a f s p s d a c n a m e ( I ( M ( R ( S ( C ( I e I S r " Q I 4 S 6  G a a b S 3 o S 2 " M l t c t i f r f t S p i t M p S S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 3
+HOUSE BILL 34
+Committee Substitute Favorable 2/25/25
+Senate Health Care Committee Substitute Adopted 6/17/26
+Short Title: Strengthen Medicaid Provider Controls. (Public)
+Sponsors:
+Referred to:
+February 4, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO STRENGTHEN MEDICAID PROVIDER CONTROLS AND MAKE OTHER
+3 CHANGES TO THE MEDICAID PROGRAM.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1.(a) G.S. 108C-1 reads as rewritten:
+6 "§ 108C-1. Scope; applicability of this Chapter.
+7 This Chapter applies to providers enrolled in Medicaid. The Department may adopt rules to
+8 implement any provision of this Chapter."
+9 SECTION 1.(b) Chapter 108C of the General Statutes is amended by adding a new
+10 section to read:
+11 "§ 108C-3.1. Licensure limitation checks for providers.
+12 When the Department becomes aware of an adverse action by a health care provider licensing
+13 entity, including through self-reporting required under the Medicaid provider administrative
+14 participation agreement, that either (i) imposes a license limitation or restriction on a provider's
+15 scope of practice, the range of services, or the time, place, and manner in which any service is
+16 rendered that deviates from the prevailing procedures for administering the services or (ii)
+17 imposes a license limitation or restriction on a provider's ability or authority to provide care for
+18 all patients, then the Department may deny or terminate the provider retroactively to the effective
+19 date of the provider's licensing entity's adverse action."
+20 SECTION 1.(c) Subsection (b) of this section is effective October 1, 2026, and
+21 applies to adverse actions effective on or after that date.
+22 SECTION 2.(a) G.S. 108C-2 is amended by adding a new subdivision to read:
+23 "(2e) Committee. – The Provider Enrollment Credentialing Committee, established
+24 under G.S. 108A-26.6."
+25 SECTION 2.(b) Part 1 of Article 2 of Chapter 108A of the General Statutes is
+26 amended by adding a new section to read:
+27 "§ 108A-26.6. Provider Enrollment Credentialing Committee; provider enrollment
+28 materials confidentiality.
+29 (a) The Department shall establish and determine the membership of the Provider
+30 Enrollment Credentialing Committee. The Committee is the centralized administrative body
+31 within the Department authorized to adjudicate provider participation in various programs
+32 administered by the Department.
+33 (b) The Provider Enrollment Credentialing Committee may review enrollment
+34 applications, including initial, reenrollment, and recredentialing during any provider
+35 credentialing process. The Provider Enrollment Credentialing Committee may review a
+*H34-v-3*
+
+General Assembly Of North Carolina Session 2025
+1 provider's continued participation when the ongoing monitoring process reveals findings that can
+2 impact a provider's eligibility for departmental programs.
+3 (c) The Provider Enrollment Credentialing Committee is authorized to issue
+4 determinations regarding the denial or termination of enrollment, reenrollment, revalidation, and
+5 enrollment maintenance for providers, including those with risk factors identified through initial
+6 application review or ongoing monitoring of the provider.
+7 (d) The Provider Enrollment Credentialing Committee shall adopt bylaws and comply
+8 with National Committee for Quality Assurance standards, federal law and regulations, and State
+9 law.
+10 (e) The following information about an individual that is acquired by the Department,
+11 including through the Provider Enrollment Credentialing Committee, in connection with the
+12 initial screening of applicants for enrollment, reenrollment, change requests, revalidation, or
+13 ongoing monitoring of a provider applying for or participating in a departmental program, is
+14 confidential and not a public record under Chapter 132 of the General Statutes:
+15 (1) Health information, including chemical dependency or psychiatric conditions.
+16 (2) Adverse licensure findings.
+17 (3) Hospital admitting privileges denials or revocations.
+18 (4) Liability insurance carrier cancellations, refusals, or unusual risk ratings.
+19 (5) Confidential malpractice judgments and settlements.
+20 (6) Any nonpublic criminal record information.
+21 (7) Fingerprints.
+22 (8) Any other information otherwise protected from public disclosure."
+23 SECTION 2.(c) G.S. 108C-3(a) reads as rewritten:
+24 "(a) Provider Screening. – The Department shall conduct provider screening of Medicaid
+25 providers in accordance with applicable State or federal law or regulation. The authorization of
+26 the Provider Enrollment Credentialing Committee extends to the Medicaid program, including
+27 all prepaid health plans, as defined in G.S. 108D-1."
+28 SECTION 3.(a) G.S. 108C-4 reads as rewritten:
+29 "§ 108C-4. Criminal history record checks for certain providers.
+30 (a) The Department shall conduct criminal history records checks of provider applicants
+31 and enrolled providers providers, as well as their owners, operators, and managing employees,
+32 in accordance with federal law and regulation.
+33 (b) The Division shall deny enrollment or terminate the enrollment of a provider where
+34 any person with a five percent (5%) or greater direct or indirect ownership interest in the provider
+35 has been convicted of a criminal offense related to that person's involvement with the Medicare,
+36 Medicaid, or any Children's Health Insurance Program in the last 10 years, unless the Division
+37 determines that denial or termination of enrollment is not in the best interests of Medicaid and
+38 the State Medicaid agency documents that determination in writing. The Department shall honor
+39 civil and criminal settlement agreements entered into with a provider or any person with a five
+40 percent (5%) or greater direct or indirect ownership interest in the provider within 10 years of
+41 the effective date of this act.
+42 (c) The Division may deny enrollment or terminate the enrollment of a provider subject
+43 to G.S. 108C-3(g) for any of the following offenses of the provider, an permanently exclude from
+44 participation any provider, or owner, an operator, or an managing employee if, after review of
+45 the seriousness, age, and other circumstances involving the offense, the Division determines it is
+46 in the best interest of the integrity of the North Carolina Medicaid program to do so:of a provider,
+47 for any of the following convictions:
+48 (1) Any criminal offenses conviction as set forth in any of the following Articles
+49 of Chapter 14 of the General Statutes:
+50 a. Article 5, Counterfeiting and Issuing Monetary Substitutes.
+51 b. Article 5A, Endangering Executive, Legislative, and Court Officers.
+Page 2 House Bill 34-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 c. Article 6, Homicide.
+2 d. Article 7B, Rape and Other Sex Offenses.
+3 e. Article 8, Assaults.
+4 f. Article 10, Kidnapping and Abduction.
+5 g. Article 13, Malicious Injury or Damage by Use of Explosive or
+6 Incendiary Device or Material.
+7 h. Article 14, Burglary and Other Housebreakings.
+8 i. Article 15, Arson and Other Burnings.
+9 j. Article 16, Larceny.
+10 k. Article 17, Robbery.
+11 l. Article 18, Embezzlement.
+12 m. Article 19, False Pretenses and Cheats.
+13 n. Article 19A, Obtaining Property or Services by False or Fraudulent
+14 Use of Credit Device or Other Means.
+15 o. Article 19B, Financial Transaction Card Crime Act.
+16 p. Article 20, Frauds.
+17 q. Article 21, Forgery.
+18 r. Article 26, Offenses Against Public Morality and Decency.
+19 s. Article 26A, Adult Establishments.
+20 t. Article 27, Prostitution.
+21 u. Article 28, Perjury.
+22 v. Article 29, Bribery.
+23 w. Article 31, Misconduct in Public Office.
+24 x. Article 35, Offenses Against the Public Peace.
+25 y. Article 36A, Riots and Civil Disorders.
+26 z. Article 39, Protection of Minors.
+27 aa. Article 40, Protection of the Family.
+28 bb. Article 59, Public Intoxication.
+29 cc. Article 60, Computer-Related Crime.
+30 (2) Any criminal conviction as set forth in any of the following Articles of
+31 Chapter 14 of the General Statutes when defined as a habitual felon under
+32 G.S. 14-7.1:
+33 a. Article 5A, Endangering Executive, Legislative, and Court Officers.
+34 b. Article 8, Assaults.
+35 c. Article 15, Arson and Other Burnings.
+36 d. Article 16, Larceny.
+37 e. Article 17, Robbery.
+38 f. Article 18, Embezzlement.
+39 g. Article 20, Frauds.
+40 h. Article 21, Forgery.
+41 (d) The Division may terminate the enrollment of a provider upon the conviction of the
+42 provider, or the owner, operator, or managing employee of that provider, under any of the
+43 following:
+44 (1) Article 5, Counterfeiting and Issuing Monetary Substitutes.
+45 (2) Article 10, Kidnapping and Abduction.
+46 (3) Article 13, Malicious Injury or Damage by Use of Explosive or Incendiary
+47 Device or Material.
+48 (4) Any criminal conviction in subdivision (2) of subsection (c) of this section
+49 when not defined as a habitual felon under G.S. 14-7.1.
+50 A provider may be excluded from enrollment for a period of 10 years from the date the
+51 provider, or owner, operator, or managing employee of that provider, was fully discharged from
+House Bill 34-Third Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 all imprisonment, probation, parole, and full payment of restitution for a conviction under this
+2 subsection.
+3 (e) The Division may terminate the enrollment of a provider upon the conviction of the
+4 provider, or the owner, operator, or managing employee of that provider, under any of the
+5 following:
+6 (2)(1) Possession or sale of drugs in violation of the North Carolina Controlled
+7 Substances Act, Article 5 of Chapter 90 of the General Statutes.
+8 (3)(2) Alcohol-related offenses such as sale to underage persons in violation of
+9 G.S. 18B-302.
+10 A provider may be excluded from enrollment for a period of five years from the date the
+11 provider, or owner, operator, or managing employee of that provider, was fully discharged from
+12 all imprisonment, probation, parole, and full payment of restitution for a conviction under this
+13 subsection.
+14 (f) The Division may terminate the enrollment of a provider upon the conviction of the
+15 provider, or the owner, operator, or managing employee of that provider, under any of the
+16 following:
+17 (1) Article 14, Burglary and Other Housebreakings.
+18 (2) Article 19, False Pretenses and Cheats.
+19 (3) Article 19A, Obtaining Property or Services by False or Fraudulent Use of
+20 Credit Device or Other Means.
+21 (4) Article 19B, Financial Transaction Card Crime Act.
+22 (5) Article 26, Offenses Against Public Morality and Decency.
+23 (6) Article 27, Prostitution.
+24 (7) Article 28, Perjury.
+25 (8) Article 29, Bribery.
+26 (9) Article 31, Misconduct in Public Office.
+27 (10) Article 35, Offenses Against the Public Peace.
+28 (11) Article 36A, Riots and Civil Disorders.
+29 (12) Article 39, Protection of Minors.
+30 (13) Article 40, Protection of the Family.
+31 (14) Article 59, Public Intoxication.
+32 (15) Article 60, Computer-Related Crime.
+33 (4)(16) Driving while impaired in violation of G.S. 20-138.1 through G.S. 20-138.5.
+34 A provider may be excluded from enrollment for a period of two years from the date the
+35 provider, or owner, operator, or managing employee of that provider, was fully discharged from
+36 all imprisonment, probation, parole, and full payment of restitution for a conviction under this
+37 subsection.
+38 (g) Following any period of exclusion under this section, applicants shall be subject to
+39 review by the Committee."
+40 SECTION 3.(b) Chapter 108C of the General Statutes is amended by adding a new
+41 section to read:
+42 "§ 108C-4.1. Termination for cause.
+43 (a) The Department may deny enrollment of, deny revalidation of, or terminate a
+44 provider's participation in the Medicaid program for any of the following reasons:
+45 (1) Submitting a claim, or claims, for services that could not have been furnished
+46 to a specific individual on the date of service for various reasons.
+47 (2) Billing for services furnished while the provider's license is in a state of
+48 suspension.
+49 (3) Engaging in a pattern of practice of prescribing drugs that is abusive or
+50 represents a threat to the health and safety of beneficiaries or that fails to meet
+51 Medicaid requirements.
+Page 4 House Bill 34-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 (4) Certifying false or misleading information on the provider's enrollment
+2 application as true.
+3 (5) Knowingly falsifying medical records to support services billed to Medicaid.
+4 (6) Failure to repay an overpayment in delinquent status exceeding one thousand
+5 five hundred dollars ($1,500).
+6 (7) Conduct that poses a risk to beneficiaries or the Medicaid program as
+7 demonstrated by repeated behavior, adverse actions, or other evidence
+8 indicating program integrity concerns.
+9 (8) For Medicaid providers that are subject to electronic visit verification
+10 requirements, failure to submit at least eighty-five percent (85%) of claims for
+11 applicable services electronically.
+12 (9) Any other reason allowable under State or federal law, rule, or regulation.
+13 (b) The Department may exercise its authority under this section regardless of whether
+14 the provider maintains a current, active license, certification, or other provider credential."
+15 SECTION 3.(c) Subsection (a) of this section is effective when it becomes law and
+16 applies to provider enrollment and revalidation occurring on or after that date. Subsection (b) of
+17 this section is effective 30 days after it becomes law.
+18 SECTION 4. The Department of Health and Human Services, Division of Health
+19 Benefits, shall ensure the Medicaid provider administrative participation agreement includes all
+20 of the following:
+21 (1) A requirement that the provider identify its electronic health record system
+22 vendor.
+23 (2) A requirement that the provider notify the Division of Health Benefits of any
+24 changes to its electronic health record system vendor.
+25 (3) A requirement that every user of the provider's electronic health record system
+26 utilize a unique login to that system.
+27 (4) A requirement that the provider notify the Division of Health Benefits when
+28 that provider becomes aware that any individual employed by the provider is
+29 newly convicted of any criminal offense identified under G.S. 108C-4. This
+30 requirement applies to both current employees and any individual employed
+31 by the provider within the preceding 12 months from the date of the new
+32 conviction.
+33 SECTION 5.(a) G.S. 108D-22, as amended by Section 3C.12(a) of S.L. 2026-1,
+34 reads as rewritten:
+35 "§ 108D-22. PHP provider networks.
+36 (a) Provider Networks. – Except as provided in G.S. 108D-23(c) subsection (e) of this
+37 section, G.S. 108D-23(c), and G.S. 108D-24(b), each PHP shall develop and maintain an open
+38 network of providers that meets access to care requirements for its enrollees.
+39 …
+40 (d) Closed Networks for Designated Service Categories. – If an open network for a
+41 designated service category would jeopardize quality of care, program integrity, or cost-effective
+42 use of Medicaid funds, then, notwithstanding subsection (a) of this section, a PHP may develop
+43 a closed network for that designated service category and exclude providers that are not
+44 designated essential providers from that closed network. Prior to creating a closed network for a
+45 designated service category, the PHP must receive approval from the Department of the PHP's
+46 written request to close its provider network for that service category. This written request must
+47 include a demonstration of ongoing network adequacy. If the Department does not respond to a
+48 written request from a PHP for approval to close its provider network for a designated service
+49 category within 180 days after the request was submitted, the request is deemed approved.
+House Bill 34-Third Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (e) Mandatory Closed Networks. – Each PHP shall develop and maintain a closed
+2 network, and may exclude providers from that closed network, for the provision of the following
+3 services:
+4 (1) Peer support services.
+5 (2) Research-based behavioral health treatment services."
+6 SECTION 5.(b) G.S. 108D-24, as amended by Section 3C.12(c) of S.L. 2026-1,
+7 reads as rewritten:
+8 "§ 108D-24. Children and families specialty plan networks.
+9 (a) The entity operating the children and families specialty plan shall operate provider
+10 networks in accordance with this section and G.S. 108D-22.
+11 (b) The In addition to the closed networks required under G.S. 108D-22, the entity
+12 operating the children and families specialty plan shall develop a closed network, and may
+13 exclude providers from that closed network, for the provision of the following services:
+14 (1) Intensive in-home services.
+15 (2) Multisystemic therapy.
+16 (3) Residential treatment services.
+17 (4) Services provided in psychiatric residential treatment facilities.
+18 (5) Community support team services.
+19 (d) In addition to the requirement to cover essential providers under G.S. 108D-22, the
+20 entity operating the CAF specialty plan shall not exclude federally recognized tribal providers or
+21 Indian Health Service providers from any provider network."
+22 SECTION 6.(a) G.S. 108A-54.3A(a) is amended by adding a new subdivision to
+23 read:
+24 "(25) Qualifying individuals allowed under section 214 of the Children's Health
+25 Insurance Program Reauthorization Act of 2009, P.L. 111-3, and described in
+26 42 U.S.C. § 1396b(v)(4)."
+27 SECTION 6.(b) G.S. 108A-54.3A(c), as amended by Section 3C.4(b) of S.L.
+28 2026-1, reads as rewritten:
+29 "(c) Medicaid coverage for individuals who are not citizens of the United States shall be
+30 limited to coverage that is federally required for the State's participation in the Medicaid
+31 program.program, except as provided for under subdivision (25) of subsection (a) of this section."
+32 SECTION 6.(c) This section is effective October 1, 2026.
+33 SECTION 7. Except as otherwise provided, this act is effective when it becomes
+34 law.
+Page 6 House Bill 34-Third Edition
+
+[DELETED:  3 S (   A A C T S " T i S s " W e i t s r u t M p a p s r t d f t p p f a t s o ( i a d S a S " C u S a " 1  P E C C p e m ( T D s e a d t m o t P E C C T C i t c a b w t D a t a p p i v p a ( T P E C C m r e a i i r a r d a p c p T P E C C m r a]
+[DELETED:  S  H p i ( T P E C C i a t i d e a ( T w l ( T i i o c ( H ( A ( H ( L ( C ( A ( F ( A S " P p t a S " ( T a i ( T a h M d t c p t ( T t p t i f ( A o a A b A]
+[DELETED:  S  P c A d A e A f A g A 1 M I o D b U o E o I h A i A j A k A l A m A n A U o A p A q A r A s A t A u A v A w A x A y A z A a A b A c A ( A c c a s f i a o t f A o C G a A b A c A d A e A f A g A h A ( T p o t o o o m e o t p u a o t f ( A ( A ( A D ( A w A p]
+[DELETED:  S  H a s ( T p o t o o o m e o t p u a o t f ( P o s o d i v o t N C C S ( A o s a s t u p i v o G A p a s ( T p o t o o o m e o t p u a o t f ( A ( A ( A C ( A ( A ( A ( A ( A ( A ( A ( A ( A ( A ( A ( A ( A p a s ( F r S s " ( T D m d e o d r o o t a p ( S t ( B f s f w t p l i i a s o s ( E i a p o p o p d t i a o r M]
+[DELETED:  S  P ( C f o m i o t p e a ( K ( F f ( C t p a r t b o t M p a d b r b a a o o e i ( F M p t a s t e v v r a ( A ( T t S a t S B o ( A v ( A c ( A u ( A t n r b c S r " ( P s n … ( C N f D S C – I a o n f a d u a c n f t d s c a e p t a n d d w i w c]
+[DELETED:  S  H ( M C N – E P s d a m a c n s ( P ( R S r " ( T n ( T I a t t c n r u G t e o t c a f s p s d a c n a m e ( I ( M ( R ( S ( C ( I e I S r " Q I 4 S 6  G a a b S 3 o S 2 " M l t c t i f r f t S p i t M p S S l]

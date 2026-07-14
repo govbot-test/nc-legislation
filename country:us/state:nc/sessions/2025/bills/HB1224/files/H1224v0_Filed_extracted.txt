@@ -1,0 +1,73 @@
+Title: HOUSE BILL DRH40715-NS-23
+Official Title: HOUSE BILL DRH40715-NS-23
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+H.B. 1224
+GENERAL ASSEMBLY OF NORTH CAROLINA
+May 5, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Local Gov. Assisting Affordable Housing. (Local)
+Sponsors: Representative K. Brown.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT GRANTING ADDITIONAL AUTHORITY TO LOCAL GOVERNMENTS TO
+3 ASSIST OR INCENTIVIZE DEVELOPERS OF AFFORDABLE HOUSING.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 162A-203 reads as rewritten:
+6 "§ 162A-203. Authorization of system development fee.
+7 (a) A local governmental unit may adopt a system development fee for water or sewer
+8 service only in accordance with the conditions and limitations of this Article.
+9 (b) A system development fee adopted by a local governmental unit under any lawful
+10 authority other than this Article and in effect on October 1, 2017, shall be conformed to the
+11 requirements of this Article not later than July 1, 2018.
+12 (c) A local government unit or a joint agency created pursuant to G.S. 160A-461 may
+13 exempt affordable housing developments from or reduce the cost of a system development fee
+14 imposed pursuant to this Article. The unit or joint agency shall adopt criteria for determining
+15 whether a development qualifies for the exemption or reduction."
+16 SECTION 2. This act only applies to the City of Winston-Salem.
+17 SECTION 3. This act is effective when it becomes law.
+*DRH40715-NS-23*
+[DELETED:  D L ( R  A A A G A A T L G T A T S " ( A s ( A a r ( A e i w S S]
+
+
+================================================================================
+
+Raw Text:
+H.B. 1224
+GENERAL ASSEMBLY OF NORTH CAROLINA
+May 5, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH40715-NS-23
+Short Title: Local Gov. Assisting Affordable Housing. (Local)
+Sponsors: Representative K. Brown.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT GRANTING ADDITIONAL AUTHORITY TO LOCAL GOVERNMENTS TO
+3 ASSIST OR INCENTIVIZE DEVELOPERS OF AFFORDABLE HOUSING.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 162A-203 reads as rewritten:
+6 "§ 162A-203. Authorization of system development fee.
+7 (a) A local governmental unit may adopt a system development fee for water or sewer
+8 service only in accordance with the conditions and limitations of this Article.
+9 (b) A system development fee adopted by a local governmental unit under any lawful
+10 authority other than this Article and in effect on October 1, 2017, shall be conformed to the
+11 requirements of this Article not later than July 1, 2018.
+12 (c) A local government unit or a joint agency created pursuant to G.S. 160A-461 may
+13 exempt affordable housing developments from or reduce the cost of a system development fee
+14 imposed pursuant to this Article. The unit or joint agency shall adopt criteria for determining
+15 whether a development qualifies for the exemption or reduction."
+16 SECTION 2. This act only applies to the City of Winston-Salem.
+17 SECTION 3. This act is effective when it becomes law.
+*DRH40715-NS-23*
+
+[DELETED:  D L ( R  A A A G A A T L G T A T S " ( A s ( A a r ( A e i w S S]

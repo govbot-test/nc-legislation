@@ -1,0 +1,824 @@
+Title: HOUSE BILL DRH40705-NTa-20
+Official Title: HOUSE BILL DRH40705-NTa-20
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+H.B. 1191
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 30, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Fostering Care in NC Act 2026. (Public)
+Sponsors: Representative Chesser.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO THE LAWS AFFECTING JUVENILES AND
+3 ASSOCIATED SERVICES, AGENCIES, AND DEPARTMENTS.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. CONFIDENTIALITY OF RECORDS
+7 SECTION 1.1. G.S. 7B-2901(a) reads as rewritten:
+8 "(a) The clerk shall maintain a complete record of all juvenile cases brought pursuant to
+9 Subchapter I of this Chapter and filed in the clerk's office alleging abuse, neglect, or
+10 dependency.office. The records shall be withheld from public inspection and, except as provided
+11 in this subsection, may be examined only by order of the court. The record shall include the
+12 summons, petition, custody order, court order, written motions, the electronic or mechanical
+13 recording of the hearing, and other papers filed in the proceeding. The recording of the hearing
+14 shall be reduced to a written transcript only when notice of appeal has been timely given. After
+15 the time for appeal has expired with no appeal having been filed, the recording of the hearing
+16 may be erased or destroyed upon the written order of the court or in accordance with a retention
+17 schedule approved by the Director of the Administrative Office of the Courts and the Department
+18 of Natural and Cultural Resources under G.S. 121‑5(c).
+19 The following persons may examine the juvenile's record maintained pursuant to this
+20 subsection and obtain copies of written parts of the record without an order of the court:
+21 (1) The person named in the petition as the juvenile;juvenile, including the
+22 juvenile who has reached the age of 18 or been emancipated, and their
+23 attorney.
+24 (2) The guardian ad litem;litem.
+25 (3) The county department of social services; andservices and the Division of
+26 Social Services of the Department of Health and Human Services.
+27 (4) The juvenile's parent, guardian, or custodian, or the attorney for the juvenile
+28 or the juvenile's parent, guardian, or custodian.Any named party in the action
+29 and the attorney for any named party in the action."
+30 SECTION 1.2. G.S. 50-13.2 reads as rewritten:
+31 "§ 50-13.2. Who entitled to custody; terms of custody; visitation rights of grandparents;
+32 taking child out of State; consideration of parent's military service.service;
+33 confidentiality of court file and records.
+34 …
+35 (g) In any custody proceeding where the (i) physical or mental health, (ii) substance use,
+36 or (iii) abuse or maltreatment against the minor child is raised, the court shall order that the entire
+*DRH40705-NTa-20*
+General Assembly Of North Carolina Session 2025
+1 file be sealed and kept from public inspection. The sealed records shall not be released except by
+2 order from the court to any person other than:
+3 (1) The parties in the custody proceeding.
+4 (2) The attorneys for the parties in the custody proceeding.
+5 (3) Any court of competent jurisdiction hearing or reviewing the matter.
+6 (4) The department of social services when providing protective services pursuant
+7 to G.S. 7B-300.
+8 For good cause shown, the court may order the records that are confidential under this
+9 subsection to be made available to a person or agency who is not listed in this subsection."
+10 SECTION 1.3. Section 1.2 of this act becomes effective October 1, 2026, and applies
+11 to actions filed on or after that date.
+12
+13 PART II. PROCEDURE FOR EXPUNGEMENT FROM RESPONSIBLE INDIVIDUALS
+14 LIST
+15 SECTION 2.1. G.S. 7B-200(a) reads as rewritten:
+16 "(a) The court has exclusive, original jurisdiction over any case involving a juvenile who
+17 is alleged to be abused, neglected, or dependent. This jurisdiction does not extend to cases
+18 involving adult defendants alleged to be guilty of abuse or neglect. The court also has exclusive
+19 original jurisdiction of the following proceedings:
+20 …
+21 (9) Petitions for judicial review of a director's determinationProceedings
+22 involving placement on or expungement from the responsible individuals list
+23 under Article 3A of this Chapter."
+24 SECTION 2.2. G.S. 7B-325(b) reads as rewritten:
+25 "(b) The petition for expungement shall be filed with the district court of the county in
+26 which the abuse or serious neglect report arose. A copy shall be delivered in person or by certified
+27 mail, return receipt requested, to the director of the county department of social services of that
+28 county.who determined the abuse or serious neglect and identified the individual seeking
+29 expungement as a responsible individual. The petition for expungement shall contain the name,
+30 date of birth, and address of the individual seeking expungement, the name of the juvenile who
+31 was the subject of the determination of abuse or serious neglect, and facts that invoke the
+32 jurisdiction of the court."
+33
+34 PART III. CLARIFY CHILD WELFARE PROCEDURE
+35 SECTION 3.1. G.S. 7B-900.1(b) reads as rewritten:
+36 "(b) Before ordering that a case be transferred to another county, the court shall find that
+37 the director of the department of social services in the county in which the action is pending and
+38 the director in the county to which transfer is contemplated have communicated about the case
+39 and that:
+40 (1) The two directors are in agreement with respect to each county's responsibility
+41 for providing financial support for the juvenile and services for the juvenile
+42 and the juvenile's family; or
+43 (2) The Director of the Division of Social Services or the Director's designee has
+44 made that determination pursuant to G.S. 153A-257(d).G.S. 153A-257(d) or
+45 appointed a county department to assume management of the case pursuant to
+46 G.S. 7B-302.1(c)."
+47 SECTION 3.2. G.S. 7B-901(d) reads as rewritten:
+48 "(d) When the court determines that reunification efforts are not required, thereunification
+49 is excluded as a permanent plan. The court shall order concurrent a permanent plans plan as soon
+50 as possible, after providing each party with a reasonable opportunity to prepare and present
+51 evidence.evidence at a permanency planning hearing. The court shall schedule a permanency
+Page 2 DRH40705-NTa-20
+General Assembly Of North Carolina Session 2025
+1 planning hearing within 30 days from the completion of the initial dispositional hearing to
+2 address the permanent plans plan in accordance with G.S. 7B‑906.1 and G.S. 7B‑906.2."
+3 SECTION 3.3. G.S. 7B-903.1(c1) reads as rewritten:
+4 "(c1) If juvenile siblings are removed from the home and placed in the nonsecure custody
+5 of a county department of social services, the director shall make reasonable efforts to place the
+6 juvenile siblings in the same home. The director is not required to make reasonable efforts under
+7 this subsection if the director documents that placing the juvenile siblings would be contrary to
+8 the safety or well‑being of any of the juvenile siblings. If, after making reasonable efforts, the
+9 director is unable to place the juvenile siblings in the same home, the director shall make
+10 reasonable efforts to provide frequent sibling visitation and ongoing interaction between the
+11 juvenile siblings, unless the director documents that frequent visitation or other ongoing
+12 interaction between the juvenile siblings would be contrary to the safety or well‑being of any of
+13 the juvenile siblings."
+14 SECTION 3.4. G.S. 7B-906.1 reads as rewritten:
+15 "§ 7B‑906.1. Review and permanency planning hearings.
+16 …
+17 (e) At any permanency planning hearing where the juvenile is not placed with a parent,
+18 the court shall additionally consider the following criteria and make written findings regarding
+19 those that are relevant:
+20 …
+21 (5) Whether the county department of social services has since the initial
+22 permanency plan planning hearing made reasonable efforts to implement the
+23 permanent plan for the juvenile.
+24 …
+25 (g) At the conclusion of each permanency planning hearing, the court shall make specific
+26 findings as to the best permanent plan or plans to achieve a safe, permanent home for the juvenile
+27 within a reasonable period of time.
+28 …
+29 (m) If the court finds that a proceeding to terminate the parental rights of the juvenile's
+30 parents is necessary in order to perfect the primary or sole permanent plan for the juvenile, the
+31 director of the department of social services shall file a petition to terminate parental rights within
+32 60 calendar days from the date of the entry of the order unless the court makes written findings
+33 regarding why the petition cannot be filed within 60 days. If the court makes findings to the
+34 contrary, the court shall specify the time frame in which any needed petition to terminate parental
+35 rights shall be filed.
+36 …."
+37 SECTION 3.5. G.S. 7B-906.2(b) reads as rewritten:
+38 "(b) At any permanency planning hearing where the court is ordering reunification as a
+39 permanent plan, the court shall adopt concurrent permanent plans and shall identify the primary
+40 plan and secondary plan. Reunification shall be a primary or secondary plan unless the court
+41 relieved the department of making reunification efforts at initial disposition under
+42 G.S. 7B‑901(c), previously made written findings under G.S. 7B‑906.1(d)(3), the permanent plan
+43 is or has been achieved, or the court makes written findings that reunification efforts clearly
+44 would be unsuccessful or would be inconsistent with the juvenile's health or safety. The finding
+45 that reunification efforts clearly would be unsuccessful or inconsistent with the juvenile's health
+46 or safety may be made at any permanency planning hearing, and if made, shall eliminate
+47 reunification as a plan. When reunification has been eliminated as a permanent plan, concurrent
+48 planning is not required. Unless permanence has been achieved, the court shall order the county
+49 department of social services to make efforts toward finalizing the primary and secondary
+50 permanent plans or the sole permanent plan and may specify efforts that are reasonable to timely
+51 achieve permanence for the juvenile."
+DRH40705-NTa-20 Page 3
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.6. G.S. 7B-908(c) reads as rewritten:
+2 "(c) The court shall consider at least the following in its review and make written findings
+3 regarding the following that are relevant:
+4 (1) The adequacy of the permanency plan or plans developed by the county
+5 department of social services or a licensed child‑placing agency for a
+6 permanent placement in the juvenile's best interests and the efforts of the
+7 department or agency to implement the plan or plans.
+8 …."
+9 SECTION 3.7. G.S. 7B-909.2(h) reads as rewritten:
+10 "(h) The court shall not enter an order to approve the post‑adoption contact agreement
+11 unless the agreement is in writing and executed prior to or as part of the relinquishment. The
+12 agreement and order shall not be filed in the juvenile proceeding. When the court approves the
+13 post‑adoption contact agreement:
+14 …
+15 (4) The record of the civil action shall be withheld from public inspection and
+16 may only be examined by the parties to the civil action and their attorneys, the
+17 minor adoptee,adoptee after the adoptee turns eighteen years old or is
+18 otherwise emancipated, or by order of the court."
+19 SECTION 3.8. G.S. 7B-909.3 reads as rewritten:
+20 "§ 7B-909.3. Modification, enforcement, and termination of a post‑adoption contact
+21 agreement and order; no right to appeal; rights of adoptive parents.
+22 …
+23 (e) A party subject to an order under this section has no right to appeal the order.order
+24 which terminates, modifies, or enforces the post-adoption contact agreement and order. A party
+25 to an order under this section has the right to appeal any order finding him or her in contempt of
+26 the order as provided for in Chapter 5A of the General Statutes.
+27 …."
+28 SECTION 3.9. Part III of this act becomes effective October 1, 2026, and applies to
+29 actions filed on or after that date.
+30
+31 PART IV. TERMINATION OF PARENTAL RIGHTS
+32 SECTION 4.1. G.S. 7B-1101.1(b) reads as rewritten:
+33 "(b) In addition to the right to appointed counsel under subsection (a) of this section, a
+34 guardian ad litem shall be appointed in accordance with G.S. 1A‑1, Rule 17, to represent any
+35 parent who is under the age of 18 years and who is not married or otherwise emancipated16
+36 years. On motion of any party or on the court's own motion, the court may appoint a guardian ad
+37 litem for a parent who is 16 or 17 years old and who is not married or otherwise emancipated."
+38 SECTION 4.2. G.S. 7B-1103(a) reads as rewritten:
+39 "(a) A petition or motion to terminate the parental rights of either or both parents to his,
+40 her, or their minor juvenile may only be filed by one or more of the following:
+41 …
+42 (4) Any county department of social services, consolidated county human
+43 services agency, or licensed child‑placing agency to which the juvenile has
+44 been surrendered relinquished for adoption by one of the parents or by the
+45 guardian of the person of the juvenile, pursuant to G.S. 48‑3‑701.
+46 (4a) Any county department of social services who has received a safely
+47 surrendered infant, pursuant to Article 5A of this Subchapter.
+48 …."
+49 SECTION 4.3. G.S. 7B-1112 reads as rewritten:
+50 "§ 7B-1112. Effects of termination order.
+Page 4 DRH40705-NTa-20
+General Assembly Of North Carolina Session 2025
+1 An order terminating the parental rights completely and permanently terminates all rights and
+2 obligations of the parent to the juvenile and of the juvenile to the parent arising from the parental
+3 relationship, except that the juvenile's right of inheritance from the juvenile's parent shall not
+4 terminate until a final order of adoption is issued. The parent is not thereafter entitled to notice
+5 of proceedings to adopt the juvenile and may not object thereto or otherwise participate therein:
+6 (1) If the juvenile had been placed in the custody of or released for adoption by
+7 one parent to a county department of social services or licensed child‑placing
+8 agency and is in the custody of the agency at the time of the filing of the
+9 petition or motion, including a petition or motion filed pursuant to
+10 G.S. 7B‑1103(a)(6), that agency shall, upon entry of the order terminating
+11 parental rights, acquire all of the rights for placement of the juvenile, except
+12 as otherwise provided in G.S. 7B‑908(d)7B-908(d1), as the agency would
+13 have acquired had the parent whose rights are terminated released the juvenile
+14 to that agency pursuant to the provisions of Part 7 of Article 3 of Chapter 48
+15 of the General Statutes, including the right to consent to the adoption of the
+16 juvenile.
+17 …."
+18
+19 PART V. UNDISCIPLINED AND DELINQUENT JUVENILES; NONSECURE
+20 CUSTODY
+21 SECTION 5.1. G.S. 7B-1905(a) reads as rewritten:
+22 "(a) A juvenile meeting the criteria set out in G.S. 7B‑1903(a), may be placed in nonsecure
+23 custody with a department of social services or a person designated in the order order. The
+24 department of social services with placement responsibility is authorized to place the juvenile for
+25 temporary residential placement in one of the following:
+26 (1) A licensed foster home or a home otherwise authorized by law to provide such
+27 care;care.
+28 (2) A facility operated by a department of social services; orservices.
+29 (2a) A facility licensed to provide care to juveniles.
+30 (3) Any other home or facility facility, such as the home of a parent, relative,
+31 nonrelative kin, or other person with legal custody of a sibling of the juvenile,
+32 approved by the court and designated in the order.
+33 The department shall not place a juvenile in any unlicensed facility or any facility that is not
+34 licensed to provide care for juveniles without the sanction of the court and so designated in the
+35 order prior to such placement being made.
+36 In placing a juvenile in nonsecure custody, the court shall first consider whether a relative of
+37 the juvenile is willing and able to provide proper care and supervision of the juvenile. If the court
+38 finds that the relative is willing and able to provide proper care and supervision, the court shall
+39 order placement of the juvenile with the relative unless the court finds that placement with the
+40 relative would be contrary to the best interest of the juvenile. Placement of a juvenile outside of
+41 this State shall be in accordance with the Interstate Compact on the Placement of Children set
+42 forth in Article 38 of this Chapter."
+43 SECTION 5.2. G.S. 7B-2001 reads as rewritten:
+44 "§ 7B-2001. Appointment of guardian.
+45 (a) In any Any time during a case when no parent, guardian, or custodian appears in a
+46 hearing with the juvenile or when the court finds it would be in the best interests of the juvenile,
+47 the court may appoint a guardian of the person for the juvenile. The court shall not appoint the
+48 department of social services as a guardian of the person for a juvenile.
+49 (b) The guardian shall operate under the supervision of the court with or without bond
+50 and shall file only such reports as the court shall require. The court shall consider whether
+51 ordering a limited guardianship would meet the needs and best interests of the juvenile. A limited
+DRH40705-NTa-20 Page 5
+General Assembly Of North Carolina Session 2025
+1 guardianship shall specify the powers and duties of the limited guardian over the juvenile's person
+2 while the parent, guardian, or custodian retains certain legal rights and privileges including
+3 physical custody, educational and medical decision-making, and religious upbringing. Unless the
+4 court orders a limited guardianship that specifies the duties and rights of the guardian,otherwise,
+5 the guardian:
+6 (1) Shall have the care, custody, and control of the juvenile or may arrange a
+7 suitable placement for the juvenile.
+8 (2) May represent the juvenile in legal actions before any court.
+9 (3) May consent to certain actions on the part of the juvenile in place of the parent
+10 or custodian, including (i) marriage, (ii) enlisting in the Armed Forces of the
+11 United States, and (iii) enrollment in school.
+12 (4) May consent to any necessary remedial, psychological, medical, or surgical
+13 treatment for the juvenile.
+14 (c) The authority of the guardian shall continue until the guardianship is terminated by
+15 court order, until the juvenile is emancipated pursuant to Subchapter IV of this Chapter, or until
+16 the juvenile reaches the age of majority."
+17
+18 PART VI. THIRD-PARTY BACKGROUND CHECK VENDORS
+19 SECTION 6.1. Municipalities and counties may enter contracts with third-party
+20 vendors supplying background checks to conduct background checks required pursuant to
+21 G.S. 153A-94.2(b) and G.S. 160A-164.2(b). All contracts entered pursuant to this section shall
+22 terminate on or before December 1, 2026, or when the State Bureau of Investigation request for
+23 proposal is awarded, whichever occurs later. The State Bureau of Investigation shall prescribe
+24 minimum requirements for all background checks conducted by third-party vendors.
+25
+26 PART VII. AUTOMATIC REFERRAL TO DIRECTOR FOR SEVERAL REPORTS
+27 SECTION 7.1. G.S. 7B-302(a) reads as rewritten:
+28 "(a) When a report of abuse, neglect, or dependency is received, the director of the
+29 department of social services shall make a prompt and thorough assessment, using either a family
+30 assessment response or an investigative assessment response, in order to ascertain the facts of the
+31 case, including collecting information concerning the military affiliation of the parent, guardian,
+32 custodian, or caretaker of the juvenile alleged to have been abused or neglected, the extent of the
+33 abuse or neglect, and the risk of harm to the juvenile, in order to determine whether protective
+34 services should be provided or the complaint filed as a petition. When a department has received
+35 and screened out three reports within six months or five reports within one year regarding the
+36 same juvenile or the juvenile's household, the case shall immediately be referred to the director
+37 of the department of social services. The director shall not delegate the review of the screened
+38 out reports and shall determine whether the reports require an assessment be completed and, if
+39 so, shall directed an assessment be initiated. When the report alleges abuse, the director shall
+40 immediately, but no later than 24 hours after receipt of the report, initiate the assessment. When
+41 the report alleges neglect or dependency, the director shall initiate the assessment within 72 hours
+42 following receipt of the report. When the report alleges abandonment of a juvenile or unlawful
+43 transfer of custody under G.S. 14‑321.2, the director shall immediately initiate an assessment.
+44 When the report alleges abandonment, the director shall also take appropriate steps to assume
+45 temporary custody of the juvenile, and take appropriate steps to secure an order for nonsecure
+46 custody of the juvenile. The assessment and evaluation shall include a visit to the place where
+47 the juvenile resides, except when the report alleges abuse or neglect in a child care facility as
+48 defined in Article 7 of Chapter 110 of the General Statutes. When the report alleges
+49 abandonment, the assessment shall include a request from the director to law enforcement
+50 officials to investigate through the North Carolina Center for Missing Persons and other national
+51 and State resources whether the juvenile is a missing child."
+Page 6 DRH40705-NTa-20
+General Assembly Of North Carolina Session 2025
+1
+2 PART VIII. MOBILE COMMUNICATIONS PLATFORM
+3 SECTION 8.1. There is appropriated from the General Fund to the Administrative
+4 Office of the Courts, Office of Indigent Services, the sum of two hundred and fifty thousand
+5 dollars ($250,000) in recurring funds beginning in the 2026-2027 fiscal year to contract with an
+6 approved vendor, no later than October 1, 2026, for the implementation of a secure, web and
+7 mobile based communications platform for abuse, neglect, and dependency proceedings, and
+8 termination of parental rights proceedings arising from those matters to ensure compliance with
+9 federal and State requirements for the following:
+10 (1) Advanced notification via automated electronic methods such as text
+11 messaging or email to all parties and their attorneys, to the persons providing
+12 care to the juvenile, and to any other person or agency designated by the court
+13 for all court hearings and for interagency team meetings initiated by the
+14 county department of social services such as permanency planning review
+15 meetings, child and family team meetings, and placement status change
+16 meetings.
+17 (2) Enhanced communication between attorneys and clients and between parties
+18 to reduce court continuances, share discovery, and reduce barriers to
+19 permanency.
+20 SECTION 8.2. The Administrative Office of the Courts, Indigent Services of NC ,
+21 the Guardian Ad Litem Program, the North Carolina Division of Social Services (DSS), and any
+22 other State or county agency or department necessary for implementation of the platform under
+23 Section 10.1 of this act shall enter into a data sharing agreement to enable the selected vendor to
+24 receive data necessary to ensure timely notification of court hearings and DSS initiated
+25 interagency team meetings to all parties and their attorneys, the person providing care for the
+26 juvenile, and any other necessary persons or agencies, and to ensure the communication platform
+27 between the attorneys and clients and between parties receives the most accurate information
+28 without redundant data entry.
+29 SECTION 8.3. Section 8.1 of this act becomes effective on July 1, 2026.
+30
+31 PART IX. INCLUSION OF EASTERN BAND OF CHEROKEE INDIANS IN CHILD
+32 ADVOCACY CENTERS
+33 SECTION 9.1. G.S. 108A-77.1 reads as rewritten:
+34 "§ 108A-77.1. Definitions.
+35 The following definitions apply in this Article:
+36 …
+37 (7) Department. – As defined in G.S. 7B-101(8a).7B-101 and the Eastern Band
+38 of Cherokee Indians Public Health and Human Services Department of
+39 Human Services.
+40 …
+41 (10) Multidisciplinary team. – A group of professionals who represent various
+42 disciplines and work collaboratively pursuant to a written protocol to share
+43 information on service provision and investigations by law enforcement or a
+44 department to inform the investigation and prosecution of child maltreatment
+45 cases and to coordinate services in response to reports made of child
+46 maltreatment. The multidisciplinary team works solely on behalf of children
+47 served by a Children's Advocacy Center. In addition to the members listed in
+48 this subdivision, a multidisciplinary team may include other professionals
+49 involved in the delivery of services to victims of child maltreatment and their
+50 appropriate caregivers. Participation in a multidisciplinary team shall not
+51 preclude any member from carrying out any mandated responsibility of his or
+DRH40705-NTa-20 Page 7
+General Assembly Of North Carolina Session 2025
+1 her profession. A Children's Advocacy Center's multidisciplinary team must
+2 include, at a minimum, the following professionals:
+3 a. A member of participating law enforcement agencies.
+4 b. The county district attorney or assistant district attorney. or tribal
+5 prosecutor for the Eastern Band of Cherokee Indians.
+6 c. A member of the department's child protective services unit.
+7 d. A local mental health provider.
+8 e. A local health care provider.
+9 f. A victim advocate.
+10 g. Children's Advocacy Center staff.
+11 …."
+12 SECTION 9.2. G.S. 108A-77.4(c) reads as rewritten:
+13 "(c) Disclosure of information and records outlined in subsection (b) of this section shall
+14 only be released or otherwise made available to the following:
+15 (1) The North Carolina Department of Health and Human Services and county
+16 departments.
+17 (2) Law enforcement agencies, a prosecuting district attorney, attorney, a tribal
+18 prosecutor for the Eastern Band of Cherokee Indians, or the Attorney General.
+19 (3) Health care providers or local management entity/managed care organizations
+20 providing medical or psychiatric care or services to the child, in the case of
+21 medical or mental health records.
+22 (4) The North Carolina Child Fatality Task Force.
+23 (5) As permitted under G.S. 7B-3100."
+24
+25 PART X. EFFECTIVE DATE
+26 SECTION 10.1. Except as otherwise provided, this act is effective when it becomes
+27 law.
+Page 8 DRH40705-NTa-20
+[DELETED:  D F ( R  T I o t C a f i t c o a a n o f p m e t j r m p t t T p n i t p a t j i t w h r t a o 1 o b e a t T T T c o o S c o p m s I]
+[DELETED:  S  D T T A T g c s c m o t r t a c T a t b a n o T j d n e t c P f j r o a d d T d t a o s n a i t i s t s o t d o a o s n a f t i t B T T W]
+[DELETED:  S  P h w 3 d f t c o t i d h t I i u t p t j s i t s h t d s m s u t d d t f v o o o A W t c d o s s h s t i A I A t d o m r e a i d u s m b m a a p p h a i m s e o s s t m e t f t p a s]
+[DELETED:  S  D T T a o t p p o p d b t c o s s o a l c a f a T T a a t a t e y o o i 7 M e a t o a p c A I A A c d o s s c c h A c d o s s w h r a s]
+[DELETED:  S  P I o m i a p o m f p t o p i G a t a w V U A D J N A o A A A A I T]
+[DELETED:  S  D t p g o r c l r a p i S M M M T s b c t c b c r p t W a r o a n o d i r t d o t i A 7 o C 1 o t G S W t r a t a s i a r f t d t l e]
+[DELETED:  S  P A n v a e m s a t a c h a f i t m i b t c a f t m a p s c E r c c s d a r b t d n t e t n o c h a D i D C  I P H a H S D o M t – A g o w r v a t c s i r t r m o c s a m t m i o p c P i a m t s n]
+[DELETED:  S  D A T c d a o a d a o t A A A A C D T L H T A]
+
+
+================================================================================
+
+Raw Text:
+H.B. 1191
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 30, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH40705-NTa-20
+Short Title: Fostering Care in NC Act 2026. (Public)
+Sponsors: Representative Chesser.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO THE LAWS AFFECTING JUVENILES AND
+3 ASSOCIATED SERVICES, AGENCIES, AND DEPARTMENTS.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. CONFIDENTIALITY OF RECORDS
+7 SECTION 1.1. G.S. 7B-2901(a) reads as rewritten:
+8 "(a) The clerk shall maintain a complete record of all juvenile cases brought pursuant to
+9 Subchapter I of this Chapter and filed in the clerk's office alleging abuse, neglect, or
+10 dependency.office. The records shall be withheld from public inspection and, except as provided
+11 in this subsection, may be examined only by order of the court. The record shall include the
+12 summons, petition, custody order, court order, written motions, the electronic or mechanical
+13 recording of the hearing, and other papers filed in the proceeding. The recording of the hearing
+14 shall be reduced to a written transcript only when notice of appeal has been timely given. After
+15 the time for appeal has expired with no appeal having been filed, the recording of the hearing
+16 may be erased or destroyed upon the written order of the court or in accordance with a retention
+17 schedule approved by the Director of the Administrative Office of the Courts and the Department
+18 of Natural and Cultural Resources under G.S. 121‑5(c).
+19 The following persons may examine the juvenile's record maintained pursuant to this
+20 subsection and obtain copies of written parts of the record without an order of the court:
+21 (1) The person named in the petition as the juvenile;juvenile, including the
+22 juvenile who has reached the age of 18 or been emancipated, and their
+23 attorney.
+24 (2) The guardian ad litem;litem.
+25 (3) The county department of social services; andservices and the Division of
+26 Social Services of the Department of Health and Human Services.
+27 (4) The juvenile's parent, guardian, or custodian, or the attorney for the juvenile
+28 or the juvenile's parent, guardian, or custodian.Any named party in the action
+29 and the attorney for any named party in the action."
+30 SECTION 1.2. G.S. 50-13.2 reads as rewritten:
+31 "§ 50-13.2. Who entitled to custody; terms of custody; visitation rights of grandparents;
+32 taking child out of State; consideration of parent's military service.service;
+33 confidentiality of court file and records.
+34 …
+35 (g) In any custody proceeding where the (i) physical or mental health, (ii) substance use,
+36 or (iii) abuse or maltreatment against the minor child is raised, the court shall order that the entire
+*DRH40705-NTa-20*
+
+General Assembly Of North Carolina Session 2025
+1 file be sealed and kept from public inspection. The sealed records shall not be released except by
+2 order from the court to any person other than:
+3 (1) The parties in the custody proceeding.
+4 (2) The attorneys for the parties in the custody proceeding.
+5 (3) Any court of competent jurisdiction hearing or reviewing the matter.
+6 (4) The department of social services when providing protective services pursuant
+7 to G.S. 7B-300.
+8 For good cause shown, the court may order the records that are confidential under this
+9 subsection to be made available to a person or agency who is not listed in this subsection."
+10 SECTION 1.3. Section 1.2 of this act becomes effective October 1, 2026, and applies
+11 to actions filed on or after that date.
+12
+13 PART II. PROCEDURE FOR EXPUNGEMENT FROM RESPONSIBLE INDIVIDUALS
+14 LIST
+15 SECTION 2.1. G.S. 7B-200(a) reads as rewritten:
+16 "(a) The court has exclusive, original jurisdiction over any case involving a juvenile who
+17 is alleged to be abused, neglected, or dependent. This jurisdiction does not extend to cases
+18 involving adult defendants alleged to be guilty of abuse or neglect. The court also has exclusive
+19 original jurisdiction of the following proceedings:
+20 …
+21 (9) Petitions for judicial review of a director's determinationProceedings
+22 involving placement on or expungement from the responsible individuals list
+23 under Article 3A of this Chapter."
+24 SECTION 2.2. G.S. 7B-325(b) reads as rewritten:
+25 "(b) The petition for expungement shall be filed with the district court of the county in
+26 which the abuse or serious neglect report arose. A copy shall be delivered in person or by certified
+27 mail, return receipt requested, to the director of the county department of social services of that
+28 county.who determined the abuse or serious neglect and identified the individual seeking
+29 expungement as a responsible individual. The petition for expungement shall contain the name,
+30 date of birth, and address of the individual seeking expungement, the name of the juvenile who
+31 was the subject of the determination of abuse or serious neglect, and facts that invoke the
+32 jurisdiction of the court."
+33
+34 PART III. CLARIFY CHILD WELFARE PROCEDURE
+35 SECTION 3.1. G.S. 7B-900.1(b) reads as rewritten:
+36 "(b) Before ordering that a case be transferred to another county, the court shall find that
+37 the director of the department of social services in the county in which the action is pending and
+38 the director in the county to which transfer is contemplated have communicated about the case
+39 and that:
+40 (1) The two directors are in agreement with respect to each county's responsibility
+41 for providing financial support for the juvenile and services for the juvenile
+42 and the juvenile's family; or
+43 (2) The Director of the Division of Social Services or the Director's designee has
+44 made that determination pursuant to G.S. 153A-257(d).G.S. 153A-257(d) or
+45 appointed a county department to assume management of the case pursuant to
+46 G.S. 7B-302.1(c)."
+47 SECTION 3.2. G.S. 7B-901(d) reads as rewritten:
+48 "(d) When the court determines that reunification efforts are not required, thereunification
+49 is excluded as a permanent plan. The court shall order concurrent a permanent plans plan as soon
+50 as possible, after providing each party with a reasonable opportunity to prepare and present
+51 evidence.evidence at a permanency planning hearing. The court shall schedule a permanency
+Page 2 DRH40705-NTa-20
+
+General Assembly Of North Carolina Session 2025
+1 planning hearing within 30 days from the completion of the initial dispositional hearing to
+2 address the permanent plans plan in accordance with G.S. 7B‑906.1 and G.S. 7B‑906.2."
+3 SECTION 3.3. G.S. 7B-903.1(c1) reads as rewritten:
+4 "(c1) If juvenile siblings are removed from the home and placed in the nonsecure custody
+5 of a county department of social services, the director shall make reasonable efforts to place the
+6 juvenile siblings in the same home. The director is not required to make reasonable efforts under
+7 this subsection if the director documents that placing the juvenile siblings would be contrary to
+8 the safety or well‑being of any of the juvenile siblings. If, after making reasonable efforts, the
+9 director is unable to place the juvenile siblings in the same home, the director shall make
+10 reasonable efforts to provide frequent sibling visitation and ongoing interaction between the
+11 juvenile siblings, unless the director documents that frequent visitation or other ongoing
+12 interaction between the juvenile siblings would be contrary to the safety or well‑being of any of
+13 the juvenile siblings."
+14 SECTION 3.4. G.S. 7B-906.1 reads as rewritten:
+15 "§ 7B‑906.1. Review and permanency planning hearings.
+16 …
+17 (e) At any permanency planning hearing where the juvenile is not placed with a parent,
+18 the court shall additionally consider the following criteria and make written findings regarding
+19 those that are relevant:
+20 …
+21 (5) Whether the county department of social services has since the initial
+22 permanency plan planning hearing made reasonable efforts to implement the
+23 permanent plan for the juvenile.
+24 …
+25 (g) At the conclusion of each permanency planning hearing, the court shall make specific
+26 findings as to the best permanent plan or plans to achieve a safe, permanent home for the juvenile
+27 within a reasonable period of time.
+28 …
+29 (m) If the court finds that a proceeding to terminate the parental rights of the juvenile's
+30 parents is necessary in order to perfect the primary or sole permanent plan for the juvenile, the
+31 director of the department of social services shall file a petition to terminate parental rights within
+32 60 calendar days from the date of the entry of the order unless the court makes written findings
+33 regarding why the petition cannot be filed within 60 days. If the court makes findings to the
+34 contrary, the court shall specify the time frame in which any needed petition to terminate parental
+35 rights shall be filed.
+36 …."
+37 SECTION 3.5. G.S. 7B-906.2(b) reads as rewritten:
+38 "(b) At any permanency planning hearing where the court is ordering reunification as a
+39 permanent plan, the court shall adopt concurrent permanent plans and shall identify the primary
+40 plan and secondary plan. Reunification shall be a primary or secondary plan unless the court
+41 relieved the department of making reunification efforts at initial disposition under
+42 G.S. 7B‑901(c), previously made written findings under G.S. 7B‑906.1(d)(3), the permanent plan
+43 is or has been achieved, or the court makes written findings that reunification efforts clearly
+44 would be unsuccessful or would be inconsistent with the juvenile's health or safety. The finding
+45 that reunification efforts clearly would be unsuccessful or inconsistent with the juvenile's health
+46 or safety may be made at any permanency planning hearing, and if made, shall eliminate
+47 reunification as a plan. When reunification has been eliminated as a permanent plan, concurrent
+48 planning is not required. Unless permanence has been achieved, the court shall order the county
+49 department of social services to make efforts toward finalizing the primary and secondary
+50 permanent plans or the sole permanent plan and may specify efforts that are reasonable to timely
+51 achieve permanence for the juvenile."
+DRH40705-NTa-20 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.6. G.S. 7B-908(c) reads as rewritten:
+2 "(c) The court shall consider at least the following in its review and make written findings
+3 regarding the following that are relevant:
+4 (1) The adequacy of the permanency plan or plans developed by the county
+5 department of social services or a licensed child‑placing agency for a
+6 permanent placement in the juvenile's best interests and the efforts of the
+7 department or agency to implement the plan or plans.
+8 …."
+9 SECTION 3.7. G.S. 7B-909.2(h) reads as rewritten:
+10 "(h) The court shall not enter an order to approve the post‑adoption contact agreement
+11 unless the agreement is in writing and executed prior to or as part of the relinquishment. The
+12 agreement and order shall not be filed in the juvenile proceeding. When the court approves the
+13 post‑adoption contact agreement:
+14 …
+15 (4) The record of the civil action shall be withheld from public inspection and
+16 may only be examined by the parties to the civil action and their attorneys, the
+17 minor adoptee,adoptee after the adoptee turns eighteen years old or is
+18 otherwise emancipated, or by order of the court."
+19 SECTION 3.8. G.S. 7B-909.3 reads as rewritten:
+20 "§ 7B-909.3. Modification, enforcement, and termination of a post‑adoption contact
+21 agreement and order; no right to appeal; rights of adoptive parents.
+22 …
+23 (e) A party subject to an order under this section has no right to appeal the order.order
+24 which terminates, modifies, or enforces the post-adoption contact agreement and order. A party
+25 to an order under this section has the right to appeal any order finding him or her in contempt of
+26 the order as provided for in Chapter 5A of the General Statutes.
+27 …."
+28 SECTION 3.9. Part III of this act becomes effective October 1, 2026, and applies to
+29 actions filed on or after that date.
+30
+31 PART IV. TERMINATION OF PARENTAL RIGHTS
+32 SECTION 4.1. G.S. 7B-1101.1(b) reads as rewritten:
+33 "(b) In addition to the right to appointed counsel under subsection (a) of this section, a
+34 guardian ad litem shall be appointed in accordance with G.S. 1A‑1, Rule 17, to represent any
+35 parent who is under the age of 18 years and who is not married or otherwise emancipated16
+36 years. On motion of any party or on the court's own motion, the court may appoint a guardian ad
+37 litem for a parent who is 16 or 17 years old and who is not married or otherwise emancipated."
+38 SECTION 4.2. G.S. 7B-1103(a) reads as rewritten:
+39 "(a) A petition or motion to terminate the parental rights of either or both parents to his,
+40 her, or their minor juvenile may only be filed by one or more of the following:
+41 …
+42 (4) Any county department of social services, consolidated county human
+43 services agency, or licensed child‑placing agency to which the juvenile has
+44 been surrendered relinquished for adoption by one of the parents or by the
+45 guardian of the person of the juvenile, pursuant to G.S. 48‑3‑701.
+46 (4a) Any county department of social services who has received a safely
+47 surrendered infant, pursuant to Article 5A of this Subchapter.
+48 …."
+49 SECTION 4.3. G.S. 7B-1112 reads as rewritten:
+50 "§ 7B-1112. Effects of termination order.
+Page 4 DRH40705-NTa-20
+
+General Assembly Of North Carolina Session 2025
+1 An order terminating the parental rights completely and permanently terminates all rights and
+2 obligations of the parent to the juvenile and of the juvenile to the parent arising from the parental
+3 relationship, except that the juvenile's right of inheritance from the juvenile's parent shall not
+4 terminate until a final order of adoption is issued. The parent is not thereafter entitled to notice
+5 of proceedings to adopt the juvenile and may not object thereto or otherwise participate therein:
+6 (1) If the juvenile had been placed in the custody of or released for adoption by
+7 one parent to a county department of social services or licensed child‑placing
+8 agency and is in the custody of the agency at the time of the filing of the
+9 petition or motion, including a petition or motion filed pursuant to
+10 G.S. 7B‑1103(a)(6), that agency shall, upon entry of the order terminating
+11 parental rights, acquire all of the rights for placement of the juvenile, except
+12 as otherwise provided in G.S. 7B‑908(d)7B-908(d1), as the agency would
+13 have acquired had the parent whose rights are terminated released the juvenile
+14 to that agency pursuant to the provisions of Part 7 of Article 3 of Chapter 48
+15 of the General Statutes, including the right to consent to the adoption of the
+16 juvenile.
+17 …."
+18
+19 PART V. UNDISCIPLINED AND DELINQUENT JUVENILES; NONSECURE
+20 CUSTODY
+21 SECTION 5.1. G.S. 7B-1905(a) reads as rewritten:
+22 "(a) A juvenile meeting the criteria set out in G.S. 7B‑1903(a), may be placed in nonsecure
+23 custody with a department of social services or a person designated in the order order. The
+24 department of social services with placement responsibility is authorized to place the juvenile for
+25 temporary residential placement in one of the following:
+26 (1) A licensed foster home or a home otherwise authorized by law to provide such
+27 care;care.
+28 (2) A facility operated by a department of social services; orservices.
+29 (2a) A facility licensed to provide care to juveniles.
+30 (3) Any other home or facility facility, such as the home of a parent, relative,
+31 nonrelative kin, or other person with legal custody of a sibling of the juvenile,
+32 approved by the court and designated in the order.
+33 The department shall not place a juvenile in any unlicensed facility or any facility that is not
+34 licensed to provide care for juveniles without the sanction of the court and so designated in the
+35 order prior to such placement being made.
+36 In placing a juvenile in nonsecure custody, the court shall first consider whether a relative of
+37 the juvenile is willing and able to provide proper care and supervision of the juvenile. If the court
+38 finds that the relative is willing and able to provide proper care and supervision, the court shall
+39 order placement of the juvenile with the relative unless the court finds that placement with the
+40 relative would be contrary to the best interest of the juvenile. Placement of a juvenile outside of
+41 this State shall be in accordance with the Interstate Compact on the Placement of Children set
+42 forth in Article 38 of this Chapter."
+43 SECTION 5.2. G.S. 7B-2001 reads as rewritten:
+44 "§ 7B-2001. Appointment of guardian.
+45 (a) In any Any time during a case when no parent, guardian, or custodian appears in a
+46 hearing with the juvenile or when the court finds it would be in the best interests of the juvenile,
+47 the court may appoint a guardian of the person for the juvenile. The court shall not appoint the
+48 department of social services as a guardian of the person for a juvenile.
+49 (b) The guardian shall operate under the supervision of the court with or without bond
+50 and shall file only such reports as the court shall require. The court shall consider whether
+51 ordering a limited guardianship would meet the needs and best interests of the juvenile. A limited
+DRH40705-NTa-20 Page 5
+
+General Assembly Of North Carolina Session 2025
+1 guardianship shall specify the powers and duties of the limited guardian over the juvenile's person
+2 while the parent, guardian, or custodian retains certain legal rights and privileges including
+3 physical custody, educational and medical decision-making, and religious upbringing. Unless the
+4 court orders a limited guardianship that specifies the duties and rights of the guardian,otherwise,
+5 the guardian:
+6 (1) Shall have the care, custody, and control of the juvenile or may arrange a
+7 suitable placement for the juvenile.
+8 (2) May represent the juvenile in legal actions before any court.
+9 (3) May consent to certain actions on the part of the juvenile in place of the parent
+10 or custodian, including (i) marriage, (ii) enlisting in the Armed Forces of the
+11 United States, and (iii) enrollment in school.
+12 (4) May consent to any necessary remedial, psychological, medical, or surgical
+13 treatment for the juvenile.
+14 (c) The authority of the guardian shall continue until the guardianship is terminated by
+15 court order, until the juvenile is emancipated pursuant to Subchapter IV of this Chapter, or until
+16 the juvenile reaches the age of majority."
+17
+18 PART VI. THIRD-PARTY BACKGROUND CHECK VENDORS
+19 SECTION 6.1. Municipalities and counties may enter contracts with third-party
+20 vendors supplying background checks to conduct background checks required pursuant to
+21 G.S. 153A-94.2(b) and G.S. 160A-164.2(b). All contracts entered pursuant to this section shall
+22 terminate on or before December 1, 2026, or when the State Bureau of Investigation request for
+23 proposal is awarded, whichever occurs later. The State Bureau of Investigation shall prescribe
+24 minimum requirements for all background checks conducted by third-party vendors.
+25
+26 PART VII. AUTOMATIC REFERRAL TO DIRECTOR FOR SEVERAL REPORTS
+27 SECTION 7.1. G.S. 7B-302(a) reads as rewritten:
+28 "(a) When a report of abuse, neglect, or dependency is received, the director of the
+29 department of social services shall make a prompt and thorough assessment, using either a family
+30 assessment response or an investigative assessment response, in order to ascertain the facts of the
+31 case, including collecting information concerning the military affiliation of the parent, guardian,
+32 custodian, or caretaker of the juvenile alleged to have been abused or neglected, the extent of the
+33 abuse or neglect, and the risk of harm to the juvenile, in order to determine whether protective
+34 services should be provided or the complaint filed as a petition. When a department has received
+35 and screened out three reports within six months or five reports within one year regarding the
+36 same juvenile or the juvenile's household, the case shall immediately be referred to the director
+37 of the department of social services. The director shall not delegate the review of the screened
+38 out reports and shall determine whether the reports require an assessment be completed and, if
+39 so, shall directed an assessment be initiated. When the report alleges abuse, the director shall
+40 immediately, but no later than 24 hours after receipt of the report, initiate the assessment. When
+41 the report alleges neglect or dependency, the director shall initiate the assessment within 72 hours
+42 following receipt of the report. When the report alleges abandonment of a juvenile or unlawful
+43 transfer of custody under G.S. 14‑321.2, the director shall immediately initiate an assessment.
+44 When the report alleges abandonment, the director shall also take appropriate steps to assume
+45 temporary custody of the juvenile, and take appropriate steps to secure an order for nonsecure
+46 custody of the juvenile. The assessment and evaluation shall include a visit to the place where
+47 the juvenile resides, except when the report alleges abuse or neglect in a child care facility as
+48 defined in Article 7 of Chapter 110 of the General Statutes. When the report alleges
+49 abandonment, the assessment shall include a request from the director to law enforcement
+50 officials to investigate through the North Carolina Center for Missing Persons and other national
+51 and State resources whether the juvenile is a missing child."
+Page 6 DRH40705-NTa-20
+
+General Assembly Of North Carolina Session 2025
+1
+2 PART VIII. MOBILE COMMUNICATIONS PLATFORM
+3 SECTION 8.1. There is appropriated from the General Fund to the Administrative
+4 Office of the Courts, Office of Indigent Services, the sum of two hundred and fifty thousand
+5 dollars ($250,000) in recurring funds beginning in the 2026-2027 fiscal year to contract with an
+6 approved vendor, no later than October 1, 2026, for the implementation of a secure, web and
+7 mobile based communications platform for abuse, neglect, and dependency proceedings, and
+8 termination of parental rights proceedings arising from those matters to ensure compliance with
+9 federal and State requirements for the following:
+10 (1) Advanced notification via automated electronic methods such as text
+11 messaging or email to all parties and their attorneys, to the persons providing
+12 care to the juvenile, and to any other person or agency designated by the court
+13 for all court hearings and for interagency team meetings initiated by the
+14 county department of social services such as permanency planning review
+15 meetings, child and family team meetings, and placement status change
+16 meetings.
+17 (2) Enhanced communication between attorneys and clients and between parties
+18 to reduce court continuances, share discovery, and reduce barriers to
+19 permanency.
+20 SECTION 8.2. The Administrative Office of the Courts, Indigent Services of NC ,
+21 the Guardian Ad Litem Program, the North Carolina Division of Social Services (DSS), and any
+22 other State or county agency or department necessary for implementation of the platform under
+23 Section 10.1 of this act shall enter into a data sharing agreement to enable the selected vendor to
+24 receive data necessary to ensure timely notification of court hearings and DSS initiated
+25 interagency team meetings to all parties and their attorneys, the person providing care for the
+26 juvenile, and any other necessary persons or agencies, and to ensure the communication platform
+27 between the attorneys and clients and between parties receives the most accurate information
+28 without redundant data entry.
+29 SECTION 8.3. Section 8.1 of this act becomes effective on July 1, 2026.
+30
+31 PART IX. INCLUSION OF EASTERN BAND OF CHEROKEE INDIANS IN CHILD
+32 ADVOCACY CENTERS
+33 SECTION 9.1. G.S. 108A-77.1 reads as rewritten:
+34 "§ 108A-77.1. Definitions.
+35 The following definitions apply in this Article:
+36 …
+37 (7) Department. – As defined in G.S. 7B-101(8a).7B-101 and the Eastern Band
+38 of Cherokee Indians Public Health and Human Services Department of
+39 Human Services.
+40 …
+41 (10) Multidisciplinary team. – A group of professionals who represent various
+42 disciplines and work collaboratively pursuant to a written protocol to share
+43 information on service provision and investigations by law enforcement or a
+44 department to inform the investigation and prosecution of child maltreatment
+45 cases and to coordinate services in response to reports made of child
+46 maltreatment. The multidisciplinary team works solely on behalf of children
+47 served by a Children's Advocacy Center. In addition to the members listed in
+48 this subdivision, a multidisciplinary team may include other professionals
+49 involved in the delivery of services to victims of child maltreatment and their
+50 appropriate caregivers. Participation in a multidisciplinary team shall not
+51 preclude any member from carrying out any mandated responsibility of his or
+DRH40705-NTa-20 Page 7
+
+General Assembly Of North Carolina Session 2025
+1 her profession. A Children's Advocacy Center's multidisciplinary team must
+2 include, at a minimum, the following professionals:
+3 a. A member of participating law enforcement agencies.
+4 b. The county district attorney or assistant district attorney. or tribal
+5 prosecutor for the Eastern Band of Cherokee Indians.
+6 c. A member of the department's child protective services unit.
+7 d. A local mental health provider.
+8 e. A local health care provider.
+9 f. A victim advocate.
+10 g. Children's Advocacy Center staff.
+11 …."
+12 SECTION 9.2. G.S. 108A-77.4(c) reads as rewritten:
+13 "(c) Disclosure of information and records outlined in subsection (b) of this section shall
+14 only be released or otherwise made available to the following:
+15 (1) The North Carolina Department of Health and Human Services and county
+16 departments.
+17 (2) Law enforcement agencies, a prosecuting district attorney, attorney, a tribal
+18 prosecutor for the Eastern Band of Cherokee Indians, or the Attorney General.
+19 (3) Health care providers or local management entity/managed care organizations
+20 providing medical or psychiatric care or services to the child, in the case of
+21 medical or mental health records.
+22 (4) The North Carolina Child Fatality Task Force.
+23 (5) As permitted under G.S. 7B-3100."
+24
+25 PART X. EFFECTIVE DATE
+26 SECTION 10.1. Except as otherwise provided, this act is effective when it becomes
+27 law.
+Page 8 DRH40705-NTa-20
+
+[DELETED:  D F ( R  T I o t C a f i t c o a a n o f p m e t j r m p t t T p n i t p a t j i t w h r t a o 1 o b e a t T T T c o o S c o p m s I]
+[DELETED:  S  D T T A T g c s c m o t r t a c T a t b a n o T j d n e t c P f j r o a d d T d t a o s n a i t i s t s o t d o a o s n a f t i t B T T W]
+[DELETED:  S  P h w 3 d f t c o t i d h t I i u t p t j s i t s h t d s m s u t d d t f v o o o A W t c d o s s h s t i A I A t d o m r e a i d u s m b m a a p p h a i m s e o s s t m e t f t p a s]
+[DELETED:  S  D T T a o t p p o p d b t c o s s o a l c a f a T T a a t a t e y o o i 7 M e a t o a p c A I A A c d o s s c c h A c d o s s w h r a s]
+[DELETED:  S  P I o m i a p o m f p t o p i G a t a w V U A D J N A o A A A A I T]
+[DELETED:  S  D t p g o r c l r a p i S M M M T s b c t c b c r p t W a r o a n o d i r t d o t i A 7 o C 1 o t G S W t r a t a s i a r f t d t l e]
+[DELETED:  S  P A n v a e m s a t a c h a f i t m i b t c a f t m a p s c E r c c s d a r b t d n t e t n o c h a D i D C  I P H a H S D o M t – A g o w r v a t c s i r t r m o c s a m t m i o p c P i a m t s n]
+[DELETED:  S  D A T c d a o a d a o t A A A A C D T L H T A]

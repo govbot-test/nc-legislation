@@ -1,0 +1,148 @@
+Title: SENATE BILL 1038
+Official Title: SENATE BILL 1038
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: Henry's Law. (Public)
+Sponsors: Senator Lee (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE DENTISTS TO REPORT ADVERSE EVENTS TO THE NORTH
+3 CAROLINA BOARD OF DENTAL EXAMINERS AND TO DIRECT THE
+4 COLLABORATORY TO CONDUCT A STUDY OF ANESTHESIA PROVIDER
+5 REQUIREMENTS AND APPROPRIATE FUNDS FOR THAT PURPOSE.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. Article 2 of Chapter 90 of the General Statutes is amended by adding
+8 a new section to read:
+9 "§ 90-30.3. Reports of adverse events.
+10 (a) A dentist who holds a permit to administer general anesthesia or sedation shall submit
+11 an adverse event report to the Board within 72 hours after each adverse event if the patient dies
+12 or has permanent organic brain dysfunction within 24 hours after the administration of general
+13 anesthesia or sedation. Sedation permit holders shall cease administration of sedation until the
+14 Board has investigated the death or permanent organic brain dysfunction and approved
+15 resumption of permit privileges. General anesthesia permit holders shall cease administration of
+16 general anesthesia and sedation until the Board has reviewed the adverse event report and
+17 approved resumption of permit privileges.
+18 (b) A dentist who holds a permit to administer general anesthesia or sedation shall submit
+19 an adverse event report to the Board within 30 days after each adverse event if the patient is
+20 admitted to a hospital on inpatient status for a medical emergency or physical injury within 24
+21 hours after the administration of general anesthesia or sedation.
+22 (c) A dentist who holds a permit to administer general anesthesia or sedation shall submit
+23 an adverse event report to the Board within 30 days after each adverse event.
+24 (d) The adverse event report shall be in writing and shall include, at a minimum, all of
+25 the following:
+26 (1) Dentist's name, license number, and permit number.
+27 (2) Date and time of the occurrence.
+28 (3) Facility where the occurrence took place.
+29 (4) Name and address of the patient.
+30 (5) Surgical procedure involved.
+31 (6) Type and dosage of sedation or anesthesia utilized in the procedure.
+32 (7) Circumstances involved in the occurrence.
+33 (8) The entire patient treatment record, including anesthesia records.
+34 (e) Upon receipt of an adverse event report under this section, the Board shall investigate
+35 and shall take disciplinary action if the evidence demonstrates that a licensee has violated this
+36 Article.
+*S1038-v-1*
+General Assembly Of North Carolina Session 2025
+1 (f) For the purposes of this section, the term "adverse event" means any of the following
+2 clinical emergencies: anaphylaxis, aspiration, cardiac arrest, or unplanned advanced airway
+3 placement."
+4 SECTION 2. The North Carolina Policy Collaboratory at the University of North
+5 Carolina at Chapel Hill shall conduct a study to evaluate whether a second health care provider
+6 who is qualified to provide anesthesia services is needed when utilizing drugs that can lead to
+7 deep sedation, such as propofol. The Collaboratory shall submit a report to the Joint Legislative
+8 Oversight Committee on Health and Human Services by April 1, 2027, with any legislative
+9 recommendations addressing this issue.
+10 SECTION 3. There is appropriated from the General Fund to the Board of Governors
+11 of The University of North Carolina to allocate to the North Carolina Policy Collaboratory at the
+12 University of North Carolina at Chapel Hill the sum of one hundred thousand dollars ($100,000)
+13 in nonrecurring funds for the 2026-2027 fiscal year to conduct the study under Section 2 of this
+14 act.
+15 SECTION 4. Section 1 of this act becomes effective October 1, 2026. Section 3 of
+16 this act becomes effective July 1, 2026. The remainder of this act is effective when it becomes
+17 law.
+Page 2 Senate Bill 1038-First Edition
+[DELETED:  1 H ( S R A A C B O D E A T D T C T C A S O A P R T S a " ( A a o a B h i t d o p o b d a a r g a a s u t B h r t a e r a a ( A a a h ( A a ( T t ( D ( D ( F ( N ( S ( T ( C ( T ( U a A]
+[DELETED:  S  S ( F c e a a c a o u a a p S C w d O r S o U i a S t l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 1038
+Short Title: Henry's Law. (Public)
+Sponsors: Senator Lee (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE DENTISTS TO REPORT ADVERSE EVENTS TO THE NORTH
+3 CAROLINA BOARD OF DENTAL EXAMINERS AND TO DIRECT THE
+4 COLLABORATORY TO CONDUCT A STUDY OF ANESTHESIA PROVIDER
+5 REQUIREMENTS AND APPROPRIATE FUNDS FOR THAT PURPOSE.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. Article 2 of Chapter 90 of the General Statutes is amended by adding
+8 a new section to read:
+9 "§ 90-30.3. Reports of adverse events.
+10 (a) A dentist who holds a permit to administer general anesthesia or sedation shall submit
+11 an adverse event report to the Board within 72 hours after each adverse event if the patient dies
+12 or has permanent organic brain dysfunction within 24 hours after the administration of general
+13 anesthesia or sedation. Sedation permit holders shall cease administration of sedation until the
+14 Board has investigated the death or permanent organic brain dysfunction and approved
+15 resumption of permit privileges. General anesthesia permit holders shall cease administration of
+16 general anesthesia and sedation until the Board has reviewed the adverse event report and
+17 approved resumption of permit privileges.
+18 (b) A dentist who holds a permit to administer general anesthesia or sedation shall submit
+19 an adverse event report to the Board within 30 days after each adverse event if the patient is
+20 admitted to a hospital on inpatient status for a medical emergency or physical injury within 24
+21 hours after the administration of general anesthesia or sedation.
+22 (c) A dentist who holds a permit to administer general anesthesia or sedation shall submit
+23 an adverse event report to the Board within 30 days after each adverse event.
+24 (d) The adverse event report shall be in writing and shall include, at a minimum, all of
+25 the following:
+26 (1) Dentist's name, license number, and permit number.
+27 (2) Date and time of the occurrence.
+28 (3) Facility where the occurrence took place.
+29 (4) Name and address of the patient.
+30 (5) Surgical procedure involved.
+31 (6) Type and dosage of sedation or anesthesia utilized in the procedure.
+32 (7) Circumstances involved in the occurrence.
+33 (8) The entire patient treatment record, including anesthesia records.
+34 (e) Upon receipt of an adverse event report under this section, the Board shall investigate
+35 and shall take disciplinary action if the evidence demonstrates that a licensee has violated this
+36 Article.
+*S1038-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (f) For the purposes of this section, the term "adverse event" means any of the following
+2 clinical emergencies: anaphylaxis, aspiration, cardiac arrest, or unplanned advanced airway
+3 placement."
+4 SECTION 2. The North Carolina Policy Collaboratory at the University of North
+5 Carolina at Chapel Hill shall conduct a study to evaluate whether a second health care provider
+6 who is qualified to provide anesthesia services is needed when utilizing drugs that can lead to
+7 deep sedation, such as propofol. The Collaboratory shall submit a report to the Joint Legislative
+8 Oversight Committee on Health and Human Services by April 1, 2027, with any legislative
+9 recommendations addressing this issue.
+10 SECTION 3. There is appropriated from the General Fund to the Board of Governors
+11 of The University of North Carolina to allocate to the North Carolina Policy Collaboratory at the
+12 University of North Carolina at Chapel Hill the sum of one hundred thousand dollars ($100,000)
+13 in nonrecurring funds for the 2026-2027 fiscal year to conduct the study under Section 2 of this
+14 act.
+15 SECTION 4. Section 1 of this act becomes effective October 1, 2026. Section 3 of
+16 this act becomes effective July 1, 2026. The remainder of this act is effective when it becomes
+17 law.
+Page 2 Senate Bill 1038-First Edition
+
+[DELETED:  1 H ( S R A A C B O D E A T D T C T C A S O A P R T S a " ( A a o a B h i t d o p o b d a a r g a a s u t B h r t a e r a a ( A a a h ( A a ( T t ( D ( D ( F ( N ( S ( T ( C ( T ( U a A]
+[DELETED:  S  S ( F c e a a c a o u a a p S C w d O r S o U i a S t l]

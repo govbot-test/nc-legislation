@@ -151,6 +151,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:49:02Z"
+    "logs_latest_update": "2026-07-14T13:49:02Z",
+    "text_extraction_latest_update": "2026-07-14T20:53:42.773181Z"
   }
 }

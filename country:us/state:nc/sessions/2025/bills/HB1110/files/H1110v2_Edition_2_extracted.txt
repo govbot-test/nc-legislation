@@ -1,0 +1,235 @@
+Title: HOUSE BILL 1110
+Official Title: HOUSE BILL 1110
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+Committee Substitute Favorable 5/19/26
+Short Title: Early Intervention School Attendance Pilot. (Public)
+Sponsors:
+Referred to:
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ESTABLISH A PILOT PROGRAM TO TEST THE USE OF DATA-DRIVEN
+3 ATTENDANCE INTERVENTION SYSTEMS TO REDUCE CHRONIC ABSENTEEISM.
+4 Whereas, chronic absenteeism in North Carolina has reached approximately 25
+5 percent of enrolled public school students, meaning one in four students misses at least 10 percent
+6 of instructional days; and
+7 Whereas, chronic absenteeism is a leading indicator of academic underperformance,
+8 increased remediation costs, and reduced graduation rates; and
+9 Whereas, early intervention and real-time attendance monitoring systems have
+10 demonstrated measurable improvements in student attendance and reductions in chronic
+11 absenteeism; and
+12 Whereas, improving attendance increases the effective utilization of the State's per
+13 pupil investment and reduces downstream costs associated with remediation, intervention
+14 services, and dropout recovery; Now, therefore,
+15 The General Assembly of North Carolina enacts:
+16 SECTION 1.(a) Purpose. – The Department of Public Instruction shall establish the
+17 Student Attendance Early Intervention Pilot Program (Program) to implement a data-driven
+18 attendance intervention system in select public schools to reduce chronic absenteeism. The
+19 Program shall prioritize implementation within a single public school unit to ensure fidelity of
+20 implementation, clear accountability, and operational efficiency. The Program shall begin with
+21 the 2026-2027 fiscal year and conclude with the 2027-2028 fiscal year.
+22 SECTION 1.(b) Selection of Schools. – All public school units may apply to
+23 participate in the Program. By September 1, 2026, the Department shall select one public school
+24 unit, and the schools within that public school unit, that will participate in the Program in
+25 accordance with the following:
+26 (1) The Program shall cover no more than 15,000 students combined across all
+27 selected schools.
+28 (2) The schools selected shall demonstrate diversity in student demographics,
+29 including socioeconomic status, geography, and school-level characteristics
+30 sufficient to support a representative pilot.
+31 (3) The Department shall prioritize selecting schools that have a chronic
+32 absenteeism rate above the State average.
+33 (4) The Department shall consider the public school unit's and schools' technical
+34 readiness, staffing capacity, and ability to meet implementation time lines,
+35 including coordination requirements necessary for successful Program
+36 deployment.
+*H1110-v-2*
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.(c) Selection of Vendor. – The Department shall select a vendor to work
+2 with the schools in the Program. The vendor shall offer, within a unified, purpose-built, scalable
+3 platform, a research-proven attendance intervention solution, including tiered evidence-based
+4 workflows, automated bidirectional family engagement, longitudinal documentation of outreach
+5 and supports, and statewide reporting and monitoring across selected schools. The Department
+6 shall select a participating vendor by September 15, 2026.
+7 SECTION 1.(d) Implementation Requirements. – Program implementation shall
+8 align with the technical architecture of the selected solution, including integration with a single
+9 student information system (SIS) in the participating public school unit. The selected public
+10 school unit and schools shall work with the selected vendor to implement the Program beginning
+11 no later than January 1, 2027. To implement the Program, the selected public school unit, schools,
+12 and vendor shall work together to do all of the following:
+13 (1) Designate a local program coordinator.
+14 (2) Implement an attendance system that includes all of the following:
+15 a. Real-time attendance monitoring and early warning indicators.
+16 b. Automated, two-way communication with families, including
+17 multilingual capability.
+18 c. Intervention protocols aligned with a multitiered system of supports
+19 (MTSS), including intervention workflows for at-risk students.
+20 d. Data dashboards for educators and administrators.
+21 e. Documentation and compliance tracking aligned with State attendance
+22 policies.
+23 f. Safeguards for data privacy in compliance with State and federal laws.
+24 (3) Provide training to staff on system usage and intervention strategies.
+25 SECTION 1.(e) Funding. – There is appropriated from the General Fund to the
+26 Department of Public Instruction the sum of seventy-five thousand dollars ($75,000) in
+27 nonrecurring funds for the 2026-2027 fiscal year to implement the Student Attendance Early
+28 Intervention Pilot Program, as authorized by this act. The Department may either contract with a
+29 selected vendor to provide services to the selected public school unit or allocate funds to the
+30 selected public school unit for that unit or schools in the unit to contract with the selected vendor.
+31 Funds appropriated by this act shall not revert at the end of the 2026-2027 fiscal year but instead
+32 shall remain available until June 30, 2028. The Department and the selected public school unit
+33 may supplement State funds for the Program with eligible federal or philanthropic funding
+34 streams.
+35 SECTION 1.(f) Use of Funds. – Funds appropriated for the Program may be used
+36 for any of the following purposes:
+37 (1) Technology acquisition and licensing.
+38 (2) Implementation and integration services.
+39 (3) Training and professional development.
+40 (4) Program administration and evaluation.
+41 SECTION 1.(g) School Reporting. – Reporting shall be conducted at the public
+42 school unit and school level, and the Department shall aggregate results across participating
+43 schools for evaluation purposes. A single, statewide data instance across multiple student
+44 information systems shall not be required.
+45 SECTION 1.(h) Reporting. – No later than February 1, 2028, the Department shall
+46 report to the Joint Legislative Education Oversight Committee on the following:
+47 (1) Measurable reductions in chronic absenteeism due to the Program.
+48 (2) Improved student engagement and attendance consistency while participating
+49 in the Program.
+50 (3) Operational efficiencies provided by the Program for school staff.
+Page 2 House Bill 1110-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (4) Any recommendations on statewide expansion of the Program, long-term
+2 funding strategies, and integrating statewide data systems and longitudinal
+3 data initiatives into the Program.
+4 (5) Any other information the Department feels relevant to evaluating the
+5 effectiveness of the Program.
+6 SECTION 2. This act becomes effective July 1, 2026.
+House Bill 1110-Second Edition Page 3
+[DELETED:  2 E (   A A A W c a i N C h r a 2 p o W i W e i a r a m s h d m i i s a a r i c a W p i a r d c a w r i s T S S A E I P P ( t i a d a i s i s p s t r c a T P i t S 1  S o S – A p s u m a t p u a t s w t p s u t w p i t P i a ( T s ( T s s s d d i s d i s ( T D s p s s t h a c a ( T r i c r n f s P d]
+[DELETED:  S  H S w p w a s S a s s n a ( D ( I a R b A t c w f i m c I ( d D e D p f S ( P S D o P I t s o s t d ( i n I s s F s m s S f f t P w e f o p f s S f ( T ( I ( T ( P S s s f e p A s s d i a m s i S r ( M ( I i ( O]
+[DELETED:  S  P ( A r o s e o t P l f d ( A o i t D f r t e t e S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 1110
+Committee Substitute Favorable 5/19/26
+Short Title: Early Intervention School Attendance Pilot. (Public)
+Sponsors:
+Referred to:
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ESTABLISH A PILOT PROGRAM TO TEST THE USE OF DATA-DRIVEN
+3 ATTENDANCE INTERVENTION SYSTEMS TO REDUCE CHRONIC ABSENTEEISM.
+4 Whereas, chronic absenteeism in North Carolina has reached approximately 25
+5 percent of enrolled public school students, meaning one in four students misses at least 10 percent
+6 of instructional days; and
+7 Whereas, chronic absenteeism is a leading indicator of academic underperformance,
+8 increased remediation costs, and reduced graduation rates; and
+9 Whereas, early intervention and real-time attendance monitoring systems have
+10 demonstrated measurable improvements in student attendance and reductions in chronic
+11 absenteeism; and
+12 Whereas, improving attendance increases the effective utilization of the State's per
+13 pupil investment and reduces downstream costs associated with remediation, intervention
+14 services, and dropout recovery; Now, therefore,
+15 The General Assembly of North Carolina enacts:
+16 SECTION 1.(a) Purpose. – The Department of Public Instruction shall establish the
+17 Student Attendance Early Intervention Pilot Program (Program) to implement a data-driven
+18 attendance intervention system in select public schools to reduce chronic absenteeism. The
+19 Program shall prioritize implementation within a single public school unit to ensure fidelity of
+20 implementation, clear accountability, and operational efficiency. The Program shall begin with
+21 the 2026-2027 fiscal year and conclude with the 2027-2028 fiscal year.
+22 SECTION 1.(b) Selection of Schools. – All public school units may apply to
+23 participate in the Program. By September 1, 2026, the Department shall select one public school
+24 unit, and the schools within that public school unit, that will participate in the Program in
+25 accordance with the following:
+26 (1) The Program shall cover no more than 15,000 students combined across all
+27 selected schools.
+28 (2) The schools selected shall demonstrate diversity in student demographics,
+29 including socioeconomic status, geography, and school-level characteristics
+30 sufficient to support a representative pilot.
+31 (3) The Department shall prioritize selecting schools that have a chronic
+32 absenteeism rate above the State average.
+33 (4) The Department shall consider the public school unit's and schools' technical
+34 readiness, staffing capacity, and ability to meet implementation time lines,
+35 including coordination requirements necessary for successful Program
+36 deployment.
+*H1110-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.(c) Selection of Vendor. – The Department shall select a vendor to work
+2 with the schools in the Program. The vendor shall offer, within a unified, purpose-built, scalable
+3 platform, a research-proven attendance intervention solution, including tiered evidence-based
+4 workflows, automated bidirectional family engagement, longitudinal documentation of outreach
+5 and supports, and statewide reporting and monitoring across selected schools. The Department
+6 shall select a participating vendor by September 15, 2026.
+7 SECTION 1.(d) Implementation Requirements. – Program implementation shall
+8 align with the technical architecture of the selected solution, including integration with a single
+9 student information system (SIS) in the participating public school unit. The selected public
+10 school unit and schools shall work with the selected vendor to implement the Program beginning
+11 no later than January 1, 2027. To implement the Program, the selected public school unit, schools,
+12 and vendor shall work together to do all of the following:
+13 (1) Designate a local program coordinator.
+14 (2) Implement an attendance system that includes all of the following:
+15 a. Real-time attendance monitoring and early warning indicators.
+16 b. Automated, two-way communication with families, including
+17 multilingual capability.
+18 c. Intervention protocols aligned with a multitiered system of supports
+19 (MTSS), including intervention workflows for at-risk students.
+20 d. Data dashboards for educators and administrators.
+21 e. Documentation and compliance tracking aligned with State attendance
+22 policies.
+23 f. Safeguards for data privacy in compliance with State and federal laws.
+24 (3) Provide training to staff on system usage and intervention strategies.
+25 SECTION 1.(e) Funding. – There is appropriated from the General Fund to the
+26 Department of Public Instruction the sum of seventy-five thousand dollars ($75,000) in
+27 nonrecurring funds for the 2026-2027 fiscal year to implement the Student Attendance Early
+28 Intervention Pilot Program, as authorized by this act. The Department may either contract with a
+29 selected vendor to provide services to the selected public school unit or allocate funds to the
+30 selected public school unit for that unit or schools in the unit to contract with the selected vendor.
+31 Funds appropriated by this act shall not revert at the end of the 2026-2027 fiscal year but instead
+32 shall remain available until June 30, 2028. The Department and the selected public school unit
+33 may supplement State funds for the Program with eligible federal or philanthropic funding
+34 streams.
+35 SECTION 1.(f) Use of Funds. – Funds appropriated for the Program may be used
+36 for any of the following purposes:
+37 (1) Technology acquisition and licensing.
+38 (2) Implementation and integration services.
+39 (3) Training and professional development.
+40 (4) Program administration and evaluation.
+41 SECTION 1.(g) School Reporting. – Reporting shall be conducted at the public
+42 school unit and school level, and the Department shall aggregate results across participating
+43 schools for evaluation purposes. A single, statewide data instance across multiple student
+44 information systems shall not be required.
+45 SECTION 1.(h) Reporting. – No later than February 1, 2028, the Department shall
+46 report to the Joint Legislative Education Oversight Committee on the following:
+47 (1) Measurable reductions in chronic absenteeism due to the Program.
+48 (2) Improved student engagement and attendance consistency while participating
+49 in the Program.
+50 (3) Operational efficiencies provided by the Program for school staff.
+Page 2 House Bill 1110-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (4) Any recommendations on statewide expansion of the Program, long-term
+2 funding strategies, and integrating statewide data systems and longitudinal
+3 data initiatives into the Program.
+4 (5) Any other information the Department feels relevant to evaluating the
+5 effectiveness of the Program.
+6 SECTION 2. This act becomes effective July 1, 2026.
+House Bill 1110-Second Edition Page 3
+
+[DELETED:  2 E (   A A A W c a i N C h r a 2 p o W i W e i a r a m s h d m i i s a a r i c a W p i a r d c a w r i s T S S A E I P P ( t i a d a i s i s p s t r c a T P i t S 1  S o S – A p s u m a t p u a t s w t p s u t w p i t P i a ( T s ( T s s s d d i s d i s ( T D s p s s t h a c a ( T r i c r n f s P d]
+[DELETED:  S  H S w p w a s S a s s n a ( D ( I a R b A t c w f i m c I ( d D e D p f S ( P S D o P I t s o s t d ( i n I s s F s m s S f f t P w e f o p f s S f ( T ( I ( T ( P S s s f e p A s s d i a m s i S r ( M ( I i ( O]
+[DELETED:  S  P ( A r o s e o t P l f d ( A o i t D f r t e t e S]

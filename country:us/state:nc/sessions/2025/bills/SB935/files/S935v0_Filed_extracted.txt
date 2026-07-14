@@ -1,0 +1,75 @@
+Title: SENATE BILL DRS45503-NQa-45
+Official Title: SENATE BILL DRS45503-NQa-45
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Apr 29, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 935
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: Increase Number of Magistrates/Mecklenburg. (Public)
+Sponsors: Senator Mohammed (Primary Sponsor).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO INCREASE THE NUMBER OF MAGISTRATES SERVING IN
+3 MECKLENBURG COUNTY.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 7A-133(c) reads as rewritten:
+6 "(c) Each county shall have the numbers of magistrates and additional seats of district
+7 court, as set forth in the following table:
+8 Magistrates Additional
+9 County Min. Seats of Court
+10 …
+11 Mecklenburg 38.543.5
+12 …."
+13 SECTION 2. There is appropriated from the General Fund to the Administrative
+14 Office of the Courts the sum of two hundred thirty-six thousand one hundred forty dollars
+15 ($236,140) in recurring funds beginning in the 2026-2027 fiscal year to be used to hire five
+16 additional magistrates to serve in Mecklenburg County pursuant to Section 1 of this act.
+17 SECTION 3. This act becomes effective July 1, 2026.
+*DRS45503-NQa-45*
+[DELETED:  D I ( S  A T I T N O M S I E A M S 3 o t C t s o t h t t o h f d]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Apr 29, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 935
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS45503-NQa-45
+Short Title: Increase Number of Magistrates/Mecklenburg. (Public)
+Sponsors: Senator Mohammed (Primary Sponsor).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO INCREASE THE NUMBER OF MAGISTRATES SERVING IN
+3 MECKLENBURG COUNTY.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 7A-133(c) reads as rewritten:
+6 "(c) Each county shall have the numbers of magistrates and additional seats of district
+7 court, as set forth in the following table:
+8 Magistrates Additional
+9 County Min. Seats of Court
+10 …
+11 Mecklenburg 38.543.5
+12 …."
+13 SECTION 2. There is appropriated from the General Fund to the Administrative
+14 Office of the Courts the sum of two hundred thirty-six thousand one hundred forty dollars
+15 ($236,140) in recurring funds beginning in the 2026-2027 fiscal year to be used to hire five
+16 additional magistrates to serve in Mecklenburg County pursuant to Section 1 of this act.
+17 SECTION 3. This act becomes effective July 1, 2026.
+*DRS45503-NQa-45*
+
+[DELETED:  D I ( S  A T I T N O M S I E A M S 3 o t C t s o t h t t o h f d]

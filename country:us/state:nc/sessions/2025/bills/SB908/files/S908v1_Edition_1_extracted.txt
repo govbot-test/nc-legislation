@@ -1,0 +1,931 @@
+Title: SENATE BILL 908
+Official Title: SENATE BILL 908
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: Janell Green Smith Maternal Health Acc. Act. (Public)
+Sponsors: Senators Murdock, Salvador, and Waddell (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO RECOGNIZE MATERNAL HEALTH INITIATIVES AND TO SUPPORT AND
+3 EXPAND LICENSURE AND RECOGNITION OF MIDWIVES.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1.(a) Chapter 90 of the General Statutes is amended by adding a new
+6 Article to read:
+7 "Article 10B.
+8 "Maternal Health Accountability Act.
+9 "§ 90-178.10. Short title.
+10 This Article shall be cited and known as the "Dr. Janell Green Smith, DNP, CNM, Maternal
+11 Health Accountability Act."
+12 "§ 90-178.11. Legislative findings; intent.
+13 (a) Findings. – The General Assembly makes the following findings:
+14 (1) North Carolina continues to experience unacceptable rates of maternal
+15 mortality and severe maternal morbidity, with disproportionate impact on
+16 Black, Indigenous, rural, and low-income communities.
+17 (2) The American College of Nurse-Midwives (ACNM) and the National
+18 Association of Certified Professional Midwives (NACPM) recognize
+19 Certified Nurse Midwives (CNMs), Certified Midwives (CMs), and Certified
+20 Professional Midwives (CPMs) as essential providers in a safe,
+21 evidence-based, and equitable maternal health system.
+22 (3) National clinical standards and peer-reviewed evidence demonstrate that
+23 midwifery care, when licensed, regulated, and integrated across birth settings,
+24 improves continuity of care, patient satisfaction, and maternal and neonatal
+25 outcomes.
+26 (4) States in the southeastern United States, including South Carolina and
+27 Virginia, have enacted laws to do all of the following:
+28 a. Formally integrate midwives into perinatal levels of care systems.
+29 b. License and regulate Certified Professional Midwives using national
+30 standards.
+31 c. Prohibit physician supervision or contractual gatekeeping
+32 requirements.
+33 d. Require equitable reimbursement for midwives providing covered
+34 maternity services.
+35 (5) Virginia law expressly provides for autonomous midwifery practice and
+36 reimbursement parity for licensed midwives, while South Carolina law
+*S908-v-1*
+General Assembly Of North Carolina Session 2025
+1 requires the integration of midwives and community birth into statewide
+2 perinatal care planning, without restricting scope of practice or requiring
+3 hospital privileges.
+4 (6) A maternal health system that excludes community‑based providers, fails to
+5 ensure accountability for hospital practices, or relies on uncompensated
+6 perinatal labor undermines patient safety and worsens disparities.
+7 (b) Intent. – It is the intent of the General Assembly to establish a comprehensive
+8 maternal health accountability framework that promotes safety, transparency, workforce
+9 sustainability, informed consent, and equitable access to care, while honoring the legacy of Dr.
+10 Janell Green Smith, whose leadership advanced patient-centered maternity care and system
+11 accountability.
+12 "§ 90-178.12. Core principles.
+13 North Carolina's maternal health system shall be governed by the following principles:
+14 (1) Maternal health systems shall be accountable for patient safety, respectful
+15 care, and measurable outcomes.
+16 (2) Pregnant and postpartum individuals and their families shall have clear,
+17 accessible pathways for reporting harm and obtaining timely support.
+18 (3) Certified Nurse Midwives, Certified Midwives, and Certified Professional
+19 Midwives are essential maternal health providers and must be recognized,
+20 regulated, and supported across all birth settings.
+21 (4) Community-based organizations, including midwifery practices and doula
+22 organizations, constitute essential public health infrastructure.
+23 (5) The maternal health workforce shall be sustainable, accessible, and fairly
+24 compensated.
+25 (6) Licensed midwifery care across hospital and community settings improves
+26 continuity of care, safety, and birth outcomes.
+27 "§ 90-178.13. Definitions.
+28 The following definitions apply in this Article:
+29 (1) CM. – Certified Midwife licensed under Article 10C of this Chapter.
+30 (2) CNM. – Certified Nurse Midwife licensed under Article 10A of this Chapter.
+31 (3) CPM. – Certified Professional Midwife licensed under Article 10C of this
+32 Chapter.
+33 (4) Department. – The Department of Health and Human Services.
+34 (5) Hospital. – As defined in G.S. 131E-214.1.
+35 (6) Perinatal health care provider. – A licensee under this Article and Articles 10A
+36 and 10C of this Chapter.
+37 "§ 90-178.14. Hospital accountability and safe discharge.
+38 Hospitals providing maternal or emergency obstetric services shall do all of the following:
+39 (1) Implement and maintain a safe labor discharge plan prior to the discharge of
+40 any individual presenting in labor.
+41 (2) Adopt and maintain standardized maternal clinical escalation and emergency
+42 response protocols.
+43 (3) Require annual training in respectful maternity care and implicit bias for
+44 obstetric, emergency, and nursing staff.
+45 (4) Maintain formal collaboration and transfer agreements with licensed CNMs,
+46 CMs, and CPMs to ensure timely, respectful, and safe transitions of care from
+47 community‑based to hospital settings.
+48 (5) Prohibit denial or delay of care based solely on provider type or planned birth
+49 setting.
+Page 2 Senate Bill 908-First Edition
+General Assembly Of North Carolina Session 2025
+1 (6) Allow perinatal health care providers in birthing rooms as part of the care team
+2 and not counted as a member of the family, including in the event that a birth
+3 moves from home care to hospital care.
+4 "§ 90-178.15. Reporting requirements; oversight.
+5 (a) Departmental Reporting Requirement. – On August 1 of each year, hospitals and all
+6 perinatal health care providers shall annually report to the Department of Health and Human
+7 Services all of the following:
+8 (1) Maternal mortality.
+9 (2) Severe maternal morbidity.
+10 (3) Emergency postpartum readmissions.
+11 (4) Discharges during active labor.
+12 (5) Cesarean delivery rates.
+13 (6) Labor induction rates.
+14 (7) Neonatal intensive care unit admissions.
+15 (8) Transfers between community-based and hospital-based care.
+16 (b) Data. – All data compiled for the reports under this section shall be disaggregated by
+17 race, ethnicity, payer, geography, and provider type. All reports under this section shall be made
+18 available for public access on the Department's website.
+19 (c) Oversight. – The Department is required to do all of the following:
+20 (1) Conduct compliance audits.
+21 (2) Require corrective action plans if a hospital covered under this Article is found
+22 to not be in compliance.
+23 (3) Provide technical assistance to hospitals and perinatal health care providers to
+24 comply with the provisions of this Article.
+25 (4) Evaluate outcomes across all birth settings, including community-based
+26 midwifery care, consistent with perinatal integration models adopted in peer
+27 states.
+28 (d) Annual Report. – The Department shall annually submit a report containing (i) the
+29 data collected under subsection (a) of this section and (ii) the outcomes under subdivision (c)(4)
+30 of this section to the Joint Legislative Health and Human Services Oversight Committee by
+31 October 1 of each year.
+32 "§ 90-178.16. Patient advocacy and accountability.
+33 (a) System. – The Department shall establish a statewide maternal health reporting and
+34 navigation system to provide all of the following:
+35 (1) Assistance with the hospital grievance process under the North Carolina
+36 Medical Board or the Division of Health Service Regulation.
+37 (2) Referrals to legal resources.
+38 (3) Referrals to relevant occupational and State agency licensing boards.
+39 (4) Referrals to community health workers.
+40 (5) Access to trauma-informed and perinatal mental health services.
+41 (b) Funding. – The Department shall provide any available funds, if practicable, to
+42 community-based organizations to provide the services listed in subsection (a) of this section.
+43 "§ 90-178.17. Transfers.
+44 Hospitals and perinatal health care providers shall participate and collaborate in standardized
+45 transfer protocols that prioritize patient safety and continuity of care while preserving
+46 professional autonomy, consistent with national standards of practice and peer state models for
+47 those providers.
+48 "§ 90-178.18. Midwifery education and community infrastructure.
+49 (a) Infrastructure Support. – The State, through this Article, shall support all of the
+50 following:
+51 (1) Midwifery education and apprenticeship pathways.
+Senate Bill 908-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (2) Scholarships and stipends for perinatal health care providers.
+2 (3) Continuing education and workforce development.
+3 (b) Funding. – The Department shall provide any available funds, if practicable, to
+4 community-based organizations and birth centers to provide the services listed in subsection (a)
+5 of this section and care coordination, billing and compliance, and workforce supervision.
+6 "§ 90-178.19. Doula workforce sustainability.
+7 The State recognizes doulas as essential members of the maternal health workforce and shall
+8 (i) establish fair reimbursement and prompt payment standards, (ii) fund doula support hubs and
+9 mentorship programs, (iii) provide operational grants to maternal health community-based
+10 organizations, and (iv) conduct regional workforce assessments. Doula labor shall not be
+11 premised upon unpaid or volunteer models."
+12 SECTION 1.(b) G.S. 58-3-170 reads as rewritten:
+13 "§ 58-3-170. Requirements for maternity coverage.
+14 …
+15 (c) A health benefit plan that provides coverage for any maternity care provided by a
+16 Certified Nurse Midwife licensed under Article 10A of Chapter 90 of the General Statutes shall
+17 reimburse at the same rate, subject to the same coverage terms, equivalent services provided by
+18 a perinatal health care provider licensed under Article 10C of Chapter 90 of the General Statutes
+19 and subject to Article 10B of Chapter 90 of the General Statutes."
+20 SECTION 1.(c) Subsection (b) of this section is effective October 1, 2026, and
+21 applies to insurance contracts entered into, renewed, or amended on or after that date.
+22 SECTION 1.(d) Reimbursement Parity for Medicaid. – The Department of Health
+23 and Human Services, Division of Health Benefits (DHB), shall take all necessary actions,
+24 including any changes to applicable clinical coverage policies, to ensure that Medicaid maternity
+25 care services provided by a Certified Nurse Midwife licensed under Article 10A of Chapter 90
+26 of the General Statutes are reimbursed at the same rate and subject to the same coverage terms
+27 as equivalent Medicaid maternity care services provided by a perinatal health care provider
+28 licensed under Article 10C of Chapter 90 of the General Statutes, as enacted by Section 2 of this
+29 act.
+30 SECTION 1.(e) Subsection (d) of this section is effective October 1, 2026.
+31 SECTION 2. Chapter 90 of the General Statutes is amended by adding a new Article
+32 to read:
+33 "Article 10C.
+34 "Certified Professional Midwives and Certified Midwives.
+35 "§ 90-178.25. Title.
+36 This Article may be cited as the "Accessing Midwives Act."
+37 "§ 90-178.26. Definitions.
+38 The following definitions apply in this Article:
+39 (1) Antepartal. – Occurring during pregnancy.
+40 (2) Certified Midwife (CM). – A person who has obtained national certification
+41 from the American Midwifery Certification Board (AMCB).
+42 (3) Certified Professional Midwife (CPM). – A person who has obtained national
+43 certification from the North American Registry of Midwives (NARM).
+44 (4) Collaboration. – The process by which a Certified Professional Midwife and
+45 a physician or other appropriate health care provider jointly manage the care
+46 of a client, as defined by Council rule.
+47 (5) Consultation. – The exchange of information and advice regarding the client's
+48 condition and indicated treatment with a licensed physician or Certified Nurse
+49 Midwife.
+50 (6) Council. – The North Carolina Council of Certified Professional Midwives, a
+51 subcommittee of the Division of Health Service Regulation.
+Page 4 Senate Bill 908-First Edition
+General Assembly Of North Carolina Session 2025
+1 (7) Department. – The North Carolina Department of Health and Human
+2 Services.
+3 (8) Division. – The Division of Health Service Regulation within the Department
+4 of Health and Human Services to which the North Carolina Council of
+5 Certified Professional Midwives reports.
+6 (9) Health care provider. – As defined in G.S. 90-21.11.
+7 (10) ICM. – The International Confederation of Midwives.
+8 (11) Intrapartal. – Occurring during the process of giving birth.
+9 (12) Licensed physician. – A physician duly licensed in this State to practice
+10 medicine under Article 1 of this Chapter.
+11 (13) Licensee. – A Certified Professional Midwife who holds the CPM credential
+12 or a Certified Midwife who holds the CM credential and is licensed to practice
+13 midwifery under this Article.
+14 (14) Midwifery. – The provision of primary health or maternity care to
+15 childbearing people and infants.
+16 (15) NACPM. – The National Association of Certified Professional Midwives.
+17 (16) NARM. – The North American Registry of Midwives.
+18 (17) Postpartal. – Occurring subsequent to birth.
+19 "§ 90-178.27. License required; exemptions.
+20 (a) No person shall practice or offer to practice midwifery, as defined in this Article, or
+21 otherwise indicate or imply that the person is a licensed Certified Professional Midwife or
+22 Certified Midwife unless the person is currently licensed as provided in this Article.
+23 (b) The provisions of this Article do not apply to any of the following:
+24 (1) An individual approved to practice as a Certified Nurse Midwife under Article
+25 10A of this Chapter.
+26 (2) A physician licensed to practice medicine under Article 1 of this Chapter when
+27 engaged in the practice of medicine as defined by law.
+28 (3) The performance of medical acts by a physician assistant or nurse practitioner
+29 when performed in accordance with the rules of the North Carolina Board of
+30 Nursing and the North Carolina Medical Board.
+31 (4) The practice of nursing by a registered nurse engaged in the practice of nursing
+32 under Article 9A of this Chapter.
+33 (5) The rendering of childbirth assistance in an emergency situation.
+34 "§ 90-178.28. The North Carolina Council of Certified Professional Midwives.
+35 (a) Composition and Terms. – The North Carolina Council of Certified Professional
+36 Midwives is created. The Council shall consist of seven members who shall serve staggered
+37 terms. The Council members shall be appointed by the Secretary of the Department of Health
+38 and Human Services, and the initial Council members shall be appointed on or before October 1,
+39 2026, or within three months of this Article becoming law, whichever is later, as follows:
+40 (1) Four Certified Professional Midwives or Certified Midwives, one of whom
+41 shall serve for a term of four years, two of whom shall serve for terms of three
+42 years, and one of whom shall serve for a term of two years.
+43 (2) One licensed physician who is knowledgeable in midwifery care who shall
+44 serve for a term of four years.
+45 (3) Two community birth consumers who shall serve for a term of two years.
+46 Upon the expiration of the terms of the initial Council members, members shall be appointed
+47 for terms of four years and shall serve until their successors are appointed. No member may serve
+48 more than two consecutive terms.
+49 (b) Qualifications. – Each Council member shall be a resident of this State. The members
+50 who are Certified Professional Midwives or Certified Midwives shall hold current licenses from
+51 the Council and remain in good standing with the Council during their terms.
+Senate Bill 908-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (c) Vacancies. – Any vacancy shall be filled by the Secretary of the Department of Health
+2 and Human Services. Appointees to fill vacancies shall serve the remainder of the unexpired term
+3 and until their successors have been duly appointed.
+4 (d) Removal. – The Council may remove any of its members for neglect of duty,
+5 incompetence, or unprofessional conduct. If a Council member is absent from three consecutive
+6 Council meetings without excuse, that member shall be removed from office and a new member
+7 shall be appointed by the Secretary of the Department of Health and Human Services. An absence
+8 shall be deemed excused if caused (i) by a health problem or condition verified in writing by a
+9 licensed health care provider or (ii) by an accident or similar unforeseeable tragedy or event, on
+10 or before the next Council meeting. A member subject to disciplinary proceedings in the
+11 member's capacity as a health care provider shall be disqualified from participating in the official
+12 business of the Council until the charges have been resolved.
+13 (e) Compensation. – Each member of the Council shall receive per diem and
+14 reimbursement for travel and subsistence as provided in G.S. 93B-5.
+15 (f) Officers. – The officers of the Council shall be a chair, a vice-chair, and other officers
+16 deemed necessary by the Council to carry out the purposes of this Article. All officers shall be
+17 elected annually by the Council for two-year terms and shall serve until their successors are
+18 elected and qualified. No person may serve as chair for more than six consecutive years.
+19 (g) Meetings. – The Council shall hold its first meeting within 45 days after the
+20 appointment of its members and shall hold at least two meetings each year to conduct business
+21 and to review the standards and rules previously adopted by the Council. The Council shall
+22 establish the procedures for calling, holding, and conducting regular and special meetings. A
+23 majority of Council members shall constitute a quorum. The Council shall hold such meetings
+24 during the year as it deems necessary, one of which shall be an annual meeting. The Department,
+25 the chairperson, or a majority of the Council shall have the authority to call additional meetings.
+26 (h) Notice of Meeting; Records. – Public notice shall be given for all meetings, and all
+27 meetings are open to the public. All records are available to the public. Persons wishing to obtain
+28 copies of records may request copies, in writing, from the Council.
+29 (i) Rulemaking. – The Council shall adopt rules within one year of the initial meeting to
+30 implement the provisions of this Article.
+31 "§ 90-178.29. Powers and duties of the Council.
+32 In consultation with the Division and with guidance from the National Association of
+33 Certified Professional Midwives Standards of Practice and standards of practice adopted by the
+34 Council for Certified Midwives, the Council shall have the following powers and duties:
+35 (1) Administer this Article.
+36 (2) Issue interpretations of this Article.
+37 (3) Adopt, amend, or repeal rules as may be necessary to carry out the provisions
+38 of this Article, including rules relating to the administration of medications
+39 consistent with a Certified Professional Midwife's or Certified Midwife's
+40 training and scope of practice.
+41 (4) Verify the credentials and qualifications of applicants for licensure, license
+42 renewal, and reciprocal licensure.
+43 (5) Issue, renew, deny, suspend, or revoke licensure and carry out any disciplinary
+44 actions authorized by this Article.
+45 (6) Set fees for licensure, license renewal, and other services deemed necessary
+46 to carry out the purposes of this Article, not to exceed five hundred dollars
+47 ($500.00) over a two-year period.
+48 (7) Maintain a current list of all persons who have been licensed as Certified
+49 Professional Midwives or Certified Midwives under this Article and, using a
+50 statistically validated data collection tool, collect and review annual practice
+51 reports.
+Page 6 Senate Bill 908-First Edition
+General Assembly Of North Carolina Session 2025
+1 (8) Address problems and concerns of Certified Professional Midwives or
+2 Certified Midwives in order to promote safety for the citizens of this State.
+3 (9) Conduct investigations for the purpose of determining whether violations of
+4 this Article or grounds for disciplining Certified Professional Midwives or
+5 Certified Midwives exist.
+6 (10) Maintain a record of all proceedings and make available to all Certified
+7 Professional Midwives and Certified Midwives and other concerned parties
+8 an annual report of all Council action.
+9 (11) Adopt a seal containing the name of the Council for use on all official
+10 documents and reports issued by the Council.
+11 (12) Educate the public and other providers of maternity care about the role of the
+12 Certified Professional Midwives and Certified Midwives.
+13 "§ 90-178.30. Requirements for licensure.
+14 An applicant shall be licensed to practice as a Certified Professional Midwife or Certified
+15 Midwife under this Article if the applicant meets all of the following requirements:
+16 (1) Completes an application on a form approved by the Council.
+17 (2) Has completed all required educational and clinical training, including
+18 education in emergency skills for pregnancy, birth, and newborn care and
+19 other midwifery topics addressing all ICM Core Competencies, as determined
+20 by NACPM or NARM, and has earned the national Certified Professional
+21 Midwife certification credential awarded by a national midwifery certification
+22 agency accredited by the National Commission on Certifying Agencies
+23 (NCCA), the accrediting body of the Institute of Credentialing Excellence.
+24 (3) Submits proof to the Council of current cardiopulmonary resuscitation (CPR)
+25 certification and neonatal resuscitation program (NRP) certification.
+26 (4) Has read, understands, and agrees to practice under the guidelines set forth in
+27 this Article and any rules adopted pursuant to this Article.
+28 (5) Pays the required fees in accordance with G.S. 90-178.34.
+29 "§ 90-178.31. Responsibilities of a Certified Professional Midwife; display of license.
+30 (a) A Certified Professional Midwife or Certified Midwife licensed under this Article
+31 shall practice according to the National Association of Certified Professional Midwives
+32 (NACPM) Standards of Practice or the standards of practice adopted by the Council for Certified
+33 Midwives, as applicable, and shall have the following responsibilities:
+34 (1) Provide care for the healthy client who is expected to have a normal
+35 pregnancy, labor, birth, and postpartal phase in the setting of their choice.
+36 (2) Ensure that the client has signed an informed consent form. This form shall
+37 include information to inform the client of the qualifications of the licensee
+38 and the process of shared decision making and refusal.
+39 (3) Order routine antepartal or postpartal screening or laboratory analysis to be
+40 performed by a licensed laboratory or testing facility, when necessary.
+41 (4) Develop an emergency plan in collaboration with the client that shall include
+42 transfer plans for the client in the event of an emergency.
+43 (5) Determine the progress of labor, monitor fetal and maternal status, and when
+44 labor is well-established, be available until delivery is accomplished.
+45 (6) Remain with the mother during the postpartal period until the conditions of
+46 the mother and newborn are stabilized.
+47 (7) Instruct the parents regarding the requirements of all State-required newborn
+48 screening.
+49 (8) Submit and maintain a birth certificate of live birth in accordance with the
+50 requirements of Article 4 of Chapter 130A of the General Statutes.
+Senate Bill 908-First Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 (9) Practice in compliance with the requirements of this Article and any rules
+2 adopted pursuant to this Article.
+3 (b) A licensee licensed pursuant to this Article shall display the license at all times in a
+4 conspicuous place where the licensee is practicing, when applicable.
+5 "§ 90-178.32. License renewal; inactive status; lapsed license.
+6 (a) An initial license to practice shall be valid for two years. After the initial license
+7 expires, a license shall be renewed every two years. All applications for renewal shall be filed
+8 with the Council and shall be accompanied by the renewal fee in accordance with G.S. 90-178.34
+9 and proof of current certification from NARM. Compliance with NARM recertification
+10 requirements shall include (i) remaining in good standing with NARM, (ii) maintaining current
+11 cardiopulmonary resuscitation (CPR) and neonatal resuscitation program (NRP) certifications,
+12 and (iii) completing any continuing education requirements.
+13 (b) A license that has expired for failure to renew may be reinstated after the applicant
+14 pays any late and renewal fees as required by G.S. 90-178.34 and complies with any other rules
+15 adopted pursuant to this Article.
+16 (c) Upon written request to the Council, the Council may grant a Certified Professional
+17 Midwife or Certified Midwife inactive status. While inactive, the licensee shall not practice
+18 midwifery in this State and shall not be subject to license renewal requirements established by
+19 the Council. A licensee may change the licensee's status from inactive to active by (i) submitting
+20 a written request to the Council and (ii) fulfilling the requirements for renewal described under
+21 subsection (a) of this section.
+22 (d) A licensee who does not seek inactive status and allows the license to expire after a
+23 90-day grace period shall apply for a new license as prescribed in this Article.
+24 "§ 90-178.33. Reciprocity.
+25 The Council may, upon application and payment of proper fees, grant a license to an
+26 individual who resides in this State and has been licensed, certified, or registered to practice as a
+27 licensee in another jurisdiction if that jurisdiction's standards of competency are substantially
+28 equivalent to those provided in this Article in accordance with rules adopted by the Council.
+29 "§ 90-178.34. Fees.
+30 (a) All fees shall be set by the Council, in consultation with the Division, pursuant to
+31 rules adopted under this Article. All fees payable to the Council shall be deposited in the name
+32 of the Council in financial institutions designated by the Council as official depositories and shall
+33 be used to pay all expenses incurred in carrying out the purposes of this Article.
+34 (b) All salaries, compensation, and expenses incurred or allowed to carry out the purposes
+35 of this Article shall be paid by the Council exclusively out of the fees received by the Council as
+36 authorized by this Article or funds received from other sources.
+37 "§ 90-178.35. Midwifery formulary.
+38 The Council shall establish a formulary of drugs and devices that are appropriate to Certified
+39 Professional Midwife care. Certified Professional Midwives shall dispense only those drugs and
+40 devices in accordance with the current formulary defined by the Council. Certified Professional
+41 Midwives shall comply with applicable State and federal laws and rules relating to administering
+42 of drugs. Certified Professional Midwives shall maintain proper records of obtaining, storing,
+43 and administering drugs and devices. Nothing in this section shall be construed to preclude a
+44 midwife from carrying out the prescribed medical orders of a licensed health care provider
+45 authorized to prescribe.
+46 "§ 90-178.36. Suspension, revocation, and refusal to renew license.
+47 (a) The Council may issue a letter of reprimand, deny, refuse to renew, suspend, or revoke
+48 an application for licensure or a license if the applicant or licensee does any of the following:
+49 (1) Gives false information or withholds material information from the Council
+50 in procuring or attempting to procure a license.
+Page 8 Senate Bill 908-First Edition
+General Assembly Of North Carolina Session 2025
+1 (2) Gives false information or withholds material information from the Council
+2 during the course of an investigation conducted by the Council.
+3 (3) Has been convicted of or pled guilty or no contest to a crime that indicates the
+4 person is unfit or incompetent to practice midwifery, as defined in this Article,
+5 or that indicates the person has deceived, defrauded, or endangered the public.
+6 (4) Has a habitual substance abuse problem or mental impairment that interferes
+7 with his or her ability to provide appropriate care as established by this Article
+8 or rules adopted by the Council.
+9 (5) Has demonstrated gross negligence, incompetency, or misconduct in the
+10 practice of midwifery, as defined in this Article.
+11 (6) Has had an application for licensure or a license to practice midwifery as a
+12 Certified Professional Midwife or Certified Midwife in another jurisdiction
+13 denied, suspended, or revoked for reasons that would be grounds for similar
+14 action in this State.
+15 (7) Has willfully violated any provision of this Article or rules adopted by the
+16 Council.
+17 (b) The taking of any action authorized under subsection (a) of this section may be
+18 ordered by the Council after a hearing is held in accordance with Article 3A of Chapter 150B of
+19 the General Statutes. The Council may reinstate a revoked license if it finds that the reasons for
+20 revocation no longer exist and that the person can reasonably be expected to perform the services
+21 authorized under this Article in a safe manner.
+22 "§ 90-178.37. Enjoining illegal practices; vicarious liability.
+23 (a) The Council may apply to the superior court for an order enjoining violations of this
+24 Article. Upon a showing by the Council that any person has violated this Article, the court may
+25 grant injunctive relief.
+26 (b) No health care provider or medical facility shall be liable for an injury to a woman or
+27 infant arising during childbirth and resulting from an act or omission by a Certified Professional
+28 Midwife or Certified Midwife licensed under this Article, regardless of whether the health care
+29 provider has consulted with or accepted a referral from the licensee."
+30 SECTION 3. Except as otherwise provided, this act becomes effective October 1,
+31 2026.
+Senate Bill 908-First Edition Page 9
+[DELETED:  1 J ( S R A A E T S A " " " T H " ( F ( N C c t e u r o m m a s m m w d i o B ( T A C o N ( a t N A o C P M ( r C P M ( a e p i a s e ( N c s a p e d t m i o ( S i t s U S i S C a V a F b L s c P p s o c g r d R e r f m p c m ( V l e p f a m p a r p f l m w S C l]
+[DELETED:  S  S r t i o m a c b i s p c p w r s o p o r h ( A e a f h p o r o u p ( I – I i t i o t G A t e a c m h a f t p s t w s J G S w l a p m c a s a " N ( M c ( P a p i a t f s h c a ( C N M C M a C P M r ( C o i m p a d o ( T m h w s b s a a f c ( L c " T ( C ( C ( C C ( D ( H ( P a " H ( I a ( A r ( R a t i r m c a i b f o ( M C c ( P s]
+[DELETED:  S  P ( A a m " ( D p S ( M ( S ( E ( D ( C ( L ( N ( T ( D r a ( O ( C ( R t ( P c ( E o a a b s i c m s ( A d o O " ( S n ( A w t h g p u t N C M ( R ( R ( R ( A ( F – T D s p a a f i p t c " H t p t p p s a c o c w p p t " ( I S – T S t t A s s a o t f ( M]
+[DELETED:  S  S ( S ( C ( F – T D s p a a f i p t c o " T ( m p ( p o g t m h c o a ( c r w a D l s n b p S " … ( A C r a a S a S a H S D o H B ( s t a n a i c o a c p a h l a S S t " " " T " T ( A ( C f ( C c ( C a o ( C c M ( C s]
+[DELETED:  S  P ( D – T N C D o H a H S ( D o H a H S t w t N C C o C ( H ( I ( I ( L p – A p d l i t S t p m ( L o m ( M – T p o p h o m c t c ( N ( N ( P " ( N o i o i t t p i a l C P M o C ( T ( A 1 ( A e ( T w N ( T u ( T " ( C a T – T N C o C P M t a 2 ( F s y ( O s ( T U f m ( Q w t]
+[DELETED:  S  S ( V a a ( R – T C m r a o i m f n o d i C s s l o b t n C m A m s t d p i t m b ( C – E m o t C s r p d a r ( O d e e ( M – T C s h i f m w 4 d a t a a e m d t ( N m c ( R i " I c w t D a w g f t N A o C C ( A ( I ( A o c w a C P M o C M t ( V r ( I a ( S t ( ( M C P s r]
+[DELETED:  S  P ( A p a c o C P M o C ( C t C ( M a r o a p a m a t a C P a ( A a s c t n o t C f u o a o d ( E C " A M ( C ( H c a r e a c t i e o b M a a b t N C o C A ( ( S c ( H t ( P " ( A s p a t t N A o C P M ( M ( P c f t h c w i e t h a n p ( E i a ( O p ( D t ( D l ( R t ( I s ( S r]
+[DELETED:  S  S ( P a ( A c " ( A e w a p o c c f N C w N r r c a ( A p a ( U M m t a s ( A 9 " T C m u a a p o p f g a l t a i l e " ( A r o b ( A o a " T P d M o a m f c o t p m o o l h c p a " ( T a ( G i]
+[DELETED:  S  P ( G d ( H p o ( H w o ( H d g n i o m i t p ( H C d a ( H C ( T t o a a a u ( s m b o t r a " ( T A g ( N i M p S 2]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 908
+Short Title: Janell Green Smith Maternal Health Acc. Act. (Public)
+Sponsors: Senators Murdock, Salvador, and Waddell (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO RECOGNIZE MATERNAL HEALTH INITIATIVES AND TO SUPPORT AND
+3 EXPAND LICENSURE AND RECOGNITION OF MIDWIVES.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1.(a) Chapter 90 of the General Statutes is amended by adding a new
+6 Article to read:
+7 "Article 10B.
+8 "Maternal Health Accountability Act.
+9 "§ 90-178.10. Short title.
+10 This Article shall be cited and known as the "Dr. Janell Green Smith, DNP, CNM, Maternal
+11 Health Accountability Act."
+12 "§ 90-178.11. Legislative findings; intent.
+13 (a) Findings. – The General Assembly makes the following findings:
+14 (1) North Carolina continues to experience unacceptable rates of maternal
+15 mortality and severe maternal morbidity, with disproportionate impact on
+16 Black, Indigenous, rural, and low-income communities.
+17 (2) The American College of Nurse-Midwives (ACNM) and the National
+18 Association of Certified Professional Midwives (NACPM) recognize
+19 Certified Nurse Midwives (CNMs), Certified Midwives (CMs), and Certified
+20 Professional Midwives (CPMs) as essential providers in a safe,
+21 evidence-based, and equitable maternal health system.
+22 (3) National clinical standards and peer-reviewed evidence demonstrate that
+23 midwifery care, when licensed, regulated, and integrated across birth settings,
+24 improves continuity of care, patient satisfaction, and maternal and neonatal
+25 outcomes.
+26 (4) States in the southeastern United States, including South Carolina and
+27 Virginia, have enacted laws to do all of the following:
+28 a. Formally integrate midwives into perinatal levels of care systems.
+29 b. License and regulate Certified Professional Midwives using national
+30 standards.
+31 c. Prohibit physician supervision or contractual gatekeeping
+32 requirements.
+33 d. Require equitable reimbursement for midwives providing covered
+34 maternity services.
+35 (5) Virginia law expressly provides for autonomous midwifery practice and
+36 reimbursement parity for licensed midwives, while South Carolina law
+*S908-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 requires the integration of midwives and community birth into statewide
+2 perinatal care planning, without restricting scope of practice or requiring
+3 hospital privileges.
+4 (6) A maternal health system that excludes community‑based providers, fails to
+5 ensure accountability for hospital practices, or relies on uncompensated
+6 perinatal labor undermines patient safety and worsens disparities.
+7 (b) Intent. – It is the intent of the General Assembly to establish a comprehensive
+8 maternal health accountability framework that promotes safety, transparency, workforce
+9 sustainability, informed consent, and equitable access to care, while honoring the legacy of Dr.
+10 Janell Green Smith, whose leadership advanced patient-centered maternity care and system
+11 accountability.
+12 "§ 90-178.12. Core principles.
+13 North Carolina's maternal health system shall be governed by the following principles:
+14 (1) Maternal health systems shall be accountable for patient safety, respectful
+15 care, and measurable outcomes.
+16 (2) Pregnant and postpartum individuals and their families shall have clear,
+17 accessible pathways for reporting harm and obtaining timely support.
+18 (3) Certified Nurse Midwives, Certified Midwives, and Certified Professional
+19 Midwives are essential maternal health providers and must be recognized,
+20 regulated, and supported across all birth settings.
+21 (4) Community-based organizations, including midwifery practices and doula
+22 organizations, constitute essential public health infrastructure.
+23 (5) The maternal health workforce shall be sustainable, accessible, and fairly
+24 compensated.
+25 (6) Licensed midwifery care across hospital and community settings improves
+26 continuity of care, safety, and birth outcomes.
+27 "§ 90-178.13. Definitions.
+28 The following definitions apply in this Article:
+29 (1) CM. – Certified Midwife licensed under Article 10C of this Chapter.
+30 (2) CNM. – Certified Nurse Midwife licensed under Article 10A of this Chapter.
+31 (3) CPM. – Certified Professional Midwife licensed under Article 10C of this
+32 Chapter.
+33 (4) Department. – The Department of Health and Human Services.
+34 (5) Hospital. – As defined in G.S. 131E-214.1.
+35 (6) Perinatal health care provider. – A licensee under this Article and Articles 10A
+36 and 10C of this Chapter.
+37 "§ 90-178.14. Hospital accountability and safe discharge.
+38 Hospitals providing maternal or emergency obstetric services shall do all of the following:
+39 (1) Implement and maintain a safe labor discharge plan prior to the discharge of
+40 any individual presenting in labor.
+41 (2) Adopt and maintain standardized maternal clinical escalation and emergency
+42 response protocols.
+43 (3) Require annual training in respectful maternity care and implicit bias for
+44 obstetric, emergency, and nursing staff.
+45 (4) Maintain formal collaboration and transfer agreements with licensed CNMs,
+46 CMs, and CPMs to ensure timely, respectful, and safe transitions of care from
+47 community‑based to hospital settings.
+48 (5) Prohibit denial or delay of care based solely on provider type or planned birth
+49 setting.
+Page 2 Senate Bill 908-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (6) Allow perinatal health care providers in birthing rooms as part of the care team
+2 and not counted as a member of the family, including in the event that a birth
+3 moves from home care to hospital care.
+4 "§ 90-178.15. Reporting requirements; oversight.
+5 (a) Departmental Reporting Requirement. – On August 1 of each year, hospitals and all
+6 perinatal health care providers shall annually report to the Department of Health and Human
+7 Services all of the following:
+8 (1) Maternal mortality.
+9 (2) Severe maternal morbidity.
+10 (3) Emergency postpartum readmissions.
+11 (4) Discharges during active labor.
+12 (5) Cesarean delivery rates.
+13 (6) Labor induction rates.
+14 (7) Neonatal intensive care unit admissions.
+15 (8) Transfers between community-based and hospital-based care.
+16 (b) Data. – All data compiled for the reports under this section shall be disaggregated by
+17 race, ethnicity, payer, geography, and provider type. All reports under this section shall be made
+18 available for public access on the Department's website.
+19 (c) Oversight. – The Department is required to do all of the following:
+20 (1) Conduct compliance audits.
+21 (2) Require corrective action plans if a hospital covered under this Article is found
+22 to not be in compliance.
+23 (3) Provide technical assistance to hospitals and perinatal health care providers to
+24 comply with the provisions of this Article.
+25 (4) Evaluate outcomes across all birth settings, including community-based
+26 midwifery care, consistent with perinatal integration models adopted in peer
+27 states.
+28 (d) Annual Report. – The Department shall annually submit a report containing (i) the
+29 data collected under subsection (a) of this section and (ii) the outcomes under subdivision (c)(4)
+30 of this section to the Joint Legislative Health and Human Services Oversight Committee by
+31 October 1 of each year.
+32 "§ 90-178.16. Patient advocacy and accountability.
+33 (a) System. – The Department shall establish a statewide maternal health reporting and
+34 navigation system to provide all of the following:
+35 (1) Assistance with the hospital grievance process under the North Carolina
+36 Medical Board or the Division of Health Service Regulation.
+37 (2) Referrals to legal resources.
+38 (3) Referrals to relevant occupational and State agency licensing boards.
+39 (4) Referrals to community health workers.
+40 (5) Access to trauma-informed and perinatal mental health services.
+41 (b) Funding. – The Department shall provide any available funds, if practicable, to
+42 community-based organizations to provide the services listed in subsection (a) of this section.
+43 "§ 90-178.17. Transfers.
+44 Hospitals and perinatal health care providers shall participate and collaborate in standardized
+45 transfer protocols that prioritize patient safety and continuity of care while preserving
+46 professional autonomy, consistent with national standards of practice and peer state models for
+47 those providers.
+48 "§ 90-178.18. Midwifery education and community infrastructure.
+49 (a) Infrastructure Support. – The State, through this Article, shall support all of the
+50 following:
+51 (1) Midwifery education and apprenticeship pathways.
+Senate Bill 908-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (2) Scholarships and stipends for perinatal health care providers.
+2 (3) Continuing education and workforce development.
+3 (b) Funding. – The Department shall provide any available funds, if practicable, to
+4 community-based organizations and birth centers to provide the services listed in subsection (a)
+5 of this section and care coordination, billing and compliance, and workforce supervision.
+6 "§ 90-178.19. Doula workforce sustainability.
+7 The State recognizes doulas as essential members of the maternal health workforce and shall
+8 (i) establish fair reimbursement and prompt payment standards, (ii) fund doula support hubs and
+9 mentorship programs, (iii) provide operational grants to maternal health community-based
+10 organizations, and (iv) conduct regional workforce assessments. Doula labor shall not be
+11 premised upon unpaid or volunteer models."
+12 SECTION 1.(b) G.S. 58-3-170 reads as rewritten:
+13 "§ 58-3-170. Requirements for maternity coverage.
+14 …
+15 (c) A health benefit plan that provides coverage for any maternity care provided by a
+16 Certified Nurse Midwife licensed under Article 10A of Chapter 90 of the General Statutes shall
+17 reimburse at the same rate, subject to the same coverage terms, equivalent services provided by
+18 a perinatal health care provider licensed under Article 10C of Chapter 90 of the General Statutes
+19 and subject to Article 10B of Chapter 90 of the General Statutes."
+20 SECTION 1.(c) Subsection (b) of this section is effective October 1, 2026, and
+21 applies to insurance contracts entered into, renewed, or amended on or after that date.
+22 SECTION 1.(d) Reimbursement Parity for Medicaid. – The Department of Health
+23 and Human Services, Division of Health Benefits (DHB), shall take all necessary actions,
+24 including any changes to applicable clinical coverage policies, to ensure that Medicaid maternity
+25 care services provided by a Certified Nurse Midwife licensed under Article 10A of Chapter 90
+26 of the General Statutes are reimbursed at the same rate and subject to the same coverage terms
+27 as equivalent Medicaid maternity care services provided by a perinatal health care provider
+28 licensed under Article 10C of Chapter 90 of the General Statutes, as enacted by Section 2 of this
+29 act.
+30 SECTION 1.(e) Subsection (d) of this section is effective October 1, 2026.
+31 SECTION 2. Chapter 90 of the General Statutes is amended by adding a new Article
+32 to read:
+33 "Article 10C.
+34 "Certified Professional Midwives and Certified Midwives.
+35 "§ 90-178.25. Title.
+36 This Article may be cited as the "Accessing Midwives Act."
+37 "§ 90-178.26. Definitions.
+38 The following definitions apply in this Article:
+39 (1) Antepartal. – Occurring during pregnancy.
+40 (2) Certified Midwife (CM). – A person who has obtained national certification
+41 from the American Midwifery Certification Board (AMCB).
+42 (3) Certified Professional Midwife (CPM). – A person who has obtained national
+43 certification from the North American Registry of Midwives (NARM).
+44 (4) Collaboration. – The process by which a Certified Professional Midwife and
+45 a physician or other appropriate health care provider jointly manage the care
+46 of a client, as defined by Council rule.
+47 (5) Consultation. – The exchange of information and advice regarding the client's
+48 condition and indicated treatment with a licensed physician or Certified Nurse
+49 Midwife.
+50 (6) Council. – The North Carolina Council of Certified Professional Midwives, a
+51 subcommittee of the Division of Health Service Regulation.
+Page 4 Senate Bill 908-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (7) Department. – The North Carolina Department of Health and Human
+2 Services.
+3 (8) Division. – The Division of Health Service Regulation within the Department
+4 of Health and Human Services to which the North Carolina Council of
+5 Certified Professional Midwives reports.
+6 (9) Health care provider. – As defined in G.S. 90-21.11.
+7 (10) ICM. – The International Confederation of Midwives.
+8 (11) Intrapartal. – Occurring during the process of giving birth.
+9 (12) Licensed physician. – A physician duly licensed in this State to practice
+10 medicine under Article 1 of this Chapter.
+11 (13) Licensee. – A Certified Professional Midwife who holds the CPM credential
+12 or a Certified Midwife who holds the CM credential and is licensed to practice
+13 midwifery under this Article.
+14 (14) Midwifery. – The provision of primary health or maternity care to
+15 childbearing people and infants.
+16 (15) NACPM. – The National Association of Certified Professional Midwives.
+17 (16) NARM. – The North American Registry of Midwives.
+18 (17) Postpartal. – Occurring subsequent to birth.
+19 "§ 90-178.27. License required; exemptions.
+20 (a) No person shall practice or offer to practice midwifery, as defined in this Article, or
+21 otherwise indicate or imply that the person is a licensed Certified Professional Midwife or
+22 Certified Midwife unless the person is currently licensed as provided in this Article.
+23 (b) The provisions of this Article do not apply to any of the following:
+24 (1) An individual approved to practice as a Certified Nurse Midwife under Article
+25 10A of this Chapter.
+26 (2) A physician licensed to practice medicine under Article 1 of this Chapter when
+27 engaged in the practice of medicine as defined by law.
+28 (3) The performance of medical acts by a physician assistant or nurse practitioner
+29 when performed in accordance with the rules of the North Carolina Board of
+30 Nursing and the North Carolina Medical Board.
+31 (4) The practice of nursing by a registered nurse engaged in the practice of nursing
+32 under Article 9A of this Chapter.
+33 (5) The rendering of childbirth assistance in an emergency situation.
+34 "§ 90-178.28. The North Carolina Council of Certified Professional Midwives.
+35 (a) Composition and Terms. – The North Carolina Council of Certified Professional
+36 Midwives is created. The Council shall consist of seven members who shall serve staggered
+37 terms. The Council members shall be appointed by the Secretary of the Department of Health
+38 and Human Services, and the initial Council members shall be appointed on or before October 1,
+39 2026, or within three months of this Article becoming law, whichever is later, as follows:
+40 (1) Four Certified Professional Midwives or Certified Midwives, one of whom
+41 shall serve for a term of four years, two of whom shall serve for terms of three
+42 years, and one of whom shall serve for a term of two years.
+43 (2) One licensed physician who is knowledgeable in midwifery care who shall
+44 serve for a term of four years.
+45 (3) Two community birth consumers who shall serve for a term of two years.
+46 Upon the expiration of the terms of the initial Council members, members shall be appointed
+47 for terms of four years and shall serve until their successors are appointed. No member may serve
+48 more than two consecutive terms.
+49 (b) Qualifications. – Each Council member shall be a resident of this State. The members
+50 who are Certified Professional Midwives or Certified Midwives shall hold current licenses from
+51 the Council and remain in good standing with the Council during their terms.
+Senate Bill 908-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (c) Vacancies. – Any vacancy shall be filled by the Secretary of the Department of Health
+2 and Human Services. Appointees to fill vacancies shall serve the remainder of the unexpired term
+3 and until their successors have been duly appointed.
+4 (d) Removal. – The Council may remove any of its members for neglect of duty,
+5 incompetence, or unprofessional conduct. If a Council member is absent from three consecutive
+6 Council meetings without excuse, that member shall be removed from office and a new member
+7 shall be appointed by the Secretary of the Department of Health and Human Services. An absence
+8 shall be deemed excused if caused (i) by a health problem or condition verified in writing by a
+9 licensed health care provider or (ii) by an accident or similar unforeseeable tragedy or event, on
+10 or before the next Council meeting. A member subject to disciplinary proceedings in the
+11 member's capacity as a health care provider shall be disqualified from participating in the official
+12 business of the Council until the charges have been resolved.
+13 (e) Compensation. – Each member of the Council shall receive per diem and
+14 reimbursement for travel and subsistence as provided in G.S. 93B-5.
+15 (f) Officers. – The officers of the Council shall be a chair, a vice-chair, and other officers
+16 deemed necessary by the Council to carry out the purposes of this Article. All officers shall be
+17 elected annually by the Council for two-year terms and shall serve until their successors are
+18 elected and qualified. No person may serve as chair for more than six consecutive years.
+19 (g) Meetings. – The Council shall hold its first meeting within 45 days after the
+20 appointment of its members and shall hold at least two meetings each year to conduct business
+21 and to review the standards and rules previously adopted by the Council. The Council shall
+22 establish the procedures for calling, holding, and conducting regular and special meetings. A
+23 majority of Council members shall constitute a quorum. The Council shall hold such meetings
+24 during the year as it deems necessary, one of which shall be an annual meeting. The Department,
+25 the chairperson, or a majority of the Council shall have the authority to call additional meetings.
+26 (h) Notice of Meeting; Records. – Public notice shall be given for all meetings, and all
+27 meetings are open to the public. All records are available to the public. Persons wishing to obtain
+28 copies of records may request copies, in writing, from the Council.
+29 (i) Rulemaking. – The Council shall adopt rules within one year of the initial meeting to
+30 implement the provisions of this Article.
+31 "§ 90-178.29. Powers and duties of the Council.
+32 In consultation with the Division and with guidance from the National Association of
+33 Certified Professional Midwives Standards of Practice and standards of practice adopted by the
+34 Council for Certified Midwives, the Council shall have the following powers and duties:
+35 (1) Administer this Article.
+36 (2) Issue interpretations of this Article.
+37 (3) Adopt, amend, or repeal rules as may be necessary to carry out the provisions
+38 of this Article, including rules relating to the administration of medications
+39 consistent with a Certified Professional Midwife's or Certified Midwife's
+40 training and scope of practice.
+41 (4) Verify the credentials and qualifications of applicants for licensure, license
+42 renewal, and reciprocal licensure.
+43 (5) Issue, renew, deny, suspend, or revoke licensure and carry out any disciplinary
+44 actions authorized by this Article.
+45 (6) Set fees for licensure, license renewal, and other services deemed necessary
+46 to carry out the purposes of this Article, not to exceed five hundred dollars
+47 ($500.00) over a two-year period.
+48 (7) Maintain a current list of all persons who have been licensed as Certified
+49 Professional Midwives or Certified Midwives under this Article and, using a
+50 statistically validated data collection tool, collect and review annual practice
+51 reports.
+Page 6 Senate Bill 908-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (8) Address problems and concerns of Certified Professional Midwives or
+2 Certified Midwives in order to promote safety for the citizens of this State.
+3 (9) Conduct investigations for the purpose of determining whether violations of
+4 this Article or grounds for disciplining Certified Professional Midwives or
+5 Certified Midwives exist.
+6 (10) Maintain a record of all proceedings and make available to all Certified
+7 Professional Midwives and Certified Midwives and other concerned parties
+8 an annual report of all Council action.
+9 (11) Adopt a seal containing the name of the Council for use on all official
+10 documents and reports issued by the Council.
+11 (12) Educate the public and other providers of maternity care about the role of the
+12 Certified Professional Midwives and Certified Midwives.
+13 "§ 90-178.30. Requirements for licensure.
+14 An applicant shall be licensed to practice as a Certified Professional Midwife or Certified
+15 Midwife under this Article if the applicant meets all of the following requirements:
+16 (1) Completes an application on a form approved by the Council.
+17 (2) Has completed all required educational and clinical training, including
+18 education in emergency skills for pregnancy, birth, and newborn care and
+19 other midwifery topics addressing all ICM Core Competencies, as determined
+20 by NACPM or NARM, and has earned the national Certified Professional
+21 Midwife certification credential awarded by a national midwifery certification
+22 agency accredited by the National Commission on Certifying Agencies
+23 (NCCA), the accrediting body of the Institute of Credentialing Excellence.
+24 (3) Submits proof to the Council of current cardiopulmonary resuscitation (CPR)
+25 certification and neonatal resuscitation program (NRP) certification.
+26 (4) Has read, understands, and agrees to practice under the guidelines set forth in
+27 this Article and any rules adopted pursuant to this Article.
+28 (5) Pays the required fees in accordance with G.S. 90-178.34.
+29 "§ 90-178.31. Responsibilities of a Certified Professional Midwife; display of license.
+30 (a) A Certified Professional Midwife or Certified Midwife licensed under this Article
+31 shall practice according to the National Association of Certified Professional Midwives
+32 (NACPM) Standards of Practice or the standards of practice adopted by the Council for Certified
+33 Midwives, as applicable, and shall have the following responsibilities:
+34 (1) Provide care for the healthy client who is expected to have a normal
+35 pregnancy, labor, birth, and postpartal phase in the setting of their choice.
+36 (2) Ensure that the client has signed an informed consent form. This form shall
+37 include information to inform the client of the qualifications of the licensee
+38 and the process of shared decision making and refusal.
+39 (3) Order routine antepartal or postpartal screening or laboratory analysis to be
+40 performed by a licensed laboratory or testing facility, when necessary.
+41 (4) Develop an emergency plan in collaboration with the client that shall include
+42 transfer plans for the client in the event of an emergency.
+43 (5) Determine the progress of labor, monitor fetal and maternal status, and when
+44 labor is well-established, be available until delivery is accomplished.
+45 (6) Remain with the mother during the postpartal period until the conditions of
+46 the mother and newborn are stabilized.
+47 (7) Instruct the parents regarding the requirements of all State-required newborn
+48 screening.
+49 (8) Submit and maintain a birth certificate of live birth in accordance with the
+50 requirements of Article 4 of Chapter 130A of the General Statutes.
+Senate Bill 908-First Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (9) Practice in compliance with the requirements of this Article and any rules
+2 adopted pursuant to this Article.
+3 (b) A licensee licensed pursuant to this Article shall display the license at all times in a
+4 conspicuous place where the licensee is practicing, when applicable.
+5 "§ 90-178.32. License renewal; inactive status; lapsed license.
+6 (a) An initial license to practice shall be valid for two years. After the initial license
+7 expires, a license shall be renewed every two years. All applications for renewal shall be filed
+8 with the Council and shall be accompanied by the renewal fee in accordance with G.S. 90-178.34
+9 and proof of current certification from NARM. Compliance with NARM recertification
+10 requirements shall include (i) remaining in good standing with NARM, (ii) maintaining current
+11 cardiopulmonary resuscitation (CPR) and neonatal resuscitation program (NRP) certifications,
+12 and (iii) completing any continuing education requirements.
+13 (b) A license that has expired for failure to renew may be reinstated after the applicant
+14 pays any late and renewal fees as required by G.S. 90-178.34 and complies with any other rules
+15 adopted pursuant to this Article.
+16 (c) Upon written request to the Council, the Council may grant a Certified Professional
+17 Midwife or Certified Midwife inactive status. While inactive, the licensee shall not practice
+18 midwifery in this State and shall not be subject to license renewal requirements established by
+19 the Council. A licensee may change the licensee's status from inactive to active by (i) submitting
+20 a written request to the Council and (ii) fulfilling the requirements for renewal described under
+21 subsection (a) of this section.
+22 (d) A licensee who does not seek inactive status and allows the license to expire after a
+23 90-day grace period shall apply for a new license as prescribed in this Article.
+24 "§ 90-178.33. Reciprocity.
+25 The Council may, upon application and payment of proper fees, grant a license to an
+26 individual who resides in this State and has been licensed, certified, or registered to practice as a
+27 licensee in another jurisdiction if that jurisdiction's standards of competency are substantially
+28 equivalent to those provided in this Article in accordance with rules adopted by the Council.
+29 "§ 90-178.34. Fees.
+30 (a) All fees shall be set by the Council, in consultation with the Division, pursuant to
+31 rules adopted under this Article. All fees payable to the Council shall be deposited in the name
+32 of the Council in financial institutions designated by the Council as official depositories and shall
+33 be used to pay all expenses incurred in carrying out the purposes of this Article.
+34 (b) All salaries, compensation, and expenses incurred or allowed to carry out the purposes
+35 of this Article shall be paid by the Council exclusively out of the fees received by the Council as
+36 authorized by this Article or funds received from other sources.
+37 "§ 90-178.35. Midwifery formulary.
+38 The Council shall establish a formulary of drugs and devices that are appropriate to Certified
+39 Professional Midwife care. Certified Professional Midwives shall dispense only those drugs and
+40 devices in accordance with the current formulary defined by the Council. Certified Professional
+41 Midwives shall comply with applicable State and federal laws and rules relating to administering
+42 of drugs. Certified Professional Midwives shall maintain proper records of obtaining, storing,
+43 and administering drugs and devices. Nothing in this section shall be construed to preclude a
+44 midwife from carrying out the prescribed medical orders of a licensed health care provider
+45 authorized to prescribe.
+46 "§ 90-178.36. Suspension, revocation, and refusal to renew license.
+47 (a) The Council may issue a letter of reprimand, deny, refuse to renew, suspend, or revoke
+48 an application for licensure or a license if the applicant or licensee does any of the following:
+49 (1) Gives false information or withholds material information from the Council
+50 in procuring or attempting to procure a license.
+Page 8 Senate Bill 908-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (2) Gives false information or withholds material information from the Council
+2 during the course of an investigation conducted by the Council.
+3 (3) Has been convicted of or pled guilty or no contest to a crime that indicates the
+4 person is unfit or incompetent to practice midwifery, as defined in this Article,
+5 or that indicates the person has deceived, defrauded, or endangered the public.
+6 (4) Has a habitual substance abuse problem or mental impairment that interferes
+7 with his or her ability to provide appropriate care as established by this Article
+8 or rules adopted by the Council.
+9 (5) Has demonstrated gross negligence, incompetency, or misconduct in the
+10 practice of midwifery, as defined in this Article.
+11 (6) Has had an application for licensure or a license to practice midwifery as a
+12 Certified Professional Midwife or Certified Midwife in another jurisdiction
+13 denied, suspended, or revoked for reasons that would be grounds for similar
+14 action in this State.
+15 (7) Has willfully violated any provision of this Article or rules adopted by the
+16 Council.
+17 (b) The taking of any action authorized under subsection (a) of this section may be
+18 ordered by the Council after a hearing is held in accordance with Article 3A of Chapter 150B of
+19 the General Statutes. The Council may reinstate a revoked license if it finds that the reasons for
+20 revocation no longer exist and that the person can reasonably be expected to perform the services
+21 authorized under this Article in a safe manner.
+22 "§ 90-178.37. Enjoining illegal practices; vicarious liability.
+23 (a) The Council may apply to the superior court for an order enjoining violations of this
+24 Article. Upon a showing by the Council that any person has violated this Article, the court may
+25 grant injunctive relief.
+26 (b) No health care provider or medical facility shall be liable for an injury to a woman or
+27 infant arising during childbirth and resulting from an act or omission by a Certified Professional
+28 Midwife or Certified Midwife licensed under this Article, regardless of whether the health care
+29 provider has consulted with or accepted a referral from the licensee."
+30 SECTION 3. Except as otherwise provided, this act becomes effective October 1,
+31 2026.
+Senate Bill 908-First Edition Page 9
+
+[DELETED:  1 J ( S R A A E T S A " " " T H " ( F ( N C c t e u r o m m a s m m w d i o B ( T A C o N ( a t N A o C P M ( r C P M ( a e p i a s e ( N c s a p e d t m i o ( S i t s U S i S C a V a F b L s c P p s o c g r d R e r f m p c m ( V l e p f a m p a r p f l m w S C l]
+[DELETED:  S  S r t i o m a c b i s p c p w r s o p o r h ( A e a f h p o r o u p ( I – I i t i o t G A t e a c m h a f t p s t w s J G S w l a p m c a s a " N ( M c ( P a p i a t f s h c a ( C N M C M a C P M r ( C o i m p a d o ( T m h w s b s a a f c ( L c " T ( C ( C ( C C ( D ( H ( P a " H ( I a ( A r ( R a t i r m c a i b f o ( M C c ( P s]
+[DELETED:  S  P ( A a m " ( D p S ( M ( S ( E ( D ( C ( L ( N ( T ( D r a ( O ( C ( R t ( P c ( E o a a b s i c m s ( A d o O " ( S n ( A w t h g p u t N C M ( R ( R ( R ( A ( F – T D s p a a f i p t c " H t p t p p s a c o c w p p t " ( I S – T S t t A s s a o t f ( M]
+[DELETED:  S  S ( S ( C ( F – T D s p a a f i p t c o " T ( m p ( p o g t m h c o a ( c r w a D l s n b p S " … ( A C r a a S a S a H S D o H B ( s t a n a i c o a c p a h l a S S t " " " T " T ( A ( C f ( C c ( C a o ( C c M ( C s]
+[DELETED:  S  P ( D – T N C D o H a H S ( D o H a H S t w t N C C o C ( H ( I ( I ( L p – A p d l i t S t p m ( L o m ( M – T p o p h o m c t c ( N ( N ( P " ( N o i o i t t p i a l C P M o C ( T ( A 1 ( A e ( T w N ( T u ( T " ( C a T – T N C o C P M t a 2 ( F s y ( O s ( T U f m ( Q w t]
+[DELETED:  S  S ( V a a ( R – T C m r a o i m f n o d i C s s l o b t n C m A m s t d p i t m b ( C – E m o t C s r p d a r ( O d e e ( M – T C s h i f m w 4 d a t a a e m d t ( N m c ( R i " I c w t D a w g f t N A o C C ( A ( I ( A o c w a C P M o C M t ( V r ( I a ( S t ( ( M C P s r]
+[DELETED:  S  P ( A p a c o C P M o C ( C t C ( M a r o a p a m a t a C P a ( A a s c t n o t C f u o a o d ( E C " A M ( C ( H c a r e a c t i e o b M a a b t N C o C A ( ( S c ( H t ( P " ( A s p a t t N A o C P M ( M ( P c f t h c w i e t h a n p ( E i a ( O p ( D t ( D l ( R t ( I s ( S r]
+[DELETED:  S  S ( P a ( A c " ( A e w a p o c c f N C w N r r c a ( A p a ( U M m t a s ( A 9 " T C m u a a p o p f g a l t a i l e " ( A r o b ( A o a " T P d M o a m f c o t p m o o l h c p a " ( T a ( G i]
+[DELETED:  S  P ( G d ( H p o ( H w o ( H d g n i o m i t p ( H C d a ( H C ( T t o a a a u ( s m b o t r a " ( T A g ( N i M p S 2]

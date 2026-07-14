@@ -1,0 +1,1684 @@
+Title: HOUSE BILL 377
+Official Title: HOUSE BILL 377
+Number of Sections: 1
+Source: versions - Edition 3
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 3
+Committee Substitute Favorable 3/25/25
+Senate Judiciary Committee Substitute Adopted 5/20/26
+Short Title: 2026 Court Changes. (Public)
+Sponsors:
+Referred to:
+March 13, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENACT CERTAIN MODIFICATIONS TO THE LAWS RELATED TO THE
+3 NORTH CAROLINA COURT SYSTEM AND TO MAKE TECHNICAL CORRECTIONS
+4 TO ESTATE PLANNING STATUTES.
+5 The General Assembly of North Carolina enacts:
+6
+7 AMEND ADOPTION LAW TO FACILITATE E-FILING
+8 SECTION 1.(a) G.S. 48-2-304 reads as rewritten:
+9 "§ 48-2-304. Petition for adoption; content.
+10 (a) The original petition for adoption must be signed and verified by each petitioner, and
+11 the original and two exact or conformed copies petitioner and shall be filed with the clerk of
+12 court. The petition shall state:
+13 (1) Each petitioner's full name, current address, place of domicile if different from
+14 current address, and whether each petitioner has resided or been domiciled in
+15 this State for the six months immediately preceding the filing of the petition;
+16 (2) The marital status and gender of each petitioner;
+17 (3) The sex and, if known, the date and state or country of birth of the adoptee;
+18 (4) The full name by which the adoptee is to be known if the petition is granted;
+19 (5) That the petitioner desires and agrees to adopt and treat the adoptee as the
+20 petitioner's lawful child; and
+21 (6) If the adoptee is a minor or an adult who has been adjudicated incompetent, a
+22 description and estimate of the value of any property of the adoptee.
+23 …."
+24 SECTION 1.(b) G.S. 48-9-102 reads as rewritten:
+25 "§ 48-9-102. Records confidential and sealed.
+26 (a) All records created or filed in connection with an adoption, except the decree of
+27 adoption and the entry in the special proceedings index in the office of the clerk of court, and on
+28 file with or in the possession of the court, an agency, the State, a county, an attorney, or other
+29 provider of professional services, are confidential and may not be disclosed or used except as
+30 provided in this Chapter.
+31 (b) During a proceeding for adoption, records shall not be open to inspection by any
+32 person except upon an order of the court finding that disclosure is necessary to protect the interest
+33 of the adoptee.
+34 (c) When a decree of adoption becomes final, all records and all indices of records, except
+35 for the Special Proceedings Index, on file with the court, an agency, or this State shall be retained
+*H377-v-3*
+General Assembly Of North Carolina Session 2025
+1 permanently and sealed. Sealed records shall not be open to inspection by any person except as
+2 otherwise provided in this Article.
+3 (d) All Copies of all records filed in connection with an adoption, including a copy of the
+4 petition giving the date of the filing of the original petition, the original of each consent and
+5 relinquishment, additional documents filed pursuant to G.S. 48-2-305, any report to the court,
+6 any additional documents submitted and orders entered, any orders of dismissal, and a copy of
+7 the final decree, adoption proceeding shall be sent made available by the clerk of superior court
+8 to the Division within 10 days after the appeal period for a decree of adoption has expired or 10
+9 days following the final disposition of an appeal pursuant to G.S. 48-2-607(b). The petition and
+10 final decree or order of dismissal shall be retained by the clerk.For purposes of this subsection,
+11 copies of the records may be made available through electronic transfer or by providing the
+12 Division with electronic access within the electronic filing and case management system.
+13 (d1) The Division, within 40 days after receipt of the record in subsection (d), shall conduct
+14 a limited review for the sole purpose of identifying any obvious error on the report to vital records
+15 that is prepared by the superior court clerk and to notify the clerk of the error. If the Division
+16 notifies the superior court clerk of an error in the report to vital records, then the clerk shall
+17 correct the report and return it to the Division within 10 days after receipt of the notice.
+18 (e) The Division shall, subject to the review in (d1), cause the papers and reports related
+19 to the proceeding to be permanently indexed and filed.
+20 (f) The Division shall, within 40 days after receiving it from the court, transmit a report
+21 of each adoption and any name change to the State Registrar Registrar, which may be transmitted
+22 electronically, if the adoptee was born in this State. In the case of an adoptee who was not born
+23 in this State, the Division shall, within 40 days after receiving it from the court, transmit the
+24 report and any name change to the appropriate official responsible for issuing birth certificates
+25 or their equivalent.
+26 (g) In any adoption, the State Registrar may, in addition to receiving the report from the
+27 Division, request a copy of the final order and any separate order of name change directly from
+28 the clerk of court."
+29 SECTION 1.(c) This section becomes effective October 1, 2026.
+30
+31 CLARIFY HOW A RENTER-DEFENDANT APPELLANT MAINTAINS A STAY OF
+32 EXECUTION
+33 SECTION 2.(a) G.S. 42-34.1 reads as rewritten:
+34 "§ 42-34.1. Rent pending execution of judgment; post bond pending appeal.
+35 (a) If the judgment in district court is against the defendant appellant, it is sufficient to
+36 stay execution of the judgment during the 30-day time period for taking an appeal provided for
+37 in Rule 3 of the North Carolina Rules of Appellate Procedure if the defendant appellant posts a
+38 bond as provided in G.S. 42-34(b). No additional security under G.S. 1-292 is required. If the
+39 defendant appellant previously filed an undertaking after appeal of the magistrate's judgment and
+40 continues to pay periodic rent required by the prior undertaking after the judgment from the
+41 district court, the continued periodic payments toward this undertaking will satisfy this provision
+42 and maintain the stay of execution during the 30-day time period for taking an appeal. If the
+43 defendant appellant fails to make rental payments as provided in the undertaking within five
+44 business days of the day rent is due under the terms of the residential rental agreement, the clerk
+45 of superior court shall, upon application of the plaintiff appellee, immediately issue a writ of
+46 possession, and the sheriff shall dispossess the defendant appellant as provided in G.S. 42-36.2.
+47 (a1) If the judgment in district court is against the defendant appellant and the defendant
+48 appellant does not appeal the judgment, the defendant appellant shall pay rent to the plaintiff for
+49 the time the defendant appellant remains in possession of the premises after the judgment is
+50 given. Rent shall be prorated if the judgment is executed before the day rent would become due
+51 under the terms of the lease. The clerk of court shall disburse any rent in arrears paid by the
+Page 2 House Bill 377-Third Edition
+General Assembly Of North Carolina Session 2025
+1 defendant appellant in accordance with a stipulation executed by all parties or, if there is no
+2 stipulation, in accordance with the judge's order.
+3 (b) If the judgment in district court is against the defendant appellant and the defendant
+4 appellant appeals the judgment, it is sufficient to stay execution of the judgment if the defendant
+5 appellant posts a bond as provided in G.S. 42-34(b). No additional security under G.S. 1-292 is
+6 required. If the defendant appellant previously filed an undertaking after appeal of the
+7 magistrate's judgment and continues to pay periodic rent required by the prior undertaking after
+8 the judgment from the district court, the continued periodic payments toward this undertaking
+9 will satisfy this provision and maintain the stay of execution during the appeal. If the defendant
+10 appellant fails to perfect the appeal or the appellate court upholds the judgment of the district
+11 court, the execution of the judgment shall proceed. The clerk of court shall not disburse any rent
+12 in arrears paid by the defendant appellant until all appeals have been resolved."
+13 SECTION 2.(b) This section is effective when it becomes law and applies to actions
+14 pending and filed on or after that date.
+15
+16 MODIFY CERTAIN BOND REQUIREMENTS
+17 SECTION 3.(a) G.S. 28A-8-2 reads as rewritten:
+18 "§ 28A-8-2. Provisions of bond.
+19 A bond given pursuant to this Article shall be:
+20 (1) Payable to the State to the use of all persons interested in the estate; and
+21 (2) Conditioned that the personal representative giving the bond shall faithfully
+22 execute the trust reposed in the personal representative and obey all lawful
+23 orders of the clerk of superior court or other court touching the administration
+24 of the estate committed to the personal representative; and
+25 (3) In an amount not less than:
+26 a. One and one-fourth times the value of all personal property of the
+27 decedent when the bond is secured by a suretyship bond executed by
+28 a corporate surety company authorized by the Commissioner of
+29 Insurance to do business in this State, provided that the clerk of
+30 superior court, when the value of the personal property to be
+31 administered by the personal representative exceeds one hundred
+32 thousand dollars ($100,000), may accept bond in an amount equal to
+33 the value of the personal property plus ten percent (10%) thereof; or
+34 b. Double the value of all personal property of the decedent when the
+35 bond is secured by one of the methods provided in subdivision (4)b,
+36 (4)c or (4)d; such value of said personal property to be ascertained by
+37 the clerk of superior court by examination, on oath, of the applicant or
+38 of some other person determined by the clerk to be qualified to testify
+39 as to its value; and
+40 (4) Secured by one or more of the following:
+41 a. Suretyship bond executed, at the expense of the estate, by a corporate
+42 surety company authorized by the Commissioner of Insurance to do
+43 business in this State;
+44 b. Suretyship bond executed and justified upon oath before the clerk of
+45 superior court by two or more sufficient personal sureties each of
+46 whom shall reside in and own real estate in North Carolina and shall
+47 have assets with an aggregate value above encumbrances of not less
+48 than the amount of the penalty of the required bond;
+49 c. A first mortgage or first deed of trust in form approved by the
+50 administrative officer of the courts on real estate located in North
+51 Carolina:
+House Bill 377-Third Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 1. Executed by the owner, and conditioned on the performance of
+2 the obligations of the bond, and
+3 2. Containing a power of sale which, in the case of a mortgage, is
+4 exercisable by the clerk of superior court upon a breach of any
+5 condition thereof, or, in the case of a deed of trust, is
+6 exercisable by the trustee after notice by the clerk of superior
+7 court that a breach of condition has occurred.
+8 The clerk of superior court shall not accept such mortgage or deed of
+9 trust until it shall have been properly registered in the county or
+10 counties in which the real estate is located, and the clerk of superior
+11 court is satisfied that the real estate subject to the mortgage or deed of
+12 trust is worth the amount to be secured thereby, and that the mortgage
+13 or deed of trust is a first charge on said real estate. No such mortgage
+14 or deed of trust shall be cancelled or surrendered until the approval of
+15 the final account, unless substitution is permitted as provided in
+16 G.S. 28A-8-3(d).
+17 d. A deposit by the owner with the clerk of superior court of negotiable
+18 securities, of a kind permitted by law to be proper investments for
+19 fiduciaries exercising due care, having a fair market value determined
+20 by the clerk to be equal to the amount of the penalty of the bond. Such
+21 securities shall be properly endorsed, delivered to the clerk of superior
+22 court, and accompanied by a security agreement containing a power
+23 of sale authorizing the clerk of superior court to sell them in the event
+24 the person to whom letters are being issued commits a breach of any
+25 duty imposed upon that person by law in respect of that person's office.
+26 Such securities shall not be surrendered by the clerk of superior court
+27 to the owner until the approval of the final account, unless substitution
+28 is permitted as provided in G.S. 28A-8-3(d). For the purposes of
+29 determining the value of the assets of the personal sureties in
+30 subdivision (4)b, or the value of the real estate in subdivision (4)c, or
+31 the value of the negotiable securities in subdivision (4)d, the clerk of
+32 superior court may require a certificate of the value of such property
+33 by one or more persons not interested in the estate determined by the
+34 clerk to be qualified to certify such value."
+35 SECTION 3.(b) G.S. 35A-1230 reads as rewritten:
+36 "§ 35A-1230. Bond required before receiving property.
+37 Except as otherwise provided by G.S. 35A-1212.1 and G.S. 35A-1225(a), no general
+38 guardian or guardian of the estate shall be permitted to receive the ward's property until he has
+39 given sufficient surety, approved by the clerk, to account for and apply the same under the
+40 direction of the court, provided that if the guardian is a nonresident of this State and the value of
+41 the property received exceeds one thousand dollars ($1,000) the surety shall be a bond under
+42 G.S. 35A-1231(a) executed by a duly authorized surety company, or secured by cash in an
+43 amount equal to the amount of the bond or by a mortgage executed under Chapter 109 Article 74
+44 of Chapter 58 of the General Statutes on real estate located in the county, the value of which,
+45 excluding all prior liens and encumbrances, shall be at least one and one-fourth times the amount
+46 of the bond; and further provided that the nonresident shall appoint a resident agent to accept
+47 service of process in all actions and proceedings with respect to the guardianship. The clerk shall
+48 not require a guardian of the person who is a resident of North Carolina to post a bond; the clerk
+49 may require a nonresident guardian of the person to post a bond or other security for the faithful
+50 performance of the guardian's duties. As provided in G.S. 53-159 and G.S. 53-366(a)(10), no
+Page 4 House Bill 377-Third Edition
+General Assembly Of North Carolina Session 2025
+1 bond is required of a bank or trust company licensed to do business in this State that has powers
+2 or privileges granted in the charter to serve as guardian."
+3 SECTION 3.(c) This section is effective when it becomes law.
+4
+5 MODIFY DEADLINE TO APPEAL IN CERTAIN PROPERTY CASES
+6 SECTION 4.(a) G.S. 14-159.53 reads as rewritten:
+7 "§ 14-159.53. Appeal.
+8 An unauthorized person, property owner, or authorized representative of the property owner
+9 may appeal a court order issued pursuant to G.S. 14-159.52(b) to the district court for a trial de
+10 novo. Notice of appeal may be given orally in open court upon announcement or after a judgment
+11 is entered. If not announced in open court, written notice of appeal must be filed in the office of
+12 the clerk of superior court within three business days after a judgment is entered. If the court
+13 finds for the property owner or the authorized representative of the property owner, the court
+14 shall determine the amount of the appeal bond that the unauthorized person shall be required to
+15 post should the unauthorized person seek to appeal the court order. The amount of the bond shall
+16 be a minimum of ten thousand dollars ($10,000), but may be set at a higher amount based on an
+17 estimate of the rent that could reasonably be charged for a valid rental of the property during the
+18 time the unauthorized person is prosecuting the appeal and reasonable damages that the property
+19 owner may suffer, including damage to property and damages arising from the inability of the
+20 property owner to reside in or rent the property during the unauthorized person's possession of
+21 the property."
+22 SECTION 4.(b) G.S. 42A-25 reads as rewritten:
+23 "§ 42A-25. Appeal.
+24 A tenant or landlord may appeal a court order issued pursuant to G.S. 42A-24(d) to district
+25 court for a trial de novo. Notice of appeal may be given orally in open court upon announcement
+26 or after a judgment is entered. If not announced in open court, written notice of appeal must be
+27 filed in the office of the clerk of superior court within 10 days after a judgment is entered. A
+28 tenant may petition the district court to stay the eviction order and shall post a cash or secured
+29 bond with the court in the amount determined by the court pursuant to G.S. 42A-24(d)."
+30 SECTION 4.(c) This section is effective when it becomes law.
+31
+32 AMEND DEFAULT JUDGMENT PROVISION IN DIVORCE PROCEEDINGS
+33 SECTION 5.(a) G.S. 50-10 reads as rewritten:
+34 "§ 50-10. Material facts found by judge or jury in divorce or annulment proceedings; when
+35 notice of trial not required; procedure same as ordinary civil actions.
+36 (a) Except as provided for in subsection (e) of this section, the material facts in every
+37 complaint asking for a divorce or for an annulment shall be deemed to be denied by the defendant,
+38 whether the same shall be actually denied by pleading or not, and no judgment shall be given in
+39 favor of the plaintiff in any such complaint until such facts have been found by a judge or jury.
+40 (b) Nothing herein shall require notice of trial to be given to a defendant who has not
+41 made an appearance in the action.
+42 (c) The determination of whether there is to be a jury trial or a trial before the judge
+43 without a jury shall be made in accordance with G.S. 1A-1, Rules 38 and 39.
+44 (d) The provisions of G.S. 1A-1, Rule 56, shall be applicable to actions for absolute
+45 divorce pursuant to G.S. 50-6, for the purpose of determining whether any genuine issue of
+46 material fact remains for trial by jury, but in the event the court determines that no genuine issue
+47 of material fact remains for trial by jury, the court must find the facts as provided herein. The
+48 court may enter a judgment of absolute divorce pursuant to the procedures set forth in G.S. 1A-1,
+49 Rule 56, finding all requisite facts from nontestimonial evidence presented by affidavit, verified
+50 motion or other verified pleading.
+House Bill 377-Third Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (e) The clerk of superior court, upon request of the plaintiff, may enter judgment in cases
+2 in which the plaintiff's only claim against the defendant is for absolute divorce, or absolute
+3 divorce and the resumption of a former name, and the defendant has been defaulted for failure
+4 failed to appear, the defendant has answered admitting the allegations of the complaint, or the
+5 defendant has filed a waiver of the right to answer, and the defendant is not an infant or
+6 incompetent person."
+7 SECTION 5.(b) This section is effective when it becomes law and applies to actions
+8 for absolute divorce filed or pending on or after that date.
+9
+10 REPEAL OBSOLETE PROVISION
+11 SECTION 6.(a) G.S. 7A-343.6 is repealed.
+12 SECTION 6.(b) This section is effective when it becomes law.
+13
+14 CLARIFY ASL INTERPRETER PAYMENTS
+15 SECTION 7.(a) G.S. 8B-8(a) reads as rewritten:
+16 "(a) An interpreter appointed under this Chapter is entitled to a reasonable fee for services,
+17 including waiting time, time reserved by the courts for the assignment, and reimbursement for
+18 necessary travel and subsistence expenses. The fee shall be fixed by the appointing authority who
+19 shall consider any fee schedule for interpreters established by the Department of Health and
+20 Human Services. Services, except that the Director of the Administrative Office of the Courts
+21 shall fix the fee for interpreters appointed to interpret proceedings in the General Court of Justice.
+22 Reimbursement for necessary travel and subsistence expenses shall be at rates provided by law
+23 for State employees generally."
+24 SECTION 7.(b) This section becomes effective October 1, 2026.
+25
+26 CLARIFY CERTAIN FILINGS
+27 SECTION 8.(a) G.S. 7A-98(a) reads as rewritten:
+28 "(a) Any matter required or permitted to be supported, evidenced, established, or proved
+29 in writing under oath or affirmation may, if filed electronically pursuant to rules promulgated by
+30 the Supreme Court under G.S. 7A-49.5, in the General Court of Justice with like force and effect
+31 be supported, evidenced, established, or proved by an unsworn declaration in writing, subscribed
+32 by the declarant and dated, that the statement is true under penalty of perjury."
+33 SECTION 8.(b) G.S. 8C-1, Rule 803(6) reads as rewritten:
+34 "(6) Records of Regularly Conducted Activity. – A memorandum, report, record,
+35 or data compilation, in any form, of acts, events, conditions, opinions, or
+36 diagnoses, made at or near the time by, or from information transmitted by, a
+37 person with knowledge, if (i) kept in the course of a regularly conducted
+38 business activity and (ii) it was the regular practice of that business activity to
+39 make the memorandum, report, record, or data compilation, all as shown by
+40 the testimony of the custodian or other qualified witness, by affidavit or by
+41 document under seal under Rule 902 of the Rules of Evidence made by the
+42 custodian or witness, or by a certification that complies with 28 U.S.C. § 1746
+43 or G.S. 7A-98 made by the custodian or witness, unless the source of
+44 information or the method or circumstances of preparation indicate lack of
+45 trustworthiness. Authentication of evidence by affidavit shall be confined to
+46 the records of nonparties, and the proponent of that evidence shall give
+47 advance notice to all other parties of intent to offer the evidence with
+48 authentication by affidavit. The term "business" as used in this paragraph
+49 includes business, institution, association, profession, occupation, and calling
+50 of every kind, whether or not conducted for profit."
+51 SECTION 8.(c) This section becomes effective October 1, 2026.
+Page 6 House Bill 377-Third Edition
+General Assembly Of North Carolina Session 2025
+1
+2 ALLOW IDS ATTORNEYS ELECTRONIC ACCESS TO FILES
+3 SECTION 9.(a) G.S. 7A-452(e) reads as rewritten:
+4 "(e) In cases in which an indigent person has entered notice of appeal and appellate
+5 counsel has been appointed by the Office of Indigent Defense Services, the clerk of superior
+6 court shall make a copy of the complete trial division file in the case, case available to the
+7 appointed attorney which may be made available by electronic access within the electronic filing
+8 and case management system and make a copy of documentary exhibits and digital storage media
+9 containing exhibits upon request, and furnish those files and any requested documentary exhibits
+10 to the appointed attorney.request and furnish the requested documentary exhibits to the appointed
+11 attorney."
+12 SECTION 9.(b) This section becomes effective October 1, 2026.
+13
+14 MODIFY SAFEKEEPING STATUTE RELATED TO WILLS
+15 SECTION 10.(a) G.S. 31-11 reads as rewritten:
+16 "§ 31-11. Depositories in offices of clerks of superior court where living persons may file
+17 deposit wills.
+18 (a) The clerk of the superior court in each county of North Carolina is required to keep a
+19 receptacle or depository in which any testator who desires to do so may deposit that testator's
+20 original paper will for safekeeping. The clerk is only authorized to receive the will from the
+21 testator, or an a testator's agent with sufficient authority under a power of attorney instrument to
+22 deposit the will, or an attorney for the testator. Once a testator has died, the clerk is not authorized
+23 to receive the will for the clerk's receptacle or depository from any agent or attorney for the
+24 testator.
+25 (b) The clerk shall, upon written request of the testator, or the duly authorized a testator's
+26 agent with sufficient authority under a power of attorney instrument to withdraw the will, or
+27 attorney for the testator, permit said will or testament to be withdrawn from said depository or
+28 receptacle at any time prior to the death of the testator.
+29 (c) While in the clerk's receptacle or depository, the contents of said will shall not be
+30 made public or open to the inspection of anyone other than the testator or the testator's duly
+31 authorized agent or attorney testator, a testator's agent with sufficient authority under a power of
+32 attorney instrument to review and inspect the will, or an attorney for the testator until the testator
+33 has died. Once the clerk has received proof of the testator's death, the clerk is authorized to allow
+34 the will to be made open to the inspection of any person interested in the testator's estate. The
+35 will shall remain in the clerk's receptacle or depository until the will is offered for probate.probate
+36 or filed with the clerk without probate.
+37 (d) The clerk is required to retain the original paper will until withdrawn, probated or
+38 filed in the deceased testator's estate file, or once 60 years have passed since the will was
+39 originally deposited with the clerk. If after 60 years the will has not been withdrawn or filed in
+40 the deceased testator's estate file, the clerk is authorized to comply with records retention rules
+41 for deposited wills set by the Director of the Administrative Office of the Courts."
+42 SECTION 10.(b) This section becomes effective October 1, 2026.
+43
+44 TECHNICAL CORRECTION
+45 SECTION 11.(a) G.S. 30-15(f) reads as rewritten:
+46 "(f) A proceeding for a spouse's allowance shall be an estate proceeding governed by the
+47 provisions of Article 2 of Chapter 28 28A of the General Statutes."
+48 SECTION 11.(b) G.S. 30-17(e) reads as rewritten:
+49 "(e) A proceeding for a child's allowance shall be an estate proceeding governed by the
+50 provisions of Article 2 of Chapter 28 28A of the General Statutes."
+51 SECTION 11.(c) This section is effective when it becomes law.
+House Bill 377-Third Edition Page 7
+General Assembly Of North Carolina Session 2025
+1
+2 CLARIFY THE USE OF SUMMONSES IN CAVEAT PROCEEDINGS
+3 SECTION 12.(a) G.S. 31-33(a) reads as rewritten:
+4 "(a) Upon the filing of a caveat, the clerk shall transfer the cause to the superior court for
+5 trial by jury. The caveat shall be served upon all interested parties in accordance with in a manner
+6 prescribed by G.S. 1A-1, Rule 4 of the Rules of Civil Procedure.Procedure, without issuance of
+7 a summons."
+8 SECTION 12.(b) This section becomes effective October 1, 2026.
+9
+10 UPDATE SAFE BABIES COURT LANGUAGE TO ALLOW CHILDREN UP TO AGE 5
+11 TO PARTICIPATE
+12 SECTION 13.(a) G.S. 7B-536(a)(7) reads as rewritten:
+13 "(7) Safe babies court. – The innovative court program implementing a community
+14 engagement and systems change initiative focused on improving how the
+15 courts, department of social services, and related child-serving organizations
+16 work together to improve and expedite services for young families with at
+17 least one child who is no more than 3 5 years of age involved in juvenile
+18 actions alleging abuse, neglect, or dependency."
+19 SECTION 13.(b) This section becomes effective October 1, 2026.
+20
+21 CLARIFY JURY COMMISSION APPOINTMENTS
+22 SECTION 14.(a) G.S. 9-1 reads as rewritten:
+23 "§ 9-1. Jury commission in each county; membership; selection; oath; terms; expenses of
+24 jury system.
+25 Not later than July 1, 1967, there shall be appointed in each county a jury commission of
+26 three members. One member of the commission shall be appointed by the senior regular resident
+27 superior court judge, one member by the clerk of superior court, and one member by the board
+28 of county commissioners. The appointees shall be qualified voters of the county, and shall serve
+29 for terms of two years. Appointees may be reappointed to successive terms. If an appointment is
+30 not made by September 1, the incumbent shall serve for an additional two-year term. A vacancy
+31 in the commission shall be filled in the same manner as the original appointment, for the
+32 unexpired term. Each commissioner shall take an oath or affirmation that, without favor or
+33 prejudice, he will honestly perform the duties of a member of the jury commission during his
+34 term of service. The compensation of commissioners shall be fixed by the board of county
+35 commissioners, and shall be paid from the general fund of the county. All expenses necessary to
+36 carry out the provisions of this Chapter and to administer the jury system, including all data
+37 processing, document processing, supplies, postage, and other similar expenses, except as
+38 otherwise provided in this Chapter, shall be paid from the general fund of the county, except that
+39 the clerk of superior court shall furnish clerical or other personnel assistance, as the commission
+40 may reasonably require."
+41 SECTION 14.(b) G.S. 9-2(a) reads as rewritten:
+42 "(a) It shall be the duty of the jury commission during every odd-numbered year to prepare
+43 a master list of prospective jurors qualified under this Chapter to serve in the biennium beginning
+44 on January 1 of the next year. Instead of providing a master list for an entire biennium, the
+45 commission may prepare a master list each year if the senior regular resident superior court judge
+46 requests in writing that it do so. In either event, the master list shall be completed no later than
+47 November 15."
+48 SECTION 14.(c) G.S. 20-43.4(a) reads as rewritten:
+49 "(a) The Commissioner of Motor Vehicles shall provide to each county jury commission
+50 an alphabetical list of all persons that the Commissioner has determined are residents of the
+51 county, who will be 18 years of age or older as of the first day of January of the following year,
+Page 8 House Bill 377-Third Edition
+General Assembly Of North Carolina Session 2025
+1 and licensed to drive a motor vehicle as of July 1 of each odd-numbered year, provided that if an
+2 annual master jury list is being prepared under G.S. 9-2(a), the list to be provided to the county
+3 jury commission shall be updated and provided annually. This list shall be provided no later than
+4 September 1."
+5 SECTION 14.(d) This section is effective when it becomes law.
+6
+7 CLARIFY THE APPLICATION OF LIMITATIONS ON COMPENSATIONS FOR
+8 SERVICES RELATED TO VETERANS' BENEFITS MATTERS
+9 SECTION 14.1.(a) G.S. 143B-1278(e) reads as rewritten:
+10 "(e) Exclusions. – Nothing in this section shall apply to attorneys who are licensed to
+11 practice in the State of North Carolina. In addition, nothing in this section shall be construed to
+12 apply to, limit, or expand the requirements imposed on agents, attorneys, or other representatives
+13 accredited and regulated by the United States Department of Veterans Affairs or the North
+14 Carolina Department of Military and Veterans Affairs."
+15 SECTION 14.1.(b) This section is effective when it becomes law.
+16
+17 MAKE CERTAIN CHANGES RELATED TO JUVENILE COURT RECORDS
+18 SECTION 15.(a) G.S. 7B-2901(a) reads as rewritten:
+19 "(a) The clerk shall maintain a complete record of all juvenile cases filed in the clerk's
+20 office alleging abuse, neglect, or dependency. The records shall be withheld from public
+21 inspection and, except as provided in this subsection, may be examined only by order of the
+22 court. Nothing in this section shall be interpreted or construed to prevent the presiding district
+23 court judge or designated judicial court staff from inspecting confidential juvenile court records
+24 for purposes of discharging any obligation under this Chapter. The record shall include the
+25 summons, petition, custody order, court order, written motions, the electronic or mechanical
+26 recording of the hearing, and other papers filed in the proceeding. The recording of the hearing
+27 shall be reduced to a written transcript only when notice of appeal has been timely given. given
+28 and shall be copied electronically or mechanically, only by order of the court. After the time for
+29 appeal has expired with no appeal having been filed, the recording of the hearing may be erased
+30 or destroyed upon the written order of the court or in accordance with a retention schedule
+31 approved by the Director of the Administrative Office of the Courts and the Department of
+32 Natural and Cultural Resources under G.S. 121-5(c).
+33 The following persons may examine the juvenile's record maintained pursuant to this
+34 subsection and obtain copies of written parts of the record without an order of the court:
+35 (1) The person named in the petition as the juvenile;
+36 (2) The guardian ad litem;
+37 (3) The county department of social services; and
+38 (4) The juvenile's parent, guardian, or custodian, or the attorney for the juvenile
+39 or the juvenile's parent, guardian, or custodian.
+40 Persons not authorized to examine the juvenile's court record without a court order and
+41 seeking information contained in a juvenile court file or court record may file a written motion
+42 in the cause setting out why the information is needed. The movant shall not be considered a
+43 party to the action solely by virtue of filing a motion under this section or participating in
+44 proceedings on the motion. A district court judge, after providing the parties to the juvenile
+45 proceeding for which the records are sought with reasonable notice and an opportunity to be
+46 heard, may issue an order to disclose information in the juvenile court record upon finding that
+47 the order is appropriate under the circumstances and in the best interest of the juvenile that is the
+48 subject of the juvenile proceeding for which the records are sought. This subsection shall not be
+49 construed to relieve any court of its duty to conduct hearings and make findings that may be
+50 required for the release of certain information in the juvenile court record under any applicable
+51 State or federal law, to include 42 C.F.R. Part 2."
+House Bill 377-Third Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 SECTION 15.(b) G.S. 7B-3506 reads as rewritten:
+2 "§ 7B-3506. Costs of court.court and confidentiality of court records.
+3 The court may tax the costs of the proceeding to any party or may, for good cause, order the
+4 costs remitted.
+5 The clerk may collect costs for furnishing to the petitioner a certificate of emancipation which
+6 shall recite the name of the petitioner and the fact of the petitioner's emancipation by court decree
+7 and shall have the seal of the clerk affixed thereon. Court records made in all proceedings
+8 pursuant to this Article are confidential and are not open to public inspection, except the
+9 certificate of emancipation shall not be confidential. The petitioner, petitioner's attorney, an
+10 appointed guardian ad litem, petitioner's parent, guardian, or custodian, and attorney of the
+11 petitioner's parent, guardian, or custodian, may examine and obtain copies of the written parts of
+12 the court record without an order of the court."
+13 SECTION 15.(c) This section is effective when it becomes law.
+14
+15 CHANGE EFFECTIVE DATE FOR JUDICIAL ACCESS TO EXPUNCTION RECORDS
+16 SECTION 17.(a) Notwithstanding Section 2 of S.L. 2017-195, G.S. 15A-151(a)(1)
+17 applies to all petitions granted under Article 5 of Chapter 15A of the General Statutes that are
+18 maintained by the Administrative Office of the Courts.
+19 SECTION 17.(b) This section is effective when it becomes law.
+20
+21 CHANGE "EXECUTIVE SECRETARY" TO "EXECUTIVE DIRECTOR" IN
+22 CONFERENCE STATUTE
+23 SECTION 18.(a) G.S. 7A-808 reads as rewritten:
+24 "§ 7A-808. Executive secretary; director; clerical support.
+25 The Conference may employ an executive secretary director and any necessary supporting
+26 staff to assist it in carrying out its duties."
+27 SECTION 18.(b) This section is effective when it becomes law.
+28
+29 CLARIFY APPEAL FILING LANGUAGE
+30 SECTION 19.(a) G.S. 163-127.6(b) reads as rewritten:
+31 "(b) Appeals from Statewide Panel. – The decision of a panel created under
+32 G.S. 163-127.3(3) may be appealed as of right to the Court of Appeals by any of the following:
+33 (1) The challenger.
+34 (2) A candidate adversely affected by the panel's decision.
+35 Appeal must be taken within two business days after the panel files the written decision. The
+36 written appeal must be delivered electronically filed, delivered, or deposited in the mail to the
+37 Court of Appeals as provided by the rules of appellate procedure by the end of the second
+38 business day after the written decision was filed by the panel."
+39 SECTION 19.(b) This section becomes effective October 1, 2026.
+40
+41 MODIFY LAW RELATED TO FRIVOLOUS LAWSUITS
+42 SECTION 20.(a) G.S. 1-110 reads as rewritten:
+43 "§ 1-110. Suit as an indigent; counsel; suits filed pro se by prison inmates.
+44 (a) Subject to the provisions of subsection subsections (b) and (c) of this section with
+45 respect to prison inmates, section, any superior or district court judge or clerk of the superior
+46 court may authorize a person to sue as an indigent in their respective courts when the person
+47 makes affidavit that he or she is unable to advance the required court costs. The clerk of superior
+48 court shall authorize a person to sue as an indigent if the person makes the required affidavit and
+49 meets one or more of the following criteria:
+50 (1) Receives electronic food and nutrition benefits.
+51 (2) Receives Work First Family Assistance.
+Page 10 House Bill 377-Third Edition
+General Assembly Of North Carolina Session 2025
+1 (3) Receives Supplemental Security Income (SSI).
+2 (4) Is represented by a legal services organization that has as its primary purpose
+3 the furnishing of legal services to indigent persons.
+4 (5) Is represented by private counsel working on the behalf of or under the
+5 auspices of a legal services organization under subdivision (4) of this section.
+6 (6) Repealed by Session Laws 2002-126, s. 29A.6(d), effective October 1, 2002.
+7 A superior or district court judge or clerk of superior court may authorize a person who does
+8 not meet one or more of these criteria to sue as an indigent if the person is unable to advance the
+9 required court costs. The court to which the summons is returnable may dismiss the case and
+10 charge the court costs to the person suing as an indigent if the allegations contained in the
+11 affidavit are determined to be untrue or if the court is satisfied that the action is frivolous or
+12 malicious.
+13 (b) Whenever a motion to proceed as an indigent is filed pro se by an inmate in the
+14 custody of the Division of Prisons of the Department of Adult Correction, Correction or any
+15 sheriff in North Carolina, the motion to proceed as an indigent and the proposed complaint shall
+16 be presented to any superior court judge of the judicial district. This judge shall determine
+17 whether the complaint is frivolous. In the discretion of the court, a frivolous case may be
+18 dismissed by order. The court shall dismiss the action if it meets any of the following criteria:
+19 (1) Is frivolous or malicious.
+20 (2) Fails to state a claim on which relief may be granted.
+21 (3) Seeks relief against a defendant who is immune from such relief.
+22 The proceeding is automatically stayed until the judge rules on the motion to proceed as
+23 indigent. The clerk of superior court shall serve a copy of the order of dismissal upon the prison
+24 inmate. If the judge determines that the inmate may proceed as an indigent, the clerk of superior
+25 court shall issue service of process nunc pro tunc to the date of filing upon the defendant.
+26 (c) Whenever a motion to proceed as an indigent is filed pro se by any person or entity
+27 and the complaint is brought against a federal, State, or local government entity, or government
+28 employee in their official capacity, or government employee in their individual capacity but
+29 based on the employee's work for the government, the motion to proceed as an indigent and the
+30 complaint shall be presented to any superior court judge of the judicial district. This judge shall
+31 determine whether the complaint is frivolous. The court shall dismiss the action if it meets any
+32 of the following criteria:
+33 (1) Is frivolous or malicious.
+34 (2) Fails to state a claim on which relief may be granted.
+35 (3) Seeks relief against a defendant who is immune from such relief.
+36 The proceeding is automatically stayed until the judge rules on the motion to proceed as
+37 indigent. The clerk of superior court shall serve a copy of the order of dismissal upon the pro se
+38 filer. If the judge determines that the pro se may proceed as an indigent, the clerk of superior
+39 court shall issue service of process nunc pro tunc to the date of filing upon the defendant."
+40 SECTION 20.(b) G.S. 7A-305(c) reads as rewritten:
+41 "(c) The clerk of superior court, at the time of the filing of the papers initiating the action
+42 or the appeal, shall collect as advance court costs, the facilities fee, General Court of Justice fee,
+43 and the divorce fee imposed under subsection (a2) of this section, except in suits by an indigent.
+44 The clerk shall also collect the fee for discovery procedures under Rule 27(a) and (b) at the time
+45 of the filing of the verified petition. The clerk may reject a filing that initiates an action that is
+46 not accompanied by these fees unless the filing is accompanied by a motion to proceed as indigent
+47 or the filing is made by a county or municipality that pays costs in accordance with G.S. 7A-317."
+48 SECTION 20.(c) G.S. 7A-306(b) reads as rewritten:
+49 "(b) The facilities fee and thirty dollars ($30.00) of the General Court of Justice fee are
+50 payable at the time the proceeding is initiated.The clerk may reject a filing that is not
+51 accompanied by the fees set forth in subsection (a) of this section unless the filing is accompanied
+House Bill 377-Third Edition Page 11
+General Assembly Of North Carolina Session 2025
+1 by a motion to proceed as indigent or the filing is made by a county or municipality that pays
+2 costs in accordance with G.S. 7A-317."
+3 SECTION 20.(d) G.S. 7A-307(a) reads as rewritten:
+4 "(a) In the administration of the estates of decedents, minors, incompetents, of missing
+5 persons, in the administration of trusts under wills and under powers of attorney, in trust
+6 proceedings under G.S. 36C-2-203, in estate proceedings under G.S. 28A-2-4, in power of
+7 attorney proceedings under G.S. 32C-1-116(a), and in collections of personal property by
+8 affidavit, the following costs shall be assessed:
+9 …
+10 (2e) For filings where the clerk is required to assess the fee in G.S. 7A-307(a)(1),
+11 the fee in G.S. 7A-307(a)(1a), and the one hundred six dollar ($106.00) fee in
+12 G.S. 7A-307(a)(2), the clerk may reject a filing that is not accompanied by
+13 these fees, unless the filing is accompanied by a motion to proceed as indigent
+14 when indigency is applicable or the filing is made by a county or municipality
+15 that pays costs in accordance with G.S. 7A-317. A public administrator or
+16 public guardian may delay payment of the required fees described herein until
+17 filing the inventory or first accounting. A motion to proceed as indigent
+18 pursuant to G.S. 1-110 does not apply to the administration of the estates of
+19 decedents, minors, incompetents, or missing persons in the administration of
+20 trusts under wills and under powers of attorney.
+21 …."
+22 SECTION 20.(e) G.S. 7A-308 is amended by adding a new subsection to read:
+23 "(d) The clerk may reject a filing that is not accompanied by the fees required in this
+24 section unless the filing is made by a county or municipality that pays costs in accordance with
+25 G.S. 7A-317."
+26 SECTION 20.(f) This section becomes effective October 1, 2026.
+27
+28 MODIFY ROTATION OF SUPERIOR COURT JUDGES
+29 SECTION 21.(a) G.S. 7A-47.3 is amended by adding a new subsection to read:
+30 "(a1) In making assignment of the judges of the superior court for a district consisting of at
+31 least one county with a population over 1,000,000 according to the most recent federal decennial
+32 census, the Chief Justice of the Supreme Court shall include superior court judges from (i) other
+33 districts in that same judicial division and (ii) districts from any judicial division adjacent to the
+34 district consisting of at least one county with a population over 1,000,000. A superior court judge
+35 from a district in an adjacent judicial division may only be assigned under the authorization set
+36 forth in this subsection one six-month term every five years, except by consent of the judge. The
+37 purpose of this subsection is to more evenly spread the burden placed on smaller judicial districts
+38 from having judges who were elected for those districts holding court mostly in other judicial
+39 districts consisting of larger counties."
+40 SECTION 21.(b) This section is effective when it becomes law and applies to
+41 rotations on or after that date.
+42
+43 PERMIT LOCAL SUPPLEMENTATION FOR MAGISTRATE PAY
+44 SECTION 22.(a) G.S. 7A-300.1 reads as rewritten:
+45 "§ 7A-300.1. Local supplementation of salaries for certain officers and employees.
+46 (a) In order to attract and retain the best qualified officers and employees for positions in
+47 the Judicial Branch of government, the Administrative Office of the Courts may contract with
+48 the governing body of a city or county for the provision of local funds to supplement the salaries
+49 of Judicial Department employees, other than elected officials and magistrates, officials, who
+50 serve the superior court district, district court district, or prosecutorial district containing that unit
+51 of local government. Any employee who receives salary supplementation under this section shall
+Page 12 House Bill 377-Third Edition
+General Assembly Of North Carolina Session 2025
+1 be notified before receiving it that the supplementation is subject to the availability of local funds,
+2 may be discontinued at any time, and is not "compensation" for purposes of the Teachers' and
+3 State Employees' Retirement System or the Consolidated Judicial Retirement System.
+4 …."
+5 SECTION 22.(b) This section is effective when it becomes law.
+6
+7 CLARIFY FEES CAN BE AWARDED TO THE PREVAILING PARTY
+8 SECTION 25.(a) G.S. 7A-305 reads as rewritten:
+9 "§ 7A-305. Costs in civil actions.
+10 (a) In every civil action in the superior or district court, except for actions brought under
+11 Chapter 50B of the General Statutes, the following shall be assessed:assessed and shall be
+12 recoverable by the prevailing party who paid them:
+13 (1) For the use of the courtroom and related judicial facilities, the sum of twelve
+14 dollars ($12.00) in cases heard before a magistrate, and the sum of sixteen
+15 dollars ($16.00) in district and superior court, to be remitted to the county in
+16 which the judgment is rendered, except that in all cases in which the judgment
+17 is rendered in facilities provided by a municipality, the facilities fee shall be
+18 paid to the municipality. Funds derived from the facilities fees shall be used
+19 in the same manner, for the same purposes, and subject to the same
+20 restrictions, as facilities fees assessed in criminal actions.
+21 …
+22 (a5) In every civil action in the superior or district court wherein a party files a pleading
+23 containing one or more counterclaims, third-party complaints, or cross-claims, except for
+24 counterclaim and cross-claim actions brought under Chapter 50B of the General Statutes for
+25 which costs are assessed pursuant to subsection (a1) of this section, the following shall be
+26 assessed:assessed and shall be recoverable by the prevailing party who paid them:
+27 (1) For the use of the courtroom and related judicial facilities, the sum of twelve
+28 dollars ($12.00) in cases heard before a magistrate, and the sum of sixteen
+29 dollars ($16.00) in district and superior court, to be remitted to the
+30 municipality providing the facilities in which the judgment is rendered. If a
+31 municipality does not provide the facilities in which the judgment is rendered,
+32 the sum is to be remitted to the county in which the judgment is rendered.
+33 Funds derived from the facilities' fees shall be used in the same manner, for
+34 the same purposes, and subject to the same restrictions as facilities' fees
+35 assessed in criminal actions.
+36 …
+37 (d) The following expenses, when incurred, are assessable or recoverable, as the case
+38 may be. The expenses set forth in this subsection are complete and exclusive and constitute a
+39 limit on the trial court's discretion to tax costs pursuant to G.S. 6-20:
+40 (1) Witness fees, as provided by law.
+41 (2) Jail fees, as provided by law.
+42 (3) Counsel fees, as provided by law.
+43 (4) Expense of service of process by certified mail and by publication.
+44 (5) Costs on appeal to the superior court, or to the appellate division, as the case
+45 may be, of the original transcript of testimony, if any, insofar as essential to
+46 the appeal.
+47 (6) Fees for personal service and civil process and other sheriff's fees, as provided
+48 by law. Fees for personal service by a private process server may be
+49 recoverable in an amount equal to the actual cost of such service or fifty
+50 dollars ($50.00), whichever is less, unless the court finds that due to difficulty
+51 of service a greater amount is appropriate.
+House Bill 377-Third Edition Page 13
+General Assembly Of North Carolina Session 2025
+1 (7) Fees of mediators appointed by the court, mediators agreed upon by the
+2 parties, guardians ad litem, referees, receivers, commissioners, surveyors,
+3 arbitrators, appraisers, and other similar court appointees, as provided by law.
+4 The fee of such appointees shall include reasonable reimbursement for
+5 stenographic assistance, when necessary.
+6 (8) Fees of interpreters, when authorized and approved by the court.
+7 (9) Premiums for surety bonds for prosecution, as authorized by G.S. 1-109.
+8 (10) Reasonable and necessary expenses for stenographic and videographic
+9 assistance directly related to the taking of depositions and for the cost of
+10 deposition transcripts.
+11 (11) Reasonable and necessary fees of expert witnesses solely for actual time spent
+12 providing testimony at trial, deposition, or other proceedings.
+13 (12) The fee assessed pursuant to subdivision (2) of subsection (a) of this section
+14 upon assignment of a case to a special superior court judge as a complex
+15 business case.
+16 (13) Fees assessed pursuant to subsection (a) of this section to the prevailing party
+17 who paid them.
+18 (14) Fees assessed pursuant to subsection (a5) of this section to the prevailing party
+19 who paid them.
+20 Nothing in this subsection or in G.S. 6-20 shall be construed to limit the trial court's authority to
+21 award fees and expenses in connection with pretrial discovery matters as provided in Rule 26(b)
+22 or Rule 37 of the Rules of Civil Procedure, and no award of costs made pursuant to this section
+23 or pursuant to G.S. 6-20 shall reverse or modify any such orders entered in connection with
+24 pretrial discovery.
+25 …."
+26 SECTION 25.(b) This section is effective when it becomes law and applies to
+27 actions filed on or after that date.
+28
+29 AOC AND IDS REPORTS AND RECOMMENDATIONS
+30 SECTION 26.(a) No later than March 1, 2027, the Administrative Office of the
+31 Courts, in consultation with the Office of Indigent Defense Services, shall report on processes to
+32 enforce correction of errors in global party records in Enterprise Justice and update records of
+33 civil judgments owed to the State of North Carolina.
+34 SECTION 26.(b) No later than March 1, 2027, the Administrative Office of the
+35 Courts, in consultation with the Office of Indigent Defense Services, shall identify any potential
+36 legislative changes that would facilitate speedy correction of erroneous court records and to
+37 enforce requirement of judicial finding of indigency prior to appointment of counsel.
+38 SECTION 26.(c) The Office of Indigent Defense Services (IDS) shall (i) study the
+39 location of duty stations for employees of the Office of Capital Defender, (ii) review utilization
+40 of all leased office space by all IDS employees with a duty station in Durham, North Carolina,
+41 and (iii) report to the General Assembly no later than March 1, 2027, on any cost-savings that
+42 might be attained by reducing footprint of leased office space.
+43 SECTION 26.(d) This section is effective when it becomes law.
+44
+45 TECHNICAL CORRECTIONS TO THE ESTATE PLANNING STATUTES
+46 SECTION 27.1.(a) G.S. 30-3.4 reads as rewritten:
+47 "§ 30-3.4. Procedure for determining the elective share.
+48 …
+49 (e1) Procedure. – The verified petition shall be filed by the clerk upon payment of the costs
+50 assessed in G.S. 7A-307. An elective share proceeding shall be an estate proceeding and shall be
+Page 14 House Bill 377-Third Edition
+General Assembly Of North Carolina Session 2025
+1 conducted in accordance with the procedures of Article 2 of Chapter 28A of the General Statutes,
+2 except as modified or supplemented by the following:
+3 (1) Upon the filing of the verified petition, the petition shall be served upon the
+4 personal representative in accordance with G.S. 1A-1, Rule 4 of the Rules of
+5 Civil Procedure, without issuance of a summons. The petition shall also be
+6 served on all responsible persons as those persons become known to the
+7 petitioner in accordance with G.S. 1A-1, Rule 4 of the Rules of Civil
+8 Procedure, without issuance of a summons. The failure to serve the petition
+9 for elective share on the personal representative or any other person within the
+10 six-month period described in subsection (b) of this section shall not render
+11 the claim for elective share as being untimely filed.
+12 (2) After service under subdivision (1) of this subsection, the petitioner, the
+13 personal representative, or any other party may cause notice of a hearing
+14 before the clerk to be served upon all parties in accordance with G.S. 1A-1,
+15 Rule 5 of the Rules of Civil Procedure. At the hearing, the clerk may set
+16 deadlines as to the gathering and sharing of information concerning total net
+17 assets and may determine any other relevant procedural matters.The petition
+18 shall also be served on all responsible persons as such persons become known
+19 to the petitioner in accordance with G.S. 1A-1, Rule 4 of the Rules of Civil
+20 Procedure, with issuance of a summons. The summons and the claims in the
+21 petition shall relate back to the date of the filing of the petition. The
+22 requirement that a summons be issued within five days of the filing of the
+23 petition as set forth in G.S. 1A-1, Rule 4(a) of the Rules of Civil Procedure,
+24 shall not apply.
+25 (3) Within 30 days following the entry of an order resulting from the hearing
+26 described in subdivision (2) of this subsection, any party who was present at
+27 the hearing may file a responsive pleading to the petition; provided, however,
+28 that failure to respond to any averment or claim in the petition shall not be
+29 deemed an admission of that averment or claim. An extension of time to file
+30 a responsive pleading to the petition may be granted as provided by G.S. 1A-1,
+31 Rule 6 of the Rules of Civil Procedure.The failure to serve the petition for
+32 elective share on the personal representative or any other person within the
+33 six-month period of limitations set forth in subsection (b) of this section shall
+34 not render the claim for elective share as being untimely filed.
+35 (4) After service under subdivision (1) of this subsection, the petitioner, the
+36 personal representative, or any other party may cause notice of a hearing
+37 before the clerk to be served upon all parties in accordance with G.S. 1A-1,
+38 Rule 5 of the Rules of Civil Procedure. At the hearing, the clerk may set
+39 deadlines as to the gathering and sharing of information concerning total net
+40 assets and determine any other relevant procedural matters.
+41 (5) Within 30 days following the entry of an order resulting from the hearing, any
+42 party who was present at the hearing may file a responsive pleading to the
+43 elective share petition, provided, however, that failure to respond to any
+44 averment or claim of the elective share petition shall not be deemed an
+45 admission of that averment or claim. An extension of time to file a responsive
+46 pleading to the petition may be granted as provided by G.S. 1A-1, Rule 6 of
+47 the Rules of Civil Procedure.
+48 …."
+49 SECTION 27.1.(b) This section is effective when it becomes law and applies to
+50 claims for elective share filed on or after that date.
+51 SECTION 27.2.(a) G.S. 30-15(f) reads as rewritten:
+House Bill 377-Third Edition Page 15
+General Assembly Of North Carolina Session 2025
+1 "(f) A proceeding for a spouse's allowance shall be an estate proceeding governed by the
+2 provisions of Article 2 of Chapter 28 28A of the General Statutes."
+3 SECTION 27.2.(b) This section is effective when it becomes law and applies to
+4 petitions filed on or after that date.
+5 SECTION 27.3.(a) G.S. 30-17(e) reads as rewritten:
+6 "(e) A proceeding for a child's allowance shall be an estate proceeding governed by the
+7 provisions of Article 2 of Chapter 28 28A of the General Statutes."
+8 SECTION 27.3.(b) This section is effective when it becomes law and applies to
+9 petitions filed on or after that date.
+10 SECTION 27.4.(a) G.S. 36C-6-606 reads as rewritten:
+11 "§ 36C-6-606. Revocation of provisions in revocable trust by divorce or annulment; revival.
+12 …
+13 (b) This section shall not apply to a revocable trust if any of the following occur:
+14 (1) The settlor executes a subsequent valid amendment to the revocable trust,
+15 trust, which makes express reference to the revocable trust, such as by date of
+16 the revocable trust, and which modifies the revocable trust.
+17 (2) The settlor remarries the former spouse prior to the settlor's death, unless the
+18 remarriage is subsequently dissolved by absolute divorce or annulment.
+19 (c) As used in this section, the term "former spouse" includes a purported former spouse."
+20 SECTION 27.4.(b) This section is effective when it becomes law.
+21
+22 EFFECTIVE DATE
+23 SECTION 28. Except as otherwise provided, this act is effective when it becomes
+24 law.
+Page 16 House Bill 377-Third Edition
+[DELETED:  3 2 (   A A N T T  A S " ( T t c ( E c t ( T ( T ( T ( T p ( I d … S " ( A a f p p ( D p o ( W f]
+[DELETED:  S  H p o ( A p r a t t d f c D ( T a t n c ( T t ( T o e i r o ( I D t S  C E S " ( I s i b d c d a d b o p ( I a t g u]
+[DELETED:  S  P d s ( I a a r I t d a p f a u a a o t m t w a c i S p  M S " A ( P ( C e o o ( I a O d a c s c a b t C o I t d b i t S p t t c o s c w t v o t p p t b a b t p r e o h t t b D b ( t o a ( S a S s b b S s c b t o m s p s e o w h t c A f m o f d o t i f a b t a o t c o r e l i N C]
+[DELETED:  S  H 1 E t 2 C e c t o i t c o a d o t i e c T t u i s h b p r i t c o c c t o o t f a u s i p a p i G d A s f b s c o t d S t i p a p i G F t p o d t v o t a o t p s i s t s b c S " E a o p b G a G n g g g d t G e b a d a s c o s b c i a a o e o s n m p]
+[DELETED:  S  P b o S  M S " A m n i t f s p b e t o p t S " A c o f t b S  A S " n ( E c w f ( N m ( T w ( T d m o c R m]
+[DELETED:  S  H ( T i d f d h f a w o t r t a a t d i n a i o i S f  R S S  C S " A i n s H s R f S  C S " A i t b b S " R o c i f o e c o d p c b m t d c o G m b t c o w u t s o i t t r o n a t p o t e s g a n t a o p o i t o t e w a " i o S]
+[DELETED:  S  P  A S " I c i w a i p h e n o a a a c c a a c t a S  M S " d ( T r o t d t t ( T a a r ( W m a a h t w o ( T f i t d t e f o o 6 y h p s t w w o t f S  T S " A p S " A p S]
+[DELETED:  S  H  C S " U t p a S  U T S " S e a s c i f o i h t c w l a S  C S " j N t s o f n i t c s b f i t s m a t o a f t u t E c s t o o t w f p t T c t c c p d p s p a o s e e a o t m S " I a o c r N S " T a c]
+[DELETED:  S  P a a j S S  C T A O L O C F S S " E p a a a r b t U S D o V A o N C S  M S " T o a a n o d T r s b w f p i c c f a T r s r s a a o a N T f p m e t j r m p t t s ( T ( T ( T ( T o P n a e t j c r a o s i p t t a s b v o a m u s o i p p h t s c r S]
+[DELETED:  S  H S " T c T s a s h t s o c a t C r m i a p p t t A a c a a n o t p i e t c c a a a g a l p p g o c a a o t p t S  C S a m S  C " S T " D I C S " T s S  C S " A f S P – T d o a p c u G ( T ( A A w C b b S  M S " ( S r c m c m ( R ( R]
+[DELETED:  S  P ( R ( I t ( I r b p c w o t b o o u t a ( R A n r c c a m ( W c s b p t a s c j o j d T j s d w t c i f I t d o t c a f c m b d ( I ( F ( S T i i c ( W a e b c d o ( I ( F ( S T i f c S " T o a T o n o S " T p a t t t p i i c m r a f t i n a]
+[DELETED:  S  H b c S " I p i t a o t u w a u p o a i t p u G i e p u G i p o a p u G a i c o p p b a … ( F t G t w t p f t i o f a A m t p a i p d t … S " T s G S  M S " I l c d d f f p f d S 2  T s i e w i b l a a t r  P S " ( I t t o s o]
+[DELETED:  S  P b m S … S  C S " ( I C 5 o t G S t f s b a a s b r ( F d d w i p i t s m f t s p a s t t s r … ( I c o o m c t c o c e f c w c a a p t s ( o t s t f s b a ( F d d ( i d a s c t b r t t m m t F t s p a s t t s r a f f a … ( T m l ( W ( J ( C ( E ( C m t ( F b l F f p s b a p p s m b r e d o]
+[DELETED:  S  H ( F o m a b t c m a u b t p g a l r r c s a T f o s a s i r r f s ( F ( P ( R a n e f s a v a d ( R p ( T u b ( F w ( F w N a o o p … S 2  T s i e w i b l a a t a  A S C e c S C l e S l o a m S  T S " … ( P a]
+[DELETED:  S  P c e ( U p C s o a r p a t p b k t t p i a w G R 4 o t R o C P f s t ( A s u s ( o t s t p t p r o o m c n o h b R d a s t P p s r b t t d o t f o t p T r p s ( W d t t d a R e s n ( A s u s ( o t s t p t p r o o m c n o h b R d a ( W p e s p p h t f t r t a a o c o t e s p s n b d a a p t … S c S]
+[DELETED:  S  H " A p S p S " A p S p S " … ( T ( T t t ( T r ( A S  E S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 3
+HOUSE BILL 377
+Committee Substitute Favorable 3/25/25
+Senate Judiciary Committee Substitute Adopted 5/20/26
+Short Title: 2026 Court Changes. (Public)
+Sponsors:
+Referred to:
+March 13, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENACT CERTAIN MODIFICATIONS TO THE LAWS RELATED TO THE
+3 NORTH CAROLINA COURT SYSTEM AND TO MAKE TECHNICAL CORRECTIONS
+4 TO ESTATE PLANNING STATUTES.
+5 The General Assembly of North Carolina enacts:
+6
+7 AMEND ADOPTION LAW TO FACILITATE E-FILING
+8 SECTION 1.(a) G.S. 48-2-304 reads as rewritten:
+9 "§ 48-2-304. Petition for adoption; content.
+10 (a) The original petition for adoption must be signed and verified by each petitioner, and
+11 the original and two exact or conformed copies petitioner and shall be filed with the clerk of
+12 court. The petition shall state:
+13 (1) Each petitioner's full name, current address, place of domicile if different from
+14 current address, and whether each petitioner has resided or been domiciled in
+15 this State for the six months immediately preceding the filing of the petition;
+16 (2) The marital status and gender of each petitioner;
+17 (3) The sex and, if known, the date and state or country of birth of the adoptee;
+18 (4) The full name by which the adoptee is to be known if the petition is granted;
+19 (5) That the petitioner desires and agrees to adopt and treat the adoptee as the
+20 petitioner's lawful child; and
+21 (6) If the adoptee is a minor or an adult who has been adjudicated incompetent, a
+22 description and estimate of the value of any property of the adoptee.
+23 …."
+24 SECTION 1.(b) G.S. 48-9-102 reads as rewritten:
+25 "§ 48-9-102. Records confidential and sealed.
+26 (a) All records created or filed in connection with an adoption, except the decree of
+27 adoption and the entry in the special proceedings index in the office of the clerk of court, and on
+28 file with or in the possession of the court, an agency, the State, a county, an attorney, or other
+29 provider of professional services, are confidential and may not be disclosed or used except as
+30 provided in this Chapter.
+31 (b) During a proceeding for adoption, records shall not be open to inspection by any
+32 person except upon an order of the court finding that disclosure is necessary to protect the interest
+33 of the adoptee.
+34 (c) When a decree of adoption becomes final, all records and all indices of records, except
+35 for the Special Proceedings Index, on file with the court, an agency, or this State shall be retained
+*H377-v-3*
+
+General Assembly Of North Carolina Session 2025
+1 permanently and sealed. Sealed records shall not be open to inspection by any person except as
+2 otherwise provided in this Article.
+3 (d) All Copies of all records filed in connection with an adoption, including a copy of the
+4 petition giving the date of the filing of the original petition, the original of each consent and
+5 relinquishment, additional documents filed pursuant to G.S. 48-2-305, any report to the court,
+6 any additional documents submitted and orders entered, any orders of dismissal, and a copy of
+7 the final decree, adoption proceeding shall be sent made available by the clerk of superior court
+8 to the Division within 10 days after the appeal period for a decree of adoption has expired or 10
+9 days following the final disposition of an appeal pursuant to G.S. 48-2-607(b). The petition and
+10 final decree or order of dismissal shall be retained by the clerk.For purposes of this subsection,
+11 copies of the records may be made available through electronic transfer or by providing the
+12 Division with electronic access within the electronic filing and case management system.
+13 (d1) The Division, within 40 days after receipt of the record in subsection (d), shall conduct
+14 a limited review for the sole purpose of identifying any obvious error on the report to vital records
+15 that is prepared by the superior court clerk and to notify the clerk of the error. If the Division
+16 notifies the superior court clerk of an error in the report to vital records, then the clerk shall
+17 correct the report and return it to the Division within 10 days after receipt of the notice.
+18 (e) The Division shall, subject to the review in (d1), cause the papers and reports related
+19 to the proceeding to be permanently indexed and filed.
+20 (f) The Division shall, within 40 days after receiving it from the court, transmit a report
+21 of each adoption and any name change to the State Registrar Registrar, which may be transmitted
+22 electronically, if the adoptee was born in this State. In the case of an adoptee who was not born
+23 in this State, the Division shall, within 40 days after receiving it from the court, transmit the
+24 report and any name change to the appropriate official responsible for issuing birth certificates
+25 or their equivalent.
+26 (g) In any adoption, the State Registrar may, in addition to receiving the report from the
+27 Division, request a copy of the final order and any separate order of name change directly from
+28 the clerk of court."
+29 SECTION 1.(c) This section becomes effective October 1, 2026.
+30
+31 CLARIFY HOW A RENTER-DEFENDANT APPELLANT MAINTAINS A STAY OF
+32 EXECUTION
+33 SECTION 2.(a) G.S. 42-34.1 reads as rewritten:
+34 "§ 42-34.1. Rent pending execution of judgment; post bond pending appeal.
+35 (a) If the judgment in district court is against the defendant appellant, it is sufficient to
+36 stay execution of the judgment during the 30-day time period for taking an appeal provided for
+37 in Rule 3 of the North Carolina Rules of Appellate Procedure if the defendant appellant posts a
+38 bond as provided in G.S. 42-34(b). No additional security under G.S. 1-292 is required. If the
+39 defendant appellant previously filed an undertaking after appeal of the magistrate's judgment and
+40 continues to pay periodic rent required by the prior undertaking after the judgment from the
+41 district court, the continued periodic payments toward this undertaking will satisfy this provision
+42 and maintain the stay of execution during the 30-day time period for taking an appeal. If the
+43 defendant appellant fails to make rental payments as provided in the undertaking within five
+44 business days of the day rent is due under the terms of the residential rental agreement, the clerk
+45 of superior court shall, upon application of the plaintiff appellee, immediately issue a writ of
+46 possession, and the sheriff shall dispossess the defendant appellant as provided in G.S. 42-36.2.
+47 (a1) If the judgment in district court is against the defendant appellant and the defendant
+48 appellant does not appeal the judgment, the defendant appellant shall pay rent to the plaintiff for
+49 the time the defendant appellant remains in possession of the premises after the judgment is
+50 given. Rent shall be prorated if the judgment is executed before the day rent would become due
+51 under the terms of the lease. The clerk of court shall disburse any rent in arrears paid by the
+Page 2 House Bill 377-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 defendant appellant in accordance with a stipulation executed by all parties or, if there is no
+2 stipulation, in accordance with the judge's order.
+3 (b) If the judgment in district court is against the defendant appellant and the defendant
+4 appellant appeals the judgment, it is sufficient to stay execution of the judgment if the defendant
+5 appellant posts a bond as provided in G.S. 42-34(b). No additional security under G.S. 1-292 is
+6 required. If the defendant appellant previously filed an undertaking after appeal of the
+7 magistrate's judgment and continues to pay periodic rent required by the prior undertaking after
+8 the judgment from the district court, the continued periodic payments toward this undertaking
+9 will satisfy this provision and maintain the stay of execution during the appeal. If the defendant
+10 appellant fails to perfect the appeal or the appellate court upholds the judgment of the district
+11 court, the execution of the judgment shall proceed. The clerk of court shall not disburse any rent
+12 in arrears paid by the defendant appellant until all appeals have been resolved."
+13 SECTION 2.(b) This section is effective when it becomes law and applies to actions
+14 pending and filed on or after that date.
+15
+16 MODIFY CERTAIN BOND REQUIREMENTS
+17 SECTION 3.(a) G.S. 28A-8-2 reads as rewritten:
+18 "§ 28A-8-2. Provisions of bond.
+19 A bond given pursuant to this Article shall be:
+20 (1) Payable to the State to the use of all persons interested in the estate; and
+21 (2) Conditioned that the personal representative giving the bond shall faithfully
+22 execute the trust reposed in the personal representative and obey all lawful
+23 orders of the clerk of superior court or other court touching the administration
+24 of the estate committed to the personal representative; and
+25 (3) In an amount not less than:
+26 a. One and one-fourth times the value of all personal property of the
+27 decedent when the bond is secured by a suretyship bond executed by
+28 a corporate surety company authorized by the Commissioner of
+29 Insurance to do business in this State, provided that the clerk of
+30 superior court, when the value of the personal property to be
+31 administered by the personal representative exceeds one hundred
+32 thousand dollars ($100,000), may accept bond in an amount equal to
+33 the value of the personal property plus ten percent (10%) thereof; or
+34 b. Double the value of all personal property of the decedent when the
+35 bond is secured by one of the methods provided in subdivision (4)b,
+36 (4)c or (4)d; such value of said personal property to be ascertained by
+37 the clerk of superior court by examination, on oath, of the applicant or
+38 of some other person determined by the clerk to be qualified to testify
+39 as to its value; and
+40 (4) Secured by one or more of the following:
+41 a. Suretyship bond executed, at the expense of the estate, by a corporate
+42 surety company authorized by the Commissioner of Insurance to do
+43 business in this State;
+44 b. Suretyship bond executed and justified upon oath before the clerk of
+45 superior court by two or more sufficient personal sureties each of
+46 whom shall reside in and own real estate in North Carolina and shall
+47 have assets with an aggregate value above encumbrances of not less
+48 than the amount of the penalty of the required bond;
+49 c. A first mortgage or first deed of trust in form approved by the
+50 administrative officer of the courts on real estate located in North
+51 Carolina:
+House Bill 377-Third Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 1. Executed by the owner, and conditioned on the performance of
+2 the obligations of the bond, and
+3 2. Containing a power of sale which, in the case of a mortgage, is
+4 exercisable by the clerk of superior court upon a breach of any
+5 condition thereof, or, in the case of a deed of trust, is
+6 exercisable by the trustee after notice by the clerk of superior
+7 court that a breach of condition has occurred.
+8 The clerk of superior court shall not accept such mortgage or deed of
+9 trust until it shall have been properly registered in the county or
+10 counties in which the real estate is located, and the clerk of superior
+11 court is satisfied that the real estate subject to the mortgage or deed of
+12 trust is worth the amount to be secured thereby, and that the mortgage
+13 or deed of trust is a first charge on said real estate. No such mortgage
+14 or deed of trust shall be cancelled or surrendered until the approval of
+15 the final account, unless substitution is permitted as provided in
+16 G.S. 28A-8-3(d).
+17 d. A deposit by the owner with the clerk of superior court of negotiable
+18 securities, of a kind permitted by law to be proper investments for
+19 fiduciaries exercising due care, having a fair market value determined
+20 by the clerk to be equal to the amount of the penalty of the bond. Such
+21 securities shall be properly endorsed, delivered to the clerk of superior
+22 court, and accompanied by a security agreement containing a power
+23 of sale authorizing the clerk of superior court to sell them in the event
+24 the person to whom letters are being issued commits a breach of any
+25 duty imposed upon that person by law in respect of that person's office.
+26 Such securities shall not be surrendered by the clerk of superior court
+27 to the owner until the approval of the final account, unless substitution
+28 is permitted as provided in G.S. 28A-8-3(d). For the purposes of
+29 determining the value of the assets of the personal sureties in
+30 subdivision (4)b, or the value of the real estate in subdivision (4)c, or
+31 the value of the negotiable securities in subdivision (4)d, the clerk of
+32 superior court may require a certificate of the value of such property
+33 by one or more persons not interested in the estate determined by the
+34 clerk to be qualified to certify such value."
+35 SECTION 3.(b) G.S. 35A-1230 reads as rewritten:
+36 "§ 35A-1230. Bond required before receiving property.
+37 Except as otherwise provided by G.S. 35A-1212.1 and G.S. 35A-1225(a), no general
+38 guardian or guardian of the estate shall be permitted to receive the ward's property until he has
+39 given sufficient surety, approved by the clerk, to account for and apply the same under the
+40 direction of the court, provided that if the guardian is a nonresident of this State and the value of
+41 the property received exceeds one thousand dollars ($1,000) the surety shall be a bond under
+42 G.S. 35A-1231(a) executed by a duly authorized surety company, or secured by cash in an
+43 amount equal to the amount of the bond or by a mortgage executed under Chapter 109 Article 74
+44 of Chapter 58 of the General Statutes on real estate located in the county, the value of which,
+45 excluding all prior liens and encumbrances, shall be at least one and one-fourth times the amount
+46 of the bond; and further provided that the nonresident shall appoint a resident agent to accept
+47 service of process in all actions and proceedings with respect to the guardianship. The clerk shall
+48 not require a guardian of the person who is a resident of North Carolina to post a bond; the clerk
+49 may require a nonresident guardian of the person to post a bond or other security for the faithful
+50 performance of the guardian's duties. As provided in G.S. 53-159 and G.S. 53-366(a)(10), no
+Page 4 House Bill 377-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 bond is required of a bank or trust company licensed to do business in this State that has powers
+2 or privileges granted in the charter to serve as guardian."
+3 SECTION 3.(c) This section is effective when it becomes law.
+4
+5 MODIFY DEADLINE TO APPEAL IN CERTAIN PROPERTY CASES
+6 SECTION 4.(a) G.S. 14-159.53 reads as rewritten:
+7 "§ 14-159.53. Appeal.
+8 An unauthorized person, property owner, or authorized representative of the property owner
+9 may appeal a court order issued pursuant to G.S. 14-159.52(b) to the district court for a trial de
+10 novo. Notice of appeal may be given orally in open court upon announcement or after a judgment
+11 is entered. If not announced in open court, written notice of appeal must be filed in the office of
+12 the clerk of superior court within three business days after a judgment is entered. If the court
+13 finds for the property owner or the authorized representative of the property owner, the court
+14 shall determine the amount of the appeal bond that the unauthorized person shall be required to
+15 post should the unauthorized person seek to appeal the court order. The amount of the bond shall
+16 be a minimum of ten thousand dollars ($10,000), but may be set at a higher amount based on an
+17 estimate of the rent that could reasonably be charged for a valid rental of the property during the
+18 time the unauthorized person is prosecuting the appeal and reasonable damages that the property
+19 owner may suffer, including damage to property and damages arising from the inability of the
+20 property owner to reside in or rent the property during the unauthorized person's possession of
+21 the property."
+22 SECTION 4.(b) G.S. 42A-25 reads as rewritten:
+23 "§ 42A-25. Appeal.
+24 A tenant or landlord may appeal a court order issued pursuant to G.S. 42A-24(d) to district
+25 court for a trial de novo. Notice of appeal may be given orally in open court upon announcement
+26 or after a judgment is entered. If not announced in open court, written notice of appeal must be
+27 filed in the office of the clerk of superior court within 10 days after a judgment is entered. A
+28 tenant may petition the district court to stay the eviction order and shall post a cash or secured
+29 bond with the court in the amount determined by the court pursuant to G.S. 42A-24(d)."
+30 SECTION 4.(c) This section is effective when it becomes law.
+31
+32 AMEND DEFAULT JUDGMENT PROVISION IN DIVORCE PROCEEDINGS
+33 SECTION 5.(a) G.S. 50-10 reads as rewritten:
+34 "§ 50-10. Material facts found by judge or jury in divorce or annulment proceedings; when
+35 notice of trial not required; procedure same as ordinary civil actions.
+36 (a) Except as provided for in subsection (e) of this section, the material facts in every
+37 complaint asking for a divorce or for an annulment shall be deemed to be denied by the defendant,
+38 whether the same shall be actually denied by pleading or not, and no judgment shall be given in
+39 favor of the plaintiff in any such complaint until such facts have been found by a judge or jury.
+40 (b) Nothing herein shall require notice of trial to be given to a defendant who has not
+41 made an appearance in the action.
+42 (c) The determination of whether there is to be a jury trial or a trial before the judge
+43 without a jury shall be made in accordance with G.S. 1A-1, Rules 38 and 39.
+44 (d) The provisions of G.S. 1A-1, Rule 56, shall be applicable to actions for absolute
+45 divorce pursuant to G.S. 50-6, for the purpose of determining whether any genuine issue of
+46 material fact remains for trial by jury, but in the event the court determines that no genuine issue
+47 of material fact remains for trial by jury, the court must find the facts as provided herein. The
+48 court may enter a judgment of absolute divorce pursuant to the procedures set forth in G.S. 1A-1,
+49 Rule 56, finding all requisite facts from nontestimonial evidence presented by affidavit, verified
+50 motion or other verified pleading.
+House Bill 377-Third Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (e) The clerk of superior court, upon request of the plaintiff, may enter judgment in cases
+2 in which the plaintiff's only claim against the defendant is for absolute divorce, or absolute
+3 divorce and the resumption of a former name, and the defendant has been defaulted for failure
+4 failed to appear, the defendant has answered admitting the allegations of the complaint, or the
+5 defendant has filed a waiver of the right to answer, and the defendant is not an infant or
+6 incompetent person."
+7 SECTION 5.(b) This section is effective when it becomes law and applies to actions
+8 for absolute divorce filed or pending on or after that date.
+9
+10 REPEAL OBSOLETE PROVISION
+11 SECTION 6.(a) G.S. 7A-343.6 is repealed.
+12 SECTION 6.(b) This section is effective when it becomes law.
+13
+14 CLARIFY ASL INTERPRETER PAYMENTS
+15 SECTION 7.(a) G.S. 8B-8(a) reads as rewritten:
+16 "(a) An interpreter appointed under this Chapter is entitled to a reasonable fee for services,
+17 including waiting time, time reserved by the courts for the assignment, and reimbursement for
+18 necessary travel and subsistence expenses. The fee shall be fixed by the appointing authority who
+19 shall consider any fee schedule for interpreters established by the Department of Health and
+20 Human Services. Services, except that the Director of the Administrative Office of the Courts
+21 shall fix the fee for interpreters appointed to interpret proceedings in the General Court of Justice.
+22 Reimbursement for necessary travel and subsistence expenses shall be at rates provided by law
+23 for State employees generally."
+24 SECTION 7.(b) This section becomes effective October 1, 2026.
+25
+26 CLARIFY CERTAIN FILINGS
+27 SECTION 8.(a) G.S. 7A-98(a) reads as rewritten:
+28 "(a) Any matter required or permitted to be supported, evidenced, established, or proved
+29 in writing under oath or affirmation may, if filed electronically pursuant to rules promulgated by
+30 the Supreme Court under G.S. 7A-49.5, in the General Court of Justice with like force and effect
+31 be supported, evidenced, established, or proved by an unsworn declaration in writing, subscribed
+32 by the declarant and dated, that the statement is true under penalty of perjury."
+33 SECTION 8.(b) G.S. 8C-1, Rule 803(6) reads as rewritten:
+34 "(6) Records of Regularly Conducted Activity. – A memorandum, report, record,
+35 or data compilation, in any form, of acts, events, conditions, opinions, or
+36 diagnoses, made at or near the time by, or from information transmitted by, a
+37 person with knowledge, if (i) kept in the course of a regularly conducted
+38 business activity and (ii) it was the regular practice of that business activity to
+39 make the memorandum, report, record, or data compilation, all as shown by
+40 the testimony of the custodian or other qualified witness, by affidavit or by
+41 document under seal under Rule 902 of the Rules of Evidence made by the
+42 custodian or witness, or by a certification that complies with 28 U.S.C. § 1746
+43 or G.S. 7A-98 made by the custodian or witness, unless the source of
+44 information or the method or circumstances of preparation indicate lack of
+45 trustworthiness. Authentication of evidence by affidavit shall be confined to
+46 the records of nonparties, and the proponent of that evidence shall give
+47 advance notice to all other parties of intent to offer the evidence with
+48 authentication by affidavit. The term "business" as used in this paragraph
+49 includes business, institution, association, profession, occupation, and calling
+50 of every kind, whether or not conducted for profit."
+51 SECTION 8.(c) This section becomes effective October 1, 2026.
+Page 6 House Bill 377-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1
+2 ALLOW IDS ATTORNEYS ELECTRONIC ACCESS TO FILES
+3 SECTION 9.(a) G.S. 7A-452(e) reads as rewritten:
+4 "(e) In cases in which an indigent person has entered notice of appeal and appellate
+5 counsel has been appointed by the Office of Indigent Defense Services, the clerk of superior
+6 court shall make a copy of the complete trial division file in the case, case available to the
+7 appointed attorney which may be made available by electronic access within the electronic filing
+8 and case management system and make a copy of documentary exhibits and digital storage media
+9 containing exhibits upon request, and furnish those files and any requested documentary exhibits
+10 to the appointed attorney.request and furnish the requested documentary exhibits to the appointed
+11 attorney."
+12 SECTION 9.(b) This section becomes effective October 1, 2026.
+13
+14 MODIFY SAFEKEEPING STATUTE RELATED TO WILLS
+15 SECTION 10.(a) G.S. 31-11 reads as rewritten:
+16 "§ 31-11. Depositories in offices of clerks of superior court where living persons may file
+17 deposit wills.
+18 (a) The clerk of the superior court in each county of North Carolina is required to keep a
+19 receptacle or depository in which any testator who desires to do so may deposit that testator's
+20 original paper will for safekeeping. The clerk is only authorized to receive the will from the
+21 testator, or an a testator's agent with sufficient authority under a power of attorney instrument to
+22 deposit the will, or an attorney for the testator. Once a testator has died, the clerk is not authorized
+23 to receive the will for the clerk's receptacle or depository from any agent or attorney for the
+24 testator.
+25 (b) The clerk shall, upon written request of the testator, or the duly authorized a testator's
+26 agent with sufficient authority under a power of attorney instrument to withdraw the will, or
+27 attorney for the testator, permit said will or testament to be withdrawn from said depository or
+28 receptacle at any time prior to the death of the testator.
+29 (c) While in the clerk's receptacle or depository, the contents of said will shall not be
+30 made public or open to the inspection of anyone other than the testator or the testator's duly
+31 authorized agent or attorney testator, a testator's agent with sufficient authority under a power of
+32 attorney instrument to review and inspect the will, or an attorney for the testator until the testator
+33 has died. Once the clerk has received proof of the testator's death, the clerk is authorized to allow
+34 the will to be made open to the inspection of any person interested in the testator's estate. The
+35 will shall remain in the clerk's receptacle or depository until the will is offered for probate.probate
+36 or filed with the clerk without probate.
+37 (d) The clerk is required to retain the original paper will until withdrawn, probated or
+38 filed in the deceased testator's estate file, or once 60 years have passed since the will was
+39 originally deposited with the clerk. If after 60 years the will has not been withdrawn or filed in
+40 the deceased testator's estate file, the clerk is authorized to comply with records retention rules
+41 for deposited wills set by the Director of the Administrative Office of the Courts."
+42 SECTION 10.(b) This section becomes effective October 1, 2026.
+43
+44 TECHNICAL CORRECTION
+45 SECTION 11.(a) G.S. 30-15(f) reads as rewritten:
+46 "(f) A proceeding for a spouse's allowance shall be an estate proceeding governed by the
+47 provisions of Article 2 of Chapter 28 28A of the General Statutes."
+48 SECTION 11.(b) G.S. 30-17(e) reads as rewritten:
+49 "(e) A proceeding for a child's allowance shall be an estate proceeding governed by the
+50 provisions of Article 2 of Chapter 28 28A of the General Statutes."
+51 SECTION 11.(c) This section is effective when it becomes law.
+House Bill 377-Third Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1
+2 CLARIFY THE USE OF SUMMONSES IN CAVEAT PROCEEDINGS
+3 SECTION 12.(a) G.S. 31-33(a) reads as rewritten:
+4 "(a) Upon the filing of a caveat, the clerk shall transfer the cause to the superior court for
+5 trial by jury. The caveat shall be served upon all interested parties in accordance with in a manner
+6 prescribed by G.S. 1A-1, Rule 4 of the Rules of Civil Procedure.Procedure, without issuance of
+7 a summons."
+8 SECTION 12.(b) This section becomes effective October 1, 2026.
+9
+10 UPDATE SAFE BABIES COURT LANGUAGE TO ALLOW CHILDREN UP TO AGE 5
+11 TO PARTICIPATE
+12 SECTION 13.(a) G.S. 7B-536(a)(7) reads as rewritten:
+13 "(7) Safe babies court. – The innovative court program implementing a community
+14 engagement and systems change initiative focused on improving how the
+15 courts, department of social services, and related child-serving organizations
+16 work together to improve and expedite services for young families with at
+17 least one child who is no more than 3 5 years of age involved in juvenile
+18 actions alleging abuse, neglect, or dependency."
+19 SECTION 13.(b) This section becomes effective October 1, 2026.
+20
+21 CLARIFY JURY COMMISSION APPOINTMENTS
+22 SECTION 14.(a) G.S. 9-1 reads as rewritten:
+23 "§ 9-1. Jury commission in each county; membership; selection; oath; terms; expenses of
+24 jury system.
+25 Not later than July 1, 1967, there shall be appointed in each county a jury commission of
+26 three members. One member of the commission shall be appointed by the senior regular resident
+27 superior court judge, one member by the clerk of superior court, and one member by the board
+28 of county commissioners. The appointees shall be qualified voters of the county, and shall serve
+29 for terms of two years. Appointees may be reappointed to successive terms. If an appointment is
+30 not made by September 1, the incumbent shall serve for an additional two-year term. A vacancy
+31 in the commission shall be filled in the same manner as the original appointment, for the
+32 unexpired term. Each commissioner shall take an oath or affirmation that, without favor or
+33 prejudice, he will honestly perform the duties of a member of the jury commission during his
+34 term of service. The compensation of commissioners shall be fixed by the board of county
+35 commissioners, and shall be paid from the general fund of the county. All expenses necessary to
+36 carry out the provisions of this Chapter and to administer the jury system, including all data
+37 processing, document processing, supplies, postage, and other similar expenses, except as
+38 otherwise provided in this Chapter, shall be paid from the general fund of the county, except that
+39 the clerk of superior court shall furnish clerical or other personnel assistance, as the commission
+40 may reasonably require."
+41 SECTION 14.(b) G.S. 9-2(a) reads as rewritten:
+42 "(a) It shall be the duty of the jury commission during every odd-numbered year to prepare
+43 a master list of prospective jurors qualified under this Chapter to serve in the biennium beginning
+44 on January 1 of the next year. Instead of providing a master list for an entire biennium, the
+45 commission may prepare a master list each year if the senior regular resident superior court judge
+46 requests in writing that it do so. In either event, the master list shall be completed no later than
+47 November 15."
+48 SECTION 14.(c) G.S. 20-43.4(a) reads as rewritten:
+49 "(a) The Commissioner of Motor Vehicles shall provide to each county jury commission
+50 an alphabetical list of all persons that the Commissioner has determined are residents of the
+51 county, who will be 18 years of age or older as of the first day of January of the following year,
+Page 8 House Bill 377-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 and licensed to drive a motor vehicle as of July 1 of each odd-numbered year, provided that if an
+2 annual master jury list is being prepared under G.S. 9-2(a), the list to be provided to the county
+3 jury commission shall be updated and provided annually. This list shall be provided no later than
+4 September 1."
+5 SECTION 14.(d) This section is effective when it becomes law.
+6
+7 CLARIFY THE APPLICATION OF LIMITATIONS ON COMPENSATIONS FOR
+8 SERVICES RELATED TO VETERANS' BENEFITS MATTERS
+9 SECTION 14.1.(a) G.S. 143B-1278(e) reads as rewritten:
+10 "(e) Exclusions. – Nothing in this section shall apply to attorneys who are licensed to
+11 practice in the State of North Carolina. In addition, nothing in this section shall be construed to
+12 apply to, limit, or expand the requirements imposed on agents, attorneys, or other representatives
+13 accredited and regulated by the United States Department of Veterans Affairs or the North
+14 Carolina Department of Military and Veterans Affairs."
+15 SECTION 14.1.(b) This section is effective when it becomes law.
+16
+17 MAKE CERTAIN CHANGES RELATED TO JUVENILE COURT RECORDS
+18 SECTION 15.(a) G.S. 7B-2901(a) reads as rewritten:
+19 "(a) The clerk shall maintain a complete record of all juvenile cases filed in the clerk's
+20 office alleging abuse, neglect, or dependency. The records shall be withheld from public
+21 inspection and, except as provided in this subsection, may be examined only by order of the
+22 court. Nothing in this section shall be interpreted or construed to prevent the presiding district
+23 court judge or designated judicial court staff from inspecting confidential juvenile court records
+24 for purposes of discharging any obligation under this Chapter. The record shall include the
+25 summons, petition, custody order, court order, written motions, the electronic or mechanical
+26 recording of the hearing, and other papers filed in the proceeding. The recording of the hearing
+27 shall be reduced to a written transcript only when notice of appeal has been timely given. given
+28 and shall be copied electronically or mechanically, only by order of the court. After the time for
+29 appeal has expired with no appeal having been filed, the recording of the hearing may be erased
+30 or destroyed upon the written order of the court or in accordance with a retention schedule
+31 approved by the Director of the Administrative Office of the Courts and the Department of
+32 Natural and Cultural Resources under G.S. 121-5(c).
+33 The following persons may examine the juvenile's record maintained pursuant to this
+34 subsection and obtain copies of written parts of the record without an order of the court:
+35 (1) The person named in the petition as the juvenile;
+36 (2) The guardian ad litem;
+37 (3) The county department of social services; and
+38 (4) The juvenile's parent, guardian, or custodian, or the attorney for the juvenile
+39 or the juvenile's parent, guardian, or custodian.
+40 Persons not authorized to examine the juvenile's court record without a court order and
+41 seeking information contained in a juvenile court file or court record may file a written motion
+42 in the cause setting out why the information is needed. The movant shall not be considered a
+43 party to the action solely by virtue of filing a motion under this section or participating in
+44 proceedings on the motion. A district court judge, after providing the parties to the juvenile
+45 proceeding for which the records are sought with reasonable notice and an opportunity to be
+46 heard, may issue an order to disclose information in the juvenile court record upon finding that
+47 the order is appropriate under the circumstances and in the best interest of the juvenile that is the
+48 subject of the juvenile proceeding for which the records are sought. This subsection shall not be
+49 construed to relieve any court of its duty to conduct hearings and make findings that may be
+50 required for the release of certain information in the juvenile court record under any applicable
+51 State or federal law, to include 42 C.F.R. Part 2."
+House Bill 377-Third Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 15.(b) G.S. 7B-3506 reads as rewritten:
+2 "§ 7B-3506. Costs of court.court and confidentiality of court records.
+3 The court may tax the costs of the proceeding to any party or may, for good cause, order the
+4 costs remitted.
+5 The clerk may collect costs for furnishing to the petitioner a certificate of emancipation which
+6 shall recite the name of the petitioner and the fact of the petitioner's emancipation by court decree
+7 and shall have the seal of the clerk affixed thereon. Court records made in all proceedings
+8 pursuant to this Article are confidential and are not open to public inspection, except the
+9 certificate of emancipation shall not be confidential. The petitioner, petitioner's attorney, an
+10 appointed guardian ad litem, petitioner's parent, guardian, or custodian, and attorney of the
+11 petitioner's parent, guardian, or custodian, may examine and obtain copies of the written parts of
+12 the court record without an order of the court."
+13 SECTION 15.(c) This section is effective when it becomes law.
+14
+15 CHANGE EFFECTIVE DATE FOR JUDICIAL ACCESS TO EXPUNCTION RECORDS
+16 SECTION 17.(a) Notwithstanding Section 2 of S.L. 2017-195, G.S. 15A-151(a)(1)
+17 applies to all petitions granted under Article 5 of Chapter 15A of the General Statutes that are
+18 maintained by the Administrative Office of the Courts.
+19 SECTION 17.(b) This section is effective when it becomes law.
+20
+21 CHANGE "EXECUTIVE SECRETARY" TO "EXECUTIVE DIRECTOR" IN
+22 CONFERENCE STATUTE
+23 SECTION 18.(a) G.S. 7A-808 reads as rewritten:
+24 "§ 7A-808. Executive secretary; director; clerical support.
+25 The Conference may employ an executive secretary director and any necessary supporting
+26 staff to assist it in carrying out its duties."
+27 SECTION 18.(b) This section is effective when it becomes law.
+28
+29 CLARIFY APPEAL FILING LANGUAGE
+30 SECTION 19.(a) G.S. 163-127.6(b) reads as rewritten:
+31 "(b) Appeals from Statewide Panel. – The decision of a panel created under
+32 G.S. 163-127.3(3) may be appealed as of right to the Court of Appeals by any of the following:
+33 (1) The challenger.
+34 (2) A candidate adversely affected by the panel's decision.
+35 Appeal must be taken within two business days after the panel files the written decision. The
+36 written appeal must be delivered electronically filed, delivered, or deposited in the mail to the
+37 Court of Appeals as provided by the rules of appellate procedure by the end of the second
+38 business day after the written decision was filed by the panel."
+39 SECTION 19.(b) This section becomes effective October 1, 2026.
+40
+41 MODIFY LAW RELATED TO FRIVOLOUS LAWSUITS
+42 SECTION 20.(a) G.S. 1-110 reads as rewritten:
+43 "§ 1-110. Suit as an indigent; counsel; suits filed pro se by prison inmates.
+44 (a) Subject to the provisions of subsection subsections (b) and (c) of this section with
+45 respect to prison inmates, section, any superior or district court judge or clerk of the superior
+46 court may authorize a person to sue as an indigent in their respective courts when the person
+47 makes affidavit that he or she is unable to advance the required court costs. The clerk of superior
+48 court shall authorize a person to sue as an indigent if the person makes the required affidavit and
+49 meets one or more of the following criteria:
+50 (1) Receives electronic food and nutrition benefits.
+51 (2) Receives Work First Family Assistance.
+Page 10 House Bill 377-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 (3) Receives Supplemental Security Income (SSI).
+2 (4) Is represented by a legal services organization that has as its primary purpose
+3 the furnishing of legal services to indigent persons.
+4 (5) Is represented by private counsel working on the behalf of or under the
+5 auspices of a legal services organization under subdivision (4) of this section.
+6 (6) Repealed by Session Laws 2002-126, s. 29A.6(d), effective October 1, 2002.
+7 A superior or district court judge or clerk of superior court may authorize a person who does
+8 not meet one or more of these criteria to sue as an indigent if the person is unable to advance the
+9 required court costs. The court to which the summons is returnable may dismiss the case and
+10 charge the court costs to the person suing as an indigent if the allegations contained in the
+11 affidavit are determined to be untrue or if the court is satisfied that the action is frivolous or
+12 malicious.
+13 (b) Whenever a motion to proceed as an indigent is filed pro se by an inmate in the
+14 custody of the Division of Prisons of the Department of Adult Correction, Correction or any
+15 sheriff in North Carolina, the motion to proceed as an indigent and the proposed complaint shall
+16 be presented to any superior court judge of the judicial district. This judge shall determine
+17 whether the complaint is frivolous. In the discretion of the court, a frivolous case may be
+18 dismissed by order. The court shall dismiss the action if it meets any of the following criteria:
+19 (1) Is frivolous or malicious.
+20 (2) Fails to state a claim on which relief may be granted.
+21 (3) Seeks relief against a defendant who is immune from such relief.
+22 The proceeding is automatically stayed until the judge rules on the motion to proceed as
+23 indigent. The clerk of superior court shall serve a copy of the order of dismissal upon the prison
+24 inmate. If the judge determines that the inmate may proceed as an indigent, the clerk of superior
+25 court shall issue service of process nunc pro tunc to the date of filing upon the defendant.
+26 (c) Whenever a motion to proceed as an indigent is filed pro se by any person or entity
+27 and the complaint is brought against a federal, State, or local government entity, or government
+28 employee in their official capacity, or government employee in their individual capacity but
+29 based on the employee's work for the government, the motion to proceed as an indigent and the
+30 complaint shall be presented to any superior court judge of the judicial district. This judge shall
+31 determine whether the complaint is frivolous. The court shall dismiss the action if it meets any
+32 of the following criteria:
+33 (1) Is frivolous or malicious.
+34 (2) Fails to state a claim on which relief may be granted.
+35 (3) Seeks relief against a defendant who is immune from such relief.
+36 The proceeding is automatically stayed until the judge rules on the motion to proceed as
+37 indigent. The clerk of superior court shall serve a copy of the order of dismissal upon the pro se
+38 filer. If the judge determines that the pro se may proceed as an indigent, the clerk of superior
+39 court shall issue service of process nunc pro tunc to the date of filing upon the defendant."
+40 SECTION 20.(b) G.S. 7A-305(c) reads as rewritten:
+41 "(c) The clerk of superior court, at the time of the filing of the papers initiating the action
+42 or the appeal, shall collect as advance court costs, the facilities fee, General Court of Justice fee,
+43 and the divorce fee imposed under subsection (a2) of this section, except in suits by an indigent.
+44 The clerk shall also collect the fee for discovery procedures under Rule 27(a) and (b) at the time
+45 of the filing of the verified petition. The clerk may reject a filing that initiates an action that is
+46 not accompanied by these fees unless the filing is accompanied by a motion to proceed as indigent
+47 or the filing is made by a county or municipality that pays costs in accordance with G.S. 7A-317."
+48 SECTION 20.(c) G.S. 7A-306(b) reads as rewritten:
+49 "(b) The facilities fee and thirty dollars ($30.00) of the General Court of Justice fee are
+50 payable at the time the proceeding is initiated.The clerk may reject a filing that is not
+51 accompanied by the fees set forth in subsection (a) of this section unless the filing is accompanied
+House Bill 377-Third Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 by a motion to proceed as indigent or the filing is made by a county or municipality that pays
+2 costs in accordance with G.S. 7A-317."
+3 SECTION 20.(d) G.S. 7A-307(a) reads as rewritten:
+4 "(a) In the administration of the estates of decedents, minors, incompetents, of missing
+5 persons, in the administration of trusts under wills and under powers of attorney, in trust
+6 proceedings under G.S. 36C-2-203, in estate proceedings under G.S. 28A-2-4, in power of
+7 attorney proceedings under G.S. 32C-1-116(a), and in collections of personal property by
+8 affidavit, the following costs shall be assessed:
+9 …
+10 (2e) For filings where the clerk is required to assess the fee in G.S. 7A-307(a)(1),
+11 the fee in G.S. 7A-307(a)(1a), and the one hundred six dollar ($106.00) fee in
+12 G.S. 7A-307(a)(2), the clerk may reject a filing that is not accompanied by
+13 these fees, unless the filing is accompanied by a motion to proceed as indigent
+14 when indigency is applicable or the filing is made by a county or municipality
+15 that pays costs in accordance with G.S. 7A-317. A public administrator or
+16 public guardian may delay payment of the required fees described herein until
+17 filing the inventory or first accounting. A motion to proceed as indigent
+18 pursuant to G.S. 1-110 does not apply to the administration of the estates of
+19 decedents, minors, incompetents, or missing persons in the administration of
+20 trusts under wills and under powers of attorney.
+21 …."
+22 SECTION 20.(e) G.S. 7A-308 is amended by adding a new subsection to read:
+23 "(d) The clerk may reject a filing that is not accompanied by the fees required in this
+24 section unless the filing is made by a county or municipality that pays costs in accordance with
+25 G.S. 7A-317."
+26 SECTION 20.(f) This section becomes effective October 1, 2026.
+27
+28 MODIFY ROTATION OF SUPERIOR COURT JUDGES
+29 SECTION 21.(a) G.S. 7A-47.3 is amended by adding a new subsection to read:
+30 "(a1) In making assignment of the judges of the superior court for a district consisting of at
+31 least one county with a population over 1,000,000 according to the most recent federal decennial
+32 census, the Chief Justice of the Supreme Court shall include superior court judges from (i) other
+33 districts in that same judicial division and (ii) districts from any judicial division adjacent to the
+34 district consisting of at least one county with a population over 1,000,000. A superior court judge
+35 from a district in an adjacent judicial division may only be assigned under the authorization set
+36 forth in this subsection one six-month term every five years, except by consent of the judge. The
+37 purpose of this subsection is to more evenly spread the burden placed on smaller judicial districts
+38 from having judges who were elected for those districts holding court mostly in other judicial
+39 districts consisting of larger counties."
+40 SECTION 21.(b) This section is effective when it becomes law and applies to
+41 rotations on or after that date.
+42
+43 PERMIT LOCAL SUPPLEMENTATION FOR MAGISTRATE PAY
+44 SECTION 22.(a) G.S. 7A-300.1 reads as rewritten:
+45 "§ 7A-300.1. Local supplementation of salaries for certain officers and employees.
+46 (a) In order to attract and retain the best qualified officers and employees for positions in
+47 the Judicial Branch of government, the Administrative Office of the Courts may contract with
+48 the governing body of a city or county for the provision of local funds to supplement the salaries
+49 of Judicial Department employees, other than elected officials and magistrates, officials, who
+50 serve the superior court district, district court district, or prosecutorial district containing that unit
+51 of local government. Any employee who receives salary supplementation under this section shall
+Page 12 House Bill 377-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 be notified before receiving it that the supplementation is subject to the availability of local funds,
+2 may be discontinued at any time, and is not "compensation" for purposes of the Teachers' and
+3 State Employees' Retirement System or the Consolidated Judicial Retirement System.
+4 …."
+5 SECTION 22.(b) This section is effective when it becomes law.
+6
+7 CLARIFY FEES CAN BE AWARDED TO THE PREVAILING PARTY
+8 SECTION 25.(a) G.S. 7A-305 reads as rewritten:
+9 "§ 7A-305. Costs in civil actions.
+10 (a) In every civil action in the superior or district court, except for actions brought under
+11 Chapter 50B of the General Statutes, the following shall be assessed:assessed and shall be
+12 recoverable by the prevailing party who paid them:
+13 (1) For the use of the courtroom and related judicial facilities, the sum of twelve
+14 dollars ($12.00) in cases heard before a magistrate, and the sum of sixteen
+15 dollars ($16.00) in district and superior court, to be remitted to the county in
+16 which the judgment is rendered, except that in all cases in which the judgment
+17 is rendered in facilities provided by a municipality, the facilities fee shall be
+18 paid to the municipality. Funds derived from the facilities fees shall be used
+19 in the same manner, for the same purposes, and subject to the same
+20 restrictions, as facilities fees assessed in criminal actions.
+21 …
+22 (a5) In every civil action in the superior or district court wherein a party files a pleading
+23 containing one or more counterclaims, third-party complaints, or cross-claims, except for
+24 counterclaim and cross-claim actions brought under Chapter 50B of the General Statutes for
+25 which costs are assessed pursuant to subsection (a1) of this section, the following shall be
+26 assessed:assessed and shall be recoverable by the prevailing party who paid them:
+27 (1) For the use of the courtroom and related judicial facilities, the sum of twelve
+28 dollars ($12.00) in cases heard before a magistrate, and the sum of sixteen
+29 dollars ($16.00) in district and superior court, to be remitted to the
+30 municipality providing the facilities in which the judgment is rendered. If a
+31 municipality does not provide the facilities in which the judgment is rendered,
+32 the sum is to be remitted to the county in which the judgment is rendered.
+33 Funds derived from the facilities' fees shall be used in the same manner, for
+34 the same purposes, and subject to the same restrictions as facilities' fees
+35 assessed in criminal actions.
+36 …
+37 (d) The following expenses, when incurred, are assessable or recoverable, as the case
+38 may be. The expenses set forth in this subsection are complete and exclusive and constitute a
+39 limit on the trial court's discretion to tax costs pursuant to G.S. 6-20:
+40 (1) Witness fees, as provided by law.
+41 (2) Jail fees, as provided by law.
+42 (3) Counsel fees, as provided by law.
+43 (4) Expense of service of process by certified mail and by publication.
+44 (5) Costs on appeal to the superior court, or to the appellate division, as the case
+45 may be, of the original transcript of testimony, if any, insofar as essential to
+46 the appeal.
+47 (6) Fees for personal service and civil process and other sheriff's fees, as provided
+48 by law. Fees for personal service by a private process server may be
+49 recoverable in an amount equal to the actual cost of such service or fifty
+50 dollars ($50.00), whichever is less, unless the court finds that due to difficulty
+51 of service a greater amount is appropriate.
+House Bill 377-Third Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 (7) Fees of mediators appointed by the court, mediators agreed upon by the
+2 parties, guardians ad litem, referees, receivers, commissioners, surveyors,
+3 arbitrators, appraisers, and other similar court appointees, as provided by law.
+4 The fee of such appointees shall include reasonable reimbursement for
+5 stenographic assistance, when necessary.
+6 (8) Fees of interpreters, when authorized and approved by the court.
+7 (9) Premiums for surety bonds for prosecution, as authorized by G.S. 1-109.
+8 (10) Reasonable and necessary expenses for stenographic and videographic
+9 assistance directly related to the taking of depositions and for the cost of
+10 deposition transcripts.
+11 (11) Reasonable and necessary fees of expert witnesses solely for actual time spent
+12 providing testimony at trial, deposition, or other proceedings.
+13 (12) The fee assessed pursuant to subdivision (2) of subsection (a) of this section
+14 upon assignment of a case to a special superior court judge as a complex
+15 business case.
+16 (13) Fees assessed pursuant to subsection (a) of this section to the prevailing party
+17 who paid them.
+18 (14) Fees assessed pursuant to subsection (a5) of this section to the prevailing party
+19 who paid them.
+20 Nothing in this subsection or in G.S. 6-20 shall be construed to limit the trial court's authority to
+21 award fees and expenses in connection with pretrial discovery matters as provided in Rule 26(b)
+22 or Rule 37 of the Rules of Civil Procedure, and no award of costs made pursuant to this section
+23 or pursuant to G.S. 6-20 shall reverse or modify any such orders entered in connection with
+24 pretrial discovery.
+25 …."
+26 SECTION 25.(b) This section is effective when it becomes law and applies to
+27 actions filed on or after that date.
+28
+29 AOC AND IDS REPORTS AND RECOMMENDATIONS
+30 SECTION 26.(a) No later than March 1, 2027, the Administrative Office of the
+31 Courts, in consultation with the Office of Indigent Defense Services, shall report on processes to
+32 enforce correction of errors in global party records in Enterprise Justice and update records of
+33 civil judgments owed to the State of North Carolina.
+34 SECTION 26.(b) No later than March 1, 2027, the Administrative Office of the
+35 Courts, in consultation with the Office of Indigent Defense Services, shall identify any potential
+36 legislative changes that would facilitate speedy correction of erroneous court records and to
+37 enforce requirement of judicial finding of indigency prior to appointment of counsel.
+38 SECTION 26.(c) The Office of Indigent Defense Services (IDS) shall (i) study the
+39 location of duty stations for employees of the Office of Capital Defender, (ii) review utilization
+40 of all leased office space by all IDS employees with a duty station in Durham, North Carolina,
+41 and (iii) report to the General Assembly no later than March 1, 2027, on any cost-savings that
+42 might be attained by reducing footprint of leased office space.
+43 SECTION 26.(d) This section is effective when it becomes law.
+44
+45 TECHNICAL CORRECTIONS TO THE ESTATE PLANNING STATUTES
+46 SECTION 27.1.(a) G.S. 30-3.4 reads as rewritten:
+47 "§ 30-3.4. Procedure for determining the elective share.
+48 …
+49 (e1) Procedure. – The verified petition shall be filed by the clerk upon payment of the costs
+50 assessed in G.S. 7A-307. An elective share proceeding shall be an estate proceeding and shall be
+Page 14 House Bill 377-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 conducted in accordance with the procedures of Article 2 of Chapter 28A of the General Statutes,
+2 except as modified or supplemented by the following:
+3 (1) Upon the filing of the verified petition, the petition shall be served upon the
+4 personal representative in accordance with G.S. 1A-1, Rule 4 of the Rules of
+5 Civil Procedure, without issuance of a summons. The petition shall also be
+6 served on all responsible persons as those persons become known to the
+7 petitioner in accordance with G.S. 1A-1, Rule 4 of the Rules of Civil
+8 Procedure, without issuance of a summons. The failure to serve the petition
+9 for elective share on the personal representative or any other person within the
+10 six-month period described in subsection (b) of this section shall not render
+11 the claim for elective share as being untimely filed.
+12 (2) After service under subdivision (1) of this subsection, the petitioner, the
+13 personal representative, or any other party may cause notice of a hearing
+14 before the clerk to be served upon all parties in accordance with G.S. 1A-1,
+15 Rule 5 of the Rules of Civil Procedure. At the hearing, the clerk may set
+16 deadlines as to the gathering and sharing of information concerning total net
+17 assets and may determine any other relevant procedural matters.The petition
+18 shall also be served on all responsible persons as such persons become known
+19 to the petitioner in accordance with G.S. 1A-1, Rule 4 of the Rules of Civil
+20 Procedure, with issuance of a summons. The summons and the claims in the
+21 petition shall relate back to the date of the filing of the petition. The
+22 requirement that a summons be issued within five days of the filing of the
+23 petition as set forth in G.S. 1A-1, Rule 4(a) of the Rules of Civil Procedure,
+24 shall not apply.
+25 (3) Within 30 days following the entry of an order resulting from the hearing
+26 described in subdivision (2) of this subsection, any party who was present at
+27 the hearing may file a responsive pleading to the petition; provided, however,
+28 that failure to respond to any averment or claim in the petition shall not be
+29 deemed an admission of that averment or claim. An extension of time to file
+30 a responsive pleading to the petition may be granted as provided by G.S. 1A-1,
+31 Rule 6 of the Rules of Civil Procedure.The failure to serve the petition for
+32 elective share on the personal representative or any other person within the
+33 six-month period of limitations set forth in subsection (b) of this section shall
+34 not render the claim for elective share as being untimely filed.
+35 (4) After service under subdivision (1) of this subsection, the petitioner, the
+36 personal representative, or any other party may cause notice of a hearing
+37 before the clerk to be served upon all parties in accordance with G.S. 1A-1,
+38 Rule 5 of the Rules of Civil Procedure. At the hearing, the clerk may set
+39 deadlines as to the gathering and sharing of information concerning total net
+40 assets and determine any other relevant procedural matters.
+41 (5) Within 30 days following the entry of an order resulting from the hearing, any
+42 party who was present at the hearing may file a responsive pleading to the
+43 elective share petition, provided, however, that failure to respond to any
+44 averment or claim of the elective share petition shall not be deemed an
+45 admission of that averment or claim. An extension of time to file a responsive
+46 pleading to the petition may be granted as provided by G.S. 1A-1, Rule 6 of
+47 the Rules of Civil Procedure.
+48 …."
+49 SECTION 27.1.(b) This section is effective when it becomes law and applies to
+50 claims for elective share filed on or after that date.
+51 SECTION 27.2.(a) G.S. 30-15(f) reads as rewritten:
+House Bill 377-Third Edition Page 15
+
+General Assembly Of North Carolina Session 2025
+1 "(f) A proceeding for a spouse's allowance shall be an estate proceeding governed by the
+2 provisions of Article 2 of Chapter 28 28A of the General Statutes."
+3 SECTION 27.2.(b) This section is effective when it becomes law and applies to
+4 petitions filed on or after that date.
+5 SECTION 27.3.(a) G.S. 30-17(e) reads as rewritten:
+6 "(e) A proceeding for a child's allowance shall be an estate proceeding governed by the
+7 provisions of Article 2 of Chapter 28 28A of the General Statutes."
+8 SECTION 27.3.(b) This section is effective when it becomes law and applies to
+9 petitions filed on or after that date.
+10 SECTION 27.4.(a) G.S. 36C-6-606 reads as rewritten:
+11 "§ 36C-6-606. Revocation of provisions in revocable trust by divorce or annulment; revival.
+12 …
+13 (b) This section shall not apply to a revocable trust if any of the following occur:
+14 (1) The settlor executes a subsequent valid amendment to the revocable trust,
+15 trust, which makes express reference to the revocable trust, such as by date of
+16 the revocable trust, and which modifies the revocable trust.
+17 (2) The settlor remarries the former spouse prior to the settlor's death, unless the
+18 remarriage is subsequently dissolved by absolute divorce or annulment.
+19 (c) As used in this section, the term "former spouse" includes a purported former spouse."
+20 SECTION 27.4.(b) This section is effective when it becomes law.
+21
+22 EFFECTIVE DATE
+23 SECTION 28. Except as otherwise provided, this act is effective when it becomes
+24 law.
+Page 16 House Bill 377-Third Edition
+
+[DELETED:  3 2 (   A A N T T  A S " ( T t c ( E c t ( T ( T ( T ( T p ( I d … S " ( A a f p p ( D p o ( W f]
+[DELETED:  S  H p o ( A p r a t t d f c D ( T a t n c ( T t ( T o e i r o ( I D t S  C E S " ( I s i b d c d a d b o p ( I a t g u]
+[DELETED:  S  P d s ( I a a r I t d a p f a u a a o t m t w a c i S p  M S " A ( P ( C e o o ( I a O d a c s c a b t C o I t d b i t S p t t c o s c w t v o t p p t b a b t p r e o h t t b D b ( t o a ( S a S s b b S s c b t o m s p s e o w h t c A f m o f d o t i f a b t a o t c o r e l i N C]
+[DELETED:  S  H 1 E t 2 C e c t o i t c o a d o t i e c T t u i s h b p r i t c o c c t o o t f a u s i p a p i G d A s f b s c o t d S t i p a p i G F t p o d t v o t a o t p s i s t s b c S " E a o p b G a G n g g g d t G e b a d a s c o s b c i a a o e o s n m p]
+[DELETED:  S  P b o S  M S " A m n i t f s p b e t o p t S " A c o f t b S  A S " n ( E c w f ( N m ( T w ( T d m o c R m]
+[DELETED:  S  H ( T i d f d h f a w o t r t a a t d i n a i o i S f  R S S  C S " A i n s H s R f S  C S " A i t b b S " R o c i f o e c o d p c b m t d c o G m b t c o w u t s o i t t r o n a t p o t e s g a n t a o p o i t o t e w a " i o S]
+[DELETED:  S  P  A S " I c i w a i p h e n o a a a c c a a c t a S  M S " d ( T r o t d t t ( T a a r ( W m a a h t w o ( T f i t d t e f o o 6 y h p s t w w o t f S  T S " A p S " A p S]
+[DELETED:  S  H  C S " U t p a S  U T S " S e a s c i f o i h t c w l a S  C S " j N t s o f n i t c s b f i t s m a t o a f t u t E c s t o o t w f p t T c t c c p d p s p a o s e e a o t m S " I a o c r N S " T a c]
+[DELETED:  S  P a a j S S  C T A O L O C F S S " E p a a a r b t U S D o V A o N C S  M S " T o a a n o d T r s b w f p i c c f a T r s r s a a o a N T f p m e t j r m p t t s ( T ( T ( T ( T o P n a e t j c r a o s i p t t a s b v o a m u s o i p p h t s c r S]
+[DELETED:  S  H S " T c T s a s h t s o c a t C r m i a p p t t A a c a a n o t p i e t c c a a a g a l p p g o c a a o t p t S  C S a m S  C " S T " D I C S " T s S  C S " A f S P – T d o a p c u G ( T ( A A w C b b S  M S " ( S r c m c m ( R ( R]
+[DELETED:  S  P ( R ( I t ( I r b p c w o t b o o u t a ( R A n r c c a m ( W c s b p t a s c j o j d T j s d w t c i f I t d o t c a f c m b d ( I ( F ( S T i i c ( W a e b c d o ( I ( F ( S T i f c S " T o a T o n o S " T p a t t t p i i c m r a f t i n a]
+[DELETED:  S  H b c S " I p i t a o t u w a u p o a i t p u G i e p u G i p o a p u G a i c o p p b a … ( F t G t w t p f t i o f a A m t p a i p d t … S " T s G S  M S " I l c d d f f p f d S 2  T s i e w i b l a a t r  P S " ( I t t o s o]
+[DELETED:  S  P b m S … S  C S " ( I C 5 o t G S t f s b a a s b r ( F d d w i p i t s m f t s p a s t t s r … ( I c o o m c t c o c e f c w c a a p t s ( o t s t f s b a ( F d d ( i d a s c t b r t t m m t F t s p a s t t s r a f f a … ( T m l ( W ( J ( C ( E ( C m t ( F b l F f p s b a p p s m b r e d o]
+[DELETED:  S  H ( F o m a b t c m a u b t p g a l r r c s a T f o s a s i r r f s ( F ( P ( R a n e f s a v a d ( R p ( T u b ( F w ( F w N a o o p … S 2  T s i e w i b l a a t a  A S C e c S C l e S l o a m S  T S " … ( P a]
+[DELETED:  S  P c e ( U p C s o a r p a t p b k t t p i a w G R 4 o t R o C P f s t ( A s u s ( o t s t p t p r o o m c n o h b R d a s t P p s r b t t d o t f o t p T r p s ( W d t t d a R e s n ( A s u s ( o t s t p t p r o o m c n o h b R d a ( W p e s p p h t f t r t a a o c o t e s p s n b d a a p t … S c S]
+[DELETED:  S  H " A p S p S " A p S p S " … ( T ( T t t ( T r ( A S  E S l]

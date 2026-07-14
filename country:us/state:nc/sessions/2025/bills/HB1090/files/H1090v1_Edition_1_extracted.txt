@@ -1,0 +1,529 @@
+Title: HOUSE BILL 1090
+Official Title: HOUSE BILL 1090
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: RURAL Care Act. (Public)
+Sponsors: Representatives Reeder, Lambeth, Ward, and Greene (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Health, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations
+of the House
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENACT THE REVITALIZING, UPLIFTING REGIONS & ACCESS LOCAL
+3 (RURAL) CARE ACT TO PROVIDE FOR THE CREATION OF A RURAL
+4 HEALTHCARE INFRASTRUCTURE FUND AND A RURAL HEALTHCARE
+5 INFRASTRUCTURE PROGRAM TO BE ADMINISTERED BY THE NORTH
+6 CAROLINA STATE HEALTH COORDINATING COUNCIL; TO DIRECT THE NORTH
+7 CAROLINA STATE HEALTH COORDINATING COUNCIL TO DEVELOP A PLAN
+8 FOR THE ESTABLISHMENT AND ADMINISTRATION OF THE RURAL
+9 HEALTHCARE INFRASTRUCTURE PROGRAM; TO REPEAL THE RURAL HEALTH
+10 CARE STABILIZATION PROGRAM; AND TO AMEND THE COMPOSITION AND
+11 DUTIES OF THE NORTH CAROLINA STATE HEALTH COORDINATING COUNCIL.
+12 The General Assembly of North Carolina enacts:
+13
+14 PART I. RURAL HEALTHCARE INFRASTRUCTURE FUND
+15 SECTION 1.1.(a) Chapter 131E of the General Statutes is amended by adding a new
+16 Article to read:
+17 "Article 4A.
+18 "Rural Healthcare Infrastructure Fund."
+19 SECTION 1.1.(b) G.S. 131A-32 is recodified as G.S. 131E-74 in Article 4A of
+20 Chapter 131E of the General Statutes, as enacted by subsection (a) of this section, and reads as
+21 rewritten:
+22 "§ 131E-74. The Rural Health Care Stabilization Healthcare Infrastructure Fund.
+23 (a) Legislative Intent. – The General Assembly recognizes the need to establish and
+24 maintain a sufficient funding source to address the ongoing capital and healthcare infrastructure
+25 needs of the State. The General Assembly further recognizes the need to protect the State's
+26 substantial improvements in existing healthcare facilities while providing a stable funding source
+27 to pay for new facilities to meet the needs of a growing rural population.
+28 (b) Creation and Source of Funds. – The Rural Health Care Stabilization Healthcare
+29 Infrastructure Fund is created as a nonreverting special fund in the Office of State Budget and
+30 Management. Department of Health and Human Services to provide financial assistance in the
+31 form of grants and loans at below market interest rates with structured repayment terms to support
+32 the construction, renovation, or modernization of healthcare infrastructure located in rural areas
+33 of the State. The Fund shall operate as a revolving fund consisting of funds appropriated to, or
+34 otherwise received by, the Rural Health Care Stabilization Healthcare Infrastructure Program and
+*H1090-v-1*
+General Assembly Of North Carolina Session 2025
+1 all funds received as repayment of the principal of or interest on a loan made from the Fund. The
+2 North Carolina State Health Coordinating Council shall administer the Fund. The State Treasurer
+3 is the custodian of the Fund and shall invest its assets in accordance with G.S. 147-69.2 and
+4 G.S. 147-69.3. Moneys in the Fund shall only be used for loans made pursuant to this Article.
+5 (c) Use of Funds. – Monies in the Fund shall first be used to meet the debt service
+6 obligations supported by the General Fund. In addition to meeting the debt service obligations
+7 supported by the General Fund, the North Carolina State Health Coordinating Council may
+8 allocate money from the Fund to provide financial assistance for the following purposes:
+9 (1) New capital projects for facilities licensed under this Chapter or Chapter 122C
+10 of the General Statutes that are located in rural areas of the State.
+11 (2) Repair and renovation projects for existing facilities licensed under this
+12 Chapter or Chapter 122C of the General Statutes that are located in rural areas
+13 of the State.
+14 (3) Other healthcare infrastructure projects located in rural areas of the State
+15 determined by the North Carolina State Health Coordinating Council to be
+16 consistent with the intent of the General Assembly, as specified in subsection
+17 (a) of this section.
+18 (4) Administrative costs incurred by the North Carolina State Health
+19 Coordinating Council for administering the Fund, provided that such costs
+20 shall not exceed one hundred thousand dollars ($100,000) in any fiscal year.
+21 (d) Unexpended Funds. – Funds appropriated for a project that are unspent and
+22 unencumbered upon completion of the project shall revert to the Fund. For the purposes of this
+23 subsection, a project includes any allocation from the Fund for a purpose specified in subsection
+24 (c) of this section.
+25 (e) Report. – Annually on March 1, the North Carolina State Health Coordinating
+26 Council shall report to the Joint Legislative Oversight Committee on Health and Human Services
+27 and the Fiscal Research Division on the use of funds allocated from the Fund. The report shall
+28 include at least all of the following information for the preceding fiscal year:
+29 (1) Amounts credited to the Fund.
+30 (2) Amounts expended from the Fund and the purposes of the expenditures,
+31 including, at a minimum:
+32 a. A description of each project funded and for each project, the location
+33 and the type and amount of financial assistance provided.
+34 b. A detailed list of administrative costs incurred by the North Carolina
+35 State Health Coordinating Council for administering the Rural
+36 Healthcare Infrastructure Fund.
+37 (3) Proposed expenditures of the monies in the Fund for the current and upcoming
+38 fiscal years.
+39 (4) Any other information the North Carolina State Health Coordinating Council
+40 deems relevant to the financial sustainability of the Fund.
+41 "§§ 131E-74.1 through 131E-74.25. Reserved for future codification purposes."
+42 SECTION 1.1.(c) The North Carolina State Health Coordinating Council shall not
+43 begin awarding financial assistance from the Rural Healthcare Infrastructure Fund created by
+44 G.S. 131E-74, as enacted by subsection (b) of this section, until the plan for a Rural Healthcare
+45 Infrastructure Program developed by the North Carolina State Health Coordinating Council
+46 pursuant to Part II of this act has been approved by an act of the General Assembly.
+47 SECTION 1.2. Section 1.1(c) of this Part is effective when it becomes law.
+48
+49 PART II. PLAN FOR RURAL HEALTHCARE INFRASTRUCTURE PROGRAM
+50 SECTION 2.1.(a) By January 15, 2027, the North Carolina State Health
+51 Coordinating Council, in consultation with the Office of Rural Health of the Department of
+Page 2 House Bill 1090-First Edition
+General Assembly Of North Carolina Session 2025
+1 Health and Human Services, shall develop and submit to the Joint Legislative Oversight
+2 Committee on Health and Human Services and the Fiscal Research Division a plan for the North
+3 Carolina State Health Coordinating Council to establish and administer a Rural Healthcare
+4 Infrastructure Program (the program) funded by the Rural Healthcare Infrastructure Fund created
+5 by G.S. 131E-74, as enacted by Section 1.1(b) of this act (the Fund). The purpose of the program
+6 is to award financial assistance from the Fund in the form of grants and loans at below market
+7 interest rates with structured repayment terms to support the construction, renovation, or
+8 modernization of healthcare infrastructure located in rural areas of the State. The plan shall
+9 include recommendations for at least all of the following:
+10 (1) An application process, including factors to be considered in approving or
+11 denying applications for financial assistance from the Fund.
+12 (2) A description of the entities and projects eligible to receive financial
+13 assistance from the Fund.
+14 (3) A description of what constitutes healthcare infrastructure located in a rural
+15 area of the State for the purposes of the program.
+16 (4) A process for evaluating the financial viability and sustainability of projects
+17 seeking financial assistance from the Fund.
+18 (5) A process for overseeing funds awarded from the Rural Healthcare
+19 Infrastructure Fund.
+20 (6) A process for ensuring compliance with contractual obligations and
+21 performance indicators established for recipients of financial assistance.
+22 (7) A long-term plan for financial sustainability of the Fund, including the
+23 identification of all potential State and federal sources of funding.
+24 (8) Any legislative changes necessary to implement the Rural Healthcare
+25 Infrastructure Program.
+26 (9) The amount of State appropriations needed to establish and administer the
+27 Rural Healthcare Infrastructure Program.
+28 (10) Any other information the North Carolina State Health Coordinating Council
+29 deems relevant to implementing the program and administering the Fund.
+30 SECTION 2.1.(b) The North Carolina State Health Coordinating Council shall not
+31 implement the plan developed pursuant to subsection (a) of this section without an act by the
+32 General Assembly.
+33 SECTION 2.2. This Part is effective when it becomes law.
+34
+35 PART III. ADJUSTMENTS TO THE NORTH CAROLINA STATE HEALTH
+36 COORDINATING COUNCIL
+37 SECTION 3.1.(a) G.S. 131E-191.1 reads as rewritten:
+38 "§ 131E-191.1. Lobbyists prohibited from serving on the North Carolina State Health
+39 Coordinating Council.Council; powers and duties; composition; qualifications
+40 of members; terms; removal; vacancies; quorum; per diem.
+41 (a) Powers and Duties. – The North Carolina State Health Coordinating Council has the
+42 following powers and duties:
+43 (1) To work with the Department to prepare a State Medical Facilities Plan for
+44 approval by the Governor, as provided by G.S. 131E-176.2.
+45 (2) To administer the Rural Healthcare Infrastructure Fund created by
+46 G.S. 131E-74.
+47 (b) Composition. – The North Carolina State Health Coordinating Council shall consist
+48 of the following 25 members:
+49 (1) Thirteen members appointed by the Governor as follows:
+50 a. One at-large member.
+51 b. One representative of medical educators.
+House Bill 1090-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 c. One representative of hospices.
+2 d. One representative of local health departments.
+3 e. One individual licensed to practice medicine in this State.
+4 f. One representative of small businesses operating within the State that
+5 employ fewer than 50 employees on a full-time basis.
+6 g. One representative of large businesses operating within the State that
+7 employ more than 50 employees on a full-time basis.
+8 h. One representative of health insurers.
+9 i. One representative of urban local governments.
+10 j. One representative of rural local governments.
+11 k. One representative of nursing homes licensed to operate in this State.
+12 l. One representative of hospitals licensed to operate in this State.
+13 m. One representative of home care agencies licensed to operate in this
+14 State.
+15 (2) Twelve at-large members appointed by the General Assembly in accordance
+16 with G.S. 120-121, six upon the recommendation of the President Pro
+17 Tempore of the Senate and six upon the recommendation of the Speaker of
+18 the House of Representatives.
+19 No person registered as a lobbyist under Chapter 120C of the General Statutes shall be
+20 appointed to or serve on the North Carolina State Health Coordinating Council. No person
+21 previously registered as a lobbyist under Chapter 120C of the General Statutes shall be appointed
+22 to or serve on the North Carolina State Health Coordinating Council within 120 days after the
+23 expiration of the lobbyist's registration.
+24 (c) Chair. – The members shall elect a chair who shall preside for the duration of the
+25 chair's term as a member. In the event a vacancy occurs in the chair before the expiration of the
+26 chair's term, the members shall elect an acting chair to serve for the remainder of the unexpired
+27 term.
+28 (d) Length of Terms. – Members appointed to the Council shall serve for a term of three
+29 years. At the end of the respective terms of office of members of the Council, their successors
+30 shall be appointed for terms of three years. Any appointment to fill a vacancy on the Council
+31 created by the resignation, dismissal, death, or disability of a member shall be filled by the
+32 appointing authority for the balance of the unexpired term. As used in this section, the term
+33 "appointing authority" means the General Assembly in the case of members appointed by the
+34 General Assembly and the Governor in the case of members appointed by the Governor.
+35 (e) Removal of Members. – Each appointing authority may remove any member
+36 appointed by that appointing authority for misfeasance, malfeasance, or nonfeasance.
+37 (f) Filling of Vacancies. – Vacancies on the Council among the membership appointed
+38 by the General Assembly shall be filled by the General Assembly as provided in subdivision
+39 (b)(2) of this section for the unexpired term. Vacancies on the Council among the membership
+40 appointed by the Governor shall be filled by the Governor for the unexpired term.
+41 (g) Quorum. – A majority of the members of the Council constitutes a quorum for the
+42 transaction of business.
+43 (h) Per Diem and Expenses. – The members of the Council shall receive per diem and
+44 necessary traveling and subsistence expenses in accordance with the provisions of G.S. 138-5.
+45 (i) Administrative Assistance. – The Secretary of Health and Human Services shall
+46 supply all clerical and other services required by the Council."
+47 SECTION 3.1.(b) To minimize the impact of this section on the work of the North
+48 Carolina State Health Coordinating Council (the Council), the Governor shall not appoint
+49 successors to two members of the Council representing the General Assembly whose terms
+50 expire December 31, 2026; shall not appoint successors to four members of the Council whose
+51 terms expire December 31, 2026; shall not appoint successors to two at-large members of the
+Page 4 House Bill 1090-First Edition
+General Assembly Of North Carolina Session 2025
+1 Council whose terms expire December 31, 2027; and shall not appoint successors to four at-large
+2 members of the Council whose terms expire December 31, 2028. Instead, the General Assembly
+3 shall appoint six members in accordance with G.S. 120-121, three at the recommendation of the
+4 Speaker of the House of Representatives and three at the recommendation of the President Pro
+5 Tempore of the Senate, to succeed two members of the Council appointed by the Governor to
+6 represent the General Assembly whose terms expire December 31, 2026, and four at-large
+7 members appointed by the Governor whose terms expire on December 31, 2026; the General
+8 Assembly shall appoint two members in accordance with G.S. 120-121, one at the
+9 recommendation of the Speaker of the House of Representatives and one at the recommendation
+10 of the President Pro Tempore of the Senate, to succeed two at-large members appointed by the
+11 Governor whose terms expire on December 31, 2027; and the General Assembly shall appoint
+12 four members in accordance with G.S. 120-121, two at the recommendation of the Speaker of
+13 the House of Representatives and two at the recommendation of the President Pro Tempore of
+14 the Senate, to succeed four members appointed by the Governor whose terms expire on
+15 December 31, 2028. Members appointed to the Council by the General Assembly pursuant to
+16 this subsection shall serve for a term of three years.
+17
+18 PART IV. REPEAL OF RURAL HEALTH CARE STABILIZATION PROGRAM
+19 SECTION 4.1. Article 2 of Chapter 131A of the General Statutes, with the exception
+20 of G.S. 131A-32, as recodified and amended by Part I of this act, is repealed.
+21
+22 PART V. TRANSFERS AND APPROPRIATIONS
+23 SECTION 5.1. Effective July 1, 2026, the entire unrestricted cash balance of the
+24 Rural Health Care Stabilization Fund within the Office of State Budget and Management (Budget
+25 Code 23018) is transferred to the Rural Healthcare Infrastructure Fund created by G.S. 131E-74,
+26 as enacted by Section 1.1(b) of this act. The funds transferred are appropriated for the fiscal year
+27 in which they are transferred. Any remaining principal and interest payments due to the Rural
+28 Health Care Stabilization Fund on or after July 1, 2026, shall be paid to the Rural Healthcare
+29 Infrastructure Fund.
+30 SECTION 5.2. Notwithstanding G.S. 131E-74(c), as enacted by Section 1.1(b) of
+31 this act, there is appropriated from the Rural Healthcare Infrastructure Fund to the Department
+32 of Health and Human Services, Division of Central Management and Support, Office of Rural
+33 Health, the sum of one million dollars ($1,000,000) in nonrecurring funds to fund a contract with
+34 Rural Healthcare Initiative, Inc., a nonprofit organization, to continue the work funded by S.L.
+35 2023-134 involving the creation of effective models of sustainable healthcare for North Carolina
+36 rural communities; to develop cost estimates for achieving the healthcare facilities described in
+37 these initial models of sustainable healthcare; and to support the work of the North Carolina State
+38 Health Coordinating Council and the Office of Rural Health in developing a plan for the
+39 establishment and administration of a Rural Healthcare Infrastructure Program funded by the
+40 Rural Healthcare Infrastructure Fund created by G.S. 131E-74, as enacted by Section 1.1(b) of
+41 this act.
+42
+43 PART VI. EFFECTIVE DATE
+44 SECTION 6.1. Except as otherwise provided, this act is effective July 1, 2026.
+House Bill 1090-First Edition Page 5
+[DELETED:  1 R ( R H A A ( C A T P F T C O A R H I F A A R H I P T B A B T N C C F T E A A O T R H C S P A T A T C A D T  P S A " " S C r " ( L I – m n s t ( C H I M f t o o]
+[DELETED:  S  H a N i G ( U o s t N a ( N o ( R a r p f e f l u t C o ( O h i p l i r a o t S d c ( ( A c i b t N C S H C s ( U F – F a f a p t a u a u s ( ( R – A o M 1 t N C S H C C a i ( A ( A e f t F a t p o t e i a A a b A S H C C f a t R H ( P f ( A d " S b G I P d b t N C S H C C p S  P S 2  B J 1 2 t N C S H C]
+[DELETED:  S  P H a H S s d a s t t J L O C C S H C C t e a a a R H I b i i r w s r t t s t c r o m i ( A d ( A d o t e a p e t r f a ( A a ( A s ( A p f o f a f t R H I ( A p f e c w c o a p ( A l p f f s o t F i t i ( A l c n t i t R H I ( T R ( A d S i G S  P I A T T N C S H C S " N C o ( P f ( T a ( T a t R H I F c b G ( C o ( T a O b O]
+[DELETED:  S  H c O d O e O f O e g O e h O i O j O k O l O m O S ( T w G s u t r o t P P T t N a a t o o t N C S H C C N p p t e ( C c c t ( L y s c a " G ( R o M – E a a m r a m a ( F b ( a ( Q t ( P n ( A A – T S o H a H S s s S C S H C C ( C t G s n a s e t]
+[DELETED:  S  P C m s S T r t G A w t e D 3 2 a f a m A s a t m i a w G o a t r o G f t t S t s f m a b t G w t e o D t  P S o  P S R C a i H I S t o H R 2 r t H C C a t O o R H i d a p f t e R t  P S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1090
+Short Title: RURAL Care Act. (Public)
+Sponsors: Representatives Reeder, Lambeth, Ward, and Greene (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Health, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations
+of the House
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENACT THE REVITALIZING, UPLIFTING REGIONS & ACCESS LOCAL
+3 (RURAL) CARE ACT TO PROVIDE FOR THE CREATION OF A RURAL
+4 HEALTHCARE INFRASTRUCTURE FUND AND A RURAL HEALTHCARE
+5 INFRASTRUCTURE PROGRAM TO BE ADMINISTERED BY THE NORTH
+6 CAROLINA STATE HEALTH COORDINATING COUNCIL; TO DIRECT THE NORTH
+7 CAROLINA STATE HEALTH COORDINATING COUNCIL TO DEVELOP A PLAN
+8 FOR THE ESTABLISHMENT AND ADMINISTRATION OF THE RURAL
+9 HEALTHCARE INFRASTRUCTURE PROGRAM; TO REPEAL THE RURAL HEALTH
+10 CARE STABILIZATION PROGRAM; AND TO AMEND THE COMPOSITION AND
+11 DUTIES OF THE NORTH CAROLINA STATE HEALTH COORDINATING COUNCIL.
+12 The General Assembly of North Carolina enacts:
+13
+14 PART I. RURAL HEALTHCARE INFRASTRUCTURE FUND
+15 SECTION 1.1.(a) Chapter 131E of the General Statutes is amended by adding a new
+16 Article to read:
+17 "Article 4A.
+18 "Rural Healthcare Infrastructure Fund."
+19 SECTION 1.1.(b) G.S. 131A-32 is recodified as G.S. 131E-74 in Article 4A of
+20 Chapter 131E of the General Statutes, as enacted by subsection (a) of this section, and reads as
+21 rewritten:
+22 "§ 131E-74. The Rural Health Care Stabilization Healthcare Infrastructure Fund.
+23 (a) Legislative Intent. – The General Assembly recognizes the need to establish and
+24 maintain a sufficient funding source to address the ongoing capital and healthcare infrastructure
+25 needs of the State. The General Assembly further recognizes the need to protect the State's
+26 substantial improvements in existing healthcare facilities while providing a stable funding source
+27 to pay for new facilities to meet the needs of a growing rural population.
+28 (b) Creation and Source of Funds. – The Rural Health Care Stabilization Healthcare
+29 Infrastructure Fund is created as a nonreverting special fund in the Office of State Budget and
+30 Management. Department of Health and Human Services to provide financial assistance in the
+31 form of grants and loans at below market interest rates with structured repayment terms to support
+32 the construction, renovation, or modernization of healthcare infrastructure located in rural areas
+33 of the State. The Fund shall operate as a revolving fund consisting of funds appropriated to, or
+34 otherwise received by, the Rural Health Care Stabilization Healthcare Infrastructure Program and
+*H1090-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 all funds received as repayment of the principal of or interest on a loan made from the Fund. The
+2 North Carolina State Health Coordinating Council shall administer the Fund. The State Treasurer
+3 is the custodian of the Fund and shall invest its assets in accordance with G.S. 147-69.2 and
+4 G.S. 147-69.3. Moneys in the Fund shall only be used for loans made pursuant to this Article.
+5 (c) Use of Funds. – Monies in the Fund shall first be used to meet the debt service
+6 obligations supported by the General Fund. In addition to meeting the debt service obligations
+7 supported by the General Fund, the North Carolina State Health Coordinating Council may
+8 allocate money from the Fund to provide financial assistance for the following purposes:
+9 (1) New capital projects for facilities licensed under this Chapter or Chapter 122C
+10 of the General Statutes that are located in rural areas of the State.
+11 (2) Repair and renovation projects for existing facilities licensed under this
+12 Chapter or Chapter 122C of the General Statutes that are located in rural areas
+13 of the State.
+14 (3) Other healthcare infrastructure projects located in rural areas of the State
+15 determined by the North Carolina State Health Coordinating Council to be
+16 consistent with the intent of the General Assembly, as specified in subsection
+17 (a) of this section.
+18 (4) Administrative costs incurred by the North Carolina State Health
+19 Coordinating Council for administering the Fund, provided that such costs
+20 shall not exceed one hundred thousand dollars ($100,000) in any fiscal year.
+21 (d) Unexpended Funds. – Funds appropriated for a project that are unspent and
+22 unencumbered upon completion of the project shall revert to the Fund. For the purposes of this
+23 subsection, a project includes any allocation from the Fund for a purpose specified in subsection
+24 (c) of this section.
+25 (e) Report. – Annually on March 1, the North Carolina State Health Coordinating
+26 Council shall report to the Joint Legislative Oversight Committee on Health and Human Services
+27 and the Fiscal Research Division on the use of funds allocated from the Fund. The report shall
+28 include at least all of the following information for the preceding fiscal year:
+29 (1) Amounts credited to the Fund.
+30 (2) Amounts expended from the Fund and the purposes of the expenditures,
+31 including, at a minimum:
+32 a. A description of each project funded and for each project, the location
+33 and the type and amount of financial assistance provided.
+34 b. A detailed list of administrative costs incurred by the North Carolina
+35 State Health Coordinating Council for administering the Rural
+36 Healthcare Infrastructure Fund.
+37 (3) Proposed expenditures of the monies in the Fund for the current and upcoming
+38 fiscal years.
+39 (4) Any other information the North Carolina State Health Coordinating Council
+40 deems relevant to the financial sustainability of the Fund.
+41 "§§ 131E-74.1 through 131E-74.25. Reserved for future codification purposes."
+42 SECTION 1.1.(c) The North Carolina State Health Coordinating Council shall not
+43 begin awarding financial assistance from the Rural Healthcare Infrastructure Fund created by
+44 G.S. 131E-74, as enacted by subsection (b) of this section, until the plan for a Rural Healthcare
+45 Infrastructure Program developed by the North Carolina State Health Coordinating Council
+46 pursuant to Part II of this act has been approved by an act of the General Assembly.
+47 SECTION 1.2. Section 1.1(c) of this Part is effective when it becomes law.
+48
+49 PART II. PLAN FOR RURAL HEALTHCARE INFRASTRUCTURE PROGRAM
+50 SECTION 2.1.(a) By January 15, 2027, the North Carolina State Health
+51 Coordinating Council, in consultation with the Office of Rural Health of the Department of
+Page 2 House Bill 1090-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 Health and Human Services, shall develop and submit to the Joint Legislative Oversight
+2 Committee on Health and Human Services and the Fiscal Research Division a plan for the North
+3 Carolina State Health Coordinating Council to establish and administer a Rural Healthcare
+4 Infrastructure Program (the program) funded by the Rural Healthcare Infrastructure Fund created
+5 by G.S. 131E-74, as enacted by Section 1.1(b) of this act (the Fund). The purpose of the program
+6 is to award financial assistance from the Fund in the form of grants and loans at below market
+7 interest rates with structured repayment terms to support the construction, renovation, or
+8 modernization of healthcare infrastructure located in rural areas of the State. The plan shall
+9 include recommendations for at least all of the following:
+10 (1) An application process, including factors to be considered in approving or
+11 denying applications for financial assistance from the Fund.
+12 (2) A description of the entities and projects eligible to receive financial
+13 assistance from the Fund.
+14 (3) A description of what constitutes healthcare infrastructure located in a rural
+15 area of the State for the purposes of the program.
+16 (4) A process for evaluating the financial viability and sustainability of projects
+17 seeking financial assistance from the Fund.
+18 (5) A process for overseeing funds awarded from the Rural Healthcare
+19 Infrastructure Fund.
+20 (6) A process for ensuring compliance with contractual obligations and
+21 performance indicators established for recipients of financial assistance.
+22 (7) A long-term plan for financial sustainability of the Fund, including the
+23 identification of all potential State and federal sources of funding.
+24 (8) Any legislative changes necessary to implement the Rural Healthcare
+25 Infrastructure Program.
+26 (9) The amount of State appropriations needed to establish and administer the
+27 Rural Healthcare Infrastructure Program.
+28 (10) Any other information the North Carolina State Health Coordinating Council
+29 deems relevant to implementing the program and administering the Fund.
+30 SECTION 2.1.(b) The North Carolina State Health Coordinating Council shall not
+31 implement the plan developed pursuant to subsection (a) of this section without an act by the
+32 General Assembly.
+33 SECTION 2.2. This Part is effective when it becomes law.
+34
+35 PART III. ADJUSTMENTS TO THE NORTH CAROLINA STATE HEALTH
+36 COORDINATING COUNCIL
+37 SECTION 3.1.(a) G.S. 131E-191.1 reads as rewritten:
+38 "§ 131E-191.1. Lobbyists prohibited from serving on the North Carolina State Health
+39 Coordinating Council.Council; powers and duties; composition; qualifications
+40 of members; terms; removal; vacancies; quorum; per diem.
+41 (a) Powers and Duties. – The North Carolina State Health Coordinating Council has the
+42 following powers and duties:
+43 (1) To work with the Department to prepare a State Medical Facilities Plan for
+44 approval by the Governor, as provided by G.S. 131E-176.2.
+45 (2) To administer the Rural Healthcare Infrastructure Fund created by
+46 G.S. 131E-74.
+47 (b) Composition. – The North Carolina State Health Coordinating Council shall consist
+48 of the following 25 members:
+49 (1) Thirteen members appointed by the Governor as follows:
+50 a. One at-large member.
+51 b. One representative of medical educators.
+House Bill 1090-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 c. One representative of hospices.
+2 d. One representative of local health departments.
+3 e. One individual licensed to practice medicine in this State.
+4 f. One representative of small businesses operating within the State that
+5 employ fewer than 50 employees on a full-time basis.
+6 g. One representative of large businesses operating within the State that
+7 employ more than 50 employees on a full-time basis.
+8 h. One representative of health insurers.
+9 i. One representative of urban local governments.
+10 j. One representative of rural local governments.
+11 k. One representative of nursing homes licensed to operate in this State.
+12 l. One representative of hospitals licensed to operate in this State.
+13 m. One representative of home care agencies licensed to operate in this
+14 State.
+15 (2) Twelve at-large members appointed by the General Assembly in accordance
+16 with G.S. 120-121, six upon the recommendation of the President Pro
+17 Tempore of the Senate and six upon the recommendation of the Speaker of
+18 the House of Representatives.
+19 No person registered as a lobbyist under Chapter 120C of the General Statutes shall be
+20 appointed to or serve on the North Carolina State Health Coordinating Council. No person
+21 previously registered as a lobbyist under Chapter 120C of the General Statutes shall be appointed
+22 to or serve on the North Carolina State Health Coordinating Council within 120 days after the
+23 expiration of the lobbyist's registration.
+24 (c) Chair. – The members shall elect a chair who shall preside for the duration of the
+25 chair's term as a member. In the event a vacancy occurs in the chair before the expiration of the
+26 chair's term, the members shall elect an acting chair to serve for the remainder of the unexpired
+27 term.
+28 (d) Length of Terms. – Members appointed to the Council shall serve for a term of three
+29 years. At the end of the respective terms of office of members of the Council, their successors
+30 shall be appointed for terms of three years. Any appointment to fill a vacancy on the Council
+31 created by the resignation, dismissal, death, or disability of a member shall be filled by the
+32 appointing authority for the balance of the unexpired term. As used in this section, the term
+33 "appointing authority" means the General Assembly in the case of members appointed by the
+34 General Assembly and the Governor in the case of members appointed by the Governor.
+35 (e) Removal of Members. – Each appointing authority may remove any member
+36 appointed by that appointing authority for misfeasance, malfeasance, or nonfeasance.
+37 (f) Filling of Vacancies. – Vacancies on the Council among the membership appointed
+38 by the General Assembly shall be filled by the General Assembly as provided in subdivision
+39 (b)(2) of this section for the unexpired term. Vacancies on the Council among the membership
+40 appointed by the Governor shall be filled by the Governor for the unexpired term.
+41 (g) Quorum. – A majority of the members of the Council constitutes a quorum for the
+42 transaction of business.
+43 (h) Per Diem and Expenses. – The members of the Council shall receive per diem and
+44 necessary traveling and subsistence expenses in accordance with the provisions of G.S. 138-5.
+45 (i) Administrative Assistance. – The Secretary of Health and Human Services shall
+46 supply all clerical and other services required by the Council."
+47 SECTION 3.1.(b) To minimize the impact of this section on the work of the North
+48 Carolina State Health Coordinating Council (the Council), the Governor shall not appoint
+49 successors to two members of the Council representing the General Assembly whose terms
+50 expire December 31, 2026; shall not appoint successors to four members of the Council whose
+51 terms expire December 31, 2026; shall not appoint successors to two at-large members of the
+Page 4 House Bill 1090-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 Council whose terms expire December 31, 2027; and shall not appoint successors to four at-large
+2 members of the Council whose terms expire December 31, 2028. Instead, the General Assembly
+3 shall appoint six members in accordance with G.S. 120-121, three at the recommendation of the
+4 Speaker of the House of Representatives and three at the recommendation of the President Pro
+5 Tempore of the Senate, to succeed two members of the Council appointed by the Governor to
+6 represent the General Assembly whose terms expire December 31, 2026, and four at-large
+7 members appointed by the Governor whose terms expire on December 31, 2026; the General
+8 Assembly shall appoint two members in accordance with G.S. 120-121, one at the
+9 recommendation of the Speaker of the House of Representatives and one at the recommendation
+10 of the President Pro Tempore of the Senate, to succeed two at-large members appointed by the
+11 Governor whose terms expire on December 31, 2027; and the General Assembly shall appoint
+12 four members in accordance with G.S. 120-121, two at the recommendation of the Speaker of
+13 the House of Representatives and two at the recommendation of the President Pro Tempore of
+14 the Senate, to succeed four members appointed by the Governor whose terms expire on
+15 December 31, 2028. Members appointed to the Council by the General Assembly pursuant to
+16 this subsection shall serve for a term of three years.
+17
+18 PART IV. REPEAL OF RURAL HEALTH CARE STABILIZATION PROGRAM
+19 SECTION 4.1. Article 2 of Chapter 131A of the General Statutes, with the exception
+20 of G.S. 131A-32, as recodified and amended by Part I of this act, is repealed.
+21
+22 PART V. TRANSFERS AND APPROPRIATIONS
+23 SECTION 5.1. Effective July 1, 2026, the entire unrestricted cash balance of the
+24 Rural Health Care Stabilization Fund within the Office of State Budget and Management (Budget
+25 Code 23018) is transferred to the Rural Healthcare Infrastructure Fund created by G.S. 131E-74,
+26 as enacted by Section 1.1(b) of this act. The funds transferred are appropriated for the fiscal year
+27 in which they are transferred. Any remaining principal and interest payments due to the Rural
+28 Health Care Stabilization Fund on or after July 1, 2026, shall be paid to the Rural Healthcare
+29 Infrastructure Fund.
+30 SECTION 5.2. Notwithstanding G.S. 131E-74(c), as enacted by Section 1.1(b) of
+31 this act, there is appropriated from the Rural Healthcare Infrastructure Fund to the Department
+32 of Health and Human Services, Division of Central Management and Support, Office of Rural
+33 Health, the sum of one million dollars ($1,000,000) in nonrecurring funds to fund a contract with
+34 Rural Healthcare Initiative, Inc., a nonprofit organization, to continue the work funded by S.L.
+35 2023-134 involving the creation of effective models of sustainable healthcare for North Carolina
+36 rural communities; to develop cost estimates for achieving the healthcare facilities described in
+37 these initial models of sustainable healthcare; and to support the work of the North Carolina State
+38 Health Coordinating Council and the Office of Rural Health in developing a plan for the
+39 establishment and administration of a Rural Healthcare Infrastructure Program funded by the
+40 Rural Healthcare Infrastructure Fund created by G.S. 131E-74, as enacted by Section 1.1(b) of
+41 this act.
+42
+43 PART VI. EFFECTIVE DATE
+44 SECTION 6.1. Except as otherwise provided, this act is effective July 1, 2026.
+House Bill 1090-First Edition Page 5
+
+[DELETED:  1 R ( R H A A ( C A T P F T C O A R H I F A A R H I P T B A B T N C C F T E A A O T R H C S P A T A T C A D T  P S A " " S C r " ( L I – m n s t ( C H I M f t o o]
+[DELETED:  S  H a N i G ( U o s t N a ( N o ( R a r p f e f l u t C o ( O h i p l i r a o t S d c ( ( A c i b t N C S H C s ( U F – F a f a p t a u a u s ( ( R – A o M 1 t N C S H C C a i ( A ( A e f t F a t p o t e i a A a b A S H C C f a t R H ( P f ( A d " S b G I P d b t N C S H C C p S  P S 2  B J 1 2 t N C S H C]
+[DELETED:  S  P H a H S s d a s t t J L O C C S H C C t e a a a R H I b i i r w s r t t s t c r o m i ( A d ( A d o t e a p e t r f a ( A a ( A s ( A p f o f a f t R H I ( A p f e c w c o a p ( A l p f f s o t F i t i ( A l c n t i t R H I ( T R ( A d S i G S  P I A T T N C S H C S " N C o ( P f ( T a ( T a t R H I F c b G ( C o ( T a O b O]
+[DELETED:  S  H c O d O e O f O e g O e h O i O j O k O l O m O S ( T w G s u t r o t P P T t N a a t o o t N C S H C C N p p t e ( C c c t ( L y s c a " G ( R o M – E a a m r a m a ( F b ( a ( Q t ( P n ( A A – T S o H a H S s s S C S H C C ( C t G s n a s e t]
+[DELETED:  S  P C m s S T r t G A w t e D 3 2 a f a m A s a t m i a w G o a t r o G f t t S t s f m a b t G w t e o D t  P S o  P S R C a i H I S t o H R 2 r t H C C a t O o R H i d a p f t e R t  P S]

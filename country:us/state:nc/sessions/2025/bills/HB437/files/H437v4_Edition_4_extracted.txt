@@ -1,0 +1,392 @@
+Title: HOUSE BILL 437
+Official Title: HOUSE BILL 437
+Number of Sections: 1
+Source: versions - Edition 4
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 4
+Committee Substitute Favorable 4/8/25
+Senate Judiciary Committee Substitute Adopted 6/10/26
+Senate Health Care Committee Substitute Adopted 6/11/26
+Short Title: Drug-Free Zones/Unauthorized Public Camping. (Public)
+Sponsors:
+Referred to:
+March 19, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ESTABLISH DRUG-FREE HOMELESS SERVICE ZONES AND INCREASE
+3 THE PUNISHMENT IMPOSED FOR COMMITTING CERTAIN DRUG OFFENSES IN
+4 A DRUG-FREE HOMELESS SERVICE ZONE AND TO BAN UNAUTHORIZED
+5 PUBLIC CAMPING OR SLEEPING IN THE STATE AND LOCAL GOVERNMENT
+6 UNITS OF THE STATE.
+7 The General Assembly of North Carolina enacts:
+8
+9 DRUG-FREE HOMELESS SERVICE ZONES
+10 SECTION 1.(a) This section shall be known as "The Drug-Free Homeless Service
+11 Zones Act."
+12 SECTION 1.(b) G.S. 90-95(e) reads as rewritten:
+13 "(e) The prescribed punishment and degree of any offense under this Article shall be
+14 subject to the following conditions, but the punishment for an offense may be increased only by
+15 the maximum authorized under any one of the applicable conditions:
+16 …
+17 (8) Any person 21 years of age or older who commits an offense under
+18 G.S. 90-95(a)(1) on property used for a child care center, or for an elementary
+19 or secondary school or within 1,000 feet of the boundary of real property used
+20 for a child care center, or for an elementary or secondary school shall be
+21 punished as a Class E felon. For purposes of this subdivision, the transfer of
+22 less than five grams of marijuana for no remuneration shall not constitute a
+23 delivery in violation of G.S. 90-95(a)(1). For purposes of this subdivision, a
+24 child care center is as defined in G.S. 110-86(3)a., and that is licensed by the
+25 Secretary of the Department of Health and Human Services.
+26 (8a) Any person who commits an offense under G.S. 90-95(a)(1) in a drug-free
+27 homeless service zone is guilty of a Class E felony if the person knows or
+28 reasonably should know that it is a drug-free homeless service zone. Any
+29 operator of a facility-based service who intentionally allows a person to
+30 commit an offense under G.S. 90-95(a)(1) in a drug-free homeless service
+31 zone is guilty of a Class H felony. For purposes of this subdivision, the transfer
+32 of less than five grams of marijuana for no remuneration shall not constitute a
+33 delivery in violation of G.S. 90-95(a)(1). The following definitions apply in
+34 this subdivision:
+*H437-v-4*
+General Assembly Of North Carolina Session 2025
+1 a. Drug-free homeless service zone. – The following areas related to a
+2 facility-based service:
+3 1. If the facility-based service does not provide the services
+4 described in sub-sub-subdivision 2. of this sub-subdivision, the
+5 exterior and interior of any building and any accompanying
+6 grounds used by a facility-based service and the area within
+7 100 feet of that building or its accompanying grounds, if at
+8 least one sign is permanently affixed in a visible manner at the
+9 exterior of the main entrance of the facility that identifies the
+10 building and its accompanying grounds as a drug-free
+11 homeless service zone. The presence of this sign shall raise a
+12 presumption that the person committing the offense knows or
+13 reasonably should know that it is a drug-free homeless service
+14 zone.
+15 2. If the facility-based service provides shelter or housing for
+16 victims of domestic violence that may be endangered if the
+17 purpose or location of the facility were to become known, the
+18 interior of any building and any outdoor area that may only be
+19 accessed by entering through the building used by a
+20 facility-based service, if at least one sign is permanently
+21 affixed in a visible manner inside the building and within 5 feet
+22 of the main entrance of the facility that identifies the building
+23 as a drug-free homeless service zone. The presence of this sign
+24 shall raise a presumption that the person committing the
+25 offense knows or reasonably should know that it is a drug-free
+26 homeless service zone.
+27 b. Facility-based service. – Any (i) emergency or temporary shelter,
+28 transitional housing provider, or permanent supportive housing entity
+29 that receives local, State, or federal funds for the purpose of providing
+30 shelter to homeless persons or (ii) other entity or facility that receives
+31 local, State, or federal funds and primarily provides treatment,
+32 preventive care, or other services to homeless persons.
+33 c. Operator. – A sole proprietorship, corporation, partnership, joint
+34 venture, limited partnership, limited liability partnership, limited
+35 liability company, or any other entity or business association, or
+36 contractor or subcontractor of the same, that is the recipient of local,
+37 State, or federal funds to use for the provision of a facility-based
+38 service.
+39 …."
+40 SECTION 1.(c) This section becomes effective December 1, 2026, and applies to
+41 offenses committed on or after that date.
+42
+43 UNAUTHORIZED PUBLIC CAMPING AND SLEEPING
+44 SECTION 2.(a) Article 9 of Chapter 160D of the General Statutes is amended by
+45 adding a new section to read:
+46 "§ 160D-917. Camping in public spaces.
+47 (a) For purposes of this section, the following definitions shall apply:
+48 (1) Department. – The North Carolina Department of Labor.
+49 (2) Public camping or sleeping. – Lodging or residing overnight in a temporary
+50 outdoor habitation used as a dwelling or living space and evidenced by the
+51 erection of a tent or other temporary shelter, the presence of bedding or
+Page 2 House Bill 437-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 pillows, or the storage of personal belongings or lodging or residing overnight
+2 in an outdoor space without a tent or other temporary shelter. The term does
+3 not include (i) lodging or residing overnight in a motor vehicle that is
+4 registered, insured, and located in a place where it may be lawfully used or
+5 (ii) camping for recreational purposes on property designated for those
+6 purposes.
+7 (b) Except as provided in subsection (c) of this section, a local government may not
+8 authorize or otherwise allow any person to regularly engage in public camping or sleeping on
+9 any public property, including any public building or its grounds and any public right-of-way
+10 under the jurisdiction of the local government.
+11 (c) The governing board of a local government may, by majority vote, designate property
+12 owned by the local government within its jurisdictional boundaries to be used for a continuous
+13 period of no longer than one year for the purposes of public camping or sleeping. Except for a
+14 local government on the Unit Assistance List prepared by the Local Government Commission,
+15 the local government shall, in making the property designation, establish and maintain minimum
+16 standards and procedures related to the designated property for the purposes of:
+17 (1) Ensuring the safety and security of the designated property and the persons
+18 lodging or residing on the designated property.
+19 (2) Maintaining sanitation, which must, at a minimum, include providing access
+20 to clean and operable restrooms and running water.
+21 (3) Coordinating with the county health department to provide access to
+22 behavioral health services, which must include substance abuse and mental
+23 health treatment resources.
+24 (4) Prohibiting illegal substance use and alcohol use on the designated property
+25 and enforcing the prohibition against such use.
+26 (d) The local government's designation of property under subsection (c) of this section
+27 shall not become effective until the designated property is certified by the Department. To obtain
+28 the certification, the local government shall submit a request to the Commissioner of Labor which
+29 shall include documentation proving all of the following:
+30 (1) There are not sufficient open beds in homeless shelters in the local
+31 government for the homeless population of the local government.
+32 (2) The designated property is not contiguous to property zoned for residential
+33 use by the local government.
+34 (3) The designated property would not adversely and materially affect the
+35 property value or safety and security of other existing residential or
+36 commercial property in the local government and would not negatively affect
+37 the safety of children.
+38 (4) The local government has developed a plan to satisfy the minimum standards
+39 and procedures prescribed in subsection (c) of this section.
+40 (e) Within 10 days after receipt of a request to certify a designated property, the
+41 Department shall notify the local government of the date the request was received and of any
+42 omissions or errors in the request. The Department shall certify the designated property within
+43 45 days after receipt of a complete submission from the local government, and the designated
+44 property shall be deemed certified on the forty-fifth day if the Department takes no action.
+45 (f) Within 30 days after certification of a designated property by the Department, the
+46 local government shall publish the minimum standards and procedures required by subsection
+47 (c) of this section on the local government's website. The local government shall continue to
+48 make the standards and procedures publicly available for as long as any local government
+49 property remains designated under subsection (d) of this section.
+50 (g) The Department may inspect any designated property at any time, and the Department
+51 shall provide notice to the local government recommending closure of the designated property if
+House Bill 437-Fourth Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 the requirements of this section are no longer satisfied. A local government shall publish any
+2 notice recommending closure on the local government's website not later than five business days
+3 after receipt of the notice.
+4 (h) Any resident of the local government, any owner of a business located in the local
+5 government, or the Attorney General may bring a civil action in any court of competent
+6 jurisdiction against the local government to enjoin a violation of subsection (b) of this section. If
+7 the resident or business owner prevails in a civil action, the court may award reasonable expenses
+8 incurred in bringing the civil action, including court costs, reasonable attorneys' fees,
+9 investigative costs, witness fees, and deposition costs. An application for an injunction under this
+10 subsection shall be accompanied by an affidavit attesting to all of the following:
+11 (1) The applicant has provided written notice of the alleged violation to the
+12 governing board of the local government.
+13 (2) The applicant has provided the local government with five business days to
+14 cure the alleged violation.
+15 (3) The local government has failed to take all reasonable actions within its
+16 governmental powers to cure the alleged violation within five business days
+17 after receiving written notice of the alleged violation from the applicant.
+18 (i) This section does not apply during any time period in which:
+19 (1) The Governor has declared a state of emergency pursuant to G.S. 166A-19.20.
+20 (2) A local government has declared a state of emergency pursuant to
+21 G.S. 166A-19.22."
+22 SECTION 2.(b) No later than June 30, 2027, the Department of Labor shall adopt
+23 the rules necessary to implement the provisions of this section.
+24 SECTION 2.(c) Subsection (a) of this section becomes effective June 30, 2027. The
+25 remainder of this section is effective when it becomes law.
+26
+27 EFFECTIVE DATE
+28 SECTION 3. Except as otherwise provided, this act is effective when it becomes
+29 law.
+Page 4 House Bill 437-Fourth Edition
+[DELETED:  4 D (   A A T A D H S Z A T B U P C O S I T S A L G U T  D S Z S " T s t … ( A p 2 y o a o o w c a o u G o f p l d c S ( A h r o o a f s w i a a p t c z o d t]
+[DELETED:  S  H a D f 1 I t f s d n p t s d e g 1 l e b a i a g a a d h p r z 2 I t f s p s o h f v p i a b e t t b u b a f s i a l o s i p a o a s r a p t t p c t o h b F s – A ( e o t s t t s l S o f f a p p t p c O – A s p c p j v l p l l p l l c o a o e o b a o c S o f f t u f t p o a f s … S o  U S a " ( F ( D ( P o e o a t o o t s t p o b o]
+[DELETED:  S  P p i n i ( l o r o i a m v t i r ( c f r p o p d f t p ( E a a u ( T o p l t s ( E l ( M t ( C w t c h d t p a t b h ( P a ( T s t s ( T a n s o b i h s i t l g ( T u ( T d p w n a a m a t p v o s a s o o e r o c t ( T a ( W 1 d a r o a r t c a d p t D o 4 p ( W l ( m t s a p p a f a l a a l g p ( T s]
+[DELETED:  S  H t n a ( A g o t A G m b a c a i a c o c j t i i b t c a i c c r a f i s ( T a h p w n o t a v t t g ( T c ( T l g h f t t a r a w i g a ( T ( T ( A l g h d a s o e p t G S t S r  E S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 4
+HOUSE BILL 437
+Committee Substitute Favorable 4/8/25
+Senate Judiciary Committee Substitute Adopted 6/10/26
+Senate Health Care Committee Substitute Adopted 6/11/26
+Short Title: Drug-Free Zones/Unauthorized Public Camping. (Public)
+Sponsors:
+Referred to:
+March 19, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ESTABLISH DRUG-FREE HOMELESS SERVICE ZONES AND INCREASE
+3 THE PUNISHMENT IMPOSED FOR COMMITTING CERTAIN DRUG OFFENSES IN
+4 A DRUG-FREE HOMELESS SERVICE ZONE AND TO BAN UNAUTHORIZED
+5 PUBLIC CAMPING OR SLEEPING IN THE STATE AND LOCAL GOVERNMENT
+6 UNITS OF THE STATE.
+7 The General Assembly of North Carolina enacts:
+8
+9 DRUG-FREE HOMELESS SERVICE ZONES
+10 SECTION 1.(a) This section shall be known as "The Drug-Free Homeless Service
+11 Zones Act."
+12 SECTION 1.(b) G.S. 90-95(e) reads as rewritten:
+13 "(e) The prescribed punishment and degree of any offense under this Article shall be
+14 subject to the following conditions, but the punishment for an offense may be increased only by
+15 the maximum authorized under any one of the applicable conditions:
+16 …
+17 (8) Any person 21 years of age or older who commits an offense under
+18 G.S. 90-95(a)(1) on property used for a child care center, or for an elementary
+19 or secondary school or within 1,000 feet of the boundary of real property used
+20 for a child care center, or for an elementary or secondary school shall be
+21 punished as a Class E felon. For purposes of this subdivision, the transfer of
+22 less than five grams of marijuana for no remuneration shall not constitute a
+23 delivery in violation of G.S. 90-95(a)(1). For purposes of this subdivision, a
+24 child care center is as defined in G.S. 110-86(3)a., and that is licensed by the
+25 Secretary of the Department of Health and Human Services.
+26 (8a) Any person who commits an offense under G.S. 90-95(a)(1) in a drug-free
+27 homeless service zone is guilty of a Class E felony if the person knows or
+28 reasonably should know that it is a drug-free homeless service zone. Any
+29 operator of a facility-based service who intentionally allows a person to
+30 commit an offense under G.S. 90-95(a)(1) in a drug-free homeless service
+31 zone is guilty of a Class H felony. For purposes of this subdivision, the transfer
+32 of less than five grams of marijuana for no remuneration shall not constitute a
+33 delivery in violation of G.S. 90-95(a)(1). The following definitions apply in
+34 this subdivision:
+*H437-v-4*
+
+General Assembly Of North Carolina Session 2025
+1 a. Drug-free homeless service zone. – The following areas related to a
+2 facility-based service:
+3 1. If the facility-based service does not provide the services
+4 described in sub-sub-subdivision 2. of this sub-subdivision, the
+5 exterior and interior of any building and any accompanying
+6 grounds used by a facility-based service and the area within
+7 100 feet of that building or its accompanying grounds, if at
+8 least one sign is permanently affixed in a visible manner at the
+9 exterior of the main entrance of the facility that identifies the
+10 building and its accompanying grounds as a drug-free
+11 homeless service zone. The presence of this sign shall raise a
+12 presumption that the person committing the offense knows or
+13 reasonably should know that it is a drug-free homeless service
+14 zone.
+15 2. If the facility-based service provides shelter or housing for
+16 victims of domestic violence that may be endangered if the
+17 purpose or location of the facility were to become known, the
+18 interior of any building and any outdoor area that may only be
+19 accessed by entering through the building used by a
+20 facility-based service, if at least one sign is permanently
+21 affixed in a visible manner inside the building and within 5 feet
+22 of the main entrance of the facility that identifies the building
+23 as a drug-free homeless service zone. The presence of this sign
+24 shall raise a presumption that the person committing the
+25 offense knows or reasonably should know that it is a drug-free
+26 homeless service zone.
+27 b. Facility-based service. – Any (i) emergency or temporary shelter,
+28 transitional housing provider, or permanent supportive housing entity
+29 that receives local, State, or federal funds for the purpose of providing
+30 shelter to homeless persons or (ii) other entity or facility that receives
+31 local, State, or federal funds and primarily provides treatment,
+32 preventive care, or other services to homeless persons.
+33 c. Operator. – A sole proprietorship, corporation, partnership, joint
+34 venture, limited partnership, limited liability partnership, limited
+35 liability company, or any other entity or business association, or
+36 contractor or subcontractor of the same, that is the recipient of local,
+37 State, or federal funds to use for the provision of a facility-based
+38 service.
+39 …."
+40 SECTION 1.(c) This section becomes effective December 1, 2026, and applies to
+41 offenses committed on or after that date.
+42
+43 UNAUTHORIZED PUBLIC CAMPING AND SLEEPING
+44 SECTION 2.(a) Article 9 of Chapter 160D of the General Statutes is amended by
+45 adding a new section to read:
+46 "§ 160D-917. Camping in public spaces.
+47 (a) For purposes of this section, the following definitions shall apply:
+48 (1) Department. – The North Carolina Department of Labor.
+49 (2) Public camping or sleeping. – Lodging or residing overnight in a temporary
+50 outdoor habitation used as a dwelling or living space and evidenced by the
+51 erection of a tent or other temporary shelter, the presence of bedding or
+Page 2 House Bill 437-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 pillows, or the storage of personal belongings or lodging or residing overnight
+2 in an outdoor space without a tent or other temporary shelter. The term does
+3 not include (i) lodging or residing overnight in a motor vehicle that is
+4 registered, insured, and located in a place where it may be lawfully used or
+5 (ii) camping for recreational purposes on property designated for those
+6 purposes.
+7 (b) Except as provided in subsection (c) of this section, a local government may not
+8 authorize or otherwise allow any person to regularly engage in public camping or sleeping on
+9 any public property, including any public building or its grounds and any public right-of-way
+10 under the jurisdiction of the local government.
+11 (c) The governing board of a local government may, by majority vote, designate property
+12 owned by the local government within its jurisdictional boundaries to be used for a continuous
+13 period of no longer than one year for the purposes of public camping or sleeping. Except for a
+14 local government on the Unit Assistance List prepared by the Local Government Commission,
+15 the local government shall, in making the property designation, establish and maintain minimum
+16 standards and procedures related to the designated property for the purposes of:
+17 (1) Ensuring the safety and security of the designated property and the persons
+18 lodging or residing on the designated property.
+19 (2) Maintaining sanitation, which must, at a minimum, include providing access
+20 to clean and operable restrooms and running water.
+21 (3) Coordinating with the county health department to provide access to
+22 behavioral health services, which must include substance abuse and mental
+23 health treatment resources.
+24 (4) Prohibiting illegal substance use and alcohol use on the designated property
+25 and enforcing the prohibition against such use.
+26 (d) The local government's designation of property under subsection (c) of this section
+27 shall not become effective until the designated property is certified by the Department. To obtain
+28 the certification, the local government shall submit a request to the Commissioner of Labor which
+29 shall include documentation proving all of the following:
+30 (1) There are not sufficient open beds in homeless shelters in the local
+31 government for the homeless population of the local government.
+32 (2) The designated property is not contiguous to property zoned for residential
+33 use by the local government.
+34 (3) The designated property would not adversely and materially affect the
+35 property value or safety and security of other existing residential or
+36 commercial property in the local government and would not negatively affect
+37 the safety of children.
+38 (4) The local government has developed a plan to satisfy the minimum standards
+39 and procedures prescribed in subsection (c) of this section.
+40 (e) Within 10 days after receipt of a request to certify a designated property, the
+41 Department shall notify the local government of the date the request was received and of any
+42 omissions or errors in the request. The Department shall certify the designated property within
+43 45 days after receipt of a complete submission from the local government, and the designated
+44 property shall be deemed certified on the forty-fifth day if the Department takes no action.
+45 (f) Within 30 days after certification of a designated property by the Department, the
+46 local government shall publish the minimum standards and procedures required by subsection
+47 (c) of this section on the local government's website. The local government shall continue to
+48 make the standards and procedures publicly available for as long as any local government
+49 property remains designated under subsection (d) of this section.
+50 (g) The Department may inspect any designated property at any time, and the Department
+51 shall provide notice to the local government recommending closure of the designated property if
+House Bill 437-Fourth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 the requirements of this section are no longer satisfied. A local government shall publish any
+2 notice recommending closure on the local government's website not later than five business days
+3 after receipt of the notice.
+4 (h) Any resident of the local government, any owner of a business located in the local
+5 government, or the Attorney General may bring a civil action in any court of competent
+6 jurisdiction against the local government to enjoin a violation of subsection (b) of this section. If
+7 the resident or business owner prevails in a civil action, the court may award reasonable expenses
+8 incurred in bringing the civil action, including court costs, reasonable attorneys' fees,
+9 investigative costs, witness fees, and deposition costs. An application for an injunction under this
+10 subsection shall be accompanied by an affidavit attesting to all of the following:
+11 (1) The applicant has provided written notice of the alleged violation to the
+12 governing board of the local government.
+13 (2) The applicant has provided the local government with five business days to
+14 cure the alleged violation.
+15 (3) The local government has failed to take all reasonable actions within its
+16 governmental powers to cure the alleged violation within five business days
+17 after receiving written notice of the alleged violation from the applicant.
+18 (i) This section does not apply during any time period in which:
+19 (1) The Governor has declared a state of emergency pursuant to G.S. 166A-19.20.
+20 (2) A local government has declared a state of emergency pursuant to
+21 G.S. 166A-19.22."
+22 SECTION 2.(b) No later than June 30, 2027, the Department of Labor shall adopt
+23 the rules necessary to implement the provisions of this section.
+24 SECTION 2.(c) Subsection (a) of this section becomes effective June 30, 2027. The
+25 remainder of this section is effective when it becomes law.
+26
+27 EFFECTIVE DATE
+28 SECTION 3. Except as otherwise provided, this act is effective when it becomes
+29 law.
+Page 4 House Bill 437-Fourth Edition
+
+[DELETED:  4 D (   A A T A D H S Z A T B U P C O S I T S A L G U T  D S Z S " T s t … ( A p 2 y o a o o w c a o u G o f p l d c S ( A h r o o a f s w i a a p t c z o d t]
+[DELETED:  S  H a D f 1 I t f s d n p t s d e g 1 l e b a i a g a a d h p r z 2 I t f s p s o h f v p i a b e t t b u b a f s i a l o s i p a o a s r a p t t p c t o h b F s – A ( e o t s t t s l S o f f a p p t p c O – A s p c p j v l p l l p l l c o a o e o b a o c S o f f t u f t p o a f s … S o  U S a " ( F ( D ( P o e o a t o o t s t p o b o]
+[DELETED:  S  P p i n i ( l o r o i a m v t i r ( c f r p o p d f t p ( E a a u ( T o p l t s ( E l ( M t ( C w t c h d t p a t b h ( P a ( T s t s ( T a n s o b i h s i t l g ( T u ( T d p w n a a m a t p v o s a s o o e r o c t ( T a ( W 1 d a r o a r t c a d p t D o 4 p ( W l ( m t s a p p a f a l a a l g p ( T s]
+[DELETED:  S  H t n a ( A g o t A G m b a c a i a c o c j t i i b t c a i c c r a f i s ( T a h p w n o t a v t t g ( T c ( T l g h f t t a r a w i g a ( T ( T ( A l g h d a s o e p t G S t S r  E S l]

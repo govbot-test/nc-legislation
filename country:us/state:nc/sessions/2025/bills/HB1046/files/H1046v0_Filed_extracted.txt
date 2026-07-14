@@ -1,0 +1,150 @@
+Title: HOUSE BILL DRH40658-MCa-323
+Official Title: HOUSE BILL DRH40658-MCa-323
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+H.B. 1046
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 23, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: NC Economic Progress and Well-Being. (Public)
+Sponsors: Representative Cohn.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE DEPARTMENT OF COMMERCE TO PREPARE A BIENNIAL
+3 REPORT ON ECONOMIC OPPORTUNITY, AFFORDABILITY, AND FAMILY
+4 ECONOMIC SECURITY IN NORTH CAROLINA.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Article 10 of Chapter 143B of the General Statutes is amended by
+7 adding a new section to read:
+8 "§ 143B-434.02. Biennial report on economic opportunity, affordability, and family
+9 economic security.
+10 (a) Report. – The Department of Commerce shall prepare and publish a biennial report
+11 on economic opportunity, affordability, and family economic security in North Carolina.
+12 (b) Purpose. – The report required by this section shall supplement traditional measures
+13 of economic activity by providing the General Assembly and the public with information on
+14 statewide and county-level economic conditions affecting individuals, families, and
+15 communities.
+16 (c) Data. – The report shall include data for the State and, to the extent practicable, for
+17 each county. In preparing the report, the Department shall use existing federal, State, and other
+18 publicly available data to the maximum extent practicable and may consult with institutions of
+19 higher education, research organizations, and other relevant entities.
+20 (d) Required Metrics. – At a minimum, the report shall include all of the following:
+21 (1) Hardship indicators, including the poverty rate, child poverty, deep poverty,
+22 and the supplemental poverty rate, if available at the relevant level of analysis.
+23 (2) Work and earnings indicators, including labor force participation,
+24 employment, unemployment, the share of jobs that pay wages sufficient to
+25 meet basic household needs, and the share of jobs that provide
+26 employer-sponsored health insurance or other commonly available
+27 employment benefits, to the extent that data is available.
+28 (3) Household affordability indicators, including the share of household income
+29 spent on housing, food, child care, and health care, including premiums and
+30 other major out-of-pocket costs to the extent that data is available.
+31 (4) Cost-burden indicators, including the percentage of households that are
+32 cost-burdened with respect to housing, child care, and health care costs, to the
+33 extent that data is available.
+34 (5) Education and workforce preparation indicators, including the cost of
+35 postsecondary education relative to income and the cost of workforce training
+36 and credentialing programs relative to income, to the extent practicable.
+*DRH40658-MCa-323*
+General Assembly Of North Carolina Session 2025
+1 (6) Community and regional opportunity indicators, including persistent poverty
+2 counties or census tracts, concentrated poverty census tracts, and the number
+3 of people living in areas of persistent or concentrated poverty.
+4 (7) Other county-level indicators of economic opportunity, business formation, or
+5 workforce access that the Department determines are appropriate and
+6 supported by reliable public data.
+7 (e) Methodology. – Each report shall identify the data sources used, describe the
+8 methodology applied, and note any material limitations affecting interpretation of the report.
+9 (f) Submission. – The Department shall submit the report required by this section to the
+10 Joint Legislative Economic Development and Global Engagement Oversight Committee, the
+11 Fiscal Research Division, and the General Assembly no later than January 31 of each
+12 odd-numbered year. The Department shall also publish the report on its website."
+13 SECTION 2. There is appropriated from the General Fund to the Department of
+14 Commerce the sum of two hundred thousand dollars ($200,000) in recurring funds beginning in
+15 the 2026-2027 fiscal year to be used to implement this act.
+16 SECTION 3. This act becomes effective July 1, 2026.
+Page 2 DRH40658-MCa-323
+[DELETED:  D N ( R  A A R O E O A A F E T S a " 1  B r o e o a a f e ( R o ( P o s a c e c a i f a c ( D e p h ( R ( H a ( W a e i i l f p e m b h n a t s o j t p e h i o o c a e ( H s o ( C i i t p o h t a c e ( E a w p i i t c o p a]
+[DELETED:  S  D ( C c o ( O w a t t D d a a a s ( M – E r s i t d s u d t m ( S J F R D a t G A n l t J 3 o e o S C t S]
+
+
+================================================================================
+
+Raw Text:
+H.B. 1046
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 23, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH40658-MCa-323
+Short Title: NC Economic Progress and Well-Being. (Public)
+Sponsors: Representative Cohn.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE DEPARTMENT OF COMMERCE TO PREPARE A BIENNIAL
+3 REPORT ON ECONOMIC OPPORTUNITY, AFFORDABILITY, AND FAMILY
+4 ECONOMIC SECURITY IN NORTH CAROLINA.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Article 10 of Chapter 143B of the General Statutes is amended by
+7 adding a new section to read:
+8 "§ 143B-434.02. Biennial report on economic opportunity, affordability, and family
+9 economic security.
+10 (a) Report. – The Department of Commerce shall prepare and publish a biennial report
+11 on economic opportunity, affordability, and family economic security in North Carolina.
+12 (b) Purpose. – The report required by this section shall supplement traditional measures
+13 of economic activity by providing the General Assembly and the public with information on
+14 statewide and county-level economic conditions affecting individuals, families, and
+15 communities.
+16 (c) Data. – The report shall include data for the State and, to the extent practicable, for
+17 each county. In preparing the report, the Department shall use existing federal, State, and other
+18 publicly available data to the maximum extent practicable and may consult with institutions of
+19 higher education, research organizations, and other relevant entities.
+20 (d) Required Metrics. – At a minimum, the report shall include all of the following:
+21 (1) Hardship indicators, including the poverty rate, child poverty, deep poverty,
+22 and the supplemental poverty rate, if available at the relevant level of analysis.
+23 (2) Work and earnings indicators, including labor force participation,
+24 employment, unemployment, the share of jobs that pay wages sufficient to
+25 meet basic household needs, and the share of jobs that provide
+26 employer-sponsored health insurance or other commonly available
+27 employment benefits, to the extent that data is available.
+28 (3) Household affordability indicators, including the share of household income
+29 spent on housing, food, child care, and health care, including premiums and
+30 other major out-of-pocket costs to the extent that data is available.
+31 (4) Cost-burden indicators, including the percentage of households that are
+32 cost-burdened with respect to housing, child care, and health care costs, to the
+33 extent that data is available.
+34 (5) Education and workforce preparation indicators, including the cost of
+35 postsecondary education relative to income and the cost of workforce training
+36 and credentialing programs relative to income, to the extent practicable.
+*DRH40658-MCa-323*
+
+General Assembly Of North Carolina Session 2025
+1 (6) Community and regional opportunity indicators, including persistent poverty
+2 counties or census tracts, concentrated poverty census tracts, and the number
+3 of people living in areas of persistent or concentrated poverty.
+4 (7) Other county-level indicators of economic opportunity, business formation, or
+5 workforce access that the Department determines are appropriate and
+6 supported by reliable public data.
+7 (e) Methodology. – Each report shall identify the data sources used, describe the
+8 methodology applied, and note any material limitations affecting interpretation of the report.
+9 (f) Submission. – The Department shall submit the report required by this section to the
+10 Joint Legislative Economic Development and Global Engagement Oversight Committee, the
+11 Fiscal Research Division, and the General Assembly no later than January 31 of each
+12 odd-numbered year. The Department shall also publish the report on its website."
+13 SECTION 2. There is appropriated from the General Fund to the Department of
+14 Commerce the sum of two hundred thousand dollars ($200,000) in recurring funds beginning in
+15 the 2026-2027 fiscal year to be used to implement this act.
+16 SECTION 3. This act becomes effective July 1, 2026.
+Page 2 DRH40658-MCa-323
+
+[DELETED:  D N ( R  A A R O E O A A F E T S a " 1  B r o e o a a f e ( R o ( P o s a c e c a i f a c ( D e p h ( R ( H a ( W a e i i l f p e m b h n a t s o j t p e h i o o c a e ( H s o ( C i i t p o h t a c e ( E a w p i i t c o p a]
+[DELETED:  S  D ( C c o ( O w a t t D d a a a s ( M – E r s i t d s u d t m ( S J F R D a t G A n l t J 3 o e o S C t S]

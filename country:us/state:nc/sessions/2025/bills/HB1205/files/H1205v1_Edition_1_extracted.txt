@@ -1,0 +1,198 @@
+Title: HOUSE BILL 1205
+Official Title: HOUSE BILL 1205
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Orthodontic Treatment In-Person Exam Req. (Public)
+Sponsors: Representative G. Pierce.
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+May 5, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE AN IN-PERSON EVALUATION FOR PATIENTS PRIOR TO
+3 ORTHODONTIC DEVICE SERVICES.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Article 2 of Chapter 90 is amended by adding a new section to read:
+6 "§ 90-29.6. Certain orthodontic device and treatment requirements.
+7 (a) Definitions. – The following definitions apply in this section:
+8 (1) Licensed dentist. – As defined in G.S. 90-30.2(a).
+9 (2) Orthodontic device. – Any Class II or Class III medical device, as defined by
+10 21 U.S.C. § 360c and 21 CFR § 860.3 that meets all of the following:
+11 a. Used in orthodontic treatment to (i) move a patient's teeth or jaw or
+12 (ii) correct a misalignment or malposition.
+13 b. Manufactured to address the specific orthodontic needs of an
+14 individual patient.
+15 (b) Limitation. – A person shall not sell an orthodontic device or provide a service related
+16 to the design or manufacture of an orthodontic device to a patient, unless the person is a licensed
+17 dentist who is in compliance with subsection (c) of this section, or receives written or electronic
+18 confirmation from a licensed dentist who has provided the services prescribed in subsection (c)
+19 of this section.
+20 (c) Criteria. – A person shall not sell an orthodontic device or provide a service related
+21 to the design or manufacture of an orthodontic device to a patient in this State who has not
+22 received all of the following:
+23 (1) An in-person intraoral dental examination and an examination of the patient's
+24 head and neck.
+25 (2) A review of recently performed x-rays, panoramic x-rays, computed
+26 tomography, bone imaging scans, or other appropriate diagnostic imaging
+27 sufficient to allow the licensed dentist to detect the patient conditions that
+28 preclude or contraindicate the provision of safe orthodontic treatment,
+29 including the following:
+30 a. Untreated caries.
+31 b. Gingivitis and periodontal disease.
+32 c. Issues with the roots of teeth in the periodontium, including short
+33 roots.
+34 d. The presence of an osseointegrated dental implant or other fixed dental
+35 appliance.
+*H1205-v-1*
+General Assembly Of North Carolina Session 2025
+1 e. Fractured, cracked, or split teeth or roots.
+2 f. Any other oral pathology or condition that precludes orthodontic
+3 treatment.
+4 (3) A prescription for an orthodontic device issued by either of the following:
+5 a. The licensed dentist who (i) provided the examination under
+6 subdivision (1) of this subsection and (ii) reviewed the appropriate
+7 diagnostic imaging under subdivision (2) of this subsection.
+8 b. The licensed dentist who (i) will conduct and monitor the patient's
+9 orthodontic treatment and (ii) has received or requested either of the
+10 following:
+11 1. A referral from the patient's licensed dentist under subdivision
+12 (1) of this subsection.
+13 2. Clearance for orthodontic treatment from the patient's licensed
+14 dentist.
+15 (4) Subject to subsection (d) of this section, advice and counsel by a licensed
+16 dentist under subdivision (3) of this subsection regarding available
+17 orthodontic treatment options and the risks associated with those treatments.
+18 (5) A review of the patient's medical and dental health histories.
+19 (d) Consent. – The required advice and counsel under subdivision (c)(4) of this section
+20 must be signed by the patient acknowledging and verifying that the patient received the advice
+21 and counsel from the licensed dentist. The licensed dentist that provides the advice and counsel
+22 shall attach and maintain the patient's written acknowledgement and verification in the patient's
+23 file.
+24 (e) Records. – A licensed dentist shall maintain all records and documents regarding a
+25 sale of an orthodontic device to a patient or provision of services related to the design or
+26 manufacture of that device for no less than seven years after the date of sale or provision of those
+27 services.
+28 (f) Condition. – A licensed dentist shall not require a patient to agree to use a particular
+29 type of orthodontic device as a condition of performing the examination or review described in
+30 this section.
+31 (g) Disclosure of Records. – Upon request of another licensed dentist, the dentist
+32 providing an orthodontic device or related services to a patient must disclose and provide any
+33 patient records collected under this section in the course of treatment."
+34 SECTION 2. The North Carolina State Board of Dental Examiners may adopt rules
+35 to implement the provisions of this act.
+36 SECTION 3. There is appropriated from the General Fund to the Department of
+37 Health and Human Services, the sum of fifty thousand dollars ($50,000) for the 2026-2027 fiscal
+38 year to educate the public of the provisions of this act. The Department shall consult with the
+39 North Carolina State Board of Dental Examiners in educating the public.
+40 SECTION 4. Section 3 of this act becomes effective July 1, 2026. Section 1 of this
+41 act becomes effective October 1, 2026. The remainder of this act is effective when it becomes
+42 law.
+Page 2 House Bill 1205-First Edition
+[DELETED:  1 O ( R A A A A T R A I E F P P T O T S " ( D ( L ( O 2 a U ( b M t a t s o n o a i ( L t d c o ( C t r ( A h ( A r o r p x p x c t b i s o a d i s p o c t p o s o t i a U b G c I w t r o t i t p i s r d T a]
+[DELETED:  S  H e F f A o o p o c t p o t ( A a T l d w ( p t e u s d b T o f 1 A ( 2 C d ( S d u s ( o t s r a o ( A ( C m a s f ( R s o a o d t a p o p o s r t t d o m s ( C t t ( D o R – U r o a l d t d p p S t S H y N S a l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1205
+Short Title: Orthodontic Treatment In-Person Exam Req. (Public)
+Sponsors: Representative G. Pierce.
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+May 5, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE AN IN-PERSON EVALUATION FOR PATIENTS PRIOR TO
+3 ORTHODONTIC DEVICE SERVICES.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Article 2 of Chapter 90 is amended by adding a new section to read:
+6 "§ 90-29.6. Certain orthodontic device and treatment requirements.
+7 (a) Definitions. – The following definitions apply in this section:
+8 (1) Licensed dentist. – As defined in G.S. 90-30.2(a).
+9 (2) Orthodontic device. – Any Class II or Class III medical device, as defined by
+10 21 U.S.C. § 360c and 21 CFR § 860.3 that meets all of the following:
+11 a. Used in orthodontic treatment to (i) move a patient's teeth or jaw or
+12 (ii) correct a misalignment or malposition.
+13 b. Manufactured to address the specific orthodontic needs of an
+14 individual patient.
+15 (b) Limitation. – A person shall not sell an orthodontic device or provide a service related
+16 to the design or manufacture of an orthodontic device to a patient, unless the person is a licensed
+17 dentist who is in compliance with subsection (c) of this section, or receives written or electronic
+18 confirmation from a licensed dentist who has provided the services prescribed in subsection (c)
+19 of this section.
+20 (c) Criteria. – A person shall not sell an orthodontic device or provide a service related
+21 to the design or manufacture of an orthodontic device to a patient in this State who has not
+22 received all of the following:
+23 (1) An in-person intraoral dental examination and an examination of the patient's
+24 head and neck.
+25 (2) A review of recently performed x-rays, panoramic x-rays, computed
+26 tomography, bone imaging scans, or other appropriate diagnostic imaging
+27 sufficient to allow the licensed dentist to detect the patient conditions that
+28 preclude or contraindicate the provision of safe orthodontic treatment,
+29 including the following:
+30 a. Untreated caries.
+31 b. Gingivitis and periodontal disease.
+32 c. Issues with the roots of teeth in the periodontium, including short
+33 roots.
+34 d. The presence of an osseointegrated dental implant or other fixed dental
+35 appliance.
+*H1205-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 e. Fractured, cracked, or split teeth or roots.
+2 f. Any other oral pathology or condition that precludes orthodontic
+3 treatment.
+4 (3) A prescription for an orthodontic device issued by either of the following:
+5 a. The licensed dentist who (i) provided the examination under
+6 subdivision (1) of this subsection and (ii) reviewed the appropriate
+7 diagnostic imaging under subdivision (2) of this subsection.
+8 b. The licensed dentist who (i) will conduct and monitor the patient's
+9 orthodontic treatment and (ii) has received or requested either of the
+10 following:
+11 1. A referral from the patient's licensed dentist under subdivision
+12 (1) of this subsection.
+13 2. Clearance for orthodontic treatment from the patient's licensed
+14 dentist.
+15 (4) Subject to subsection (d) of this section, advice and counsel by a licensed
+16 dentist under subdivision (3) of this subsection regarding available
+17 orthodontic treatment options and the risks associated with those treatments.
+18 (5) A review of the patient's medical and dental health histories.
+19 (d) Consent. – The required advice and counsel under subdivision (c)(4) of this section
+20 must be signed by the patient acknowledging and verifying that the patient received the advice
+21 and counsel from the licensed dentist. The licensed dentist that provides the advice and counsel
+22 shall attach and maintain the patient's written acknowledgement and verification in the patient's
+23 file.
+24 (e) Records. – A licensed dentist shall maintain all records and documents regarding a
+25 sale of an orthodontic device to a patient or provision of services related to the design or
+26 manufacture of that device for no less than seven years after the date of sale or provision of those
+27 services.
+28 (f) Condition. – A licensed dentist shall not require a patient to agree to use a particular
+29 type of orthodontic device as a condition of performing the examination or review described in
+30 this section.
+31 (g) Disclosure of Records. – Upon request of another licensed dentist, the dentist
+32 providing an orthodontic device or related services to a patient must disclose and provide any
+33 patient records collected under this section in the course of treatment."
+34 SECTION 2. The North Carolina State Board of Dental Examiners may adopt rules
+35 to implement the provisions of this act.
+36 SECTION 3. There is appropriated from the General Fund to the Department of
+37 Health and Human Services, the sum of fifty thousand dollars ($50,000) for the 2026-2027 fiscal
+38 year to educate the public of the provisions of this act. The Department shall consult with the
+39 North Carolina State Board of Dental Examiners in educating the public.
+40 SECTION 4. Section 3 of this act becomes effective July 1, 2026. Section 1 of this
+41 act becomes effective October 1, 2026. The remainder of this act is effective when it becomes
+42 law.
+Page 2 House Bill 1205-First Edition
+
+[DELETED:  1 O ( R A A A A T R A I E F P P T O T S " ( D ( L ( O 2 a U ( b M t a t s o n o a i ( L t d c o ( C t r ( A h ( A r o r p x p x c t b i s o a d i s p o c t p o s o t i a U b G c I w t r o t i t p i s r d T a]
+[DELETED:  S  H e F f A o o p o c t p o t ( A a T l d w ( p t e u s d b T o f 1 A ( 2 C d ( S d u s ( o t s r a o ( A ( C m a s f ( R s o a o d t a p o p o s r t t d o m s ( C t t ( D o R – U r o a l d t d p p S t S H y N S a l]

@@ -1,0 +1,152 @@
+Title: SENATE BILL 1076
+Official Title: SENATE BILL 1076
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: Rocky Mount/Limit Electric Power Revenue Uses. (Local)
+Sponsors: Senators Barnes, B. Newton, and Moffitt (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+May 6, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROHIBIT THE CITY OF ROCKY MOUNT FROM TRANSFERRING THE
+3 REVENUES OF ITS ELECTRIC SYSTEM TO OTHER MUNICIPAL FUNDS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 159B-39 reads as rewritten:
+6 "§ 159B-39. Permitted uses of revenue from electric power rates.
+7 (a) A municipality as authorized in this Chapter shall use revenue derived from rates for
+8 electric service to (i) pay the direct and indirect costs of operating the electric system and (ii)
+9 transfer to other funds of the municipality a sum that reflects a rate of return on the investment
+10 in the electric system to the extent allowed in subsection (c) of this section. system. Any
+11 remaining revenue shall be used to produce lower rates on electric service within the area served
+12 by the municipal electric system and to make additional debt service payments on bonds or other
+13 indebtedness incurred by the municipality to finance improvements to the electric system. A
+14 municipality shall not otherwise transfer revenue from an electric utility fund to any other fund
+15 of the municipality for any other purpose not explicitly authorized by law.
+16 (b) The direct and indirect costs of operating the electric system include all of the
+17 following:
+18 (1) Debt service payments on indebtedness incurred for the electric system or
+19 secured by revenues of the electric system.
+20 (2) Capital improvements or equipment for the electric system.
+21 (3) Payments for the cost of power purchased under contractual arrangements.
+22 (4) Debt service, maintenance, renewal, and replacement or other reserves
+23 required by legal documents entered into by the municipality in connection
+24 with the issuance of bonds or other indebtedness for the electric system.
+25 (5) Reserves deemed necessary by the governing body of the municipality to
+26 assure that funds are available to maintain the financial and operational
+27 integrity of the electric system.
+28 (6) Maintaining a rate stabilization fund to minimize the impact of periodic rate
+29 changes that would otherwise be required to reflect changes in costs of
+30 operations and demand for electric service.
+31 (7) Making payments in lieu of taxes to other governmental units to reflect
+32 property taxes that would have been collected by the other governmental unit
+33 if the municipality were not the owner of the electric system.
+34 (8) Making transfers to the general fund or other funds of the municipality to
+35 reimburse the general fund or other funds for costs paid from the fund that are
+36 reasonably allocable to the electric system.
+*S1076-v-1*
+General Assembly Of North Carolina Session 2025
+1 (c) The total amount transferred to other funds of the municipality authorized as a rate of
+2 return on the investment of the municipality in the electric system shall be calculated using
+3 amounts reported in the municipality's audited financial statements for the preceding fiscal year.
+4 The amount transferred may be less than the following, but in no event may the amount
+5 transferred exceed the greater of the following:
+6 (1) Three percent (3%) of the gross capital assets of the electric system at the end
+7 of the preceding fiscal year.
+8 (2) Five percent (5%) of the gross annual revenues of the electric system for the
+9 preceding fiscal year.
+10 (d) The restrictions in this section shall not apply to any action required to be taken for a
+11 municipality by the Local Government Commission in accordance with G.S. 159-181(c).
+12 (e) This section applies only to the following cities and towns that are members of the
+13 North Carolina Eastern Municipal Power Agency: Apex, Ayden, Belhaven, Benson, Clayton,
+14 Edenton, Elizabeth City, Farmville, Fremont, Greenville, Hamilton, Hertford, Hobgood,
+15 Hookerton, Kinston, LaGrange, Laurinburg, Louisburg, Lumberton, New Bern, Pikeville, Red
+16 Springs, Robersonville, Rocky Mount, Scotland Neck, Selma, Smithfield, Southport, Tarboro,
+17 Wake Forest, Washington, and Wilson."
+18 SECTION 2. This act applies only to the City of Rocky Mount.
+19 SECTION 3. This act becomes effective July 1, 2026.
+Page 2 Senate Bill 1076-First Edition
+[DELETED:  1 R ( S R A A R T S " ( A e t i t e s t t e a i s ( o t s s A r b i m o ( T d a i c o o t e s i a o t f ( D s ( C ( P ( D s m r a r o o r r w ( R g a t f a a t m t f a o i ( M c t w o b r t r c i c o o ( M p i l o t t o g u t r p i ( M r r]
+[DELETED:  S  S ( T r a T a t m b l t t f b i n e m t a t ( T o ( F p ( T m ( T N E E C F F G H H H H S W S S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 1076
+Short Title: Rocky Mount/Limit Electric Power Revenue Uses. (Local)
+Sponsors: Senators Barnes, B. Newton, and Moffitt (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+May 6, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROHIBIT THE CITY OF ROCKY MOUNT FROM TRANSFERRING THE
+3 REVENUES OF ITS ELECTRIC SYSTEM TO OTHER MUNICIPAL FUNDS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 159B-39 reads as rewritten:
+6 "§ 159B-39. Permitted uses of revenue from electric power rates.
+7 (a) A municipality as authorized in this Chapter shall use revenue derived from rates for
+8 electric service to (i) pay the direct and indirect costs of operating the electric system and (ii)
+9 transfer to other funds of the municipality a sum that reflects a rate of return on the investment
+10 in the electric system to the extent allowed in subsection (c) of this section. system. Any
+11 remaining revenue shall be used to produce lower rates on electric service within the area served
+12 by the municipal electric system and to make additional debt service payments on bonds or other
+13 indebtedness incurred by the municipality to finance improvements to the electric system. A
+14 municipality shall not otherwise transfer revenue from an electric utility fund to any other fund
+15 of the municipality for any other purpose not explicitly authorized by law.
+16 (b) The direct and indirect costs of operating the electric system include all of the
+17 following:
+18 (1) Debt service payments on indebtedness incurred for the electric system or
+19 secured by revenues of the electric system.
+20 (2) Capital improvements or equipment for the electric system.
+21 (3) Payments for the cost of power purchased under contractual arrangements.
+22 (4) Debt service, maintenance, renewal, and replacement or other reserves
+23 required by legal documents entered into by the municipality in connection
+24 with the issuance of bonds or other indebtedness for the electric system.
+25 (5) Reserves deemed necessary by the governing body of the municipality to
+26 assure that funds are available to maintain the financial and operational
+27 integrity of the electric system.
+28 (6) Maintaining a rate stabilization fund to minimize the impact of periodic rate
+29 changes that would otherwise be required to reflect changes in costs of
+30 operations and demand for electric service.
+31 (7) Making payments in lieu of taxes to other governmental units to reflect
+32 property taxes that would have been collected by the other governmental unit
+33 if the municipality were not the owner of the electric system.
+34 (8) Making transfers to the general fund or other funds of the municipality to
+35 reimburse the general fund or other funds for costs paid from the fund that are
+36 reasonably allocable to the electric system.
+*S1076-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (c) The total amount transferred to other funds of the municipality authorized as a rate of
+2 return on the investment of the municipality in the electric system shall be calculated using
+3 amounts reported in the municipality's audited financial statements for the preceding fiscal year.
+4 The amount transferred may be less than the following, but in no event may the amount
+5 transferred exceed the greater of the following:
+6 (1) Three percent (3%) of the gross capital assets of the electric system at the end
+7 of the preceding fiscal year.
+8 (2) Five percent (5%) of the gross annual revenues of the electric system for the
+9 preceding fiscal year.
+10 (d) The restrictions in this section shall not apply to any action required to be taken for a
+11 municipality by the Local Government Commission in accordance with G.S. 159-181(c).
+12 (e) This section applies only to the following cities and towns that are members of the
+13 North Carolina Eastern Municipal Power Agency: Apex, Ayden, Belhaven, Benson, Clayton,
+14 Edenton, Elizabeth City, Farmville, Fremont, Greenville, Hamilton, Hertford, Hobgood,
+15 Hookerton, Kinston, LaGrange, Laurinburg, Louisburg, Lumberton, New Bern, Pikeville, Red
+16 Springs, Robersonville, Rocky Mount, Scotland Neck, Selma, Smithfield, Southport, Tarboro,
+17 Wake Forest, Washington, and Wilson."
+18 SECTION 2. This act applies only to the City of Rocky Mount.
+19 SECTION 3. This act becomes effective July 1, 2026.
+Page 2 Senate Bill 1076-First Edition
+
+[DELETED:  1 R ( S R A A R T S " ( A e t i t e s t t e a i s ( o t s s A r b i m o ( T d a i c o o t e s i a o t f ( D s ( C ( P ( D s m r a r o o r r w ( R g a t f a a t m t f a o i ( M c t w o b r t r c i c o o ( M p i l o t t o g u t r p i ( M r r]
+[DELETED:  S  S ( T r a T a t m b l t t f b i n e m t a t ( T o ( F p ( T m ( T N E E C F F G H H H H S W S S]

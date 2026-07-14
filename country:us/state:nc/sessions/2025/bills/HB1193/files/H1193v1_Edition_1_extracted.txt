@@ -1,0 +1,166 @@
+Title: HOUSE BILL 1193
+Official Title: HOUSE BILL 1193
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Rep. Mike Clampitt Bone Marrow Donation Act. (Public)
+Sponsors: Representatives Liu, Potts, Lambeth, and Crawford (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Health, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations
+of the House
+May 5, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT DESIGNATING THE MONTH OF NOVEMBER AS MARROW DONATION
+3 AWARENESS MONTH; DIRECTING THE DEPARTMENT OF HEALTH AND HUMAN
+4 SERVICES AND THE DEPARTMENT OF MOTOR VEHICLES TO RAISE
+5 AWARENESS THROUGH PUBLIC SERVICE ANNOUNCEMENTS ABOUT BONE
+6 MARROW DONATION AND BONE MARROW DONATION REGISTRIES; AND
+7 APPROPRIATING FUNDS TO THE DEPARTMENT OF HEALTH AND HUMAN
+8 SERVICES TO CONDUCT A PUBLIC AWARENESS CAMPAIGN ON MARROW
+9 DONATION AWARENESS MONTH.
+10 Whereas, there are thousands of persons across the United States with blood cancers
+11 such as leukemia and lymphoma, as well as sickle cell disease and other diseases, who could
+12 benefit from receiving a lifesaving bone marrow or peripheral blood stem cell (PBSC) transplant;
+13 and
+14 Whereas, the National Marrow Donor Program (NMDP) operates the "Be the Match
+15 Registry," and the first step to becoming a donor is to join this registry; and
+16 Whereas, all that is required to register with the NMDP is to complete the online form,
+17 order a registration kit, follow the instructions in the kit to collect a swab of cheek cells, and
+18 return the kit to the NMDP in order to determine any potential patient matches; and
+19 Whereas, a potential donor who matches a patient is asked to make either a bone
+20 marrow or PBSC donation; and
+21 Whereas, bone marrow donation is a surgical outpatient hospital procedure in which
+22 the donor receives anesthesia and feels no pain, and the donated liquid marrow replaces itself
+23 completely within four to six weeks; and
+24 Whereas, PBSC donation is a nonsurgical procedure that takes place at a blood center
+25 or outpatient hospital unit and involves a transplant of cells from circulating blood, with the donor
+26 receiving injections of a drug called Filgrastim over a five-day period leading up to donation in
+27 order to increase the number of blood-forming cells in the bloodstream, and then having blood
+28 removed through a needle in one arm and passed through a machine that separates out the
+29 blood-forming cells, with the remaining blood returned to the donor through the other arm; and
+30 Whereas, the donor's blood-forming cells return to normal levels within four to six
+31 weeks; and
+32 Whereas, all medical costs for the donation procedure are covered by the NMDP or
+33 the donor's health insurance, as are travel expenses and other nonmedical costs, leaving only the
+34 potential cost to the donor being time taken off from work; Now, therefore,
+*H1193-v-1*
+General Assembly Of North Carolina Session 2025
+1 The General Assembly of North Carolina enacts:
+2 SECTION 1. This act shall be known and may be cited as the "Mike Clampitt
+3 Advocacy for Marrow Education and Registration Act" or "Clampitt Act."
+4 SECTION 2. Chapter 103 of the General Statutes is amended by adding a new
+5 section to read:
+6 "§ 103-12.5. Marrow Donation Awareness Month.
+7 The month of November of each year is designated as Marrow Donation Awareness Month
+8 in North Carolina."
+9 SECTION 3.(a) In order to raise public awareness about bone marrow donation and
+10 transplantation and encourage North Carolina residents to consider joining a bone marrow
+11 donation registry, the Department of Health and Human Services shall make available on its
+12 internet website a public service announcement containing medically accurate information
+13 regarding bone marrow donation and transplantation that is sufficient to allow an individual to
+14 make an informed decision about whether to participate in a local or national bone marrow
+15 donation registry.
+16 SECTION 3.(b) The Department of Health and Human Services shall provide to the
+17 Department of Motor Vehicles an internet link to the public service announcement authorized by
+18 subsection (a) of this section, which the Department of Motor Vehicles shall make available on
+19 its internet website. In addition, the Department of Motor Vehicles shall broadcast the public
+20 service announcement authorized by subsection (a) of this section on monitors at drivers license
+21 office locations across the State.
+22 SECTION 4. There is appropriated from the General Fund to the Department of
+23 Health and Human Services, Division of Public Health, the sum of one hundred thousand dollars
+24 ($100,000) in nonrecurring funds for the 2026-2027 fiscal year to conduct a public awareness
+25 campaign regarding Marrow Donation Awareness Month.
+26 SECTION 5. This act becomes effective July 1, 2026.
+Page 2 House Bill 1193-First Edition
+[DELETED:  1 R ( R H A A A D T M O N A M D A S A T D O M V T R A T P S A A B M D A B M D R A A F T T D O H A H S T C A P A C O M D W s b a W R W o r W m W t c W o r o r t a n i o a a p t a m t s o t b W w W t p]
+[DELETED:  S  H T S A S s " T i S t a e N C r t c j a b m d i w a p s a c m a i r m d S D s i s o S H ( c S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1193
+Short Title: Rep. Mike Clampitt Bone Marrow Donation Act. (Public)
+Sponsors: Representatives Liu, Potts, Lambeth, and Crawford (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Health, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations
+of the House
+May 5, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT DESIGNATING THE MONTH OF NOVEMBER AS MARROW DONATION
+3 AWARENESS MONTH; DIRECTING THE DEPARTMENT OF HEALTH AND HUMAN
+4 SERVICES AND THE DEPARTMENT OF MOTOR VEHICLES TO RAISE
+5 AWARENESS THROUGH PUBLIC SERVICE ANNOUNCEMENTS ABOUT BONE
+6 MARROW DONATION AND BONE MARROW DONATION REGISTRIES; AND
+7 APPROPRIATING FUNDS TO THE DEPARTMENT OF HEALTH AND HUMAN
+8 SERVICES TO CONDUCT A PUBLIC AWARENESS CAMPAIGN ON MARROW
+9 DONATION AWARENESS MONTH.
+10 Whereas, there are thousands of persons across the United States with blood cancers
+11 such as leukemia and lymphoma, as well as sickle cell disease and other diseases, who could
+12 benefit from receiving a lifesaving bone marrow or peripheral blood stem cell (PBSC) transplant;
+13 and
+14 Whereas, the National Marrow Donor Program (NMDP) operates the "Be the Match
+15 Registry," and the first step to becoming a donor is to join this registry; and
+16 Whereas, all that is required to register with the NMDP is to complete the online form,
+17 order a registration kit, follow the instructions in the kit to collect a swab of cheek cells, and
+18 return the kit to the NMDP in order to determine any potential patient matches; and
+19 Whereas, a potential donor who matches a patient is asked to make either a bone
+20 marrow or PBSC donation; and
+21 Whereas, bone marrow donation is a surgical outpatient hospital procedure in which
+22 the donor receives anesthesia and feels no pain, and the donated liquid marrow replaces itself
+23 completely within four to six weeks; and
+24 Whereas, PBSC donation is a nonsurgical procedure that takes place at a blood center
+25 or outpatient hospital unit and involves a transplant of cells from circulating blood, with the donor
+26 receiving injections of a drug called Filgrastim over a five-day period leading up to donation in
+27 order to increase the number of blood-forming cells in the bloodstream, and then having blood
+28 removed through a needle in one arm and passed through a machine that separates out the
+29 blood-forming cells, with the remaining blood returned to the donor through the other arm; and
+30 Whereas, the donor's blood-forming cells return to normal levels within four to six
+31 weeks; and
+32 Whereas, all medical costs for the donation procedure are covered by the NMDP or
+33 the donor's health insurance, as are travel expenses and other nonmedical costs, leaving only the
+34 potential cost to the donor being time taken off from work; Now, therefore,
+*H1193-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 The General Assembly of North Carolina enacts:
+2 SECTION 1. This act shall be known and may be cited as the "Mike Clampitt
+3 Advocacy for Marrow Education and Registration Act" or "Clampitt Act."
+4 SECTION 2. Chapter 103 of the General Statutes is amended by adding a new
+5 section to read:
+6 "§ 103-12.5. Marrow Donation Awareness Month.
+7 The month of November of each year is designated as Marrow Donation Awareness Month
+8 in North Carolina."
+9 SECTION 3.(a) In order to raise public awareness about bone marrow donation and
+10 transplantation and encourage North Carolina residents to consider joining a bone marrow
+11 donation registry, the Department of Health and Human Services shall make available on its
+12 internet website a public service announcement containing medically accurate information
+13 regarding bone marrow donation and transplantation that is sufficient to allow an individual to
+14 make an informed decision about whether to participate in a local or national bone marrow
+15 donation registry.
+16 SECTION 3.(b) The Department of Health and Human Services shall provide to the
+17 Department of Motor Vehicles an internet link to the public service announcement authorized by
+18 subsection (a) of this section, which the Department of Motor Vehicles shall make available on
+19 its internet website. In addition, the Department of Motor Vehicles shall broadcast the public
+20 service announcement authorized by subsection (a) of this section on monitors at drivers license
+21 office locations across the State.
+22 SECTION 4. There is appropriated from the General Fund to the Department of
+23 Health and Human Services, Division of Public Health, the sum of one hundred thousand dollars
+24 ($100,000) in nonrecurring funds for the 2026-2027 fiscal year to conduct a public awareness
+25 campaign regarding Marrow Donation Awareness Month.
+26 SECTION 5. This act becomes effective July 1, 2026.
+Page 2 House Bill 1193-First Edition
+
+[DELETED:  1 R ( R H A A A D T M O N A M D A S A T D O M V T R A T P S A A B M D A B M D R A A F T T D O H A H S T C A P A C O M D W s b a W R W o r W m W t c W o r o r t a n i o a a p t a m t s o t b W w W t p]
+[DELETED:  S  H T S A S s " T i S t a e N C r t c j a b m d i w a p s a c m a i r m d S D s i s o S H ( c S]

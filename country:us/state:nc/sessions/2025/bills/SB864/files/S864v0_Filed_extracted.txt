@@ -1,0 +1,430 @@
+Title: SENATE BILL DRS35386-NGa-137
+Official Title: SENATE BILL DRS35386-NGa-137
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Apr 28, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 864
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: Safe and Responsible AI in Schools Act. (Public)
+Sponsors: Senator Jones (Primary Sponsor).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE STATE BOARD OF EDUCATION TO UPDATE COMPUTER
+3 SCIENCE STANDARDS TO INCLUDE INSTRUCTION ON ARTIFICIAL
+4 INTELLIGENCE (AI), TO REQUIRE EDUCATION AGENCIES AND PUBLIC SCHOOL
+5 UNITS TO ADOPT POLICIES REGARDING THE USE OF AI, TO ESTABLISH A
+6 FRAMEWORK FOR EVALUATING AI EDUCATIONAL TOOLS FOR USE IN PUBLIC
+7 SCHOOLS, AND TO REQUIRE THE DEPARTMENT OF PUBLIC INSTRUCTION TO
+8 CONTRACT WITH THE FRIDAY INSTITUTE TO DEVELOP EDUCATOR AND
+9 ADMINISTRATOR TRAINING ON THE USE OF AI AND APPROPRIATE FUNDS FOR
+10 THAT PURPOSE.
+11 The General Assembly of North Carolina enacts:
+12
+13 PART I. MODIFY COMPUTER SCIENCE STANDARDS
+14 SECTION 1.(a) G.S. 115C-81.90 is amended by adding a new subsection to read:
+15 "(a1) Instruction on Artificial Intelligence Literacy. – The State Board shall adopt
+16 age-appropriate standards for instruction on artificial intelligence (AI) literacy for grades
+17 kindergarten through 12. All courses offered pursuant to this section shall include instruction on
+18 AI literacy aligned with the standards adopted by the State Board. Notwithstanding the regular
+19 review of content standards required by G.S. 115C-12(9c)c., the State Board shall review and
+20 update these standards every two years to keep up with advancements in AI. The standards shall
+21 include at least the following:
+22 (1) Responsible and ethical use of AI.
+23 (2) Limitations of AI tools.
+24 (3) Evaluation and verification of outputs provided by AI tools.
+25 (4) Data and privacy concerns related to AI tools.
+26 (5) Best practices and safety when interacting with AI or AI chatbots."
+27 SECTION 1.(b) Notwithstanding the regular review of content standards pursuant
+28 to G.S. 115C-12(9c)c., the State Board of Education shall revise the standard course of study for
+29 computer science for grades kindergarten through 12 to include artificial intelligence literacy in
+30 accordance with G.S. 115C-81.90(a1), as enacted by this section. The State Board shall adopt the
+31 revised standards for implementation beginning with the 2028-2029 school year.
+32 SECTION 1.(c) The State Board of Education, in consultation with the Department
+33 of Public Instruction, shall update the lists of approved courses required by G.S. 115C-81.90(b)
+34 and (c) to reflect course alignment with the revised computer science standards adopted pursuant
+35 to subsection (b) of this section. The State Board shall update the lists for use beginning with the
+36 2028-2029 school year.
+*DRS35386-NGa-137*
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.(d) The Department of Public Instruction shall report to the Joint
+2 Legislative Education Oversight Committee by December 15, 2028, on the following related to
+3 the adoption of revised computer science standards in accordance with subsection (b) of this
+4 section:
+5 (1) Adoption and implementation of the revised standards.
+6 (2) Alignment of courses on the approved courses lists as updated pursuant to
+7 subsection (c) of this section.
+8 (3) Any difficulties with the implementation of the revised standards.
+9
+10 PART II. PUBLIC SCHOOL UNIT AI POLICIES
+11 SECTION 2.(a) Part 3A of Article 8 of Chapter 115C of the General Statutes is
+12 amended by adding a new section to read:
+13 "§ 115C-102.13. Artificial intelligence policies.
+14 The Department of Public Instruction shall develop a model artificial intelligence (AI) policy
+15 to serve as guidance to public school units when developing their AI policies. At a minimum, the
+16 model policy shall include the following:
+17 (1) A definition of AI, generative AI, and AI tools.
+18 (2) Guidance on how to develop the AI literacy of students and school staff. AI
+19 literacy shall include education about nonconsensual intimate imagery.
+20 (3) Data privacy and security measures to protect students and staff, including
+21 protecting personally identifiable information, when using AI.
+22 (4) Standards of ethical and acceptable use of AI and AI chatbots in an
+23 educational setting, including standards of academic integrity when using AI."
+24 SECTION 2.(b) G.S. 115C-47 is amended by adding a new subdivision to read:
+25 "(73) To Adopt an AI Use Policy. – Local boards of education shall adopt a policy
+26 on the use of artificial intelligence by students and staff for educational
+27 purposes after review of the model policy developed by the Department of
+28 Public Instruction pursuant to G.S. 115C-102.13."
+29 SECTION 2.(c) G.S. 115C-150.12C is amended by adding a new subdivision to
+30 read:
+31 "(39) To adopt an AI use policy. – The board of trustees shall adopt a policy on the
+32 use of artificial intelligence by students and staff for educational purposes
+33 after review of the model policy developed by the Department of Public
+34 Instruction pursuant to G.S. 115C-102.13."
+35 SECTION 2.(d) G.S. 115C-218.33 is amended by adding a new subsection to read:
+36 "(c) A charter school shall adopt a policy on the use of artificial intelligence by students
+37 and staff for educational purposes after review of the model policy developed by the Department
+38 of Public Instruction pursuant to G.S. 115C-102.13."
+39 SECTION 2.(e) G.S. 115C-238.66 is amended by adding a new subdivision to read:
+40 "(18c) To adopt an AI use policy. – The board of directors shall adopt a policy on the
+41 use of artificial intelligence by students and staff for educational purposes
+42 after review of the model policy developed by the Department of Public
+43 Instruction pursuant to G.S. 115C-102.13."
+44 SECTION 2.(f) G.S. 116-239.8 is amended by adding a new subdivision to read:
+45 "(21c) To adopt an AI use policy. – The chancellor shall adopt a policy regarding the
+46 use of artificial intelligence by students and staff for educational purposes
+47 after review of the model policy developed by the Department of Public
+48 Instruction pursuant to G.S. 115C-102.13."
+49 SECTION 2.(g) This section is effective when it becomes law. The Department of
+50 Public Instruction shall develop the model policy required by G.S. 115C-102.13, as enacted by
+51 this section, no later than December 31, 2026. The Superintendent shall ensure that all public
+Page 2 DRS35386-NGa-137
+General Assembly Of North Carolina Session 2025
+1 school units have access to the model policy developed by the Department by no later than
+2 January 15, 2027. Governing bodies of public school units shall adopt the policies required by
+3 subsections (b) through (f) of this section by no later than June 30, 2027.
+4
+5 PART III. AI TOOL EVALUATION FRAMEWORK
+6 SECTION 3.(a) Part 3A of Article 8 of Chapter 115C of the General Statutes is
+7 amended by adding a new section to read:
+8 "§ 115C-102.14. Department responsibilities regarding artificial intelligence tools.
+9 (a) The Department of Public Instruction shall establish and maintain an evaluation
+10 framework that provides criteria and guiding considerations for evaluating generative artificial
+11 intelligence-powered educational tools (AI tools). The Department shall review and update the
+12 framework at least every two years and update the criteria to reflect changes in technology,
+13 evidence, or educational practice. The framework shall address at least the following:
+14 (1) Student data privacy, security, and transparency.
+15 (2) Alignment with the standard course of study.
+16 (3) Accessibility for all students.
+17 (b) The Department shall maintain a publicly available list of AI tools that have been
+18 reviewed under the framework established in accordance with subsection (a) of this section.
+19 (c) The Department shall establish procurement guidance, qualified vendor lists, and
+20 other mechanisms to support and incentivize the adoption of AI tools that have been reviewed
+21 under the framework established in accordance with subsection (a) of this section.
+22 (d) The Department shall maintain a publicly available list of all AI tools being used in
+23 public school units."
+24 SECTION 3.(b) This section is effective when it becomes law.
+25
+26 PART IV. EDUCATOR AND ADMINISTRATOR TRAINING ON THE USE OF AI
+27 SECTION 4.(a) The Department of Public Instruction shall partner with the Friday
+28 Institute for Educational Innovation at North Carolina State University (Friday Institute) to
+29 design, produce, and support implementation of a suite of tool-agnostic online training modules
+30 and related training resources. Modules and resources shall address at least the following:
+31 (1) AI fundamentals for educators, including the following:
+32 a. What AI is and is not.
+33 b. The basics of generative AI.
+34 c. Strengths and limitations of AI as a learning tool.
+35 d. AI "hallucinations," or when AI tools reference information that is
+36 inaccurate or nonexistent.
+37 (2) Responsible instructional use of AI, such as the following:
+38 a. Lesson planning.
+39 b. Differentiated instruction.
+40 c. Student feedback.
+41 d. Productivity workflows and how AI can improve productivity.
+42 e. Appropriate boundaries for AI usage.
+43 (3) Verification and quality control, including the following:
+44 a. Fact-checking information provided by an AI program.
+45 b. Evaluation of sources provided by an AI program.
+46 c. Documenting prompts and outputs from AI programs.
+47 d. Educator accountability for decisions based on input from an AI
+48 program.
+49 (4) Academic integrity and assessment redesign to account for greater student
+50 access to AI tools.
+51 (5) Data privacy and security regarding AI tools.
+DRS35386-NGa-137 Page 3
+General Assembly Of North Carolina Session 2025
+1 (6) Bias in AI systems, including the following:
+2 a. How bias enters into AI systems.
+3 b. The effect of those biases on disparately impacted communities.
+4 c. How to mitigate the effects of bias when using AI tools.
+5 d. Inclusive classroom use.
+6 (7) Accessible usage with special populations, including supports and
+7 differentiation for the following populations:
+8 a. Students with disabilities.
+9 b. Limited English proficient students.
+10 (8) Ethical use and professional responsibility for educators, including the
+11 following:
+12 a. Transparency with students and families about the use of AI tools.
+13 b. Appropriate decision making in the classroom regarding the use of AI
+14 tools.
+15 c. Avoiding overreliance on AI tools.
+16 SECTION 4.(b) The Friday Institute shall produce at least the following:
+17 (1) A suite of self-paced modules that require a minimum of 10 hours of seat time
+18 to complete.
+19 (2) A facilitator guide to be provided to administrators in each public school unit
+20 to help facilitate the professional learning developed pursuant to subsection
+21 (a) of this section.
+22 (3) Model classroom resources to be provided to teachers.
+23 (4) A package to be provided to public school unit professional learning staff to
+24 develop a "train-the-trainer" model within public school units.
+25 SECTION 4.(c) All resources developed pursuant to subsection (b) of this section
+26 shall be made available to public school units by June 30, 2027, using professional development
+27 platforms and structures currently in use by the Department of Public Instruction.
+28 SECTION 4.(d) All teachers employed by local school administrative units, charter
+29 schools, or laboratory schools shall complete the professional development provided pursuant to
+30 this section by June 30, 2028.
+31 SECTION 4.(e) The Department of Public Instruction shall report to the Joint
+32 Legislative Education Oversight Committee by December 15, 2028, on the following:
+33 (1) The number of modules delivered by the Friday Institute and implemented in
+34 public school units.
+35 (2) Educator participation in modules, based on metrics available to the
+36 Department.
+37 (3) Any recommended updates to the professional learning provided pursuant to
+38 this section.
+39 (4) Any additional supports needed for continuing implementation.
+40 SECTION 4.(f) There is appropriated from the General Fund to the Department of
+41 Public Instruction the sum of five hundred thousand dollars ($500,000) in nonrecurring funds for
+42 the 2026-2027 fiscal year to implement the provisions of this section. Funds appropriated in this
+43 act shall not revert but shall remain available until the end of the 2027-2028 fiscal year.
+44
+45 PART V. EFFECTIVE DATE
+46 SECTION 5. Except as otherwise provided, this act becomes effective July 1, 2026.
+Page 4 DRS35386-NGa-137
+[DELETED:  D S ( S  A A S S T I I O A I U T A P R T U O A T E A F S C W T F I T D E A A T T  P S " I o A I L – T S B s a a s f i o a i ( l f g k A r u i ( R ( L ( E ( D ( B S t c a r S o a t 2]
+[DELETED:  S  D S 1  T D o P I s r t t J L t s ( A ( A s ( A  P S a " T t m ( A ( G l ( D p ( S o e a a u o A a A c i a e S " T o t u o a i b s a s f e p P S r " T u a r o t m p d b t D o P I S " A a o S " T u a r o t m p d b t D o P I S " T u a r o t m p d b t D o P I S P t]
+[DELETED:  S  P s J s  P S a " ( T D o P I s e a m a e f i f e ( S ( A ( A ( T r ( T o u ( T p S  P S I f E I a N C S U ( I t d a ( A a W b T c S d A i ( R a L b D c S d P e A ( V a F b E c D d E a f d b o i f a A p ( A a ( D]
+[DELETED:  S  D ( B a H b T c H d I ( A u w s p i s a d a S b L ( E u a p r f e i t f a T b A t c A S ( A t ( A t ( ( M ( A d S s p S s t S 4  T D o P I s r t t J L ( T p ( E p i m b o m a t t D ( A t ( A S P t a  P S]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Apr 28, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 864
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS35386-NGa-137
+Short Title: Safe and Responsible AI in Schools Act. (Public)
+Sponsors: Senator Jones (Primary Sponsor).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE STATE BOARD OF EDUCATION TO UPDATE COMPUTER
+3 SCIENCE STANDARDS TO INCLUDE INSTRUCTION ON ARTIFICIAL
+4 INTELLIGENCE (AI), TO REQUIRE EDUCATION AGENCIES AND PUBLIC SCHOOL
+5 UNITS TO ADOPT POLICIES REGARDING THE USE OF AI, TO ESTABLISH A
+6 FRAMEWORK FOR EVALUATING AI EDUCATIONAL TOOLS FOR USE IN PUBLIC
+7 SCHOOLS, AND TO REQUIRE THE DEPARTMENT OF PUBLIC INSTRUCTION TO
+8 CONTRACT WITH THE FRIDAY INSTITUTE TO DEVELOP EDUCATOR AND
+9 ADMINISTRATOR TRAINING ON THE USE OF AI AND APPROPRIATE FUNDS FOR
+10 THAT PURPOSE.
+11 The General Assembly of North Carolina enacts:
+12
+13 PART I. MODIFY COMPUTER SCIENCE STANDARDS
+14 SECTION 1.(a) G.S. 115C-81.90 is amended by adding a new subsection to read:
+15 "(a1) Instruction on Artificial Intelligence Literacy. – The State Board shall adopt
+16 age-appropriate standards for instruction on artificial intelligence (AI) literacy for grades
+17 kindergarten through 12. All courses offered pursuant to this section shall include instruction on
+18 AI literacy aligned with the standards adopted by the State Board. Notwithstanding the regular
+19 review of content standards required by G.S. 115C-12(9c)c., the State Board shall review and
+20 update these standards every two years to keep up with advancements in AI. The standards shall
+21 include at least the following:
+22 (1) Responsible and ethical use of AI.
+23 (2) Limitations of AI tools.
+24 (3) Evaluation and verification of outputs provided by AI tools.
+25 (4) Data and privacy concerns related to AI tools.
+26 (5) Best practices and safety when interacting with AI or AI chatbots."
+27 SECTION 1.(b) Notwithstanding the regular review of content standards pursuant
+28 to G.S. 115C-12(9c)c., the State Board of Education shall revise the standard course of study for
+29 computer science for grades kindergarten through 12 to include artificial intelligence literacy in
+30 accordance with G.S. 115C-81.90(a1), as enacted by this section. The State Board shall adopt the
+31 revised standards for implementation beginning with the 2028-2029 school year.
+32 SECTION 1.(c) The State Board of Education, in consultation with the Department
+33 of Public Instruction, shall update the lists of approved courses required by G.S. 115C-81.90(b)
+34 and (c) to reflect course alignment with the revised computer science standards adopted pursuant
+35 to subsection (b) of this section. The State Board shall update the lists for use beginning with the
+36 2028-2029 school year.
+*DRS35386-NGa-137*
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.(d) The Department of Public Instruction shall report to the Joint
+2 Legislative Education Oversight Committee by December 15, 2028, on the following related to
+3 the adoption of revised computer science standards in accordance with subsection (b) of this
+4 section:
+5 (1) Adoption and implementation of the revised standards.
+6 (2) Alignment of courses on the approved courses lists as updated pursuant to
+7 subsection (c) of this section.
+8 (3) Any difficulties with the implementation of the revised standards.
+9
+10 PART II. PUBLIC SCHOOL UNIT AI POLICIES
+11 SECTION 2.(a) Part 3A of Article 8 of Chapter 115C of the General Statutes is
+12 amended by adding a new section to read:
+13 "§ 115C-102.13. Artificial intelligence policies.
+14 The Department of Public Instruction shall develop a model artificial intelligence (AI) policy
+15 to serve as guidance to public school units when developing their AI policies. At a minimum, the
+16 model policy shall include the following:
+17 (1) A definition of AI, generative AI, and AI tools.
+18 (2) Guidance on how to develop the AI literacy of students and school staff. AI
+19 literacy shall include education about nonconsensual intimate imagery.
+20 (3) Data privacy and security measures to protect students and staff, including
+21 protecting personally identifiable information, when using AI.
+22 (4) Standards of ethical and acceptable use of AI and AI chatbots in an
+23 educational setting, including standards of academic integrity when using AI."
+24 SECTION 2.(b) G.S. 115C-47 is amended by adding a new subdivision to read:
+25 "(73) To Adopt an AI Use Policy. – Local boards of education shall adopt a policy
+26 on the use of artificial intelligence by students and staff for educational
+27 purposes after review of the model policy developed by the Department of
+28 Public Instruction pursuant to G.S. 115C-102.13."
+29 SECTION 2.(c) G.S. 115C-150.12C is amended by adding a new subdivision to
+30 read:
+31 "(39) To adopt an AI use policy. – The board of trustees shall adopt a policy on the
+32 use of artificial intelligence by students and staff for educational purposes
+33 after review of the model policy developed by the Department of Public
+34 Instruction pursuant to G.S. 115C-102.13."
+35 SECTION 2.(d) G.S. 115C-218.33 is amended by adding a new subsection to read:
+36 "(c) A charter school shall adopt a policy on the use of artificial intelligence by students
+37 and staff for educational purposes after review of the model policy developed by the Department
+38 of Public Instruction pursuant to G.S. 115C-102.13."
+39 SECTION 2.(e) G.S. 115C-238.66 is amended by adding a new subdivision to read:
+40 "(18c) To adopt an AI use policy. – The board of directors shall adopt a policy on the
+41 use of artificial intelligence by students and staff for educational purposes
+42 after review of the model policy developed by the Department of Public
+43 Instruction pursuant to G.S. 115C-102.13."
+44 SECTION 2.(f) G.S. 116-239.8 is amended by adding a new subdivision to read:
+45 "(21c) To adopt an AI use policy. – The chancellor shall adopt a policy regarding the
+46 use of artificial intelligence by students and staff for educational purposes
+47 after review of the model policy developed by the Department of Public
+48 Instruction pursuant to G.S. 115C-102.13."
+49 SECTION 2.(g) This section is effective when it becomes law. The Department of
+50 Public Instruction shall develop the model policy required by G.S. 115C-102.13, as enacted by
+51 this section, no later than December 31, 2026. The Superintendent shall ensure that all public
+Page 2 DRS35386-NGa-137
+
+General Assembly Of North Carolina Session 2025
+1 school units have access to the model policy developed by the Department by no later than
+2 January 15, 2027. Governing bodies of public school units shall adopt the policies required by
+3 subsections (b) through (f) of this section by no later than June 30, 2027.
+4
+5 PART III. AI TOOL EVALUATION FRAMEWORK
+6 SECTION 3.(a) Part 3A of Article 8 of Chapter 115C of the General Statutes is
+7 amended by adding a new section to read:
+8 "§ 115C-102.14. Department responsibilities regarding artificial intelligence tools.
+9 (a) The Department of Public Instruction shall establish and maintain an evaluation
+10 framework that provides criteria and guiding considerations for evaluating generative artificial
+11 intelligence-powered educational tools (AI tools). The Department shall review and update the
+12 framework at least every two years and update the criteria to reflect changes in technology,
+13 evidence, or educational practice. The framework shall address at least the following:
+14 (1) Student data privacy, security, and transparency.
+15 (2) Alignment with the standard course of study.
+16 (3) Accessibility for all students.
+17 (b) The Department shall maintain a publicly available list of AI tools that have been
+18 reviewed under the framework established in accordance with subsection (a) of this section.
+19 (c) The Department shall establish procurement guidance, qualified vendor lists, and
+20 other mechanisms to support and incentivize the adoption of AI tools that have been reviewed
+21 under the framework established in accordance with subsection (a) of this section.
+22 (d) The Department shall maintain a publicly available list of all AI tools being used in
+23 public school units."
+24 SECTION 3.(b) This section is effective when it becomes law.
+25
+26 PART IV. EDUCATOR AND ADMINISTRATOR TRAINING ON THE USE OF AI
+27 SECTION 4.(a) The Department of Public Instruction shall partner with the Friday
+28 Institute for Educational Innovation at North Carolina State University (Friday Institute) to
+29 design, produce, and support implementation of a suite of tool-agnostic online training modules
+30 and related training resources. Modules and resources shall address at least the following:
+31 (1) AI fundamentals for educators, including the following:
+32 a. What AI is and is not.
+33 b. The basics of generative AI.
+34 c. Strengths and limitations of AI as a learning tool.
+35 d. AI "hallucinations," or when AI tools reference information that is
+36 inaccurate or nonexistent.
+37 (2) Responsible instructional use of AI, such as the following:
+38 a. Lesson planning.
+39 b. Differentiated instruction.
+40 c. Student feedback.
+41 d. Productivity workflows and how AI can improve productivity.
+42 e. Appropriate boundaries for AI usage.
+43 (3) Verification and quality control, including the following:
+44 a. Fact-checking information provided by an AI program.
+45 b. Evaluation of sources provided by an AI program.
+46 c. Documenting prompts and outputs from AI programs.
+47 d. Educator accountability for decisions based on input from an AI
+48 program.
+49 (4) Academic integrity and assessment redesign to account for greater student
+50 access to AI tools.
+51 (5) Data privacy and security regarding AI tools.
+DRS35386-NGa-137 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (6) Bias in AI systems, including the following:
+2 a. How bias enters into AI systems.
+3 b. The effect of those biases on disparately impacted communities.
+4 c. How to mitigate the effects of bias when using AI tools.
+5 d. Inclusive classroom use.
+6 (7) Accessible usage with special populations, including supports and
+7 differentiation for the following populations:
+8 a. Students with disabilities.
+9 b. Limited English proficient students.
+10 (8) Ethical use and professional responsibility for educators, including the
+11 following:
+12 a. Transparency with students and families about the use of AI tools.
+13 b. Appropriate decision making in the classroom regarding the use of AI
+14 tools.
+15 c. Avoiding overreliance on AI tools.
+16 SECTION 4.(b) The Friday Institute shall produce at least the following:
+17 (1) A suite of self-paced modules that require a minimum of 10 hours of seat time
+18 to complete.
+19 (2) A facilitator guide to be provided to administrators in each public school unit
+20 to help facilitate the professional learning developed pursuant to subsection
+21 (a) of this section.
+22 (3) Model classroom resources to be provided to teachers.
+23 (4) A package to be provided to public school unit professional learning staff to
+24 develop a "train-the-trainer" model within public school units.
+25 SECTION 4.(c) All resources developed pursuant to subsection (b) of this section
+26 shall be made available to public school units by June 30, 2027, using professional development
+27 platforms and structures currently in use by the Department of Public Instruction.
+28 SECTION 4.(d) All teachers employed by local school administrative units, charter
+29 schools, or laboratory schools shall complete the professional development provided pursuant to
+30 this section by June 30, 2028.
+31 SECTION 4.(e) The Department of Public Instruction shall report to the Joint
+32 Legislative Education Oversight Committee by December 15, 2028, on the following:
+33 (1) The number of modules delivered by the Friday Institute and implemented in
+34 public school units.
+35 (2) Educator participation in modules, based on metrics available to the
+36 Department.
+37 (3) Any recommended updates to the professional learning provided pursuant to
+38 this section.
+39 (4) Any additional supports needed for continuing implementation.
+40 SECTION 4.(f) There is appropriated from the General Fund to the Department of
+41 Public Instruction the sum of five hundred thousand dollars ($500,000) in nonrecurring funds for
+42 the 2026-2027 fiscal year to implement the provisions of this section. Funds appropriated in this
+43 act shall not revert but shall remain available until the end of the 2027-2028 fiscal year.
+44
+45 PART V. EFFECTIVE DATE
+46 SECTION 5. Except as otherwise provided, this act becomes effective July 1, 2026.
+Page 4 DRS35386-NGa-137
+
+[DELETED:  D S ( S  A A S S T I I O A I U T A P R T U O A T E A F S C W T F I T D E A A T T  P S " I o A I L – T S B s a a s f i o a i ( l f g k A r u i ( R ( L ( E ( D ( B S t c a r S o a t 2]
+[DELETED:  S  D S 1  T D o P I s r t t J L t s ( A ( A s ( A  P S a " T t m ( A ( G l ( D p ( S o e a a u o A a A c i a e S " T o t u o a i b s a s f e p P S r " T u a r o t m p d b t D o P I S " A a o S " T u a r o t m p d b t D o P I S " T u a r o t m p d b t D o P I S P t]
+[DELETED:  S  P s J s  P S a " ( T D o P I s e a m a e f i f e ( S ( A ( A ( T r ( T o u ( T p S  P S I f E I a N C S U ( I t d a ( A a W b T c S d A i ( R a L b D c S d P e A ( V a F b E c D d E a f d b o i f a A p ( A a ( D]
+[DELETED:  S  D ( B a H b T c H d I ( A u w s p i s a d a S b L ( E u a p r f e i t f a T b A t c A S ( A t ( A t ( ( M ( A d S s p S s t S 4  T D o P I s r t t J L ( T p ( E p i m b o m a t t D ( A t ( A S P t a  P S]
