@@ -1,0 +1,279 @@
+Title: SENATE BILL DRS15456-NPa-39
+Official Title: SENATE BILL DRS15456-NPa-39
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Apr 30, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 1045
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: Utility Profit Oversight Act. (Public)
+Sponsors: Senators Salvador, Garrett, and Grafstein (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE RATIFICATION BY THE GENERAL ASSEMBLY OF ANY RATES
+3 PROPOSED BY AN ELECTRIC PUBLIC UTILITY THAT INCREASES THE UTILITY'S
+4 AUTHORIZED RATE OF RETURN ON EQUITY.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Article 7 of Chapter 62 of the General Statutes is amended by adding
+7 a new section to read:
+8 "§ 62-130.1. General Assembly ratification of rates that increase an electric public utility's
+9 authorized rate of return on equity.
+10 (a) Ratification Requirement. – Notwithstanding any other provisions of this Chapter, the
+11 Commission shall not establish or allow to become effective any retail electric rates that increase,
+12 or have the effect of increasing, an electric public utility's authorized rate of return on equity,
+13 unless ratified by an act of the General Assembly that specifically approves such retail electric
+14 rates.
+15 (b) Suspension Order. – If an electric public utility files with the Commission retail
+16 electric rates set at an amount that would have the effect of increasing the utility's authorized rate
+17 of return on equity, the Commission shall issue an order to suspend the operation of such retail
+18 electric rates to the extent that it would allow revenue recovery in excess of the utility's current
+19 rate of return on equity authorized by the Commission. Notwithstanding the provisions of
+20 G.S. 62-133.16(d), 62-134(b), and 62-135, the suspension order shall remain in effect until the
+21 proposed rates are ratified by an act of the General Assembly.
+22 (c) Commission Authority Preserved. – Nothing in this section shall be construed to limit
+23 or abrogate the Commission's general authority to supervise and control electric public utilities
+24 or relieve the Commission of its duty to prevent electric public utilities from charging unjust and
+25 unreasonable rates. In respect to retail electric rates ratified by the General Assembly, the
+26 Commission shall have the authority: (i) to disallow the recovery of rates found to be unjust,
+27 unreasonable, discriminatory, or in violation of any other applicable provision of law; (ii) to
+28 impose conditions on the approval of rates; (iii) to rescind, alter, or amend an order approving
+29 the rates; or (iv) to revise or change the rates in a subsequent rate proceeding."
+30 SECTION 2.(a) G.S. 62-133.16(d)(3) reads as rewritten:
+31 "(3) When an electric public utility files with the Commission an application for a
+32 general rate case pursuant to G.S. 62-133 and that application includes a PBR
+33 application, the Commission shall institute proceedings on the application as
+34 provided in this subdivision. The electric public utility shall not make any
+35 changes in any rate or implement a PBR except upon 30 days' notice to the
+36 Commission, and the Commission may require the electric public utility to
+*DRS15456-NPa-39*
+General Assembly Of North Carolina Session 2025
+1 provide notice of the pending PBR application to the same extent as provided
+2 in G.S. 62-134(a) and G.S. 62-134(a). The Commission may suspend the
+3 effect of the proposed base rates and PBR implementation pending
+4 investigation in the same manner as provided in G.S. 62-134(b), provided that,
+5 unless the rates are subject to ratification by the General Assembly under
+6 G.S. 62-130.1, the Commission may suspend the implementation of the
+7 proposed base rates for no longer than 330 days. The electric public utility's
+8 application shall plainly state the changes in base rates and the time when the
+9 change in rates will go into effect and shall include schedules in the same
+10 manner required pursuant to G.S. 62-134(a). The Commission shall, upon
+11 reasonable notice, conduct a hearing concerning the lawfulness of the
+12 proposed base rates and the PBR application. After hearing, the Commission
+13 shall issue an order approving, modifying, or rejecting the electric public
+14 utility's PBR application. In the event that the Commission rejects a PBR
+15 application, the Commission shall nevertheless establish the electric public
+16 utility's base rates in accordance with G.S. 62-133 based on the PBR
+17 application. If the Commission rejects the PBR application, it shall provide an
+18 explanation of the deficiency and an opportunity for the electric public utility
+19 to refile, or for the electric public utility and the stakeholders to collaborate to
+20 cure the identified deficiency and refile."
+21 SECTION 2.(b) G.S. 62-134(b) reads as rewritten:
+22 "(b) Whenever there is filed with the Commission by any public utility any schedule
+23 stating a new or revised rate or rates, the Commission may, either upon complaint or upon its
+24 own initiative, upon reasonable notice, enter upon a hearing concerning the lawfulness of such
+25 rate or rates. Pending such hearing and the decision thereon, the Commission, upon filing with
+26 such schedule and delivering to the public utility affected thereby a statement in writing of its
+27 reasons therefor, may, at any time before they become effective, suspend the operation of such
+28 rate or rates, but not for a longer period than 270 days beyond the time when such rate or rates
+29 would otherwise go into effect. If the proceeding has not been concluded and an order made
+30 within the period of suspension, the proposed change of rate shall go into effect at the end of
+31 such period. After hearing, whether completed before or after the rate goes into effect, the
+32 Commission may make such order with respect thereto as would be proper in a proceeding
+33 instituted after it had become effective. This subsection does not apply to suspension orders
+34 issued by the Commission for rates subject to ratification by the General Assembly under
+35 G.S. 62-130.1."
+36 SECTION 2.(c) G.S. 62-135 reads as rewritten:
+37 "§ 62-135. Temporary rates under bond.
+38 (a) Notwithstanding an order of suspension of an increase in rates, any public utility
+39 except a common carrier may, subject to the provisions of subsections (b), (c) and (d) hereof, and
+40 an electric public utility subject to G.S. 62-130.1 may put such suspended rate or rates into effect
+41 upon the expiration of six months after the date when such rate or rates would have become
+42 effective, if not so suspended, by notifying the Commission and its consumers of its action in
+43 making such increase not less than 10 days prior to the day when it shall be placed in effect;
+44 provided, however, that utilities engaged in the distribution of utility commodities bought at
+45 wholesale by the utility for distribution to consumers may put such suspended rate or rates, to the
+46 extent occasioned by changes in the wholesale rate of such utility commodity, into effect at the
+47 expiration of 30 days after the date when such rate or rates would become effective if not so
+48 suspended; provided that no rate or rates shall be left in effect longer than one year unless the
+49 Commission shall have rendered its decision upon the reasonableness thereof within such period.
+50 This section to become effective July 1, 1963.
+51 …."
+Page 2 DRS15456-NPa-39
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.(a) The Utilities Commission (Commission) shall conduct a study
+2 evaluating the cost of equity capital for electric public utilities doing business in North Carolina.
+3 In conducting this study, the Commission shall consider each of the following:
+4 (1) The spread between the average monthly yields of 30-year U.S. Treasury
+5 Bonds compared to electric public utilities' rate of return on equity authorized
+6 by the Commission.
+7 (2) The spread between investor returns on broad based stock market indices,
+8 such as the Standard and Poor 500 Index, compared to electric public utilities'
+9 rate of return on equity authorized by the Commission.
+10 (3) An estimate of any net savings or costs ratepayers might experience from a
+11 reduction to an electric public utility's authorized rate of return on equity, in
+12 consideration of any potential increase in the utility's borrowing costs as a
+13 result of the reduction to its authorized rate of return on equity.
+14 (4) The market to book ratio for the parent holding company of an electric public
+15 utility doing business in North Carolina, which is the ratio of the company's
+16 value based on its market capitalization compared to the amount of
+17 shareholder equity stated on the company's balance sheet.
+18 SECTION 3.(b) No later than January 1, 2027, the Commission shall submit the
+19 study required under subsection (a) of this section to the Joint Legislative Commission on Energy
+20 Policy, the House Committee on Energy and Public Utilities, and the Senate Committee on
+21 Agriculture, Energy, and the Environment.
+22 SECTION 4. There is appropriated from the General Fund to the Utilities
+23 Commission the sum of ten thousand dollars ($10,000) in nonrecurring funds for the 2026-2027
+24 fiscal year to be used to implement this act.
+25 SECTION 5. This act becomes effective July 1, 2026.
+DRS15456-NPa-39 Page 3
+[DELETED:  D U ( S  R S O – I a e p u f w t C r o r o e a b t C N t p o C r I r t r e r r b t G A t W]
+[DELETED:  S  D G a G T C m s t o t p b r a P i p t C m s t i o t p t G C s u n c a h c t l o t i a o m o r t e p b r i a w G b o t P W p A w b o a r g i e t b t C f r s t r b t G A u N]
+[DELETED:  S  P 3  T U C ( s c a s T T A T b o i m c c t t a o 4  T i a f t G F t t U]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Apr 30, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 1045
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS15456-NPa-39
+Short Title: Utility Profit Oversight Act. (Public)
+Sponsors: Senators Salvador, Garrett, and Grafstein (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE RATIFICATION BY THE GENERAL ASSEMBLY OF ANY RATES
+3 PROPOSED BY AN ELECTRIC PUBLIC UTILITY THAT INCREASES THE UTILITY'S
+4 AUTHORIZED RATE OF RETURN ON EQUITY.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Article 7 of Chapter 62 of the General Statutes is amended by adding
+7 a new section to read:
+8 "§ 62-130.1. General Assembly ratification of rates that increase an electric public utility's
+9 authorized rate of return on equity.
+10 (a) Ratification Requirement. – Notwithstanding any other provisions of this Chapter, the
+11 Commission shall not establish or allow to become effective any retail electric rates that increase,
+12 or have the effect of increasing, an electric public utility's authorized rate of return on equity,
+13 unless ratified by an act of the General Assembly that specifically approves such retail electric
+14 rates.
+15 (b) Suspension Order. – If an electric public utility files with the Commission retail
+16 electric rates set at an amount that would have the effect of increasing the utility's authorized rate
+17 of return on equity, the Commission shall issue an order to suspend the operation of such retail
+18 electric rates to the extent that it would allow revenue recovery in excess of the utility's current
+19 rate of return on equity authorized by the Commission. Notwithstanding the provisions of
+20 G.S. 62-133.16(d), 62-134(b), and 62-135, the suspension order shall remain in effect until the
+21 proposed rates are ratified by an act of the General Assembly.
+22 (c) Commission Authority Preserved. – Nothing in this section shall be construed to limit
+23 or abrogate the Commission's general authority to supervise and control electric public utilities
+24 or relieve the Commission of its duty to prevent electric public utilities from charging unjust and
+25 unreasonable rates. In respect to retail electric rates ratified by the General Assembly, the
+26 Commission shall have the authority: (i) to disallow the recovery of rates found to be unjust,
+27 unreasonable, discriminatory, or in violation of any other applicable provision of law; (ii) to
+28 impose conditions on the approval of rates; (iii) to rescind, alter, or amend an order approving
+29 the rates; or (iv) to revise or change the rates in a subsequent rate proceeding."
+30 SECTION 2.(a) G.S. 62-133.16(d)(3) reads as rewritten:
+31 "(3) When an electric public utility files with the Commission an application for a
+32 general rate case pursuant to G.S. 62-133 and that application includes a PBR
+33 application, the Commission shall institute proceedings on the application as
+34 provided in this subdivision. The electric public utility shall not make any
+35 changes in any rate or implement a PBR except upon 30 days' notice to the
+36 Commission, and the Commission may require the electric public utility to
+*DRS15456-NPa-39*
+
+General Assembly Of North Carolina Session 2025
+1 provide notice of the pending PBR application to the same extent as provided
+2 in G.S. 62-134(a) and G.S. 62-134(a). The Commission may suspend the
+3 effect of the proposed base rates and PBR implementation pending
+4 investigation in the same manner as provided in G.S. 62-134(b), provided that,
+5 unless the rates are subject to ratification by the General Assembly under
+6 G.S. 62-130.1, the Commission may suspend the implementation of the
+7 proposed base rates for no longer than 330 days. The electric public utility's
+8 application shall plainly state the changes in base rates and the time when the
+9 change in rates will go into effect and shall include schedules in the same
+10 manner required pursuant to G.S. 62-134(a). The Commission shall, upon
+11 reasonable notice, conduct a hearing concerning the lawfulness of the
+12 proposed base rates and the PBR application. After hearing, the Commission
+13 shall issue an order approving, modifying, or rejecting the electric public
+14 utility's PBR application. In the event that the Commission rejects a PBR
+15 application, the Commission shall nevertheless establish the electric public
+16 utility's base rates in accordance with G.S. 62-133 based on the PBR
+17 application. If the Commission rejects the PBR application, it shall provide an
+18 explanation of the deficiency and an opportunity for the electric public utility
+19 to refile, or for the electric public utility and the stakeholders to collaborate to
+20 cure the identified deficiency and refile."
+21 SECTION 2.(b) G.S. 62-134(b) reads as rewritten:
+22 "(b) Whenever there is filed with the Commission by any public utility any schedule
+23 stating a new or revised rate or rates, the Commission may, either upon complaint or upon its
+24 own initiative, upon reasonable notice, enter upon a hearing concerning the lawfulness of such
+25 rate or rates. Pending such hearing and the decision thereon, the Commission, upon filing with
+26 such schedule and delivering to the public utility affected thereby a statement in writing of its
+27 reasons therefor, may, at any time before they become effective, suspend the operation of such
+28 rate or rates, but not for a longer period than 270 days beyond the time when such rate or rates
+29 would otherwise go into effect. If the proceeding has not been concluded and an order made
+30 within the period of suspension, the proposed change of rate shall go into effect at the end of
+31 such period. After hearing, whether completed before or after the rate goes into effect, the
+32 Commission may make such order with respect thereto as would be proper in a proceeding
+33 instituted after it had become effective. This subsection does not apply to suspension orders
+34 issued by the Commission for rates subject to ratification by the General Assembly under
+35 G.S. 62-130.1."
+36 SECTION 2.(c) G.S. 62-135 reads as rewritten:
+37 "§ 62-135. Temporary rates under bond.
+38 (a) Notwithstanding an order of suspension of an increase in rates, any public utility
+39 except a common carrier may, subject to the provisions of subsections (b), (c) and (d) hereof, and
+40 an electric public utility subject to G.S. 62-130.1 may put such suspended rate or rates into effect
+41 upon the expiration of six months after the date when such rate or rates would have become
+42 effective, if not so suspended, by notifying the Commission and its consumers of its action in
+43 making such increase not less than 10 days prior to the day when it shall be placed in effect;
+44 provided, however, that utilities engaged in the distribution of utility commodities bought at
+45 wholesale by the utility for distribution to consumers may put such suspended rate or rates, to the
+46 extent occasioned by changes in the wholesale rate of such utility commodity, into effect at the
+47 expiration of 30 days after the date when such rate or rates would become effective if not so
+48 suspended; provided that no rate or rates shall be left in effect longer than one year unless the
+49 Commission shall have rendered its decision upon the reasonableness thereof within such period.
+50 This section to become effective July 1, 1963.
+51 …."
+Page 2 DRS15456-NPa-39
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.(a) The Utilities Commission (Commission) shall conduct a study
+2 evaluating the cost of equity capital for electric public utilities doing business in North Carolina.
+3 In conducting this study, the Commission shall consider each of the following:
+4 (1) The spread between the average monthly yields of 30-year U.S. Treasury
+5 Bonds compared to electric public utilities' rate of return on equity authorized
+6 by the Commission.
+7 (2) The spread between investor returns on broad based stock market indices,
+8 such as the Standard and Poor 500 Index, compared to electric public utilities'
+9 rate of return on equity authorized by the Commission.
+10 (3) An estimate of any net savings or costs ratepayers might experience from a
+11 reduction to an electric public utility's authorized rate of return on equity, in
+12 consideration of any potential increase in the utility's borrowing costs as a
+13 result of the reduction to its authorized rate of return on equity.
+14 (4) The market to book ratio for the parent holding company of an electric public
+15 utility doing business in North Carolina, which is the ratio of the company's
+16 value based on its market capitalization compared to the amount of
+17 shareholder equity stated on the company's balance sheet.
+18 SECTION 3.(b) No later than January 1, 2027, the Commission shall submit the
+19 study required under subsection (a) of this section to the Joint Legislative Commission on Energy
+20 Policy, the House Committee on Energy and Public Utilities, and the Senate Committee on
+21 Agriculture, Energy, and the Environment.
+22 SECTION 4. There is appropriated from the General Fund to the Utilities
+23 Commission the sum of ten thousand dollars ($10,000) in nonrecurring funds for the 2026-2027
+24 fiscal year to be used to implement this act.
+25 SECTION 5. This act becomes effective July 1, 2026.
+DRS15456-NPa-39 Page 3
+
+[DELETED:  D U ( S  R S O – I a e p u f w t C r o r o e a b t C N t p o C r I r t r e r r b t G A t W]
+[DELETED:  S  D G a G T C m s t o t p b r a P i p t C m s t i o t p t G C s u n c a h c t l o t i a o m o r t e p b r i a w G b o t P W p A w b o a r g i e t b t C f r s t r b t G A u N]
+[DELETED:  S  P 3  T U C ( s c a s T T A T b o i m c c t t a o 4  T i a f t G F t t U]

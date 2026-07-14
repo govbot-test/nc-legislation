@@ -1,0 +1,152 @@
+Title: SENATE BILL 965
+Official Title: SENATE BILL 965
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: DIT Consultation. (Public)
+Sponsors: Senator Burgin (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE DEPARTMENT OF INFORMATION TECHNOLOGY TO
+3 PROVIDE ADVISORY AND CONSULTATION RESOURCES TO EXEMPT
+4 AGENCIES.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 143B-1320 reads as rewritten:
+7 "§ 143B-1320. Definitions; scope; exemptions.
+8 (a) Definitions. – The following definitions apply in this Article:
+9 …
+10 (b) Exemptions. – Except as otherwise specifically provided by law, this Article does not
+11 apply to the following entities: the General Assembly, the Judicial Department, the Community
+12 Colleges System Office, The University of North Carolina and its constituent institutions, the
+13 Office of the State Auditor, the State Board of Elections, the State Highway Patrol, and the
+14 Department of State Treasurer. These entities may elect to participate in the information
+15 technology programs, services, or contracts offered by the Department, including information
+16 technology procurement, in accordance with the statutes, policies, and rules of the Department.
+17 The election shall be made in writing, as follows:
+18 (1) For the General Assembly, by the Legislative Services Commission.
+19 (2) For the Judicial Department, by the Chief Justice.
+20 (2a) For the Community Colleges System Office, by the State Board of
+21 Community Colleges.
+22 (3) For The University of North Carolina, by the Board of Governors.
+23 (4) For the constituent institutions of The University of North Carolina, by the
+24 respective boards of trustees.
+25 (5) For the Office of the State Auditor, by the State Auditor.
+26 (6) For the State Board of Elections, by the Executive Director of the State Board
+27 of Elections.
+28 (7) For the State Highway Patrol, by the Commander of the State Highway Patrol.
+29 (8) For the Department of State Treasurer, other than the Investment Authority
+30 under Part 1 of Article 6 of Chapter 147 of the General Statutes, by the State
+31 Treasurer.
+32 (9) For the Investment Authority under Part 1 of Article 6 of Chapter 147 of the
+33 General Statutes, by the Board of Directors of the Authority.
+34 (c) Deviations. – Any State agency may apply in writing to the State Chief Information
+35 Officer for approval to deviate from this Article. If granted by the State Chief Information
+*S965-v-1*
+General Assembly Of North Carolina Session 2025
+1 Officer, any deviation shall be consistent with available appropriations and shall be subject to
+2 any terms and conditions specified by the State CIO.
+3 (c1) Consultation. – Any exempt agency may request, and the Department shall provide,
+4 advisory and consultation resources on any form of information technology activities and
+5 services provided by the Department to participating agencies under this Article.
+6 (d) Review. – Notwithstanding subsection (c) of this section, any State agency shall
+7 review and evaluate any deviation authorized and shall, in consultation with the Department of
+8 Information Technology, adopt a plan to phase out any deviations that the State CIO determines
+9 to be unnecessary in carrying out functions and responsibilities unique to the agency having a
+10 deviation. The plan adopted by the agency shall include a strategy to coordinate its general
+11 information processing functions with the Department of Information Technology in the manner
+12 prescribed by this Article and shall provide for its compliance with policies, procedures, and
+13 guidelines adopted by the Department of Information Technology. Any agency receiving a
+14 deviation shall submit its plan to the Office of State Budget and Management as directed by the
+15 State Chief Information Officer."
+16 SECTION 2. There is appropriated from the General Fund to the Department of
+17 Information Technology the sum of fifty thousand dollars ($50,000) in nonrecurring funds for
+18 the 2026-2027 fiscal year to be used to establish an interagency liaison network to effectuate the
+19 Department's consultation obligation under Section 1 of this act.
+20 SECTION 3. This act becomes effective July 1, 2026.
+Page 2 Senate Bill 965-First Edition
+[DELETED:  1 D ( S R A A A T R T D O I T T P A A C R T E A T S " ( D … ( E a C O D o S T T e m e t p i t i t t T ( F ( F ( F t C C S O b t S B o C ( F ( F r ( F ( F o ( F ( F u T ( F G ( D O a t d f t A I g b t S C I]
+[DELETED:  S  S O a ( C a a c r o a f o i t a a s ( R – N s ( s a S a s r I t d i p g a b t D o I T A a r a d S S I t D S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 965
+Short Title: DIT Consultation. (Public)
+Sponsors: Senator Burgin (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE DEPARTMENT OF INFORMATION TECHNOLOGY TO
+3 PROVIDE ADVISORY AND CONSULTATION RESOURCES TO EXEMPT
+4 AGENCIES.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 143B-1320 reads as rewritten:
+7 "§ 143B-1320. Definitions; scope; exemptions.
+8 (a) Definitions. – The following definitions apply in this Article:
+9 …
+10 (b) Exemptions. – Except as otherwise specifically provided by law, this Article does not
+11 apply to the following entities: the General Assembly, the Judicial Department, the Community
+12 Colleges System Office, The University of North Carolina and its constituent institutions, the
+13 Office of the State Auditor, the State Board of Elections, the State Highway Patrol, and the
+14 Department of State Treasurer. These entities may elect to participate in the information
+15 technology programs, services, or contracts offered by the Department, including information
+16 technology procurement, in accordance with the statutes, policies, and rules of the Department.
+17 The election shall be made in writing, as follows:
+18 (1) For the General Assembly, by the Legislative Services Commission.
+19 (2) For the Judicial Department, by the Chief Justice.
+20 (2a) For the Community Colleges System Office, by the State Board of
+21 Community Colleges.
+22 (3) For The University of North Carolina, by the Board of Governors.
+23 (4) For the constituent institutions of The University of North Carolina, by the
+24 respective boards of trustees.
+25 (5) For the Office of the State Auditor, by the State Auditor.
+26 (6) For the State Board of Elections, by the Executive Director of the State Board
+27 of Elections.
+28 (7) For the State Highway Patrol, by the Commander of the State Highway Patrol.
+29 (8) For the Department of State Treasurer, other than the Investment Authority
+30 under Part 1 of Article 6 of Chapter 147 of the General Statutes, by the State
+31 Treasurer.
+32 (9) For the Investment Authority under Part 1 of Article 6 of Chapter 147 of the
+33 General Statutes, by the Board of Directors of the Authority.
+34 (c) Deviations. – Any State agency may apply in writing to the State Chief Information
+35 Officer for approval to deviate from this Article. If granted by the State Chief Information
+*S965-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 Officer, any deviation shall be consistent with available appropriations and shall be subject to
+2 any terms and conditions specified by the State CIO.
+3 (c1) Consultation. – Any exempt agency may request, and the Department shall provide,
+4 advisory and consultation resources on any form of information technology activities and
+5 services provided by the Department to participating agencies under this Article.
+6 (d) Review. – Notwithstanding subsection (c) of this section, any State agency shall
+7 review and evaluate any deviation authorized and shall, in consultation with the Department of
+8 Information Technology, adopt a plan to phase out any deviations that the State CIO determines
+9 to be unnecessary in carrying out functions and responsibilities unique to the agency having a
+10 deviation. The plan adopted by the agency shall include a strategy to coordinate its general
+11 information processing functions with the Department of Information Technology in the manner
+12 prescribed by this Article and shall provide for its compliance with policies, procedures, and
+13 guidelines adopted by the Department of Information Technology. Any agency receiving a
+14 deviation shall submit its plan to the Office of State Budget and Management as directed by the
+15 State Chief Information Officer."
+16 SECTION 2. There is appropriated from the General Fund to the Department of
+17 Information Technology the sum of fifty thousand dollars ($50,000) in nonrecurring funds for
+18 the 2026-2027 fiscal year to be used to establish an interagency liaison network to effectuate the
+19 Department's consultation obligation under Section 1 of this act.
+20 SECTION 3. This act becomes effective July 1, 2026.
+Page 2 Senate Bill 965-First Edition
+
+[DELETED:  1 D ( S R A A A T R T D O I T T P A A C R T E A T S " ( D … ( E a C O D o S T T e m e t p i t i t t T ( F ( F ( F t C C S O b t S B o C ( F ( F r ( F ( F o ( F ( F u T ( F G ( D O a t d f t A I g b t S C I]
+[DELETED:  S  S O a ( C a a c r o a f o i t a a s ( R – N s ( s a S a s r I t d i p g a b t D o I T A a r a d S S I t D S]

@@ -1,0 +1,881 @@
+Title: HOUSE BILL 1123
+Official Title: HOUSE BILL 1123
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+Committee Substitute Favorable 5/6/26
+Short Title: UNC Omnibus & Capital Contracting Law Changes. (Public)
+Sponsors:
+Referred to:
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES RELATED TO THE UNIVERSITY OF NORTH
+3 CAROLINA AND UPDATES TO STATUTES RELATED TO CONTRACTING FOR
+4 CAPITAL PROJECTS.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. 2026 UNC SELF-LIQUIDATING PROJECTS
+8 SECTION 1.1. The purpose of this Part is to authorize the financing of the capital
+9 improvement projects listed in this Part for the respective institutions of The University of North
+10 Carolina with funds available to the institutions from gifts, grants, receipts, self-liquidating
+11 indebtedness, Medicare reimbursements for education costs, hospital receipts from patient care,
+12 or other funds, or any combination of these funds, but not including funds received for tuition or
+13 appropriated from the General Fund or State Capital and Infrastructure Fund of the State unless
+14 previously authorized by General Statute.
+15 SECTION 1.2. The capital improvement projects, and their respective costs,
+16 authorized by this Part to be financed as provided in Section 1.1 of this Part including by revenue
+17 bonds, by special obligation bonds as authorized in Section 1.4 of this Part, or by both, are as
+18 follows:
+19
+20 North Carolina Central University
+21 Richmond Residence Hall Renovation – Phase I $20,000,000
+22
+23 North Carolina State University
+24 Cates West Development – Phase I $295,000,000
+25
+26 University of North Carolina at Chapel Hill
+27 New Residence Hall I $141,200,000
+28 Parker & Teague Halls – Demolition and Replacement $112,000,000
+29
+30 University of North Carolina at Charlotte
+31 Witherspoon Residence Hall Renovation $48,430,000
+32
+33 University of North Carolina at Wilmington
+34 Parking Deck IV $20,357,028
+35
+*H1123-v-2*
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.3. At the request of the Board of Governors of The University of North
+2 Carolina and upon determining that it is in the best interest of the State to do so, the Director of
+3 the Budget may authorize an increase or decrease in the cost of, or a change in the method of,
+4 funding the projects listed in this Part. In determining whether to authorize a change in cost or
+5 funding, the Director of the Budget may consult with the Joint Legislative Commission on
+6 Governmental Operations.
+7 SECTION 1.4. Pursuant to G.S. 116D-26, the Board of Governors may issue, subject
+8 to the approval of the Director of the Budget, at one time or from time to time, special obligation
+9 bonds of the Board of Governors for the purpose of paying all or any part of the cost of acquiring,
+10 constructing, or providing for the projects listed in Section 1.2 of this Part. The maximum
+11 principal amount of bonds to be issued shall not exceed the specified amounts in Section 1.2 of
+12 this Part plus five percent (5%) of such amount to pay issuance expenses, fund reserve funds, pay
+13 capitalized interest, and pay other related additional costs plus any increase in the specific project
+14 costs authorized by the Director of the Budget pursuant to Section 1.3 of this Part. The amounts
+15 specified in Section 1.2 of this Part are not inclusive of other amounts that may have been
+16 authorized by an act of the General Assembly for the projects listed.
+17 SECTION 1.5. This Part is effective when it becomes law.
+18
+19 PART II. STANDARDIZE THE RESIDENCY DETERMINATION PROCESS FOR
+20 ADMISSION TO THE NORTH CAROLINA SCHOOL OF SCIENCE AND
+21 MATHEMATICS
+22 SECTION 2.1.(a) G.S. 116-235(b)(1) reads as rewritten:
+23 "(1) Admission of Students. – The School shall admit students in accordance with
+24 criteria, standards, and procedures established by the Board of Trustees.
+25 Trustees, as follows:
+26 a. To be eligible to be considered for admission, an applicant must be
+27 either a legal resident of the State, as defined by G.S. 116-143.1(a)(1),
+28 or a shall be one of the following:
+29 1. A student who is a resident for tuition purposes, as defined in
+30 G.S. 116-143.1(b), who has established legal residence
+31 (domicile) in North Carolina and maintained that legal
+32 residence for at least 12 months immediately prior to his or her
+33 classification as a resident for tuition purposes. This
+34 determination shall be made by the coordinated and centralized
+35 residency determination process administered by the State
+36 Education Assistance Authority.
+37 2. student A student who is not a resident for tuition purposes
+38 under sub-sub-subdivision 1. of this sub-subdivision whose
+39 parent is an active duty member of the Armed Forces, as
+40 defined by G.S. 116-143.3(a)(2), who is abiding in this State
+41 incident to active military duty at the time the application is
+42 submitted, provided the student shares the abode of that parent;
+43 parent.
+44 b. eligibility Eligibility to remain enrolled in the School shall terminate
+45 at the end of any school year during which a student becomes a
+46 nonresident of the State.
+47 c. The Board of Trustees shall ensure, insofar as possible To the extent
+48 practicable without jeopardizing admission standards, that an equal
+49 number of qualified applicants is shall be admitted to the program and
+50 to the residential summer institutes in science and mathematics from
+51 each of North Carolina's congressional districts. In no event shall the
+Page 2 House Bill 1123-Second Edition
+General Assembly Of North Carolina Session 2025
+1 differences in the number of qualified applicants offered admission to
+2 the program from each of North Carolina's congressional districts be
+3 more than two and one-half percentage points from the average
+4 number per district who are offered admission."
+5 SECTION 2.1.(b) This section is effective when it becomes law and applies
+6 beginning with applications for admission to the North Carolina School of Science and
+7 Mathematics for the 2027-2028 school year.
+8
+9 PART III. REVISE TUITION GRANTS FOR NCSSM AND UNCSA GRADUATES
+10 SECTION 3.1.(a) Part 6 of Article 23 of Chapter 116 of the General Statutes reads
+11 as rewritten:
+12 "Part 6. Tuition Grant for High School Graduates of the North Carolina School of Science and
+13 Mathematics and the University of North Carolina School of the Arts.
+14 "§ 116-209.89. Definitions.Definitions; purpose.
+15 (a) Definitions. – The following definitions apply in this Part:
+16 (1) Academic term. – Any of the following:
+17 a. One fall semester.
+18 b. One spring semester.
+19 c. One summer term.
+20 (1a) Eligible graduate. – A graduate of either of the following:
+21 a. The North Carolina School of Science and Mathematics.
+22 b. The University of North Carolina School of the Arts.
+23 (1b) Eligible student. – A student who meets the requirements of subsection (a) of
+24 G.S. 116-209.90.
+25 (1c) Program. – The Program established in this Part to provide tuition grants to
+26 high school graduates of the North Carolina School of Science and
+27 Mathematics and the University of North Carolina School of the Arts.
+28 (2) Summer term. – All instruction received in one summer between academic
+29 years.
+30 (b) Purpose. – The purpose of the Program is to provide financial assistance to eligible
+31 students who graduated from the North Carolina School of Science and Mathematics and the
+32 University of North Carolina School of the Arts to promote the retention of those
+33 high-performing students in this State.
+34 "§ 116-209.90. Tuition grants for graduates to attend a constituent institution.
+35 (a) Within the funds available, an eligible graduate in each school year who meets the
+36 following conditions shall qualify for a tuition grant awarded under this Part:
+37 (1) Is at the time of application for the initial tuition grant a resident for tuition
+38 purposes under the criteria set forth in G.S. 116-143.1 and in accordance with
+39 the coordinated and centralized residency determination process administered
+40 by the Authority.
+41 (2) Enrolls as a full-time student in a constituent institution of The University of
+42 North Carolina in the next academic year after graduation. The Authority shall
+43 have the discretion to postpone this requirement for up to one academic year
+44 after graduation if the student is able to demonstrate that any of the following
+45 have substantially disrupted or interrupted the student's ability to enroll as a
+46 full-time student:
+47 a. A military service obligation.
+48 b. Serious medical debilitation.
+49 c. A short-term or long-term disability.
+50 d. Other extraordinary hardship.
+House Bill 1123-Second Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (3) Submits a completed Free Application for Federal Student Aid (FAFSA)
+2 form.
+3 (b) Students who receive initial tuition grants as a cohort of a high school graduating class
+4 of NCSSM or UNCSA shall also be eligible to apply for tuition grants for subsequent academic
+5 terms for up to a total of eight academic terms, provided that tuition grants are only used for
+6 undergraduate tuition.
+7 (b1) A student An eligible student must be continuously enrolled full time in an
+8 undergraduate program at a constituent institution of The University of North Carolina after the
+9 award of the initial tuition grant to be eligible for tuition grants in subsequent academic terms.
+10 The Authority shall have the discretion to waive this requirement if the student is able to
+11 demonstrate that any of the following have substantially disrupted or interrupted the student's
+12 pursuit of a degree:
+13 (1) A military service obligation.
+14 (2) Serious medical debilitation.
+15 (3) A short-term or long-term disability.
+16 (4) Other extraordinary hardship.
+17 (c) The amount of the tuition grant to each graduate shall be determined and distributed
+18 as provided in G.S. 116-209.91.
+19 "§ 116-209.91. Administration of tuition grants.
+20 (a) The Except as otherwise provided in this subsection, the Authority shall administer
+21 the tuition grants provided for in this Part pursuant to guidelines and procedures established by
+22 the Authority consistent with its practices for administering State-funded financial aid. The
+23 guidelines and procedures shall include an application process and schedule, notification and
+24 disbursement procedures, standards for reporting, and standards for return of tuition grants when
+25 a student withdraws. The Authority shall also require students to submit (i) a completed Free
+26 Application for Federal Student Aid (FAFSA) form or (ii) other documentation, as necessary, to
+27 administer and award the tuition grant. The Authority shall not approve any grant until it receives
+28 proper certification from the appropriate constituent institution that the student applying for the
+29 grant is an eligible student. Upon receipt of the certification, the Authority shall remit, at the
+30 times it prescribes, the tuition grant to the constituent institution on behalf, and to the credit, of
+31 the eligible student. In the event a student on whose behalf a tuition grant has been paid is not
+32 enrolled in an undergraduate program and carrying a minimum academic load as of the tenth
+33 classroom day following the beginning of the school term for which the tuition grant was paid,
+34 the constituent institution shall refund the full amount of the tuition grant to the Authority.
+35 (b) Except as otherwise provided in this section, the amount of the grant awarded to a an
+36 eligible student under the Program shall cover the tuition cost at the constituent institution in
+37 which the eligible student is enrolled. No tuition grant awarded to a an eligible student under this
+38 section shall exceed the cost of attendance at a constituent institution for which the eligible
+39 student is enrolled.
+40 (c) If a student, who is eligible for a tuition grant under this section, an eligible student
+41 also receives a scholarship or other grant covering the cost of attendance at the constituent
+42 institution for which the tuition grant is awarded, then the amount of the tuition grant shall be
+43 reduced by an appropriate amount determined by the Authority so that the total amount of
+44 scholarships and grants received by the eligible student does not exceed the cost of attendance
+45 for the institution. The cost of attendance shall be determined by the Authority for each
+46 constituent institution.
+47 (c1) The Authority shall place all funds appropriated to, or otherwise received by, the
+48 Authority for the award of tuition grants under this Part into an institutional trust fund established
+49 in accordance with the provisions of G.S. 116-36.1. All interest earned on these funds shall also
+50 be placed in the institutional trust fund established pursuant to this subsection. The monies in the
+51 institutional trust fund may be used only for the purposes set forth in this Part.
+Page 4 House Bill 1123-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (d) In the event there are not sufficient funds to provide each eligible student who has
+2 applied in accordance with the application process and the schedule established by the Authority
+3 with a full tuition grant as provided by this Part, each eligible student shall receive a pro rata
+4 share of funds available for the academic term covered by the appropriation in the preceding
+5 fiscal year.
+6 (e) The Authority may use up to five percent (5%) of the funds appropriated each year
+7 for tuition grants under this Part for the administrative costs.costs of the Program."
+8 SECTION 3.1.(b) This section is effective when it becomes law and applies
+9 beginning with the award of tuition grants for the 2026-2027 academic year.
+10
+11 PART IV. UNC BOARD OF GOVERNORS APPROVAL/CAPITAL EXPENDITURES
+12 SECTION 4.1.(a) G.S. 116-31.11 reads as rewritten:
+13 "§ 116-31.11. Powers of Board regarding certain fee negotiations, contracts, and capital
+14 improvements.
+15 (a) Notwithstanding G.S. 143-341(3) and G.S. 143-135.1, the Board shall, with respect
+16 to the design, construction, or renovation of buildings, utilities, and other property developments
+17 of The University of North Carolina requiring the estimated expenditure of public money of four
+18 million dollars ($4,000,000) or less:
+19 (1) Conduct the fee negotiations for all design contracts and supervise the letting
+20 of all construction and design contracts.
+21 (2) Develop procedures governing the responsibilities of The University of North
+22 Carolina and its affiliated and constituent institutions to perform the duties of
+23 the Department of Administration and the Director or Office of State
+24 Construction under G.S. 133-1.1(d) and G.S. 143-341(3).
+25 (3) Develop procedures and reasonable limitations governing the use of open-end
+26 design agreements, subject to G.S. 143-64.34 and the approval of the State
+27 Building Commission.
+28 (4) Use existing plans and specifications for construction projects, where feasible.
+29 Prior to designing a project, the Board shall consult with the Department of
+30 Administration on the availability of existing plans and specifications and the
+31 feasibility of using them for a project.
+32 (b) The Board may delegate its authority under subsection (a) of this section to a
+33 constituent or affiliated institution if the institution is qualified under guidelines adopted by the
+34 Board and approved by the State Building Commission and the Director of the Budget.
+35 (c) The University shall use the standard contracts for design and construction currently
+36 in use for State capital improvement projects by the Office of State Construction of the
+37 Department of Administration.
+38 (d) A contract may not be divided for the purpose of evading the monetary limit under
+39 this section.
+40 (e) Notwithstanding any other provision of this Chapter, the Department of
+41 Administration shall not be the awarding authority for contracts awarded pursuant to this section.
+42 (e1) The Board shall be responsible for making the final determination on all expenditures
+43 and project scope for capital improvement projects at The University of North Carolina and its
+44 constituent institutions.
+45 (f) The Board of Governors shall annually report to the State Building Commission the
+46 following:
+47 (1) A list of projects governed by this section.
+48 (2) The estimated cost of each project along with the actual cost.
+49 (3) The name of each person awarded a contract under this section.
+House Bill 1123-Second Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (4) Whether the person or business awarded a contract under this section meets
+2 the definition of "minority business" or "minority person" as defined in
+3 G.S. 143-128.2(g)."
+4 SECTION 4.1.(b) This section is effective when it becomes law.
+5
+6 PART V. CAPITAL IMPROVEMENT THRESHOLD CHANGES
+7 SECTION 5.1.(a) G.S. 143C-1-1(d)(5) reads as rewritten:
+8 "(5) Capital improvement. – A term that includes real property acquisition, new
+9 construction or rehabilitation of existing facilities, and repairs and renovations
+10 over one hundred fifty thousand dollars ($100,000) ($150,000) in value."
+11 SECTION 5.1.(b) G.S. 133-1.1 reads as rewritten:
+12 "§ 133-1.1. Certain buildings involving public funds to be designed, etc., by architect or
+13 engineer.
+14 (a) In the interest of public health, safety and economy, every officer, board, department,
+15 or commission charged with the duty of approving plans and specifications or awarding or
+16 entering into contracts involving the expenditure of public funds in excess of:shall require that
+17 such plans and specifications be prepared by a registered architect, in accordance with the
+18 provisions of Chapter 83A of the General Statutes, or by a registered engineer, in accordance
+19 with the provisions of Chapter 89C of the General Statutes, or by both architect and engineer,
+20 particularly qualified by training and experience for the type of work involved, and that the North
+21 Carolina seal of such architect or engineer together with the name and address of such architect
+22 or engineer, or both, be placed on all these plans and specifications, when the contract meets any
+23 of the following criteria:
+24 (1) Three In excess of three hundred thousand dollars ($300,000) for the repair of
+25 public buildings where such repair does not include major structural change
+26 in framing or foundation support systems, or five hundred thousand dollars
+27 ($500,000) for the repair of public buildings by The University of North
+28 Carolina or its constituent institutions where such repair does not include
+29 major structural change in framing or foundation support systems,systems.
+30 (1a) One In excess of one hundred fifty thousand dollars ($100,000) ($150,000)
+31 for the repair of public buildings affecting life safety systems,systems.
+32 (2) One In excess of one hundred thirty-five fifty thousand dollars ($135,000)
+33 ($150,000) for the repair of public buildings where such repair includes major
+34 structural change in framing or foundation support systems, orsystems.
+35 (3) One hundred thirty-five fifty thousand dollars ($135,000) ($150,000) for the
+36 construction of, or additions to, public buildings or State-owned and operated
+37 utilities, shall require that such plans and specifications be prepared by a
+38 registered architect, in accordance with the provisions of Chapter 83A of the
+39 General Statutes, or by a registered engineer, in accordance with the
+40 provisions of Chapter 89C of the General Statutes, or by both architect and
+41 engineer, particularly qualified by training and experience for the type of work
+42 involved, and that the North Carolina seal of such architect or engineer
+43 together with the name and address of such architect or engineer, or both, be
+44 placed on all these plans and specifications.utilities.
+45 …
+46 (d) On projects on which no registered architect or engineer is required pursuant to the
+47 provisions of this section, the governing board or awarding authority shall require a certificate of
+48 compliance with the State Building Code from the city or county inspector for the specific trade
+49 or trades involved or from a registered architect or engineer, except that the provisions of this
+50 subsection shall not apply to projects where any of the following apply:
+Page 6 House Bill 1123-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (1) The plans and specifications are approved by the Department of
+2 Administration, Division of State Construction, and the completed project is
+3 inspected by the Division of State Construction and the State Electrical
+4 Inspector.
+5 (2) The project is exempt from the State Building Code.
+6 (3) The project has a total projected cost of less than $100,000 one hundred fifty
+7 thousand dollars ($150,000) and does not alter life safety systems.
+8 …."
+9 SECTION 5.1.(c) G.S. 143-134.1(b1) reads as rewritten:
+10 "(b1) No retainage on periodic or final payments made by the owner or prime contractor
+11 shall be allowed on public construction contracts in which the total project costs are less than one
+12 hundred fifty thousand dollars ($100,000). ($150,000). Retainage on periodic or final payments
+13 on public construction contracts in which the total project costs are equal to or greater than one
+14 hundred fifty thousand dollars ($100,000) ($150,000) is allowed as follows:
+15 …."
+16 SECTION 5.1.(d) G.S. 143-129 reads as rewritten:
+17 "§ 143-129. Procedure for letting of public contracts.
+18 (a) Bidding Required. – No construction or repair work requiring the estimated
+19 expenditure of public money in an amount equal to or more than one million five hundred
+20 thousand dollars ($500,000) ($1,500,000) or purchase of apparatus, supplies, materials, or
+21 equipment requiring an estimated expenditure of public money in an amount equal to or more
+22 than ninety thousand dollars ($90,000) may be performed, nor may any contract be awarded
+23 therefor, by any board or governing body of the State, or of any institution of the State
+24 government, or of any political subdivision of the State, unless the provisions of this section are
+25 complied with; provided that The University of North Carolina and its constituent institutions
+26 may award contracts for construction or repair work that requires an estimated expenditure of
+27 less than one million five hundred thousand dollars ($500,000) ($1,500,000) without complying
+28 with the provisions of this section.
+29 For purchases of apparatus, supplies, materials, or equipment, the governing body of any
+30 political subdivision of the State may, subject to any restriction as to dollar amount, or other
+31 conditions that the governing body elects to impose, delegate to the manager, school
+32 superintendent, chief purchasing official, or other employee the authority to award contracts,
+33 reject bids, or readvertise to receive bids on behalf of the unit. Any person to whom authority is
+34 delegated under this subsection shall comply with the requirements of this Article that would
+35 otherwise apply to the governing body.
+36 …."
+37 SECTION 5.1.(e) G.S. 143-64.34 reads as rewritten:
+38 "§ 143-64.34. Exemption of certain projects.
+39 State capital improvement projects under the jurisdiction of the State Building Commission,
+40 capital improvement projects of The University of North Carolina, and community college
+41 capital improvement projects, where the estimated expenditure of public money is less than one
+42 million five hundred thousand dollars ($500,000), ($1,500,000), are exempt from the provisions
+43 of this Article."
+44 SECTION 5.1.(f) G.S. 143-128 reads as rewritten:
+45 "§ 143-128. Requirements for certain building contracts.
+46 …
+47 (g) Exceptions. – This section shall not apply to:
+48 (1) The to the purchase and erection of prefabricated or relocatable buildings or portions
+49 thereof, except that portion of the work which must be performed at the construction site.
+50 (2) The erection, construction, alteration, or repair of a building when the cost
+51 thereof is three hundred thousand dollars ($300,000) or less.
+House Bill 1123-Second Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 (3) The erection, construction, alteration, or repair of a building by The University
+2 of North Carolina or its constituent institutions when the cost thereof is five
+3 hundred thousand dollars ($500,000) or less.
+4 Notwithstanding the other provisions of this subsection, subsection (f1) of this section shall
+5 apply to any erection, construction, alteration, or repair of a building by a public entity."
+6
+7 PART VI. USE OF CAPITAL FUNDS FOR PUBLIC-PRIVATE PARTNERSHIPS
+8 SECTION 6.1. G.S. 143C-8-7.1 reads as rewritten:
+9 "§ 143C-8-7.1. Procedures for disbursement of capital funds.
+10 (a) Appropriations made by an act of the General Assembly for capital improvements are
+11 for constructing, repairing, or renovating State buildings, utilities, and other capital facilities; for
+12 acquiring sites for them where necessary; for acquiring buildings and land for State government
+13 purposes and other purposes as set forth in G.S. 143C-4-3.1; and shall be disbursed for the
+14 purposes provided by that act. Expenditure of funds shall not be made by any State department,
+15 institution, or agency until an allotment has been issued by the Governor as Director of the
+16 Budget, which shall not be unreasonably withheld. The allotment shall be issued upon
+17 compliance with the provisions of this Chapter. Prior to the award of construction contracts for
+18 projects to be financed in whole or in part with self-liquidating appropriations, the Director of
+19 the Budget shall approve the elements of the method of financing of those projects, including the
+20 source of funds, interest rate, and liquidation period. Provided, however, that if the Director of
+21 the Budget approves the method of financing a project, the Director shall report that action to the
+22 Joint Legislative Commission on Governmental Operations within 30 days.
+23 (a1) State funds appropriated for a capital improvement project at a State agency that is
+24 not a public-private partnership project shall not be used in conjunction with or for the benefit of
+25 a public-private partnership project without express authorization by an act of the General
+26 Assembly. For the purposes of this subsection, the term "public-private partnership" means a
+27 capital improvement project undertaken for the benefit of a governmental entity and a private
+28 entity that may involve a contract, a financing arrangement, or other agreement, and includes
+29 construction of a public facility or other improvements, including paving, grading, utilities,
+30 infrastructure, reconstruction, or repair, and may include both public and private facilities.
+31 (b) Where direct capital improvement appropriations include the purpose of furnishing
+32 fixed and movable equipment for any project, those funds for equipment shall not be subject to
+33 transfer into construction accounts except as authorized by the Director of the Budget. The
+34 expenditure of funds for fixed and movable equipment and furnishings shall be reviewed and
+35 approved by the Director of the Budget prior to commitment of funds.
+36 (c) Capital improvement projects authorized by an act of the General Assembly shall be
+37 completed, including fixed and movable equipment and furnishings, within the limits of the
+38 amounts of the direct or self-liquidating appropriations provided, except as otherwise provided
+39 in that act. Capital improvement projects authorized by an act of the General Assembly for the
+40 design phase only shall be designed within the scope of the project as defined by the approved
+41 cost estimate filed with the Director of the Budget, including costs associated with site
+42 preparation, demolition, and movable and fixed equipment. Amounts contracted for projects
+43 authorized by the General Assembly cannot exceed the total project cost authorization.
+44 (d) Disbursement of funds from the State Capital and Infrastructure Fund for projects
+45 authorized by an act of the General Assembly shall be made as needed to initiate or advance a
+46 capital project. Funds authorized for any particular project shall remain in the State Capital and
+47 Infrastructure Fund until such time as disbursement is necessary to satisfy a financial obligation
+48 for that project."
+49
+50 PART VII. SEVERABILITY CLAUSE
+Page 8 House Bill 1123-Second Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 7.1. If any section or provision of this act is declared unconstitutional or
+2 invalid by the courts, it does not affect the validity of this act as a whole or any part other than
+3 the part so declared to be unconstitutional or invalid.
+4
+5 PART VIII. EFFECTIVE DATE
+6 SECTION 8.1. Except as otherwise provided, this act is effective when it becomes
+7 law.
+House Bill 1123-Second Edition Page 9
+[DELETED:  2 U (   A A C A U T S R T C F C T  P S i C w f a t t i f g g r s i o a p S 1  T c i p a t r c a b f  N R $  N C $  U N $ P $  U W $  U P $ ]
+[DELETED:  S  H S C t f f t D o t B m c w t J L C o G S t b c o p f t p l i S 1 o t P T m p t c c s a S  P I S T R D P F A T T N C S O S A M S " A c s a p e b t B o T T a T e o 1 A G w h e l r ( i N C a m t l r c a a r f t p T d r d p a b t S E 2 s u s 1 o t s w p i a a d m o t A F a d i s p b e a t e o a s y d w a s b a n c T p n t e]
+[DELETED:  S  P d t m t t a o p p f t a n S 2  T s i e w i b l a a b w a f a t t N C S o S a M  P S a " M " ( D ( A a O b O c O ( E a T b T ( E G ( P h s g o t N C S o S a M ( S y ( P s U o N C S o t A t p t r o t h " ( W f ( I p t b ( E N h a h f a A b S c A d O]
+[DELETED:  S  H ( S a c F A f F S A ( f ( S o t u ( A s A e s m b c e f t i a u a T A s h t d t w t r i t s i a t d p ( A ( S ( A ( O ( T a " ( T t t A c w i p f a S f a T g d a A a p g t t e c t ( E e w s e s ( I a g a c i r b a a a d b t A s t t t a o s f t i T c o a s b d b t A f e c ( T A i b i]
+[DELETED:  S  P ( I a w s f ( T f S 3  T s i e w i b l a a b  P S " i ( N t o m ( C o ( D C t D o A a t D o O o S C ( D d B ( U P A f ( T B m d i a u s ( o t s t a c B ( T i u f S c i p b t O o S C o t D ( A t ( N a o p o t C t D o A ( T a c ( T f ( A ( T ( T]
+[DELETED:  S  H ( W t d o " b o " p a d i G S  P S " C c o S " e ( I o c w t d o a p a s o o e s p a s b p b a r a i a w t p w p C o o ( T p i ( f t r o p b b T U o N C o c i w s r d n i m ( O f ( O ( s ( O c u s r t s p a s b p b a r G S o b a r e i a w t p e i a t t N C s o s a o e t p … ( O p c o s]
+[DELETED:  S  P ( T p a s a a b t D o A i b t D o S C a t S E I ( T ( T t … S " N s h o h … S " ( B R – N c o r w r t e e a o m t d ( ( o p o a s m o e t t b a b o g b o t S o o a i o t S g c m l w F p c t t g b e t i d t t m s s r d o … S " S c i p o T U o N C a c c c m o S " … ( E ( T t ( T t]
+[DELETED:  S  H ( T o h N a  P S " ( A f a p p i B w s n b u w T a s b i u c p t s t J ( S n a p p p w e a b a a o t G A c e c o a p f o o i i p g u i ( W f t a e a ( C c a i d c e f w t D o t B i c a w s p a ( D a c I f  P]
+[DELETED:  S  P S i t  P S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 1123
+Committee Substitute Favorable 5/6/26
+Short Title: UNC Omnibus & Capital Contracting Law Changes. (Public)
+Sponsors:
+Referred to:
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES RELATED TO THE UNIVERSITY OF NORTH
+3 CAROLINA AND UPDATES TO STATUTES RELATED TO CONTRACTING FOR
+4 CAPITAL PROJECTS.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. 2026 UNC SELF-LIQUIDATING PROJECTS
+8 SECTION 1.1. The purpose of this Part is to authorize the financing of the capital
+9 improvement projects listed in this Part for the respective institutions of The University of North
+10 Carolina with funds available to the institutions from gifts, grants, receipts, self-liquidating
+11 indebtedness, Medicare reimbursements for education costs, hospital receipts from patient care,
+12 or other funds, or any combination of these funds, but not including funds received for tuition or
+13 appropriated from the General Fund or State Capital and Infrastructure Fund of the State unless
+14 previously authorized by General Statute.
+15 SECTION 1.2. The capital improvement projects, and their respective costs,
+16 authorized by this Part to be financed as provided in Section 1.1 of this Part including by revenue
+17 bonds, by special obligation bonds as authorized in Section 1.4 of this Part, or by both, are as
+18 follows:
+19
+20 North Carolina Central University
+21 Richmond Residence Hall Renovation – Phase I $20,000,000
+22
+23 North Carolina State University
+24 Cates West Development – Phase I $295,000,000
+25
+26 University of North Carolina at Chapel Hill
+27 New Residence Hall I $141,200,000
+28 Parker & Teague Halls – Demolition and Replacement $112,000,000
+29
+30 University of North Carolina at Charlotte
+31 Witherspoon Residence Hall Renovation $48,430,000
+32
+33 University of North Carolina at Wilmington
+34 Parking Deck IV $20,357,028
+35
+*H1123-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.3. At the request of the Board of Governors of The University of North
+2 Carolina and upon determining that it is in the best interest of the State to do so, the Director of
+3 the Budget may authorize an increase or decrease in the cost of, or a change in the method of,
+4 funding the projects listed in this Part. In determining whether to authorize a change in cost or
+5 funding, the Director of the Budget may consult with the Joint Legislative Commission on
+6 Governmental Operations.
+7 SECTION 1.4. Pursuant to G.S. 116D-26, the Board of Governors may issue, subject
+8 to the approval of the Director of the Budget, at one time or from time to time, special obligation
+9 bonds of the Board of Governors for the purpose of paying all or any part of the cost of acquiring,
+10 constructing, or providing for the projects listed in Section 1.2 of this Part. The maximum
+11 principal amount of bonds to be issued shall not exceed the specified amounts in Section 1.2 of
+12 this Part plus five percent (5%) of such amount to pay issuance expenses, fund reserve funds, pay
+13 capitalized interest, and pay other related additional costs plus any increase in the specific project
+14 costs authorized by the Director of the Budget pursuant to Section 1.3 of this Part. The amounts
+15 specified in Section 1.2 of this Part are not inclusive of other amounts that may have been
+16 authorized by an act of the General Assembly for the projects listed.
+17 SECTION 1.5. This Part is effective when it becomes law.
+18
+19 PART II. STANDARDIZE THE RESIDENCY DETERMINATION PROCESS FOR
+20 ADMISSION TO THE NORTH CAROLINA SCHOOL OF SCIENCE AND
+21 MATHEMATICS
+22 SECTION 2.1.(a) G.S. 116-235(b)(1) reads as rewritten:
+23 "(1) Admission of Students. – The School shall admit students in accordance with
+24 criteria, standards, and procedures established by the Board of Trustees.
+25 Trustees, as follows:
+26 a. To be eligible to be considered for admission, an applicant must be
+27 either a legal resident of the State, as defined by G.S. 116-143.1(a)(1),
+28 or a shall be one of the following:
+29 1. A student who is a resident for tuition purposes, as defined in
+30 G.S. 116-143.1(b), who has established legal residence
+31 (domicile) in North Carolina and maintained that legal
+32 residence for at least 12 months immediately prior to his or her
+33 classification as a resident for tuition purposes. This
+34 determination shall be made by the coordinated and centralized
+35 residency determination process administered by the State
+36 Education Assistance Authority.
+37 2. student A student who is not a resident for tuition purposes
+38 under sub-sub-subdivision 1. of this sub-subdivision whose
+39 parent is an active duty member of the Armed Forces, as
+40 defined by G.S. 116-143.3(a)(2), who is abiding in this State
+41 incident to active military duty at the time the application is
+42 submitted, provided the student shares the abode of that parent;
+43 parent.
+44 b. eligibility Eligibility to remain enrolled in the School shall terminate
+45 at the end of any school year during which a student becomes a
+46 nonresident of the State.
+47 c. The Board of Trustees shall ensure, insofar as possible To the extent
+48 practicable without jeopardizing admission standards, that an equal
+49 number of qualified applicants is shall be admitted to the program and
+50 to the residential summer institutes in science and mathematics from
+51 each of North Carolina's congressional districts. In no event shall the
+Page 2 House Bill 1123-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 differences in the number of qualified applicants offered admission to
+2 the program from each of North Carolina's congressional districts be
+3 more than two and one-half percentage points from the average
+4 number per district who are offered admission."
+5 SECTION 2.1.(b) This section is effective when it becomes law and applies
+6 beginning with applications for admission to the North Carolina School of Science and
+7 Mathematics for the 2027-2028 school year.
+8
+9 PART III. REVISE TUITION GRANTS FOR NCSSM AND UNCSA GRADUATES
+10 SECTION 3.1.(a) Part 6 of Article 23 of Chapter 116 of the General Statutes reads
+11 as rewritten:
+12 "Part 6. Tuition Grant for High School Graduates of the North Carolina School of Science and
+13 Mathematics and the University of North Carolina School of the Arts.
+14 "§ 116-209.89. Definitions.Definitions; purpose.
+15 (a) Definitions. – The following definitions apply in this Part:
+16 (1) Academic term. – Any of the following:
+17 a. One fall semester.
+18 b. One spring semester.
+19 c. One summer term.
+20 (1a) Eligible graduate. – A graduate of either of the following:
+21 a. The North Carolina School of Science and Mathematics.
+22 b. The University of North Carolina School of the Arts.
+23 (1b) Eligible student. – A student who meets the requirements of subsection (a) of
+24 G.S. 116-209.90.
+25 (1c) Program. – The Program established in this Part to provide tuition grants to
+26 high school graduates of the North Carolina School of Science and
+27 Mathematics and the University of North Carolina School of the Arts.
+28 (2) Summer term. – All instruction received in one summer between academic
+29 years.
+30 (b) Purpose. – The purpose of the Program is to provide financial assistance to eligible
+31 students who graduated from the North Carolina School of Science and Mathematics and the
+32 University of North Carolina School of the Arts to promote the retention of those
+33 high-performing students in this State.
+34 "§ 116-209.90. Tuition grants for graduates to attend a constituent institution.
+35 (a) Within the funds available, an eligible graduate in each school year who meets the
+36 following conditions shall qualify for a tuition grant awarded under this Part:
+37 (1) Is at the time of application for the initial tuition grant a resident for tuition
+38 purposes under the criteria set forth in G.S. 116-143.1 and in accordance with
+39 the coordinated and centralized residency determination process administered
+40 by the Authority.
+41 (2) Enrolls as a full-time student in a constituent institution of The University of
+42 North Carolina in the next academic year after graduation. The Authority shall
+43 have the discretion to postpone this requirement for up to one academic year
+44 after graduation if the student is able to demonstrate that any of the following
+45 have substantially disrupted or interrupted the student's ability to enroll as a
+46 full-time student:
+47 a. A military service obligation.
+48 b. Serious medical debilitation.
+49 c. A short-term or long-term disability.
+50 d. Other extraordinary hardship.
+House Bill 1123-Second Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (3) Submits a completed Free Application for Federal Student Aid (FAFSA)
+2 form.
+3 (b) Students who receive initial tuition grants as a cohort of a high school graduating class
+4 of NCSSM or UNCSA shall also be eligible to apply for tuition grants for subsequent academic
+5 terms for up to a total of eight academic terms, provided that tuition grants are only used for
+6 undergraduate tuition.
+7 (b1) A student An eligible student must be continuously enrolled full time in an
+8 undergraduate program at a constituent institution of The University of North Carolina after the
+9 award of the initial tuition grant to be eligible for tuition grants in subsequent academic terms.
+10 The Authority shall have the discretion to waive this requirement if the student is able to
+11 demonstrate that any of the following have substantially disrupted or interrupted the student's
+12 pursuit of a degree:
+13 (1) A military service obligation.
+14 (2) Serious medical debilitation.
+15 (3) A short-term or long-term disability.
+16 (4) Other extraordinary hardship.
+17 (c) The amount of the tuition grant to each graduate shall be determined and distributed
+18 as provided in G.S. 116-209.91.
+19 "§ 116-209.91. Administration of tuition grants.
+20 (a) The Except as otherwise provided in this subsection, the Authority shall administer
+21 the tuition grants provided for in this Part pursuant to guidelines and procedures established by
+22 the Authority consistent with its practices for administering State-funded financial aid. The
+23 guidelines and procedures shall include an application process and schedule, notification and
+24 disbursement procedures, standards for reporting, and standards for return of tuition grants when
+25 a student withdraws. The Authority shall also require students to submit (i) a completed Free
+26 Application for Federal Student Aid (FAFSA) form or (ii) other documentation, as necessary, to
+27 administer and award the tuition grant. The Authority shall not approve any grant until it receives
+28 proper certification from the appropriate constituent institution that the student applying for the
+29 grant is an eligible student. Upon receipt of the certification, the Authority shall remit, at the
+30 times it prescribes, the tuition grant to the constituent institution on behalf, and to the credit, of
+31 the eligible student. In the event a student on whose behalf a tuition grant has been paid is not
+32 enrolled in an undergraduate program and carrying a minimum academic load as of the tenth
+33 classroom day following the beginning of the school term for which the tuition grant was paid,
+34 the constituent institution shall refund the full amount of the tuition grant to the Authority.
+35 (b) Except as otherwise provided in this section, the amount of the grant awarded to a an
+36 eligible student under the Program shall cover the tuition cost at the constituent institution in
+37 which the eligible student is enrolled. No tuition grant awarded to a an eligible student under this
+38 section shall exceed the cost of attendance at a constituent institution for which the eligible
+39 student is enrolled.
+40 (c) If a student, who is eligible for a tuition grant under this section, an eligible student
+41 also receives a scholarship or other grant covering the cost of attendance at the constituent
+42 institution for which the tuition grant is awarded, then the amount of the tuition grant shall be
+43 reduced by an appropriate amount determined by the Authority so that the total amount of
+44 scholarships and grants received by the eligible student does not exceed the cost of attendance
+45 for the institution. The cost of attendance shall be determined by the Authority for each
+46 constituent institution.
+47 (c1) The Authority shall place all funds appropriated to, or otherwise received by, the
+48 Authority for the award of tuition grants under this Part into an institutional trust fund established
+49 in accordance with the provisions of G.S. 116-36.1. All interest earned on these funds shall also
+50 be placed in the institutional trust fund established pursuant to this subsection. The monies in the
+51 institutional trust fund may be used only for the purposes set forth in this Part.
+Page 4 House Bill 1123-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (d) In the event there are not sufficient funds to provide each eligible student who has
+2 applied in accordance with the application process and the schedule established by the Authority
+3 with a full tuition grant as provided by this Part, each eligible student shall receive a pro rata
+4 share of funds available for the academic term covered by the appropriation in the preceding
+5 fiscal year.
+6 (e) The Authority may use up to five percent (5%) of the funds appropriated each year
+7 for tuition grants under this Part for the administrative costs.costs of the Program."
+8 SECTION 3.1.(b) This section is effective when it becomes law and applies
+9 beginning with the award of tuition grants for the 2026-2027 academic year.
+10
+11 PART IV. UNC BOARD OF GOVERNORS APPROVAL/CAPITAL EXPENDITURES
+12 SECTION 4.1.(a) G.S. 116-31.11 reads as rewritten:
+13 "§ 116-31.11. Powers of Board regarding certain fee negotiations, contracts, and capital
+14 improvements.
+15 (a) Notwithstanding G.S. 143-341(3) and G.S. 143-135.1, the Board shall, with respect
+16 to the design, construction, or renovation of buildings, utilities, and other property developments
+17 of The University of North Carolina requiring the estimated expenditure of public money of four
+18 million dollars ($4,000,000) or less:
+19 (1) Conduct the fee negotiations for all design contracts and supervise the letting
+20 of all construction and design contracts.
+21 (2) Develop procedures governing the responsibilities of The University of North
+22 Carolina and its affiliated and constituent institutions to perform the duties of
+23 the Department of Administration and the Director or Office of State
+24 Construction under G.S. 133-1.1(d) and G.S. 143-341(3).
+25 (3) Develop procedures and reasonable limitations governing the use of open-end
+26 design agreements, subject to G.S. 143-64.34 and the approval of the State
+27 Building Commission.
+28 (4) Use existing plans and specifications for construction projects, where feasible.
+29 Prior to designing a project, the Board shall consult with the Department of
+30 Administration on the availability of existing plans and specifications and the
+31 feasibility of using them for a project.
+32 (b) The Board may delegate its authority under subsection (a) of this section to a
+33 constituent or affiliated institution if the institution is qualified under guidelines adopted by the
+34 Board and approved by the State Building Commission and the Director of the Budget.
+35 (c) The University shall use the standard contracts for design and construction currently
+36 in use for State capital improvement projects by the Office of State Construction of the
+37 Department of Administration.
+38 (d) A contract may not be divided for the purpose of evading the monetary limit under
+39 this section.
+40 (e) Notwithstanding any other provision of this Chapter, the Department of
+41 Administration shall not be the awarding authority for contracts awarded pursuant to this section.
+42 (e1) The Board shall be responsible for making the final determination on all expenditures
+43 and project scope for capital improvement projects at The University of North Carolina and its
+44 constituent institutions.
+45 (f) The Board of Governors shall annually report to the State Building Commission the
+46 following:
+47 (1) A list of projects governed by this section.
+48 (2) The estimated cost of each project along with the actual cost.
+49 (3) The name of each person awarded a contract under this section.
+House Bill 1123-Second Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (4) Whether the person or business awarded a contract under this section meets
+2 the definition of "minority business" or "minority person" as defined in
+3 G.S. 143-128.2(g)."
+4 SECTION 4.1.(b) This section is effective when it becomes law.
+5
+6 PART V. CAPITAL IMPROVEMENT THRESHOLD CHANGES
+7 SECTION 5.1.(a) G.S. 143C-1-1(d)(5) reads as rewritten:
+8 "(5) Capital improvement. – A term that includes real property acquisition, new
+9 construction or rehabilitation of existing facilities, and repairs and renovations
+10 over one hundred fifty thousand dollars ($100,000) ($150,000) in value."
+11 SECTION 5.1.(b) G.S. 133-1.1 reads as rewritten:
+12 "§ 133-1.1. Certain buildings involving public funds to be designed, etc., by architect or
+13 engineer.
+14 (a) In the interest of public health, safety and economy, every officer, board, department,
+15 or commission charged with the duty of approving plans and specifications or awarding or
+16 entering into contracts involving the expenditure of public funds in excess of:shall require that
+17 such plans and specifications be prepared by a registered architect, in accordance with the
+18 provisions of Chapter 83A of the General Statutes, or by a registered engineer, in accordance
+19 with the provisions of Chapter 89C of the General Statutes, or by both architect and engineer,
+20 particularly qualified by training and experience for the type of work involved, and that the North
+21 Carolina seal of such architect or engineer together with the name and address of such architect
+22 or engineer, or both, be placed on all these plans and specifications, when the contract meets any
+23 of the following criteria:
+24 (1) Three In excess of three hundred thousand dollars ($300,000) for the repair of
+25 public buildings where such repair does not include major structural change
+26 in framing or foundation support systems, or five hundred thousand dollars
+27 ($500,000) for the repair of public buildings by The University of North
+28 Carolina or its constituent institutions where such repair does not include
+29 major structural change in framing or foundation support systems,systems.
+30 (1a) One In excess of one hundred fifty thousand dollars ($100,000) ($150,000)
+31 for the repair of public buildings affecting life safety systems,systems.
+32 (2) One In excess of one hundred thirty-five fifty thousand dollars ($135,000)
+33 ($150,000) for the repair of public buildings where such repair includes major
+34 structural change in framing or foundation support systems, orsystems.
+35 (3) One hundred thirty-five fifty thousand dollars ($135,000) ($150,000) for the
+36 construction of, or additions to, public buildings or State-owned and operated
+37 utilities, shall require that such plans and specifications be prepared by a
+38 registered architect, in accordance with the provisions of Chapter 83A of the
+39 General Statutes, or by a registered engineer, in accordance with the
+40 provisions of Chapter 89C of the General Statutes, or by both architect and
+41 engineer, particularly qualified by training and experience for the type of work
+42 involved, and that the North Carolina seal of such architect or engineer
+43 together with the name and address of such architect or engineer, or both, be
+44 placed on all these plans and specifications.utilities.
+45 …
+46 (d) On projects on which no registered architect or engineer is required pursuant to the
+47 provisions of this section, the governing board or awarding authority shall require a certificate of
+48 compliance with the State Building Code from the city or county inspector for the specific trade
+49 or trades involved or from a registered architect or engineer, except that the provisions of this
+50 subsection shall not apply to projects where any of the following apply:
+Page 6 House Bill 1123-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (1) The plans and specifications are approved by the Department of
+2 Administration, Division of State Construction, and the completed project is
+3 inspected by the Division of State Construction and the State Electrical
+4 Inspector.
+5 (2) The project is exempt from the State Building Code.
+6 (3) The project has a total projected cost of less than $100,000 one hundred fifty
+7 thousand dollars ($150,000) and does not alter life safety systems.
+8 …."
+9 SECTION 5.1.(c) G.S. 143-134.1(b1) reads as rewritten:
+10 "(b1) No retainage on periodic or final payments made by the owner or prime contractor
+11 shall be allowed on public construction contracts in which the total project costs are less than one
+12 hundred fifty thousand dollars ($100,000). ($150,000). Retainage on periodic or final payments
+13 on public construction contracts in which the total project costs are equal to or greater than one
+14 hundred fifty thousand dollars ($100,000) ($150,000) is allowed as follows:
+15 …."
+16 SECTION 5.1.(d) G.S. 143-129 reads as rewritten:
+17 "§ 143-129. Procedure for letting of public contracts.
+18 (a) Bidding Required. – No construction or repair work requiring the estimated
+19 expenditure of public money in an amount equal to or more than one million five hundred
+20 thousand dollars ($500,000) ($1,500,000) or purchase of apparatus, supplies, materials, or
+21 equipment requiring an estimated expenditure of public money in an amount equal to or more
+22 than ninety thousand dollars ($90,000) may be performed, nor may any contract be awarded
+23 therefor, by any board or governing body of the State, or of any institution of the State
+24 government, or of any political subdivision of the State, unless the provisions of this section are
+25 complied with; provided that The University of North Carolina and its constituent institutions
+26 may award contracts for construction or repair work that requires an estimated expenditure of
+27 less than one million five hundred thousand dollars ($500,000) ($1,500,000) without complying
+28 with the provisions of this section.
+29 For purchases of apparatus, supplies, materials, or equipment, the governing body of any
+30 political subdivision of the State may, subject to any restriction as to dollar amount, or other
+31 conditions that the governing body elects to impose, delegate to the manager, school
+32 superintendent, chief purchasing official, or other employee the authority to award contracts,
+33 reject bids, or readvertise to receive bids on behalf of the unit. Any person to whom authority is
+34 delegated under this subsection shall comply with the requirements of this Article that would
+35 otherwise apply to the governing body.
+36 …."
+37 SECTION 5.1.(e) G.S. 143-64.34 reads as rewritten:
+38 "§ 143-64.34. Exemption of certain projects.
+39 State capital improvement projects under the jurisdiction of the State Building Commission,
+40 capital improvement projects of The University of North Carolina, and community college
+41 capital improvement projects, where the estimated expenditure of public money is less than one
+42 million five hundred thousand dollars ($500,000), ($1,500,000), are exempt from the provisions
+43 of this Article."
+44 SECTION 5.1.(f) G.S. 143-128 reads as rewritten:
+45 "§ 143-128. Requirements for certain building contracts.
+46 …
+47 (g) Exceptions. – This section shall not apply to:
+48 (1) The to the purchase and erection of prefabricated or relocatable buildings or portions
+49 thereof, except that portion of the work which must be performed at the construction site.
+50 (2) The erection, construction, alteration, or repair of a building when the cost
+51 thereof is three hundred thousand dollars ($300,000) or less.
+House Bill 1123-Second Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (3) The erection, construction, alteration, or repair of a building by The University
+2 of North Carolina or its constituent institutions when the cost thereof is five
+3 hundred thousand dollars ($500,000) or less.
+4 Notwithstanding the other provisions of this subsection, subsection (f1) of this section shall
+5 apply to any erection, construction, alteration, or repair of a building by a public entity."
+6
+7 PART VI. USE OF CAPITAL FUNDS FOR PUBLIC-PRIVATE PARTNERSHIPS
+8 SECTION 6.1. G.S. 143C-8-7.1 reads as rewritten:
+9 "§ 143C-8-7.1. Procedures for disbursement of capital funds.
+10 (a) Appropriations made by an act of the General Assembly for capital improvements are
+11 for constructing, repairing, or renovating State buildings, utilities, and other capital facilities; for
+12 acquiring sites for them where necessary; for acquiring buildings and land for State government
+13 purposes and other purposes as set forth in G.S. 143C-4-3.1; and shall be disbursed for the
+14 purposes provided by that act. Expenditure of funds shall not be made by any State department,
+15 institution, or agency until an allotment has been issued by the Governor as Director of the
+16 Budget, which shall not be unreasonably withheld. The allotment shall be issued upon
+17 compliance with the provisions of this Chapter. Prior to the award of construction contracts for
+18 projects to be financed in whole or in part with self-liquidating appropriations, the Director of
+19 the Budget shall approve the elements of the method of financing of those projects, including the
+20 source of funds, interest rate, and liquidation period. Provided, however, that if the Director of
+21 the Budget approves the method of financing a project, the Director shall report that action to the
+22 Joint Legislative Commission on Governmental Operations within 30 days.
+23 (a1) State funds appropriated for a capital improvement project at a State agency that is
+24 not a public-private partnership project shall not be used in conjunction with or for the benefit of
+25 a public-private partnership project without express authorization by an act of the General
+26 Assembly. For the purposes of this subsection, the term "public-private partnership" means a
+27 capital improvement project undertaken for the benefit of a governmental entity and a private
+28 entity that may involve a contract, a financing arrangement, or other agreement, and includes
+29 construction of a public facility or other improvements, including paving, grading, utilities,
+30 infrastructure, reconstruction, or repair, and may include both public and private facilities.
+31 (b) Where direct capital improvement appropriations include the purpose of furnishing
+32 fixed and movable equipment for any project, those funds for equipment shall not be subject to
+33 transfer into construction accounts except as authorized by the Director of the Budget. The
+34 expenditure of funds for fixed and movable equipment and furnishings shall be reviewed and
+35 approved by the Director of the Budget prior to commitment of funds.
+36 (c) Capital improvement projects authorized by an act of the General Assembly shall be
+37 completed, including fixed and movable equipment and furnishings, within the limits of the
+38 amounts of the direct or self-liquidating appropriations provided, except as otherwise provided
+39 in that act. Capital improvement projects authorized by an act of the General Assembly for the
+40 design phase only shall be designed within the scope of the project as defined by the approved
+41 cost estimate filed with the Director of the Budget, including costs associated with site
+42 preparation, demolition, and movable and fixed equipment. Amounts contracted for projects
+43 authorized by the General Assembly cannot exceed the total project cost authorization.
+44 (d) Disbursement of funds from the State Capital and Infrastructure Fund for projects
+45 authorized by an act of the General Assembly shall be made as needed to initiate or advance a
+46 capital project. Funds authorized for any particular project shall remain in the State Capital and
+47 Infrastructure Fund until such time as disbursement is necessary to satisfy a financial obligation
+48 for that project."
+49
+50 PART VII. SEVERABILITY CLAUSE
+Page 8 House Bill 1123-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 7.1. If any section or provision of this act is declared unconstitutional or
+2 invalid by the courts, it does not affect the validity of this act as a whole or any part other than
+3 the part so declared to be unconstitutional or invalid.
+4
+5 PART VIII. EFFECTIVE DATE
+6 SECTION 8.1. Except as otherwise provided, this act is effective when it becomes
+7 law.
+House Bill 1123-Second Edition Page 9
+
+[DELETED:  2 U (   A A C A U T S R T C F C T  P S i C w f a t t i f g g r s i o a p S 1  T c i p a t r c a b f  N R $  N C $  U N $ P $  U W $  U P $ ]
+[DELETED:  S  H S C t f f t D o t B m c w t J L C o G S t b c o p f t p l i S 1 o t P T m p t c c s a S  P I S T R D P F A T T N C S O S A M S " A c s a p e b t B o T T a T e o 1 A G w h e l r ( i N C a m t l r c a a r f t p T d r d p a b t S E 2 s u s 1 o t s w p i a a d m o t A F a d i s p b e a t e o a s y d w a s b a n c T p n t e]
+[DELETED:  S  P d t m t t a o p p f t a n S 2  T s i e w i b l a a b w a f a t t N C S o S a M  P S a " M " ( D ( A a O b O c O ( E a T b T ( E G ( P h s g o t N C S o S a M ( S y ( P s U o N C S o t A t p t r o t h " ( W f ( I p t b ( E N h a h f a A b S c A d O]
+[DELETED:  S  H ( S a c F A f F S A ( f ( S o t u ( A s A e s m b c e f t i a u a T A s h t d t w t r i t s i a t d p ( A ( S ( A ( O ( T a " ( T t t A c w i p f a S f a T g d a A a p g t t e c t ( E e w s e s ( I a g a c i r b a a a d b t A s t t t a o s f t i T c o a s b d b t A f e c ( T A i b i]
+[DELETED:  S  P ( I a w s f ( T f S 3  T s i e w i b l a a b  P S " i ( N t o m ( C o ( D C t D o A a t D o O o S C ( D d B ( U P A f ( T B m d i a u s ( o t s t a c B ( T i u f S c i p b t O o S C o t D ( A t ( N a o p o t C t D o A ( T a c ( T f ( A ( T ( T]
+[DELETED:  S  H ( W t d o " b o " p a d i G S  P S " C c o S " e ( I o c w t d o a p a s o o e s p a s b p b a r a i a w t p w p C o o ( T p i ( f t r o p b b T U o N C o c i w s r d n i m ( O f ( O ( s ( O c u s r t s p a s b p b a r G S o b a r e i a w t p e i a t t N C s o s a o e t p … ( O p c o s]
+[DELETED:  S  P ( T p a s a a b t D o A i b t D o S C a t S E I ( T ( T t … S " N s h o h … S " ( B R – N c o r w r t e e a o m t d ( ( o p o a s m o e t t b a b o g b o t S o o a i o t S g c m l w F p c t t g b e t i d t t m s s r d o … S " S c i p o T U o N C a c c c m o S " … ( E ( T t ( T t]
+[DELETED:  S  H ( T o h N a  P S " ( A f a p p i B w s n b u w T a s b i u c p t s t J ( S n a p p p w e a b a a o t G A c e c o a p f o o i i p g u i ( W f t a e a ( C c a i d c e f w t D o t B i c a w s p a ( D a c I f  P]
+[DELETED:  S  P S i t  P S l]

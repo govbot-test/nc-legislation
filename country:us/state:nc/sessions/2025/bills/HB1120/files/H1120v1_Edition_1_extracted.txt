@@ -1,0 +1,186 @@
+Title: HOUSE BILL 1120
+Official Title: HOUSE BILL 1120
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Financial Effectiveness and Transparency Act. (Public)
+Sponsors: Representatives von Haefen, Butler, and Buansi (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT REDIRECTING STATE FUNDS FOR CRISIS PREGNANCY CENTERS TO
+3 EVIDENCE-BASED MATERNAL AND INFANT HEALTH PROGRAMS AND
+4 SERVICES ADMINISTERED BY THE DEPARTMENT OF HEALTH AND HUMAN
+5 SERVICES; AND LIMITING THE USE OF STATE FUNDS FOR CRISIS PREGNANCY
+6 CENTERS.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1. Notwithstanding Chapter 143C of the General Statutes or any other
+9 provision of law to the contrary, funds in the base budget for Carolina Pregnancy Care
+10 Fellowship, a nonprofit corporation, are reduced by the sum of six million seven hundred fifty
+11 thousand dollars ($6,750,000) in recurring funds beginning in the 2026-2027 fiscal year.
+12 SECTION 2. There is appropriated from the General Fund to the Department of
+13 Health and Human Services, Division of Public Health, the sum of six million seven hundred
+14 fifty thousand dollars ($6,750,000) in recurring funds beginning in the 2026-2027 fiscal year to
+15 support the expansion of evidence-based maternal and infant health programs and services
+16 administered by the Department of Health and Human Services, including the Healthy
+17 Beginnings program, the Safe Sleep NC Initiative, evidence-based home visiting programs such
+18 as the Nurse-Family Partnership, and other evidence-based programs selected by the Department
+19 of Health and Human Services, Division of Public Health.
+20 SECTION 3. Article 6 of Chapter 143C of the General Statutes is amended by adding
+21 a new section to read:
+22 "§ 143C-6-5.3. Limitations on the use of State funds for crisis pregnancy centers.
+23 (a) As used in this section, the term "crisis pregnancy center" means a nonprofit
+24 organization that holds itself out as a healthcare facility that provides care for pregnant women
+25 and other clients, such as pregnancy counseling services, pregnancy testing, ultrasound services,
+26 and other nonmedical pregnancy services. The term does not include a hospital, ambulatory
+27 surgical facility, or clinic that performs abortions.
+28 (b) A State agency is prohibited from allocating State funds to support or enter into a
+29 contract with a crisis pregnancy center unless the crisis pregnancy center has first provided all of
+30 the following information to the State agency:
+31 (1) For the most recently completed fiscal year, an organizational revenue budget
+32 that includes a breakdown of all sources of funding and the total amount of
+33 contributions by each of the following sources:
+34 a. Grants or appropriations by State and local governments.
+35 b. Grants or donations by foundations.
+*H1120-v-1*
+General Assembly Of North Carolina Session 2025
+1 c. Grants or donations by corporations.
+2 d. Donations by individuals.
+3 (2) An organizational expense budget for the most recently completed fiscal year
+4 listing the center's expenses in the same categories listed on IRS Form 990.
+5 (3) A program expense budget listing the amount of State funds that would be
+6 used in each expense category.
+7 (4) The number of full-time paid staff, part-time paid staff, and volunteers and,
+8 for each, how many are licensed healthcare professionals, indicating the
+9 relevant and current licensing information for each.
+10 (5) The number of unique clients served during the most recently completed fiscal
+11 year and, of that number, a breakdown of clients that received pregnancy tests,
+12 ultrasounds, STD/STI tests, pregnancy counseling, student sexual risk
+13 education, parenting education, and material support.
+14 (6) The amount of material support provided to clients by the center, including
+15 the number of diapers, packs of baby wipes, baby clothing outfits, car seats,
+16 strollers, cribs, and containers of baby formula and the numbers of clients
+17 receiving each category of material support.
+18 (c) By December 1 of each year in which the crisis pregnancy center is a recipient of
+19 State funds, the center shall provide an updated report of all of the information specified in
+20 subsection (a) of this section to the State agency that allocated State funds to the crisis pregnancy
+21 center.
+22 (d) Within 20 business days after receiving a request from a member of the public, a State
+23 agency that has allocated State funds to a crisis pregnancy center shall provide to the member of
+24 the public a copy of any document listed in subsection (a) of this section, with any individually
+25 identifiable health information redacted."
+26 SECTION 4. Article 16 of Chapter 131E of the General Statutes is amended by
+27 adding a new section to read:
+28 "§ 131E-269.50. Copies of crisis pregnancy center client records.
+29 (a) As used in this section, the term "crisis pregnancy center" means a nonprofit
+30 organization that holds itself out as a healthcare facility that provides care for pregnant women
+31 and other clients, such as pregnancy counseling services, pregnancy testing, ultrasound services,
+32 and other nonmedical pregnancy services. The term does not include a hospital, ambulatory
+33 surgical facility, or clinic that performs abortions.
+34 (b) Within 10 business days after receiving a request from a client, a crisis pregnancy
+35 center shall provide to the client, free of charge, a copy of all the client's records in its possession."
+36 SECTION 5. This act becomes effective July 1, 2026.
+Page 2 House Bill 1120-First Edition
+[DELETED:  1 F ( R R A A A R S F F C P C T E M A I H P A S A B T D O H A H S C T S p o l t t c f i t b b f C P C F t S H f s t e o e m a i h p a s a b t D o H a H S i t H B a o S a " ( A u i t s t t " p c m a n o a a s ( A c t ( F t c a G b G]
+[DELETED:  S  H c G d D ( A l ( A u ( T f e h m a l h p i t r ( T y u S t p c s s r e ( T t s r ( B S s c ( W a t i S a " ( A u i t s t t " p c m a n o a a s ( W c S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1120
+Short Title: Financial Effectiveness and Transparency Act. (Public)
+Sponsors: Representatives von Haefen, Butler, and Buansi (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT REDIRECTING STATE FUNDS FOR CRISIS PREGNANCY CENTERS TO
+3 EVIDENCE-BASED MATERNAL AND INFANT HEALTH PROGRAMS AND
+4 SERVICES ADMINISTERED BY THE DEPARTMENT OF HEALTH AND HUMAN
+5 SERVICES; AND LIMITING THE USE OF STATE FUNDS FOR CRISIS PREGNANCY
+6 CENTERS.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1. Notwithstanding Chapter 143C of the General Statutes or any other
+9 provision of law to the contrary, funds in the base budget for Carolina Pregnancy Care
+10 Fellowship, a nonprofit corporation, are reduced by the sum of six million seven hundred fifty
+11 thousand dollars ($6,750,000) in recurring funds beginning in the 2026-2027 fiscal year.
+12 SECTION 2. There is appropriated from the General Fund to the Department of
+13 Health and Human Services, Division of Public Health, the sum of six million seven hundred
+14 fifty thousand dollars ($6,750,000) in recurring funds beginning in the 2026-2027 fiscal year to
+15 support the expansion of evidence-based maternal and infant health programs and services
+16 administered by the Department of Health and Human Services, including the Healthy
+17 Beginnings program, the Safe Sleep NC Initiative, evidence-based home visiting programs such
+18 as the Nurse-Family Partnership, and other evidence-based programs selected by the Department
+19 of Health and Human Services, Division of Public Health.
+20 SECTION 3. Article 6 of Chapter 143C of the General Statutes is amended by adding
+21 a new section to read:
+22 "§ 143C-6-5.3. Limitations on the use of State funds for crisis pregnancy centers.
+23 (a) As used in this section, the term "crisis pregnancy center" means a nonprofit
+24 organization that holds itself out as a healthcare facility that provides care for pregnant women
+25 and other clients, such as pregnancy counseling services, pregnancy testing, ultrasound services,
+26 and other nonmedical pregnancy services. The term does not include a hospital, ambulatory
+27 surgical facility, or clinic that performs abortions.
+28 (b) A State agency is prohibited from allocating State funds to support or enter into a
+29 contract with a crisis pregnancy center unless the crisis pregnancy center has first provided all of
+30 the following information to the State agency:
+31 (1) For the most recently completed fiscal year, an organizational revenue budget
+32 that includes a breakdown of all sources of funding and the total amount of
+33 contributions by each of the following sources:
+34 a. Grants or appropriations by State and local governments.
+35 b. Grants or donations by foundations.
+*H1120-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 c. Grants or donations by corporations.
+2 d. Donations by individuals.
+3 (2) An organizational expense budget for the most recently completed fiscal year
+4 listing the center's expenses in the same categories listed on IRS Form 990.
+5 (3) A program expense budget listing the amount of State funds that would be
+6 used in each expense category.
+7 (4) The number of full-time paid staff, part-time paid staff, and volunteers and,
+8 for each, how many are licensed healthcare professionals, indicating the
+9 relevant and current licensing information for each.
+10 (5) The number of unique clients served during the most recently completed fiscal
+11 year and, of that number, a breakdown of clients that received pregnancy tests,
+12 ultrasounds, STD/STI tests, pregnancy counseling, student sexual risk
+13 education, parenting education, and material support.
+14 (6) The amount of material support provided to clients by the center, including
+15 the number of diapers, packs of baby wipes, baby clothing outfits, car seats,
+16 strollers, cribs, and containers of baby formula and the numbers of clients
+17 receiving each category of material support.
+18 (c) By December 1 of each year in which the crisis pregnancy center is a recipient of
+19 State funds, the center shall provide an updated report of all of the information specified in
+20 subsection (a) of this section to the State agency that allocated State funds to the crisis pregnancy
+21 center.
+22 (d) Within 20 business days after receiving a request from a member of the public, a State
+23 agency that has allocated State funds to a crisis pregnancy center shall provide to the member of
+24 the public a copy of any document listed in subsection (a) of this section, with any individually
+25 identifiable health information redacted."
+26 SECTION 4. Article 16 of Chapter 131E of the General Statutes is amended by
+27 adding a new section to read:
+28 "§ 131E-269.50. Copies of crisis pregnancy center client records.
+29 (a) As used in this section, the term "crisis pregnancy center" means a nonprofit
+30 organization that holds itself out as a healthcare facility that provides care for pregnant women
+31 and other clients, such as pregnancy counseling services, pregnancy testing, ultrasound services,
+32 and other nonmedical pregnancy services. The term does not include a hospital, ambulatory
+33 surgical facility, or clinic that performs abortions.
+34 (b) Within 10 business days after receiving a request from a client, a crisis pregnancy
+35 center shall provide to the client, free of charge, a copy of all the client's records in its possession."
+36 SECTION 5. This act becomes effective July 1, 2026.
+Page 2 House Bill 1120-First Edition
+
+[DELETED:  1 F ( R R A A A R S F F C P C T E M A I H P A S A B T D O H A H S C T S p o l t t c f i t b b f C P C F t S H f s t e o e m a i h p a s a b t D o H a H S i t H B a o S a " ( A u i t s t t " p c m a n o a a s ( A c t ( F t c a G b G]
+[DELETED:  S  H c G d D ( A l ( A u ( T f e h m a l h p i t r ( T y u S t p c s s r e ( T t s r ( B S s c ( W a t i S a " ( A u i t s t t " p c m a n o a a s ( W c S]

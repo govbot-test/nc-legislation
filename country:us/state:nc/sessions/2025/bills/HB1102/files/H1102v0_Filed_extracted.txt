@@ -1,0 +1,475 @@
+Title: HOUSE BILL DRH10610-NSfa-6
+Official Title: HOUSE BILL DRH10610-NSfa-6
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+H.B. 1102
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 29, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Fuel Gas Safety Act. (Public)
+Sponsors: Representative Reives.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE INSTALLATION AND MAINTENANCE OF FUEL GAS
+3 DETECTORS IN ROOMS OR AREAS CONTAINING AN APPLIANCE FUELED BY
+4 PROPANE, NATURAL GAS, OR ANY LIQUIFIED PETROLEUM GAS FOR CERTAIN
+5 RESIDENTIAL, COMMERCIAL, AND PUBLIC HIGHER EDUCATION BUILDINGS.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. G.S. 42-40 reads as rewritten:
+8 "§ 42-40. Definitions.
+9 For the purpose of this Article, the following definitions shall apply:
+10 (1) "Action" includes recoupment, Action. – A recoupment, counterclaim,
+11 defense, setoff, and any other proceeding including an action for possession.
+12 (1a) Fuel gas detector. – A device that (i) has an assembly that incorporates a
+13 sensor and an alarm that detects elevations in propane, natural gas, or a
+14 liquified petroleum gas, (ii) sounds a warning alarm, (iii) is battery-operated,
+15 plugged into an electrical outlet, or hardwired, and (iv) is approved by a
+16 nationally recognized independent testing laboratory.
+17 (1b) Landlord. – Any owner and any rental management company, rental agency,
+18 or any other person having the actual or apparent authority of an agent to
+19 perform the duties imposed by this Article.
+20 (2) "Premises" means a Premises. – A dwelling unit, including mobile homes or
+21 mobile home spaces, and the structure of which it is a part and facilities and
+22 appurtenances therein and grounds, areas, and facilities normally held out for
+23 the use of residential tenants.
+24 (3) "Landlord" means any owner and any rental management company, rental
+25 agency, or any other person having the actual or apparent authority of an agent
+26 to perform the duties imposed by this Article.
+27 (4) "Protected tenant" means a tenant or household member who is a victim of
+28 domestic violence under Chapter 50B of the General Statutes or sexual assault
+29 or stalking under Chapter 14 of the General Statutes.
+30 (3) Protected tenant. – A tenant or household member who is a victim of domestic
+31 violence under Chapter 50B of the General Statutes or sexual assault or
+32 stalking under Chapter 14 of the General Statutes."
+33 SECTION 2. G.S. 42-42 reads as rewritten:
+34 "§ 42-42. Landlord to provide fit premises.
+35 (a) The landlord shall:
+36 …
+*DRH10610-NSfa-6*
+General Assembly Of North Carolina Session 2025
+1 (7a) Install a minimum of one operable fuel gas detector in every room of the
+2 premises containing an appliance fueled by propane, natural gas, or a liquified
+3 petroleum gas. The landlord who acquires the premises shall install fuel gas
+4 detectors within 30 days of acquisition if compliant fuel gas detectors are not
+5 already installed. At the beginning of each tenancy, the landlord shall ensure
+6 that each fuel gas detector is in working order and unless the landlord and the
+7 tenant have a written agreement to the contrary, the landlord shall place new
+8 batteries in a battery-operated fuel gas detector. The landlord shall keep each
+9 fuel gas detector within the tenant's unit in working condition by keeping the
+10 fuel gas detector connected to the electrical service in the building or keeping
+11 charged batteries in a battery-operated fuel gas detector, testing the fuel gas
+12 detector periodically, and refraining from disabling the fuel gas detector. The
+13 landlord shall immediately replace or repair the fuel gas detector upon receipt
+14 of written notice of a deficiency with a fuel gas detector. If the landlord does
+15 not have actual knowledge or has not been notified in writing of the need to
+16 repair or replace a fuel gas detector, then the landlord's failure to repair or
+17 replace the fuel gas detector must not be considered evidence of negligence in
+18 a subsequent civil action arising from death, property loss, or personal injury.
+19 (7b) A device that functions as both a carbon monoxide alarm and a fuel gas
+20 detector may be used to comply with subdivisions (7) and (7a) of this
+21 subsection if the device satisfies the applicable requirements of those
+22 subdivisions.
+23 …."
+24 SECTION 3. G.S. 42-43(a) reads as rewritten:
+25 "§ 42-43. Tenant to maintain dwelling unit.
+26 (a) The tenant shall:
+27 …
+28 (4) Not deliberately or negligently destroy, deface, damage, or remove any part
+29 of the premises, nor render inoperable the smoke alarm or alarm, carbon
+30 monoxide alarm alarm, or fuel gas detector provided by the landlord, or
+31 knowingly permit any person to do so.
+32 …
+33 (7) Notify the landlord, in writing, of the need for replacement of or repairs to a
+34 smoke alarm or alarm, carbon monoxide alarm. alarm, or fuel gas detector.
+35 The landlord shall ensure that a smoke alarm and alarm, carbon monoxide
+36 alarm alarm, and fuel gas detector are operable and in good repair at the
+37 beginning of each tenancy. Unless the landlord and the tenant have a written
+38 agreement to the contrary, the landlord shall place new batteries in a
+39 battery-operated smoke alarm battery-operated carbon monoxide alarm at the
+40 beginning of a tenancy and the tenant shall replace the batteries as needed
+41 during the tenancy, except where the smoke alarm is a tamper-resistant,
+42 10-year lithium battery smoke alarm as required by G.S. 42-42(a)(5a). Failure
+43 of the tenant to replace the batteries as needed shall not be considered as
+44 negligence on the part of the tenant or the landlord."
+45 SECTION 4. G.S. 42-44 is amended by adding a new subsection to read:
+46 "(a3) If the landlord fails to provide, install, replace, or repair a fuel gas detector under the
+47 provisions of this Article, the landlord shall be subject to a civil penalty of not more than five
+48 hundred dollars ($500.00) per violation. The State Fire Marshal may (i) assess a civil penalty for
+49 each violation under this subsection and (ii) waive a civil penalty against a violator upon
+50 satisfactory proof that the violation was corrected within 10 days after the issuance of a complaint
+Page 2 DRH10610-NSfa-6
+General Assembly Of North Carolina Session 2025
+1 of violation. The clear proceeds of a civil penalty under this subsection shall be remitted to the
+2 Civil Penalty and Forfeiture Fund in accordance with G.S. 115C-457.2."
+3 SECTION 5. G.S. 42-51(a) reads as rewritten:
+4 "§ 42-51. Permitted uses of the deposit.
+5 (a) Security deposits for residential dwelling units shall be permitted only for the
+6 following:
+7 …
+8 (2) Damage to the premises, including damage to or destruction of smoke alarms
+9 or alarms, carbon monoxide alarms.alarms, or fuel gas detectors.
+10 …."
+11 SECTION 6. G.S. 143-138 is amended by adding a new subsection to read:
+12 "(b25) Fuel Gas Detectors. – The Code shall contain provisions requiring a building owner
+13 to install and maintain at least one fuel gas detector, in accordance with the manufacturer's
+14 instructions and as otherwise required by the Code, in each room or area containing an appliance
+15 fueled by propane, natural gas, or liquified petroleum gas in (i) buildings and structures subject
+16 to the North Carolina Residential Code, (ii) multifamily residential occupancies in buildings and
+17 structures not subject to the North Carolina Residential Code, (iii) commercial occupancies,
+18 including factories, offices, and warehouses, and (iv) public higher education facilities. For
+19 commercial occupancies, the Code may also require installation in other areas susceptible to a
+20 propane, natural gas, or liquified petroleum gas leak. For purposes of this subsection, a "fuel gas
+21 detector" is a device listed by a nationally recognized testing laboratory that incorporates a sensor
+22 and an alarm and that detects elevations in propane, natural gas, or liquified petroleum gas and
+23 sounds a warning alarm. For purposes of this subsection, "public higher education facility" means
+24 a building or structure owned, leased, or operated for use by a constituent institution of The
+25 University of North Carolina or an institution of the North Carolina Community College System.
+26 Compliance with G.S. 116-11(3d) or G.S. 115D-6.3, as applicable, satisfies the requirements of
+27 this subsection for public higher education facilities to the extent the applicable policy requires
+28 fuel gas detectors or other technologies that meet or exceed performance requirements for fuel
+29 gas detection. Violations of this subsection and rules adopted pursuant to this subsection shall be
+30 punishable in accordance with subsection (h) of this section and G.S. 143-139."
+31 SECTION 7.(a) G.S. 143-139 is amended by adding a new subsection to read:
+32 "(b2) Fuel Gas Detector Civil Penalty. – In jurisdictions where a county, city, or other
+33 political subdivision provides inspection services under Article 11 of Chapter 160D of the
+34 General Statutes and is authorized to enforce the North Carolina State Building Code within its
+35 jurisdiction, the local government may enforce G.S. 143-138(b25), inspect buildings and
+36 structures subject to G.S. 143-138(b25), and assess a civil penalty of not more than five hundred
+37 dollars ($500.00) per violation of G.S. 143-138(b25), rules adopted pursuant to
+38 G.S. 143-138(b25), or, as applicable to public higher education facilities, policies adopted
+39 pursuant to G.S. 116-11(3d) or G.S. 115D-6.3. A local government or State official assessing a
+40 civil penalty under this subsection may waive the civil penalty upon satisfactory proof that the
+41 violation was corrected within 10 days after notice of the violation. If a local government fails to
+42 provide inspection services or ceases to exercise jurisdiction, the State Fire Marshal or other State
+43 official with responsibility under this section may enforce G.S. 143-138(b25), inspect buildings
+44 and structures subject to G.S. 143-138(b25), and assess the same civil penalty. This subsection
+45 does not apply where a landlord is subject to a civil penalty under G.S. 42-44(a3) for the same
+46 violation. A civil penalty imposed under this subsection may be recovered in a civil action in the
+47 nature of debt if the offender does not pay the penalty within a prescribed period after citation or
+48 notice of violation. If the State Fire Marshal or other State official institutes an action or
+49 proceeding under this subsection, a county, city, or other political subdivision shall not institute
+50 a civil action under this subsection based upon the same violation. Notwithstanding the last
+51 sentence of subsection (b1) of this section, appeals from the imposition of a civil penalty under
+DRH10610-NSfa-6 Page 3
+General Assembly Of North Carolina Session 2025
+1 this subsection by a county, city, or other political subdivision shall be as provided in
+2 G.S. 160D-1127, and appeals from the imposition of a civil penalty under this subsection by the
+3 State Fire Marshal or other State official shall be as provided in G.S. 143-140 and G.S. 143-141.
+4 The clear proceeds of civil penalties collected under this subsection shall be remitted to the Civil
+5 Penalty and Forfeiture Fund in accordance with G.S. 115C-457.2."
+6 SECTION 7.(b) G.S. 143-139(e) reads as rewritten:
+7 "(e) State Buildings. – With respect to State buildings, the Department of Administration
+8 shall have general supervision, through the Office of State Construction, of the administration
+9 and enforcement of all sections of the North Carolina State Building Code pertaining to
+10 plumbing, electrical systems, general building restrictions and regulations, heating and air
+11 conditioning, fire protection, and the construction of buildings generally, except those sections
+12 of the Code the enforcement of which is specifically allocated to other agencies by subsections
+13 (c) and (d) of this section, and shall also exercise all remedies as provided in subsection (b1)
+14 subsections (b1) and (b2) of this section. The Department of Administration shall be the only
+15 agency with the authority to seek remedies pursuant to this section with respect to State buildings.
+16 Except as provided herein, nothing in this subsection shall be construed to abrogate the authority
+17 of the State Fire Marshal under G.S. 58-31-41 or any other provision of law. For the purposes of
+18 this subsection, "State buildings" does not include buildings, facilities, or projects located on
+19 State lands that are (i) privately owned or privately leased and (ii) located within the North
+20 Carolina Global TransPark."
+21 SECTION 8. G.S. 116-11 is amended by adding a new subdivision to read:
+22 "(3d) Fuel gas safety policy. – The Board of Governors shall adopt a policy to be
+23 applied uniformly throughout The University of North Carolina for buildings
+24 and structures owned, leased, or operated by constituent institutions. The
+25 policy shall do all of the following:
+26 a. Address the identification, evaluation, and mitigation of risks
+27 associated with fuel gas systems and fuel-gas-burning appliances or
+28 equipment.
+29 b. Require the installation or retrofitting, where appropriate, of fuel gas
+30 detectors in accordance with manufacturer's instructions and
+31 applicable nationally recognized standards.
+32 c. Provide that installation or retrofitting is not required in a location
+33 where centralized monitoring systems, networked detection systems,
+34 or other technologies are already in use that meet or exceed
+35 performance requirements for fuel gas detection."
+36 SECTION 9. Article 1 of Chapter 115D of the General Statutes is amended by
+37 adding a new section to read:
+38 "§ 115D-6.3. Fuel gas safety policy.
+39 The State Board of Community Colleges shall adopt a policy to be applied uniformly
+40 throughout the Community College System for buildings and structures owned, leased, or
+41 operated by community colleges. The policy shall do all of the following:
+42 (1) Address the identification, evaluation, and mitigation of risks associated with
+43 fuel gas systems and fuel-gas-burning appliances or equipment.
+44 (2) Require the installation or retrofitting, where appropriate, of fuel gas detectors
+45 in accordance with manufacturer's instructions and applicable nationally
+46 recognized standards.
+47 (3) Provide that installation or retrofitting is not required in a location where
+48 centralized monitoring systems, networked detection systems, or other
+49 technologies are already in use that meet or exceed performance requirements
+50 for fuel gas detection."
+Page 4 DRH10610-NSfa-6
+General Assembly Of North Carolina Session 2025
+1 SECTION 10.(a) The Board of Governors of The University of North Carolina shall
+2 adopt the policy required by G.S. 116-11(3d), as enacted by this act, no later than July 1, 2027.
+3 Each constituent institution subject to that policy shall implement the policy no later than July 1,
+4 2030.
+5 SECTION 10.(b) The State Board of Community Colleges shall adopt the policy
+6 required by G.S. 115D-6.3, as enacted by this act, no later than July 1, 2027. Each community
+7 college subject to that policy shall implement the policy no later than July 1, 2030.
+8 SECTION 10.(c) Notwithstanding G.S. 143-138(b25), as enacted by Section 6 of
+9 this act, a public higher education facility shall not be required to comply with the public higher
+10 education provisions of that subsection until the date by which the applicable institution must
+11 implement the policy adopted pursuant to G.S. 116-11(3d) or G.S. 115D-6.3. After that date,
+12 compliance with the applicable policy shall satisfy G.S. 143-138(b25) to the extent provided in
+13 that subsection.
+14 SECTION 11. There is appropriated from the General Fund to the Office of the State
+15 Fire Marshal the sum of three hundred thousand dollars ($300,000) in nonrecurring funds for the
+16 2026-2027 fiscal year to be used to implement the provisions of this act.
+17 SECTION 12. This act is effective when it becomes law.
+DRH10610-NSfa-6 Page 5
+[DELETED:  D F ( R  A A A T R T I A M O F G D P R T S " F ( " i r A – A r c d ( F s a a a t d e i p n g o a l p i a e o o h a ( i a b a n ( L o p ( " m a t ( " a t ( " d o ( P v u C 5 o t G S o s a o s S " ( T …]
+[DELETED:  S  D ( I p p d a t t b f f c d l o n r r a ( A d t f a b a c m a a a f g d m b u t c w s ( a ( o t s i t d s t a r o t s … S " ( T … ( N o t p n r i t s a o a c m a a o f g d p b t l o k … ( N s T a a a b a t t c t l s p n b i a b b d t t e w t s a i a t 1 o n S " I p h e v u t s a ( w a c p a a v u s]
+[DELETED:  S  P o C S " ( S d f r d u s b p o f t f … ( D o … S " F t i f t s i f o a w a ( p h e f F c p d a s a U C t f g p S " F p s p i s u A 1 o C 1 o t G j t l g m e G i b a s d ( p v o G r a p t G o a a t p h e f p a p c v p o a d v n n o v I t S F M o o S o i a a o p a s]
+[DELETED:  S  D t s b a c c o o p s s b a p i G S T P S " S s a e o a s o t N C S B C p t p e s g b r a r h a a c o ( s a E o t S C S " F a a s o l o o b c i T p a A t i e a m o r a e b R d i a w m i a a c P w o o t a a i u t m o e p S a " T S B o C C s a a p t b a u t t C C S f b a s o l o o ( A f ( R i a w m i a a n r ( P c m s n d s o o t f]
+[DELETED:  S  P S a E 2 S r c S t e i c t S F 2 S]
+
+
+================================================================================
+
+Raw Text:
+H.B. 1102
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 29, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH10610-NSfa-6
+Short Title: Fuel Gas Safety Act. (Public)
+Sponsors: Representative Reives.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE INSTALLATION AND MAINTENANCE OF FUEL GAS
+3 DETECTORS IN ROOMS OR AREAS CONTAINING AN APPLIANCE FUELED BY
+4 PROPANE, NATURAL GAS, OR ANY LIQUIFIED PETROLEUM GAS FOR CERTAIN
+5 RESIDENTIAL, COMMERCIAL, AND PUBLIC HIGHER EDUCATION BUILDINGS.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. G.S. 42-40 reads as rewritten:
+8 "§ 42-40. Definitions.
+9 For the purpose of this Article, the following definitions shall apply:
+10 (1) "Action" includes recoupment, Action. – A recoupment, counterclaim,
+11 defense, setoff, and any other proceeding including an action for possession.
+12 (1a) Fuel gas detector. – A device that (i) has an assembly that incorporates a
+13 sensor and an alarm that detects elevations in propane, natural gas, or a
+14 liquified petroleum gas, (ii) sounds a warning alarm, (iii) is battery-operated,
+15 plugged into an electrical outlet, or hardwired, and (iv) is approved by a
+16 nationally recognized independent testing laboratory.
+17 (1b) Landlord. – Any owner and any rental management company, rental agency,
+18 or any other person having the actual or apparent authority of an agent to
+19 perform the duties imposed by this Article.
+20 (2) "Premises" means a Premises. – A dwelling unit, including mobile homes or
+21 mobile home spaces, and the structure of which it is a part and facilities and
+22 appurtenances therein and grounds, areas, and facilities normally held out for
+23 the use of residential tenants.
+24 (3) "Landlord" means any owner and any rental management company, rental
+25 agency, or any other person having the actual or apparent authority of an agent
+26 to perform the duties imposed by this Article.
+27 (4) "Protected tenant" means a tenant or household member who is a victim of
+28 domestic violence under Chapter 50B of the General Statutes or sexual assault
+29 or stalking under Chapter 14 of the General Statutes.
+30 (3) Protected tenant. – A tenant or household member who is a victim of domestic
+31 violence under Chapter 50B of the General Statutes or sexual assault or
+32 stalking under Chapter 14 of the General Statutes."
+33 SECTION 2. G.S. 42-42 reads as rewritten:
+34 "§ 42-42. Landlord to provide fit premises.
+35 (a) The landlord shall:
+36 …
+*DRH10610-NSfa-6*
+
+General Assembly Of North Carolina Session 2025
+1 (7a) Install a minimum of one operable fuel gas detector in every room of the
+2 premises containing an appliance fueled by propane, natural gas, or a liquified
+3 petroleum gas. The landlord who acquires the premises shall install fuel gas
+4 detectors within 30 days of acquisition if compliant fuel gas detectors are not
+5 already installed. At the beginning of each tenancy, the landlord shall ensure
+6 that each fuel gas detector is in working order and unless the landlord and the
+7 tenant have a written agreement to the contrary, the landlord shall place new
+8 batteries in a battery-operated fuel gas detector. The landlord shall keep each
+9 fuel gas detector within the tenant's unit in working condition by keeping the
+10 fuel gas detector connected to the electrical service in the building or keeping
+11 charged batteries in a battery-operated fuel gas detector, testing the fuel gas
+12 detector periodically, and refraining from disabling the fuel gas detector. The
+13 landlord shall immediately replace or repair the fuel gas detector upon receipt
+14 of written notice of a deficiency with a fuel gas detector. If the landlord does
+15 not have actual knowledge or has not been notified in writing of the need to
+16 repair or replace a fuel gas detector, then the landlord's failure to repair or
+17 replace the fuel gas detector must not be considered evidence of negligence in
+18 a subsequent civil action arising from death, property loss, or personal injury.
+19 (7b) A device that functions as both a carbon monoxide alarm and a fuel gas
+20 detector may be used to comply with subdivisions (7) and (7a) of this
+21 subsection if the device satisfies the applicable requirements of those
+22 subdivisions.
+23 …."
+24 SECTION 3. G.S. 42-43(a) reads as rewritten:
+25 "§ 42-43. Tenant to maintain dwelling unit.
+26 (a) The tenant shall:
+27 …
+28 (4) Not deliberately or negligently destroy, deface, damage, or remove any part
+29 of the premises, nor render inoperable the smoke alarm or alarm, carbon
+30 monoxide alarm alarm, or fuel gas detector provided by the landlord, or
+31 knowingly permit any person to do so.
+32 …
+33 (7) Notify the landlord, in writing, of the need for replacement of or repairs to a
+34 smoke alarm or alarm, carbon monoxide alarm. alarm, or fuel gas detector.
+35 The landlord shall ensure that a smoke alarm and alarm, carbon monoxide
+36 alarm alarm, and fuel gas detector are operable and in good repair at the
+37 beginning of each tenancy. Unless the landlord and the tenant have a written
+38 agreement to the contrary, the landlord shall place new batteries in a
+39 battery-operated smoke alarm battery-operated carbon monoxide alarm at the
+40 beginning of a tenancy and the tenant shall replace the batteries as needed
+41 during the tenancy, except where the smoke alarm is a tamper-resistant,
+42 10-year lithium battery smoke alarm as required by G.S. 42-42(a)(5a). Failure
+43 of the tenant to replace the batteries as needed shall not be considered as
+44 negligence on the part of the tenant or the landlord."
+45 SECTION 4. G.S. 42-44 is amended by adding a new subsection to read:
+46 "(a3) If the landlord fails to provide, install, replace, or repair a fuel gas detector under the
+47 provisions of this Article, the landlord shall be subject to a civil penalty of not more than five
+48 hundred dollars ($500.00) per violation. The State Fire Marshal may (i) assess a civil penalty for
+49 each violation under this subsection and (ii) waive a civil penalty against a violator upon
+50 satisfactory proof that the violation was corrected within 10 days after the issuance of a complaint
+Page 2 DRH10610-NSfa-6
+
+General Assembly Of North Carolina Session 2025
+1 of violation. The clear proceeds of a civil penalty under this subsection shall be remitted to the
+2 Civil Penalty and Forfeiture Fund in accordance with G.S. 115C-457.2."
+3 SECTION 5. G.S. 42-51(a) reads as rewritten:
+4 "§ 42-51. Permitted uses of the deposit.
+5 (a) Security deposits for residential dwelling units shall be permitted only for the
+6 following:
+7 …
+8 (2) Damage to the premises, including damage to or destruction of smoke alarms
+9 or alarms, carbon monoxide alarms.alarms, or fuel gas detectors.
+10 …."
+11 SECTION 6. G.S. 143-138 is amended by adding a new subsection to read:
+12 "(b25) Fuel Gas Detectors. – The Code shall contain provisions requiring a building owner
+13 to install and maintain at least one fuel gas detector, in accordance with the manufacturer's
+14 instructions and as otherwise required by the Code, in each room or area containing an appliance
+15 fueled by propane, natural gas, or liquified petroleum gas in (i) buildings and structures subject
+16 to the North Carolina Residential Code, (ii) multifamily residential occupancies in buildings and
+17 structures not subject to the North Carolina Residential Code, (iii) commercial occupancies,
+18 including factories, offices, and warehouses, and (iv) public higher education facilities. For
+19 commercial occupancies, the Code may also require installation in other areas susceptible to a
+20 propane, natural gas, or liquified petroleum gas leak. For purposes of this subsection, a "fuel gas
+21 detector" is a device listed by a nationally recognized testing laboratory that incorporates a sensor
+22 and an alarm and that detects elevations in propane, natural gas, or liquified petroleum gas and
+23 sounds a warning alarm. For purposes of this subsection, "public higher education facility" means
+24 a building or structure owned, leased, or operated for use by a constituent institution of The
+25 University of North Carolina or an institution of the North Carolina Community College System.
+26 Compliance with G.S. 116-11(3d) or G.S. 115D-6.3, as applicable, satisfies the requirements of
+27 this subsection for public higher education facilities to the extent the applicable policy requires
+28 fuel gas detectors or other technologies that meet or exceed performance requirements for fuel
+29 gas detection. Violations of this subsection and rules adopted pursuant to this subsection shall be
+30 punishable in accordance with subsection (h) of this section and G.S. 143-139."
+31 SECTION 7.(a) G.S. 143-139 is amended by adding a new subsection to read:
+32 "(b2) Fuel Gas Detector Civil Penalty. – In jurisdictions where a county, city, or other
+33 political subdivision provides inspection services under Article 11 of Chapter 160D of the
+34 General Statutes and is authorized to enforce the North Carolina State Building Code within its
+35 jurisdiction, the local government may enforce G.S. 143-138(b25), inspect buildings and
+36 structures subject to G.S. 143-138(b25), and assess a civil penalty of not more than five hundred
+37 dollars ($500.00) per violation of G.S. 143-138(b25), rules adopted pursuant to
+38 G.S. 143-138(b25), or, as applicable to public higher education facilities, policies adopted
+39 pursuant to G.S. 116-11(3d) or G.S. 115D-6.3. A local government or State official assessing a
+40 civil penalty under this subsection may waive the civil penalty upon satisfactory proof that the
+41 violation was corrected within 10 days after notice of the violation. If a local government fails to
+42 provide inspection services or ceases to exercise jurisdiction, the State Fire Marshal or other State
+43 official with responsibility under this section may enforce G.S. 143-138(b25), inspect buildings
+44 and structures subject to G.S. 143-138(b25), and assess the same civil penalty. This subsection
+45 does not apply where a landlord is subject to a civil penalty under G.S. 42-44(a3) for the same
+46 violation. A civil penalty imposed under this subsection may be recovered in a civil action in the
+47 nature of debt if the offender does not pay the penalty within a prescribed period after citation or
+48 notice of violation. If the State Fire Marshal or other State official institutes an action or
+49 proceeding under this subsection, a county, city, or other political subdivision shall not institute
+50 a civil action under this subsection based upon the same violation. Notwithstanding the last
+51 sentence of subsection (b1) of this section, appeals from the imposition of a civil penalty under
+DRH10610-NSfa-6 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 this subsection by a county, city, or other political subdivision shall be as provided in
+2 G.S. 160D-1127, and appeals from the imposition of a civil penalty under this subsection by the
+3 State Fire Marshal or other State official shall be as provided in G.S. 143-140 and G.S. 143-141.
+4 The clear proceeds of civil penalties collected under this subsection shall be remitted to the Civil
+5 Penalty and Forfeiture Fund in accordance with G.S. 115C-457.2."
+6 SECTION 7.(b) G.S. 143-139(e) reads as rewritten:
+7 "(e) State Buildings. – With respect to State buildings, the Department of Administration
+8 shall have general supervision, through the Office of State Construction, of the administration
+9 and enforcement of all sections of the North Carolina State Building Code pertaining to
+10 plumbing, electrical systems, general building restrictions and regulations, heating and air
+11 conditioning, fire protection, and the construction of buildings generally, except those sections
+12 of the Code the enforcement of which is specifically allocated to other agencies by subsections
+13 (c) and (d) of this section, and shall also exercise all remedies as provided in subsection (b1)
+14 subsections (b1) and (b2) of this section. The Department of Administration shall be the only
+15 agency with the authority to seek remedies pursuant to this section with respect to State buildings.
+16 Except as provided herein, nothing in this subsection shall be construed to abrogate the authority
+17 of the State Fire Marshal under G.S. 58-31-41 or any other provision of law. For the purposes of
+18 this subsection, "State buildings" does not include buildings, facilities, or projects located on
+19 State lands that are (i) privately owned or privately leased and (ii) located within the North
+20 Carolina Global TransPark."
+21 SECTION 8. G.S. 116-11 is amended by adding a new subdivision to read:
+22 "(3d) Fuel gas safety policy. – The Board of Governors shall adopt a policy to be
+23 applied uniformly throughout The University of North Carolina for buildings
+24 and structures owned, leased, or operated by constituent institutions. The
+25 policy shall do all of the following:
+26 a. Address the identification, evaluation, and mitigation of risks
+27 associated with fuel gas systems and fuel-gas-burning appliances or
+28 equipment.
+29 b. Require the installation or retrofitting, where appropriate, of fuel gas
+30 detectors in accordance with manufacturer's instructions and
+31 applicable nationally recognized standards.
+32 c. Provide that installation or retrofitting is not required in a location
+33 where centralized monitoring systems, networked detection systems,
+34 or other technologies are already in use that meet or exceed
+35 performance requirements for fuel gas detection."
+36 SECTION 9. Article 1 of Chapter 115D of the General Statutes is amended by
+37 adding a new section to read:
+38 "§ 115D-6.3. Fuel gas safety policy.
+39 The State Board of Community Colleges shall adopt a policy to be applied uniformly
+40 throughout the Community College System for buildings and structures owned, leased, or
+41 operated by community colleges. The policy shall do all of the following:
+42 (1) Address the identification, evaluation, and mitigation of risks associated with
+43 fuel gas systems and fuel-gas-burning appliances or equipment.
+44 (2) Require the installation or retrofitting, where appropriate, of fuel gas detectors
+45 in accordance with manufacturer's instructions and applicable nationally
+46 recognized standards.
+47 (3) Provide that installation or retrofitting is not required in a location where
+48 centralized monitoring systems, networked detection systems, or other
+49 technologies are already in use that meet or exceed performance requirements
+50 for fuel gas detection."
+Page 4 DRH10610-NSfa-6
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 10.(a) The Board of Governors of The University of North Carolina shall
+2 adopt the policy required by G.S. 116-11(3d), as enacted by this act, no later than July 1, 2027.
+3 Each constituent institution subject to that policy shall implement the policy no later than July 1,
+4 2030.
+5 SECTION 10.(b) The State Board of Community Colleges shall adopt the policy
+6 required by G.S. 115D-6.3, as enacted by this act, no later than July 1, 2027. Each community
+7 college subject to that policy shall implement the policy no later than July 1, 2030.
+8 SECTION 10.(c) Notwithstanding G.S. 143-138(b25), as enacted by Section 6 of
+9 this act, a public higher education facility shall not be required to comply with the public higher
+10 education provisions of that subsection until the date by which the applicable institution must
+11 implement the policy adopted pursuant to G.S. 116-11(3d) or G.S. 115D-6.3. After that date,
+12 compliance with the applicable policy shall satisfy G.S. 143-138(b25) to the extent provided in
+13 that subsection.
+14 SECTION 11. There is appropriated from the General Fund to the Office of the State
+15 Fire Marshal the sum of three hundred thousand dollars ($300,000) in nonrecurring funds for the
+16 2026-2027 fiscal year to be used to implement the provisions of this act.
+17 SECTION 12. This act is effective when it becomes law.
+DRH10610-NSfa-6 Page 5
+
+[DELETED:  D F ( R  A A A T R T I A M O F G D P R T S " F ( " i r A – A r c d ( F s a a a t d e i p n g o a l p i a e o o h a ( i a b a n ( L o p ( " m a t ( " a t ( " d o ( P v u C 5 o t G S o s a o s S " ( T …]
+[DELETED:  S  D ( I p p d a t t b f f c d l o n r r a ( A d t f a b a c m a a a f g d m b u t c w s ( a ( o t s i t d s t a r o t s … S " ( T … ( N o t p n r i t s a o a c m a a o f g d p b t l o k … ( N s T a a a b a t t c t l s p n b i a b b d t t e w t s a i a t 1 o n S " I p h e v u t s a ( w a c p a a v u s]
+[DELETED:  S  P o C S " ( S d f r d u s b p o f t f … ( D o … S " F t i f t s i f o a w a ( p h e f F c p d a s a U C t f g p S " F p s p i s u A 1 o C 1 o t G j t l g m e G i b a s d ( p v o G r a p t G o a a t p h e f p a p c v p o a d v n n o v I t S F M o o S o i a a o p a s]
+[DELETED:  S  D t s b a c c o o p s s b a p i G S T P S " S s a e o a s o t N C S B C p t p e s g b r a r h a a c o ( s a E o t S C S " F a a s o l o o b c i T p a A t i e a m o r a e b R d i a w m i a a c P w o o t a a i u t m o e p S a " T S B o C C s a a p t b a u t t C C S f b a s o l o o ( A f ( R i a w m i a a n r ( P c m s n d s o o t f]
+[DELETED:  S  P S a E 2 S r c S t e i c t S F 2 S]

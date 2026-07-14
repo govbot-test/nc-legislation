@@ -1,0 +1,287 @@
+Title: SENATE BILL 801
+Official Title: SENATE BILL 801
+Number of Sections: 1
+Source: versions - Edition 4
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 4
+Judiciary Committee Substitute Adopted 6/17/26
+Finance Committee Substitute Adopted 6/23/26
+Fourth Edition Engrossed 7/1/26
+Short Title: Address Confidentiality/Study & DL. (Public)
+Sponsors:
+Referred to:
+April 22, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT REQUIRING A STUDY PROGRAM TO EXPAND THE ADDRESS
+3 CONFIDENTIALITY PROGRAM TO INCLUDE CERTAIN MILITARY AND SPECIAL
+4 OPERATIONS PERSONNEL AND ALLOWING CERTAIN MILITARY AND SPECIAL
+5 OPERATIONS PERSONNEL TO BE ISSUED A SUBSTITUTE DRIVERS LICENSE OR
+6 SPECIAL IDENTIFICATION CARD.
+7 Whereas, the Department of Defense personnel assigned to or supporting United
+8 States Special Operations Command organizations in North Carolina, including military
+9 members, civilian employees, and their dependents, perform among the most critical, most
+10 effective, and most dangerous operations in defense of our nation's freedom; and
+11 Whereas, the General Assembly is committed to ensuring the safety and protection of
+12 Department of Defense personnel assigned to or supporting United States Special Operations
+13 Command organizations in North Carolina; and
+14 Whereas, the General Assembly recognizes that allowing continued public access to
+15 the personal identifying information, including location information, of Department of Defense
+16 personnel assigned to or supporting United States Special Operations Command organizations in
+17 North Carolina jeopardizes the safety of these personnel and their families; and
+18 Whereas, the General Assembly seeks ways in which to protect the personal
+19 identifying information of Department of Defense personnel assigned to or supporting United
+20 States Special Operations Command organizations in North Carolina that is particularly
+21 susceptible to doxing or swatting from appearing on public-facing websites across State and local
+22 agencies, whether by removing or shielding the personal identifying information; and
+23 Whereas, the General Assembly is committed to exempting from the public records
+24 of this State the personal identifying information of Department of Defense personnel assigned
+25 to or supporting United States Special Operations Command organizations in North Carolina so
+26 as to protect the safety of those personnel and their family; Now, therefore
+27 The General Assembly of North Carolina enacts:
+28 SECTION 1.(a) The Department of Justice, the Administrative Office of the Courts,
+29 the Division of Motor Vehicles, the State Board of Elections, and the Department of Military and
+30 Veterans Affairs shall convene a Task Force to explore how to protect military personnel, special
+31 operations forces, elected officials, and others particularly susceptible to doxing or swatting. The
+32 Task Force may consult with the Commander of the United States Special Operations Command,
+33 or their designee, The University of North Carolina System, the Register of Deeds Association,
+*S801-v-4*
+General Assembly Of North Carolina Session 2025
+1 the Real Estate Commission, the North Carolina Sheriffs' Association, and any other affected
+2 group or groups in conducting this study.
+3 SECTION 1.(b) As part of the study, the Task Force shall consider the following
+4 items:
+5 (1) Which individuals are particularly susceptible to doxing or swatting, including
+6 military personnel, special operations personnel, elected officials, and others.
+7 (2) What personal identifying information is susceptible to doxing or swatting.
+8 (3) Options to prevent harm, harassment, and abuse of individuals particularly
+9 susceptible to doxing or swatting.
+10 (4) How to develop and implement a uniform protocol across State and local
+11 agencies for susceptible individuals to access protection of personal
+12 identifying information, whether by removal or shielding or other method.
+13 (5) How to implement effective security protocols for protecting personal
+14 identifying information.
+15 (6) Which State and local agencies should have access to such personal
+16 identifying information, if removed or shielded from the public record.
+17 (7) How to provide law enforcement, emergency services, and other vital
+18 government services to participants in any removal or shielding program
+19 while maintaining all security protocols.
+20 (8) The feasibility of, and barriers to, expanding the Address Confidentiality
+21 Program under Chapter 15C of the General Statutes to cover susceptible
+22 individuals.
+23 (9) Whether spouses, dependents, and other family members of susceptible
+24 individuals should be covered by any programs protecting susceptible
+25 individuals.
+26 (10) If expansion of the Address Confidentiality Program is not found to be
+27 feasible, recommendations for a separate program leveraging the existing
+28 Address Confidentiality Program as the model to incorporate all best practices
+29 from that program where appropriate.
+30 (11) Recommendations for standard operating procedures for any protective
+31 program, including eligibility verification, recertification of eligibility,
+32 command validation for military personnel, and other criteria for reviewing
+33 applications for certification of participation in any protective program.
+34 (12) Recommendations for further study.
+35 (13) Recommendations for legislative action, including potential enhancement of
+36 criminal laws and civil liability, if any.
+37 (14) Any other information necessary.
+38 SECTION 1.(c) Not later than April 1, 2027, the Task Force shall report its findings
+39 and recommendations to the General Assembly. The report, findings and recommendations,
+40 records, data, analyses, and materials prepared or collected by the Task Force in connection with
+41 the study authorized by this section shall be treated as sensitive public security information under
+42 G.S. 132-1.7 and shall not be a public record.
+43 SECTION 2.(a) Article 2 of Chapter 20 of the General Statutes is amended by adding
+44 a new section to read:
+45 "§ 20-37.03. Special forces substitute drivers license.
+46 (a) Notwithstanding G.S. 20-7 or any other provision of this Chapter, upon the request of
+47 a major military installation as defined by G.S. 143-151.71 and for use overseas only, the
+48 Division shall issue a drivers license or special identification card with a substitute address in
+49 lieu of the license holder's residence address for any special operations force member, upon
+50 payment of the fee for a duplicate license. The application for a substitute drivers license or
+51 special identification card shall be submitted on a form as designated by the Division, which shall
+Page 2 Senate Bill 801-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 include a certification from the Commander of the United States Special Operations Command,
+2 or the Commander's designee, as to the status of the special operations force member.
+3 (b) The substitute address under this section shall be the address of the license holder
+4 shall be the permanent duty station of the license holder as certified by the license holder's
+5 Commander of the United States Special Operations Command, or the Commander's designee.
+6 All documents related to the issuance of a substitute drivers license or special identification card
+7 under this section shall be treated as sensitive public security information in accordance with
+8 G.S. 132-1.7.
+9 (c) For purposes of this section, a "special operations force member" shall be any
+10 member, whether active or reserve component forces, of the United States military services,
+11 designated by the Secretary of War or Secretary of Defense, and specifically organized, trained,
+12 and equipped to conduct and support special operations, as certified by the Commander of the
+13 United States Special Operations Command, or the Commander's designee."
+14 SECTION 2.(b) G.S. 132-1.7(a) is amended by adding a new subdivision to read:
+15 "(6) Information containing specific details of personal identifying information of
+16 special operations force members as described in G.S. 20-37.03."
+17 SECTION 3. Chapter 132 of the General Statutes is amended by adding a new
+18 section to read:
+19 "§ 132-1.15. Personally Identifiable Information of Special Operations Forces Members.
+20 (a) To the extent the agency of North Carolina government or its subdivisions determines
+21 it is operationally feasible, the custodian of any public record containing personal identifying
+22 information of a special operations force member as described in G.S. 20-37.03 shall redact or
+23 remove that public record from any public-facing web-based database or application upon written
+24 request of the special operations force member, as certified by the Commander of the United
+25 States Special Operations Command, or the Commander's designee.
+26 (b) Any written request submitted under this section shall not be a public record."
+27 SECTION 4. The Task Force established by Section 2 of this act may create a pilot
+28 program for eligible active-duty Department of Defense certified Special Operations Forces
+29 personnel in an effort to evaluate the overall implementation of any program recommended under
+30 Section 2 of this act to exempt personal identifying information from the public record.
+31 SECTION 5. Sections 2 and 3 of this act become effective January 1, 2027. The
+32 remainder of this act is effective when it becomes law.
+Senate Bill 801-Fourth Edition Page 3
+[DELETED:  4 A (   A A A R A S P T E T A C O O S W t D o p a t o U S S O C o i N C i m m c e a t d p a t m c m e W D C W t p N W t G A s w i w t p t p i S S O C o i N C t i p s a W o t a T S t V o T o]
+[DELETED:  S  S t g S i ( W m ( W ( O s ( H a f s i t a p o p i ( H t i e s p f p p i ( W S a l a s h a t s p i ( H t p l e e s a o v g s t p i a r o s p w ( T f o a b t e t A C P u C 1 o t G S t c s i ( W s d a o f m o s i s b c b a p p s i ( I e o t A C P i n f t b f r f a s p l t e A f ( R f s o p f a p p i e v r o e c a ( R ( R c ( A S a r t t G A T r f a r r t G S a " ( N a m m i a d b G a f u o o t D l p s]
+[DELETED:  S  P i o ( T s C A u G ( F p o t s a " o f m s b a m d a U S " I s S s " ( T i i r r S ( A S p f e a D o c S O F p S S r]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 4
+SENATE BILL 801
+Judiciary Committee Substitute Adopted 6/17/26
+Finance Committee Substitute Adopted 6/23/26
+Fourth Edition Engrossed 7/1/26
+Short Title: Address Confidentiality/Study & DL. (Public)
+Sponsors:
+Referred to:
+April 22, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT REQUIRING A STUDY PROGRAM TO EXPAND THE ADDRESS
+3 CONFIDENTIALITY PROGRAM TO INCLUDE CERTAIN MILITARY AND SPECIAL
+4 OPERATIONS PERSONNEL AND ALLOWING CERTAIN MILITARY AND SPECIAL
+5 OPERATIONS PERSONNEL TO BE ISSUED A SUBSTITUTE DRIVERS LICENSE OR
+6 SPECIAL IDENTIFICATION CARD.
+7 Whereas, the Department of Defense personnel assigned to or supporting United
+8 States Special Operations Command organizations in North Carolina, including military
+9 members, civilian employees, and their dependents, perform among the most critical, most
+10 effective, and most dangerous operations in defense of our nation's freedom; and
+11 Whereas, the General Assembly is committed to ensuring the safety and protection of
+12 Department of Defense personnel assigned to or supporting United States Special Operations
+13 Command organizations in North Carolina; and
+14 Whereas, the General Assembly recognizes that allowing continued public access to
+15 the personal identifying information, including location information, of Department of Defense
+16 personnel assigned to or supporting United States Special Operations Command organizations in
+17 North Carolina jeopardizes the safety of these personnel and their families; and
+18 Whereas, the General Assembly seeks ways in which to protect the personal
+19 identifying information of Department of Defense personnel assigned to or supporting United
+20 States Special Operations Command organizations in North Carolina that is particularly
+21 susceptible to doxing or swatting from appearing on public-facing websites across State and local
+22 agencies, whether by removing or shielding the personal identifying information; and
+23 Whereas, the General Assembly is committed to exempting from the public records
+24 of this State the personal identifying information of Department of Defense personnel assigned
+25 to or supporting United States Special Operations Command organizations in North Carolina so
+26 as to protect the safety of those personnel and their family; Now, therefore
+27 The General Assembly of North Carolina enacts:
+28 SECTION 1.(a) The Department of Justice, the Administrative Office of the Courts,
+29 the Division of Motor Vehicles, the State Board of Elections, and the Department of Military and
+30 Veterans Affairs shall convene a Task Force to explore how to protect military personnel, special
+31 operations forces, elected officials, and others particularly susceptible to doxing or swatting. The
+32 Task Force may consult with the Commander of the United States Special Operations Command,
+33 or their designee, The University of North Carolina System, the Register of Deeds Association,
+*S801-v-4*
+
+General Assembly Of North Carolina Session 2025
+1 the Real Estate Commission, the North Carolina Sheriffs' Association, and any other affected
+2 group or groups in conducting this study.
+3 SECTION 1.(b) As part of the study, the Task Force shall consider the following
+4 items:
+5 (1) Which individuals are particularly susceptible to doxing or swatting, including
+6 military personnel, special operations personnel, elected officials, and others.
+7 (2) What personal identifying information is susceptible to doxing or swatting.
+8 (3) Options to prevent harm, harassment, and abuse of individuals particularly
+9 susceptible to doxing or swatting.
+10 (4) How to develop and implement a uniform protocol across State and local
+11 agencies for susceptible individuals to access protection of personal
+12 identifying information, whether by removal or shielding or other method.
+13 (5) How to implement effective security protocols for protecting personal
+14 identifying information.
+15 (6) Which State and local agencies should have access to such personal
+16 identifying information, if removed or shielded from the public record.
+17 (7) How to provide law enforcement, emergency services, and other vital
+18 government services to participants in any removal or shielding program
+19 while maintaining all security protocols.
+20 (8) The feasibility of, and barriers to, expanding the Address Confidentiality
+21 Program under Chapter 15C of the General Statutes to cover susceptible
+22 individuals.
+23 (9) Whether spouses, dependents, and other family members of susceptible
+24 individuals should be covered by any programs protecting susceptible
+25 individuals.
+26 (10) If expansion of the Address Confidentiality Program is not found to be
+27 feasible, recommendations for a separate program leveraging the existing
+28 Address Confidentiality Program as the model to incorporate all best practices
+29 from that program where appropriate.
+30 (11) Recommendations for standard operating procedures for any protective
+31 program, including eligibility verification, recertification of eligibility,
+32 command validation for military personnel, and other criteria for reviewing
+33 applications for certification of participation in any protective program.
+34 (12) Recommendations for further study.
+35 (13) Recommendations for legislative action, including potential enhancement of
+36 criminal laws and civil liability, if any.
+37 (14) Any other information necessary.
+38 SECTION 1.(c) Not later than April 1, 2027, the Task Force shall report its findings
+39 and recommendations to the General Assembly. The report, findings and recommendations,
+40 records, data, analyses, and materials prepared or collected by the Task Force in connection with
+41 the study authorized by this section shall be treated as sensitive public security information under
+42 G.S. 132-1.7 and shall not be a public record.
+43 SECTION 2.(a) Article 2 of Chapter 20 of the General Statutes is amended by adding
+44 a new section to read:
+45 "§ 20-37.03. Special forces substitute drivers license.
+46 (a) Notwithstanding G.S. 20-7 or any other provision of this Chapter, upon the request of
+47 a major military installation as defined by G.S. 143-151.71 and for use overseas only, the
+48 Division shall issue a drivers license or special identification card with a substitute address in
+49 lieu of the license holder's residence address for any special operations force member, upon
+50 payment of the fee for a duplicate license. The application for a substitute drivers license or
+51 special identification card shall be submitted on a form as designated by the Division, which shall
+Page 2 Senate Bill 801-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 include a certification from the Commander of the United States Special Operations Command,
+2 or the Commander's designee, as to the status of the special operations force member.
+3 (b) The substitute address under this section shall be the address of the license holder
+4 shall be the permanent duty station of the license holder as certified by the license holder's
+5 Commander of the United States Special Operations Command, or the Commander's designee.
+6 All documents related to the issuance of a substitute drivers license or special identification card
+7 under this section shall be treated as sensitive public security information in accordance with
+8 G.S. 132-1.7.
+9 (c) For purposes of this section, a "special operations force member" shall be any
+10 member, whether active or reserve component forces, of the United States military services,
+11 designated by the Secretary of War or Secretary of Defense, and specifically organized, trained,
+12 and equipped to conduct and support special operations, as certified by the Commander of the
+13 United States Special Operations Command, or the Commander's designee."
+14 SECTION 2.(b) G.S. 132-1.7(a) is amended by adding a new subdivision to read:
+15 "(6) Information containing specific details of personal identifying information of
+16 special operations force members as described in G.S. 20-37.03."
+17 SECTION 3. Chapter 132 of the General Statutes is amended by adding a new
+18 section to read:
+19 "§ 132-1.15. Personally Identifiable Information of Special Operations Forces Members.
+20 (a) To the extent the agency of North Carolina government or its subdivisions determines
+21 it is operationally feasible, the custodian of any public record containing personal identifying
+22 information of a special operations force member as described in G.S. 20-37.03 shall redact or
+23 remove that public record from any public-facing web-based database or application upon written
+24 request of the special operations force member, as certified by the Commander of the United
+25 States Special Operations Command, or the Commander's designee.
+26 (b) Any written request submitted under this section shall not be a public record."
+27 SECTION 4. The Task Force established by Section 2 of this act may create a pilot
+28 program for eligible active-duty Department of Defense certified Special Operations Forces
+29 personnel in an effort to evaluate the overall implementation of any program recommended under
+30 Section 2 of this act to exempt personal identifying information from the public record.
+31 SECTION 5. Sections 2 and 3 of this act become effective January 1, 2027. The
+32 remainder of this act is effective when it becomes law.
+Senate Bill 801-Fourth Edition Page 3
+
+[DELETED:  4 A (   A A A R A S P T E T A C O O S W t D o p a t o U S S O C o i N C i m m c e a t d p a t m c m e W D C W t p N W t G A s w i w t p t p i S S O C o i N C t i p s a W o t a T S t V o T o]
+[DELETED:  S  S t g S i ( W m ( W ( O s ( H a f s i t a p o p i ( H t i e s p f p p i ( W S a l a s h a t s p i ( H t p l e e s a o v g s t p i a r o s p w ( T f o a b t e t A C P u C 1 o t G S t c s i ( W s d a o f m o s i s b c b a p p s i ( I e o t A C P i n f t b f r f a s p l t e A f ( R f s o p f a p p i e v r o e c a ( R ( R c ( A S a r t t G A T r f a r r t G S a " ( N a m m i a d b G a f u o o t D l p s]
+[DELETED:  S  P i o ( T s C A u G ( F p o t s a " o f m s b a m d a U S " I s S s " ( T i i r r S ( A S p f e a D o c S O F p S S r]

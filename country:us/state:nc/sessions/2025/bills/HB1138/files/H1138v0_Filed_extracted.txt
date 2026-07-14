@@ -1,0 +1,1115 @@
+Title: HOUSE BILL DRH10581-MGa-149
+Official Title: HOUSE BILL DRH10581-MGa-149
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+H.B. 1138
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 29, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Aging With Dignity Act. (Public)
+Sponsors: Representative Ball.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT PROMOTING AGING WITH DIGNITY BY STRENGTHENING HOME- AND
+3 COMMUNITY-BASED CARE; IMPROVING LONG-TERM CARE OVERSIGHT;
+4 SUPPORTING FAMILY CAREGIVERS AND THE GERIATRIC WORKFORCE;
+5 APPROPRIATING FUNDS FOR STRATEGIC STATE INVESTMENTS TO MEET THE
+6 NEEDS OF NORTH CAROLINA'S GROWING SENIOR POPULATION; AND
+7 REESTABLISHING A STUDY COMMISSION ON AGING.
+8 The General Assembly of North Carolina enacts:
+9
+10 PART I. LEGISLATIVE FINDINGS
+11 SECTION 1.1. The General Assembly finds all of the following:
+12 (1) North Carolina's population aged 65 and older is growing rapidly and is
+13 projected to exceed 2.4 million residents by 2030, significantly increasing
+14 demand for long-term services and supports.
+15 (2) Older adults overwhelmingly prefer to remain in their homes and communities
+16 when appropriate, yet access to home- and community-based services is
+17 limited by workforce shortages, long waitlists, geographic disparities, and
+18 administrative barriers.
+19 (3) Institutional long-term care is costly to individuals, families, and the State,
+20 while preventable hospitalizations, falls, medication-related injuries, and
+21 delayed discharges contribute to unnecessary Medicaid expenditures and
+22 strain the health care system.
+23 (4) North Carolina relies on a direct care workforce that experiences low wages,
+24 high turnover, limited career advancement opportunities, and growing
+25 shortages that threaten access to safe and timely care for older adults.
+26 (5) Family caregivers provide substantial unpaid care that reduces reliance on
+27 institutional care and public expenditures, yet frequently lack adequate
+28 financial support, respite services, and care coordination resources.
+29 (6) The State has a responsibility to ensure that long-term care facilities operate
+30 with transparency, accountability, and a focus on resident dignity, safety, and
+31 quality of life and that regulatory and advocacy programs are adequately
+32 staffed and empowered to protect residents.
+33 (7) Demographic trends, workforce constraints, and rising costs make
+34 continuation of current long-term care policies unsustainable without targeted
+35 reforms and strategic investments.
+*DRH10581-MGa-149*
+General Assembly Of North Carolina Session 2025
+1 (8) A coordinated policy framework that prioritizes aging in place when
+2 appropriate, strengthens oversight of long-term care settings, supports
+3 caregivers and the geriatric workforce, and invests in high-value,
+4 person-centered care is necessary to protect older North Carolinians and
+5 ensure responsible stewardship of public resources.
+6
+7 PART II. IMPROVEMENT OF LONG-TERM SERVICES & SUPPORTS FOR
+8 MEDICAID BENEFICIARIES
+9
+10 HOME- AND COMMUNITY-BASED SERVICES PRESUMPTION FOR MEDICAID
+11 BENEFICIARIES
+12 SECTION 2.1. Part 6 of Article 2 of Chapter 108A of the General Statutes is
+13 amended by adding a new section to read:
+14 "§ 108A-70.5A. Presumption in favor of home- and community-based services for
+15 long-term services and supports.
+16 (a) Policy of the State. – It is the policy of the State that individuals aged 55 or older who
+17 require long-term services and supports funded in whole or in part by the medical assistance
+18 program should receive those services in the most integrated setting appropriate to their needs,
+19 consistent with federal law.
+20 (b) Presumption Established. – Except as provided in subsection (e) of this section, for
+21 purposes of Medicaid-funded long-term services and supports, home- and community-based
+22 services shall be presumed to be the preferred setting of care unless institutional placement is
+23 determined to be medically necessary.
+24 (c) Medical Necessity Determination. – An individual aged 55 or older may be placed in,
+25 or remain in, an institutional long-term care setting, including a nursing facility or a
+26 Medicaid-funded adult care home, only upon a documented determination that home- and
+27 community-based services are insufficient to meet the individual's assessed clinical, functional,
+28 or safety needs.
+29 (d) Assessment and Documentation. – The determination required under subsection (c)
+30 of this section shall include all of the following:
+31 (1) A standardized assessment approved by the Department.
+32 (2) Written clinical justification supporting the need for institutional placement.
+33 (3) A periodic reassessment at intervals established by the Department.
+34 (e) Individual Choice. – Nothing in this section shall be construed to limit an individual's
+35 right to choose an institutional setting when otherwise eligible, provided the individual has been
+36 informed of available home- and community-based service options.
+37 (f) Department Authority. – The Department shall implement this section and may adopt
+38 rules and policies necessary to carry out its provisions, including establishing clinical criteria,
+39 defining exceptions, and seeking any necessary federal approvals, waivers, or amendments to the
+40 Medicaid State Plan."
+41
+42 POLYPHARMACY REVIEW FOR MEDICAID BENEFICIARIES RECEIVING
+43 LONG-TERM SERVICES AND SUPPORTS
+44 SECTION 2.2. Part 6 of Article 2 of Chapter 108A of the General Statutes is
+45 amended by adding a new section to read:
+46 "§ 108A-70.5B. Medication review for individuals receiving long-term services and
+47 supports.
+48 (a) Findings and Purpose. – The General Assembly finds that the use of multiple
+49 concurrent medications is associated with increased risk of falls, cognitive impairment,
+50 hospitalization, and diminished quality of life among older adults. The purpose of this section is
+Page 2 DRH10581-MGa-149
+General Assembly Of North Carolina Session 2025
+1 to reduce preventable harm and unnecessary health care expenditures by ensuring regular,
+2 comprehensive medication review for individuals receiving long-term services and supports.
+3 (b) Medication Review Required. – The Department shall ensure that individuals aged
+4 55 or older receiving Medicaid-funded long-term services and supports are provided periodic
+5 medication reviews to identify potentially inappropriate medications, duplicative therapies,
+6 adverse drug interactions, and opportunities for medication optimization.
+7 (c) Scope of Review. – Medication reviews under this section shall include all of the
+8 following:
+9 (1) A review of all prescription medications and, to the extent feasible,
+10 over-the-counter medications and supplements known to be used by the
+11 individual.
+12 (2) A consideration of the cumulative medication burden, drug-drug interactions,
+13 and drug-condition interactions.
+14 (3) An evaluation of medications associated with increased risk of falls, sedation,
+15 confusion, or functional decline.
+16 (4) Documentation in the individual's care record.
+17 (d) Qualified Reviewers. – Medication reviews shall be conducted by a licensed
+18 pharmacist, physician, or other qualified health care professional authorized by the Department
+19 and acting within the scope of licensure.
+20 (e) Deprescribing Authority. – The Department may adopt rules to allow for
+21 deprescribing or medication modification when clinically appropriate, including processes for
+22 communication and coordination among prescribers, pharmacists, care managers, and the
+23 individual or the individual's representative.
+24 (f) Integration with Care Planning. – Medication review findings under this section shall
+25 be incorporated into the individual's care plan and used to inform service authorization, care
+26 coordination, and reassessment decisions.
+27 (g) Implementation Flexibility. – The Department may implement this section through
+28 managed care contracts, clinical policy, or other administrative mechanisms and may prioritize
+29 implementation for individuals at highest risk of medication-related harm."
+30
+31 INTEGRATION OF BEHAVIORAL HEALTH AND GERIATRIC CARE FOR
+32 MEDICAID BENEFICIARIES
+33 SECTION 2.3. Part 6 of Article 2 of Chapter 108A of the General Statutes is
+34 amended by adding a new section to read:
+35 "§ 108A-70.5C. Integration of behavioral health services for older adults receiving
+36 long-term services and supports.
+37 (a) Purpose. – The purpose of this section is to ensure that older adults receiving
+38 Medicaid-funded long-term services and supports have access to age-appropriate,
+39 dementia-capable behavioral health services in order to improve quality of life, reduce
+40 preventable hospitalizations, and decrease reliance on inappropriate sedation or chemical
+41 restraint.
+42 (b) Integration Requirement. – The Department shall ensure that behavioral health
+43 assessment, treatment, and care coordination are integrated into the delivery of Medicaid-funded
+44 long-term services and supports for adults aged 55 or older, including individuals with dementia
+45 or cognitive impairment.
+46 (c) Scope of Services. – Behavioral health integration under this section shall include all
+47 of the following:
+48 (1) Screening and assessment for depression, anxiety, dementia-related
+49 behavioral symptoms, and other geriatric behavioral health needs.
+50 (2) Access to mental health and substance use disorder services delivered by
+51 clinicians with training or experience in geriatric care.
+DRH10581-MGa-149 Page 3
+General Assembly Of North Carolina Session 2025
+1 (3) Dementia-capable behavioral health interventions designed to address
+2 behavioral symptoms without unnecessary reliance on pharmacological
+3 treatment.
+4 (4) Care coordination among primary care providers, behavioral health providers,
+5 pharmacists, and long-term services and supports providers.
+6 (5) Crisis intervention strategies that reduce avoidable emergency department
+7 visits and hospitalizations.
+8 (d) Medication Practices. – The Department shall promote care models and clinical
+9 practices that prioritize nonpharmacological and person-centered interventions for behavioral
+10 symptoms in adults aged 55 or older and shall discourage the use of antipsychotics, sedatives, or
+11 other medications when not clinically indicated.
+12 (e) Implementation. – The Department may adopt rules to implement this section through
+13 clinical policy, managed care contracts, provider standards, care management requirements, or
+14 other administrative mechanisms and may prioritize implementation for individuals at highest
+15 risk of behavioral health-related hospitalization or institutional placement.
+16 (f) Training and Workforce Support. – The Department may support training and
+17 technical assistance for providers and care managers to build geriatric behavioral health and
+18 dementia-capable care expertise."
+19
+20 RECOGNITION OF SOCIAL ISOLATION AND LONELINESS IN CARE PLANNING
+21 FOR OLDER ADULT MEDICAID BENEFICIARIES
+22 SECTION 2.4. Part 6 of Article 2 of Chapter 108A of the General Statutes is
+23 amended by adding a new section to read:
+24 "§ 108A-70.5D. Screening for social isolation and loneliness; care coordination and
+25 referral.
+26 (a) Purpose. – The purpose of this section is to improve early identification and
+27 intervention for social isolation and loneliness among older adults receiving Medicaid-funded
+28 long-term services and supports in order to prevent avoidable health decline, functional
+29 impairment, and progression to more serious mental health conditions.
+30 (b) Screening Authorized. – The Department shall authorize and promote screening for
+31 social isolation and loneliness among adults aged 55 or older receiving Medicaid-funded
+32 long-term services and supports, using evidence-based screening tools approved by the
+33 Department.
+34 (c) Care Coordination and Referral. – When screening indicates significant social
+35 isolation or loneliness, the Department shall ensure that those findings may be used to do any of
+36 the following:
+37 (1) Trigger care coordination activities.
+38 (2) Prompt referral for further clinical evaluation, including behavioral health
+39 assessment when appropriate.
+40 (3) Inform individualized care planning and service authorization decisions.
+41 (d) Covered Services. – Social isolation and loneliness, when identified through
+42 authorized screening, shall be recognized as valid factors for purposes of Medicaid-funded care
+43 coordination, assessment, and referral services. Nothing in this section shall be construed to
+44 require coverage of room and board or nonmedical housing costs.
+45 (e) Clinical Evaluation Not Precluded. – A finding of social isolation or loneliness shall
+46 not be used as a substitute for clinical evaluation. The Department shall ensure that symptoms
+47 associated with loneliness are appropriately addressed and, when indicated, evaluated for
+48 depression, anxiety, cognitive impairment, or other diagnosable conditions.
+49 (f) Implementation. – The Department may adopt rules to implement this section through
+50 clinical policy, care management requirements, managed care contracts, or other administrative
+Page 4 DRH10581-MGa-149
+General Assembly Of North Carolina Session 2025
+1 mechanisms and may prioritize implementation for individuals at higher risk of hospitalization,
+2 functional decline, or institutional placement."
+3
+4 PART III. APPROPRIATIONS FOR STRATEGIC STATE INVESTMENTS TO MEET
+5 THE NEEDS OF NORTH CAROLINA'S GROWING SENIOR POPULATION
+6
+7 INTEGRATED SENIOR HOUSING AND CARE PILOT PROGRAM
+8 SECTION 3.1.(a) The Department of Health and Human Services shall establish
+9 and conduct an integrated senior housing and care pilot program (pilot program). The purpose of
+10 the pilot program is to initiate a public-private partnership to plan, design, construct, and launch
+11 a housing-first residential facility that integrates on-site medical, behavioral health, pharmacy,
+12 rehabilitative, and supportive services for older adults who rely heavily on Medicare and
+13 Medicaid services.
+14 SECTION 3.1.(b) In designing, constructing, and launching the housing-first
+15 residential facility for use in the pilot program, the Department of Health and Human Services
+16 and any entity selected to partner with the Department of Health and Human Services shall adhere
+17 to all of the following requirements:
+18 (1) The facility shall consist of not more than 300 residential units located at a
+19 single site.
+20 (2) The facility shall be operated as housing-first, with residents retaining tenancy
+21 rights and receiving health and supportive services through integrated on-site
+22 or affiliated providers.
+23 (3) The facility shall be designed to serve individuals who are dually eligible for
+24 Medicare and Medicaid, and participation in Medicaid-funded services is a
+25 condition of all pilot program participants, including facility residents and
+26 entities that partner with the Department of Health and Human Services to
+27 operate the facility.
+28 (4) The facility shall be designed to reduce care fragmentation and unnecessary
+29 transitions by providing coordinated, interdisciplinary services on-site or
+30 through formal partnerships.
+31 SECTION 3.1.(c) The Department of Health and Human Services is authorized to
+32 do all of the following to establish and conduct the pilot program:
+33 (1) Implement a selection process for contracting with one or more nonprofit
+34 organizations, local governments, or private entities to design, construct,
+35 launch, and operate the facility.
+36 (2) Structure the pilot program as a public-private partnership by leveraging both
+37 public and private sector expertise and a mixture of funding sources, including
+38 public sector grants, loans provided by public or private institutions or both,
+39 and other financing mechanisms.
+40 (3) Coordinate with other State agencies and seek federal approvals, waivers, or
+41 financing mechanisms to support the pilot program.
+42 (4) Adopt rules as necessary to carry out the pilot program.
+43 SECTION 3.1.(d) There is appropriated from the General Fund to the Department
+44 of Health and Human Services the sum of one hundred twenty million dollars ($120,000,000) in
+45 nonrecurring funds for the 2026-2027 fiscal year to establish and conduct the integrated senior
+46 housing and care pilot program authorized by this section. Funds appropriated by this subsection
+47 shall not be used for any purposes other than the following:
+48 (1) Site acquisition, planning, and design costs.
+49 (2) Predevelopment and construction costs.
+50 (3) Capital costs necessary to integrate on-site clinical and supportive service
+51 capacity.
+DRH10581-MGa-149 Page 5
+General Assembly Of North Carolina Session 2025
+1 (4) Start-up and initial operating costs, including those associated with staffing,
+2 care coordination infrastructure, and program launch expenses, as determined
+3 necessary by the Department of Health and Human Services.
+4 Notwithstanding G.S. 143C-1-2(b) or any other provision of law to the contrary,
+5 funds appropriated by this subsection shall not revert at the end of the 2026-2027 fiscal year but
+6 shall remain available for the purposes authorized by this subsection until expended.
+7 SECTION 3.1.(e) Beginning May 1, 2028, and annually thereafter for as long as
+8 funds appropriated by this section remain available for expenditure, the Department of Health
+9 and Human Services shall report to the Joint Legislative Oversight Committee on Health and
+10 Human Services and the Fiscal Research Division on the implementation status and operation of
+11 the integrated senior housing and care pilot program authorized by this section. Beginning one
+12 year after initial occupancy of the housing-first residential facility funded by subsection (d) of
+13 this section, the report required by this section shall include at least all of the following
+14 information regarding the occupants of that residential facility:
+15 (1) The number of residents and their demographic data, including, at a minimum,
+16 their age and sex.
+17 (2) Medicaid and Medicare utilization trends.
+18 (3) Rates of hospitalization, institutional placement, and transitions of care.
+19 (4) Quality-of-life and resident satisfaction measures.
+20 (5) Lessons learned and recommendations regarding scalability or replication of
+21 this pilot program.
+22 SECTION 3.1.(f) The pilot program authorized by this section terminates at the end
+23 of the fiscal year in which the funds appropriated pursuant to subsection (d) of this section are
+24 expended.
+25
+26 STRENGTHENING THE LONG-TERM CARE OMBUDSMAN PROGRAM
+27 SECTION 3.2.(a) The Department of Health and Human Services, Division of
+28 Aging, Office of the State Long-Term Care Ombudsman, shall work toward strengthening the
+29 State Long-Term Care Ombudsman Program (Ombudsman Program) by improving access to
+30 Ombudsman Program services; reducing the backlog of complaints received by the Ombudsman
+31 Program; improving response times in high-priority cases involving immediate threats to the
+32 health, safety, or rights of residents in long-term care facilities; and enhancing coordination with
+33 other entities responsible for protecting the rights of residents in long-term care facilities,
+34 regulating long-term care facilities, or a combination of those.
+35 SECTION 3.2.(b) No later than January 1, 2027, the Department of Health and
+36 Human Services, Division of Aging, Office of the State Long-Term Care Ombudsman, shall
+37 develop and begin implementing a staffing and regional coverage plan for the Ombudsman
+38 Program that accomplishes all of the following:
+39 (1) Identifies staffing vacancies, workload pressures, and regional service gaps.
+40 (2) Establishes priorities for hiring additional State and regional ombudsman
+41 personnel.
+42 (3) Improves timely on-site response capacity in high-priority cases.
+43 (4) Supports complaint intake, complaint investigation, complaint resolution, and
+44 follow-up.
+45 (5) Provides for training, travel, case management, and administrative support for
+46 State and regional ombudsman personnel as necessary to fulfill the objectives
+47 of the Ombudsman Program.
+48 SECTION 3.2.(c) There is appropriated from the General Fund to the Department
+49 of Health and Human Services, Division of Aging, Office of the State Long-Term Care
+50 Ombudsman, the sum of three million five hundred thousand dollars ($3,500,000) in recurring
+51 funds beginning in the 2026-2027 fiscal year to improve the Ombudsman Program as specified
+Page 6 DRH10581-MGa-149
+General Assembly Of North Carolina Session 2025
+1 in subsection (a) of this section and to implement the staffing and regional coverage plan
+2 described in subsection (b) of this section. Funds appropriated by this subsection shall not be
+3 used for any purposes other than the following:
+4 (1) Hiring additional State and regional ombudsman personnel.
+5 (2) Expanding access to the Ombudsman Program, complaint intake,
+6 investigation, resolution, and follow-up capacity.
+7 (3) Supporting travel, training, case management systems, and administrative
+8 functions for State and regional ombudsman personnel.
+9 (4) Strengthening coordination with the Division of Health Service Regulation;
+10 county departments of social services; Adult Protective Services; legal
+11 services providers; and other entities responsible for the protection of
+12 residents in long-term care facilities, the regulation of long-term care
+13 facilities, or a combination of those.
+14 (5) Reducing complaint backlogs and improving response times in high-priority
+15 cases.
+16 (6) Supporting data collection, reporting, and program administration necessary
+17 to carry out this section.
+18 SECTION 3.2.(d) No later than December 1, 2027, and annually thereafter, the
+19 Department of Health and Human Services, Division of Aging, Office of the State Long-Term
+20 Care Ombudsman, shall submit a report to the Joint Legislative Oversight Committee on Health
+21 and Human Services and the Fiscal Research Division on the implementation status of this
+22 section. The report shall include at least all of the following information regarding the activities
+23 of the Ombudsman Program:
+24 (1) The number and type of complaints received.
+25 (2) Average response times and average resolution times.
+26 (3) Complaint backlogs, staffing vacancies, and regional coverage gaps.
+27 (4) Referrals made to regulatory, protective, or law enforcement agencies.
+28 (5) The use of funds appropriated by subsection (c) of this section.
+29 (6) Any recommendations for administrative or legislative action.
+30
+31 GERIATRIC WORKFORCE PIPELINE AND DIRECT CARE CAREER
+32 ADVANCEMENT PROGRAM
+33 SECTION 3.3.(a) Article 3 of Chapter 143B of the General Statutes is amended by
+34 adding a new section to read:
+35 "§ 143B-181.27. Geriatric workforce pipeline and direct care career advancement
+36 program.
+37 (a) The Department of Health and Human Services (DHHS), in consultation with the
+38 North Carolina Community Colleges System Office, The University of North Carolina System
+39 Office, the North Carolina Independent Colleges and Universities, the Department of Commerce,
+40 and relevant licensing boards, shall establish a geriatric workforce pipeline and direct care career
+41 advancement program (the program). The purpose of the program is to increase the supply,
+42 geographic distribution, retention, and advancement of workers prepared to serve older adults in
+43 a diversity of settings, including home- and community-based settings, nursing facilities, adult
+44 care homes, and hospitals.
+45 (b) The program shall be designed to achieve all of the following goals:
+46 (1) Establish geriatric care training pathways for nurses, physicians, social
+47 workers, pharmacists, behavioral health professionals, direct care workers,
+48 and other relevant personnel.
+49 (2) Establish partnerships with community colleges and employers to create
+50 stackable, portable credentials for direct care workers and other frontline
+51 personnel serving older adults.
+DRH10581-MGa-149 Page 7
+General Assembly Of North Carolina Session 2025
+1 (3) Establish career ladder models that support advancement from entry-level
+2 direct care roles into more specialized or higher-paid roles.
+3 (4) Implement recruitment initiatives targeted to rural counties, underserved
+4 communities, and areas experiencing workforce shortages in geriatric and
+5 long-term care settings.
+6 (5) Establish clinical training, apprenticeships, preceptorships, internships, or
+7 other work-based learning opportunities in geriatric and long-term care
+8 settings.
+9 (6) Improve retention supports for the geriatric workforce, including mentoring,
+10 supervision, and continuing education.
+11 (7) Elicit recommendations for the modernization of scope-of-practice laws,
+12 rules, or supervision requirements, where appropriate, to improve access to
+13 safe and timely geriatric care while maintaining patient protections.
+14 (c) Subject to available appropriations, the program may fund loan forgiveness,
+15 forgivable loans, tuition assistance, or similar incentives for eligible individuals who commit to
+16 practicing in geriatric, long-term care, or direct care service settings in this State for a minimum
+17 period of time established by the DHHS.
+18 (d) In administering the program, the DHHS shall prioritize workforce investments that
+19 expand service capacity for Medicaid beneficiaries, individuals with dementia, family caregiver
+20 support programs, and older adults residing in rural or high-need areas.
+21 (e) Credentials developed under this program shall, to the extent practicable, be
+22 recognized across participating employers and training institutions in order to facilitate worker
+23 mobility, advancement, and retention.
+24 (f) No later than October 1 of each year, the DHHS shall report to the Joint Legislative
+25 Oversight Committee on Health and Human Services, the Joint Legislative Education Oversight
+26 Committee, and the Fiscal Research Division on the implementation status and operation of the
+27 program. The report shall include, at a minimum, the following information:
+28 (1) Enrollment data for all training and education pathways developed under the
+29 program.
+30 (2) A description of any stackable, portable credentials developed under the
+31 program for direct care workers and other frontline personnel serving older
+32 adults and the number of individuals who obtained these credentials.
+33 (3) The number of vacancies filled as a result of the program.
+34 (4) An evaluation of the retention rates of direct care workers and other frontline
+35 personnel as a result of the program.
+36 (5) Any recommended legislative changes to improve program administration or
+37 to increase the supply, geographic distribution, retention, and advancement of
+38 workers prepared to serve older adults in a diversity of settings.
+39 (g) Rules. – The DHHS may adopt rules to implement the program."
+40 SECTION 3.3.(b) There is appropriated from the General Fund to the Department
+41 of Health and Human Services the sum of ten million dollars ($10,000,000) in recurring funds
+42 beginning in the 2026-2027 fiscal year to implement the geriatric workforce pipeline and direct
+43 care career advancement program authorized by G.S. 143B-181.27, as enacted by subsection (a)
+44 of this section.
+45
+46 FAMILY CAREGIVER SUPPORT STIPEND PILOT PROGRAM
+47 SECTION 3.4.(a) The purpose of the proposed family caregiver support stipend
+48 pilot program (the pilot program) is to reduce caregiver burnout, delay or prevent avoidable
+49 institutionalization, and support older adults who choose to remain in their homes and
+50 communities by authorizing a targeted Medicaid-funded family caregiver support stipend,
+51 subject to federal approval and available appropriations.
+Page 8 DRH10581-MGa-149
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.4.(b) The Department of Health and Human Services, Division of
+2 Health Benefits (DHB), is directed to take all actions necessary to support implementation of the
+3 pilot program for eligible family caregivers of Medicaid beneficiaries receiving long-term
+4 services and supports that meets the requirements of this section, including, as applicable,
+5 submitting any necessary documentation to the Centers for Medicare and Medicaid Services
+6 (CMS), including State Plan Amendments and waiver amendments.
+7 SECTION 3.4.(c) DHB shall only implement the pilot program described in this
+8 section if any necessary submissions to CMS under subsection (b) of this section are approved.
+9 SECTION 3.4.(d) The monthly stipend provided under the pilot program shall be a
+10 maximum of four hundred dollars ($400.00) to each eligible family caregiver per eligible care
+11 recipient.
+12 SECTION 3.4.(e) DHB shall adopt rules or clinical coverage policies, as
+13 appropriate, establishing eligibility criteria for care recipients and family caregivers for the pilot
+14 program, that shall include at least all of the following:
+15 (1) The care recipient is an older adult or other individual receiving
+16 Medicaid-funded long-term services and supports who would, in the absence
+17 of caregiver support, be at increased risk of hospitalization, institutional
+18 placement, or other higher-cost care.
+19 (2) The care recipient is living in a home- or community-based setting.
+20 (3) The family caregiver provides substantial assistance with activities of daily
+21 living, instrumental activities of daily living, supervision, or other support
+22 identified by DHB.
+23 (4) The family caregiver satisfies any training, documentation, and program
+24 integrity requirements established by DHB.
+25 SECTION 3.4.(f) DHB shall adopt rules or clinical coverage policies, as appropriate,
+26 establishing guardrails for the pilot program, which may include any of the following:
+27 (1) Limits on duplication of payment where the family caregiver is otherwise
+28 compensated through another Medicaid service category for the same service.
+29 (2) Documentation requirements of caregiving activities.
+30 (3) Family caregiver training requirements.
+31 (4) Care assessments and periodic reassessments.
+32 (5) Fraud prevention and recovery procedures.
+33 (6) Safeguards to protect beneficiary choice, health, safety, and quality of care.
+34 SECTION 3.4.(g) No later than six months after receiving any federal approval on
+35 any submissions under subsection (b) of this section, and annually thereafter for any year in
+36 which the pilot program is implemented under this section, DHB shall report to the Joint
+37 Legislative Oversight Committee on Medicaid and the Fiscal Research Division. This report shall
+38 include all of the following, as applicable:
+39 (1) An overview of implementation activities.
+40 (2) The number of family caregivers and care recipients participating in the pilot
+41 program.
+42 (3) An overview of total expenditures on the pilot program.
+43 (4) An evaluation of the pilot program outcomes with respect to all of the
+44 following:
+45 a. Caregiver burden.
+46 b. Beneficiary satisfaction.
+47 c. Avoidable hospitalizations.
+48 d. Nursing facility admissions.
+49 e. Medicaid cost avoidance.
+50 f. Other measures as DHB deems appropriate.
+51 (5) Any recommended legislative changes.
+DRH10581-MGa-149 Page 9
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.4.(h) Nothing in this section shall be construed to create an entitlement
+2 to a stipend absent federal approval and an appropriation enacted by the General Assembly.
+3 SECTION 3.4.(i) There is appropriated from the General Fund to DHB the sum of
+4 thirteen million five hundred thousand dollars ($13,500,000) in recurring funds beginning in the
+5 2026-2027 fiscal year and the sum of seven hundred fifty thousand dollars ($750,000) in
+6 nonrecurring funds for the 2026-2027 fiscal year to be used to implement this section. The funds
+7 appropriated under this subsection shall not be used for any other purpose and shall revert at the
+8 end of the fiscal year in which they are appropriated if not expended.
+9 SECTION 3.4.(j) This section shall expire two years after it becomes law.
+10
+11 PART IV. REESTABLISHMENT OF STUDY COMMISSION ON AGING
+12 SECTION 4.1.(a) Commission Created; Purpose. – There is created the Aging Study
+13 Commission (Commission) for the purpose of studying and recommending legislative and policy
+14 changes necessary for North Carolina to respond to the needs of its aging population, particularly
+15 as the first wave of the baby boom generation reaches advanced age beginning in 2026.
+16 SECTION 4.1.(b) Duties. – In studying and recommending legislative policy
+17 changes necessary for North Carolina to respond to the needs of its aging population, the
+18 Commission shall examine at least all of the following issues related to aging:
+19 (1) Long-term services and supports, including home- and community-based
+20 services and institutional care.
+21 (2) Workforce capacity and training for geriatric and direct care professions.
+22 (3) Support for family caregivers.
+23 (4) Housing, transportation, and community infrastructure necessary to support
+24 aging in place.
+25 (5) Accessibility and quality of health care for older adults, including integrated
+26 behavioral health and dementia-capable services.
+27 (6) Financing and sustainability of services for older adults, including through
+28 Medicaid and other programs of public assistance.
+29 (7) Oversight, quality, and accountability in long-term care settings.
+30 (8) Legislative proposals to implement the findings of the Governor's Advisory
+31 Council on Aging.
+32 SECTION 4.1.(c) Membership. – The Commission shall consist of the following 15
+33 voting members and five ex officio, nonvoting members:
+34 (1) Six members appointed by the President Pro Tempore of the Senate; the
+35 persons appointed may be members of the Senate or public members.
+36 (2) Six members appointed by the Speaker of the House of Representatives; the
+37 persons appointed may be members of the House of Representatives or public
+38 members.
+39 (3) Three public members appointed by the Governor.
+40 (4) The following ex officio, nonvoting members or their designees:
+41 a. The Secretary of the Department of Health and Human Services.
+42 b. The Director of the Division of Aging.
+43 c. The Director of the Division of Health Benefits.
+44 d. The Secretary of Commerce.
+45 e. A representative of the Governor's Council on Aging.
+46 Appointing authorities may consider geographic diversity and subject-matter
+47 expertise when making their appointments. Any vacancies on the Commission shall be filled by
+48 the original appointing authorities.
+49 SECTION 4.1.(d) Meetings. – The Commission shall meet at the call of the cochairs.
+50 The President Pro Tempore of the Senate and the Speaker of the House of Representatives shall
+51 each designate one cochair from among the legislative members.
+Page 10 DRH10581-MGa-149
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.1.(e) Staffing and Assistance. – The Legislative Services Office shall
+2 provide staff support to the Commission. The Commission may request assistance from State
+3 agencies, academic institutions, and subject-matter experts as necessary to carry out its duties.
+4 SECTION 4.1.(f) Report. – The Commission shall submit a report of its findings
+5 and recommendations, including any recommended legislation, to the General Assembly no later
+6 than December 31, 2027.
+7 SECTION 4.1.(g) Sunset. – The Commission shall terminate upon the submission
+8 of its report to the General Assembly, unless extended by an act of the General Assembly.
+9
+10 PART V. EFFECTIVE DATE
+11 SECTION 5.1. Except as otherwise provided, this act is effective July 1, 2026.
+DRH10581-MGa-149 Page 11
+[DELETED:  D A ( R  A P A W D B S H A C I L C O F C A T G W O N C G S P A N C p a 6 a o i g r a i O a y a t h a c s i b w s l w d a I p h f m i a d c t u M e a N t l c a o a g F c a p e y f l a T o l a t r a a p a a D t w c a r c m]
+[DELETED:  S  D A c p f t p a i p w s o o l c s s a t g w a i i h c i n t p o N C a I I O L S & S F A C S P F M 2  P 6 o A 2 o C 1 o t G S i 1  P i f o h a c s f P P M r i a i l c s i a n f o a a c h o u a d d t h a A A W A I D R F M B R 2  P 6 o A 2 o C 1 o t G S i 1  M r f i r l s a F a P – T G A f t t u o m m i a w i r o f c i]
+[DELETED:  S  P r p h a u h c e b e r M r t i p i m d t S A r o a p m a t t e f m a s k t b u b t A A D Q R – M r s b c b a l D A – T D m a r t a f a c a p p c m a t I I O B H A G C F 2  P 6 o A 2 o C 1 o t G S i 1  I o b h s f o a r P – T p o t s i t e t o a r l s a s h a t a b h s i o t i q o l r h a d r o i s o c I R – T D s e t b h S S a a f d a d A t m h a s u d d b]
+[DELETED:  S  D D b h i d t a s w u r o p C C i s t r a e d M P – T D s p c m a c I T a W S – T D m s t a 2  P 6 o A 2 o C 1 o t G S i 1  S f s i a l c c a P – T p o t s i t i e i a s a s i o t p a h d f S i a l a a a 5 o o r M s a s u e s t a b t C C a R – W s i s s T P r f f e i b h I C S – S i a l w i t C w l a a a a w i e f I]
+[DELETED:  S  P a s s f o a w r h o M a 3  I d c a l t h T T T T b p c i s o o I w l g o p e t d c S C A S P C]
+[DELETED:  S  D S G o o p o t t c s t r r b t s s i a l a o t f T M R Q L 3  T D o H a H S D o e r f p t r o r i l c f a c I E p f h a S a r o I S P H a H S D o A O o t S L C]
+[DELETED:  S  P s ( o t s a t i t s a r c p H E a t t O P c i S t t c m s a a S d o s s A P S l p a o e r f t p o i l c f t r o l c R S H S a t F R D o t i s o T A C R T A W P A D C C 1  G w p a d c c a T T E g c t p f n p s E p w c c a e t c p c f d c w a o f]
+[DELETED:  S  D E c m t s a f e I r i t t r c u a a e w s i g a E c t a p i o w l o i g a l c I E r f t m o s l S t a a t p m f l f I C d u t p s t t e p b N E A d o a s p c d u t T A A R a s o a w c t r i t h a b a a t M f c s s]
+[DELETED:  S  P 3  T D o a H S D o p f e f c o M b r l a s t m t r o t s i a a 3  D s a r o c c p a T c r i a o a o o i r c s b a i r o h i T T T f c s a t d a p L D F C F S t p p i i u t s D s r t t J A T A A e o t p p o w r t a o t C B A N M O A]
+[DELETED:  S  D f y a t s o s h f t d ( i 4  D – I s a r l p n f N C t r t t n o i a p t L s a s i h a c W S H A F O L S m a b t P P T o t S t S T T T T T T A a m c g d a s]
+[DELETED:  S  P]
+
+
+================================================================================
+
+Raw Text:
+H.B. 1138
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 29, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH10581-MGa-149
+Short Title: Aging With Dignity Act. (Public)
+Sponsors: Representative Ball.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT PROMOTING AGING WITH DIGNITY BY STRENGTHENING HOME- AND
+3 COMMUNITY-BASED CARE; IMPROVING LONG-TERM CARE OVERSIGHT;
+4 SUPPORTING FAMILY CAREGIVERS AND THE GERIATRIC WORKFORCE;
+5 APPROPRIATING FUNDS FOR STRATEGIC STATE INVESTMENTS TO MEET THE
+6 NEEDS OF NORTH CAROLINA'S GROWING SENIOR POPULATION; AND
+7 REESTABLISHING A STUDY COMMISSION ON AGING.
+8 The General Assembly of North Carolina enacts:
+9
+10 PART I. LEGISLATIVE FINDINGS
+11 SECTION 1.1. The General Assembly finds all of the following:
+12 (1) North Carolina's population aged 65 and older is growing rapidly and is
+13 projected to exceed 2.4 million residents by 2030, significantly increasing
+14 demand for long-term services and supports.
+15 (2) Older adults overwhelmingly prefer to remain in their homes and communities
+16 when appropriate, yet access to home- and community-based services is
+17 limited by workforce shortages, long waitlists, geographic disparities, and
+18 administrative barriers.
+19 (3) Institutional long-term care is costly to individuals, families, and the State,
+20 while preventable hospitalizations, falls, medication-related injuries, and
+21 delayed discharges contribute to unnecessary Medicaid expenditures and
+22 strain the health care system.
+23 (4) North Carolina relies on a direct care workforce that experiences low wages,
+24 high turnover, limited career advancement opportunities, and growing
+25 shortages that threaten access to safe and timely care for older adults.
+26 (5) Family caregivers provide substantial unpaid care that reduces reliance on
+27 institutional care and public expenditures, yet frequently lack adequate
+28 financial support, respite services, and care coordination resources.
+29 (6) The State has a responsibility to ensure that long-term care facilities operate
+30 with transparency, accountability, and a focus on resident dignity, safety, and
+31 quality of life and that regulatory and advocacy programs are adequately
+32 staffed and empowered to protect residents.
+33 (7) Demographic trends, workforce constraints, and rising costs make
+34 continuation of current long-term care policies unsustainable without targeted
+35 reforms and strategic investments.
+*DRH10581-MGa-149*
+
+General Assembly Of North Carolina Session 2025
+1 (8) A coordinated policy framework that prioritizes aging in place when
+2 appropriate, strengthens oversight of long-term care settings, supports
+3 caregivers and the geriatric workforce, and invests in high-value,
+4 person-centered care is necessary to protect older North Carolinians and
+5 ensure responsible stewardship of public resources.
+6
+7 PART II. IMPROVEMENT OF LONG-TERM SERVICES & SUPPORTS FOR
+8 MEDICAID BENEFICIARIES
+9
+10 HOME- AND COMMUNITY-BASED SERVICES PRESUMPTION FOR MEDICAID
+11 BENEFICIARIES
+12 SECTION 2.1. Part 6 of Article 2 of Chapter 108A of the General Statutes is
+13 amended by adding a new section to read:
+14 "§ 108A-70.5A. Presumption in favor of home- and community-based services for
+15 long-term services and supports.
+16 (a) Policy of the State. – It is the policy of the State that individuals aged 55 or older who
+17 require long-term services and supports funded in whole or in part by the medical assistance
+18 program should receive those services in the most integrated setting appropriate to their needs,
+19 consistent with federal law.
+20 (b) Presumption Established. – Except as provided in subsection (e) of this section, for
+21 purposes of Medicaid-funded long-term services and supports, home- and community-based
+22 services shall be presumed to be the preferred setting of care unless institutional placement is
+23 determined to be medically necessary.
+24 (c) Medical Necessity Determination. – An individual aged 55 or older may be placed in,
+25 or remain in, an institutional long-term care setting, including a nursing facility or a
+26 Medicaid-funded adult care home, only upon a documented determination that home- and
+27 community-based services are insufficient to meet the individual's assessed clinical, functional,
+28 or safety needs.
+29 (d) Assessment and Documentation. – The determination required under subsection (c)
+30 of this section shall include all of the following:
+31 (1) A standardized assessment approved by the Department.
+32 (2) Written clinical justification supporting the need for institutional placement.
+33 (3) A periodic reassessment at intervals established by the Department.
+34 (e) Individual Choice. – Nothing in this section shall be construed to limit an individual's
+35 right to choose an institutional setting when otherwise eligible, provided the individual has been
+36 informed of available home- and community-based service options.
+37 (f) Department Authority. – The Department shall implement this section and may adopt
+38 rules and policies necessary to carry out its provisions, including establishing clinical criteria,
+39 defining exceptions, and seeking any necessary federal approvals, waivers, or amendments to the
+40 Medicaid State Plan."
+41
+42 POLYPHARMACY REVIEW FOR MEDICAID BENEFICIARIES RECEIVING
+43 LONG-TERM SERVICES AND SUPPORTS
+44 SECTION 2.2. Part 6 of Article 2 of Chapter 108A of the General Statutes is
+45 amended by adding a new section to read:
+46 "§ 108A-70.5B. Medication review for individuals receiving long-term services and
+47 supports.
+48 (a) Findings and Purpose. – The General Assembly finds that the use of multiple
+49 concurrent medications is associated with increased risk of falls, cognitive impairment,
+50 hospitalization, and diminished quality of life among older adults. The purpose of this section is
+Page 2 DRH10581-MGa-149
+
+General Assembly Of North Carolina Session 2025
+1 to reduce preventable harm and unnecessary health care expenditures by ensuring regular,
+2 comprehensive medication review for individuals receiving long-term services and supports.
+3 (b) Medication Review Required. – The Department shall ensure that individuals aged
+4 55 or older receiving Medicaid-funded long-term services and supports are provided periodic
+5 medication reviews to identify potentially inappropriate medications, duplicative therapies,
+6 adverse drug interactions, and opportunities for medication optimization.
+7 (c) Scope of Review. – Medication reviews under this section shall include all of the
+8 following:
+9 (1) A review of all prescription medications and, to the extent feasible,
+10 over-the-counter medications and supplements known to be used by the
+11 individual.
+12 (2) A consideration of the cumulative medication burden, drug-drug interactions,
+13 and drug-condition interactions.
+14 (3) An evaluation of medications associated with increased risk of falls, sedation,
+15 confusion, or functional decline.
+16 (4) Documentation in the individual's care record.
+17 (d) Qualified Reviewers. – Medication reviews shall be conducted by a licensed
+18 pharmacist, physician, or other qualified health care professional authorized by the Department
+19 and acting within the scope of licensure.
+20 (e) Deprescribing Authority. – The Department may adopt rules to allow for
+21 deprescribing or medication modification when clinically appropriate, including processes for
+22 communication and coordination among prescribers, pharmacists, care managers, and the
+23 individual or the individual's representative.
+24 (f) Integration with Care Planning. – Medication review findings under this section shall
+25 be incorporated into the individual's care plan and used to inform service authorization, care
+26 coordination, and reassessment decisions.
+27 (g) Implementation Flexibility. – The Department may implement this section through
+28 managed care contracts, clinical policy, or other administrative mechanisms and may prioritize
+29 implementation for individuals at highest risk of medication-related harm."
+30
+31 INTEGRATION OF BEHAVIORAL HEALTH AND GERIATRIC CARE FOR
+32 MEDICAID BENEFICIARIES
+33 SECTION 2.3. Part 6 of Article 2 of Chapter 108A of the General Statutes is
+34 amended by adding a new section to read:
+35 "§ 108A-70.5C. Integration of behavioral health services for older adults receiving
+36 long-term services and supports.
+37 (a) Purpose. – The purpose of this section is to ensure that older adults receiving
+38 Medicaid-funded long-term services and supports have access to age-appropriate,
+39 dementia-capable behavioral health services in order to improve quality of life, reduce
+40 preventable hospitalizations, and decrease reliance on inappropriate sedation or chemical
+41 restraint.
+42 (b) Integration Requirement. – The Department shall ensure that behavioral health
+43 assessment, treatment, and care coordination are integrated into the delivery of Medicaid-funded
+44 long-term services and supports for adults aged 55 or older, including individuals with dementia
+45 or cognitive impairment.
+46 (c) Scope of Services. – Behavioral health integration under this section shall include all
+47 of the following:
+48 (1) Screening and assessment for depression, anxiety, dementia-related
+49 behavioral symptoms, and other geriatric behavioral health needs.
+50 (2) Access to mental health and substance use disorder services delivered by
+51 clinicians with training or experience in geriatric care.
+DRH10581-MGa-149 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (3) Dementia-capable behavioral health interventions designed to address
+2 behavioral symptoms without unnecessary reliance on pharmacological
+3 treatment.
+4 (4) Care coordination among primary care providers, behavioral health providers,
+5 pharmacists, and long-term services and supports providers.
+6 (5) Crisis intervention strategies that reduce avoidable emergency department
+7 visits and hospitalizations.
+8 (d) Medication Practices. – The Department shall promote care models and clinical
+9 practices that prioritize nonpharmacological and person-centered interventions for behavioral
+10 symptoms in adults aged 55 or older and shall discourage the use of antipsychotics, sedatives, or
+11 other medications when not clinically indicated.
+12 (e) Implementation. – The Department may adopt rules to implement this section through
+13 clinical policy, managed care contracts, provider standards, care management requirements, or
+14 other administrative mechanisms and may prioritize implementation for individuals at highest
+15 risk of behavioral health-related hospitalization or institutional placement.
+16 (f) Training and Workforce Support. – The Department may support training and
+17 technical assistance for providers and care managers to build geriatric behavioral health and
+18 dementia-capable care expertise."
+19
+20 RECOGNITION OF SOCIAL ISOLATION AND LONELINESS IN CARE PLANNING
+21 FOR OLDER ADULT MEDICAID BENEFICIARIES
+22 SECTION 2.4. Part 6 of Article 2 of Chapter 108A of the General Statutes is
+23 amended by adding a new section to read:
+24 "§ 108A-70.5D. Screening for social isolation and loneliness; care coordination and
+25 referral.
+26 (a) Purpose. – The purpose of this section is to improve early identification and
+27 intervention for social isolation and loneliness among older adults receiving Medicaid-funded
+28 long-term services and supports in order to prevent avoidable health decline, functional
+29 impairment, and progression to more serious mental health conditions.
+30 (b) Screening Authorized. – The Department shall authorize and promote screening for
+31 social isolation and loneliness among adults aged 55 or older receiving Medicaid-funded
+32 long-term services and supports, using evidence-based screening tools approved by the
+33 Department.
+34 (c) Care Coordination and Referral. – When screening indicates significant social
+35 isolation or loneliness, the Department shall ensure that those findings may be used to do any of
+36 the following:
+37 (1) Trigger care coordination activities.
+38 (2) Prompt referral for further clinical evaluation, including behavioral health
+39 assessment when appropriate.
+40 (3) Inform individualized care planning and service authorization decisions.
+41 (d) Covered Services. – Social isolation and loneliness, when identified through
+42 authorized screening, shall be recognized as valid factors for purposes of Medicaid-funded care
+43 coordination, assessment, and referral services. Nothing in this section shall be construed to
+44 require coverage of room and board or nonmedical housing costs.
+45 (e) Clinical Evaluation Not Precluded. – A finding of social isolation or loneliness shall
+46 not be used as a substitute for clinical evaluation. The Department shall ensure that symptoms
+47 associated with loneliness are appropriately addressed and, when indicated, evaluated for
+48 depression, anxiety, cognitive impairment, or other diagnosable conditions.
+49 (f) Implementation. – The Department may adopt rules to implement this section through
+50 clinical policy, care management requirements, managed care contracts, or other administrative
+Page 4 DRH10581-MGa-149
+
+General Assembly Of North Carolina Session 2025
+1 mechanisms and may prioritize implementation for individuals at higher risk of hospitalization,
+2 functional decline, or institutional placement."
+3
+4 PART III. APPROPRIATIONS FOR STRATEGIC STATE INVESTMENTS TO MEET
+5 THE NEEDS OF NORTH CAROLINA'S GROWING SENIOR POPULATION
+6
+7 INTEGRATED SENIOR HOUSING AND CARE PILOT PROGRAM
+8 SECTION 3.1.(a) The Department of Health and Human Services shall establish
+9 and conduct an integrated senior housing and care pilot program (pilot program). The purpose of
+10 the pilot program is to initiate a public-private partnership to plan, design, construct, and launch
+11 a housing-first residential facility that integrates on-site medical, behavioral health, pharmacy,
+12 rehabilitative, and supportive services for older adults who rely heavily on Medicare and
+13 Medicaid services.
+14 SECTION 3.1.(b) In designing, constructing, and launching the housing-first
+15 residential facility for use in the pilot program, the Department of Health and Human Services
+16 and any entity selected to partner with the Department of Health and Human Services shall adhere
+17 to all of the following requirements:
+18 (1) The facility shall consist of not more than 300 residential units located at a
+19 single site.
+20 (2) The facility shall be operated as housing-first, with residents retaining tenancy
+21 rights and receiving health and supportive services through integrated on-site
+22 or affiliated providers.
+23 (3) The facility shall be designed to serve individuals who are dually eligible for
+24 Medicare and Medicaid, and participation in Medicaid-funded services is a
+25 condition of all pilot program participants, including facility residents and
+26 entities that partner with the Department of Health and Human Services to
+27 operate the facility.
+28 (4) The facility shall be designed to reduce care fragmentation and unnecessary
+29 transitions by providing coordinated, interdisciplinary services on-site or
+30 through formal partnerships.
+31 SECTION 3.1.(c) The Department of Health and Human Services is authorized to
+32 do all of the following to establish and conduct the pilot program:
+33 (1) Implement a selection process for contracting with one or more nonprofit
+34 organizations, local governments, or private entities to design, construct,
+35 launch, and operate the facility.
+36 (2) Structure the pilot program as a public-private partnership by leveraging both
+37 public and private sector expertise and a mixture of funding sources, including
+38 public sector grants, loans provided by public or private institutions or both,
+39 and other financing mechanisms.
+40 (3) Coordinate with other State agencies and seek federal approvals, waivers, or
+41 financing mechanisms to support the pilot program.
+42 (4) Adopt rules as necessary to carry out the pilot program.
+43 SECTION 3.1.(d) There is appropriated from the General Fund to the Department
+44 of Health and Human Services the sum of one hundred twenty million dollars ($120,000,000) in
+45 nonrecurring funds for the 2026-2027 fiscal year to establish and conduct the integrated senior
+46 housing and care pilot program authorized by this section. Funds appropriated by this subsection
+47 shall not be used for any purposes other than the following:
+48 (1) Site acquisition, planning, and design costs.
+49 (2) Predevelopment and construction costs.
+50 (3) Capital costs necessary to integrate on-site clinical and supportive service
+51 capacity.
+DRH10581-MGa-149 Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (4) Start-up and initial operating costs, including those associated with staffing,
+2 care coordination infrastructure, and program launch expenses, as determined
+3 necessary by the Department of Health and Human Services.
+4 Notwithstanding G.S. 143C-1-2(b) or any other provision of law to the contrary,
+5 funds appropriated by this subsection shall not revert at the end of the 2026-2027 fiscal year but
+6 shall remain available for the purposes authorized by this subsection until expended.
+7 SECTION 3.1.(e) Beginning May 1, 2028, and annually thereafter for as long as
+8 funds appropriated by this section remain available for expenditure, the Department of Health
+9 and Human Services shall report to the Joint Legislative Oversight Committee on Health and
+10 Human Services and the Fiscal Research Division on the implementation status and operation of
+11 the integrated senior housing and care pilot program authorized by this section. Beginning one
+12 year after initial occupancy of the housing-first residential facility funded by subsection (d) of
+13 this section, the report required by this section shall include at least all of the following
+14 information regarding the occupants of that residential facility:
+15 (1) The number of residents and their demographic data, including, at a minimum,
+16 their age and sex.
+17 (2) Medicaid and Medicare utilization trends.
+18 (3) Rates of hospitalization, institutional placement, and transitions of care.
+19 (4) Quality-of-life and resident satisfaction measures.
+20 (5) Lessons learned and recommendations regarding scalability or replication of
+21 this pilot program.
+22 SECTION 3.1.(f) The pilot program authorized by this section terminates at the end
+23 of the fiscal year in which the funds appropriated pursuant to subsection (d) of this section are
+24 expended.
+25
+26 STRENGTHENING THE LONG-TERM CARE OMBUDSMAN PROGRAM
+27 SECTION 3.2.(a) The Department of Health and Human Services, Division of
+28 Aging, Office of the State Long-Term Care Ombudsman, shall work toward strengthening the
+29 State Long-Term Care Ombudsman Program (Ombudsman Program) by improving access to
+30 Ombudsman Program services; reducing the backlog of complaints received by the Ombudsman
+31 Program; improving response times in high-priority cases involving immediate threats to the
+32 health, safety, or rights of residents in long-term care facilities; and enhancing coordination with
+33 other entities responsible for protecting the rights of residents in long-term care facilities,
+34 regulating long-term care facilities, or a combination of those.
+35 SECTION 3.2.(b) No later than January 1, 2027, the Department of Health and
+36 Human Services, Division of Aging, Office of the State Long-Term Care Ombudsman, shall
+37 develop and begin implementing a staffing and regional coverage plan for the Ombudsman
+38 Program that accomplishes all of the following:
+39 (1) Identifies staffing vacancies, workload pressures, and regional service gaps.
+40 (2) Establishes priorities for hiring additional State and regional ombudsman
+41 personnel.
+42 (3) Improves timely on-site response capacity in high-priority cases.
+43 (4) Supports complaint intake, complaint investigation, complaint resolution, and
+44 follow-up.
+45 (5) Provides for training, travel, case management, and administrative support for
+46 State and regional ombudsman personnel as necessary to fulfill the objectives
+47 of the Ombudsman Program.
+48 SECTION 3.2.(c) There is appropriated from the General Fund to the Department
+49 of Health and Human Services, Division of Aging, Office of the State Long-Term Care
+50 Ombudsman, the sum of three million five hundred thousand dollars ($3,500,000) in recurring
+51 funds beginning in the 2026-2027 fiscal year to improve the Ombudsman Program as specified
+Page 6 DRH10581-MGa-149
+
+General Assembly Of North Carolina Session 2025
+1 in subsection (a) of this section and to implement the staffing and regional coverage plan
+2 described in subsection (b) of this section. Funds appropriated by this subsection shall not be
+3 used for any purposes other than the following:
+4 (1) Hiring additional State and regional ombudsman personnel.
+5 (2) Expanding access to the Ombudsman Program, complaint intake,
+6 investigation, resolution, and follow-up capacity.
+7 (3) Supporting travel, training, case management systems, and administrative
+8 functions for State and regional ombudsman personnel.
+9 (4) Strengthening coordination with the Division of Health Service Regulation;
+10 county departments of social services; Adult Protective Services; legal
+11 services providers; and other entities responsible for the protection of
+12 residents in long-term care facilities, the regulation of long-term care
+13 facilities, or a combination of those.
+14 (5) Reducing complaint backlogs and improving response times in high-priority
+15 cases.
+16 (6) Supporting data collection, reporting, and program administration necessary
+17 to carry out this section.
+18 SECTION 3.2.(d) No later than December 1, 2027, and annually thereafter, the
+19 Department of Health and Human Services, Division of Aging, Office of the State Long-Term
+20 Care Ombudsman, shall submit a report to the Joint Legislative Oversight Committee on Health
+21 and Human Services and the Fiscal Research Division on the implementation status of this
+22 section. The report shall include at least all of the following information regarding the activities
+23 of the Ombudsman Program:
+24 (1) The number and type of complaints received.
+25 (2) Average response times and average resolution times.
+26 (3) Complaint backlogs, staffing vacancies, and regional coverage gaps.
+27 (4) Referrals made to regulatory, protective, or law enforcement agencies.
+28 (5) The use of funds appropriated by subsection (c) of this section.
+29 (6) Any recommendations for administrative or legislative action.
+30
+31 GERIATRIC WORKFORCE PIPELINE AND DIRECT CARE CAREER
+32 ADVANCEMENT PROGRAM
+33 SECTION 3.3.(a) Article 3 of Chapter 143B of the General Statutes is amended by
+34 adding a new section to read:
+35 "§ 143B-181.27. Geriatric workforce pipeline and direct care career advancement
+36 program.
+37 (a) The Department of Health and Human Services (DHHS), in consultation with the
+38 North Carolina Community Colleges System Office, The University of North Carolina System
+39 Office, the North Carolina Independent Colleges and Universities, the Department of Commerce,
+40 and relevant licensing boards, shall establish a geriatric workforce pipeline and direct care career
+41 advancement program (the program). The purpose of the program is to increase the supply,
+42 geographic distribution, retention, and advancement of workers prepared to serve older adults in
+43 a diversity of settings, including home- and community-based settings, nursing facilities, adult
+44 care homes, and hospitals.
+45 (b) The program shall be designed to achieve all of the following goals:
+46 (1) Establish geriatric care training pathways for nurses, physicians, social
+47 workers, pharmacists, behavioral health professionals, direct care workers,
+48 and other relevant personnel.
+49 (2) Establish partnerships with community colleges and employers to create
+50 stackable, portable credentials for direct care workers and other frontline
+51 personnel serving older adults.
+DRH10581-MGa-149 Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (3) Establish career ladder models that support advancement from entry-level
+2 direct care roles into more specialized or higher-paid roles.
+3 (4) Implement recruitment initiatives targeted to rural counties, underserved
+4 communities, and areas experiencing workforce shortages in geriatric and
+5 long-term care settings.
+6 (5) Establish clinical training, apprenticeships, preceptorships, internships, or
+7 other work-based learning opportunities in geriatric and long-term care
+8 settings.
+9 (6) Improve retention supports for the geriatric workforce, including mentoring,
+10 supervision, and continuing education.
+11 (7) Elicit recommendations for the modernization of scope-of-practice laws,
+12 rules, or supervision requirements, where appropriate, to improve access to
+13 safe and timely geriatric care while maintaining patient protections.
+14 (c) Subject to available appropriations, the program may fund loan forgiveness,
+15 forgivable loans, tuition assistance, or similar incentives for eligible individuals who commit to
+16 practicing in geriatric, long-term care, or direct care service settings in this State for a minimum
+17 period of time established by the DHHS.
+18 (d) In administering the program, the DHHS shall prioritize workforce investments that
+19 expand service capacity for Medicaid beneficiaries, individuals with dementia, family caregiver
+20 support programs, and older adults residing in rural or high-need areas.
+21 (e) Credentials developed under this program shall, to the extent practicable, be
+22 recognized across participating employers and training institutions in order to facilitate worker
+23 mobility, advancement, and retention.
+24 (f) No later than October 1 of each year, the DHHS shall report to the Joint Legislative
+25 Oversight Committee on Health and Human Services, the Joint Legislative Education Oversight
+26 Committee, and the Fiscal Research Division on the implementation status and operation of the
+27 program. The report shall include, at a minimum, the following information:
+28 (1) Enrollment data for all training and education pathways developed under the
+29 program.
+30 (2) A description of any stackable, portable credentials developed under the
+31 program for direct care workers and other frontline personnel serving older
+32 adults and the number of individuals who obtained these credentials.
+33 (3) The number of vacancies filled as a result of the program.
+34 (4) An evaluation of the retention rates of direct care workers and other frontline
+35 personnel as a result of the program.
+36 (5) Any recommended legislative changes to improve program administration or
+37 to increase the supply, geographic distribution, retention, and advancement of
+38 workers prepared to serve older adults in a diversity of settings.
+39 (g) Rules. – The DHHS may adopt rules to implement the program."
+40 SECTION 3.3.(b) There is appropriated from the General Fund to the Department
+41 of Health and Human Services the sum of ten million dollars ($10,000,000) in recurring funds
+42 beginning in the 2026-2027 fiscal year to implement the geriatric workforce pipeline and direct
+43 care career advancement program authorized by G.S. 143B-181.27, as enacted by subsection (a)
+44 of this section.
+45
+46 FAMILY CAREGIVER SUPPORT STIPEND PILOT PROGRAM
+47 SECTION 3.4.(a) The purpose of the proposed family caregiver support stipend
+48 pilot program (the pilot program) is to reduce caregiver burnout, delay or prevent avoidable
+49 institutionalization, and support older adults who choose to remain in their homes and
+50 communities by authorizing a targeted Medicaid-funded family caregiver support stipend,
+51 subject to federal approval and available appropriations.
+Page 8 DRH10581-MGa-149
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.4.(b) The Department of Health and Human Services, Division of
+2 Health Benefits (DHB), is directed to take all actions necessary to support implementation of the
+3 pilot program for eligible family caregivers of Medicaid beneficiaries receiving long-term
+4 services and supports that meets the requirements of this section, including, as applicable,
+5 submitting any necessary documentation to the Centers for Medicare and Medicaid Services
+6 (CMS), including State Plan Amendments and waiver amendments.
+7 SECTION 3.4.(c) DHB shall only implement the pilot program described in this
+8 section if any necessary submissions to CMS under subsection (b) of this section are approved.
+9 SECTION 3.4.(d) The monthly stipend provided under the pilot program shall be a
+10 maximum of four hundred dollars ($400.00) to each eligible family caregiver per eligible care
+11 recipient.
+12 SECTION 3.4.(e) DHB shall adopt rules or clinical coverage policies, as
+13 appropriate, establishing eligibility criteria for care recipients and family caregivers for the pilot
+14 program, that shall include at least all of the following:
+15 (1) The care recipient is an older adult or other individual receiving
+16 Medicaid-funded long-term services and supports who would, in the absence
+17 of caregiver support, be at increased risk of hospitalization, institutional
+18 placement, or other higher-cost care.
+19 (2) The care recipient is living in a home- or community-based setting.
+20 (3) The family caregiver provides substantial assistance with activities of daily
+21 living, instrumental activities of daily living, supervision, or other support
+22 identified by DHB.
+23 (4) The family caregiver satisfies any training, documentation, and program
+24 integrity requirements established by DHB.
+25 SECTION 3.4.(f) DHB shall adopt rules or clinical coverage policies, as appropriate,
+26 establishing guardrails for the pilot program, which may include any of the following:
+27 (1) Limits on duplication of payment where the family caregiver is otherwise
+28 compensated through another Medicaid service category for the same service.
+29 (2) Documentation requirements of caregiving activities.
+30 (3) Family caregiver training requirements.
+31 (4) Care assessments and periodic reassessments.
+32 (5) Fraud prevention and recovery procedures.
+33 (6) Safeguards to protect beneficiary choice, health, safety, and quality of care.
+34 SECTION 3.4.(g) No later than six months after receiving any federal approval on
+35 any submissions under subsection (b) of this section, and annually thereafter for any year in
+36 which the pilot program is implemented under this section, DHB shall report to the Joint
+37 Legislative Oversight Committee on Medicaid and the Fiscal Research Division. This report shall
+38 include all of the following, as applicable:
+39 (1) An overview of implementation activities.
+40 (2) The number of family caregivers and care recipients participating in the pilot
+41 program.
+42 (3) An overview of total expenditures on the pilot program.
+43 (4) An evaluation of the pilot program outcomes with respect to all of the
+44 following:
+45 a. Caregiver burden.
+46 b. Beneficiary satisfaction.
+47 c. Avoidable hospitalizations.
+48 d. Nursing facility admissions.
+49 e. Medicaid cost avoidance.
+50 f. Other measures as DHB deems appropriate.
+51 (5) Any recommended legislative changes.
+DRH10581-MGa-149 Page 9
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.4.(h) Nothing in this section shall be construed to create an entitlement
+2 to a stipend absent federal approval and an appropriation enacted by the General Assembly.
+3 SECTION 3.4.(i) There is appropriated from the General Fund to DHB the sum of
+4 thirteen million five hundred thousand dollars ($13,500,000) in recurring funds beginning in the
+5 2026-2027 fiscal year and the sum of seven hundred fifty thousand dollars ($750,000) in
+6 nonrecurring funds for the 2026-2027 fiscal year to be used to implement this section. The funds
+7 appropriated under this subsection shall not be used for any other purpose and shall revert at the
+8 end of the fiscal year in which they are appropriated if not expended.
+9 SECTION 3.4.(j) This section shall expire two years after it becomes law.
+10
+11 PART IV. REESTABLISHMENT OF STUDY COMMISSION ON AGING
+12 SECTION 4.1.(a) Commission Created; Purpose. – There is created the Aging Study
+13 Commission (Commission) for the purpose of studying and recommending legislative and policy
+14 changes necessary for North Carolina to respond to the needs of its aging population, particularly
+15 as the first wave of the baby boom generation reaches advanced age beginning in 2026.
+16 SECTION 4.1.(b) Duties. – In studying and recommending legislative policy
+17 changes necessary for North Carolina to respond to the needs of its aging population, the
+18 Commission shall examine at least all of the following issues related to aging:
+19 (1) Long-term services and supports, including home- and community-based
+20 services and institutional care.
+21 (2) Workforce capacity and training for geriatric and direct care professions.
+22 (3) Support for family caregivers.
+23 (4) Housing, transportation, and community infrastructure necessary to support
+24 aging in place.
+25 (5) Accessibility and quality of health care for older adults, including integrated
+26 behavioral health and dementia-capable services.
+27 (6) Financing and sustainability of services for older adults, including through
+28 Medicaid and other programs of public assistance.
+29 (7) Oversight, quality, and accountability in long-term care settings.
+30 (8) Legislative proposals to implement the findings of the Governor's Advisory
+31 Council on Aging.
+32 SECTION 4.1.(c) Membership. – The Commission shall consist of the following 15
+33 voting members and five ex officio, nonvoting members:
+34 (1) Six members appointed by the President Pro Tempore of the Senate; the
+35 persons appointed may be members of the Senate or public members.
+36 (2) Six members appointed by the Speaker of the House of Representatives; the
+37 persons appointed may be members of the House of Representatives or public
+38 members.
+39 (3) Three public members appointed by the Governor.
+40 (4) The following ex officio, nonvoting members or their designees:
+41 a. The Secretary of the Department of Health and Human Services.
+42 b. The Director of the Division of Aging.
+43 c. The Director of the Division of Health Benefits.
+44 d. The Secretary of Commerce.
+45 e. A representative of the Governor's Council on Aging.
+46 Appointing authorities may consider geographic diversity and subject-matter
+47 expertise when making their appointments. Any vacancies on the Commission shall be filled by
+48 the original appointing authorities.
+49 SECTION 4.1.(d) Meetings. – The Commission shall meet at the call of the cochairs.
+50 The President Pro Tempore of the Senate and the Speaker of the House of Representatives shall
+51 each designate one cochair from among the legislative members.
+Page 10 DRH10581-MGa-149
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.1.(e) Staffing and Assistance. – The Legislative Services Office shall
+2 provide staff support to the Commission. The Commission may request assistance from State
+3 agencies, academic institutions, and subject-matter experts as necessary to carry out its duties.
+4 SECTION 4.1.(f) Report. – The Commission shall submit a report of its findings
+5 and recommendations, including any recommended legislation, to the General Assembly no later
+6 than December 31, 2027.
+7 SECTION 4.1.(g) Sunset. – The Commission shall terminate upon the submission
+8 of its report to the General Assembly, unless extended by an act of the General Assembly.
+9
+10 PART V. EFFECTIVE DATE
+11 SECTION 5.1. Except as otherwise provided, this act is effective July 1, 2026.
+DRH10581-MGa-149 Page 11
+
+[DELETED:  D A ( R  A P A W D B S H A C I L C O F C A T G W O N C G S P A N C p a 6 a o i g r a i O a y a t h a c s i b w s l w d a I p h f m i a d c t u M e a N t l c a o a g F c a p e y f l a T o l a t r a a p a a D t w c a r c m]
+[DELETED:  S  D A c p f t p a i p w s o o l c s s a t g w a i i h c i n t p o N C a I I O L S & S F A C S P F M 2  P 6 o A 2 o C 1 o t G S i 1  P i f o h a c s f P P M r i a i l c s i a n f o a a c h o u a d d t h a A A W A I D R F M B R 2  P 6 o A 2 o C 1 o t G S i 1  M r f i r l s a F a P – T G A f t t u o m m i a w i r o f c i]
+[DELETED:  S  P r p h a u h c e b e r M r t i p i m d t S A r o a p m a t t e f m a s k t b u b t A A D Q R – M r s b c b a l D A – T D m a r t a f a c a p p c m a t I I O B H A G C F 2  P 6 o A 2 o C 1 o t G S i 1  I o b h s f o a r P – T p o t s i t e t o a r l s a s h a t a b h s i o t i q o l r h a d r o i s o c I R – T D s e t b h S S a a f d a d A t m h a s u d d b]
+[DELETED:  S  D D b h i d t a s w u r o p C C i s t r a e d M P – T D s p c m a c I T a W S – T D m s t a 2  P 6 o A 2 o C 1 o t G S i 1  S f s i a l c c a P – T p o t s i t i e i a s a s i o t p a h d f S i a l a a a 5 o o r M s a s u e s t a b t C C a R – W s i s s T P r f f e i b h I C S – S i a l w i t C w l a a a a w i e f I]
+[DELETED:  S  P a s s f o a w r h o M a 3  I d c a l t h T T T T b p c i s o o I w l g o p e t d c S C A S P C]
+[DELETED:  S  D S G o o p o t t c s t r r b t s s i a l a o t f T M R Q L 3  T D o H a H S D o e r f p t r o r i l c f a c I E p f h a S a r o I S P H a H S D o A O o t S L C]
+[DELETED:  S  P s ( o t s a t i t s a r c p H E a t t O P c i S t t c m s a a S d o s s A P S l p a o e r f t p o i l c f t r o l c R S H S a t F R D o t i s o T A C R T A W P A D C C 1  G w p a d c c a T T E g c t p f n p s E p w c c a e t c p c f d c w a o f]
+[DELETED:  S  D E c m t s a f e I r i t t r c u a a e w s i g a E c t a p i o w l o i g a l c I E r f t m o s l S t a a t p m f l f I C d u t p s t t e p b N E A d o a s p c d u t T A A R a s o a w c t r i t h a b a a t M f c s s]
+[DELETED:  S  P 3  T D o a H S D o p f e f c o M b r l a s t m t r o t s i a a 3  D s a r o c c p a T c r i a o a o o i r c s b a i r o h i T T T f c s a t d a p L D F C F S t p p i i u t s D s r t t J A T A A e o t p p o w r t a o t C B A N M O A]
+[DELETED:  S  D f y a t s o s h f t d ( i 4  D – I s a r l p n f N C t r t t n o i a p t L s a s i h a c W S H A F O L S m a b t P P T o t S t S T T T T T T A a m c g d a s]
+[DELETED:  S  P]

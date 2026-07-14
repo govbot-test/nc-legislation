@@ -1,0 +1,116 @@
+Title: HOUSE BILL 1188
+Official Title: HOUSE BILL 1188
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Limits on Immigration Detention Facilities. (Public)
+Sponsors: Representatives Harrison, Butler, Cervania, and Cook (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+May 5, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROHIBIT CONTRACTS WITH CITY, COUNTY, OR LOCAL OR STATE
+3 LAW ENFORCEMENT TO DETAIN PERSONS FOR CIVIL IMMIGRATION
+4 CUSTODY.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Article 20 of Chapter 15A of the General Statutes is amended by
+7 adding a new section to read:
+8 "§ 15A-407. Limitations on immigration detention facilities.
+9 (a) For the purposes of this section, the term "immigration detention facility" means any
+10 facility located in this State that holds detainees for proceedings or removal from the United
+11 States under the authority of the United States Department of Homeland Security, the United
+12 States Immigration and Customs Enforcement, or the United States Customs and Border
+13 Protection.
+14 (b) A city, county, or local or State law enforcement agency shall not enter into a contract
+15 with the federal government or any federal agency or a private corporation, to house or detain in
+16 a locked immigration detention facility noncitizens for purposes of civil immigration custody.
+17 (c) A city, county, or local or State law enforcement agency shall not maintain a facility
+18 that is specifically used to house or detain noncitizens for purposes of civil immigration custody.
+19 (d) The Department of Public Safety (DPS) shall collect data from immigration detention
+20 facilities and report findings to the General Assembly annually by May 1. The information
+21 collected shall include all of the following information about detainees:
+22 (1) Demographic information.
+23 (2) Pending charges.
+24 (3) Pending citizenship or asylum cases of the detainee.
+25 (4) Location detained.
+26 (5) Date released, if applicable.
+27 (6) Date and location of deportation, if applicable."
+28 SECTION 2. There is appropriated from the General Fund to the North Carolina
+29 Department of Public Safety the sum of fifty thousand dollars ($50,000) in nonrecurring funds
+30 for the 2026-2027 fiscal year to be used for the administrative costs associated with implementing
+31 this act.
+32 SECTION 3. If any provision of this act or its application is held invalid, the
+33 invalidity does not affect other provisions or applications of this act that can be given effect
+34 without the invalid provisions or application, and to this end the provisions of this act are
+35 severable.
+*H1188-v-1*
+General Assembly Of North Carolina Session 2025
+1 SECTION 4. This act becomes effective December 1, 2026.
+Page 2 House Bill 1188-First Edition
+[DELETED:  1 L ( R R A A L E T D P F C I C T S a " ( F f S S I a C E o t U S C a B P ( A w a ( A t ( T f a c ( D ( P ( P ( L ( D ( D S D f t S 3  I a p o t a o i a i h i t i w t i p o a a t t e t p o t a a s]
+[DELETED:  S  H S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1188
+Short Title: Limits on Immigration Detention Facilities. (Public)
+Sponsors: Representatives Harrison, Butler, Cervania, and Cook (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+May 5, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROHIBIT CONTRACTS WITH CITY, COUNTY, OR LOCAL OR STATE
+3 LAW ENFORCEMENT TO DETAIN PERSONS FOR CIVIL IMMIGRATION
+4 CUSTODY.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Article 20 of Chapter 15A of the General Statutes is amended by
+7 adding a new section to read:
+8 "§ 15A-407. Limitations on immigration detention facilities.
+9 (a) For the purposes of this section, the term "immigration detention facility" means any
+10 facility located in this State that holds detainees for proceedings or removal from the United
+11 States under the authority of the United States Department of Homeland Security, the United
+12 States Immigration and Customs Enforcement, or the United States Customs and Border
+13 Protection.
+14 (b) A city, county, or local or State law enforcement agency shall not enter into a contract
+15 with the federal government or any federal agency or a private corporation, to house or detain in
+16 a locked immigration detention facility noncitizens for purposes of civil immigration custody.
+17 (c) A city, county, or local or State law enforcement agency shall not maintain a facility
+18 that is specifically used to house or detain noncitizens for purposes of civil immigration custody.
+19 (d) The Department of Public Safety (DPS) shall collect data from immigration detention
+20 facilities and report findings to the General Assembly annually by May 1. The information
+21 collected shall include all of the following information about detainees:
+22 (1) Demographic information.
+23 (2) Pending charges.
+24 (3) Pending citizenship or asylum cases of the detainee.
+25 (4) Location detained.
+26 (5) Date released, if applicable.
+27 (6) Date and location of deportation, if applicable."
+28 SECTION 2. There is appropriated from the General Fund to the North Carolina
+29 Department of Public Safety the sum of fifty thousand dollars ($50,000) in nonrecurring funds
+30 for the 2026-2027 fiscal year to be used for the administrative costs associated with implementing
+31 this act.
+32 SECTION 3. If any provision of this act or its application is held invalid, the
+33 invalidity does not affect other provisions or applications of this act that can be given effect
+34 without the invalid provisions or application, and to this end the provisions of this act are
+35 severable.
+*H1188-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 4. This act becomes effective December 1, 2026.
+Page 2 House Bill 1188-First Edition
+
+[DELETED:  1 L ( R R A A L E T D P F C I C T S a " ( F f S S I a C E o t U S C a B P ( A w a ( A t ( T f a c ( D ( P ( P ( L ( D ( D S D f t S 3  I a p o t a o i a i h i t i w t i p o a a t t e t p o t a a s]
+[DELETED:  S  H S]

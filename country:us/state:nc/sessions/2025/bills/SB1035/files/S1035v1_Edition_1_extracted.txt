@@ -1,0 +1,247 @@
+Title: SENATE BILL 1035
+Official Title: SENATE BILL 1035
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: Revise Math Graduation Requirements. (Public)
+Sponsors: Senator Garson (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO CHANGE HIGH SCHOOL GRADUATION REQUIREMENTS FOR
+3 MATHEMATICS TO FOLLOW CERTAIN MATHEMATICS PATHWAYS ADOPTED
+4 BY THE STATE BOARD OF EDUCATION, TO REQUIRE MATHEMATICS
+5 PATHWAYS TO BE INCLUDED IN CAREER DEVELOPMENT PLANS, TO REQUIRE
+6 THE STATE BOARD OF EDUCATION TO ADOPT RULES FOR CERTAIN
+7 MATHEMATICS PATHWAYS FOR GRADUATION, AND TO APPROPRIATE FUNDS
+8 TO THE DEPARTMENT OF PUBLIC INSTRUCTION TO IMPLEMENT THE
+9 PROVISIONS OF THIS ACT.
+10 The General Assembly of North Carolina enacts:
+11 SECTION 1. G.S. 115C-83.31 reads as rewritten:
+12 "§ 115C-83.31. Exit standards and graduation requirements.
+13 (a) The State Board of Education shall require the following for high school graduation:
+14 …
+15 (4) Passing grades in a sequence of four mathematics courses consistent with the
+16 following:
+17 a. NC Math 1.
+18 b. NC Math 2.
+19 c. Two additional mathematics courses required as part of one of the
+20 following pathway-aligned options adopted by the State Board:
+21 1. College preparatory pathway.
+22 2. Career and technical education (CTE) pathway.
+23 3. Quantitative reasoning and statistics pathway.
+24 4. Science, technology, engineering, and math (STEM)
+25 pathway."
+26 SECTION 2. G.S. 115C-158.10(c) reads as rewritten:
+27 "(c) The State Board of Education shall adopt rules establishing minimum requirements
+28 for career development plans and shall require local boards of education to provide access to all
+29 career development plans through a designated electronic application. Career development plans
+30 shall include at least the following:
+31 …
+32 (3) Alignment of academic courses and extracurricular activities with the
+33 student's identified career interests, including the following:
+34 a. Inventory of aligned courses in middle and high school in grades six
+35 through 10, and development of best strategies for course selection in
+*S1035-v-1*
+General Assembly Of North Carolina Session 2025
+1 grades 11 and 12 to achieve identified career interests, including
+2 courses that may lead to college credit.
+3 b. Available record of the following:
+4 1. Completed Advanced Placement, International Baccalaureate,
+5 Cambridge Advanced International Certificate of Education
+6 (AICE), and dual-enrollment courses that may lead to college
+7 credit in high school.
+8 2. Extracurricular activities.
+9 3. Awards and recognitions.
+10 c. Pathway-aligned sequences of mathematics courses adopted by the
+11 State Board of Education pursuant to G.S. 115C-83.31."
+12 …."
+13 SECTION 3. The State Board of Education shall adopt rules for pathway-aligned
+14 sequences of mathematics courses to be offered in high schools in the State by July 1, 2027. The
+15 State Board shall consult the Board of Governors of the University of North Carolina and the
+16 State Board of Community Colleges to ensure that all pathways align with the University of
+17 North Carolina minimum admission standards, North Carolina Community Colleges System
+18 expectations, and workforce and industry needs. Pathway-aligned sequences of courses adopted
+19 pursuant to the requirements of this section shall not apply to students who have been identified
+20 as a child with a disability in accordance with Article 9 of Chapter 115C of the General Statutes
+21 and whose IEP team has determined cannot satisfy the standard state graduation requirements.
+22 The State Board shall adopt the following pathway-aligned sequences of mathematics courses:
+23 (1) A college preparatory pathway designed for students planning to attend a
+24 four-year college or university that includes NC Math 3 and another high level
+25 mathematics course, such as the following:
+26 a. Precalculus.
+27 b. Advanced functions.
+28 c. Advanced Placement, International Baccalaureate, or Cambridge
+29 Advanced International Certificate of Education level mathematics
+30 courses.
+31 d. Equivalent courses as determined by the State Board.
+32 (2) A career and technical education (CTE) pathway designed for students
+33 planning to pursue workforce or technical careers that includes the following:
+34 a. Applied math or integrated mathematics courses aligned to CTE
+35 programs.
+36 b. Courses that incorporate algebra, statistics, and quantitative reasoning
+37 in real-world contexts.
+38 (3) A quantitative reasoning and statistics pathway designed for students planning
+39 to pursue careers in fields that require data literacy and applied mathematics
+40 that includes the following:
+41 a. NC Math 3 or an equivalent course approved by the State Board.
+42 b. Statistics, data science, or quantitative reasoning courses.
+43 (4) A science, technology, engineering, and math (STEM) pathway designed for
+44 students planning to pursue careers in STEM fields that includes NC Math 3
+45 and another high level mathematics course, such as the following:
+46 a. Precalculus.
+47 b. Calculus.
+48 c. Other advanced mathematics courses approved by the State Board.
+49 SECTION 4. Each local school administrative unit shall submit to the Department
+50 of Public Instruction the number of students following each pathway at the conclusion of each
+51 school year, beginning with the 2028-2029 school year. The Department of Public Instruction
+Page 2 Senate Bill 1035-First Edition
+General Assembly Of North Carolina Session 2025
+1 shall submit a report to the Joint Legislative Education Oversight Committee by March 15, 2034,
+2 on the following:
+3 (1) The number of students enrolled in each mathematics pathway.
+4 (2) Post-graduation outcomes for students, disaggregated by pathway, to the
+5 extent information is available.
+6 (3) High school graduation rates disaggregated by pathway, to the extent
+7 information is available.
+8 SECTION 5. There is appropriated from the General Fund to the Department of
+9 Public Instruction the sum of one million dollars ($1,000,000) in nonrecurring funds for the
+10 2026-2027 fiscal year to implement the provisions of this act.
+11 SECTION 6. Sections 1 and 2 of this act become effective July 1, 2028, and apply
+12 beginning with students entering ninth grade during the 2028-2029 school year. The remainder
+13 of this act becomes effective July 1, 2026.
+Senate Bill 1035-First Edition Page 3
+[DELETED:  1 R ( S R A A A T C H S G R F M B T S B O E T R M P T S B O E T A R F C M T T D O P I T I T P T S " ( T … ( P f a N b N c T f 1 C 2 C 3 Q 4 S t e a m ( p S " T f c s … ( A o a c a e a w t s a I t]
+[DELETED:  S  S g 1 a 1 t a i c i i c b A 1 C C A I C o E ( c 2 E 3 A c P S … S s S S N e p a a T ( A p f m a P b A c A P I B o C A I C o E l m c d E ( A c a t e ( p d f s p a A m o i m c a t C p b C i ( A t t a N b S ( A s a a P b C c O S o s]
+[DELETED:  S  P s o ( T ( P o f s d b p t t e ( H s g r d b p t t e i S P 2 S b o]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 1035
+Short Title: Revise Math Graduation Requirements. (Public)
+Sponsors: Senator Garson (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO CHANGE HIGH SCHOOL GRADUATION REQUIREMENTS FOR
+3 MATHEMATICS TO FOLLOW CERTAIN MATHEMATICS PATHWAYS ADOPTED
+4 BY THE STATE BOARD OF EDUCATION, TO REQUIRE MATHEMATICS
+5 PATHWAYS TO BE INCLUDED IN CAREER DEVELOPMENT PLANS, TO REQUIRE
+6 THE STATE BOARD OF EDUCATION TO ADOPT RULES FOR CERTAIN
+7 MATHEMATICS PATHWAYS FOR GRADUATION, AND TO APPROPRIATE FUNDS
+8 TO THE DEPARTMENT OF PUBLIC INSTRUCTION TO IMPLEMENT THE
+9 PROVISIONS OF THIS ACT.
+10 The General Assembly of North Carolina enacts:
+11 SECTION 1. G.S. 115C-83.31 reads as rewritten:
+12 "§ 115C-83.31. Exit standards and graduation requirements.
+13 (a) The State Board of Education shall require the following for high school graduation:
+14 …
+15 (4) Passing grades in a sequence of four mathematics courses consistent with the
+16 following:
+17 a. NC Math 1.
+18 b. NC Math 2.
+19 c. Two additional mathematics courses required as part of one of the
+20 following pathway-aligned options adopted by the State Board:
+21 1. College preparatory pathway.
+22 2. Career and technical education (CTE) pathway.
+23 3. Quantitative reasoning and statistics pathway.
+24 4. Science, technology, engineering, and math (STEM)
+25 pathway."
+26 SECTION 2. G.S. 115C-158.10(c) reads as rewritten:
+27 "(c) The State Board of Education shall adopt rules establishing minimum requirements
+28 for career development plans and shall require local boards of education to provide access to all
+29 career development plans through a designated electronic application. Career development plans
+30 shall include at least the following:
+31 …
+32 (3) Alignment of academic courses and extracurricular activities with the
+33 student's identified career interests, including the following:
+34 a. Inventory of aligned courses in middle and high school in grades six
+35 through 10, and development of best strategies for course selection in
+*S1035-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 grades 11 and 12 to achieve identified career interests, including
+2 courses that may lead to college credit.
+3 b. Available record of the following:
+4 1. Completed Advanced Placement, International Baccalaureate,
+5 Cambridge Advanced International Certificate of Education
+6 (AICE), and dual-enrollment courses that may lead to college
+7 credit in high school.
+8 2. Extracurricular activities.
+9 3. Awards and recognitions.
+10 c. Pathway-aligned sequences of mathematics courses adopted by the
+11 State Board of Education pursuant to G.S. 115C-83.31."
+12 …."
+13 SECTION 3. The State Board of Education shall adopt rules for pathway-aligned
+14 sequences of mathematics courses to be offered in high schools in the State by July 1, 2027. The
+15 State Board shall consult the Board of Governors of the University of North Carolina and the
+16 State Board of Community Colleges to ensure that all pathways align with the University of
+17 North Carolina minimum admission standards, North Carolina Community Colleges System
+18 expectations, and workforce and industry needs. Pathway-aligned sequences of courses adopted
+19 pursuant to the requirements of this section shall not apply to students who have been identified
+20 as a child with a disability in accordance with Article 9 of Chapter 115C of the General Statutes
+21 and whose IEP team has determined cannot satisfy the standard state graduation requirements.
+22 The State Board shall adopt the following pathway-aligned sequences of mathematics courses:
+23 (1) A college preparatory pathway designed for students planning to attend a
+24 four-year college or university that includes NC Math 3 and another high level
+25 mathematics course, such as the following:
+26 a. Precalculus.
+27 b. Advanced functions.
+28 c. Advanced Placement, International Baccalaureate, or Cambridge
+29 Advanced International Certificate of Education level mathematics
+30 courses.
+31 d. Equivalent courses as determined by the State Board.
+32 (2) A career and technical education (CTE) pathway designed for students
+33 planning to pursue workforce or technical careers that includes the following:
+34 a. Applied math or integrated mathematics courses aligned to CTE
+35 programs.
+36 b. Courses that incorporate algebra, statistics, and quantitative reasoning
+37 in real-world contexts.
+38 (3) A quantitative reasoning and statistics pathway designed for students planning
+39 to pursue careers in fields that require data literacy and applied mathematics
+40 that includes the following:
+41 a. NC Math 3 or an equivalent course approved by the State Board.
+42 b. Statistics, data science, or quantitative reasoning courses.
+43 (4) A science, technology, engineering, and math (STEM) pathway designed for
+44 students planning to pursue careers in STEM fields that includes NC Math 3
+45 and another high level mathematics course, such as the following:
+46 a. Precalculus.
+47 b. Calculus.
+48 c. Other advanced mathematics courses approved by the State Board.
+49 SECTION 4. Each local school administrative unit shall submit to the Department
+50 of Public Instruction the number of students following each pathway at the conclusion of each
+51 school year, beginning with the 2028-2029 school year. The Department of Public Instruction
+Page 2 Senate Bill 1035-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 shall submit a report to the Joint Legislative Education Oversight Committee by March 15, 2034,
+2 on the following:
+3 (1) The number of students enrolled in each mathematics pathway.
+4 (2) Post-graduation outcomes for students, disaggregated by pathway, to the
+5 extent information is available.
+6 (3) High school graduation rates disaggregated by pathway, to the extent
+7 information is available.
+8 SECTION 5. There is appropriated from the General Fund to the Department of
+9 Public Instruction the sum of one million dollars ($1,000,000) in nonrecurring funds for the
+10 2026-2027 fiscal year to implement the provisions of this act.
+11 SECTION 6. Sections 1 and 2 of this act become effective July 1, 2028, and apply
+12 beginning with students entering ninth grade during the 2028-2029 school year. The remainder
+13 of this act becomes effective July 1, 2026.
+Senate Bill 1035-First Edition Page 3
+
+[DELETED:  1 R ( S R A A A T C H S G R F M B T S B O E T R M P T S B O E T A R F C M T T D O P I T I T P T S " ( T … ( P f a N b N c T f 1 C 2 C 3 Q 4 S t e a m ( p S " T f c s … ( A o a c a e a w t s a I t]
+[DELETED:  S  S g 1 a 1 t a i c i i c b A 1 C C A I C o E ( c 2 E 3 A c P S … S s S S N e p a a T ( A p f m a P b A c A P I B o C A I C o E l m c d E ( A c a t e ( p d f s p a A m o i m c a t C p b C i ( A t t a N b S ( A s a a P b C c O S o s]
+[DELETED:  S  P s o ( T ( P o f s d b p t t e ( H s g r d b p t t e i S P 2 S b o]

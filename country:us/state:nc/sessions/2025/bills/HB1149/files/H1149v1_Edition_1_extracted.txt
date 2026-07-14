@@ -1,0 +1,578 @@
+Title: HOUSE BILL 1149
+Official Title: HOUSE BILL 1149
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Keep NC Working Act. (Public)
+Sponsors: Representatives Chesser, Reeder, Rhyne, and Schietzelt (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Commerce and Economic Development, if favorable, Appropriations, if
+favorable, Rules, Calendar, and Operations of the House
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT ESTABLISHING THE SHORT-TIME COMPENSATION PROGRAM FOR
+3 UNEMPLOYMENT INSURANCE BENEFITS IN NORTH CAROLINA AND
+4 APPROPRIATING FUNDS RELATED TO THAT PURPOSE.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Effective October 1, 2026, Chapter 96 of the General Statutes is
+7 amended by adding a new Article to read:
+8 "Article 6.
+9 "Short-Time Compensation.
+10 "§ 96-45. Definitions.
+11 The following definitions apply in this Article:
+12 (1) Affected unit. – A specific plant, department, shift, or other definable unit of
+13 an employing unit that has at least two employees to which an approved
+14 short-time compensation plan applies.
+15 (2) Approved short-time compensation plan. – A plan that is approved by the
+16 Division as provided by this Article.
+17 (3) Health and retirement benefits. – Employer-provided health benefits and
+18 retirement benefits under a defined benefit pension plan as defined in section
+19 414(j) of the Internal Revenue Code, contributions under a defined
+20 contribution plan as defined in section 414(i) of the Internal Revenue Code,
+21 or that are incidents of employment in addition to the cash remuneration
+22 earned.
+23 (4) Program. – Short-time compensation program established pursuant to this
+24 Article.
+25 (5) Short-time compensation. – The unemployment benefits payable to
+26 employees in an affected unit under an approved short-time compensation
+27 plan, as distinguished from the unemployment benefits otherwise payable
+28 under the unemployment compensation provisions of State law.
+29 (6) Short-time compensation plan. – A plan submitted by an employer for
+30 approval by an affected unit of the employer to avert layoffs.
+31 (7) Unemployment compensation. – The unemployment benefits payable under
+32 this Article other than short-time compensation and includes any amounts
+33 payable pursuant to an agreement under any federal law providing for
+34 compensation, assistance, or allowances with respect to unemployment.
+*H1149-v-1*
+General Assembly Of North Carolina Session 2025
+1 (8) Usual weekly hours of work. – The usual hours of work for full-time or
+2 part-time employees in the affected unit when that unit is operating on its
+3 regular basis, not to exceed 40 hours and not including hours of overtime
+4 work.
+5 "§ 96-46. Application to participate in short-time compensation program.
+6 (a) An employer that wishes to participate in the Program shall submit to the Division a
+7 signed, written short-time compensation plan for approval. The Division shall develop an
+8 application form to request approval of a plan and an approval process. The application shall
+9 include:
+10 (1) The affected unit or units covered by the plan, including the number of
+11 full-time or part-time workers in the unit, identification of each individual
+12 employee in the affected unit by name, social security number, and the
+13 employer's unemployment tax account number, and any other information
+14 required by the Division to identify plan participants.
+15 (2) A description of how workers in the affected unit will be notified of the
+16 employer's participation in the plan if the application is approved, including
+17 how the employer will notify those workers in a collective bargaining unit, as
+18 well as any workers in the affected unit who are not in a collective bargaining
+19 unit. If the employer will not provide advance notice to workers in the affected
+20 unit, the employer shall explain in a statement in the application why it is not
+21 feasible to provide the notice.
+22 (3) A requirement that the employer identify the usual weekly hours of work for
+23 employees in the affected unit and the specific percentage by which their
+24 hours will be reduced during all weeks covered by the plan. An application
+25 shall specify the overall work reduction for which a short-time compensation
+26 application may be approved, which shall be not less than ten percent (10%)
+27 and not more than sixty percent (60%) of the usual work hours during that
+28 period. If the plan includes any week for which the employer regularly
+29 provides no work due to a holiday or other plant closing, then the week shall
+30 be identified in the application. Notwithstanding the other provisions of this
+31 subdivision, an employer shall be allowed some weeks of complete plant
+32 shutdown in appropriate industries or given certain modes of operation.
+33 (4) Certification by the employer that, if the employer provides health benefits
+34 and retirement benefits to any employee whose usual weekly hours of work
+35 are reduced under the Program, the benefits will continue to be provided to
+36 employees participating in the Program under the same terms and conditions
+37 as though the usual weekly hours of the employee had not been reduced or to
+38 the same extent as other employees not participating in the Program. For
+39 defined benefit retirement plans, the hours that are reduced under the plan
+40 shall be credited for purposes of participation, vesting, and accrual of benefits
+41 as though the usual weekly hours of work had not been reduced. The dollar
+42 amount of employer contributions to a defined contribution plan that are based
+43 on a percentage of compensation may be less due to the reduction in the
+44 employee's compensation. However, an application may contain the required
+45 certification when a reduction in health and retirement benefits scheduled to
+46 occur during the duration of the plan will be applicable equally to employees
+47 who are not participating in the Program and to those employees who are
+48 participating.
+49 (5) Certification by the employer that the aggregate reduction in work hours is in
+50 lieu of layoffs, whether temporary or permanent layoffs or both.
+51 (6) Agreement by the employer to do all of the following:
+Page 2 House Bill 1149-First Edition
+General Assembly Of North Carolina Session 2025
+1 a. Furnish reports to the Division relating to the proper conduct of the
+2 plan.
+3 b. Allow the Division access to all records necessary to approve or
+4 disapprove the plan application and, after approval of the plan, monitor
+5 and evaluate the plan.
+6 c. Follow any other directives the Division deems necessary for the
+7 agency to implement the plan and that are consistent with the
+8 requirements for plan applications.
+9 (7) Certification by the employer that participation in the plan and its
+10 implementation is consistent with the employer's obligations under applicable
+11 federal and State laws.
+12 (8) Certification by the employer that any affected collective bargaining unit
+13 agrees with the plan.
+14 (9) The effective date and duration of the plan, which shall expire no later than
+15 the end of the twelfth full calendar month after the effective date.
+16 (10) Any other provision added to the application by the Division that the U.S.
+17 Secretary of Labor determines to be appropriate for the purpose of this
+18 Program.
+19 (b) Regarding employers in appropriate industries or that have certain modes of
+20 operation, and only if the employer demonstrates good cause, the Division may allow flexibility
+21 in the application process in cases where it is reasonable not to require specific dates and hours
+22 in the application, notwithstanding the provisions of subsection (a) of this section.
+23 (c) To be eligible to participate in the Program, the employer must have no contributions,
+24 penalties, or interest outstanding under G.S. 96-10.
+25 "§ 96-47. Approval and disapproval of plan.
+26 The Division shall approve or disapprove a short-time compensation plan in writing within
+27 30 days of its receipt and promptly communicate the decision to the employer. A decision
+28 disapproving the plan shall clearly identify the reasons for the disapproval. The disapproval shall
+29 be final, but the employer shall be allowed to submit another plan for approval not earlier than
+30 90 days from the date of the disapproval.
+31 "§ 96-48. Effective date and duration of plan.
+32 A short-time compensation plan shall be effective on the date that is mutually agreed upon
+33 by the employer and the Division, which shall be specified in the notice of approval to the
+34 employer. The plan shall expire on the date specified in the notice of approval, which shall be
+35 either the date at the end of the twelfth full calendar month after its effective date or an earlier
+36 date mutually agreed upon by the employer and the Division. However, if a short-time
+37 compensation plan is revoked under G.S. 96-49, the plan shall terminate on the date specified in
+38 the Division's written order of revocation. An employer may terminate a plan at any time upon
+39 written notice to the Division. Upon receipt of notice from the employer, the Division shall
+40 promptly notify each member of the affected unit of the termination date. An employer may
+41 submit a new application to participate in another plan at any time after the expiration or
+42 termination date.
+43 "§ 96-49. Revocation of approval of plan.
+44 (a) The Division may revoke approval of a short-time compensation plan for good cause
+45 at any time. The revocation order shall be in writing and shall specify the reasons for the
+46 revocation and the date the revocation is effective. The Division shall state clearly the reasons
+47 for the revocation.
+48 (b) The Division may periodically review the operation of each employer's plan to assure
+49 that no good cause exists for revocation of the approval of the plan. Good cause shall include,
+50 but not be limited to, failure to comply with the assurances given in the plan, unreasonable
+51 revision of productivity standards for the affected unit, conduct or occurrences tending to defeat
+House Bill 1149-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 the intent and effective operation of the plan, and violation of any criteria on which approval of
+2 the plan was based.
+3 "§ 96-50. Modification of approved plan.
+4 (a) An employer may request a modification of an approved plan by filing a written
+5 request to the Division. The request shall identify the specific provisions proposed to be modified
+6 and provide an explanation of why the proposed modification is appropriate for the plan. The
+7 Division shall approve or disapprove the proposed modification in writing within 30 days of
+8 receipt and promptly communicate the decision to the employer.
+9 (b) The Division, in its discretion, may approve a request for modification of the plan
+10 based on conditions that have changed since the plan was approved, provided that the
+11 modification is consistent with and supports the purposes for which the plan was initially
+12 approved. A modification shall not extend the expiration date of the original plan, and the
+13 Division shall promptly notify the employer whether the plan modification has been approved
+14 and, if approved, the effective date of modification.
+15 (c) An employer is not required to request approval of a plan modification if the change
+16 is not substantial, but the employer shall report every change to the plan to the Division promptly
+17 and in writing. The Division may terminate an employer's plan if the employer fails to meet this
+18 reporting requirement. If the Division determines that the reported change is substantial, the
+19 Division shall require the employer to request a modification to the plan.
+20 (d) The Division shall use its best efforts to provide for timely and flexible modifications.
+21 The provisions of this section shall be liberally construed so as to provide the most flexibility for
+22 employers and the Division in order to carry out the purposes of this Article.
+23 "§ 96-51. Eligibility for short-time compensation.
+24 An individual is eligible to receive short-time compensation with respect to any week only if
+25 the individual is monetarily eligible for unemployment compensation, not otherwise disqualified
+26 for unemployment compensation, and:
+27 (1) During the week, the individual is employed as a member of an affected unit
+28 under an approved short-time compensation plan, which was approved prior
+29 to that week, and the plan is in effect with respect to the week for which
+30 short-time compensation is claimed;
+31 (2) Notwithstanding any other provisions of this Chapter relating to availability
+32 for work and actively seeking work, the individual is available for the
+33 individual's usual hours of work with the short-time compensation employer,
+34 which may include, for purposes of this section, participating in training to
+35 enhance job skills that is approved by the Division as employer-sponsored
+36 training or training funded under the Workforce Investment Act of 1998; and
+37 (3) Notwithstanding any other provision of law, an individual covered by a plan
+38 is deemed unemployed in any week during the duration of the plan if the
+39 individual's remuneration as an employee in an affected unit is reduced based
+40 on a reduction of the individual's usual weekly hours of work under an
+41 approved short-time compensation plan.
+42 "§ 96-52. Benefits.
+43 (a) The short-time compensation weekly benefit amount shall be the product of the
+44 regular weekly unemployment compensation amount for a week of total unemployment
+45 multiplied by the percentage of reduction in the individual's usual weekly hours of work.
+46 (b) An individual may be eligible for short-time compensation or unemployment
+47 compensation, as appropriate, except that no individual shall be:
+48 (1) Eligible for combined benefits in any benefit year in an amount more than the
+49 maximum entitlement established for regular unemployment compensation;
+50 and
+51 (2) Paid short-time compensation benefits for more than 52 weeks under a plan.
+Page 4 House Bill 1149-First Edition
+General Assembly Of North Carolina Session 2025
+1 (c) The short-time compensation paid to an individual shall be deducted from the
+2 maximum entitlement amount of regular unemployment compensation established for the
+3 individual's benefit year.
+4 (d) Provisions applicable to unemployment compensation claimants shall apply to
+5 short-time compensation claimants to the extent that they are not inconsistent with the Program's
+6 provisions. An individual who files an initial claim for short-time compensation benefits shall
+7 receive a monetary determination.
+8 (e) The following provisions apply to individuals who work for both a short-time
+9 compensation employer and another employer during weeks covered by the approved short-time
+10 compensation plan:
+11 (1) If combined hours of work in a week for both employers do not result in a
+12 reduction of at least ten percent (10%) or, if higher, the minimum percentage
+13 of reduction required to be eligible for a short-time compensation benefit as
+14 provided in this Article, of the usual weekly hours of work with the short-time
+15 employer, the individual shall not be entitled to benefits under these short-time
+16 compensation provisions.
+17 (2) If the combined hours of work for both employers results in a reduction equal
+18 to or greater than ten percent (10%) or, if higher, the minimum percentage
+19 reduction required to be eligible for a short-time compensation employer, the
+20 short-time compensation benefit amount payable to the individual is reduced
+21 for that week and is determined by multiplying the weekly unemployment
+22 benefit amount for a week of total unemployment by the percentage by which
+23 the combined hours of work have been reduced by ten percent (10%) or, if
+24 higher, the minimum percentage reduction required to be eligible for a
+25 short-time compensation benefit as provided in this Article, or more of the
+26 individual's usual weekly hours of work. A week for which benefits are paid
+27 under this subdivision shall be reported as a week of short-time compensation.
+28 (3) If an individual worked the reduced percentage of the usual weekly hours of
+29 work for the short-time compensation employer and is available for all of his
+30 or her usual hours of work with the short-time compensation employer, and
+31 the individual did not work any hours for the other employer, either because
+32 of the lack of work with that employer or because the individual is excused
+33 from work with the other employer, the individual shall be eligible for
+34 short-time compensation for that week. The benefit amount for the week shall
+35 be calculated as provided in subsection (a) of this section.
+36 (f) An individual who is not provided any work during a week by the short-time
+37 compensation employer, or any other employer, and who is otherwise eligible for unemployment
+38 compensation shall be eligible for the amount of regular unemployment compensation to which
+39 the individual would otherwise be eligible.
+40 (g) An individual who is not provided any work by the short-time compensation
+41 employer during a week, but who works for another employer and is otherwise eligible, may be
+42 paid unemployment compensation for that week subject to the disqualifying income or other
+43 provision applicable to claims for regular compensation.
+44 "§ 96-53. Charging short-time compensation benefits.
+45 Short-time compensation shall be charged to employers' experience rating accounts in the
+46 same manner as unemployment compensation is charged under this Chapter. Employers liable
+47 for payments in lieu of contributions shall have short-time compensation attributed to service in
+48 their employ in the same manner as unemployment compensation is attributed.
+49 "§ 96-54. Extended benefits.
+50 An individual who has received all of the short-time compensation or combined
+51 unemployment compensation and short-time compensation available in a benefit year shall be
+House Bill 1149-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 considered an exhaustee for purposes of extended benefits, and if otherwise eligible under those
+2 provisions, shall be eligible to receive extended benefits.
+3 "§ 96-55. Severability.
+4 If any provision of this Article is found by the U.S. Department of Labor to be in violation of
+5 federal law, the finding shall render the provision of this Article inoperative, but the finding shall
+6 not invalidate the remaining provisions of this Article and is confined in its operation to the
+7 specific provision found to be in violation of federal law."
+8 SECTION 2. Effective July 1, 2026, there is appropriated from the General Fund to
+9 the Department of Commerce, Division of Employment Security, the sum of one hundred
+10 thousand dollars ($100,000) in the 2026-2027 fiscal year for implementation of, and to educate
+11 employers and employees about benefits under, the short-time compensation program established
+12 by this act.
+13 SECTION 3. Except as otherwise provided, this act is effective when it becomes
+14 law.
+Page 6 House Bill 1149-First Edition
+[DELETED:  1 K ( R C a E D i f A i A A A E T S C P F U I B I N C A A T S 1  E O 1 2 C 9 o t G S i a " " " T ( A a e u t h a l t e t w a a s ( A D ( H a r b – E h b a r 4 o t I R C c u a d c o t a i o e i a t t c r e ( P – S c p e p t t A ( S c – T u b p t e p a d f t u b o p u ( S c p – A p s b a e f a ( U t p p t a a u a f l p f c]
+[DELETED:  S  H ( U w h o w – T u h o w f f o p r w " ( A s w s c p f a T D s d a a i ( T a u o u c b t p i t n o f e i t a u b n s s n a t e i r ( A d o w i t a u w b n o e h w u u f ( A e w h s a a p I t p i a w f w t e r p b s a e b a s w o c p s ( C a a e a t s e a o e n p i t P F d s a a o d e c o w p ( C l ( A]
+[DELETED:  S  P a F p b A t D a t a r n t a o d a c F a o d t D d n f t a t i t p a t a c w t r ( C b t e t p i t p a i i f ( C b t e t a a c b u a ( T t ( A S o L d t b a f t p o t P ( R e i a i o t h c m o o i i ( T p " T 3 d o i r a p c t d t t e A d d b 9 " A b e e d m a u b t e a t D H i a s c t w p s a n a t p i a p a a t a t e o t " ( T a a t T r o s b i w a s s t r f t r f ( T t b r]
+[DELETED:  S  H t t " ( A r a D r ( T b o c t h c s t p w a p t t m i c w a s t p f w t p w i a A m s n e t e d o t o p a t D a ( A i a r D ( T T e " A t f ( D u t s ( N f w a a s w t i i a f t i w e t ( N i i o a r o t i u w h o w u a a " ( T s c w b a s b t p o t r w u c a f a w o t u m ( A i m b e f s c o u c ( E m a ( P]
+[DELETED:  S  P ( T s c p t a i s b d f t m e a o r u c e f t i ( P a t u c c s a t s p r ( T f p a t i w w f b a s c c ( I r o p e c ( I t r s f b t h t m p r r t b e f a s i u ( I w o t o f w w t o e t i s b e f s b ( A i w i n p a w d a w b t s c c t ( A i w i n p a w b t s c e p p " S s f t " A i w h r a o t s c o c u]
+[DELETED:  S  H c p " I f n s S t D o C D o E S t s o o h t e b S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1149
+Short Title: Keep NC Working Act. (Public)
+Sponsors: Representatives Chesser, Reeder, Rhyne, and Schietzelt (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Commerce and Economic Development, if favorable, Appropriations, if
+favorable, Rules, Calendar, and Operations of the House
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT ESTABLISHING THE SHORT-TIME COMPENSATION PROGRAM FOR
+3 UNEMPLOYMENT INSURANCE BENEFITS IN NORTH CAROLINA AND
+4 APPROPRIATING FUNDS RELATED TO THAT PURPOSE.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Effective October 1, 2026, Chapter 96 of the General Statutes is
+7 amended by adding a new Article to read:
+8 "Article 6.
+9 "Short-Time Compensation.
+10 "§ 96-45. Definitions.
+11 The following definitions apply in this Article:
+12 (1) Affected unit. – A specific plant, department, shift, or other definable unit of
+13 an employing unit that has at least two employees to which an approved
+14 short-time compensation plan applies.
+15 (2) Approved short-time compensation plan. – A plan that is approved by the
+16 Division as provided by this Article.
+17 (3) Health and retirement benefits. – Employer-provided health benefits and
+18 retirement benefits under a defined benefit pension plan as defined in section
+19 414(j) of the Internal Revenue Code, contributions under a defined
+20 contribution plan as defined in section 414(i) of the Internal Revenue Code,
+21 or that are incidents of employment in addition to the cash remuneration
+22 earned.
+23 (4) Program. – Short-time compensation program established pursuant to this
+24 Article.
+25 (5) Short-time compensation. – The unemployment benefits payable to
+26 employees in an affected unit under an approved short-time compensation
+27 plan, as distinguished from the unemployment benefits otherwise payable
+28 under the unemployment compensation provisions of State law.
+29 (6) Short-time compensation plan. – A plan submitted by an employer for
+30 approval by an affected unit of the employer to avert layoffs.
+31 (7) Unemployment compensation. – The unemployment benefits payable under
+32 this Article other than short-time compensation and includes any amounts
+33 payable pursuant to an agreement under any federal law providing for
+34 compensation, assistance, or allowances with respect to unemployment.
+*H1149-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (8) Usual weekly hours of work. – The usual hours of work for full-time or
+2 part-time employees in the affected unit when that unit is operating on its
+3 regular basis, not to exceed 40 hours and not including hours of overtime
+4 work.
+5 "§ 96-46. Application to participate in short-time compensation program.
+6 (a) An employer that wishes to participate in the Program shall submit to the Division a
+7 signed, written short-time compensation plan for approval. The Division shall develop an
+8 application form to request approval of a plan and an approval process. The application shall
+9 include:
+10 (1) The affected unit or units covered by the plan, including the number of
+11 full-time or part-time workers in the unit, identification of each individual
+12 employee in the affected unit by name, social security number, and the
+13 employer's unemployment tax account number, and any other information
+14 required by the Division to identify plan participants.
+15 (2) A description of how workers in the affected unit will be notified of the
+16 employer's participation in the plan if the application is approved, including
+17 how the employer will notify those workers in a collective bargaining unit, as
+18 well as any workers in the affected unit who are not in a collective bargaining
+19 unit. If the employer will not provide advance notice to workers in the affected
+20 unit, the employer shall explain in a statement in the application why it is not
+21 feasible to provide the notice.
+22 (3) A requirement that the employer identify the usual weekly hours of work for
+23 employees in the affected unit and the specific percentage by which their
+24 hours will be reduced during all weeks covered by the plan. An application
+25 shall specify the overall work reduction for which a short-time compensation
+26 application may be approved, which shall be not less than ten percent (10%)
+27 and not more than sixty percent (60%) of the usual work hours during that
+28 period. If the plan includes any week for which the employer regularly
+29 provides no work due to a holiday or other plant closing, then the week shall
+30 be identified in the application. Notwithstanding the other provisions of this
+31 subdivision, an employer shall be allowed some weeks of complete plant
+32 shutdown in appropriate industries or given certain modes of operation.
+33 (4) Certification by the employer that, if the employer provides health benefits
+34 and retirement benefits to any employee whose usual weekly hours of work
+35 are reduced under the Program, the benefits will continue to be provided to
+36 employees participating in the Program under the same terms and conditions
+37 as though the usual weekly hours of the employee had not been reduced or to
+38 the same extent as other employees not participating in the Program. For
+39 defined benefit retirement plans, the hours that are reduced under the plan
+40 shall be credited for purposes of participation, vesting, and accrual of benefits
+41 as though the usual weekly hours of work had not been reduced. The dollar
+42 amount of employer contributions to a defined contribution plan that are based
+43 on a percentage of compensation may be less due to the reduction in the
+44 employee's compensation. However, an application may contain the required
+45 certification when a reduction in health and retirement benefits scheduled to
+46 occur during the duration of the plan will be applicable equally to employees
+47 who are not participating in the Program and to those employees who are
+48 participating.
+49 (5) Certification by the employer that the aggregate reduction in work hours is in
+50 lieu of layoffs, whether temporary or permanent layoffs or both.
+51 (6) Agreement by the employer to do all of the following:
+Page 2 House Bill 1149-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 a. Furnish reports to the Division relating to the proper conduct of the
+2 plan.
+3 b. Allow the Division access to all records necessary to approve or
+4 disapprove the plan application and, after approval of the plan, monitor
+5 and evaluate the plan.
+6 c. Follow any other directives the Division deems necessary for the
+7 agency to implement the plan and that are consistent with the
+8 requirements for plan applications.
+9 (7) Certification by the employer that participation in the plan and its
+10 implementation is consistent with the employer's obligations under applicable
+11 federal and State laws.
+12 (8) Certification by the employer that any affected collective bargaining unit
+13 agrees with the plan.
+14 (9) The effective date and duration of the plan, which shall expire no later than
+15 the end of the twelfth full calendar month after the effective date.
+16 (10) Any other provision added to the application by the Division that the U.S.
+17 Secretary of Labor determines to be appropriate for the purpose of this
+18 Program.
+19 (b) Regarding employers in appropriate industries or that have certain modes of
+20 operation, and only if the employer demonstrates good cause, the Division may allow flexibility
+21 in the application process in cases where it is reasonable not to require specific dates and hours
+22 in the application, notwithstanding the provisions of subsection (a) of this section.
+23 (c) To be eligible to participate in the Program, the employer must have no contributions,
+24 penalties, or interest outstanding under G.S. 96-10.
+25 "§ 96-47. Approval and disapproval of plan.
+26 The Division shall approve or disapprove a short-time compensation plan in writing within
+27 30 days of its receipt and promptly communicate the decision to the employer. A decision
+28 disapproving the plan shall clearly identify the reasons for the disapproval. The disapproval shall
+29 be final, but the employer shall be allowed to submit another plan for approval not earlier than
+30 90 days from the date of the disapproval.
+31 "§ 96-48. Effective date and duration of plan.
+32 A short-time compensation plan shall be effective on the date that is mutually agreed upon
+33 by the employer and the Division, which shall be specified in the notice of approval to the
+34 employer. The plan shall expire on the date specified in the notice of approval, which shall be
+35 either the date at the end of the twelfth full calendar month after its effective date or an earlier
+36 date mutually agreed upon by the employer and the Division. However, if a short-time
+37 compensation plan is revoked under G.S. 96-49, the plan shall terminate on the date specified in
+38 the Division's written order of revocation. An employer may terminate a plan at any time upon
+39 written notice to the Division. Upon receipt of notice from the employer, the Division shall
+40 promptly notify each member of the affected unit of the termination date. An employer may
+41 submit a new application to participate in another plan at any time after the expiration or
+42 termination date.
+43 "§ 96-49. Revocation of approval of plan.
+44 (a) The Division may revoke approval of a short-time compensation plan for good cause
+45 at any time. The revocation order shall be in writing and shall specify the reasons for the
+46 revocation and the date the revocation is effective. The Division shall state clearly the reasons
+47 for the revocation.
+48 (b) The Division may periodically review the operation of each employer's plan to assure
+49 that no good cause exists for revocation of the approval of the plan. Good cause shall include,
+50 but not be limited to, failure to comply with the assurances given in the plan, unreasonable
+51 revision of productivity standards for the affected unit, conduct or occurrences tending to defeat
+House Bill 1149-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 the intent and effective operation of the plan, and violation of any criteria on which approval of
+2 the plan was based.
+3 "§ 96-50. Modification of approved plan.
+4 (a) An employer may request a modification of an approved plan by filing a written
+5 request to the Division. The request shall identify the specific provisions proposed to be modified
+6 and provide an explanation of why the proposed modification is appropriate for the plan. The
+7 Division shall approve or disapprove the proposed modification in writing within 30 days of
+8 receipt and promptly communicate the decision to the employer.
+9 (b) The Division, in its discretion, may approve a request for modification of the plan
+10 based on conditions that have changed since the plan was approved, provided that the
+11 modification is consistent with and supports the purposes for which the plan was initially
+12 approved. A modification shall not extend the expiration date of the original plan, and the
+13 Division shall promptly notify the employer whether the plan modification has been approved
+14 and, if approved, the effective date of modification.
+15 (c) An employer is not required to request approval of a plan modification if the change
+16 is not substantial, but the employer shall report every change to the plan to the Division promptly
+17 and in writing. The Division may terminate an employer's plan if the employer fails to meet this
+18 reporting requirement. If the Division determines that the reported change is substantial, the
+19 Division shall require the employer to request a modification to the plan.
+20 (d) The Division shall use its best efforts to provide for timely and flexible modifications.
+21 The provisions of this section shall be liberally construed so as to provide the most flexibility for
+22 employers and the Division in order to carry out the purposes of this Article.
+23 "§ 96-51. Eligibility for short-time compensation.
+24 An individual is eligible to receive short-time compensation with respect to any week only if
+25 the individual is monetarily eligible for unemployment compensation, not otherwise disqualified
+26 for unemployment compensation, and:
+27 (1) During the week, the individual is employed as a member of an affected unit
+28 under an approved short-time compensation plan, which was approved prior
+29 to that week, and the plan is in effect with respect to the week for which
+30 short-time compensation is claimed;
+31 (2) Notwithstanding any other provisions of this Chapter relating to availability
+32 for work and actively seeking work, the individual is available for the
+33 individual's usual hours of work with the short-time compensation employer,
+34 which may include, for purposes of this section, participating in training to
+35 enhance job skills that is approved by the Division as employer-sponsored
+36 training or training funded under the Workforce Investment Act of 1998; and
+37 (3) Notwithstanding any other provision of law, an individual covered by a plan
+38 is deemed unemployed in any week during the duration of the plan if the
+39 individual's remuneration as an employee in an affected unit is reduced based
+40 on a reduction of the individual's usual weekly hours of work under an
+41 approved short-time compensation plan.
+42 "§ 96-52. Benefits.
+43 (a) The short-time compensation weekly benefit amount shall be the product of the
+44 regular weekly unemployment compensation amount for a week of total unemployment
+45 multiplied by the percentage of reduction in the individual's usual weekly hours of work.
+46 (b) An individual may be eligible for short-time compensation or unemployment
+47 compensation, as appropriate, except that no individual shall be:
+48 (1) Eligible for combined benefits in any benefit year in an amount more than the
+49 maximum entitlement established for regular unemployment compensation;
+50 and
+51 (2) Paid short-time compensation benefits for more than 52 weeks under a plan.
+Page 4 House Bill 1149-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (c) The short-time compensation paid to an individual shall be deducted from the
+2 maximum entitlement amount of regular unemployment compensation established for the
+3 individual's benefit year.
+4 (d) Provisions applicable to unemployment compensation claimants shall apply to
+5 short-time compensation claimants to the extent that they are not inconsistent with the Program's
+6 provisions. An individual who files an initial claim for short-time compensation benefits shall
+7 receive a monetary determination.
+8 (e) The following provisions apply to individuals who work for both a short-time
+9 compensation employer and another employer during weeks covered by the approved short-time
+10 compensation plan:
+11 (1) If combined hours of work in a week for both employers do not result in a
+12 reduction of at least ten percent (10%) or, if higher, the minimum percentage
+13 of reduction required to be eligible for a short-time compensation benefit as
+14 provided in this Article, of the usual weekly hours of work with the short-time
+15 employer, the individual shall not be entitled to benefits under these short-time
+16 compensation provisions.
+17 (2) If the combined hours of work for both employers results in a reduction equal
+18 to or greater than ten percent (10%) or, if higher, the minimum percentage
+19 reduction required to be eligible for a short-time compensation employer, the
+20 short-time compensation benefit amount payable to the individual is reduced
+21 for that week and is determined by multiplying the weekly unemployment
+22 benefit amount for a week of total unemployment by the percentage by which
+23 the combined hours of work have been reduced by ten percent (10%) or, if
+24 higher, the minimum percentage reduction required to be eligible for a
+25 short-time compensation benefit as provided in this Article, or more of the
+26 individual's usual weekly hours of work. A week for which benefits are paid
+27 under this subdivision shall be reported as a week of short-time compensation.
+28 (3) If an individual worked the reduced percentage of the usual weekly hours of
+29 work for the short-time compensation employer and is available for all of his
+30 or her usual hours of work with the short-time compensation employer, and
+31 the individual did not work any hours for the other employer, either because
+32 of the lack of work with that employer or because the individual is excused
+33 from work with the other employer, the individual shall be eligible for
+34 short-time compensation for that week. The benefit amount for the week shall
+35 be calculated as provided in subsection (a) of this section.
+36 (f) An individual who is not provided any work during a week by the short-time
+37 compensation employer, or any other employer, and who is otherwise eligible for unemployment
+38 compensation shall be eligible for the amount of regular unemployment compensation to which
+39 the individual would otherwise be eligible.
+40 (g) An individual who is not provided any work by the short-time compensation
+41 employer during a week, but who works for another employer and is otherwise eligible, may be
+42 paid unemployment compensation for that week subject to the disqualifying income or other
+43 provision applicable to claims for regular compensation.
+44 "§ 96-53. Charging short-time compensation benefits.
+45 Short-time compensation shall be charged to employers' experience rating accounts in the
+46 same manner as unemployment compensation is charged under this Chapter. Employers liable
+47 for payments in lieu of contributions shall have short-time compensation attributed to service in
+48 their employ in the same manner as unemployment compensation is attributed.
+49 "§ 96-54. Extended benefits.
+50 An individual who has received all of the short-time compensation or combined
+51 unemployment compensation and short-time compensation available in a benefit year shall be
+House Bill 1149-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 considered an exhaustee for purposes of extended benefits, and if otherwise eligible under those
+2 provisions, shall be eligible to receive extended benefits.
+3 "§ 96-55. Severability.
+4 If any provision of this Article is found by the U.S. Department of Labor to be in violation of
+5 federal law, the finding shall render the provision of this Article inoperative, but the finding shall
+6 not invalidate the remaining provisions of this Article and is confined in its operation to the
+7 specific provision found to be in violation of federal law."
+8 SECTION 2. Effective July 1, 2026, there is appropriated from the General Fund to
+9 the Department of Commerce, Division of Employment Security, the sum of one hundred
+10 thousand dollars ($100,000) in the 2026-2027 fiscal year for implementation of, and to educate
+11 employers and employees about benefits under, the short-time compensation program established
+12 by this act.
+13 SECTION 3. Except as otherwise provided, this act is effective when it becomes
+14 law.
+Page 6 House Bill 1149-First Edition
+
+[DELETED:  1 K ( R C a E D i f A i A A A E T S C P F U I B I N C A A T S 1  E O 1 2 C 9 o t G S i a " " " T ( A a e u t h a l t e t w a a s ( A D ( H a r b – E h b a r 4 o t I R C c u a d c o t a i o e i a t t c r e ( P – S c p e p t t A ( S c – T u b p t e p a d f t u b o p u ( S c p – A p s b a e f a ( U t p p t a a u a f l p f c]
+[DELETED:  S  H ( U w h o w – T u h o w f f o p r w " ( A s w s c p f a T D s d a a i ( T a u o u c b t p i t n o f e i t a u b n s s n a t e i r ( A d o w i t a u w b n o e h w u u f ( A e w h s a a p I t p i a w f w t e r p b s a e b a s w o c p s ( C a a e a t s e a o e n p i t P F d s a a o d e c o w p ( C l ( A]
+[DELETED:  S  P a F p b A t D a t a r n t a o d a c F a o d t D d n f t a t i t p a t a c w t r ( C b t e t p i t p a i i f ( C b t e t a a c b u a ( T t ( A S o L d t b a f t p o t P ( R e i a i o t h c m o o i i ( T p " T 3 d o i r a p c t d t t e A d d b 9 " A b e e d m a u b t e a t D H i a s c t w p s a n a t p i a p a a t a t e o t " ( T a a t T r o s b i w a s s t r f t r f ( T t b r]
+[DELETED:  S  H t t " ( A r a D r ( T b o c t h c s t p w a p t t m i c w a s t p f w t p w i a A m s n e t e d o t o p a t D a ( A i a r D ( T T e " A t f ( D u t s ( N f w a a s w t i i a f t i w e t ( N i i o a r o t i u w h o w u a a " ( T s c w b a s b t p o t r w u c a f a w o t u m ( A i m b e f s c o u c ( E m a ( P]
+[DELETED:  S  P ( T s c p t a i s b d f t m e a o r u c e f t i ( P a t u c c s a t s p r ( T f p a t i w w f b a s c c ( I r o p e c ( I t r s f b t h t m p r r t b e f a s i u ( I w o t o f w w t o e t i s b e f s b ( A i w i n p a w d a w b t s c c t ( A i w i n p a w b t s c e p p " S s f t " A i w h r a o t s c o c u]
+[DELETED:  S  H c p " I f n s S t D o C D o E S t s o o h t e b S l]
