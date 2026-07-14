@@ -1,0 +1,194 @@
+Title: SENATE BILL DRS45533-NSa-1
+Official Title: SENATE BILL DRS45533-NSa-1
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Apr 30, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 1020
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: Affordable Housing Efficiency Grant Program. (Public)
+Sponsors: Senators Salvador and Theodros (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ESTABLISH THE AFFORDABLE HOUSING EFFICIENCY GRANT
+3 PROGRAM TO PROVIDE FLEXIBLE INCENTIVE FUNDING FOR ENERGY
+4 EFFICIENCY AND ELECTRIC BUILDING UPGRADES IN AFFORDABLE
+5 MULTIFAMILY HOUSING.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. Article 7 of Chapter 143B of the General Statutes is amended by adding
+8 a new Part to read:
+9 "Part 37. Affordable Housing Efficiency Grant Program.
+10 "§ 143B-344.65. Definitions.
+11 The following definitions apply to this Part:
+12 (1) Affordable multifamily housing. – Multifamily residential buildings of five or
+13 more dwelling units where at least fifty percent (50%) of the units are reserved
+14 for or occupied by households with incomes at or below eighty percent (80%)
+15 of the area median income, adjusted for household size, or as otherwise
+16 defined by the Department.
+17 (2) Area median income. – The annual median household income of an area as
+18 determined by the U.S. Department of Housing and Urban Development.
+19 (3) Department. – The Department of Environmental Quality.
+20 (4) Electric building upgrades. – Improvements that replace fossil fuel systems
+21 with high-efficiency electric alternatives, including, but not limited to, heat
+22 pumps, electric water heaters, induction stoves, and electric vehicle charging
+23 infrastructure.
+24 (5) Energy efficiency upgrades. – Measures that reduce energy consumption,
+25 including, insulation, efficient windows, lighting, appliances, and heating,
+26 ventilation, or air conditioning systems.
+27 (6) Office. – The State Energy Office.
+28 "§ 143B-344.66. Establishment of program.
+29 (a) The Affordable Housing Efficiency Grant Program is established within the Office of
+30 the Department to provide flexible incentive grants to affordable multifamily housing for energy
+31 efficiency upgrades and electric building upgrades. The program shall prioritize projects that
+32 reduce energy costs for low-income residents, improve building performance, enhance indoor
+33 environmental quality, and support clean energy goals. The Department shall adopt rules to
+34 implement this Part, including criteria for grant applications, eligibility, prioritization, allowable
+35 uses of funds, incentive structures, and reporting requirements.
+36 (b) Grants may be used for any of the following:
+*DRS45533-NSa-1*
+General Assembly Of North Carolina Session 2025
+1 (1) Energy efficiency upgrades.
+2 (2) Electric building upgrades.
+3 (3) Related health and safety improvements necessary to facilitate the upgrades,
+4 including ventilation enhancements or structural repairs.
+5 (4) Project planning, design, and implementation costs, including energy audits
+6 and technical assistance.
+7 (c) The Office shall perform all duties required to facilitate the program, including
+8 developing application processes, awarding grants, and monitoring compliance and outcomes.
+9 The Office may partner with local government units, utilities, or nonprofits to accomplish the
+10 objectives of the program.
+11 (d) Eligibility. – Grants shall only be awarded to affordable multifamily housing
+12 buildings that meet all of the following requirements:
+13 (1) Have been in service for at least 15 years as affordable multifamily housing
+14 buildings.
+15 (2) Are located in potentially underserved communities, as identified by criteria
+16 to be established by the Department.
+17 (e) Incentive Amounts. – Grants shall provide incentives for early adoption that shall not
+18 exceed seventy-five cents ($0.75) per square foot of eligible space. Incentive amounts will be
+19 based on project scope, demonstrated energy savings, and compliance with program tiers or
+20 performance standards established by the Department.
+21 (f) Compliance. – Grant recipients must ensure upgrades comply with applicable
+22 building codes and energy standards. Applicants must also comply with federal requirements if
+23 they are using federal funds in addition to State funds. Recipients shall maintain affordability
+24 commitments for a period specified by the Department.
+25 "§ 143B-344.67. Reporting and evaluation.
+26 (a) Grant recipients shall report annually to the Office on project outcomes, including
+27 energy savings, cost reductions for residents, greenhouse gas emissions reductions, and health or
+28 environmental benefits.
+29 (b) The Office shall submit an annual report to the Joint Legislative Commission on
+30 Energy Policy on program performance, funds allocated, projects completed, and
+31 recommendations for improvements."
+32 SECTION 2. There is appropriated from the General Fund to the Department of
+33 Environmental Quality the sum of five million dollars ($5,000,000) in recurring funds beginning
+34 in the 2026-2027 fiscal year to be used for staffing and operating funds for the Affordable
+35 Housing Efficiency Grant Program, as enacted by this act. Up to six percent (6%) of the funds
+36 may be used by the Department for administrative costs.
+37 SECTION 3. This act becomes effective on July 1, 2026.
+Page 2 DRS45533-NSa-1
+[DELETED:  D A ( S  A A A T E T A H E G P T P F I F F E E A E B U I A M T S a " " T ( A m f o t a m i a f h s o a o d ( A d ( D ( E w p i ( E e u – M t r e c i i e w l a a h v ( O " ( T t e r e i u ( G]
+[DELETED:  S  D ( E ( E ( R i ( P a ( T O s p a d r t f t p i d T o ( E – G s o b a t a m h b ( H b ( A t ( I e b p ( C – G r m e u c w a b t c " ( G e e ( T E P o p p f a p c a r S E i y A H m S]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Apr 30, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 1020
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS45533-NSa-1
+Short Title: Affordable Housing Efficiency Grant Program. (Public)
+Sponsors: Senators Salvador and Theodros (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ESTABLISH THE AFFORDABLE HOUSING EFFICIENCY GRANT
+3 PROGRAM TO PROVIDE FLEXIBLE INCENTIVE FUNDING FOR ENERGY
+4 EFFICIENCY AND ELECTRIC BUILDING UPGRADES IN AFFORDABLE
+5 MULTIFAMILY HOUSING.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. Article 7 of Chapter 143B of the General Statutes is amended by adding
+8 a new Part to read:
+9 "Part 37. Affordable Housing Efficiency Grant Program.
+10 "§ 143B-344.65. Definitions.
+11 The following definitions apply to this Part:
+12 (1) Affordable multifamily housing. – Multifamily residential buildings of five or
+13 more dwelling units where at least fifty percent (50%) of the units are reserved
+14 for or occupied by households with incomes at or below eighty percent (80%)
+15 of the area median income, adjusted for household size, or as otherwise
+16 defined by the Department.
+17 (2) Area median income. – The annual median household income of an area as
+18 determined by the U.S. Department of Housing and Urban Development.
+19 (3) Department. – The Department of Environmental Quality.
+20 (4) Electric building upgrades. – Improvements that replace fossil fuel systems
+21 with high-efficiency electric alternatives, including, but not limited to, heat
+22 pumps, electric water heaters, induction stoves, and electric vehicle charging
+23 infrastructure.
+24 (5) Energy efficiency upgrades. – Measures that reduce energy consumption,
+25 including, insulation, efficient windows, lighting, appliances, and heating,
+26 ventilation, or air conditioning systems.
+27 (6) Office. – The State Energy Office.
+28 "§ 143B-344.66. Establishment of program.
+29 (a) The Affordable Housing Efficiency Grant Program is established within the Office of
+30 the Department to provide flexible incentive grants to affordable multifamily housing for energy
+31 efficiency upgrades and electric building upgrades. The program shall prioritize projects that
+32 reduce energy costs for low-income residents, improve building performance, enhance indoor
+33 environmental quality, and support clean energy goals. The Department shall adopt rules to
+34 implement this Part, including criteria for grant applications, eligibility, prioritization, allowable
+35 uses of funds, incentive structures, and reporting requirements.
+36 (b) Grants may be used for any of the following:
+*DRS45533-NSa-1*
+
+General Assembly Of North Carolina Session 2025
+1 (1) Energy efficiency upgrades.
+2 (2) Electric building upgrades.
+3 (3) Related health and safety improvements necessary to facilitate the upgrades,
+4 including ventilation enhancements or structural repairs.
+5 (4) Project planning, design, and implementation costs, including energy audits
+6 and technical assistance.
+7 (c) The Office shall perform all duties required to facilitate the program, including
+8 developing application processes, awarding grants, and monitoring compliance and outcomes.
+9 The Office may partner with local government units, utilities, or nonprofits to accomplish the
+10 objectives of the program.
+11 (d) Eligibility. – Grants shall only be awarded to affordable multifamily housing
+12 buildings that meet all of the following requirements:
+13 (1) Have been in service for at least 15 years as affordable multifamily housing
+14 buildings.
+15 (2) Are located in potentially underserved communities, as identified by criteria
+16 to be established by the Department.
+17 (e) Incentive Amounts. – Grants shall provide incentives for early adoption that shall not
+18 exceed seventy-five cents ($0.75) per square foot of eligible space. Incentive amounts will be
+19 based on project scope, demonstrated energy savings, and compliance with program tiers or
+20 performance standards established by the Department.
+21 (f) Compliance. – Grant recipients must ensure upgrades comply with applicable
+22 building codes and energy standards. Applicants must also comply with federal requirements if
+23 they are using federal funds in addition to State funds. Recipients shall maintain affordability
+24 commitments for a period specified by the Department.
+25 "§ 143B-344.67. Reporting and evaluation.
+26 (a) Grant recipients shall report annually to the Office on project outcomes, including
+27 energy savings, cost reductions for residents, greenhouse gas emissions reductions, and health or
+28 environmental benefits.
+29 (b) The Office shall submit an annual report to the Joint Legislative Commission on
+30 Energy Policy on program performance, funds allocated, projects completed, and
+31 recommendations for improvements."
+32 SECTION 2. There is appropriated from the General Fund to the Department of
+33 Environmental Quality the sum of five million dollars ($5,000,000) in recurring funds beginning
+34 in the 2026-2027 fiscal year to be used for staffing and operating funds for the Affordable
+35 Housing Efficiency Grant Program, as enacted by this act. Up to six percent (6%) of the funds
+36 may be used by the Department for administrative costs.
+37 SECTION 3. This act becomes effective on July 1, 2026.
+Page 2 DRS45533-NSa-1
+
+[DELETED:  D A ( S  A A A T E T A H E G P T P F I F F E E A E B U I A M T S a " " T ( A m f o t a m i a f h s o a o d ( A d ( D ( E w p i ( E e u – M t r e c i i e w l a a h v ( O " ( T t e r e i u ( G]
+[DELETED:  S  D ( E ( E ( R i ( P a ( T O s p a d r t f t p i d T o ( E – G s o b a t a m h b ( H b ( A t ( I e b p ( C – G r m e u c w a b t c " ( G e e ( T E P o p p f a p c a r S E i y A H m S]

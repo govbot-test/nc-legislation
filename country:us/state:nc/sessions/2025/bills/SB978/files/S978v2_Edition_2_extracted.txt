@@ -1,0 +1,384 @@
+Title: SENATE BILL 978
+Official Title: SENATE BILL 978
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 2
+Health Care Committee Substitute Adopted 6/11/26
+Short Title: Healthcare Competition Reforms. (Public)
+Sponsors:
+Referred to:
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROVIDE WHISTLEBLOWER AND EMPLOYMENT PROTECTION TO
+3 HEALTHCARE WORKERS, TO LIMIT THE CHIEF EXECUTIVE OFFICER
+4 COMPENSATION OF NOT-FOR-PROFIT HOSPITALS THAT RECEIVE STATE
+5 FUNDS, AND TO EXEMPT THE DEPARTMENT OF STATE TREASURER FROM
+6 DEPARTMENT OF HEALTH AND HUMAN SERVICES REVIEW.
+7 The General Assembly of North Carolina enacts:
+8
+9 PART I. WHISTLEBLOWER AND EMPLOYMENT PROTECTIONS FOR
+10 HEALTHCARE PROFESSIONALS
+11 SECTION 1.1. G.S. 75-1.1 is amended by adding a new subsection to read:
+12 "(c1) The learned profession exception of this section applies to health care providers, as
+13 defined in G.S. 90-21.11, only for acts and omissions directly related to the provision of medical,
+14 dental, or other health care that are subject to litigation under Article 1B of Chapter 90 of the
+15 General Statutes."
+16 SECTION 1.2.(a) Article 3 of Chapter 95 of the General Statutes is amended by
+17 adding a new section to read:
+18 "§ 95-28.1B. Health care professional whistleblower protection.
+19 (a) The following definitions apply in this section:
+20 (1) Health care professional. – An individual who is a licensed physician,
+21 physician assistant, advanced practice registered nurse as defined by the North
+22 Carolina Board of Nursing, or registered nurse.
+23 (2) Hospital. – Any of the following:
+24 a. A facility that has an organized medical staff and is designed, used,
+25 and operated to provide health care, diagnostic and therapeutic
+26 services, and continuous nursing care primarily to inpatients where
+27 such care and services are rendered under the supervision and direction
+28 of physicians licensed under Article 1 of Chapter 90 of the General
+29 Statutes, to two or more persons over a period in excess of 24 hours.
+30 b. A facility designated by the Centers for Medicare and Medicaid
+31 Services as a rural emergency hospital as defined under 42 C.F.R. §
+32 485.502 or under section 125 of Division CC of the Consolidated
+33 Appropriations Act of 2021, Public Law 116-260.
+34 c. Any outpatient department, including a portion of a hospital operated
+35 as an outpatient department, on or off of the hospital's main campus,
+36 that is operated under the hospital's control or ownership and is
+*S978-v-2*
+General Assembly Of North Carolina Session 2025
+1 classified as a Business Occupancy by the Life Safety Code of the
+2 National Fire Protection Association as referenced under 42 C.F.R. §
+3 482.41.
+4 d. Any hospital-owned medical practice.
+5 (3) Medical staff bylaws. – A document that is required by a licensing,
+6 accrediting, or regulatory body that governs the organization and operation of
+7 a hospital's medical staff by defining the structure, roles, responsibilities, and
+8 relationships between the medical staff, stakeholders, hospital administration,
+9 and hospital governing board.
+10 (4) Stakeholder. – An incorporator, officer, director, shareholder, or employee of
+11 a (i) professional corporation as defined by G.S. 55B-2 or (ii) domestic or
+12 foreign entity that provides nonclinical services to a professional corporation
+13 as defined by G.S. 55B-2 rendering professional service under Article 1 of
+14 Chapter 90 of the General Statutes.
+15 (b) It is the policy of this State that health care professionals have the right to report
+16 violations of medical staff bylaws to appropriate authorities and make comments concerning
+17 patient care for the protection of the public. Therefore, no person, firm, corporation, or
+18 unincorporated association, or a stakeholder, may subject a health care professional to adverse
+19 action, including, but not limited to, withdrawal of hospital privileges, termination, demotion,
+20 compensation reduction, or hostile work environment for reporting a violation of medical staff
+21 bylaws or making comments concerning patient care."
+22 SECTION 1.2.(b) G.S. 95-241(a)(1) reads as rewritten:
+23 "(a) No person shall discriminate or take any retaliatory action against an employee
+24 because the employee in good faith does or threatens to do any of the following:
+25 (1) File a claim or complaint, initiate any inquiry, investigation, inspection,
+26 proceeding or other action, or testify or provide information to any person
+27 with respect to any of the following:
+28 …
+29 f. G.S. 95-28.1A.G.S. 95-28.1A or G.S. 95-28.1B.
+30 …."
+31 SECTION 1.2.(c) The North Carolina Board of Medicine may adopt rules to
+32 implement this section.
+33 SECTION 1.2.(d) This section is effective when it becomes law and applies to
+34 employers, employees, and prospective employees on or after that date.
+35 SECTION 1.3.(a) Chapter 66 of the General Statutes is amended by adding a new
+36 Article to read:
+37 "Article 52.
+38 "Limitations on Agreements With Health Care Professionals.
+39 "§ 66-515. Definitions.
+40 The following definitions apply in this Article:
+41 (1) Health care professional. – An individual who is a licensed physician,
+42 physician assistant, advanced practice registered nurse as defined by the North
+43 Carolina Board of Nursing, or registered nurse.
+44 (2) Medical staff bylaws. – As defined in G.S. 95-28.1B(a).
+45 (3) Nondisclosure agreement. – An agreement that restricts the ability of a party
+46 to disclose information.
+47 (4) Non-compete clause or clause. – An agreement that restricts a party from
+48 engaging in certain types of employment or business activities for a specified
+49 period of time within a specified geographic area.
+50 "§ 66-516. Nondisclosure agreements limited.
+Page 2 Senate Bill 978-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (a) Any nondisclosure agreement entered into with a health care professional must
+2 explicitly state that it does not restrict the health care professional from reporting safety concerns,
+3 ethical violations, or illegal activities.
+4 (b) No health care professional may be required to enter into a nondisclosure agreement
+5 that would do any of the following:
+6 (1) Prevent the health care professional from discussing patient safety concerns
+7 with licensing agencies, accrediting bodies, or other regulatory or oversight
+8 entities.
+9 (2) Restrict the health care professional's ability to report to the appropriate
+10 authorities violations of law, medical ethics, or medical staff bylaws.
+11 "§ 66-517. Certain non-compete clauses prohibited.
+12 An employment contract for a health care professional employed by a hospital, as defined in
+13 G.S. 95-28.1B, shall not contain a non-compete clause.
+14 "§ 66-518. Provision of information.
+15 Any policy, nondisclosure agreement, non-compete clause, medical staff bylaw, or any other
+16 type of contractual agreement with a health care professional shall not prohibit the provision of
+17 new practice information upon request by a patient, and, if available, the recipient of that request
+18 shall provide that information upon that request.
+19 "§ 66-519. Remedies.
+20 (a) A nondisclosure agreement or non-compete clause that violates this Article is void
+21 and unenforceable.
+22 (b) A health care professional who prevails in an action under this Article challenging the
+23 enforceability of a nondisclosure agreement or non-compete clause is entitled to damages plus
+24 reasonable attorneys' fees and costs."
+25 SECTION 1.3.(b) This section is effective July 1, 2026, and applies to contracts
+26 entered into, modified, or renewed on or after that date.
+27
+28 PART II. NONPROFIT HOSPITAL CEO COMPENSATION LIMITS
+29 SECTION 2.(a) Article 5 of Chapter 131E of the General Statutes is amended by
+30 adding a new section to read:
+31 "§ 131E-99.1. Hospital compensation fairness.
+32 (a) Definitions. – The following definitions apply in this section.
+33 (1) Chief executive officer. – The highest-ranking executive in a hospital who is
+34 responsible for making major corporate decisions and managing overall
+35 operations, regardless of the individual's actual job title.
+36 (2) Compensation. – Salary; bonus payments, whether based on performance or
+37 otherwise; incentive payments; severance payments; loans to be repaid on
+38 terms, including interest less burdensome than the going market rate; value of
+39 use of hospital-provided vehicles, housing, or other perquisites not generally
+40 available to employees; stock or stock options and any dividends or other
+41 benefits of the ownership of stock or stock options.
+42 (3) Minimum compensation. – The value of the annual compensation received by
+43 a full-time employee of a qualifying hospital who receives the minimum wage
+44 defined in G.S. 95-25.3. If no employee receives the minimum wage defined
+45 in G.S. 95-25.3, the minimum compensation shall be the value of the annual
+46 compensation received by the lowest-paid, full-time employee of a qualifying
+47 hospital.
+48 (4) Qualifying hospital. – A hospital licensed under this Article that accepts funds
+49 from the State and is exempt from taxation under section 501(c)(3) of the
+50 Internal Revenue Code (26 U.S.C. § 501(c)(3)).
+Senate Bill 978-Second Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (b) Chief Executive Officer Compensation. – No chief executive officer of a qualifying
+2 hospital shall receive an annual compensation that is more than 400 times greater than the
+3 minimum compensation.
+4 (c) Civil Penalty. – If the chief executive officer of a qualifying hospital receives an
+5 annual compensation that is more than 400 times greater than the minimum compensation, the
+6 qualifying hospital shall be assessed a civil penalty equal to the amount of the chief executive
+7 officer's annual compensation.
+8 (d) Reporting and Payment. – No later than March 1 of each year, all qualifying hospitals
+9 shall report to the Commission the minimum compensation and chief executive officer
+10 compensation for the preceding year. The Commission shall notify any qualifying hospital of any
+11 civil penalty owed under subsection (c) of this section no later than April 1 of each year, and any
+12 civil penalties must be paid by a qualifying hospital no later than May 1 of each year.
+13 (e) Rules. – The Commission shall have the authority to adopt rules necessary to
+14 implement the provisions of this section."
+15 SECTION 2.(b) There is appropriated from the General Fund to the North Carolina
+16 Medical Care Commission the sum of fifty thousand dollars ($50,000) in nonrecurring funds for
+17 the 2026-2027 fiscal year to be used to administer the reporting provisions of G.S. 131E-99.1, as
+18 enacted by subsection (a) of this section.
+19
+20 PART III. EXEMPT STATE TREASURER FROM DHHS REVIEW
+21 SECTION 3. G.S. 131E-184 is amended by adding a new subsection to read:
+22 "(i) The Department shall exempt from review any new institutional health service
+23 established, developed, or acquired by any entity working in partnership or conjunction with the
+24 Department of State Treasurer."
+25
+26 PART IV. EFFECTIVE DATE
+27 SECTION 4. Unless otherwise provided, this act is effective when it becomes law.
+Page 4 Senate Bill 978-Second Edition
+[DELETED:  2 H (   A A A T P W A E P T H W T L T C E O C O N H T R S F A T E T D O S T F D T  P I W A E P F H S " T d d G S a " ( T ( H c p – A i w i a l p p C ( H a A a o t p h c d a t s s o S b A f d b t C f M a M S 4 o u s 1 o D C o t C A c A a t i o u t h c o o a i]
+[DELETED:  S  S c N 4 d A ( M s b – A d t i r b a l a a r a ( S a f a C ( I v p c f t p o t p T n p f c o u a c b S " N p s d o t a r a a a e b ( F a c o c i a i i i p w … f G … S 1  T N C B o M m a r t i S e S A " " " T ( H c p – A i w i a l p p C ( M ( N t ( N e p "]
+[DELETED:  S  P ( A n a e i w a h c p m e e ( N t ( P w e ( R t h c p a t r t t a a " A G " A t n s " ( A a ( A e r S e  P S a " ( D ( C r f m m c d a m o o ( C o t u a b ( M a d i c h ( Q f I]
+[DELETED:  S  S ( C h s r a a c t i m t 4 t g t t m ( C a q o ( R s r t t C t m c a c e o c c c ( R – T C s h t a t a r n t i S M t e  P S " T D s e f r a n i h s e D  P S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 2
+SENATE BILL 978
+Health Care Committee Substitute Adopted 6/11/26
+Short Title: Healthcare Competition Reforms. (Public)
+Sponsors:
+Referred to:
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROVIDE WHISTLEBLOWER AND EMPLOYMENT PROTECTION TO
+3 HEALTHCARE WORKERS, TO LIMIT THE CHIEF EXECUTIVE OFFICER
+4 COMPENSATION OF NOT-FOR-PROFIT HOSPITALS THAT RECEIVE STATE
+5 FUNDS, AND TO EXEMPT THE DEPARTMENT OF STATE TREASURER FROM
+6 DEPARTMENT OF HEALTH AND HUMAN SERVICES REVIEW.
+7 The General Assembly of North Carolina enacts:
+8
+9 PART I. WHISTLEBLOWER AND EMPLOYMENT PROTECTIONS FOR
+10 HEALTHCARE PROFESSIONALS
+11 SECTION 1.1. G.S. 75-1.1 is amended by adding a new subsection to read:
+12 "(c1) The learned profession exception of this section applies to health care providers, as
+13 defined in G.S. 90-21.11, only for acts and omissions directly related to the provision of medical,
+14 dental, or other health care that are subject to litigation under Article 1B of Chapter 90 of the
+15 General Statutes."
+16 SECTION 1.2.(a) Article 3 of Chapter 95 of the General Statutes is amended by
+17 adding a new section to read:
+18 "§ 95-28.1B. Health care professional whistleblower protection.
+19 (a) The following definitions apply in this section:
+20 (1) Health care professional. – An individual who is a licensed physician,
+21 physician assistant, advanced practice registered nurse as defined by the North
+22 Carolina Board of Nursing, or registered nurse.
+23 (2) Hospital. – Any of the following:
+24 a. A facility that has an organized medical staff and is designed, used,
+25 and operated to provide health care, diagnostic and therapeutic
+26 services, and continuous nursing care primarily to inpatients where
+27 such care and services are rendered under the supervision and direction
+28 of physicians licensed under Article 1 of Chapter 90 of the General
+29 Statutes, to two or more persons over a period in excess of 24 hours.
+30 b. A facility designated by the Centers for Medicare and Medicaid
+31 Services as a rural emergency hospital as defined under 42 C.F.R. §
+32 485.502 or under section 125 of Division CC of the Consolidated
+33 Appropriations Act of 2021, Public Law 116-260.
+34 c. Any outpatient department, including a portion of a hospital operated
+35 as an outpatient department, on or off of the hospital's main campus,
+36 that is operated under the hospital's control or ownership and is
+*S978-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 classified as a Business Occupancy by the Life Safety Code of the
+2 National Fire Protection Association as referenced under 42 C.F.R. §
+3 482.41.
+4 d. Any hospital-owned medical practice.
+5 (3) Medical staff bylaws. – A document that is required by a licensing,
+6 accrediting, or regulatory body that governs the organization and operation of
+7 a hospital's medical staff by defining the structure, roles, responsibilities, and
+8 relationships between the medical staff, stakeholders, hospital administration,
+9 and hospital governing board.
+10 (4) Stakeholder. – An incorporator, officer, director, shareholder, or employee of
+11 a (i) professional corporation as defined by G.S. 55B-2 or (ii) domestic or
+12 foreign entity that provides nonclinical services to a professional corporation
+13 as defined by G.S. 55B-2 rendering professional service under Article 1 of
+14 Chapter 90 of the General Statutes.
+15 (b) It is the policy of this State that health care professionals have the right to report
+16 violations of medical staff bylaws to appropriate authorities and make comments concerning
+17 patient care for the protection of the public. Therefore, no person, firm, corporation, or
+18 unincorporated association, or a stakeholder, may subject a health care professional to adverse
+19 action, including, but not limited to, withdrawal of hospital privileges, termination, demotion,
+20 compensation reduction, or hostile work environment for reporting a violation of medical staff
+21 bylaws or making comments concerning patient care."
+22 SECTION 1.2.(b) G.S. 95-241(a)(1) reads as rewritten:
+23 "(a) No person shall discriminate or take any retaliatory action against an employee
+24 because the employee in good faith does or threatens to do any of the following:
+25 (1) File a claim or complaint, initiate any inquiry, investigation, inspection,
+26 proceeding or other action, or testify or provide information to any person
+27 with respect to any of the following:
+28 …
+29 f. G.S. 95-28.1A.G.S. 95-28.1A or G.S. 95-28.1B.
+30 …."
+31 SECTION 1.2.(c) The North Carolina Board of Medicine may adopt rules to
+32 implement this section.
+33 SECTION 1.2.(d) This section is effective when it becomes law and applies to
+34 employers, employees, and prospective employees on or after that date.
+35 SECTION 1.3.(a) Chapter 66 of the General Statutes is amended by adding a new
+36 Article to read:
+37 "Article 52.
+38 "Limitations on Agreements With Health Care Professionals.
+39 "§ 66-515. Definitions.
+40 The following definitions apply in this Article:
+41 (1) Health care professional. – An individual who is a licensed physician,
+42 physician assistant, advanced practice registered nurse as defined by the North
+43 Carolina Board of Nursing, or registered nurse.
+44 (2) Medical staff bylaws. – As defined in G.S. 95-28.1B(a).
+45 (3) Nondisclosure agreement. – An agreement that restricts the ability of a party
+46 to disclose information.
+47 (4) Non-compete clause or clause. – An agreement that restricts a party from
+48 engaging in certain types of employment or business activities for a specified
+49 period of time within a specified geographic area.
+50 "§ 66-516. Nondisclosure agreements limited.
+Page 2 Senate Bill 978-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (a) Any nondisclosure agreement entered into with a health care professional must
+2 explicitly state that it does not restrict the health care professional from reporting safety concerns,
+3 ethical violations, or illegal activities.
+4 (b) No health care professional may be required to enter into a nondisclosure agreement
+5 that would do any of the following:
+6 (1) Prevent the health care professional from discussing patient safety concerns
+7 with licensing agencies, accrediting bodies, or other regulatory or oversight
+8 entities.
+9 (2) Restrict the health care professional's ability to report to the appropriate
+10 authorities violations of law, medical ethics, or medical staff bylaws.
+11 "§ 66-517. Certain non-compete clauses prohibited.
+12 An employment contract for a health care professional employed by a hospital, as defined in
+13 G.S. 95-28.1B, shall not contain a non-compete clause.
+14 "§ 66-518. Provision of information.
+15 Any policy, nondisclosure agreement, non-compete clause, medical staff bylaw, or any other
+16 type of contractual agreement with a health care professional shall not prohibit the provision of
+17 new practice information upon request by a patient, and, if available, the recipient of that request
+18 shall provide that information upon that request.
+19 "§ 66-519. Remedies.
+20 (a) A nondisclosure agreement or non-compete clause that violates this Article is void
+21 and unenforceable.
+22 (b) A health care professional who prevails in an action under this Article challenging the
+23 enforceability of a nondisclosure agreement or non-compete clause is entitled to damages plus
+24 reasonable attorneys' fees and costs."
+25 SECTION 1.3.(b) This section is effective July 1, 2026, and applies to contracts
+26 entered into, modified, or renewed on or after that date.
+27
+28 PART II. NONPROFIT HOSPITAL CEO COMPENSATION LIMITS
+29 SECTION 2.(a) Article 5 of Chapter 131E of the General Statutes is amended by
+30 adding a new section to read:
+31 "§ 131E-99.1. Hospital compensation fairness.
+32 (a) Definitions. – The following definitions apply in this section.
+33 (1) Chief executive officer. – The highest-ranking executive in a hospital who is
+34 responsible for making major corporate decisions and managing overall
+35 operations, regardless of the individual's actual job title.
+36 (2) Compensation. – Salary; bonus payments, whether based on performance or
+37 otherwise; incentive payments; severance payments; loans to be repaid on
+38 terms, including interest less burdensome than the going market rate; value of
+39 use of hospital-provided vehicles, housing, or other perquisites not generally
+40 available to employees; stock or stock options and any dividends or other
+41 benefits of the ownership of stock or stock options.
+42 (3) Minimum compensation. – The value of the annual compensation received by
+43 a full-time employee of a qualifying hospital who receives the minimum wage
+44 defined in G.S. 95-25.3. If no employee receives the minimum wage defined
+45 in G.S. 95-25.3, the minimum compensation shall be the value of the annual
+46 compensation received by the lowest-paid, full-time employee of a qualifying
+47 hospital.
+48 (4) Qualifying hospital. – A hospital licensed under this Article that accepts funds
+49 from the State and is exempt from taxation under section 501(c)(3) of the
+50 Internal Revenue Code (26 U.S.C. § 501(c)(3)).
+Senate Bill 978-Second Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (b) Chief Executive Officer Compensation. – No chief executive officer of a qualifying
+2 hospital shall receive an annual compensation that is more than 400 times greater than the
+3 minimum compensation.
+4 (c) Civil Penalty. – If the chief executive officer of a qualifying hospital receives an
+5 annual compensation that is more than 400 times greater than the minimum compensation, the
+6 qualifying hospital shall be assessed a civil penalty equal to the amount of the chief executive
+7 officer's annual compensation.
+8 (d) Reporting and Payment. – No later than March 1 of each year, all qualifying hospitals
+9 shall report to the Commission the minimum compensation and chief executive officer
+10 compensation for the preceding year. The Commission shall notify any qualifying hospital of any
+11 civil penalty owed under subsection (c) of this section no later than April 1 of each year, and any
+12 civil penalties must be paid by a qualifying hospital no later than May 1 of each year.
+13 (e) Rules. – The Commission shall have the authority to adopt rules necessary to
+14 implement the provisions of this section."
+15 SECTION 2.(b) There is appropriated from the General Fund to the North Carolina
+16 Medical Care Commission the sum of fifty thousand dollars ($50,000) in nonrecurring funds for
+17 the 2026-2027 fiscal year to be used to administer the reporting provisions of G.S. 131E-99.1, as
+18 enacted by subsection (a) of this section.
+19
+20 PART III. EXEMPT STATE TREASURER FROM DHHS REVIEW
+21 SECTION 3. G.S. 131E-184 is amended by adding a new subsection to read:
+22 "(i) The Department shall exempt from review any new institutional health service
+23 established, developed, or acquired by any entity working in partnership or conjunction with the
+24 Department of State Treasurer."
+25
+26 PART IV. EFFECTIVE DATE
+27 SECTION 4. Unless otherwise provided, this act is effective when it becomes law.
+Page 4 Senate Bill 978-Second Edition
+
+[DELETED:  2 H (   A A A T P W A E P T H W T L T C E O C O N H T R S F A T E T D O S T F D T  P I W A E P F H S " T d d G S a " ( T ( H c p – A i w i a l p p C ( H a A a o t p h c d a t s s o S b A f d b t C f M a M S 4 o u s 1 o D C o t C A c A a t i o u t h c o o a i]
+[DELETED:  S  S c N 4 d A ( M s b – A d t i r b a l a a r a ( S a f a C ( I v p c f t p o t p T n p f c o u a c b S " N p s d o t a r a a a e b ( F a c o c i a i i i p w … f G … S 1  T N C B o M m a r t i S e S A " " " T ( H c p – A i w i a l p p C ( M ( N t ( N e p "]
+[DELETED:  S  P ( A n a e i w a h c p m e e ( N t ( P w e ( R t h c p a t r t t a a " A G " A t n s " ( A a ( A e r S e  P S a " ( D ( C r f m m c d a m o o ( C o t u a b ( M a d i c h ( Q f I]
+[DELETED:  S  S ( C h s r a a c t i m t 4 t g t t m ( C a q o ( R s r t t C t m c a c e o c c c ( R – T C s h t a t a r n t i S M t e  P S " T D s e f r a n i h s e D  P S]

@@ -1,0 +1,122 @@
+Title: HOUSE BILL 1231
+Official Title: HOUSE BILL 1231
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: No Voter Registration Changes At DMV. (Public)
+Sponsors: Representatives Ward, Loftis, and Howard (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+May 12, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ELIMINATE THE ABILITY TO UPDATE EXISTING VOTER
+3 REGISTRATION ON THE DIVISION OF MOTOR VEHICLES' (DMV) WEBSITE OR
+4 AT DMV PHYSICAL LOCATIONS AND REQUIRE THAT CHANGES BE MADE AT
+5 COUNTY BOARDS OF ELECTIONS.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. G.S. 163-82.19 reads as rewritten:
+8 "§ 163-82.19. Voter registration at drivers license offices; coordination on data interface.
+9 (a) Voter Registration at Drivers License Offices. – The Division of Motor Vehicles
+10 shall, pursuant to the rules adopted by the State Board of Elections, modify its forms so that any
+11 eligible person who applies for original issuance, renewal or correction of a drivers license, or
+12 special identification card issued under G.S. 20-37.7 may, on a part of the form, complete an
+13 application to register to vote, or vote. A voter seeking to update the voter's registration if the
+14 voter (i) has changed his or her address or moved from one precinct to another or from one county
+15 to another. another or (ii) wants to change the voter's name or party affiliation, shall make those
+16 changes at the appropriate county board of elections. The person taking the application shall ask
+17 if the applicant is a citizen of the United States. If the applicant states that the applicant is not a
+18 citizen of the United States, or declines to answer the question, the person taking the application
+19 shall inform the applicant that it is a felony for a person who is not a citizen of the United States
+20 to apply to register to vote. The application shall state in clear language the penalty for violation
+21 of this section. The necessary forms shall be prescribed by the State Board of Elections. The form
+22 must ask for the previous voter registration address of the voter, if any. If a previous address is
+23 listed, and it is not in the county of residence of the applicant, the appropriate county board of
+24 elections shall treat the application as an authorization to cancel the previous registration and also
+25 process it as such under the procedures of G.S. 163-82.9. If a previous address is listed and that
+26 address is in the county where the voter applies to register, the application shall be processed as
+27 if it had been submitted under G.S. 163-82.9.
+28 Registration shall become effective as provided in G.S. 163-82.7. Applications to register to
+29 vote accepted at a drivers license office under this section until the deadline established in
+30 G.S. 163-82.6(d)(2) shall be treated as timely made for an election, and no person who completes
+31 an application at that drivers license office shall be denied the vote in that election for failure to
+32 apply earlier than that deadline.
+33 All applications shall be forwarded by the Department of Transportation to the appropriate
+34 board of elections not later than five business days after the date of acceptance, according to rules
+*H1231-v-1*
+General Assembly Of North Carolina Session 2025
+1 which shall be promulgated by the State Board of Elections. Those rules shall provide for a
+2 paperless, instant, electronic transfer of applications to the appropriate board of elections.
+3 …."
+4 SECTION 2. This act is effective when it becomes law and applies to changes in
+5 voter registration occurring on or after that date.
+Page 2 House Bill 1231-First Edition
+[DELETED:  1 N ( R R A A A T E T A T U E V R A C T S " ( V – s e s a v t c i c s t o m l e p a i R v a a a d l o u t s u t d e i G a a A b]
+[DELETED:  S  H w p … S v]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1231
+Short Title: No Voter Registration Changes At DMV. (Public)
+Sponsors: Representatives Ward, Loftis, and Howard (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+May 12, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ELIMINATE THE ABILITY TO UPDATE EXISTING VOTER
+3 REGISTRATION ON THE DIVISION OF MOTOR VEHICLES' (DMV) WEBSITE OR
+4 AT DMV PHYSICAL LOCATIONS AND REQUIRE THAT CHANGES BE MADE AT
+5 COUNTY BOARDS OF ELECTIONS.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. G.S. 163-82.19 reads as rewritten:
+8 "§ 163-82.19. Voter registration at drivers license offices; coordination on data interface.
+9 (a) Voter Registration at Drivers License Offices. – The Division of Motor Vehicles
+10 shall, pursuant to the rules adopted by the State Board of Elections, modify its forms so that any
+11 eligible person who applies for original issuance, renewal or correction of a drivers license, or
+12 special identification card issued under G.S. 20-37.7 may, on a part of the form, complete an
+13 application to register to vote, or vote. A voter seeking to update the voter's registration if the
+14 voter (i) has changed his or her address or moved from one precinct to another or from one county
+15 to another. another or (ii) wants to change the voter's name or party affiliation, shall make those
+16 changes at the appropriate county board of elections. The person taking the application shall ask
+17 if the applicant is a citizen of the United States. If the applicant states that the applicant is not a
+18 citizen of the United States, or declines to answer the question, the person taking the application
+19 shall inform the applicant that it is a felony for a person who is not a citizen of the United States
+20 to apply to register to vote. The application shall state in clear language the penalty for violation
+21 of this section. The necessary forms shall be prescribed by the State Board of Elections. The form
+22 must ask for the previous voter registration address of the voter, if any. If a previous address is
+23 listed, and it is not in the county of residence of the applicant, the appropriate county board of
+24 elections shall treat the application as an authorization to cancel the previous registration and also
+25 process it as such under the procedures of G.S. 163-82.9. If a previous address is listed and that
+26 address is in the county where the voter applies to register, the application shall be processed as
+27 if it had been submitted under G.S. 163-82.9.
+28 Registration shall become effective as provided in G.S. 163-82.7. Applications to register to
+29 vote accepted at a drivers license office under this section until the deadline established in
+30 G.S. 163-82.6(d)(2) shall be treated as timely made for an election, and no person who completes
+31 an application at that drivers license office shall be denied the vote in that election for failure to
+32 apply earlier than that deadline.
+33 All applications shall be forwarded by the Department of Transportation to the appropriate
+34 board of elections not later than five business days after the date of acceptance, according to rules
+*H1231-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 which shall be promulgated by the State Board of Elections. Those rules shall provide for a
+2 paperless, instant, electronic transfer of applications to the appropriate board of elections.
+3 …."
+4 SECTION 2. This act is effective when it becomes law and applies to changes in
+5 voter registration occurring on or after that date.
+Page 2 House Bill 1231-First Edition
+
+[DELETED:  1 N ( R R A A A T E T A T U E V R A C T S " ( V – s e s a v t c i c s t o m l e p a i R v a a a d l o u t s u t d e i G a a A b]
+[DELETED:  S  H w p … S v]

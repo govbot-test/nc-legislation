@@ -1,0 +1,105 @@
+Title: SENATE BILL 809
+Official Title: SENATE BILL 809
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 2
+House Committee Substitute Favorable 6/2/26
+Short Title: Remove Satellite Annexation Cap. (Local)
+Sponsors:
+Referred to:
+April 22, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REMOVE THE CAP ON SATELLITE ANNEXATION FROM VARIOUS
+3 MUNICIPALITIES.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 160A-58.1(b) reads as rewritten:
+6 "(b) A noncontiguous area proposed for annexation must meet all of the following
+7 standards:
+8 …
+9 (5) The area within the proposed satellite corporate limits, when added to the area
+10 within all other satellite corporate limits, may not exceed ten percent (10%)
+11 of the area within the primary corporate limits of the annexing city.
+12 This subdivision does not apply to the Cities of Archdale, Asheboro,
+13 Belmont, Claremont, Concord, Conover, Dunn, Durham, Elizabeth City,
+14 Gastonia, Greenville, Hickory, Kannapolis, Kings Mountain, Locust, Lowell,
+15 Marion, Mount Airy, Mount Holly, New Bern, Newton, Oxford, Randleman,
+16 Roanoke Rapids, Rockingham, Saluda, Sanford, Salisbury, Shelby, Southport,
+17 Statesville, and Washington and the Towns of Ahoskie, Angier, Apex, Ayden,
+18 Belville, Benson, Bladenboro, Bridgeton, Bunn, Burgaw, Calabash, Carthage,
+19 Catawba, China Grove, Clayton, Cleveland, Coats, Columbia, Columbus,
+20 Cramerton, Creswell, Dallas, Dobson, Erwin, Four Oaks, Franklin,
+21 Franklinton, Franklinville, Fuquay-Varina, Garner, Godwin, Goldston,
+22 Granite Quarry, Green Level, Grimesland, Harrisburg, Holly Ridge, Holly
+23 Springs, Hookerton, Hope Mills, Huntersville, Jamestown, Kenansville,
+24 Kenly, Knightdale, Landis, Laurel Park, Liberty, Lillington, Louisburg,
+25 Madison, Maggie Valley, Maiden, Mayodan, Maysville, Middlesex, Midland,
+26 Mocksville, Morrisville, Mount Pleasant, Nashville, North Wilkesboro,
+27 Norwood, Oak Island, Oakboro, Ocean Isle Beach, Pembroke, Pine Level,
+28 Pollocksville, Princeton, Ramseur, Ranlo, Richlands, Rockwell, Rolesville,
+29 Rutherfordton, Shallotte, Siler City, Smithfield, Spencer, Spring Lake, Spruce
+30 Pine, Stanley, Stem, Stovall, Surf City, Swansboro, Tabor City, Taylorsville,
+31 Troutman, Troy, Vass, Wallace, Warsaw, Watha, Waynesville, Weldon,
+32 Wendell, West Jefferson, Wilson's Mills, Windsor, Wingate, Yadkinville,
+33 Youngsville, and Zebulon."
+34 SECTION 2. This act is effective when it becomes law.
+*S809-v-2*
+[DELETED:  2 R (   A A A T R T C O S A F V M T S " A n a p f a m m a o t f s … ( T w o T s d n a t t C o A A B C C C D D E C G M R S B C C G C C C C C C C D D E F O F F F F G G G G S H H M H J K K K L L P L L L M M M M P N N W N P R P T T V W W W W W W W J W M W W Y Y S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 2
+SENATE BILL 809
+House Committee Substitute Favorable 6/2/26
+Short Title: Remove Satellite Annexation Cap. (Local)
+Sponsors:
+Referred to:
+April 22, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REMOVE THE CAP ON SATELLITE ANNEXATION FROM VARIOUS
+3 MUNICIPALITIES.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 160A-58.1(b) reads as rewritten:
+6 "(b) A noncontiguous area proposed for annexation must meet all of the following
+7 standards:
+8 …
+9 (5) The area within the proposed satellite corporate limits, when added to the area
+10 within all other satellite corporate limits, may not exceed ten percent (10%)
+11 of the area within the primary corporate limits of the annexing city.
+12 This subdivision does not apply to the Cities of Archdale, Asheboro,
+13 Belmont, Claremont, Concord, Conover, Dunn, Durham, Elizabeth City,
+14 Gastonia, Greenville, Hickory, Kannapolis, Kings Mountain, Locust, Lowell,
+15 Marion, Mount Airy, Mount Holly, New Bern, Newton, Oxford, Randleman,
+16 Roanoke Rapids, Rockingham, Saluda, Sanford, Salisbury, Shelby, Southport,
+17 Statesville, and Washington and the Towns of Ahoskie, Angier, Apex, Ayden,
+18 Belville, Benson, Bladenboro, Bridgeton, Bunn, Burgaw, Calabash, Carthage,
+19 Catawba, China Grove, Clayton, Cleveland, Coats, Columbia, Columbus,
+20 Cramerton, Creswell, Dallas, Dobson, Erwin, Four Oaks, Franklin,
+21 Franklinton, Franklinville, Fuquay-Varina, Garner, Godwin, Goldston,
+22 Granite Quarry, Green Level, Grimesland, Harrisburg, Holly Ridge, Holly
+23 Springs, Hookerton, Hope Mills, Huntersville, Jamestown, Kenansville,
+24 Kenly, Knightdale, Landis, Laurel Park, Liberty, Lillington, Louisburg,
+25 Madison, Maggie Valley, Maiden, Mayodan, Maysville, Middlesex, Midland,
+26 Mocksville, Morrisville, Mount Pleasant, Nashville, North Wilkesboro,
+27 Norwood, Oak Island, Oakboro, Ocean Isle Beach, Pembroke, Pine Level,
+28 Pollocksville, Princeton, Ramseur, Ranlo, Richlands, Rockwell, Rolesville,
+29 Rutherfordton, Shallotte, Siler City, Smithfield, Spencer, Spring Lake, Spruce
+30 Pine, Stanley, Stem, Stovall, Surf City, Swansboro, Tabor City, Taylorsville,
+31 Troutman, Troy, Vass, Wallace, Warsaw, Watha, Waynesville, Weldon,
+32 Wendell, West Jefferson, Wilson's Mills, Windsor, Wingate, Yadkinville,
+33 Youngsville, and Zebulon."
+34 SECTION 2. This act is effective when it becomes law.
+*S809-v-2*
+
+[DELETED:  2 R (   A A A T R T C O S A F V M T S " A n a p f a m m a o t f s … ( T w o T s d n a t t C o A A B C C C D D E C G M R S B C C G C C C C C C C D D E F O F F F F G G G G S H H M H J K K K L L P L L L M M M M P N N W N P R P T T V W W W W W W W J W M W W Y Y S]

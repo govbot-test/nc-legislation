@@ -1,0 +1,501 @@
+Title: SENATE BILL 831
+Official Title: SENATE BILL 831
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: 25-Year Retirement for First Responders. (Public)
+Sponsors: Senator Grafstein (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+April 27, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT ALLOWING FIRST RESPONDERS WHO ARE MEMBERS OF THE TEACHERS'
+3 AND STATE EMPLOYEES' RETIREMENT SYSTEM OR THE LOCAL
+4 GOVERNMENTAL EMPLOYEES' RETIREMENT SYSTEM TO RETIRE WITH
+5 UNREDUCED BENEFITS AFTER ACHIEVING TWENTY-FIVE YEARS OF
+6 CREDITABLE SERVICE AND MAKING CONFORMING CHANGES.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1.(a) G.S. 135-1 reads as rewritten:
+9 "§ 135-1. Definitions.
+10 The following words and phrases as used in this Chapter, unless a different meaning is plainly
+11 required by the context, shall have the following meanings:
+12 …
+13 (9a) "Emergency medical services personnel" or "EMS personnel" shall mean all
+14 full-time employees of any State department, agency, or institution who meet
+15 the definition of emergency medical services personnel under G.S. 131E-155.
+16 This includes emergency medical dispatchers and the Director of EMS.
+17 …
+18 (11b) "Firefighter" shall mean all full-time employees of any State department,
+19 agency, or institution who are actively serving in a position with assigned
+20 primary duties and responsibilities for the prevention, detection, and
+21 suppression of fire. This includes fire dispatchers, fire inspectors, and fire
+22 marshals.
+23 (11b)(11c) "Fraud investigation" means an independent review or examination by
+24 Retirement Systems Division staff or authorized representatives who are
+25 assisting the Retirement Systems Division staff of records, activities, actions,
+26 or decisions by employers or other affiliated or associated entities having an
+27 impact on the Retirement System. The purpose of a fraud investigation is to
+28 help detect and prevent fraud and to ensure full accountability in the use of
+29 pension funds.
+30 (11c)(11d) "Law Enforcement Officer" means a full-time paid employee of an
+31 employer who is actively serving in a position with assigned primary duties
+32 and responsibilities for prevention and detection of crime or the general
+33 enforcement of the criminal laws of the State of North Carolina or serving
+34 civil processes, and who possesses the power of arrest by virtue of an oath
+35 administered under the authority of the State. "Law Enforcement Officer" also
+36 means a probation/parole officer as defined in this section with respect to any
+*S831-v-1*
+General Assembly Of North Carolina Session 2025
+1 service rendered on or after July 1, 2017. This includes police dispatchers,
+2 police investigators, sheriff's deputies, bailiffs, corrections officers, detention
+3 officers, and jailers.
+4 …."
+5 SECTION 1.(b) G.S. 135-5(a) is amended by adding a new subdivision to read:
+6 "(4b) Any member who is a law enforcement officer, firefighter, or emergency
+7 medical services personnel and has completed 25 years of creditable service
+8 may retire upon electronic submission or written application to the Board of
+9 Trustees setting forth at what time, as of the first day of a calendar month, not
+10 less than one day nor more than 120 days subsequent to the execution and
+11 filing thereof, the member desires to be retired; provided, however, that any
+12 member who has met the 25 years of creditable service required by this
+13 subdivision but does not retire and later becomes employed other than as the
+14 member was employed while completing 25 years of creditable service shall
+15 continue to have the right to commence retirement."
+16 SECTION 1.(c) G.S. 135-5(b21) reads as rewritten:
+17 "(b21) Service Retirement Allowance of Non-First Responder Members Retiring on or After
+18 July 1, 2019; and First Responder Members Retiring on or After July 1, 2019. July 1, 2019, but
+19 Before January 1, 2027. – Upon retirement from service on or after July 1, 2019, in accordance
+20 with subsection (a) or (a1) of this section, a member shall receive the following service retirement
+21 allowance:
+22 …."
+23 SECTION 1.(d) G.S. 135-5 is amended by adding a new subsection to read:
+24 "(b22) Service Retirement Allowance of First Responders Retiring on or After January 1,
+25 2027. – Upon retirement from service on or after January 1, 2027, in accordance with subsection
+26 (a) or (a1) of this section and notwithstanding any other provision of this section to the contrary,
+27 a member who is a law enforcement officer, eligible former law enforcement officer, firefighter,
+28 eligible former firefighter, emergency medical services personnel, or eligible former medical
+29 services personnel shall receive a service retirement allowance computed as follows:
+30 (1) If the member's service retirement date occurs on or after the member's 55th
+31 birthday and completion of five years of creditable service as a law
+32 enforcement officer, as a firefighter, or as EMS personnel, or after the
+33 completion of 25 years of creditable service, the allowance shall be equal to
+34 one and eighty-two hundredths percent (1.82%) of the member's average final
+35 compensation multiplied by the number of years of the member's creditable
+36 service.
+37 (2) If the member's service retirement date occurs on or after the member's 50th
+38 birthday and before the member's 55th birthday with 15 or more years of
+39 creditable service as a law enforcement officer, firefighter, or EMS personnel
+40 and prior to the completion of 25 years of creditable service, the retirement
+41 allowance shall be equal to the greater of the following amounts:
+42 a. The service retirement allowance payable under subdivision (1) of this
+43 subsection reduced by one-third of one percent (1/3 of 1%) thereof for
+44 each month by which the retirement date precedes the first day of the
+45 month coincident with or next following the month the member would
+46 have attained age 55.
+47 b. The service retirement allowance as computed under subdivision (1)
+48 of this subsection reduced by five percent (5%) times the difference
+49 between 25 years and the amount of creditable service at retirement."
+50 SECTION 1.(e) G.S. 135-5(m)(1)b1. reads as rewritten:
+Page 2 Senate Bill 831-First Edition
+General Assembly Of North Carolina Session 2025
+1 "b1. The member was a law enforcement officer who had obtained 15 years
+2 of service as a law enforcement officer officer, or the member was a
+3 firefighter who had obtained 15 years of service as a firefighter, or the
+4 member was EMS personnel who had obtained 15 years of service as
+5 EMS personnel, and was killed in the line of duty, in which case the
+6 retirement allowance shall be computed in accordance with
+7 G.S. 135-5(b21)(1)c., G.S. 135-5(b22)(1) notwithstanding the
+8 requirement of obtaining age 50."
+9 SECTION 2.(a) G.S. 128-21 is amended by adding a new subdivision to read:
+10 "(9a) "Emergency medical services personnel" or "EMS personnel" means all
+11 full-time rescue squad workers and all full-time employees of any employer
+12 that participates in the Local Governmental Employees' Retirement System
+13 who meet the definition of emergency medical services personnel under
+14 G.S. 131E-155."
+15 SECTION 2.(b) G.S. 128-27(a) is amended by adding a new subdivision to read:
+16 "(6) Any member who is a law enforcement officer, firefighter, or emergency
+17 medical services personnel who has completed 25 years of creditable service
+18 may retire upon electronic submission or written application to the Board of
+19 Trustees setting forth at what time, as of the first day of a calendar month, not
+20 less than one day nor more than 120 days subsequent to the execution and
+21 filing of the application, the member desires to be retired; provided, however,
+22 that any member who has met the conditions required by this subdivision but
+23 does not retire and later becomes employed other than as the member was
+24 employed while completing 25 years of creditable service shall continue to
+25 have the right to commence retirement."
+26 SECTION 2.(c) G.S. 128-27(b22) reads as rewritten:
+27 "(b22) Service Retirement Allowance of Member Non-First Responder Members Retiring
+28 on or After July 1, 2019. July 1, 2019; and First-Responder Members Retiring on or After July
+29 1, 2019, but Before January 1, 2027. – Upon retirement from service in accordance with
+30 subsection (a) or (a1) of this section, on or after July 1, 2019, a member shall receive for members
+31 other than law enforcement officers, firefighters, and EMS personnel, and on or after July 1,
+32 2019, but before January 1, 2027, for law enforcement officers, firefighters, and EMS personnel,
+33 the following service retirement allowance:allowance shall apply:
+34 …."
+35 SECTION 2.(d) G.S. 128-27 is amended by adding a new subsection to read:
+36 "(b23) Service Retirement Allowance of Law Enforcement Officers, Firefighters, and
+37 Emergency Medical Services Personnel Retiring on or After January 1, 2027. – Upon retirement
+38 from service in accordance with subsection (a) or (a1) of this section on or after January 1, 2027,
+39 and notwithstanding any other provision of this section to the contrary, a member who is a law
+40 enforcement officer, eligible former law enforcement officer, firefighter, eligible former
+41 firefighter, EMS personnel, or eligible former EMS personnel shall receive a service retirement
+42 allowance computed as follows:
+43 (1) If the member's service retirement date occurs on or after the member's 55th
+44 birthday and completion of five years of creditable service as a law
+45 enforcement officer, as a firefighter, or as EMS personnel, or after the
+46 completion of 25 years of creditable service, the allowance shall be equal to
+47 one and eighty-five hundredths percent (1.85%) of the member's average final
+48 compensation multiplied by the number of years of the member's creditable
+49 service.
+50 (2) If the member's service retirement date occurs on or after the member's 50th
+51 birthday and before the member's 55th birthday with 15 or more years of
+Senate Bill 831-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 creditable service as a law enforcement officer, firefighter, or EMS personnel
+2 and prior to the completion of 25 years of creditable service, the retirement
+3 allowance shall be equal to the greater of the following amounts:
+4 a. The service retirement allowance payable under subdivision (1) of this
+5 subsection reduced by one-third of one percent (1/3 of 1%) thereof for
+6 each month by which the retirement date precedes the first day of the
+7 month coincident with or next following the month the member would
+8 have attained age 55.
+9 b. The service retirement allowance as computed under subdivision (1)
+10 of this subsection reduced by five percent (5%) times the difference
+11 between 25 years and the amount of creditable service at retirement."
+12 SECTION 2.(e) G.S. 128-27(m)(1)b1. reads as rewritten:
+13 "b1. The member was a law enforcement officer who had obtained 15 years
+14 of service as a law enforcement officer and was killed in the line of
+15 duty, or the member was a firefighter or a rescue squad worker who
+16 had obtained 15 years of service as a firefighter or a rescue squad
+17 worker and was killed in the line of duty, or the member was EMS
+18 personnel who had obtained 15 years of service as EMS personnel and
+19 was killed in the line of duty, in which cases the retirement allowance
+20 shall be computed in accordance with G.S. 128-27(b22)(1)c.,
+21 G.S. 128-27(b23)(1), notwithstanding the requirement of obtaining
+22 age 50."
+23 SECTION 3.(a) G.S. 143-166.41(b1) reads as rewritten:
+24 "(b1) Eligibility for Allowance and Calculation of Allowance Amount. – To be eligible for
+25 an allowance under this section, an officer is required to meet one of the following sets of criteria
+26 that shall also determine the allowance amount:
+27 (1) For officers meeting all of the following criteria, the annual special separation
+28 allowance to be paid is equal to eighty-five hundredths percent (0.85%) of the
+29 annual base rate of compensation most recently applicable to the officer for
+30 each year of that officer's creditable service:
+31 a. The For officers retiring before January 1, 2027, the officer (i) has
+32 completed 30 or more years of creditable service or (ii) is 55 years of
+33 age or older and completed five or more years of creditable service.
+34 a1. For officers retiring on or after January 1, 2027, the officer (i) has
+35 completed 25 or more years of creditable service or (ii) is 55 years of
+36 age or older and completed five or more years of creditable service.
+37 …
+38 (2) For officers meeting all of the following criteria, the annual special separation
+39 allowance to be paid is equal to eighty-five hundredths percent (0.85%) of the
+40 annual equivalent of the base rate of compensation at the time the officer
+41 attained 30 years of service multiplied by 30:
+42 a. Prior For officers retiring prior to January 1, 2027, prior to attaining
+43 62 years of age, the officer has completed 30 or more years of
+44 creditable service, at least fifty percent (50%) of which was as a law
+45 enforcement officer, or for service prior to July 1, 2017, as a
+46 probation/parole officer.
+47 a1. For officers retiring on or after January 1, 2027, prior to attaining 62
+48 years of age, the officer has completed 25 or more years of creditable
+49 service, at least fifty percent (50%) of which was as a law enforcement
+50 officer, or for service prior to July 1, 2017, as a probation/parole
+51 officer.
+Page 4 Senate Bill 831-First Edition
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 3.(b) G.S. 143-166.42(b1) reads as rewritten:
+3 "(b1) Qualification for Allowance and Calculation of Allowance. – To be eligible for an
+4 allowance under this section, an officer is required to meet one of the following sets of criteria,
+5 which shall also determine the allowance amount:
+6 (1) For officers meeting all of the following criteria, the annual special separation
+7 allowance to be paid is equal to eighty-five hundredths percent (0.85%) of the
+8 annual base rate of compensation most recently applicable to the officer for
+9 each year of that officer's creditable service:
+10 a. The For officers retiring before January 1, 2027, the officer (i) has
+11 completed 30 or more years of creditable service or (ii) is 55 years of
+12 age or older and completed five or more years of creditable service.
+13 a1. For officers retiring on or after January 1, 2027, the officer (i) has
+14 completed 25 or more years of creditable service or (ii) is 55 years of
+15 age or older and completed five or more years of creditable service.
+16 …
+17 (2) For officers meeting all of the following criteria, the annual special separation
+18 allowance to be paid is equal to eighty-five hundredths percent (0.85%) of the
+19 annual equivalent of the base rate of compensation at the time the officer
+20 attained 30 years of service multiplied by 30:
+21 a. Prior For officers retiring before January 1, 2027, prior to attaining 62
+22 years of age, the officer has completed 30 or more years of creditable
+23 service, at least fifty percent (50%) of which was as a law enforcement
+24 officer.
+25 a1. For officers retiring on or after January 1, 2027, prior to attaining 62
+26 years of age, the officer has completed 25 or more years of creditable
+27 service or is 55 years of age or older and completed five or more years
+28 of creditable service.
+29 …."
+30 SECTION 4. This act becomes effective January 1, 2027, and applies to eligible
+31 retirements occurring on or after that date.
+Senate Bill 831-First Edition Page 5
+[DELETED:  1 2 ( S R A A A S E R S O T L G E R S T R W U B A A T Y O C T S " T r … ( " f t T … ( " s m a f e o a S d a p d a r f t p d a s m ( R S D s o a r w a a o i h p ( E O m a f p e o a e a r f p a d o c o t g e c a m]
+[DELETED:  S  S s p o … S " A m i a l e o f o e m m T l f m w h m t 2 y o c s r b t s m c S " S J B w a … S " S 2 ( a e s ( I b a c o f y o c s a a l e o a a f o a E p o a t c o c s ( I b c a a a T s e m h b T o b S]
+[DELETED:  S  P " T o f m E r a s b c i a w G G n t r S " " m s p o " p m a f t w m t d o e m s p u G S " A m i a l e o f o e m m T l f t d e h S " S o 1 2 b B J 1 2 – U r f s i a w s o 2 t … S " S R A o L E O F a E f a e o e f l e o f e f f a ( I b a c o f y o c s a a l e o a a f o a E p o a t c o c s ( I b]
+[DELETED:  S  S c a a a T s e m h b T o b S " T o d h w p w s b c i a w G G n t r o o a S " E a t ( F a a e a T c a a F c a … ( F a a a a P 6 y o a t o h c 3 o m y o c e o o f s p t J 1 2 a a p a F y s o o f s p t J 1 2 a a p o]
+[DELETED:  S  P … S " Q a w ( F a a e a T c a a F c a … ( F a a a a P y s o a F y s o … S r]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 831
+Short Title: 25-Year Retirement for First Responders. (Public)
+Sponsors: Senator Grafstein (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+April 27, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT ALLOWING FIRST RESPONDERS WHO ARE MEMBERS OF THE TEACHERS'
+3 AND STATE EMPLOYEES' RETIREMENT SYSTEM OR THE LOCAL
+4 GOVERNMENTAL EMPLOYEES' RETIREMENT SYSTEM TO RETIRE WITH
+5 UNREDUCED BENEFITS AFTER ACHIEVING TWENTY-FIVE YEARS OF
+6 CREDITABLE SERVICE AND MAKING CONFORMING CHANGES.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1.(a) G.S. 135-1 reads as rewritten:
+9 "§ 135-1. Definitions.
+10 The following words and phrases as used in this Chapter, unless a different meaning is plainly
+11 required by the context, shall have the following meanings:
+12 …
+13 (9a) "Emergency medical services personnel" or "EMS personnel" shall mean all
+14 full-time employees of any State department, agency, or institution who meet
+15 the definition of emergency medical services personnel under G.S. 131E-155.
+16 This includes emergency medical dispatchers and the Director of EMS.
+17 …
+18 (11b) "Firefighter" shall mean all full-time employees of any State department,
+19 agency, or institution who are actively serving in a position with assigned
+20 primary duties and responsibilities for the prevention, detection, and
+21 suppression of fire. This includes fire dispatchers, fire inspectors, and fire
+22 marshals.
+23 (11b)(11c) "Fraud investigation" means an independent review or examination by
+24 Retirement Systems Division staff or authorized representatives who are
+25 assisting the Retirement Systems Division staff of records, activities, actions,
+26 or decisions by employers or other affiliated or associated entities having an
+27 impact on the Retirement System. The purpose of a fraud investigation is to
+28 help detect and prevent fraud and to ensure full accountability in the use of
+29 pension funds.
+30 (11c)(11d) "Law Enforcement Officer" means a full-time paid employee of an
+31 employer who is actively serving in a position with assigned primary duties
+32 and responsibilities for prevention and detection of crime or the general
+33 enforcement of the criminal laws of the State of North Carolina or serving
+34 civil processes, and who possesses the power of arrest by virtue of an oath
+35 administered under the authority of the State. "Law Enforcement Officer" also
+36 means a probation/parole officer as defined in this section with respect to any
+*S831-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 service rendered on or after July 1, 2017. This includes police dispatchers,
+2 police investigators, sheriff's deputies, bailiffs, corrections officers, detention
+3 officers, and jailers.
+4 …."
+5 SECTION 1.(b) G.S. 135-5(a) is amended by adding a new subdivision to read:
+6 "(4b) Any member who is a law enforcement officer, firefighter, or emergency
+7 medical services personnel and has completed 25 years of creditable service
+8 may retire upon electronic submission or written application to the Board of
+9 Trustees setting forth at what time, as of the first day of a calendar month, not
+10 less than one day nor more than 120 days subsequent to the execution and
+11 filing thereof, the member desires to be retired; provided, however, that any
+12 member who has met the 25 years of creditable service required by this
+13 subdivision but does not retire and later becomes employed other than as the
+14 member was employed while completing 25 years of creditable service shall
+15 continue to have the right to commence retirement."
+16 SECTION 1.(c) G.S. 135-5(b21) reads as rewritten:
+17 "(b21) Service Retirement Allowance of Non-First Responder Members Retiring on or After
+18 July 1, 2019; and First Responder Members Retiring on or After July 1, 2019. July 1, 2019, but
+19 Before January 1, 2027. – Upon retirement from service on or after July 1, 2019, in accordance
+20 with subsection (a) or (a1) of this section, a member shall receive the following service retirement
+21 allowance:
+22 …."
+23 SECTION 1.(d) G.S. 135-5 is amended by adding a new subsection to read:
+24 "(b22) Service Retirement Allowance of First Responders Retiring on or After January 1,
+25 2027. – Upon retirement from service on or after January 1, 2027, in accordance with subsection
+26 (a) or (a1) of this section and notwithstanding any other provision of this section to the contrary,
+27 a member who is a law enforcement officer, eligible former law enforcement officer, firefighter,
+28 eligible former firefighter, emergency medical services personnel, or eligible former medical
+29 services personnel shall receive a service retirement allowance computed as follows:
+30 (1) If the member's service retirement date occurs on or after the member's 55th
+31 birthday and completion of five years of creditable service as a law
+32 enforcement officer, as a firefighter, or as EMS personnel, or after the
+33 completion of 25 years of creditable service, the allowance shall be equal to
+34 one and eighty-two hundredths percent (1.82%) of the member's average final
+35 compensation multiplied by the number of years of the member's creditable
+36 service.
+37 (2) If the member's service retirement date occurs on or after the member's 50th
+38 birthday and before the member's 55th birthday with 15 or more years of
+39 creditable service as a law enforcement officer, firefighter, or EMS personnel
+40 and prior to the completion of 25 years of creditable service, the retirement
+41 allowance shall be equal to the greater of the following amounts:
+42 a. The service retirement allowance payable under subdivision (1) of this
+43 subsection reduced by one-third of one percent (1/3 of 1%) thereof for
+44 each month by which the retirement date precedes the first day of the
+45 month coincident with or next following the month the member would
+46 have attained age 55.
+47 b. The service retirement allowance as computed under subdivision (1)
+48 of this subsection reduced by five percent (5%) times the difference
+49 between 25 years and the amount of creditable service at retirement."
+50 SECTION 1.(e) G.S. 135-5(m)(1)b1. reads as rewritten:
+Page 2 Senate Bill 831-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 "b1. The member was a law enforcement officer who had obtained 15 years
+2 of service as a law enforcement officer officer, or the member was a
+3 firefighter who had obtained 15 years of service as a firefighter, or the
+4 member was EMS personnel who had obtained 15 years of service as
+5 EMS personnel, and was killed in the line of duty, in which case the
+6 retirement allowance shall be computed in accordance with
+7 G.S. 135-5(b21)(1)c., G.S. 135-5(b22)(1) notwithstanding the
+8 requirement of obtaining age 50."
+9 SECTION 2.(a) G.S. 128-21 is amended by adding a new subdivision to read:
+10 "(9a) "Emergency medical services personnel" or "EMS personnel" means all
+11 full-time rescue squad workers and all full-time employees of any employer
+12 that participates in the Local Governmental Employees' Retirement System
+13 who meet the definition of emergency medical services personnel under
+14 G.S. 131E-155."
+15 SECTION 2.(b) G.S. 128-27(a) is amended by adding a new subdivision to read:
+16 "(6) Any member who is a law enforcement officer, firefighter, or emergency
+17 medical services personnel who has completed 25 years of creditable service
+18 may retire upon electronic submission or written application to the Board of
+19 Trustees setting forth at what time, as of the first day of a calendar month, not
+20 less than one day nor more than 120 days subsequent to the execution and
+21 filing of the application, the member desires to be retired; provided, however,
+22 that any member who has met the conditions required by this subdivision but
+23 does not retire and later becomes employed other than as the member was
+24 employed while completing 25 years of creditable service shall continue to
+25 have the right to commence retirement."
+26 SECTION 2.(c) G.S. 128-27(b22) reads as rewritten:
+27 "(b22) Service Retirement Allowance of Member Non-First Responder Members Retiring
+28 on or After July 1, 2019. July 1, 2019; and First-Responder Members Retiring on or After July
+29 1, 2019, but Before January 1, 2027. – Upon retirement from service in accordance with
+30 subsection (a) or (a1) of this section, on or after July 1, 2019, a member shall receive for members
+31 other than law enforcement officers, firefighters, and EMS personnel, and on or after July 1,
+32 2019, but before January 1, 2027, for law enforcement officers, firefighters, and EMS personnel,
+33 the following service retirement allowance:allowance shall apply:
+34 …."
+35 SECTION 2.(d) G.S. 128-27 is amended by adding a new subsection to read:
+36 "(b23) Service Retirement Allowance of Law Enforcement Officers, Firefighters, and
+37 Emergency Medical Services Personnel Retiring on or After January 1, 2027. – Upon retirement
+38 from service in accordance with subsection (a) or (a1) of this section on or after January 1, 2027,
+39 and notwithstanding any other provision of this section to the contrary, a member who is a law
+40 enforcement officer, eligible former law enforcement officer, firefighter, eligible former
+41 firefighter, EMS personnel, or eligible former EMS personnel shall receive a service retirement
+42 allowance computed as follows:
+43 (1) If the member's service retirement date occurs on or after the member's 55th
+44 birthday and completion of five years of creditable service as a law
+45 enforcement officer, as a firefighter, or as EMS personnel, or after the
+46 completion of 25 years of creditable service, the allowance shall be equal to
+47 one and eighty-five hundredths percent (1.85%) of the member's average final
+48 compensation multiplied by the number of years of the member's creditable
+49 service.
+50 (2) If the member's service retirement date occurs on or after the member's 50th
+51 birthday and before the member's 55th birthday with 15 or more years of
+Senate Bill 831-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 creditable service as a law enforcement officer, firefighter, or EMS personnel
+2 and prior to the completion of 25 years of creditable service, the retirement
+3 allowance shall be equal to the greater of the following amounts:
+4 a. The service retirement allowance payable under subdivision (1) of this
+5 subsection reduced by one-third of one percent (1/3 of 1%) thereof for
+6 each month by which the retirement date precedes the first day of the
+7 month coincident with or next following the month the member would
+8 have attained age 55.
+9 b. The service retirement allowance as computed under subdivision (1)
+10 of this subsection reduced by five percent (5%) times the difference
+11 between 25 years and the amount of creditable service at retirement."
+12 SECTION 2.(e) G.S. 128-27(m)(1)b1. reads as rewritten:
+13 "b1. The member was a law enforcement officer who had obtained 15 years
+14 of service as a law enforcement officer and was killed in the line of
+15 duty, or the member was a firefighter or a rescue squad worker who
+16 had obtained 15 years of service as a firefighter or a rescue squad
+17 worker and was killed in the line of duty, or the member was EMS
+18 personnel who had obtained 15 years of service as EMS personnel and
+19 was killed in the line of duty, in which cases the retirement allowance
+20 shall be computed in accordance with G.S. 128-27(b22)(1)c.,
+21 G.S. 128-27(b23)(1), notwithstanding the requirement of obtaining
+22 age 50."
+23 SECTION 3.(a) G.S. 143-166.41(b1) reads as rewritten:
+24 "(b1) Eligibility for Allowance and Calculation of Allowance Amount. – To be eligible for
+25 an allowance under this section, an officer is required to meet one of the following sets of criteria
+26 that shall also determine the allowance amount:
+27 (1) For officers meeting all of the following criteria, the annual special separation
+28 allowance to be paid is equal to eighty-five hundredths percent (0.85%) of the
+29 annual base rate of compensation most recently applicable to the officer for
+30 each year of that officer's creditable service:
+31 a. The For officers retiring before January 1, 2027, the officer (i) has
+32 completed 30 or more years of creditable service or (ii) is 55 years of
+33 age or older and completed five or more years of creditable service.
+34 a1. For officers retiring on or after January 1, 2027, the officer (i) has
+35 completed 25 or more years of creditable service or (ii) is 55 years of
+36 age or older and completed five or more years of creditable service.
+37 …
+38 (2) For officers meeting all of the following criteria, the annual special separation
+39 allowance to be paid is equal to eighty-five hundredths percent (0.85%) of the
+40 annual equivalent of the base rate of compensation at the time the officer
+41 attained 30 years of service multiplied by 30:
+42 a. Prior For officers retiring prior to January 1, 2027, prior to attaining
+43 62 years of age, the officer has completed 30 or more years of
+44 creditable service, at least fifty percent (50%) of which was as a law
+45 enforcement officer, or for service prior to July 1, 2017, as a
+46 probation/parole officer.
+47 a1. For officers retiring on or after January 1, 2027, prior to attaining 62
+48 years of age, the officer has completed 25 or more years of creditable
+49 service, at least fifty percent (50%) of which was as a law enforcement
+50 officer, or for service prior to July 1, 2017, as a probation/parole
+51 officer.
+Page 4 Senate Bill 831-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 3.(b) G.S. 143-166.42(b1) reads as rewritten:
+3 "(b1) Qualification for Allowance and Calculation of Allowance. – To be eligible for an
+4 allowance under this section, an officer is required to meet one of the following sets of criteria,
+5 which shall also determine the allowance amount:
+6 (1) For officers meeting all of the following criteria, the annual special separation
+7 allowance to be paid is equal to eighty-five hundredths percent (0.85%) of the
+8 annual base rate of compensation most recently applicable to the officer for
+9 each year of that officer's creditable service:
+10 a. The For officers retiring before January 1, 2027, the officer (i) has
+11 completed 30 or more years of creditable service or (ii) is 55 years of
+12 age or older and completed five or more years of creditable service.
+13 a1. For officers retiring on or after January 1, 2027, the officer (i) has
+14 completed 25 or more years of creditable service or (ii) is 55 years of
+15 age or older and completed five or more years of creditable service.
+16 …
+17 (2) For officers meeting all of the following criteria, the annual special separation
+18 allowance to be paid is equal to eighty-five hundredths percent (0.85%) of the
+19 annual equivalent of the base rate of compensation at the time the officer
+20 attained 30 years of service multiplied by 30:
+21 a. Prior For officers retiring before January 1, 2027, prior to attaining 62
+22 years of age, the officer has completed 30 or more years of creditable
+23 service, at least fifty percent (50%) of which was as a law enforcement
+24 officer.
+25 a1. For officers retiring on or after January 1, 2027, prior to attaining 62
+26 years of age, the officer has completed 25 or more years of creditable
+27 service or is 55 years of age or older and completed five or more years
+28 of creditable service.
+29 …."
+30 SECTION 4. This act becomes effective January 1, 2027, and applies to eligible
+31 retirements occurring on or after that date.
+Senate Bill 831-First Edition Page 5
+
+[DELETED:  1 2 ( S R A A A S E R S O T L G E R S T R W U B A A T Y O C T S " T r … ( " f t T … ( " s m a f e o a S d a p d a r f t p d a s m ( R S D s o a r w a a o i h p ( E O m a f p e o a e a r f p a d o c o t g e c a m]
+[DELETED:  S  S s p o … S " A m i a l e o f o e m m T l f m w h m t 2 y o c s r b t s m c S " S J B w a … S " S 2 ( a e s ( I b a c o f y o c s a a l e o a a f o a E p o a t c o c s ( I b c a a a T s e m h b T o b S]
+[DELETED:  S  P " T o f m E r a s b c i a w G G n t r S " " m s p o " p m a f t w m t d o e m s p u G S " A m i a l e o f o e m m T l f t d e h S " S o 1 2 b B J 1 2 – U r f s i a w s o 2 t … S " S R A o L E O F a E f a e o e f l e o f e f f a ( I b a c o f y o c s a a l e o a a f o a E p o a t c o c s ( I b]
+[DELETED:  S  S c a a a T s e m h b T o b S " T o d h w p w s b c i a w G G n t r o o a S " E a t ( F a a e a T c a a F c a … ( F a a a a P 6 y o a t o h c 3 o m y o c e o o f s p t J 1 2 a a p a F y s o o f s p t J 1 2 a a p o]
+[DELETED:  S  P … S " Q a w ( F a a e a T c a a F c a … ( F a a a a P y s o a F y s o … S r]

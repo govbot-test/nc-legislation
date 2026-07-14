@@ -1,0 +1,1323 @@
+Title: SENATE BILL 730
+Official Title: SENATE BILL 730
+Number of Sections: 1
+Source: versions - Edition 4
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 4
+Second Edition Engrossed 5/7/25
+House Committee Substitute Favorable 5/21/26
+House Committee Substitute #2 Favorable 6/2/26
+Short Title: Ratepayer Protection Act. (Public)
+Sponsors:
+Referred to:
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ESTABLISH REQUIREMENTS FOR SITING AND OPERATION OF DATA
+3 CENTERS AND TO MAKE VARIOUS CHANGES TO STATE ENERGY AND
+4 UTILITIES POLICY.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. REQUIREMENTS FOR DATA CENTERS
+8
+9 REQUIREMENTS FOR LOCAL DEVELOPMENT APPROVAL PROCESS
+10 SECTION 1.(a) Article 9 of Chapter 160D of the General Statutes is amended by
+11 adding a new section to read:
+12 "§ 160D-974. Site assessment required for data centers; other requirements.
+13 (a) Prior to any approval of a rezoning application, special exception, conditional or
+14 special use permit, or building permit for the siting of a new data center, a local government shall
+15 require that an applicant:
+16 (1) Perform and submit a site assessment to examine the sound profile of the data
+17 center on residential units and schools located within 500 feet of the data
+18 center property boundary. A locality may also require that a site assessment
+19 examine the effect of the proposed facility on the community with regard to
+20 (i) ground and surface water resources, (ii) air quality, (iii) thermal plumes,
+21 (iv) agricultural resources, (v) parks, (vi) registered historic sites, and (vii)
+22 forestland on the data center site or immediately contiguous land.
+23 (2) Submit an attestation that the data center will employ a closed-loop water or
+24 a liquid cooling system that will result in minimization of water consumption
+25 for cooling systems to the maximum extent possible, in compliance with
+26 G.S. 143-355.5A.
+27 (b) The site assessment submitted to a local government pursuant to subdivision (1) of
+28 subsection (a) of this section shall be used by the local government to assess consistency with
+29 the policies of the local government's comprehensive plan, if any, and compliance with the local
+30 government's adopted noise ordinances, zoning ordinance provisions, and other applicable laws
+31 and regulations, if any.
+32 (c) This section shall not apply to a site with an existing legislative, quasi-judicial, or
+33 administrative approval where an applicant is seeking an expansion or modification of an already
+*S730-v-4*
+General Assembly Of North Carolina Session 2025
+1 existing or approved facility and such expansion does not exceed an additional monthly electrical
+2 demand of 100 megawatts or more.
+3 (d) For purposes of this section, the term "data center" means a facility, campus of
+4 facilities, or array of interconnected facilities used by an entity or other business enterprise for
+5 the primary purpose of storing, retrieving, managing, and processing digital data, which has a
+6 peak monthly electricity demand of 100 megawatts or greater.
+7 (e) Nothing in this section shall be construed to prohibit, limit, or otherwise supersede
+8 existing local zoning authority."
+9 SECTION 1.(b) This section is effective when it becomes law and applies to
+10 applications for rezoning, special exceptions, conditional or special use permits, or building
+11 permits submitted on or after that date.
+12
+13 CLOSED-LOOP WATER OR LIQUID COOLING SYSTEMS FOR DATA CENTERS
+14 SECTION 2.(a) Article 38 of Chapter 143 of the General Statutes is amended by
+15 adding a new section to read:
+16 "§ 143-355.5A. Closed-loop water system required for data centers.
+17 (a) A data center shall employ a closed-loop water or liquid cooling system that will
+18 result in minimization of water consumption for cooling systems to the maximum extent possible.
+19 (b) A data center may not employ evaporative or open-loop cooling systems.
+20 (c) In accordance with G.S. 160D-974, the owner of a proposed data center must submit
+21 a certification that the facility will employ a closed-loop water or liquid cooling system resulting
+22 in a minimization of water consumption for cooling systems to the maximum extent possible, at
+23 the time it applies for approval of a rezoning application, special exception, or special use permit
+24 for the siting of the data center. In addition, the data center shall annually file a certification to
+25 include third-party verification that the closed-loop cooling system remains operational, with
+26 documentation of any water losses, chemical treatment processes, and fluid replacement
+27 volumes.
+28 (d) For purposes of this section, the following definitions apply:
+29 (1) Closed-loop water or liquid cooling system. – A sealed cooling process in
+30 which the same water or coolant circulates continuously with de minimis
+31 withdrawal from or discharge into municipal systems, groundwater sources,
+32 or surface waters.
+33 (2) Data center. – A facility, campus of facilities, or array of interconnected
+34 facilities used by an entity or other business enterprise for the primary purpose
+35 of storing, retrieving, managing, and processing digital data, which has a peak
+36 monthly electricity demand of 100 megawatts or greater."
+37 SECTION 2.(b) This section is effective when it becomes law and applies to data
+38 centers for which no local development approvals or State permits, certifications, or
+39 authorizations have been issued for siting of the data center on or before that date.
+40
+41 PROHIBIT CERTAIN FOREIGN OWNERSHIP OF DATA CENTERS AND LAND
+42 UPON WHICH DATA CENTERS ARE SITED
+43 SECTION 3.(a) Chapter 64 of the General Statutes is amended by adding a new
+44 Article to read:
+45 "Article 5.
+46 "Prohibit Adversarial Foreign Government Ownership of Data Centers and Land on which Data
+47 Centers are Located.
+48 "§ 64-64. Definitions.
+49 As used in this Article, the following definitions apply:
+50 (1) Adversarial nation. – One of the following:
+51 a. China.
+Page 2 Senate Bill 730-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 b. Iran.
+2 c. North Korea.
+3 d. Russia.
+4 (2) Data center. – A facility, campus of facilities, or array of interconnected
+5 facilities used by an entity or other business enterprise for the primary purpose
+6 of storing, retrieving, managing, and processing digital data, which has a peak
+7 monthly electricity demand of 100 megawatts or greater.
+8 (3) De minimis direct interest. – Any ownership of land or a data center resulting
+9 from ownership of registered equities in a publicly traded company owning
+10 the land or data center and if the ownership interest in the company is either
+11 of the following:
+12 a. Less than five percent (5%) of any class of registered equities.
+13 Ownership of registered equities is determined by processes
+14 established under federal law.
+15 b. Less than five percent (5%) interest in an entity controlled by a
+16 company that is both registered with the United States Securities and
+17 Exchange Commission as an investment adviser under the Investment
+18 Advisers Act of 1940, as amended, and is not a foreign entity.
+19 (4) Foreign government. – Any government other than the federal government or
+20 the government of a state or a political subdivision of a state.
+21 (5) Interest. – Any estate, remainder, or reversion, or any portion of the estate,
+22 remainder, or reversion, or an option pursuant to which one party has a right
+23 to cause the transfer of legal or equitable title to land described in
+24 G.S. 64-65(a), including, without limitation, a lease of land described in
+25 G.S. 64-65(a) (i) for a term of one year or longer or (ii) renewable by option
+26 for terms which, if the options were all exercised, would total one year or
+27 longer.
+28 (6) Party. – Any individual, corporation, company, association, firm, partnership,
+29 society, joint-stock company, trust, estate, or any other legal entity.
+30 (7) Prohibited foreign party. – Any of the following:
+31 a. A citizen or resident of an adversarial nation.
+32 b. A foreign government formed within an adversarial nation.
+33 c. A party other than an individual or government that is created or
+34 organized under the laws of a foreign government within an
+35 adversarial nation.
+36 d. A party other than an individual or a government that meets all of the
+37 following criteria:
+38 1. Is created or organized under the laws of any state.
+39 2. A significant interest or substantial control is directly or
+40 indirectly held or is capable of being exercised by one or more
+41 of the following:
+42 I. An individual referred to in sub-subdivision a. of this
+43 subdivision.
+44 II. A foreign government referred to in sub-subdivision b.
+45 of this subdivision.
+46 III. A party referred to in sub-subdivision c. of this
+47 subdivision.
+48 IV. A combination of the individuals, parties, or
+49 governments referred to in this sub-sub-subdivision.
+50 e. An agent, trustee, or other fiduciary of a person or entity enumerated
+51 in this subdivision.
+Senate Bill 730-Fourth Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 f. This definition does not apply to an entity that meets either of the
+2 following criteria:
+3 1. The entity has received a determination from the Committee of
+4 Foreign Investment in the United States (CFIUS) that there are
+5 no unresolved national security concerns with respect to the
+6 entity in connection to a matter submitted to CFIUS and which
+7 CFIUS concluded all action pursuant to section 721 of the
+8 Defense Production Act of 1950, as amended.
+9 2. The entity has a national security agreement with CFIUS and
+10 maintains the validity of such national security agreement.
+11 (8) Residence. – A person's principal dwelling place where that person intends to
+12 remain permanently for an indefinite period of time.
+13 (9) Resident alien. – A person who is not a citizen of the United States and is a
+14 resident of one of the following:
+15 a. A state of the United States.
+16 b. A territory of the United States.
+17 c. A trusteeship of the United States.
+18 d. A protectorate of the United States.
+19 (10) Significant interest or substantial control. – Any interest, other than a de
+20 minimis direct interest, held by one or more of the following:
+21 a. An individual referred to in sub-subdivision (7)a. of this section.
+22 b. A single government referred to in sub-subdivision (7)b. of this
+23 section.
+24 c. A party referred to in sub-subdivision (7)c. of this section.
+25 d. A party referred to in sub-subdivision (7)d. of this section.
+26 "§ 64-65. Prohibited foreign party ownership of data centers and land on which a data
+27 center is located.
+28 (a) Notwithstanding any provision of law to the contrary, no adversarial nation shall
+29 either:
+30 (1) Purchase, acquire, lease, or hold any interest in land on which a data center is
+31 located.
+32 (2) Have any significant interest in or substantial control of a data center.
+33 (b) Except as provided in this section, a prohibited foreign party shall not acquire by
+34 grant, purchase, devise, descent, or otherwise any interest, other than a de minimis direct interest,
+35 in land described in subsection (a) of this section or a data center in this State. A party may not
+36 knowingly hold land, or a significant interest in or substantial control of a data center, as an agent,
+37 trustee, or other fiduciary for a prohibited foreign party in violation of this section. A prohibited
+38 foreign party that acquires land, or holds a significant interest in or substantial control of a data
+39 center, in violation of this section remains in violation as long as the prohibited foreign party
+40 holds an interest in the land, or the significant interest in or substantial control of a data center.
+41 A prohibited foreign party who is a resident alien of the United States shall have the right to
+42 acquire and hold land described in subsection (a) of this section, or a significant interest in or
+43 substantial control of a data center, in the State upon the same terms as a citizen of the United
+44 States during the continuance of the party's residence in this State.
+45 (c) A prohibited foreign party that has acquired any interest in land described in
+46 subsection (a) of this section, or a significant interest in or substantial control of a data center, in
+47 this State prior to the effective date of this section may continue to own or hold that interest but
+48 may not acquire by grant, purchase, devise, descent, or otherwise any additional interest in land
+49 described in subsection (a) of this section, or a significant interest in or substantial control of a
+50 data center, in this State and must register with the Secretary of State and the Attorney General.
+51 The Secretary of State and the Attorney General shall maintain one joint database of those foreign
+Page 4 Senate Bill 730-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 parties that have registered, and the database shall be accessible and searchable by the public on
+2 each agency's website. The Secretary of State and the Attorney General shall establish a
+3 registration form for the purposes of this subsection, and the form shall include at least the
+4 following information:
+5 (1) The name of the owner of the land or the owner of the interest in the land, or
+6 the owner of the data center, as applicable.
+7 (2) The address of the land, the parcel identification number, and the property's
+8 legal description, or the address of the data center, as applicable.
+9 (3) The number of acres of the land on which the data center is located.
+10 (4) The mailing address of the owner of the land or the data center, as applicable.
+11 (5) Country of citizenship and residency status or country of incorporation of the
+12 owner of the land or the owner of the interest in the land, or the owner of the
+13 data center, as applicable.
+14 (d) A prohibited foreign party that fails to timely file a registration with the Secretary of
+15 State and the Attorney General pursuant to subsection (c) of this section is subject to a civil
+16 penalty of not less than one thousand dollars ($1,000) for each day that the registration is late,
+17 the clear proceeds of which shall be remitted to the Civil Penalty and Forfeiture Fund, in
+18 accordance with G.S. 115C-457.2. The unpaid balance of any penalties assessed under this
+19 subsection shall constitute a lien against the land if a lien, denoted as a Notice of Foreign
+20 Ownership Violation Lien, has been recorded by the Attorney General in the office of the register
+21 of deeds in the county where the property is located, and the lien shall have priority from the date
+22 and time of recordation and shall be enforced by the Attorney General.
+23 (e) A prohibited foreign party that acquires land described in subsection (a) of this
+24 section, or a significant interest in or substantial control of a data center, on or after the effective
+25 date of this section, by devise or descent, through the enforcement of security interests, or through
+26 the collection of debts, other than a de minimis direct interest, shall sell, transfer, or otherwise
+27 divest itself of the land within three years after acquiring the land, or the significant interest in or
+28 substantial control of the data center.
+29 (f) At the time of purchase, a buyer of any interest in land described in subsection (a) of
+30 this section shall provide an affidavit signed under penalty of perjury attesting that the buyer is
+31 (i) not a prohibited foreign party and (ii) in compliance with the requirements of this section. The
+32 affidavit is not required to be notarized and shall be attached as an exhibit to the deed or other
+33 document that conveys an ownership interest in the land. The failure to obtain or maintain the
+34 affidavit shall not affect the title or insurability of the title for the land, and shall not result in civil
+35 or criminal liability to any person or entity, unless the person or entity is in violation of subsection
+36 (k) of this section herein, or subject any nonparty to the purchase to civil or criminal liability,
+37 unless a nonparty to the purchase has actual knowledge that the transaction will result in a
+38 violation of this section. The Real Estate Commission shall establish the form for the affidavit
+39 required under this subsection.
+40 (g) Upon receipt of information that leads the Attorney General to believe that a
+41 prohibited foreign party has not divested itself of the land described in subsection (a) of this
+42 section, or a significant interest in or substantial control of a data center, as required under
+43 subsection (e) of this section, the Attorney General shall enforce a violation of this section by
+44 commencing a receivership proceeding in the county where the property or data center is situated
+45 under Article 38A of Chapter 1 of the General Statutes seeking the appointment of a general
+46 receiver pursuant to G.S. 1-507.24(e1). Any interest in real property acquired or held in violation
+47 of this section shall be subject to divestiture pursuant to G.S. 64-66.
+48 (h) A violation of this section by an adversarial nation may, at the discretion of the
+49 noteholder, be deemed a default under a loan, mortgage, or deed of trust and shall provide the
+50 lender the automatic right to trigger default on the loan, mortgage, or deed of trust.
+Senate Bill 730-Fourth Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (i) The responsibility for determining whether an individual or other entity is subject to
+2 this Article, pursuant to either civil or criminal law, rests solely with the State of North Carolina
+3 and no other individual or entity.
+4 (j) Title to land described in subsection (a) of this section is not invalid or subject to
+5 divestiture due to a violation of this section by any former owner or any other person holding or
+6 owning a former interest in the land described in subsection (a) of this section.
+7 (k) A party who knowingly sells an interest in land described in subsection (a) of this
+8 section in violation of this section or who has actual knowledge that the transaction will result in
+9 a violation of this section but aids and abets a party in knowingly selling an interest in land
+10 described in subsection (a) of this section shall be guilty of a Class 2 misdemeanor. It is an
+11 affirmative defense to prosecution under this subsection that a prohibited foreign party is a
+12 resident alien of this State.
+13 (l) An individual or other entity who is not a prohibited foreign party shall bear no civil
+14 or criminal liability for failing to determine or make inquiry of whether an individual or other
+15 entity is a prohibited foreign party.
+16 (m) This Article does not create or authorize a private right of action to enforce the
+17 provisions of this Article.
+18 "§ 64-66. Divestiture procedure.
+19 (a) Upon receipt of information that leads the Attorney General to believe that a violation
+20 of G.S. 64-65 may have occurred, the Attorney General shall investigate the alleged violation
+21 and may issue subpoenas requiring any of the following:
+22 (1) Appearances of witnesses.
+23 (2) Production of relevant records.
+24 (3) Giving of relevant testimony.
+25 (b) The Attorney General shall enforce a violation of G.S. 64-65 by commencing a
+26 receivership proceeding under Article 38A of Chapter 1 of the General Statutes seeking the
+27 appointment of a general receiver pursuant to G.S. 1-507.24(e1). The following apply to a
+28 receivership proceeding initiated pursuant to this section:
+29 (1) Proceeds of the sale shall be paid as follows:
+30 a. The costs of the receivership and sale.
+31 b. To secured parties, in their order of priority, except for liens which
+32 under the terms of the sale are to remain on the property.
+33 c. No proceeds shall be distributed from the receivership sale to the
+34 prohibited foreign party. Any excess proceeds are forfeited and shall
+35 be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+36 G.S. 115C-457.2.
+37 (2) At the receivership sale, any secured party shall be able to place a bid in an
+38 amount that is not more than the amount owed plus any costs incurred to the
+39 secured party as of the date of the sale, as established in the court order for the
+40 sale of the property.
+41 (3) Upon commencement of an action under this section, the Attorney General
+42 shall file a notice of lis pendens as soon as practicable with the register of
+43 deeds of the county or counties in which the real property is situated. Upon
+44 the entry of an order for the sale of the property under this section, the
+45 Attorney General shall record a copy of the order as soon as practicable in the
+46 office of the register of deeds of the county or counties where the real property
+47 is situated.
+48 (4) The receiver shall honor and give priority to any default that has been
+49 triggered on a loan, mortgage, or deed of trust prior to the commencement of
+50 a receivership under this section."
+Page 6 Senate Bill 730-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.(b) Article 2 of Chapter 161 of the General Statutes is amended by
+2 adding a new section to read:
+3 "§ 161-14.04. Citizenship and residential status of parties to a deed or conveyance.
+4 When recording a deed or other document that conveys an ownership interest in land
+5 described by G.S. 64-65(a), the register of deeds shall attach the affidavit as an exhibit to the
+6 deed or other document that conveys an ownership interest in land as required by G.S. 64-65(f)
+7 according to the requirements of G.S. 161-22."
+8 SECTION 3.(c) G.S. 1-507.24 is amended by adding a new subsection to read:
+9 "(e1) Receiver for Sale of Real Property Owned by Prohibited Foreign Party. – A general
+10 receiver may be appointed for the purpose of conducting a sale of real property in accordance
+11 with G.S. 64-66 upon a finding by the court that an interest in the real property is held by a
+12 prohibited foreign party in violation of G.S. 64-65(a)."
+13 SECTION 3.(d) This section becomes effective December 1, 2026. Subsection (a)
+14 of this section applies to offenses committed on or after that date.
+15
+16 REQUIREMENTS FOR UTILITY SERVICE CONTRACTS WITH DATA CENTERS
+17 SECTION 4.(a) Article 7 of Chapter 62 of the General Statutes is amended by adding
+18 a new section to read:
+19 "§ 62-142.1. Contracts with data centers.
+20 (a) Each data center located in North Carolina is required to enter into an electric service
+21 contract with the electric public utility providing service to the data center. Each contract between
+22 an electric public utility and a data center for the provision of electric service shall include terms
+23 and conditions designed to (i) protect residential, other retail, and wholesale electricity customers
+24 from costs incurred or reasonably anticipated to be incurred by the electric public utility to
+25 provide electric service to the data center and (ii) prevent, to the maximum extent reasonably
+26 feasible, other retail customers from subsidizing the cost of the data center's electric service. Such
+27 contracts shall include all of the following:
+28 (1) Minimum billing requirements designed to recover incremental costs
+29 associated with serving or preparing to serve a data center.
+30 (2) A contract term that is sufficient to recover all of the electric public utility's
+31 incremental costs and which may exceed the length of the applicable service
+32 tariff.
+33 (3) Performance and credit provisions designed to protect retail customers in the
+34 event of contract default.
+35 (4) Termination provisions designed to protect retail customers in the event of
+36 termination of the contract for electric service.
+37 (b) Each contract between an electric public utility and a data center for the provision of
+38 electric service shall be filed with the Commission as soon as practicable but in no event later
+39 than 30 days from the date of contract execution by both parties. Either the utility or the data
+40 center, or both, may designate all or any portion of a contract as confidential information as
+41 defined in G.S. 132-1.2, or sensitive public security information as defined in G.S. 132-1.7.
+42 Information shall be considered confidential only to the extent provided by law. Any dispute
+43 about whether information has been properly designated as confidential shall be determined by
+44 the Commission upon motion and response of interested parties. Subject to the requirements of
+45 G.S. 62-34(c), the Public Staff shall have the right to examine confidential information, as well
+46 as sensitive public security information, in exercising any power or performing any duty
+47 authorized by this Chapter.
+48 (c) As part of the report required on the long-range needs for the expansion of facilities
+49 for the generation of electricity pursuant to G.S. 62-110.1(c), the electric public utility shall
+50 include details on contracted demand versus actual demand for each data center for the previous
+51 three years.
+Senate Bill 730-Fourth Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 (d) As used in this section, the term "data center" means a facility, campus of facilities,
+2 or array of interconnected facilities used by an entity or other business enterprise for the primary
+3 purpose of storing, retrieving, managing, and processing digital data, which has a peak monthly
+4 electricity demand of 100 megawatts or greater.
+5 (e) The Commission may adopt rules to implement the requirements of this section.
+6 Nothing in this section shall be construed to limit the authority of the Commission to adopt such
+7 additional rules as are in the public interest to protect retail customers from costs incurred by
+8 electric public utilities to provide electric service to data centers."
+9 SECTION 4.(b) This section is effective when it becomes law and applies to
+10 agreements between an electric public utility and a data center entered into on or after that date.
+11
+12 NO CONDEMNATION FOR DATA CENTERS
+13 SECTION 5. Article 1 of Chapter 40A of the General Statutes is amended by adding
+14 a new section to read:
+15 "§ 40A-14. No condemnation to facilitate siting of data center.
+16 Notwithstanding any authority granted under this Chapter, no condemnor shall exercise the
+17 power of eminent domain for the purpose of acquiring land for a data center to be sited upon."
+18
+19 NO LOCAL GOVERNMENT INCENTIVES FOR DATA CENTERS
+20 SECTION 6.(a) G.S. 158-7.1 is amended by adding a new subsection to read:
+21 "(i) Notwithstanding subsection (a), (b), or (d) of this section, local governments are
+22 prohibited from providing any economic development incentives for siting of a data center within
+23 their jurisdiction. For purposes of this section, the term "data center" means a facility, campus of
+24 facilities, or array of interconnected facilities used by an entity or other business enterprise for
+25 the primary purpose of storing, retrieving, managing, and processing digital data, which has a
+26 peak monthly electricity demand of 100 megawatts or greater."
+27 SECTION 6.(b) This section is effective when it becomes law and applies to data
+28 centers for which no local development approvals or State permits, certifications, or
+29 authorizations have been issued for siting of the data center on or before that date. This section
+30 shall not be construed to impair agreements for incentives executed on or before that date.
+31
+32 PART II. ENERGY POLICY PROVISIONS
+33
+34 COST CAP FOR CEPS SET-ASIDES
+35 SECTION 7.(a) G.S. 62-133.8 reads as rewritten:
+36 "§ 62-133.8. Clean Energy and Energy Efficiency Portfolio Standard (CEPS).
+37 …
+38 (d) Compliance With CEPS Requirement Through Use of Solar Energy Resources. – For
+39 calendar year 2018 and for each calendar year thereafter, at least two-tenths of one percent (0.2%)
+40 of the total electric power in kilowatt hours sold to retail electric customers in the State, or an
+41 equivalent amount of energy, shall be supplied by a combination of new solar electric facilities
+42 and new metered solar thermal energy facilities that use one or more of the following
+43 applications: solar hot water, solar absorption cooling, solar dehumidification, solar thermally
+44 driven refrigeration, and solar industrial process heat. The terms of any contract entered into
+45 between an electric power supplier and a new solar electric facility or new metered solar thermal
+46 energy facility shall be of sufficient length to stimulate development of solar energy; provided,
+47 the Commission shall develop a procedure to determine if an electric power supplier is in
+48 compliance with the provisions of this subsection if a new solar electric facility or a new metered
+49 solar thermal energy facility fails to meet the terms of its contract with the electric power supplier.
+50 As used in this subsection, "new" means a facility that was first placed into service on or after
+51 January 1, 2007. The electric power suppliers shall comply with the requirements of this
+Page 8 Senate Bill 730-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 subsection according to the following schedule:schedule, if the incremental costs to comply with
+2 this subsection do not exceed two hundred percent (200%) of the cost to supply, or contract for
+3 supply, an equivalent percentage of total electric power in kilowatt hours sold to retail electric
+4 customers in the State using any other clean energy resource:
+5 Calendar Year Requirement for Solar Energy Resources
+6 2010 0.02%
+7 2012 0.07%
+8 2015 0.14%
+9 2018 0.20%
+10 (e) Compliance With CEPS Requirement Through Use of Swine Waste Resources. – For
+11 calendar year 2018 and for each calendar year thereafter, at least two-tenths of one percent (0.2%)
+12 of the total electric power in kilowatt hours sold to retail electric customers in the State shall be
+13 supplied, or contracted for supply in each year, by swine waste. The electric power suppliers, in
+14 the aggregate, shall comply with the requirements of this subsection according to the following
+15 schedule:schedule, if the incremental costs to comply with this subsection do not exceed two
+16 hundred percent (200%) of the cost to supply, or contract for supply, an equivalent percentage of
+17 total electric power in kilowatt hours sold to retail electric customers in the State using any other
+18 clean energy resource:
+19 Calendar Year Requirement for Swine Waste Resources
+20 2012 0.07%
+21 2015 0.14%
+22 2018 0.20%
+23 (f) Compliance With CEPS Requirement Through Use of Poultry Waste Resources. –
+24 For calendar year 2014 and for each calendar year thereafter, at least 900,000 megawatt hours of
+25 the total electric power sold to retail electric customers in the State or an equivalent amount of
+26 energy shall be supplied, or contracted for supply in each year, by poultry waste combined with
+27 wood shavings, straw, rice hulls, or other bedding material. The electric power suppliers, in the
+28 aggregate, shall comply with the requirements of this subsection according to the following
+29 schedule:schedule, if the incremental costs to comply with this subsection do not exceed two
+30 hundred percent (200%) of the cost to supply, or contract for supply, an equivalent amount of
+31 megawatt hours sold to retail electric customers in the State using any other clean energy
+32 resource:
+33 Calendar Year Requirement for Poultry Waste Resources
+34 2012 170,000 megawatt hours
+35 2013 700,000 megawatt hours
+36 2014 900,000 megawatt hours
+37 …
+38 (m) An electric power supplier shall satisfy the requirements of subsections (b) and (c) of
+39 this section, as applicable, in compliance with current law and practice with respect to the least
+40 cost planning for generation, pursuant to G.S. 62-2(a)(3a), in a manner that maintains or improves
+41 upon the adequacy and reliability of the existing grid. Through application of least cost principles
+42 to the requirements of this section, it is the goal of the General Assembly that the cap on per
+43 account annual charges set forth in subdivision (4) of subsection (h) of this section shall be
+44 reduced by fifty percent (50%) for all customer classes by 2035."
+45 SECTION 7.(b) Nothing in this section shall be construed to impair any contract
+46 executed on or before July 1, 2026, for purposes of complying with the requirements of
+47 G.S. 62-133.8 as it existed prior to amendments enacted by subsection (a) of this section. All
+48 reasonable and prudent incremental costs incurred by an electric power supplier to comply with
+49 any former requirement of G.S. 62-133.8 may be recovered as provided in G.S. 62-133.8(h). For
+50 the purposes of cost recovery under this section, reasonable and prudent incremental costs shall
+51 include all of the following:
+Senate Bill 730-Fourth Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 (1) Costs under purchase contracts for clean energy resources entered into prior
+2 to July 1, 2026, for the purpose of complying with the clean energy portfolio
+3 standard requirements.
+4 (2) The costs of clean energy facilities built or acquired by an electric power
+5 supplier for which a certificate of public convenience and necessity has been
+6 issued by the Commission prior to July 1, 2026.
+7
+8 RFP FOR STUDY OF UTILITY POLICIES TO INCREASE AFFORDABILITY OF
+9 ELECTRIC RATES
+10 SECTION 8. Recognizing the rising costs of utility service, the General Assembly
+11 finds that an examination of various utility policies should be conducted to ensure these policies
+12 are not exacerbating affordability issues for citizens of the State, including the 2050 goal for a
+13 reduction in carbon dioxide (CO2) emitted in the State from electric generating facilities that
+14 results in carbon neutrality, pursuant to G.S. 62-110.9. In addition to examining these existing
+15 utility policies, the General Assembly finds that expert analysis should be performed to determine
+16 the most effective approach to ensuring that costs of utility service to large load customers is not
+17 borne by other residential, commercial, and industrial customers in North Carolina, including
+18 appropriate terms for a large load tariff. The Legislative Services Officer shall issue a request for
+19 proposals for a study to be conducted by an entity with nationally recognized expertise in research
+20 and analysis of utility policy and rates to (i) ascertain the current impacts, and projected impacts
+21 over the next 25 years, to residential, commercial, and industrial customer bills from the 2050
+22 carbon neutrality goal, and whether any changes to this policy or other policies are advisable to
+23 enhance customer affordability and (ii) provide recommendations for effective policies to prevent
+24 rate impacts from large load customers on other customer classes, including requirements that
+25 large load customers generate a portion of their own power, as well as curtailment policies for
+26 large load customers. The study shall adhere to the following time line:
+27 (1) The request for proposals (RFP) shall be issued on or before August 1, 2026.
+28 (2) A contract to award the RFP shall be executed on or before November 1, 2026.
+29 (3) The study shall be completed and submitted to the Joint Legislative
+30 Commission on Energy Policy on or before May 1, 2027, in order to inform
+31 the development of utility policy during the 2027 Regular Session.
+32 The Utilities Commission and the Public Staff shall assist the (i) Legislative Services
+33 Officer, as needed, in development of the RFP and the selection of a contractor and (ii) selected
+34 contractor, in every permissible manner within the constraints of their respective authority, in the
+35 conduct of the study.
+36
+37 EXPRESS PERMIT REVIEW FOR ENERGY PROJECTS
+38 SECTION 9.(a) G.S. 143B-279.13 reads as rewritten:
+39 "§ 143B-279.13. Express permit and certification reviews.
+40 (a) The Department of Environmental Quality shall develop an express review program
+41 to provide express permit and certification reviews in all of its regional offices. Participation in
+42 the express review program is voluntary, and the program shall be supported by the fees
+43 determined pursuant to subsection (b) of this section. The Department of Environmental Quality
+44 shall determine the project applications to review under the express review program from those
+45 who request to participate in the program. The express review program may be applied to any
+46 one or all of the permits, approvals, or certifications in the following programs: the erosion and
+47 sedimentation control program, the coastal management program, and the water quality
+48 programs, including water quality certifications and stormwater management. The express
+49 review program shall focus on the following permits or certifications:
+50 (1) Stormwater permits under Part 1 of Article 21 of Chapter 143 of the General
+51 Statutes.
+Page 10 Senate Bill 730-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 (2) Stream origination certifications under Article 21 of Chapter 143 of the
+2 General Statutes.
+3 (3) Water quality certification under Article 21 of Chapter 143 of the General
+4 Statutes.
+5 (4) Erosion and sedimentation control permits under Article 4 of Chapter 113A
+6 of the General Statutes.
+7 (5) Permits under the Coastal Area Management Act (CAMA), Part 4 of Article
+8 7 of Chapter 113A of the General Statutes.
+9 (a1) The Department of Environmental Quality shall have the authority to create express
+10 permitting options for programs in addition to those listed in subsection (a) of this section where
+11 it deems there to be a need or where it determines an express permitting option would create
+12 greater efficiencies for the permitting process.
+13 (a2) The Department of Environmental Quality shall create an express review program for
+14 all permits, authorizations, and certifications required from the Department for projects involving
+15 the generation, distribution, or transmission of energy or fuel, including natural gas, diesel,
+16 petroleum, or electricity. Participation in the express review program is voluntary.
+17 (b) The Department of Environmental Quality shall set the fees for express application
+18 review under the express review program at a level sufficient to cover all program expenses.
+19 Notwithstanding G.S. 143-215.3D, the maximum permit application fee to be charged under
+20 subsection (a) of this section for the express review of a project application requiring all of the
+21 permits under subdivisions (1) through (5) of subsection (a) of this section shall not exceed five
+22 thousand eight hundred eight dollars ($5,808). Notwithstanding G.S. 143-215.3D, the maximum
+23 permit application fee to be charged for the express review of a project application requiring all
+24 of the permits under subdivisions (1) through (4) of subsection (a) of this section shall not exceed
+25 four thousand seven hundred fifty-two dollars ($4,752). Notwithstanding G.S. 143-215.3D, the
+26 maximum permit application fee charged for the express review of a project application for any
+27 other combination of permits under subdivisions (1) through (5) of subsection (a) of this section
+28 shall not exceed four thousand two hundred twenty-four dollars ($4,224). As set forth in
+29 subsection (a1) of this section, express review of a project application involving additional
+30 permits or certifications issued by the Department of Environmental Quality other than those
+31 under subdivisions (1) through (5) of subsection (a) of this section may be allowed by the
+32 Department, and, notwithstanding G.S. 143-215.3D or any other statute or rule that sets a permit
+33 fee, the maximum permit application fee charged for the express review of a project application
+34 that includes a permit, approval, or certification designated for express review under subsection
+35 (a1) of this section shall not exceed four thousand two hundred twenty-four dollars ($4,224), plus
+36 one hundred fifty percent (150%) of the fee that would otherwise apply by statute or rule for that
+37 particular permit, approval, or certification. Additional fees, not to exceed fifty percent (50%) of
+38 the original permit application fee under this section, may be charged for subsequent reviews due
+39 to the insufficiency of the permit applications. The Department of Environmental Quality may
+40 establish the procedure by which the amount of the fees under this subsection is determined, and
+41 the fees and procedures are not rules under G.S. 150B-2(8a) for the express review program
+42 under this section."
+43 SECTION 9.(b) G.S. 143B-279.20 reads as rewritten:
+44 "§ 143B-279.20. Report on Department activity to process applications for permits
+45 required for natural gas pipelines and gas-fired electric generation facilities.
+46 The Department of Environmental Quality shall report on any applications received for
+47 permits permits, authorizations, or certifications required for siting or operation of natural gas
+48 pipelines and gas-fired electric generation facilities within the State, and activities of the
+49 Department to process such applications, including tracking of processing times. The report shall
+50 also include information on all activities under the express review program required pursuant to
+51 G.S. 143B-279.13(a2). The processing time tracked shall include (i) the total processing time
+Senate Bill 730-Fourth Edition Page 11
+General Assembly Of North Carolina Session 2025
+1 from when an initial permit application is received to issuance or denial of the permit and (ii) the
+2 processing time from when a complete permit application is received to issuance or denial of the
+3 permit. The Department shall report quarterly to the Joint Legislative Commission on Energy
+4 Policy pursuant to this section."
+5 SECTION 9.(c) Within 30 days of the date this section becomes law, the Department
+6 shall notify applicants for all entities with pending applications for permits, authorizations, and
+7 certifications required from the Department for projects involving the generation, distribution, or
+8 transmission of energy or fuel, including natural gas, diesel, petroleum, or electricity, of the
+9 express review program enacted by subsection (b) of this section, and shall inform the applicants
+10 of the ability to process pending applications through the program upon payment of the applicable
+11 fee pursuant to G.S. 143B-279.13(b).
+12 SECTION 9.(d) This section is effective when it becomes law and applies to
+13 applications for permits, authorizations, and certifications pending on or submitted after that date.
+14
+15 REQUIRE DEVELOPMENT OF NUCLEAR RESOURCES PRIOR TO RETIREMENT
+16 OF BASELOAD FACILITIES OR FACILITIES WITH DISPATCHABLE ELECTRIC
+17 GENERATION ABOVE 100 MW TO ENSURE ADEQUACY OF GRID
+18 SECTION 10. G.S. 62-110.9(4) reads as rewritten:
+19 "(4) Retain discretion to determine optimal timing and generation and
+20 resource-mix to achieve the least cost path to compliance with the authorized
+21 carbon reduction goal, including discretion in achieving the authorized carbon
+22 reduction goal by the date specified in order to allow for implementation of
+23 solutions that would have a more significant and material impact on carbon
+24 reduction; provided, however, the Commission shall not exceed the date
+25 specified to achieve the authorized carbon reduction goal by more than two
+26 years, except in the event the Commission authorizes construction of a nuclear
+27 facility or wind energy facility that would require additional time for
+28 completion due to technical, legal, logistical, or other factors beyond the
+29 control of the electric public utility, or in the event necessary to maintain the
+30 adequacy and reliability of the existing grid. In making such determinations,
+31 the Utilities Commission shall receive and consider stakeholder input. The
+32 Commission shall not authorize retirement of baseload facilities or facilities
+33 with dispatchable electric generation above 100 MW until such time as a
+34 certificate of public convenience and necessity has been issued to an electric
+35 public utility for construction of one nuclear facility with a generating capacity
+36 of at least 1,000 MW to ensure the adequacy of baseload and dispatchable
+37 generation from a clean energy resource."
+38
+39 PART III. MISCELLANEOUS
+40
+41 COOLING-OFF PERIOD FOR UTILITIES COMMISSIONERS AND STAFF
+42 SECTION 11.(a) Article 15 of Chapter 62 of the General Statutes is amended by
+43 adding a new section to read:
+44 "§ 62-327A. Post-employment restrictions on members and employees of Commission.
+45 (a) Cooling-Off Period. ‒ It shall be unlawful for any former commissioner or employee
+46 of the Commission to make, with the intent to influence on behalf of an employer or client, any
+47 communication to or appearance before the Commission within a period of six months following
+48 the termination of his or her service or employment with the Commission.
+49 (b) Penalty. ‒ A violation of this section is a Class 3 misdemeanor."
+50 SECTION 11.(b) This section becomes effective December 1, 2026, and applies to
+51 offenses committed on or after that date.
+Page 12 Senate Bill 730-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1
+2 SEVERABILITY/EFFECTIVE DATE
+3 SECTION 12. If any section or provision of this act is declared unconstitutional or
+4 invalid by the courts, it does not affect the validity of this act as a whole or any part other than
+5 the part so declared to be unconstitutional or invalid.
+6 SECTION 13. Except as otherwise provided, this act is effective when it becomes
+7 law.
+Senate Bill 730-Fourth Edition Page 13
+[DELETED:  4 R (   A A C A T M V C T S E A U T  P  R S a " ( P s r ( P c c e ( ( f ( S a f c s t t m e p i c w G ( T s t g a ( T a]
+[DELETED:  S  S e d ( F p o t s t t " c m a f c o f t p ( N e S 1  T s i e w i b l a a t a p  C S a " ( A r ( A ( I a i t f i d o a w l c t p a f r v ( F ( C w t s w c c w d m w o ( D c – A f c o f o a o i f o m S c f w n l d a o S p c o a  P C F O O D C A L U S A " " C " A ( A a C]
+[DELETED:  S  P b I c N d R ( D c – A f c o f o a o i f o m ( D f t o a L t f p ( o a c o r e O o r e i d b p e b L t f p ( i i a e c b a c E A ( F t ( I r t c t t o l o e t t l d i G i w l a l o l d i G f l ( P s ( P a A b A c A p o t a i o g t i c o o u t l o a f g w a a d A f 1 I 2 A s i o s c i d o i o I A s I A o I A p r t i s c o t s I A c o t i p o g e A i]
+[DELETED:  S  S f T f 1 T F n e C c a a p t s 7 o t D 2 T m ( R r ( R r a A b A c A d A ( S i o s c – A i o t a d m a A b A s g r t i s ( o t s c A d A " c ( N n e ( P l ( H ( E g i k t f c h A a s S ( A p f p t h a a i i l d i s t m d d T]
+[DELETED:  S  P p e a w T S o S a t A G s e a r f ( T t ( T l ( T ( T ( C o d ( A S p t c p o w s b r t t C P a F F i a w G T u b o a p a u t s s c a l a t l i a l d a a N o F O o a ( A p f p t a l d i s ( o t s d t d s ( A t ( a d a o ( u v r ( U r o i t l t A G t b t a p s a s c u r o ( A a n a n l]
+[DELETED:  S  S ( T t a ( T d o ( A s a d a d t p u s t a p f p i a r ( A o e ( T A d n c o a a p r o a t e t p " ( U o a ( A ( P ( G ( T A G s e a v o G b c a r a o a g r p t G T f a t a r ( P a T b T u c N p s b d f t r s t t p b G ( A a s s ( U s d t e o a o f t s o t p u t s t A o i ( T r s h a g p t a d t h b t a]
+[DELETED:  S  P S a " W r a d o o d t c a o i i l d d a S " R r w p S o  R S a " ( E c a a f b p f c ( M b r d t r i c a ( A i t ( P e ( T t ( E e t c d i G o s p i a d i G I a t G a s p s i i e a p o p a d a ( A f i t]
+[DELETED:  S  S ( A o p e ( T a t N a e S 4  T s i e w i b l a a t a  N S a " N p  N S " N ( g p t f t p S c f w n l d a o S p c o a s  P  C S " … ( C c o e a n m s t e f t u o o m o t f a d b e t C s d a p t d i a e p s i i c s A J 1 2 T e p s s c w t r o t]
+[DELETED:  S  P s t s c C R 2 0 2 0 2 0 2 0 ( C c o s t s h t c C R 2 0 2 0 2 0 ( C F t e w a s h m h s t r e c i t S u a o c e r C R 2 1 2 7 2 9 … ( A t c u t a r S e o o b J 1 2 f p o c w t r o G r a t i]
+[DELETED:  S  S ( C t s ( T s i  R F S O U P T I A O E S f a r r u t b a p a o c e r l l ( T ( A ( T s s b c a s t t J L C t T O c c  E S " ( T t t e r p i v a t p s b s b t f d s w o s c p t c m p a t w q p i w q c a s m T e r ( S S]
+[DELETED:  S  P ( S o c u A 2 o C 1 o t G ( W S ( E o ( P 7 ( T p i g ( T a t g d o o o i n g d p ( T r N s p t p o f m o s n e f t t h t d ( A s f i s ( o t s e r o a p a i a p u ( t ( o ( o s m b a b t D f t ( o p t t e t u S " 1  R o D a t p a f p r T D o E Q s r o a a r f p p a g e g f w t S a a o t D a G]
+[DELETED:  S  S f p p P S s c t e o f S 9  T s i e w i b l a a t a  R O G S " R d t d o t a g a r c r s r p h t C s n e t d s y f o w e f t w r a t f c d t t l l o o f b t c a t C w M c p o g  P  C S a " ( C o c t ( P S o]
+[DELETED:  S  P  S S i t S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 4
+SENATE BILL 730
+Second Edition Engrossed 5/7/25
+House Committee Substitute Favorable 5/21/26
+House Committee Substitute #2 Favorable 6/2/26
+Short Title: Ratepayer Protection Act. (Public)
+Sponsors:
+Referred to:
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ESTABLISH REQUIREMENTS FOR SITING AND OPERATION OF DATA
+3 CENTERS AND TO MAKE VARIOUS CHANGES TO STATE ENERGY AND
+4 UTILITIES POLICY.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. REQUIREMENTS FOR DATA CENTERS
+8
+9 REQUIREMENTS FOR LOCAL DEVELOPMENT APPROVAL PROCESS
+10 SECTION 1.(a) Article 9 of Chapter 160D of the General Statutes is amended by
+11 adding a new section to read:
+12 "§ 160D-974. Site assessment required for data centers; other requirements.
+13 (a) Prior to any approval of a rezoning application, special exception, conditional or
+14 special use permit, or building permit for the siting of a new data center, a local government shall
+15 require that an applicant:
+16 (1) Perform and submit a site assessment to examine the sound profile of the data
+17 center on residential units and schools located within 500 feet of the data
+18 center property boundary. A locality may also require that a site assessment
+19 examine the effect of the proposed facility on the community with regard to
+20 (i) ground and surface water resources, (ii) air quality, (iii) thermal plumes,
+21 (iv) agricultural resources, (v) parks, (vi) registered historic sites, and (vii)
+22 forestland on the data center site or immediately contiguous land.
+23 (2) Submit an attestation that the data center will employ a closed-loop water or
+24 a liquid cooling system that will result in minimization of water consumption
+25 for cooling systems to the maximum extent possible, in compliance with
+26 G.S. 143-355.5A.
+27 (b) The site assessment submitted to a local government pursuant to subdivision (1) of
+28 subsection (a) of this section shall be used by the local government to assess consistency with
+29 the policies of the local government's comprehensive plan, if any, and compliance with the local
+30 government's adopted noise ordinances, zoning ordinance provisions, and other applicable laws
+31 and regulations, if any.
+32 (c) This section shall not apply to a site with an existing legislative, quasi-judicial, or
+33 administrative approval where an applicant is seeking an expansion or modification of an already
+*S730-v-4*
+
+General Assembly Of North Carolina Session 2025
+1 existing or approved facility and such expansion does not exceed an additional monthly electrical
+2 demand of 100 megawatts or more.
+3 (d) For purposes of this section, the term "data center" means a facility, campus of
+4 facilities, or array of interconnected facilities used by an entity or other business enterprise for
+5 the primary purpose of storing, retrieving, managing, and processing digital data, which has a
+6 peak monthly electricity demand of 100 megawatts or greater.
+7 (e) Nothing in this section shall be construed to prohibit, limit, or otherwise supersede
+8 existing local zoning authority."
+9 SECTION 1.(b) This section is effective when it becomes law and applies to
+10 applications for rezoning, special exceptions, conditional or special use permits, or building
+11 permits submitted on or after that date.
+12
+13 CLOSED-LOOP WATER OR LIQUID COOLING SYSTEMS FOR DATA CENTERS
+14 SECTION 2.(a) Article 38 of Chapter 143 of the General Statutes is amended by
+15 adding a new section to read:
+16 "§ 143-355.5A. Closed-loop water system required for data centers.
+17 (a) A data center shall employ a closed-loop water or liquid cooling system that will
+18 result in minimization of water consumption for cooling systems to the maximum extent possible.
+19 (b) A data center may not employ evaporative or open-loop cooling systems.
+20 (c) In accordance with G.S. 160D-974, the owner of a proposed data center must submit
+21 a certification that the facility will employ a closed-loop water or liquid cooling system resulting
+22 in a minimization of water consumption for cooling systems to the maximum extent possible, at
+23 the time it applies for approval of a rezoning application, special exception, or special use permit
+24 for the siting of the data center. In addition, the data center shall annually file a certification to
+25 include third-party verification that the closed-loop cooling system remains operational, with
+26 documentation of any water losses, chemical treatment processes, and fluid replacement
+27 volumes.
+28 (d) For purposes of this section, the following definitions apply:
+29 (1) Closed-loop water or liquid cooling system. – A sealed cooling process in
+30 which the same water or coolant circulates continuously with de minimis
+31 withdrawal from or discharge into municipal systems, groundwater sources,
+32 or surface waters.
+33 (2) Data center. – A facility, campus of facilities, or array of interconnected
+34 facilities used by an entity or other business enterprise for the primary purpose
+35 of storing, retrieving, managing, and processing digital data, which has a peak
+36 monthly electricity demand of 100 megawatts or greater."
+37 SECTION 2.(b) This section is effective when it becomes law and applies to data
+38 centers for which no local development approvals or State permits, certifications, or
+39 authorizations have been issued for siting of the data center on or before that date.
+40
+41 PROHIBIT CERTAIN FOREIGN OWNERSHIP OF DATA CENTERS AND LAND
+42 UPON WHICH DATA CENTERS ARE SITED
+43 SECTION 3.(a) Chapter 64 of the General Statutes is amended by adding a new
+44 Article to read:
+45 "Article 5.
+46 "Prohibit Adversarial Foreign Government Ownership of Data Centers and Land on which Data
+47 Centers are Located.
+48 "§ 64-64. Definitions.
+49 As used in this Article, the following definitions apply:
+50 (1) Adversarial nation. – One of the following:
+51 a. China.
+Page 2 Senate Bill 730-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 b. Iran.
+2 c. North Korea.
+3 d. Russia.
+4 (2) Data center. – A facility, campus of facilities, or array of interconnected
+5 facilities used by an entity or other business enterprise for the primary purpose
+6 of storing, retrieving, managing, and processing digital data, which has a peak
+7 monthly electricity demand of 100 megawatts or greater.
+8 (3) De minimis direct interest. – Any ownership of land or a data center resulting
+9 from ownership of registered equities in a publicly traded company owning
+10 the land or data center and if the ownership interest in the company is either
+11 of the following:
+12 a. Less than five percent (5%) of any class of registered equities.
+13 Ownership of registered equities is determined by processes
+14 established under federal law.
+15 b. Less than five percent (5%) interest in an entity controlled by a
+16 company that is both registered with the United States Securities and
+17 Exchange Commission as an investment adviser under the Investment
+18 Advisers Act of 1940, as amended, and is not a foreign entity.
+19 (4) Foreign government. – Any government other than the federal government or
+20 the government of a state or a political subdivision of a state.
+21 (5) Interest. – Any estate, remainder, or reversion, or any portion of the estate,
+22 remainder, or reversion, or an option pursuant to which one party has a right
+23 to cause the transfer of legal or equitable title to land described in
+24 G.S. 64-65(a), including, without limitation, a lease of land described in
+25 G.S. 64-65(a) (i) for a term of one year or longer or (ii) renewable by option
+26 for terms which, if the options were all exercised, would total one year or
+27 longer.
+28 (6) Party. – Any individual, corporation, company, association, firm, partnership,
+29 society, joint-stock company, trust, estate, or any other legal entity.
+30 (7) Prohibited foreign party. – Any of the following:
+31 a. A citizen or resident of an adversarial nation.
+32 b. A foreign government formed within an adversarial nation.
+33 c. A party other than an individual or government that is created or
+34 organized under the laws of a foreign government within an
+35 adversarial nation.
+36 d. A party other than an individual or a government that meets all of the
+37 following criteria:
+38 1. Is created or organized under the laws of any state.
+39 2. A significant interest or substantial control is directly or
+40 indirectly held or is capable of being exercised by one or more
+41 of the following:
+42 I. An individual referred to in sub-subdivision a. of this
+43 subdivision.
+44 II. A foreign government referred to in sub-subdivision b.
+45 of this subdivision.
+46 III. A party referred to in sub-subdivision c. of this
+47 subdivision.
+48 IV. A combination of the individuals, parties, or
+49 governments referred to in this sub-sub-subdivision.
+50 e. An agent, trustee, or other fiduciary of a person or entity enumerated
+51 in this subdivision.
+Senate Bill 730-Fourth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 f. This definition does not apply to an entity that meets either of the
+2 following criteria:
+3 1. The entity has received a determination from the Committee of
+4 Foreign Investment in the United States (CFIUS) that there are
+5 no unresolved national security concerns with respect to the
+6 entity in connection to a matter submitted to CFIUS and which
+7 CFIUS concluded all action pursuant to section 721 of the
+8 Defense Production Act of 1950, as amended.
+9 2. The entity has a national security agreement with CFIUS and
+10 maintains the validity of such national security agreement.
+11 (8) Residence. – A person's principal dwelling place where that person intends to
+12 remain permanently for an indefinite period of time.
+13 (9) Resident alien. – A person who is not a citizen of the United States and is a
+14 resident of one of the following:
+15 a. A state of the United States.
+16 b. A territory of the United States.
+17 c. A trusteeship of the United States.
+18 d. A protectorate of the United States.
+19 (10) Significant interest or substantial control. – Any interest, other than a de
+20 minimis direct interest, held by one or more of the following:
+21 a. An individual referred to in sub-subdivision (7)a. of this section.
+22 b. A single government referred to in sub-subdivision (7)b. of this
+23 section.
+24 c. A party referred to in sub-subdivision (7)c. of this section.
+25 d. A party referred to in sub-subdivision (7)d. of this section.
+26 "§ 64-65. Prohibited foreign party ownership of data centers and land on which a data
+27 center is located.
+28 (a) Notwithstanding any provision of law to the contrary, no adversarial nation shall
+29 either:
+30 (1) Purchase, acquire, lease, or hold any interest in land on which a data center is
+31 located.
+32 (2) Have any significant interest in or substantial control of a data center.
+33 (b) Except as provided in this section, a prohibited foreign party shall not acquire by
+34 grant, purchase, devise, descent, or otherwise any interest, other than a de minimis direct interest,
+35 in land described in subsection (a) of this section or a data center in this State. A party may not
+36 knowingly hold land, or a significant interest in or substantial control of a data center, as an agent,
+37 trustee, or other fiduciary for a prohibited foreign party in violation of this section. A prohibited
+38 foreign party that acquires land, or holds a significant interest in or substantial control of a data
+39 center, in violation of this section remains in violation as long as the prohibited foreign party
+40 holds an interest in the land, or the significant interest in or substantial control of a data center.
+41 A prohibited foreign party who is a resident alien of the United States shall have the right to
+42 acquire and hold land described in subsection (a) of this section, or a significant interest in or
+43 substantial control of a data center, in the State upon the same terms as a citizen of the United
+44 States during the continuance of the party's residence in this State.
+45 (c) A prohibited foreign party that has acquired any interest in land described in
+46 subsection (a) of this section, or a significant interest in or substantial control of a data center, in
+47 this State prior to the effective date of this section may continue to own or hold that interest but
+48 may not acquire by grant, purchase, devise, descent, or otherwise any additional interest in land
+49 described in subsection (a) of this section, or a significant interest in or substantial control of a
+50 data center, in this State and must register with the Secretary of State and the Attorney General.
+51 The Secretary of State and the Attorney General shall maintain one joint database of those foreign
+Page 4 Senate Bill 730-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 parties that have registered, and the database shall be accessible and searchable by the public on
+2 each agency's website. The Secretary of State and the Attorney General shall establish a
+3 registration form for the purposes of this subsection, and the form shall include at least the
+4 following information:
+5 (1) The name of the owner of the land or the owner of the interest in the land, or
+6 the owner of the data center, as applicable.
+7 (2) The address of the land, the parcel identification number, and the property's
+8 legal description, or the address of the data center, as applicable.
+9 (3) The number of acres of the land on which the data center is located.
+10 (4) The mailing address of the owner of the land or the data center, as applicable.
+11 (5) Country of citizenship and residency status or country of incorporation of the
+12 owner of the land or the owner of the interest in the land, or the owner of the
+13 data center, as applicable.
+14 (d) A prohibited foreign party that fails to timely file a registration with the Secretary of
+15 State and the Attorney General pursuant to subsection (c) of this section is subject to a civil
+16 penalty of not less than one thousand dollars ($1,000) for each day that the registration is late,
+17 the clear proceeds of which shall be remitted to the Civil Penalty and Forfeiture Fund, in
+18 accordance with G.S. 115C-457.2. The unpaid balance of any penalties assessed under this
+19 subsection shall constitute a lien against the land if a lien, denoted as a Notice of Foreign
+20 Ownership Violation Lien, has been recorded by the Attorney General in the office of the register
+21 of deeds in the county where the property is located, and the lien shall have priority from the date
+22 and time of recordation and shall be enforced by the Attorney General.
+23 (e) A prohibited foreign party that acquires land described in subsection (a) of this
+24 section, or a significant interest in or substantial control of a data center, on or after the effective
+25 date of this section, by devise or descent, through the enforcement of security interests, or through
+26 the collection of debts, other than a de minimis direct interest, shall sell, transfer, or otherwise
+27 divest itself of the land within three years after acquiring the land, or the significant interest in or
+28 substantial control of the data center.
+29 (f) At the time of purchase, a buyer of any interest in land described in subsection (a) of
+30 this section shall provide an affidavit signed under penalty of perjury attesting that the buyer is
+31 (i) not a prohibited foreign party and (ii) in compliance with the requirements of this section. The
+32 affidavit is not required to be notarized and shall be attached as an exhibit to the deed or other
+33 document that conveys an ownership interest in the land. The failure to obtain or maintain the
+34 affidavit shall not affect the title or insurability of the title for the land, and shall not result in civil
+35 or criminal liability to any person or entity, unless the person or entity is in violation of subsection
+36 (k) of this section herein, or subject any nonparty to the purchase to civil or criminal liability,
+37 unless a nonparty to the purchase has actual knowledge that the transaction will result in a
+38 violation of this section. The Real Estate Commission shall establish the form for the affidavit
+39 required under this subsection.
+40 (g) Upon receipt of information that leads the Attorney General to believe that a
+41 prohibited foreign party has not divested itself of the land described in subsection (a) of this
+42 section, or a significant interest in or substantial control of a data center, as required under
+43 subsection (e) of this section, the Attorney General shall enforce a violation of this section by
+44 commencing a receivership proceeding in the county where the property or data center is situated
+45 under Article 38A of Chapter 1 of the General Statutes seeking the appointment of a general
+46 receiver pursuant to G.S. 1-507.24(e1). Any interest in real property acquired or held in violation
+47 of this section shall be subject to divestiture pursuant to G.S. 64-66.
+48 (h) A violation of this section by an adversarial nation may, at the discretion of the
+49 noteholder, be deemed a default under a loan, mortgage, or deed of trust and shall provide the
+50 lender the automatic right to trigger default on the loan, mortgage, or deed of trust.
+Senate Bill 730-Fourth Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (i) The responsibility for determining whether an individual or other entity is subject to
+2 this Article, pursuant to either civil or criminal law, rests solely with the State of North Carolina
+3 and no other individual or entity.
+4 (j) Title to land described in subsection (a) of this section is not invalid or subject to
+5 divestiture due to a violation of this section by any former owner or any other person holding or
+6 owning a former interest in the land described in subsection (a) of this section.
+7 (k) A party who knowingly sells an interest in land described in subsection (a) of this
+8 section in violation of this section or who has actual knowledge that the transaction will result in
+9 a violation of this section but aids and abets a party in knowingly selling an interest in land
+10 described in subsection (a) of this section shall be guilty of a Class 2 misdemeanor. It is an
+11 affirmative defense to prosecution under this subsection that a prohibited foreign party is a
+12 resident alien of this State.
+13 (l) An individual or other entity who is not a prohibited foreign party shall bear no civil
+14 or criminal liability for failing to determine or make inquiry of whether an individual or other
+15 entity is a prohibited foreign party.
+16 (m) This Article does not create or authorize a private right of action to enforce the
+17 provisions of this Article.
+18 "§ 64-66. Divestiture procedure.
+19 (a) Upon receipt of information that leads the Attorney General to believe that a violation
+20 of G.S. 64-65 may have occurred, the Attorney General shall investigate the alleged violation
+21 and may issue subpoenas requiring any of the following:
+22 (1) Appearances of witnesses.
+23 (2) Production of relevant records.
+24 (3) Giving of relevant testimony.
+25 (b) The Attorney General shall enforce a violation of G.S. 64-65 by commencing a
+26 receivership proceeding under Article 38A of Chapter 1 of the General Statutes seeking the
+27 appointment of a general receiver pursuant to G.S. 1-507.24(e1). The following apply to a
+28 receivership proceeding initiated pursuant to this section:
+29 (1) Proceeds of the sale shall be paid as follows:
+30 a. The costs of the receivership and sale.
+31 b. To secured parties, in their order of priority, except for liens which
+32 under the terms of the sale are to remain on the property.
+33 c. No proceeds shall be distributed from the receivership sale to the
+34 prohibited foreign party. Any excess proceeds are forfeited and shall
+35 be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+36 G.S. 115C-457.2.
+37 (2) At the receivership sale, any secured party shall be able to place a bid in an
+38 amount that is not more than the amount owed plus any costs incurred to the
+39 secured party as of the date of the sale, as established in the court order for the
+40 sale of the property.
+41 (3) Upon commencement of an action under this section, the Attorney General
+42 shall file a notice of lis pendens as soon as practicable with the register of
+43 deeds of the county or counties in which the real property is situated. Upon
+44 the entry of an order for the sale of the property under this section, the
+45 Attorney General shall record a copy of the order as soon as practicable in the
+46 office of the register of deeds of the county or counties where the real property
+47 is situated.
+48 (4) The receiver shall honor and give priority to any default that has been
+49 triggered on a loan, mortgage, or deed of trust prior to the commencement of
+50 a receivership under this section."
+Page 6 Senate Bill 730-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.(b) Article 2 of Chapter 161 of the General Statutes is amended by
+2 adding a new section to read:
+3 "§ 161-14.04. Citizenship and residential status of parties to a deed or conveyance.
+4 When recording a deed or other document that conveys an ownership interest in land
+5 described by G.S. 64-65(a), the register of deeds shall attach the affidavit as an exhibit to the
+6 deed or other document that conveys an ownership interest in land as required by G.S. 64-65(f)
+7 according to the requirements of G.S. 161-22."
+8 SECTION 3.(c) G.S. 1-507.24 is amended by adding a new subsection to read:
+9 "(e1) Receiver for Sale of Real Property Owned by Prohibited Foreign Party. – A general
+10 receiver may be appointed for the purpose of conducting a sale of real property in accordance
+11 with G.S. 64-66 upon a finding by the court that an interest in the real property is held by a
+12 prohibited foreign party in violation of G.S. 64-65(a)."
+13 SECTION 3.(d) This section becomes effective December 1, 2026. Subsection (a)
+14 of this section applies to offenses committed on or after that date.
+15
+16 REQUIREMENTS FOR UTILITY SERVICE CONTRACTS WITH DATA CENTERS
+17 SECTION 4.(a) Article 7 of Chapter 62 of the General Statutes is amended by adding
+18 a new section to read:
+19 "§ 62-142.1. Contracts with data centers.
+20 (a) Each data center located in North Carolina is required to enter into an electric service
+21 contract with the electric public utility providing service to the data center. Each contract between
+22 an electric public utility and a data center for the provision of electric service shall include terms
+23 and conditions designed to (i) protect residential, other retail, and wholesale electricity customers
+24 from costs incurred or reasonably anticipated to be incurred by the electric public utility to
+25 provide electric service to the data center and (ii) prevent, to the maximum extent reasonably
+26 feasible, other retail customers from subsidizing the cost of the data center's electric service. Such
+27 contracts shall include all of the following:
+28 (1) Minimum billing requirements designed to recover incremental costs
+29 associated with serving or preparing to serve a data center.
+30 (2) A contract term that is sufficient to recover all of the electric public utility's
+31 incremental costs and which may exceed the length of the applicable service
+32 tariff.
+33 (3) Performance and credit provisions designed to protect retail customers in the
+34 event of contract default.
+35 (4) Termination provisions designed to protect retail customers in the event of
+36 termination of the contract for electric service.
+37 (b) Each contract between an electric public utility and a data center for the provision of
+38 electric service shall be filed with the Commission as soon as practicable but in no event later
+39 than 30 days from the date of contract execution by both parties. Either the utility or the data
+40 center, or both, may designate all or any portion of a contract as confidential information as
+41 defined in G.S. 132-1.2, or sensitive public security information as defined in G.S. 132-1.7.
+42 Information shall be considered confidential only to the extent provided by law. Any dispute
+43 about whether information has been properly designated as confidential shall be determined by
+44 the Commission upon motion and response of interested parties. Subject to the requirements of
+45 G.S. 62-34(c), the Public Staff shall have the right to examine confidential information, as well
+46 as sensitive public security information, in exercising any power or performing any duty
+47 authorized by this Chapter.
+48 (c) As part of the report required on the long-range needs for the expansion of facilities
+49 for the generation of electricity pursuant to G.S. 62-110.1(c), the electric public utility shall
+50 include details on contracted demand versus actual demand for each data center for the previous
+51 three years.
+Senate Bill 730-Fourth Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (d) As used in this section, the term "data center" means a facility, campus of facilities,
+2 or array of interconnected facilities used by an entity or other business enterprise for the primary
+3 purpose of storing, retrieving, managing, and processing digital data, which has a peak monthly
+4 electricity demand of 100 megawatts or greater.
+5 (e) The Commission may adopt rules to implement the requirements of this section.
+6 Nothing in this section shall be construed to limit the authority of the Commission to adopt such
+7 additional rules as are in the public interest to protect retail customers from costs incurred by
+8 electric public utilities to provide electric service to data centers."
+9 SECTION 4.(b) This section is effective when it becomes law and applies to
+10 agreements between an electric public utility and a data center entered into on or after that date.
+11
+12 NO CONDEMNATION FOR DATA CENTERS
+13 SECTION 5. Article 1 of Chapter 40A of the General Statutes is amended by adding
+14 a new section to read:
+15 "§ 40A-14. No condemnation to facilitate siting of data center.
+16 Notwithstanding any authority granted under this Chapter, no condemnor shall exercise the
+17 power of eminent domain for the purpose of acquiring land for a data center to be sited upon."
+18
+19 NO LOCAL GOVERNMENT INCENTIVES FOR DATA CENTERS
+20 SECTION 6.(a) G.S. 158-7.1 is amended by adding a new subsection to read:
+21 "(i) Notwithstanding subsection (a), (b), or (d) of this section, local governments are
+22 prohibited from providing any economic development incentives for siting of a data center within
+23 their jurisdiction. For purposes of this section, the term "data center" means a facility, campus of
+24 facilities, or array of interconnected facilities used by an entity or other business enterprise for
+25 the primary purpose of storing, retrieving, managing, and processing digital data, which has a
+26 peak monthly electricity demand of 100 megawatts or greater."
+27 SECTION 6.(b) This section is effective when it becomes law and applies to data
+28 centers for which no local development approvals or State permits, certifications, or
+29 authorizations have been issued for siting of the data center on or before that date. This section
+30 shall not be construed to impair agreements for incentives executed on or before that date.
+31
+32 PART II. ENERGY POLICY PROVISIONS
+33
+34 COST CAP FOR CEPS SET-ASIDES
+35 SECTION 7.(a) G.S. 62-133.8 reads as rewritten:
+36 "§ 62-133.8. Clean Energy and Energy Efficiency Portfolio Standard (CEPS).
+37 …
+38 (d) Compliance With CEPS Requirement Through Use of Solar Energy Resources. – For
+39 calendar year 2018 and for each calendar year thereafter, at least two-tenths of one percent (0.2%)
+40 of the total electric power in kilowatt hours sold to retail electric customers in the State, or an
+41 equivalent amount of energy, shall be supplied by a combination of new solar electric facilities
+42 and new metered solar thermal energy facilities that use one or more of the following
+43 applications: solar hot water, solar absorption cooling, solar dehumidification, solar thermally
+44 driven refrigeration, and solar industrial process heat. The terms of any contract entered into
+45 between an electric power supplier and a new solar electric facility or new metered solar thermal
+46 energy facility shall be of sufficient length to stimulate development of solar energy; provided,
+47 the Commission shall develop a procedure to determine if an electric power supplier is in
+48 compliance with the provisions of this subsection if a new solar electric facility or a new metered
+49 solar thermal energy facility fails to meet the terms of its contract with the electric power supplier.
+50 As used in this subsection, "new" means a facility that was first placed into service on or after
+51 January 1, 2007. The electric power suppliers shall comply with the requirements of this
+Page 8 Senate Bill 730-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 subsection according to the following schedule:schedule, if the incremental costs to comply with
+2 this subsection do not exceed two hundred percent (200%) of the cost to supply, or contract for
+3 supply, an equivalent percentage of total electric power in kilowatt hours sold to retail electric
+4 customers in the State using any other clean energy resource:
+5 Calendar Year Requirement for Solar Energy Resources
+6 2010 0.02%
+7 2012 0.07%
+8 2015 0.14%
+9 2018 0.20%
+10 (e) Compliance With CEPS Requirement Through Use of Swine Waste Resources. – For
+11 calendar year 2018 and for each calendar year thereafter, at least two-tenths of one percent (0.2%)
+12 of the total electric power in kilowatt hours sold to retail electric customers in the State shall be
+13 supplied, or contracted for supply in each year, by swine waste. The electric power suppliers, in
+14 the aggregate, shall comply with the requirements of this subsection according to the following
+15 schedule:schedule, if the incremental costs to comply with this subsection do not exceed two
+16 hundred percent (200%) of the cost to supply, or contract for supply, an equivalent percentage of
+17 total electric power in kilowatt hours sold to retail electric customers in the State using any other
+18 clean energy resource:
+19 Calendar Year Requirement for Swine Waste Resources
+20 2012 0.07%
+21 2015 0.14%
+22 2018 0.20%
+23 (f) Compliance With CEPS Requirement Through Use of Poultry Waste Resources. –
+24 For calendar year 2014 and for each calendar year thereafter, at least 900,000 megawatt hours of
+25 the total electric power sold to retail electric customers in the State or an equivalent amount of
+26 energy shall be supplied, or contracted for supply in each year, by poultry waste combined with
+27 wood shavings, straw, rice hulls, or other bedding material. The electric power suppliers, in the
+28 aggregate, shall comply with the requirements of this subsection according to the following
+29 schedule:schedule, if the incremental costs to comply with this subsection do not exceed two
+30 hundred percent (200%) of the cost to supply, or contract for supply, an equivalent amount of
+31 megawatt hours sold to retail electric customers in the State using any other clean energy
+32 resource:
+33 Calendar Year Requirement for Poultry Waste Resources
+34 2012 170,000 megawatt hours
+35 2013 700,000 megawatt hours
+36 2014 900,000 megawatt hours
+37 …
+38 (m) An electric power supplier shall satisfy the requirements of subsections (b) and (c) of
+39 this section, as applicable, in compliance with current law and practice with respect to the least
+40 cost planning for generation, pursuant to G.S. 62-2(a)(3a), in a manner that maintains or improves
+41 upon the adequacy and reliability of the existing grid. Through application of least cost principles
+42 to the requirements of this section, it is the goal of the General Assembly that the cap on per
+43 account annual charges set forth in subdivision (4) of subsection (h) of this section shall be
+44 reduced by fifty percent (50%) for all customer classes by 2035."
+45 SECTION 7.(b) Nothing in this section shall be construed to impair any contract
+46 executed on or before July 1, 2026, for purposes of complying with the requirements of
+47 G.S. 62-133.8 as it existed prior to amendments enacted by subsection (a) of this section. All
+48 reasonable and prudent incremental costs incurred by an electric power supplier to comply with
+49 any former requirement of G.S. 62-133.8 may be recovered as provided in G.S. 62-133.8(h). For
+50 the purposes of cost recovery under this section, reasonable and prudent incremental costs shall
+51 include all of the following:
+Senate Bill 730-Fourth Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (1) Costs under purchase contracts for clean energy resources entered into prior
+2 to July 1, 2026, for the purpose of complying with the clean energy portfolio
+3 standard requirements.
+4 (2) The costs of clean energy facilities built or acquired by an electric power
+5 supplier for which a certificate of public convenience and necessity has been
+6 issued by the Commission prior to July 1, 2026.
+7
+8 RFP FOR STUDY OF UTILITY POLICIES TO INCREASE AFFORDABILITY OF
+9 ELECTRIC RATES
+10 SECTION 8. Recognizing the rising costs of utility service, the General Assembly
+11 finds that an examination of various utility policies should be conducted to ensure these policies
+12 are not exacerbating affordability issues for citizens of the State, including the 2050 goal for a
+13 reduction in carbon dioxide (CO2) emitted in the State from electric generating facilities that
+14 results in carbon neutrality, pursuant to G.S. 62-110.9. In addition to examining these existing
+15 utility policies, the General Assembly finds that expert analysis should be performed to determine
+16 the most effective approach to ensuring that costs of utility service to large load customers is not
+17 borne by other residential, commercial, and industrial customers in North Carolina, including
+18 appropriate terms for a large load tariff. The Legislative Services Officer shall issue a request for
+19 proposals for a study to be conducted by an entity with nationally recognized expertise in research
+20 and analysis of utility policy and rates to (i) ascertain the current impacts, and projected impacts
+21 over the next 25 years, to residential, commercial, and industrial customer bills from the 2050
+22 carbon neutrality goal, and whether any changes to this policy or other policies are advisable to
+23 enhance customer affordability and (ii) provide recommendations for effective policies to prevent
+24 rate impacts from large load customers on other customer classes, including requirements that
+25 large load customers generate a portion of their own power, as well as curtailment policies for
+26 large load customers. The study shall adhere to the following time line:
+27 (1) The request for proposals (RFP) shall be issued on or before August 1, 2026.
+28 (2) A contract to award the RFP shall be executed on or before November 1, 2026.
+29 (3) The study shall be completed and submitted to the Joint Legislative
+30 Commission on Energy Policy on or before May 1, 2027, in order to inform
+31 the development of utility policy during the 2027 Regular Session.
+32 The Utilities Commission and the Public Staff shall assist the (i) Legislative Services
+33 Officer, as needed, in development of the RFP and the selection of a contractor and (ii) selected
+34 contractor, in every permissible manner within the constraints of their respective authority, in the
+35 conduct of the study.
+36
+37 EXPRESS PERMIT REVIEW FOR ENERGY PROJECTS
+38 SECTION 9.(a) G.S. 143B-279.13 reads as rewritten:
+39 "§ 143B-279.13. Express permit and certification reviews.
+40 (a) The Department of Environmental Quality shall develop an express review program
+41 to provide express permit and certification reviews in all of its regional offices. Participation in
+42 the express review program is voluntary, and the program shall be supported by the fees
+43 determined pursuant to subsection (b) of this section. The Department of Environmental Quality
+44 shall determine the project applications to review under the express review program from those
+45 who request to participate in the program. The express review program may be applied to any
+46 one or all of the permits, approvals, or certifications in the following programs: the erosion and
+47 sedimentation control program, the coastal management program, and the water quality
+48 programs, including water quality certifications and stormwater management. The express
+49 review program shall focus on the following permits or certifications:
+50 (1) Stormwater permits under Part 1 of Article 21 of Chapter 143 of the General
+51 Statutes.
+Page 10 Senate Bill 730-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (2) Stream origination certifications under Article 21 of Chapter 143 of the
+2 General Statutes.
+3 (3) Water quality certification under Article 21 of Chapter 143 of the General
+4 Statutes.
+5 (4) Erosion and sedimentation control permits under Article 4 of Chapter 113A
+6 of the General Statutes.
+7 (5) Permits under the Coastal Area Management Act (CAMA), Part 4 of Article
+8 7 of Chapter 113A of the General Statutes.
+9 (a1) The Department of Environmental Quality shall have the authority to create express
+10 permitting options for programs in addition to those listed in subsection (a) of this section where
+11 it deems there to be a need or where it determines an express permitting option would create
+12 greater efficiencies for the permitting process.
+13 (a2) The Department of Environmental Quality shall create an express review program for
+14 all permits, authorizations, and certifications required from the Department for projects involving
+15 the generation, distribution, or transmission of energy or fuel, including natural gas, diesel,
+16 petroleum, or electricity. Participation in the express review program is voluntary.
+17 (b) The Department of Environmental Quality shall set the fees for express application
+18 review under the express review program at a level sufficient to cover all program expenses.
+19 Notwithstanding G.S. 143-215.3D, the maximum permit application fee to be charged under
+20 subsection (a) of this section for the express review of a project application requiring all of the
+21 permits under subdivisions (1) through (5) of subsection (a) of this section shall not exceed five
+22 thousand eight hundred eight dollars ($5,808). Notwithstanding G.S. 143-215.3D, the maximum
+23 permit application fee to be charged for the express review of a project application requiring all
+24 of the permits under subdivisions (1) through (4) of subsection (a) of this section shall not exceed
+25 four thousand seven hundred fifty-two dollars ($4,752). Notwithstanding G.S. 143-215.3D, the
+26 maximum permit application fee charged for the express review of a project application for any
+27 other combination of permits under subdivisions (1) through (5) of subsection (a) of this section
+28 shall not exceed four thousand two hundred twenty-four dollars ($4,224). As set forth in
+29 subsection (a1) of this section, express review of a project application involving additional
+30 permits or certifications issued by the Department of Environmental Quality other than those
+31 under subdivisions (1) through (5) of subsection (a) of this section may be allowed by the
+32 Department, and, notwithstanding G.S. 143-215.3D or any other statute or rule that sets a permit
+33 fee, the maximum permit application fee charged for the express review of a project application
+34 that includes a permit, approval, or certification designated for express review under subsection
+35 (a1) of this section shall not exceed four thousand two hundred twenty-four dollars ($4,224), plus
+36 one hundred fifty percent (150%) of the fee that would otherwise apply by statute or rule for that
+37 particular permit, approval, or certification. Additional fees, not to exceed fifty percent (50%) of
+38 the original permit application fee under this section, may be charged for subsequent reviews due
+39 to the insufficiency of the permit applications. The Department of Environmental Quality may
+40 establish the procedure by which the amount of the fees under this subsection is determined, and
+41 the fees and procedures are not rules under G.S. 150B-2(8a) for the express review program
+42 under this section."
+43 SECTION 9.(b) G.S. 143B-279.20 reads as rewritten:
+44 "§ 143B-279.20. Report on Department activity to process applications for permits
+45 required for natural gas pipelines and gas-fired electric generation facilities.
+46 The Department of Environmental Quality shall report on any applications received for
+47 permits permits, authorizations, or certifications required for siting or operation of natural gas
+48 pipelines and gas-fired electric generation facilities within the State, and activities of the
+49 Department to process such applications, including tracking of processing times. The report shall
+50 also include information on all activities under the express review program required pursuant to
+51 G.S. 143B-279.13(a2). The processing time tracked shall include (i) the total processing time
+Senate Bill 730-Fourth Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 from when an initial permit application is received to issuance or denial of the permit and (ii) the
+2 processing time from when a complete permit application is received to issuance or denial of the
+3 permit. The Department shall report quarterly to the Joint Legislative Commission on Energy
+4 Policy pursuant to this section."
+5 SECTION 9.(c) Within 30 days of the date this section becomes law, the Department
+6 shall notify applicants for all entities with pending applications for permits, authorizations, and
+7 certifications required from the Department for projects involving the generation, distribution, or
+8 transmission of energy or fuel, including natural gas, diesel, petroleum, or electricity, of the
+9 express review program enacted by subsection (b) of this section, and shall inform the applicants
+10 of the ability to process pending applications through the program upon payment of the applicable
+11 fee pursuant to G.S. 143B-279.13(b).
+12 SECTION 9.(d) This section is effective when it becomes law and applies to
+13 applications for permits, authorizations, and certifications pending on or submitted after that date.
+14
+15 REQUIRE DEVELOPMENT OF NUCLEAR RESOURCES PRIOR TO RETIREMENT
+16 OF BASELOAD FACILITIES OR FACILITIES WITH DISPATCHABLE ELECTRIC
+17 GENERATION ABOVE 100 MW TO ENSURE ADEQUACY OF GRID
+18 SECTION 10. G.S. 62-110.9(4) reads as rewritten:
+19 "(4) Retain discretion to determine optimal timing and generation and
+20 resource-mix to achieve the least cost path to compliance with the authorized
+21 carbon reduction goal, including discretion in achieving the authorized carbon
+22 reduction goal by the date specified in order to allow for implementation of
+23 solutions that would have a more significant and material impact on carbon
+24 reduction; provided, however, the Commission shall not exceed the date
+25 specified to achieve the authorized carbon reduction goal by more than two
+26 years, except in the event the Commission authorizes construction of a nuclear
+27 facility or wind energy facility that would require additional time for
+28 completion due to technical, legal, logistical, or other factors beyond the
+29 control of the electric public utility, or in the event necessary to maintain the
+30 adequacy and reliability of the existing grid. In making such determinations,
+31 the Utilities Commission shall receive and consider stakeholder input. The
+32 Commission shall not authorize retirement of baseload facilities or facilities
+33 with dispatchable electric generation above 100 MW until such time as a
+34 certificate of public convenience and necessity has been issued to an electric
+35 public utility for construction of one nuclear facility with a generating capacity
+36 of at least 1,000 MW to ensure the adequacy of baseload and dispatchable
+37 generation from a clean energy resource."
+38
+39 PART III. MISCELLANEOUS
+40
+41 COOLING-OFF PERIOD FOR UTILITIES COMMISSIONERS AND STAFF
+42 SECTION 11.(a) Article 15 of Chapter 62 of the General Statutes is amended by
+43 adding a new section to read:
+44 "§ 62-327A. Post-employment restrictions on members and employees of Commission.
+45 (a) Cooling-Off Period. ‒ It shall be unlawful for any former commissioner or employee
+46 of the Commission to make, with the intent to influence on behalf of an employer or client, any
+47 communication to or appearance before the Commission within a period of six months following
+48 the termination of his or her service or employment with the Commission.
+49 (b) Penalty. ‒ A violation of this section is a Class 3 misdemeanor."
+50 SECTION 11.(b) This section becomes effective December 1, 2026, and applies to
+51 offenses committed on or after that date.
+Page 12 Senate Bill 730-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1
+2 SEVERABILITY/EFFECTIVE DATE
+3 SECTION 12. If any section or provision of this act is declared unconstitutional or
+4 invalid by the courts, it does not affect the validity of this act as a whole or any part other than
+5 the part so declared to be unconstitutional or invalid.
+6 SECTION 13. Except as otherwise provided, this act is effective when it becomes
+7 law.
+Senate Bill 730-Fourth Edition Page 13
+
+[DELETED:  4 R (   A A C A T M V C T S E A U T  P  R S a " ( P s r ( P c c e ( ( f ( S a f c s t t m e p i c w G ( T s t g a ( T a]
+[DELETED:  S  S e d ( F p o t s t t " c m a f c o f t p ( N e S 1  T s i e w i b l a a t a p  C S a " ( A r ( A ( I a i t f i d o a w l c t p a f r v ( F ( C w t s w c c w d m w o ( D c – A f c o f o a o i f o m S c f w n l d a o S p c o a  P C F O O D C A L U S A " " C " A ( A a C]
+[DELETED:  S  P b I c N d R ( D c – A f c o f o a o i f o m ( D f t o a L t f p ( o a c o r e O o r e i d b p e b L t f p ( i i a e c b a c E A ( F t ( I r t c t t o l o e t t l d i G i w l a l o l d i G f l ( P s ( P a A b A c A p o t a i o g t i c o o u t l o a f g w a a d A f 1 I 2 A s i o s c i d o i o I A s I A o I A p r t i s c o t s I A c o t i p o g e A i]
+[DELETED:  S  S f T f 1 T F n e C c a a p t s 7 o t D 2 T m ( R r ( R r a A b A c A d A ( S i o s c – A i o t a d m a A b A s g r t i s ( o t s c A d A " c ( N n e ( P l ( H ( E g i k t f c h A a s S ( A p f p t h a a i i l d i s t m d d T]
+[DELETED:  S  P p e a w T S o S a t A G s e a r f ( T t ( T l ( T ( T ( C o d ( A S p t c p o w s b r t t C P a F F i a w G T u b o a p a u t s s c a l a t l i a l d a a N o F O o a ( A p f p t a l d i s ( o t s d t d s ( A t ( a d a o ( u v r ( U r o i t l t A G t b t a p s a s c u r o ( A a n a n l]
+[DELETED:  S  S ( T t a ( T d o ( A s a d a d t p u s t a p f p i a r ( A o e ( T A d n c o a a p r o a t e t p " ( U o a ( A ( P ( G ( T A G s e a v o G b c a r a o a g r p t G T f a t a r ( P a T b T u c N p s b d f t r s t t p b G ( A a s s ( U s d t e o a o f t s o t p u t s t A o i ( T r s h a g p t a d t h b t a]
+[DELETED:  S  P S a " W r a d o o d t c a o i i l d d a S " R r w p S o  R S a " ( E c a a f b p f c ( M b r d t r i c a ( A i t ( P e ( T t ( E e t c d i G o s p i a d i G I a t G a s p s i i e a p o p a d a ( A f i t]
+[DELETED:  S  S ( A o p e ( T a t N a e S 4  T s i e w i b l a a t a  N S a " N p  N S " N ( g p t f t p S c f w n l d a o S p c o a s  P  C S " … ( C c o e a n m s t e f t u o o m o t f a d b e t C s d a p t d i a e p s i i c s A J 1 2 T e p s s c w t r o t]
+[DELETED:  S  P s t s c C R 2 0 2 0 2 0 2 0 ( C c o s t s h t c C R 2 0 2 0 2 0 ( C F t e w a s h m h s t r e c i t S u a o c e r C R 2 1 2 7 2 9 … ( A t c u t a r S e o o b J 1 2 f p o c w t r o G r a t i]
+[DELETED:  S  S ( C t s ( T s i  R F S O U P T I A O E S f a r r u t b a p a o c e r l l ( T ( A ( T s s b c a s t t J L C t T O c c  E S " ( T t t e r p i v a t p s b s b t f d s w o s c p t c m p a t w q p i w q c a s m T e r ( S S]
+[DELETED:  S  P ( S o c u A 2 o C 1 o t G ( W S ( E o ( P 7 ( T p i g ( T a t g d o o o i n g d p ( T r N s p t p o f m o s n e f t t h t d ( A s f i s ( o t s e r o a p a i a p u ( t ( o ( o s m b a b t D f t ( o p t t e t u S " 1  R o D a t p a f p r T D o E Q s r o a a r f p p a g e g f w t S a a o t D a G]
+[DELETED:  S  S f p p P S s c t e o f S 9  T s i e w i b l a a t a  R O G S " R d t d o t a g a r c r s r p h t C s n e t d s y f o w e f t w r a t f c d t t l l o o f b t c a t C w M c p o g  P  C S a " ( C o c t ( P S o]
+[DELETED:  S  P  S S i t S l]

@@ -1,0 +1,101 @@
+Title: SENATE BILL 1048
+Official Title: SENATE BILL 1048
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: Certificate of Title/Off-Road Motorcycle. (Public)
+Sponsors: Senator Jarvis (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AUTHORIZE CERTIFICATES OF TITLE FOR OFF-ROAD MOTORCYCLES.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. G.S. 20-53.6 reads as rewritten:
+5 "§ 20-53.6. Titling of all-terrain vehicles vehicles, off-road motorcycles, and utility vehicles.
+6 (a) Definition. – For purposes of this section, the term "off-road motorcycle" means a
+7 motorcycle, as defined in G.S. 20-4.01(27)h., designed exclusively for off-road use by an
+8 individual rider with not more than two wheels in contact with the ground.
+9 (b) Certificate of Title. – Any owner of an all-terrain vehicle, modified utility vehicle,
+10 off-road motorcycle, or utility vehicle may apply to the Division for a certificate of title by
+11 completing an application on a form provided by the Division and paying the fee established
+12 under G.S. 20-85(a)(1). The application form shall require, at a minimum, the following:
+13 (1) The owner's name.
+14 (2) The owner's mailing address or residence address.
+15 (3) A drivers license number, which shall be provided as authorized by
+16 G.S. 20-52(a)(1a)b. or G.S. 20-52(a)(1b).
+17 (4) A description of the vehicle, including the make and model.
+18 (5) A statement of the owner's title and of all liens upon the vehicle, including the
+19 names and addresses of all lienholders in the order of their priority, and the
+20 date and nature of each lien. The provisions of this Chapter that relate to
+21 perfection of security interests shall not apply to vehicles issued a certificate
+22 of title under this section."
+23 SECTION 2. G.S. 20-54 reads as rewritten:
+24 "§ 20-54. Authority for refusing registration or certificate of title.
+25 The Division shall refuse registration or issuance of a certificate of title or any transfer of
+26 registration upon any of the following grounds:
+27 …
+28 (8) The vehicle is a golf cart. If the vehicle is an an: (i) all-terrain vehicle vehicle,
+29 (ii) off-road motorcycle, a defined in G.S. 20-53.6, or (iii) a utility vehicle,
+30 the Division shall refuse registration or any transfer of registration but shall
+31 issue a certificate of title as provided by G.S. 20-53.6.
+32 …."
+33 SECTION 3. This act becomes effective October 1, 2026.
+*S1048-v-1*
+[DELETED:  1 C ( S R A A T S " ( D m a d i G d e f o u b a i ( C o c u ( T ( T ( A d l n w s b p a a b G ( A ( A n d p o S " T r … ( T ( t i … S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 1048
+Short Title: Certificate of Title/Off-Road Motorcycle. (Public)
+Sponsors: Senator Jarvis (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AUTHORIZE CERTIFICATES OF TITLE FOR OFF-ROAD MOTORCYCLES.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. G.S. 20-53.6 reads as rewritten:
+5 "§ 20-53.6. Titling of all-terrain vehicles vehicles, off-road motorcycles, and utility vehicles.
+6 (a) Definition. – For purposes of this section, the term "off-road motorcycle" means a
+7 motorcycle, as defined in G.S. 20-4.01(27)h., designed exclusively for off-road use by an
+8 individual rider with not more than two wheels in contact with the ground.
+9 (b) Certificate of Title. – Any owner of an all-terrain vehicle, modified utility vehicle,
+10 off-road motorcycle, or utility vehicle may apply to the Division for a certificate of title by
+11 completing an application on a form provided by the Division and paying the fee established
+12 under G.S. 20-85(a)(1). The application form shall require, at a minimum, the following:
+13 (1) The owner's name.
+14 (2) The owner's mailing address or residence address.
+15 (3) A drivers license number, which shall be provided as authorized by
+16 G.S. 20-52(a)(1a)b. or G.S. 20-52(a)(1b).
+17 (4) A description of the vehicle, including the make and model.
+18 (5) A statement of the owner's title and of all liens upon the vehicle, including the
+19 names and addresses of all lienholders in the order of their priority, and the
+20 date and nature of each lien. The provisions of this Chapter that relate to
+21 perfection of security interests shall not apply to vehicles issued a certificate
+22 of title under this section."
+23 SECTION 2. G.S. 20-54 reads as rewritten:
+24 "§ 20-54. Authority for refusing registration or certificate of title.
+25 The Division shall refuse registration or issuance of a certificate of title or any transfer of
+26 registration upon any of the following grounds:
+27 …
+28 (8) The vehicle is a golf cart. If the vehicle is an an: (i) all-terrain vehicle vehicle,
+29 (ii) off-road motorcycle, a defined in G.S. 20-53.6, or (iii) a utility vehicle,
+30 the Division shall refuse registration or any transfer of registration but shall
+31 issue a certificate of title as provided by G.S. 20-53.6.
+32 …."
+33 SECTION 3. This act becomes effective October 1, 2026.
+*S1048-v-1*
+
+[DELETED:  1 C ( S R A A T S " ( D m a d i G d e f o u b a i ( C o c u ( T ( T ( A d l n w s b p a a b G ( A ( A n d p o S " T r … ( T ( t i … S]

@@ -1,0 +1,184 @@
+Title: SENATE BILL 890
+Official Title: SENATE BILL 890
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: Keep Immigrant Talent in NC. (Public)
+Sponsors: Senators Murdock and Chitlik (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+April 29, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO RETAIN IMMIGRANT TALENT BY ESTABLISHING A "HIGH-SKILLED
+3 TALENT RETENTION FUND".
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. RETAINING IMMIGRANT TALENT
+7 SECTION 1.1. Chapter 64 of the General Statutes is amended by adding a new
+8 Article to read:
+9 "Article 4.
+10 "High-Skilled Talent Retention Fund.
+11 "§ 64-70. Creation; purpose.
+12 (a) There is established within the North Carolina Department of Commerce a
+13 "High-Skilled Talent Retention Fund."
+14 (b) Purpose. – "The High-Skilled Talent Retention Fund" (Fund) shall be used to provide
+15 reimbursement grants to eligible individuals to offset costs associated with maintaining lawful
+16 employment-based immigration status, including, but not limited to, all of the following:
+17 (1) Renewal fees for H-1B, O-1, and TN visas.
+18 (2) Employment-based adjustment of status filing fees.
+19 (3) Required legal and processing costs directly related to continued employment
+20 authorization.
+21 "§ 64-71. Administration.
+22 The North Carolina Department of Commerce (Department) shall administer the Fund and
+23 adopt rules necessary to implement this Article.
+24 "§ 64-72. Eligibility.
+25 (a) An individual that needs financial assistance with maintaining lawful immigration
+26 status and who meets all of the following requirements:
+27 (1) Resides in North Carolina.
+28 (2) Employed in North Carolina.
+29 (3) Is considered a "high-skilled worker" as determined by rules promulgated by
+30 the Department.
+31 (b) For the purposes of this Article, the term "high-skilled worker" means an individual
+32 who meets one or more of the following criteria:
+33 (1) Education-based qualification. – Holds at least a bachelor's degree or higher
+34 in a specialized field, including, but not limited to, science, technology,
+35 engineering, mathematics (STEM), healthcare, finance, law, government,
+*S890-v-1*
+General Assembly Of North Carolina Session 2025
+1 social services, or other high-demand and essential services-based professions
+2 as determined by the Department.
+3 (2) Occupation-based qualification. – Is employed in an occupation classified as
+4 a "specialty occupation" under federal immigration law (H-1B standard) or in
+5 a high-demand occupation as identified by the Department based on labor
+6 market data.
+7 (3) Visa classification. – Holds or is eligible for a high-skilled, employment-based
+8 nonimmigrant or immigrant visa, including, but not limited to, H-1B, O-1,
+9 TN, or employment-based permanent residency categories.
+10 (4) Specialized skills or experience. – Possesses specialized knowledge, technical
+11 expertise, or professional experience that is difficult to source within the
+12 domestic labor market or is in a field losing a significant amount of workers,
+13 as determined by the Department."
+14
+15 PART II. APPROPRIATION
+16 SECTION 2.1. Appropriation. – There is appropriated from the General Fund to the
+17 North Carolina Department of Commerce the sum of one million dollars ($1,000,000) in
+18 recurring funds beginning in the 2026-2027 fiscal year to establish and administer the Fund
+19 created by this act.
+20 SECTION 2.2. Allowable Uses of Funds. – The funds appropriated in Section 2.1
+21 of this act may be used for any of the following:
+22 (1) Reimbursement grants to eligible applicants pursuant to Section 1.1 of this
+23 act.
+24 (2) Administrative costs of the Department not to exceed five percent (5%) of the
+25 total funds appropriated.
+26 SECTION 2.3. Nonreversion. – Funds appropriated in this Part shall not revert at
+27 the end of the fiscal year but shall remain available until expended.
+28
+29 PART III. SEVERABILITY
+30 SECTION 3.1. If any provision of this act or its application is held invalid, the
+31 invalidity does not affect other provisions or applications of this act that can be given effect
+32 without the invalid provisions or application and, to this end, the provisions of this act are
+33 severable.
+34
+35 PART IV. EFFECTIVE DATE
+36 SECTION 4.1. This act is effective when it becomes law.
+Page 2 Senate Bill 890-First Edition
+[DELETED:  1 K ( S R A A T T  P S A " " " ( T i e w t N C D o C a " ( P r e ( R ( E ( R a " T a " ( A s ( R ( E ( I t ( F w ( E i a s f i b n l t s t e m ( h f l g]
+[DELETED:  S  S s a ( O a a m ( V n T ( S e o p e t i d t s w t d a  P S N C D o C t s o o m d ( i r c S o ( R a ( A t S t  P S i w t i p o a t t e t p o a a s  P S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 890
+Short Title: Keep Immigrant Talent in NC. (Public)
+Sponsors: Senators Murdock and Chitlik (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+April 29, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO RETAIN IMMIGRANT TALENT BY ESTABLISHING A "HIGH-SKILLED
+3 TALENT RETENTION FUND".
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. RETAINING IMMIGRANT TALENT
+7 SECTION 1.1. Chapter 64 of the General Statutes is amended by adding a new
+8 Article to read:
+9 "Article 4.
+10 "High-Skilled Talent Retention Fund.
+11 "§ 64-70. Creation; purpose.
+12 (a) There is established within the North Carolina Department of Commerce a
+13 "High-Skilled Talent Retention Fund."
+14 (b) Purpose. – "The High-Skilled Talent Retention Fund" (Fund) shall be used to provide
+15 reimbursement grants to eligible individuals to offset costs associated with maintaining lawful
+16 employment-based immigration status, including, but not limited to, all of the following:
+17 (1) Renewal fees for H-1B, O-1, and TN visas.
+18 (2) Employment-based adjustment of status filing fees.
+19 (3) Required legal and processing costs directly related to continued employment
+20 authorization.
+21 "§ 64-71. Administration.
+22 The North Carolina Department of Commerce (Department) shall administer the Fund and
+23 adopt rules necessary to implement this Article.
+24 "§ 64-72. Eligibility.
+25 (a) An individual that needs financial assistance with maintaining lawful immigration
+26 status and who meets all of the following requirements:
+27 (1) Resides in North Carolina.
+28 (2) Employed in North Carolina.
+29 (3) Is considered a "high-skilled worker" as determined by rules promulgated by
+30 the Department.
+31 (b) For the purposes of this Article, the term "high-skilled worker" means an individual
+32 who meets one or more of the following criteria:
+33 (1) Education-based qualification. – Holds at least a bachelor's degree or higher
+34 in a specialized field, including, but not limited to, science, technology,
+35 engineering, mathematics (STEM), healthcare, finance, law, government,
+*S890-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 social services, or other high-demand and essential services-based professions
+2 as determined by the Department.
+3 (2) Occupation-based qualification. – Is employed in an occupation classified as
+4 a "specialty occupation" under federal immigration law (H-1B standard) or in
+5 a high-demand occupation as identified by the Department based on labor
+6 market data.
+7 (3) Visa classification. – Holds or is eligible for a high-skilled, employment-based
+8 nonimmigrant or immigrant visa, including, but not limited to, H-1B, O-1,
+9 TN, or employment-based permanent residency categories.
+10 (4) Specialized skills or experience. – Possesses specialized knowledge, technical
+11 expertise, or professional experience that is difficult to source within the
+12 domestic labor market or is in a field losing a significant amount of workers,
+13 as determined by the Department."
+14
+15 PART II. APPROPRIATION
+16 SECTION 2.1. Appropriation. – There is appropriated from the General Fund to the
+17 North Carolina Department of Commerce the sum of one million dollars ($1,000,000) in
+18 recurring funds beginning in the 2026-2027 fiscal year to establish and administer the Fund
+19 created by this act.
+20 SECTION 2.2. Allowable Uses of Funds. – The funds appropriated in Section 2.1
+21 of this act may be used for any of the following:
+22 (1) Reimbursement grants to eligible applicants pursuant to Section 1.1 of this
+23 act.
+24 (2) Administrative costs of the Department not to exceed five percent (5%) of the
+25 total funds appropriated.
+26 SECTION 2.3. Nonreversion. – Funds appropriated in this Part shall not revert at
+27 the end of the fiscal year but shall remain available until expended.
+28
+29 PART III. SEVERABILITY
+30 SECTION 3.1. If any provision of this act or its application is held invalid, the
+31 invalidity does not affect other provisions or applications of this act that can be given effect
+32 without the invalid provisions or application and, to this end, the provisions of this act are
+33 severable.
+34
+35 PART IV. EFFECTIVE DATE
+36 SECTION 4.1. This act is effective when it becomes law.
+Page 2 Senate Bill 890-First Edition
+
+[DELETED:  1 K ( S R A A T T  P S A " " " ( T i e w t N C D o C a " ( P r e ( R ( E ( R a " T a " ( A s ( R ( E ( I t ( F w ( E i a s f i b n l t s t e m ( h f l g]
+[DELETED:  S  S s a ( O a a m ( V n T ( S e o p e t i d t s w t d a  P S N C D o C t s o o m d ( i r c S o ( R a ( A t S t  P S i w t i p o a t t e t p o a a s  P S]

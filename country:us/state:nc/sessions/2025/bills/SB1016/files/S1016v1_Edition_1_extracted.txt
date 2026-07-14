@@ -1,0 +1,87 @@
+Title: SENATE BILL 1016
+Official Title: SENATE BILL 1016
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: Fair Share for Public Schools Act. (Public)
+Sponsors: Senators Chitlik and Garrett (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO IMPOSE A SEVEN PERCENT INCOME TAX ON INCOME THAT EXCEEDS
+3 ONE MILLION DOLLARS AND TO DISTRIBUTE THOSE PROCEEDS TO THE
+4 PUBLIC SCHOOL FUND.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 105-153.7 reads as rewritten:
+7 "§ 105-153.7. Individual income tax imposed.
+8 (a) Tax. – A tax is imposed for each taxable year on the North Carolina taxable income
+9 of every individual. The tax shall be levied, collected, and paid annually. Except as otherwise
+10 provided in subsection (a1) subsections (a1) and (a2) of this section, the tax is a percentage of
+11 the taxpayer's North Carolina taxable income computed as follows:
+12 …
+13 (a2) Rate on High Income. – A tax is imposed for each taxable year on the North Carolina
+14 taxable income of every individual that exceeds one million dollars ($1,000,000) at a rate of
+15 seven percent (7%). The tax imposed under this subsection shall be levied, collected, and paid
+16 annually. The rate reduction trigger under subsection (a1) of this section shall not apply to the
+17 tax rate imposed under this subsection. Annually, the Secretary shall distribute the taxes collected
+18 under this subsection, less the Department of Revenue's allowance for administrative expenses
+19 associated therewith, to the State Public School Fund for allotment by the State Board of
+20 Education, on behalf of the counties, to local school administrative units on a per pupil basis in
+21 accordance with Article IX, Section 7(b) of the North Carolina Constitution. The Secretary may
+22 retain the Department of Revenue's cost of collection, not to exceed one hundred thousand dollars
+23 ($100,000) a year, as reimbursement to the Department.
+24 …."
+25 SECTION 2. This act is effective for taxable years beginning on or after January 1,
+26 2026.
+*S1016-v-1*
+[DELETED:  1 F ( S R A A O M D A T D T P T T P T S " ( T o p t … ( R t s a t u a t t t S P S F f a b t S B o E a r ( … S 2]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 1016
+Short Title: Fair Share for Public Schools Act. (Public)
+Sponsors: Senators Chitlik and Garrett (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO IMPOSE A SEVEN PERCENT INCOME TAX ON INCOME THAT EXCEEDS
+3 ONE MILLION DOLLARS AND TO DISTRIBUTE THOSE PROCEEDS TO THE
+4 PUBLIC SCHOOL FUND.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 105-153.7 reads as rewritten:
+7 "§ 105-153.7. Individual income tax imposed.
+8 (a) Tax. – A tax is imposed for each taxable year on the North Carolina taxable income
+9 of every individual. The tax shall be levied, collected, and paid annually. Except as otherwise
+10 provided in subsection (a1) subsections (a1) and (a2) of this section, the tax is a percentage of
+11 the taxpayer's North Carolina taxable income computed as follows:
+12 …
+13 (a2) Rate on High Income. – A tax is imposed for each taxable year on the North Carolina
+14 taxable income of every individual that exceeds one million dollars ($1,000,000) at a rate of
+15 seven percent (7%). The tax imposed under this subsection shall be levied, collected, and paid
+16 annually. The rate reduction trigger under subsection (a1) of this section shall not apply to the
+17 tax rate imposed under this subsection. Annually, the Secretary shall distribute the taxes collected
+18 under this subsection, less the Department of Revenue's allowance for administrative expenses
+19 associated therewith, to the State Public School Fund for allotment by the State Board of
+20 Education, on behalf of the counties, to local school administrative units on a per pupil basis in
+21 accordance with Article IX, Section 7(b) of the North Carolina Constitution. The Secretary may
+22 retain the Department of Revenue's cost of collection, not to exceed one hundred thousand dollars
+23 ($100,000) a year, as reimbursement to the Department.
+24 …."
+25 SECTION 2. This act is effective for taxable years beginning on or after January 1,
+26 2026.
+*S1016-v-1*
+
+[DELETED:  1 F ( S R A A O M D A T D T P T T P T S " ( T o p t … ( R t s a t u a t t t S P S F f a b t S B o E a r ( … S 2]

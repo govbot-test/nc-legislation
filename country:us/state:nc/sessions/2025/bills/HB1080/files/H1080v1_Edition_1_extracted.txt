@@ -1,0 +1,681 @@
+Title: HOUSE BILL 1080
+Official Title: HOUSE BILL 1080
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Public Safety Reinvestment Act. (Public)
+Sponsors: Representatives Reives, Helfrich, Logan, and Rubin (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+April 29, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO APPROPRIATE FUNDS TO HIRE ADDITIONAL ASSISTANT AND DEPUTY
+3 CLERKS OF COURT IN WAKE AND MECKLENBURG COUNTIES, TO
+4 APPROPRIATE FUNDS FOR SALARY INCREASES AT THE DEPARTMENT OF
+5 ADULT CORRECTION, TO APPROPRIATE FUNDS FOR SALARY INCREASES FOR
+6 MEMBERS OF THE STATE HIGHWAY PATROL, TO APPROPRIATE FUNDS TO
+7 MODERNIZE PUBLIC TRANSIT SAFETY BY MAKING TRAUMA KITS AVAILABLE
+8 ON PUBLIC TRANSPORTATION AND IMPROVING FARE ENFORCEMENT AND
+9 ANTI-FARE-DODGING MEASURES, TO APPROPRIATE FUNDS FOR THE SUPPORT
+10 OF THE DIVISION OF JUVENILE JUSTICE AND DELINQUENCY PREVENTION
+11 AND THE STATE CRIME LABORATORY, AND TO ENHANCE THE BENEFITS OF
+12 CORRECTIONAL OFFICERS WHO ARE MEMBERS OF THE TEACHERS' AND
+13 STATE EMPLOYEES' RETIREMENT SYSTEM.
+14 Whereas, the General Assembly recognizes that chronic and historic underfunding
+15 and workforce instability in critical State institutions have contributed to a public safety crisis
+16 where courts and jail systems are overburdened, weakening timely responses and increasing the
+17 risk of harm to the public, victims, and frontline personnel; and
+18 Whereas, the General Assembly finds that high-volume judicial districts require
+19 sufficient clerk and prosecutorial capacity to ensure the timely administration of justice and
+20 maintain public confidence in the courts; and
+21 Whereas, the General Assembly finds that safe and reliable operations in correctional
+22 institutions, juvenile justice facilities, law enforcement agencies, forensic laboratories, and public
+23 transportation systems depend upon the recruitment and retention of qualified personnel and the
+24 modernization of critical safety infrastructure; and
+25 Whereas, the General Assembly finds that targeted investments in staffing,
+26 compensation, workplace safety, and operational modernization are necessary to restore capacity
+27 and strengthen public safety outcomes statewide; Now, therefore,
+28 The General Assembly of North Carolina enacts:
+29
+30 PUBLIC TRANSIT SAFETY MODERNIZATION
+31 SECTION 1.(a) Article 2B of Chapter 136 of the General Statutes is amended by
+32 adding a new section to read:
+33 "§ 136-44.28. Emergency trauma kits and first aid training.
+34 (a) All public transportation operators receiving State funds, including any metropolitan
+35 transit authority, regional transit authority, or municipal transit system operating bus, rail, light
+*H1080-v-1*
+General Assembly Of North Carolina Session 2025
+1 rail, commuter rail, streetcar, or other fixed-route public transportation services within this State,
+2 shall equip every revenue service vehicle, including each bus and each individual train car, with
+3 an emergency trauma response kit.
+4 (b) Each emergency trauma response kit shall include, at minimum, all of the following
+5 items:
+6 (1) Commercially manufactured tourniquets.
+7 (2) Hemostatic dressings.
+8 (3) Pressure bandages.
+9 (4) Trauma shears.
+10 (5) Protective gloves and other appropriate personal protective equipment.
+11 (6) Any additional lifesaving supplies recommended by the Department of Health
+12 and Human Services in consultation with the Department of Public Safety.
+13 (c) All operators and supervisory personnel employed by a public transportation system
+14 shall complete emergency first aid and bleeding control training consistent with nationally
+15 recognized standards, including training in the proper use of tourniquets and trauma response
+16 kits. Such training shall be completed within six months of hire and refreshed at least once every
+17 two years. An employee who renders emergency aid in good faith pursuant to this section shall
+18 be afforded the protections of G.S. 90-21.14.
+19 (d) The Department of Health and Human Services, in consultation with the Department
+20 of Transportation and the Department of Public Safety, shall adopt minimum implementation
+21 standards to ensure consistency across public transportation systems."
+22 SECTION 1.(b) Article 2B of Chapter 136 of the General Statutes is amended by
+23 adding a new section to read:
+24 "§ 136‑44.29. Fare enforcement and anti-fare-dodging measures.
+25 (a) All public transportation operators receiving State funds shall implement reasonable
+26 and effective measures to deter and prevent fare evasion. Such measures shall include all of the
+27 following:
+28 (1) Installation and use of physical access control systems, including turnstiles or
+29 gated entry systems where operationally and structurally practicable based on
+30 facility design.
+31 (2) Use of electronic validation systems, including barcode scanners, mobile
+32 ticket validation, or contactless fare verification technology.
+33 (3) In-person fare inspection programs, including uniformed or plainclothes fare
+34 inspectors.
+35 (4) Randomized fare verification protocols.
+36 (5) Any other technology or enforcement practice determined appropriate by the
+37 governing board of the transit authority.
+38 (b) Each public transportation operator shall adopt written fare enforcement policies that
+39 balance revenue protection, public safety, and equitable enforcement and shall make such
+40 policies publicly available."
+41 SECTION 1.(c) There is appropriated from the General Fund to the Department of
+42 Transportation the sum of ten million dollars ($10,000,000) in nonrecurring funds for the
+43 2026-2027 fiscal year to implement the provisions of G.S. 136‑44.28 and G.S. 136‑44.29, as
+44 enacted in this section. Funds appropriated in this section shall be distributed by the Department
+45 of Transportation to public transportation operators receiving State funds through a
+46 formula-based allocation consistent with existing public transportation funding formulas
+47 administered by the Department. Funds may be used for:
+48 (1) Purchase and installation of emergency trauma response kits.
+49 (2) Training of transit personnel in first aid and bleeding control.
+50 (3) Capital expenditures associated with fare enforcement modernization,
+51 including access control systems and electronic fare validation technology.
+Page 2 House Bill 1080-First Edition
+General Assembly Of North Carolina Session 2025
+1 (4) Associated implementation and compliance costs.
+2 SECTION 1.(d) Beginning no later than December 1, 2026, and annually thereafter,
+3 each public transportation operator receiving State funds shall submit a report to the Joint
+4 Legislative Oversight Committee on Transportation, the Joint Legislative Oversight Committee
+5 on Justice and Public Safety, and the Fiscal Research Division. The report shall include, at
+6 minimum:
+7 (1) Estimated fare evasion rates for the preceding fiscal year.
+8 (2) Total fare revenue collected.
+9 (3) Estimated revenue losses attributable to fare evasion.
+10 (4) A description of anti-fare-dodging measures in place.
+11 (5) Enforcement actions taken, including citations or warnings issued.
+12 (6) Capital investments made to deter fare evasion.
+13 (7) Any safety incidents involving public transportation personnel or passengers.
+14 The Department of Transportation shall compile and publish a statewide summary
+15 report aggregating data from all reporting transit authorities. No later than December 1, 2027, the
+16 Department shall report to the Joint Legislative Oversight Committee on Transportation, the Joint
+17 Legislative Oversight Committee on Justice and Public Safety, and the Fiscal Research Division
+18 on the use of funds appropriated under this section, including the amounts distributed to each
+19 transit authority, the categories of expenditures, and the status of statewide compliance with the
+20 provisions of this section.
+21 SECTION 1.(e) This section becomes effective July 1, 2026.
+22
+23 COURT SYSTEM STAFFING FOR WAKE AND MECKLENBURG COUNTIES
+24 SECTION 2.(a) Beginning in the 2026-2027 fiscal year, there is appropriated from
+25 the General Fund to the Administrative Office of the Courts (AOC) the sum of thirty million
+26 dollars ($30,000,000) in recurring funds to be used to hire in Wake and Mecklenburg Counties
+27 assistant and deputy clerk of court positions. The AOC shall determine the appropriate allocation
+28 of positions between the counties and, no later than 60 days after the allocation, provide a report
+29 to the Joint Legislative Oversight Committee on Justice and Public Safety and the Fiscal Research
+30 Division on (i) the number of positions allocated to each county and (ii) the reasoning used in
+31 determining those numbers.
+32 SECTION 2.(b) Beginning in the 2026-2027 fiscal year, there is appropriated from
+33 the General Fund to the AOC, Budget Fund 100072, the sum of thirty million dollars
+34 ($30,000,000) in recurring funds to be used to hire in Wake and Mecklenburg Counties assistant
+35 district attorney positions. Notwithstanding G.S. 7A-60, the AOC shall determine the appropriate
+36 allocation of positions between the counties and, no later than 60 days after the allocation,
+37 provide a report to the Joint Legislative Oversight Committee on Justice and Public Safety and
+38 the Fiscal Research Division on (i) the number of positions allocated to each county and (ii) the
+39 reasoning used in determining those numbers.
+40 SECTION 2.(c) No later than July 1, 2027, the Department of Health and Human
+41 Services, Division of Mental Health, Developmental Disabilities, and Substance Use Services,
+42 in coordination with the Administrative Office of the Courts, shall provide a report to the Joint
+43 Legislative Oversight Committee on Justice and Public Safety, the Joint Legislative Oversight
+44 Committee on Health and Human Services, and the Fiscal Research Division on the status of the
+45 appropriation contained in this section, including (i) cost-savings to the court system, (ii)
+46 reductions in case loads, (iii) reductions in the State's incarcerated population, and (iv) any
+47 impacts on recidivism. An updated report shall be provided no later than December 1, 2027, and
+48 annually thereafter.
+49
+50 FUNDING FOR SALARY INCREASES AND WORKPLACE SAFETY
+51 IMPROVEMENTS AT THE DEPARTMENT OF ADULT CORRECTION
+House Bill 1080-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 SECTION 3. Beginning in the 2026-2027 fiscal year, there is appropriated from the
+2 General Fund to the Department of Adult Correction (DAC) the sum of two hundred fifty million
+3 dollars ($250,000,000) in recurring funds to be used for (i) salary increases for employees of the
+4 DAC to align with current market rates and attract and retain qualified employees and (ii) costs
+5 incurred from improving workplace safety. For any funds used for salary increases, the DAC
+6 shall determine how to allocate the funds appropriated in this section and, no later than 60 days
+7 after the allocation, provide a report to the Joint Legislative Oversight Committee on Justice and
+8 Public Safety and the Fiscal Research Division on (i) the positions receiving a salary increase,
+9 (ii) the amount of the salary increase for each position, and (iii) rationale for each salary increase
+10 provided.
+11
+12 PROVIDE COMPENSATION INCREASES TO MEMBERS OF THE STATE
+13 HIGHWAY PATROL
+14 SECTION 4.(a) Effective July 1, 2025, there is appropriated from the General Fund
+15 to the Reserve for Compensation Increases to provide pay raises for the State Highway Patrol &
+16 Law Enforcement Support Staff the sum of forty million four hundred eighty-two thousand four
+17 hundred eighty dollars ($40,482,480) in each year of the 2025-2027 fiscal biennium to establish
+18 the pay scales set forth in this section.
+19 SECTION 4.(b) Effective July 1, 2025, the law enforcement officers of the State
+20 Highway Patrol shall be paid based upon the following experience-based annual salary schedule:
+21 Years of Experience 2025-2027 Biennium
+22 0 $56,000
+23 1 $62,125
+24 2 $68,250
+25 3 $75,375
+26 4 $80,500
+27 5 $86,625
+28 6 $92,750
+29 7 $98,875
+30 8+ $105,000
+31 SECTION 4.(c) Effective July 1, 2025, sworn State Highway Patrol employees who
+32 are not subject to an experience-based annual salary schedule shall be paid at the following rates
+33 by rank:
+34 Rank 2025-2027 Biennium
+35 Sergeant $120,750
+36 First Sergeant $132,825
+37 Lieutenant $146,108
+38 Captain $160,718
+39 Major $176,790
+40 Lieutenant Colonel $194,469
+41 Deputy Commander $204,193
+42 Colonel $224,612
+43
+44 JUVENILE JUSTICE PROGRAM SUPPORT AND STAFFING
+45 SECTION 5. Beginning in the 2026-2027 fiscal year, there is appropriated from the
+46 General Fund to the Department of Public Safety, Division of Juvenile Justice and Delinquency
+47 Prevention (JJDP), the sum of twenty-five million dollars ($25,000,000) in recurring funds to
+48 address staffing shortfalls and stabilize juvenile facility operations and juvenile court services,
+49 including recruitment and retention initiatives for hard-to-fill positions, experience-based salary
+50 schedule implementation or other compensation adjustments for frontline and supervisory
+51 classifications, training and onboarding capacity, and temporary staffing measures necessary to
+Page 4 House Bill 1080-First Edition
+General Assembly Of North Carolina Session 2025
+1 maintain safe staffing coverage while vacancies are filled. The JJDP shall report to the Joint
+2 Legislative Oversight Committee on Justice and Public Safety, the Fiscal Research Division, and
+3 the chairs of the House of Representatives and Senate Appropriations Committees no later than
+4 March 1, 2027, and annually thereafter, on the use of funds and outcomes, including vacancy
+5 rates, turnover, time-to-hire, and overtime hours.
+6
+7 STATE CRIME LAB WORKFORCE COMPETITIVENESS
+8 SECTION 6. Beginning in the 2026-2027 fiscal year, there is appropriated from the
+9 General Fund to the Department of Justice, the sum of four million dollars ($4,000,000) in
+10 recurring funds to support the State Crime Laboratory in recruiting and retaining qualified
+11 personnel in a competitive labor market, including salary adjustments, targeted recruitment and
+12 retention incentives for hard-to-fill positions, and related workforce supports necessary to
+13 maintain timely and reliable forensic services. The Department shall report to the Fiscal Research
+14 Division and the Joint Legislative Oversight Committee on Justice and Public Safety by March
+15 1, 2027, and annually thereafter, on the use of funds and outcomes, including vacancy rates,
+16 turnover, time-to-hire, and turnaround times for major casework disciplines.
+17
+18 ENHANCE THE BENEFITS OF CORRECTIONAL OFFICERS WHO ARE MEMBERS
+19 OF THE TEACHERS' AND STATE EMPLOYEES' RETIREMENT SYSTEM
+20 SECTION 7.(a) G.S. 135-1 reads as rewritten:
+21 "§ 135-1. Definitions.
+22 The following words and phrases as used in this Chapter, unless a different meaning is plainly
+23 required by the context, shall have the following meanings:
+24 …
+25 (7e) "Correctional officer" means an employee of an employer who is certified as
+26 a State criminal justice officer under the provisions of Article 1 of Chapter
+27 17C of the General Statutes.
+28 …
+29 (11c) "Law-Enforcement Officer" means a full-time paid employee of an employer
+30 who is actively serving in a position with assigned primary duties and
+31 responsibilities for prevention and detection of crime or the general
+32 enforcement of the criminal laws of the State of North Carolina or serving
+33 civil processes, and who possesses the power of arrest by virtue of an oath
+34 administered under the authority of the State. "Law-Enforcement Officer" also
+35 means a all of the following:
+36 a. A probation/parole officer as defined in this section with respect to any
+37 service rendered on or after July 1, 2017.
+38 b. A correctional officer, as defined in this section, with respect to any
+39 service rendered on or after July 1, 2026.
+40 …."
+41 SECTION 7.(b) G.S. 143-166.41 reads as rewritten:
+42 "§ 143-166.41. Special separation allowance options for State law enforcement officers.
+43 …
+44 (b) Definitions. – The following definitions apply in this section:
+45 (1) Allowance. – The annual special separation allowance for State law
+46 enforcement officers provided for under this section.
+47 (1a) Correctional officer. – As defined in G.S. 135-1.
+48 (2) Creditable service. – The service for which credit is allowed under the
+49 retirement system of which the officer is a member.
+50 (3) Law enforcement officer. – As defined in either G.S. 135-1 or
+51 G.S. 143-166.30(a).
+House Bill 1080-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (4) Officer. – A law enforcement officer.
+2 (5) Probation/parole officer. – As defined in G.S. 135-1.
+3 (b1) Eligibility for Allowance and Calculation of Allowance Amount. – To be eligible for
+4 an allowance under this section, an officer is required to meet one of the following sets of criteria
+5 that shall also determine the allowance amount:
+6 (1) For officers meeting all of the following criteria, the annual special separation
+7 allowance to be paid is equal to eighty-five hundredths percent (0.85%) of the
+8 annual base rate of compensation most recently applicable to the officer for
+9 each year of that officer's creditable service:
+10 a. The officer (i) has completed 30 or more years of creditable service or
+11 (ii) is 55 years of age or older and completed five or more years of
+12 creditable service.
+13 b. The officer is less than 62 years of age.
+14 c. The officer has completed at least five years of continuous service as
+15 a law enforcement officer immediately preceding the officer's service
+16 retirement. Any break in this required continuous service that is a
+17 result of disability retirement or disability salary continuation benefits
+18 shall not adversely affect an officer's qualification to receive an
+19 allowance under this subdivision so long as the officer returned to
+20 service within 45 days after the disability benefits had ceased and is
+21 otherwise qualified to receive the allowance.
+22 d. At least fifty percent (50%) of the officer's creditable service is as
+23 meets one or more of the following:
+24 1. The service is as a law enforcement officer, or for officer.
+25 2. For service prior to July 1, 2017, the service is as a
+26 probation/parole officer.
+27 3. For service prior to July 1, 2026, the service is as a correctional
+28 officer.
+29 (2) For officers meeting all of the following criteria, the annual special separation
+30 allowance to be paid is equal to eighty-five hundredths percent (0.85%) of the
+31 annual equivalent of the base rate of compensation at the time the officer
+32 attained 30 years of service multiplied by 30:
+33 a. Prior to attaining 62 years of age, the officer has completed 30 or more
+34 years of creditable service, at least fifty percent (50%) of which was
+35 the officer's creditable service met one or more of the following:
+36 1. The service was as a law enforcement officer, or for officer.
+37 2. For service prior to July 1, 2017, the service was as a
+38 probation/parole officer.
+39 3. For service prior to July 1, 2026, the service was as a
+40 correctional officer.
+41 b. The officer has completed at least five years of continuous service as
+42 a law enforcement officer immediately preceding the officer's service
+43 retirement. Any break in this required continuous service that is a
+44 result of disability retirement or disability salary continuation benefits
+45 shall not adversely affect an officer's qualification to receive an
+46 allowance under this subdivision so long as the officer returned to
+47 service within 45 days after the disability benefits had ceased and is
+48 otherwise qualified to receive the allowance.
+49 If an officer meets all of the criteria under each subdivision of this subsection, then the
+50 employer making the allowance payments shall allow the officer to choose which of the two
+51 calculation formulas to use for that officer's allowance. This election by the officer is a one-time,
+Page 6 House Bill 1080-First Edition
+General Assembly Of North Carolina Session 2025
+1 irrevocable election and shall be made prior to the first allowance payment. If no election is made
+2 by the officer, then the calculation amount under subdivision (2) of this subsection shall be used.
+3 …."
+4 SECTION 7.(c) There is appropriated from the General Fund to the Department of
+5 State Treasurer the sum of eleven million dollars ($11,000,000) in recurring funds beginning in
+6 the 2026-2027 fiscal year for the purposes of providing the enhanced benefits under this section.
+7 SECTION 7.(d) This section is effective July 1, 2026.
+8
+9 EFFECTIVE DATE
+10 SECTION 8. Except as otherwise provided, this act is effective when it becomes
+11 law.
+House Bill 1080-First Edition Page 7
+[DELETED:  1 P ( R A A A C O C I W A M C T A F F S I A T D O A M O T S H P T A F T M O P T A I F E A A O T D O J J A D P A C O W A M O T T A S W a w r W t G A f t h j d r s m W i t m W t G A f t t i i s c a T  P S a " ( A t]
+[DELETED:  S  H r s a ( E i ( C ( H ( P ( T ( P ( A a ( A s c e f a a b c t c w n r k t b ( T o s S a " ( A a f ( I g f ( U o e v s i b s m t ( I i ( R ( A g ( E b r p p s a e e a s m s p S T t s o t m d ( i n f f t 2 e o T t p t o r S f t a f a c w e p t f f a ( P ( T ( C e a w f e m i]
+[DELETED:  S  P ( A S e p t o r S f s s a r t t J L o F m ( E ( T ( E ( A ( E ( C ( A T r D L o t p S  C S t d a o t D d S t G F t t A B F 1 t s o t m d ( d a o b t c a n l 6 d a a p t r S S i L C a c i t s i ( c t t c s ( r i c l ( r i t i p a ( a i a  F F S I A W S I]
+[DELETED:  S  H S G d D i s a P ( p  P C I T M O T S H S t L h t S H Y 2 0 $ 1 $ 2 $ 3 $ 4 $ 5 $ 6 $ 7 $ 8 $ S a b R 2 S $ F $ L $ C $ M $ L $ D $ C $  J S G P a i s i o o c a f f a s c]
+[DELETED:  S  P m L t M r  S S G r f t s t S C L i r a r q p r i f h p a r w s n t m D 1 t  E O S " T r … ( " a 1 … ( " w i a s i a p w a p d a r f p a d o c o t g e c a m a A s b A s … S " … ( D ( A – T a s s a f S l e ( C ( C s – T s f w c i a u t r ( L e o – A d i e G o G]
+[DELETED:  S  H ( O ( P ( E a t ( F a a e a T ( c b T c T a r A b i t r c s t i a r s n a a a o q t r a a s o d A m 1 T 2 F s p t J 1 2 t s i a a p 3 F o ( F a a a a P y t 1 T 2 F s p t J 1 2 t s w a a p 3 F s p t J 1 2 t s w a a c b T a r A b i t r c s t i a r s n a a a o q t r a a s o I e c]
+[DELETED:  S  P i b … S S t S  E S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1080
+Short Title: Public Safety Reinvestment Act. (Public)
+Sponsors: Representatives Reives, Helfrich, Logan, and Rubin (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+April 29, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO APPROPRIATE FUNDS TO HIRE ADDITIONAL ASSISTANT AND DEPUTY
+3 CLERKS OF COURT IN WAKE AND MECKLENBURG COUNTIES, TO
+4 APPROPRIATE FUNDS FOR SALARY INCREASES AT THE DEPARTMENT OF
+5 ADULT CORRECTION, TO APPROPRIATE FUNDS FOR SALARY INCREASES FOR
+6 MEMBERS OF THE STATE HIGHWAY PATROL, TO APPROPRIATE FUNDS TO
+7 MODERNIZE PUBLIC TRANSIT SAFETY BY MAKING TRAUMA KITS AVAILABLE
+8 ON PUBLIC TRANSPORTATION AND IMPROVING FARE ENFORCEMENT AND
+9 ANTI-FARE-DODGING MEASURES, TO APPROPRIATE FUNDS FOR THE SUPPORT
+10 OF THE DIVISION OF JUVENILE JUSTICE AND DELINQUENCY PREVENTION
+11 AND THE STATE CRIME LABORATORY, AND TO ENHANCE THE BENEFITS OF
+12 CORRECTIONAL OFFICERS WHO ARE MEMBERS OF THE TEACHERS' AND
+13 STATE EMPLOYEES' RETIREMENT SYSTEM.
+14 Whereas, the General Assembly recognizes that chronic and historic underfunding
+15 and workforce instability in critical State institutions have contributed to a public safety crisis
+16 where courts and jail systems are overburdened, weakening timely responses and increasing the
+17 risk of harm to the public, victims, and frontline personnel; and
+18 Whereas, the General Assembly finds that high-volume judicial districts require
+19 sufficient clerk and prosecutorial capacity to ensure the timely administration of justice and
+20 maintain public confidence in the courts; and
+21 Whereas, the General Assembly finds that safe and reliable operations in correctional
+22 institutions, juvenile justice facilities, law enforcement agencies, forensic laboratories, and public
+23 transportation systems depend upon the recruitment and retention of qualified personnel and the
+24 modernization of critical safety infrastructure; and
+25 Whereas, the General Assembly finds that targeted investments in staffing,
+26 compensation, workplace safety, and operational modernization are necessary to restore capacity
+27 and strengthen public safety outcomes statewide; Now, therefore,
+28 The General Assembly of North Carolina enacts:
+29
+30 PUBLIC TRANSIT SAFETY MODERNIZATION
+31 SECTION 1.(a) Article 2B of Chapter 136 of the General Statutes is amended by
+32 adding a new section to read:
+33 "§ 136-44.28. Emergency trauma kits and first aid training.
+34 (a) All public transportation operators receiving State funds, including any metropolitan
+35 transit authority, regional transit authority, or municipal transit system operating bus, rail, light
+*H1080-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 rail, commuter rail, streetcar, or other fixed-route public transportation services within this State,
+2 shall equip every revenue service vehicle, including each bus and each individual train car, with
+3 an emergency trauma response kit.
+4 (b) Each emergency trauma response kit shall include, at minimum, all of the following
+5 items:
+6 (1) Commercially manufactured tourniquets.
+7 (2) Hemostatic dressings.
+8 (3) Pressure bandages.
+9 (4) Trauma shears.
+10 (5) Protective gloves and other appropriate personal protective equipment.
+11 (6) Any additional lifesaving supplies recommended by the Department of Health
+12 and Human Services in consultation with the Department of Public Safety.
+13 (c) All operators and supervisory personnel employed by a public transportation system
+14 shall complete emergency first aid and bleeding control training consistent with nationally
+15 recognized standards, including training in the proper use of tourniquets and trauma response
+16 kits. Such training shall be completed within six months of hire and refreshed at least once every
+17 two years. An employee who renders emergency aid in good faith pursuant to this section shall
+18 be afforded the protections of G.S. 90-21.14.
+19 (d) The Department of Health and Human Services, in consultation with the Department
+20 of Transportation and the Department of Public Safety, shall adopt minimum implementation
+21 standards to ensure consistency across public transportation systems."
+22 SECTION 1.(b) Article 2B of Chapter 136 of the General Statutes is amended by
+23 adding a new section to read:
+24 "§ 136‑44.29. Fare enforcement and anti-fare-dodging measures.
+25 (a) All public transportation operators receiving State funds shall implement reasonable
+26 and effective measures to deter and prevent fare evasion. Such measures shall include all of the
+27 following:
+28 (1) Installation and use of physical access control systems, including turnstiles or
+29 gated entry systems where operationally and structurally practicable based on
+30 facility design.
+31 (2) Use of electronic validation systems, including barcode scanners, mobile
+32 ticket validation, or contactless fare verification technology.
+33 (3) In-person fare inspection programs, including uniformed or plainclothes fare
+34 inspectors.
+35 (4) Randomized fare verification protocols.
+36 (5) Any other technology or enforcement practice determined appropriate by the
+37 governing board of the transit authority.
+38 (b) Each public transportation operator shall adopt written fare enforcement policies that
+39 balance revenue protection, public safety, and equitable enforcement and shall make such
+40 policies publicly available."
+41 SECTION 1.(c) There is appropriated from the General Fund to the Department of
+42 Transportation the sum of ten million dollars ($10,000,000) in nonrecurring funds for the
+43 2026-2027 fiscal year to implement the provisions of G.S. 136‑44.28 and G.S. 136‑44.29, as
+44 enacted in this section. Funds appropriated in this section shall be distributed by the Department
+45 of Transportation to public transportation operators receiving State funds through a
+46 formula-based allocation consistent with existing public transportation funding formulas
+47 administered by the Department. Funds may be used for:
+48 (1) Purchase and installation of emergency trauma response kits.
+49 (2) Training of transit personnel in first aid and bleeding control.
+50 (3) Capital expenditures associated with fare enforcement modernization,
+51 including access control systems and electronic fare validation technology.
+Page 2 House Bill 1080-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (4) Associated implementation and compliance costs.
+2 SECTION 1.(d) Beginning no later than December 1, 2026, and annually thereafter,
+3 each public transportation operator receiving State funds shall submit a report to the Joint
+4 Legislative Oversight Committee on Transportation, the Joint Legislative Oversight Committee
+5 on Justice and Public Safety, and the Fiscal Research Division. The report shall include, at
+6 minimum:
+7 (1) Estimated fare evasion rates for the preceding fiscal year.
+8 (2) Total fare revenue collected.
+9 (3) Estimated revenue losses attributable to fare evasion.
+10 (4) A description of anti-fare-dodging measures in place.
+11 (5) Enforcement actions taken, including citations or warnings issued.
+12 (6) Capital investments made to deter fare evasion.
+13 (7) Any safety incidents involving public transportation personnel or passengers.
+14 The Department of Transportation shall compile and publish a statewide summary
+15 report aggregating data from all reporting transit authorities. No later than December 1, 2027, the
+16 Department shall report to the Joint Legislative Oversight Committee on Transportation, the Joint
+17 Legislative Oversight Committee on Justice and Public Safety, and the Fiscal Research Division
+18 on the use of funds appropriated under this section, including the amounts distributed to each
+19 transit authority, the categories of expenditures, and the status of statewide compliance with the
+20 provisions of this section.
+21 SECTION 1.(e) This section becomes effective July 1, 2026.
+22
+23 COURT SYSTEM STAFFING FOR WAKE AND MECKLENBURG COUNTIES
+24 SECTION 2.(a) Beginning in the 2026-2027 fiscal year, there is appropriated from
+25 the General Fund to the Administrative Office of the Courts (AOC) the sum of thirty million
+26 dollars ($30,000,000) in recurring funds to be used to hire in Wake and Mecklenburg Counties
+27 assistant and deputy clerk of court positions. The AOC shall determine the appropriate allocation
+28 of positions between the counties and, no later than 60 days after the allocation, provide a report
+29 to the Joint Legislative Oversight Committee on Justice and Public Safety and the Fiscal Research
+30 Division on (i) the number of positions allocated to each county and (ii) the reasoning used in
+31 determining those numbers.
+32 SECTION 2.(b) Beginning in the 2026-2027 fiscal year, there is appropriated from
+33 the General Fund to the AOC, Budget Fund 100072, the sum of thirty million dollars
+34 ($30,000,000) in recurring funds to be used to hire in Wake and Mecklenburg Counties assistant
+35 district attorney positions. Notwithstanding G.S. 7A-60, the AOC shall determine the appropriate
+36 allocation of positions between the counties and, no later than 60 days after the allocation,
+37 provide a report to the Joint Legislative Oversight Committee on Justice and Public Safety and
+38 the Fiscal Research Division on (i) the number of positions allocated to each county and (ii) the
+39 reasoning used in determining those numbers.
+40 SECTION 2.(c) No later than July 1, 2027, the Department of Health and Human
+41 Services, Division of Mental Health, Developmental Disabilities, and Substance Use Services,
+42 in coordination with the Administrative Office of the Courts, shall provide a report to the Joint
+43 Legislative Oversight Committee on Justice and Public Safety, the Joint Legislative Oversight
+44 Committee on Health and Human Services, and the Fiscal Research Division on the status of the
+45 appropriation contained in this section, including (i) cost-savings to the court system, (ii)
+46 reductions in case loads, (iii) reductions in the State's incarcerated population, and (iv) any
+47 impacts on recidivism. An updated report shall be provided no later than December 1, 2027, and
+48 annually thereafter.
+49
+50 FUNDING FOR SALARY INCREASES AND WORKPLACE SAFETY
+51 IMPROVEMENTS AT THE DEPARTMENT OF ADULT CORRECTION
+House Bill 1080-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3. Beginning in the 2026-2027 fiscal year, there is appropriated from the
+2 General Fund to the Department of Adult Correction (DAC) the sum of two hundred fifty million
+3 dollars ($250,000,000) in recurring funds to be used for (i) salary increases for employees of the
+4 DAC to align with current market rates and attract and retain qualified employees and (ii) costs
+5 incurred from improving workplace safety. For any funds used for salary increases, the DAC
+6 shall determine how to allocate the funds appropriated in this section and, no later than 60 days
+7 after the allocation, provide a report to the Joint Legislative Oversight Committee on Justice and
+8 Public Safety and the Fiscal Research Division on (i) the positions receiving a salary increase,
+9 (ii) the amount of the salary increase for each position, and (iii) rationale for each salary increase
+10 provided.
+11
+12 PROVIDE COMPENSATION INCREASES TO MEMBERS OF THE STATE
+13 HIGHWAY PATROL
+14 SECTION 4.(a) Effective July 1, 2025, there is appropriated from the General Fund
+15 to the Reserve for Compensation Increases to provide pay raises for the State Highway Patrol &
+16 Law Enforcement Support Staff the sum of forty million four hundred eighty-two thousand four
+17 hundred eighty dollars ($40,482,480) in each year of the 2025-2027 fiscal biennium to establish
+18 the pay scales set forth in this section.
+19 SECTION 4.(b) Effective July 1, 2025, the law enforcement officers of the State
+20 Highway Patrol shall be paid based upon the following experience-based annual salary schedule:
+21 Years of Experience 2025-2027 Biennium
+22 0 $56,000
+23 1 $62,125
+24 2 $68,250
+25 3 $75,375
+26 4 $80,500
+27 5 $86,625
+28 6 $92,750
+29 7 $98,875
+30 8+ $105,000
+31 SECTION 4.(c) Effective July 1, 2025, sworn State Highway Patrol employees who
+32 are not subject to an experience-based annual salary schedule shall be paid at the following rates
+33 by rank:
+34 Rank 2025-2027 Biennium
+35 Sergeant $120,750
+36 First Sergeant $132,825
+37 Lieutenant $146,108
+38 Captain $160,718
+39 Major $176,790
+40 Lieutenant Colonel $194,469
+41 Deputy Commander $204,193
+42 Colonel $224,612
+43
+44 JUVENILE JUSTICE PROGRAM SUPPORT AND STAFFING
+45 SECTION 5. Beginning in the 2026-2027 fiscal year, there is appropriated from the
+46 General Fund to the Department of Public Safety, Division of Juvenile Justice and Delinquency
+47 Prevention (JJDP), the sum of twenty-five million dollars ($25,000,000) in recurring funds to
+48 address staffing shortfalls and stabilize juvenile facility operations and juvenile court services,
+49 including recruitment and retention initiatives for hard-to-fill positions, experience-based salary
+50 schedule implementation or other compensation adjustments for frontline and supervisory
+51 classifications, training and onboarding capacity, and temporary staffing measures necessary to
+Page 4 House Bill 1080-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 maintain safe staffing coverage while vacancies are filled. The JJDP shall report to the Joint
+2 Legislative Oversight Committee on Justice and Public Safety, the Fiscal Research Division, and
+3 the chairs of the House of Representatives and Senate Appropriations Committees no later than
+4 March 1, 2027, and annually thereafter, on the use of funds and outcomes, including vacancy
+5 rates, turnover, time-to-hire, and overtime hours.
+6
+7 STATE CRIME LAB WORKFORCE COMPETITIVENESS
+8 SECTION 6. Beginning in the 2026-2027 fiscal year, there is appropriated from the
+9 General Fund to the Department of Justice, the sum of four million dollars ($4,000,000) in
+10 recurring funds to support the State Crime Laboratory in recruiting and retaining qualified
+11 personnel in a competitive labor market, including salary adjustments, targeted recruitment and
+12 retention incentives for hard-to-fill positions, and related workforce supports necessary to
+13 maintain timely and reliable forensic services. The Department shall report to the Fiscal Research
+14 Division and the Joint Legislative Oversight Committee on Justice and Public Safety by March
+15 1, 2027, and annually thereafter, on the use of funds and outcomes, including vacancy rates,
+16 turnover, time-to-hire, and turnaround times for major casework disciplines.
+17
+18 ENHANCE THE BENEFITS OF CORRECTIONAL OFFICERS WHO ARE MEMBERS
+19 OF THE TEACHERS' AND STATE EMPLOYEES' RETIREMENT SYSTEM
+20 SECTION 7.(a) G.S. 135-1 reads as rewritten:
+21 "§ 135-1. Definitions.
+22 The following words and phrases as used in this Chapter, unless a different meaning is plainly
+23 required by the context, shall have the following meanings:
+24 …
+25 (7e) "Correctional officer" means an employee of an employer who is certified as
+26 a State criminal justice officer under the provisions of Article 1 of Chapter
+27 17C of the General Statutes.
+28 …
+29 (11c) "Law-Enforcement Officer" means a full-time paid employee of an employer
+30 who is actively serving in a position with assigned primary duties and
+31 responsibilities for prevention and detection of crime or the general
+32 enforcement of the criminal laws of the State of North Carolina or serving
+33 civil processes, and who possesses the power of arrest by virtue of an oath
+34 administered under the authority of the State. "Law-Enforcement Officer" also
+35 means a all of the following:
+36 a. A probation/parole officer as defined in this section with respect to any
+37 service rendered on or after July 1, 2017.
+38 b. A correctional officer, as defined in this section, with respect to any
+39 service rendered on or after July 1, 2026.
+40 …."
+41 SECTION 7.(b) G.S. 143-166.41 reads as rewritten:
+42 "§ 143-166.41. Special separation allowance options for State law enforcement officers.
+43 …
+44 (b) Definitions. – The following definitions apply in this section:
+45 (1) Allowance. – The annual special separation allowance for State law
+46 enforcement officers provided for under this section.
+47 (1a) Correctional officer. – As defined in G.S. 135-1.
+48 (2) Creditable service. – The service for which credit is allowed under the
+49 retirement system of which the officer is a member.
+50 (3) Law enforcement officer. – As defined in either G.S. 135-1 or
+51 G.S. 143-166.30(a).
+House Bill 1080-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (4) Officer. – A law enforcement officer.
+2 (5) Probation/parole officer. – As defined in G.S. 135-1.
+3 (b1) Eligibility for Allowance and Calculation of Allowance Amount. – To be eligible for
+4 an allowance under this section, an officer is required to meet one of the following sets of criteria
+5 that shall also determine the allowance amount:
+6 (1) For officers meeting all of the following criteria, the annual special separation
+7 allowance to be paid is equal to eighty-five hundredths percent (0.85%) of the
+8 annual base rate of compensation most recently applicable to the officer for
+9 each year of that officer's creditable service:
+10 a. The officer (i) has completed 30 or more years of creditable service or
+11 (ii) is 55 years of age or older and completed five or more years of
+12 creditable service.
+13 b. The officer is less than 62 years of age.
+14 c. The officer has completed at least five years of continuous service as
+15 a law enforcement officer immediately preceding the officer's service
+16 retirement. Any break in this required continuous service that is a
+17 result of disability retirement or disability salary continuation benefits
+18 shall not adversely affect an officer's qualification to receive an
+19 allowance under this subdivision so long as the officer returned to
+20 service within 45 days after the disability benefits had ceased and is
+21 otherwise qualified to receive the allowance.
+22 d. At least fifty percent (50%) of the officer's creditable service is as
+23 meets one or more of the following:
+24 1. The service is as a law enforcement officer, or for officer.
+25 2. For service prior to July 1, 2017, the service is as a
+26 probation/parole officer.
+27 3. For service prior to July 1, 2026, the service is as a correctional
+28 officer.
+29 (2) For officers meeting all of the following criteria, the annual special separation
+30 allowance to be paid is equal to eighty-five hundredths percent (0.85%) of the
+31 annual equivalent of the base rate of compensation at the time the officer
+32 attained 30 years of service multiplied by 30:
+33 a. Prior to attaining 62 years of age, the officer has completed 30 or more
+34 years of creditable service, at least fifty percent (50%) of which was
+35 the officer's creditable service met one or more of the following:
+36 1. The service was as a law enforcement officer, or for officer.
+37 2. For service prior to July 1, 2017, the service was as a
+38 probation/parole officer.
+39 3. For service prior to July 1, 2026, the service was as a
+40 correctional officer.
+41 b. The officer has completed at least five years of continuous service as
+42 a law enforcement officer immediately preceding the officer's service
+43 retirement. Any break in this required continuous service that is a
+44 result of disability retirement or disability salary continuation benefits
+45 shall not adversely affect an officer's qualification to receive an
+46 allowance under this subdivision so long as the officer returned to
+47 service within 45 days after the disability benefits had ceased and is
+48 otherwise qualified to receive the allowance.
+49 If an officer meets all of the criteria under each subdivision of this subsection, then the
+50 employer making the allowance payments shall allow the officer to choose which of the two
+51 calculation formulas to use for that officer's allowance. This election by the officer is a one-time,
+Page 6 House Bill 1080-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 irrevocable election and shall be made prior to the first allowance payment. If no election is made
+2 by the officer, then the calculation amount under subdivision (2) of this subsection shall be used.
+3 …."
+4 SECTION 7.(c) There is appropriated from the General Fund to the Department of
+5 State Treasurer the sum of eleven million dollars ($11,000,000) in recurring funds beginning in
+6 the 2026-2027 fiscal year for the purposes of providing the enhanced benefits under this section.
+7 SECTION 7.(d) This section is effective July 1, 2026.
+8
+9 EFFECTIVE DATE
+10 SECTION 8. Except as otherwise provided, this act is effective when it becomes
+11 law.
+House Bill 1080-First Edition Page 7
+
+[DELETED:  1 P ( R A A A C O C I W A M C T A F F S I A T D O A M O T S H P T A F T M O P T A I F E A A O T D O J J A D P A C O W A M O T T A S W a w r W t G A f t h j d r s m W i t m W t G A f t t i i s c a T  P S a " ( A t]
+[DELETED:  S  H r s a ( E i ( C ( H ( P ( T ( P ( A a ( A s c e f a a b c t c w n r k t b ( T o s S a " ( A a f ( I g f ( U o e v s i b s m t ( I i ( R ( A g ( E b r p p s a e e a s m s p S T t s o t m d ( i n f f t 2 e o T t p t o r S f t a f a c w e p t f f a ( P ( T ( C e a w f e m i]
+[DELETED:  S  P ( A S e p t o r S f s s a r t t J L o F m ( E ( T ( E ( A ( E ( C ( A T r D L o t p S  C S t d a o t D d S t G F t t A B F 1 t s o t m d ( d a o b t c a n l 6 d a a p t r S S i L C a c i t s i ( c t t c s ( r i c l ( r i t i p a ( a i a  F F S I A W S I]
+[DELETED:  S  H S G d D i s a P ( p  P C I T M O T S H S t L h t S H Y 2 0 $ 1 $ 2 $ 3 $ 4 $ 5 $ 6 $ 7 $ 8 $ S a b R 2 S $ F $ L $ C $ M $ L $ D $ C $  J S G P a i s i o o c a f f a s c]
+[DELETED:  S  P m L t M r  S S G r f t s t S C L i r a r q p r i f h p a r w s n t m D 1 t  E O S " T r … ( " a 1 … ( " w i a s i a p w a p d a r f p a d o c o t g e c a m a A s b A s … S " … ( D ( A – T a s s a f S l e ( C ( C s – T s f w c i a u t r ( L e o – A d i e G o G]
+[DELETED:  S  H ( O ( P ( E a t ( F a a e a T ( c b T c T a r A b i t r c s t i a r s n a a a o q t r a a s o d A m 1 T 2 F s p t J 1 2 t s i a a p 3 F o ( F a a a a P y t 1 T 2 F s p t J 1 2 t s w a a p 3 F s p t J 1 2 t s w a a c b T a r A b i t r c s t i a r s n a a a o q t r a a s o I e c]
+[DELETED:  S  P i b … S S t S  E S l]

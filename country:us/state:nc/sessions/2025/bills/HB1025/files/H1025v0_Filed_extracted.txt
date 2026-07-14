@@ -1,0 +1,59 @@
+Title: HOUSE BILL DRH10570-NQ-2
+Official Title: HOUSE BILL DRH10570-NQ-2
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+H.B. 1025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 21, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Conetoe Mayor Voting Authority. (Local)
+Sponsors: Representative Willingham.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ALLOW THE MAYOR OF CONETOE TO VOTE IN ALL MATTERS BEFORE
+3 THE BOARD.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Section 3.3.6 of the Charter of the Town of Conetoe, being Chapter
+6 154 of the Private Laws of 1887, as amended, reads as rewritten:
+7 "3.3.6 Mayor Not to Vote: Mayor's Voting Authority: The Mayor shall not may vote on any
+8 question before the Board except in the case of a tie deadlocking decision of the Board of
+9 Commissioners.Board."
+10 SECTION 2. This act is effective when it becomes law.
+*DRH10570-NQ-2*
+[DELETED:  D C ( R  A A T T S 1 " q c C S]
+
+
+================================================================================
+
+Raw Text:
+H.B. 1025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 21, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH10570-NQ-2
+Short Title: Conetoe Mayor Voting Authority. (Local)
+Sponsors: Representative Willingham.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ALLOW THE MAYOR OF CONETOE TO VOTE IN ALL MATTERS BEFORE
+3 THE BOARD.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Section 3.3.6 of the Charter of the Town of Conetoe, being Chapter
+6 154 of the Private Laws of 1887, as amended, reads as rewritten:
+7 "3.3.6 Mayor Not to Vote: Mayor's Voting Authority: The Mayor shall not may vote on any
+8 question before the Board except in the case of a tie deadlocking decision of the Board of
+9 Commissioners.Board."
+10 SECTION 2. This act is effective when it becomes law.
+*DRH10570-NQ-2*
+
+[DELETED:  D C ( R  A A T T S 1 " q c C S]

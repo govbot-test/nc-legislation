@@ -1,0 +1,269 @@
+Title: HOUSE BILL DRH40647-NIf-197
+Official Title: HOUSE BILL DRH40647-NIf-197
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+H.B. 1032
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 21, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Repeal Two Percent Local Grocery Tax. (Public)
+Sponsors: Representative Chesser.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO EXEMPT GROCERIES FROM THE LOCAL SALES TAX.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. G.S. 105-465 reads as rewritten:
+5 "§ 105-465. County election as to adoption of local sales and use tax.
+6 …
+7 The county board of elections shall prepare ballots for the special election. The question
+8 presented on the ballot shall be "FOR one percent (1%) local sales and use tax on items subject
+9 to States sales and use tax at the general State rate and on food" rate" or "AGAINST one percent
+10 (1%) local sales and use tax on items subject to State sales and use tax at the general State rate
+11 and on food".rate."
+12 …."
+13 SECTION 2. G.S. 105-467 reads as rewritten:
+14 "§ 105-467. Scope of sales tax.
+15 (a) Sales Tax. – The sales tax that may be imposed under this Article is limited to a tax
+16 at the rate of one percent (1%) of the following:
+17 (1) A retailer's net taxable sales and gross receipts that are subject to the general
+18 rate of sales tax imposed by the State under G.S. 105-164.4 except the tax does
+19 not apply to the sales price of an item taxable under G.S. 105-164.4(a)(1a).
+20 (2) through (4) Repealed by Session Laws 2011-330, s. 45, effective June 27,
+21 2011.
+22 (5) The sales price of food that is not otherwise exempt from tax pursuant to
+23 G.S. 105-164.13 but is exempt from the State sales and use tax pursuant to
+24 G.S. 105-164.13B.
+25 (5a) The sales price of a bundled transaction that includes food subject to tax under
+26 subdivision (5) of this subsection, if the price of the food exceeds ten percent
+27 (10%) of the price of the bundle. A retailer must determine the price of food
+28 in a bundled transaction in accordance with G.S. 105-164.4D.
+29 (5b) Repealed by Session Laws 2013-3.4(c), effective July 1, 2014, and applicable
+30 to purchases made on or after that date.
+31 (6), (7) Repealed by Session Laws 2011-330, s. 45, effective June 27, 2011.
+32 (8) The presumed sales price of an item of tangible personal property under
+33 G.S. 105-164.12B.
+34 (b) Exemptions and Refunds. – The State exemptions and exclusions contained in Article
+35 5 of Subchapter I of this Chapter, except for the exemption for food in G.S. 105-164.13B, Chapter
+36 apply to the local sales and use tax authorized to be levied and imposed under this Article. The
+*DRH40647-NIf-197*
+General Assembly Of North Carolina Session 2025
+1 State refund provisions contained in G.S. 105-164.14 and G.S. 105-164.14A apply to the local
+2 sales and use tax authorized to be levied and imposed under this Article. A refund of an excessive
+3 or erroneous State sales tax collection allowed under G.S. 105-164.11 and a refund of State sales
+4 tax paid on a rescinded sale or cancelled service contract under G.S. 105-164.11A apply to the
+5 local sales and use tax authorized to be levied and imposed under this Article. The aggregate
+6 annual local refund amount allowed an entity under G.S. 105-164.14(b) for the State's fiscal year
+7 may not exceed thirteen million three hundred thousand dollars ($13,300,000).
+8 …."
+9 SECTION 3. G.S. 105-469 reads as rewritten:
+10 "§ 105-469. Secretary to collect and administer local sales and use tax.
+11 (a) The Secretary shall collect and administer a tax levied by a county pursuant to this
+12 Article. As directed by G.S. 105-164.13B, taxes levied by a county on food are administered as
+13 if they were levied by the State under Article 5 of this Chapter. The references in this section to
+14 Article 39 of this Chapter and Chapter 1096 of the 1967 Session Laws and Articles 40 and 42 of
+15 this Chapter do not include the adjustments made pursuant to G.S. 105-524. The Secretary must,
+16 on a monthly basis, distribute local taxes levied on food to the taxing counties as follows:
+17 (1) The Secretary must allocate one-half of the net proceeds on a per capita basis
+18 according to the most recent annual population estimates certified to the
+19 Secretary by the State Budget Officer. The Secretary must then adjust the
+20 amount allocated to each county as provided in G.S. 105-486(b). The
+21 Secretary must include one-half of the amount allocated under this subdivision
+22 in the distribution made under Article 40 of this Chapter and must include the
+23 remaining one-half in the distribution made under Article 42 of this Chapter.
+24 (2) The Secretary must allocate the remaining net proceeds proportionately to
+25 each taxing county based upon the amount of sales tax on food collected in
+26 the taxing county in the 1997-1998 fiscal year under Article 39 of this Chapter
+27 or under Chapter 1096 of the 1967 Session Laws relative to the total amount
+28 of sales tax on food collected in all taxing counties in the 1997-1998 fiscal
+29 year under Article 39 of this Chapter and under Chapter 1096 of the 1967
+30 Session Laws. The Secretary must include the amount allocated under this
+31 subdivision in the distribution made under Article 39 of this Chapter.
+32 (b) The Secretary shall require retailers who collect use tax on sales to North Carolina
+33 residents to ascertain the county of residence of each buyer and provide that information to the
+34 Secretary along with any other information necessary for the Secretary to allocate the use tax
+35 proceeds to the correct taxing county."
+36 SECTION 4. G.S. 105-506.2 reads as rewritten:
+37 "§ 105-506.2. Exemption of food.
+38 A tax levied under this Article does not apply to the sales price of food that is exempt from
+39 tax pursuant to G.S. 105-164.13B or to the sales price of a bundled transaction taxable pursuant
+40 to G.S. 105-467(a)(5a).G.S. 105-164.13B."
+41 SECTION 5. G.S. 105-538 reads as rewritten:
+42 "§ 105-538. Administration of taxes.
+43 …
+44 Except as provided in this Article, the adoption, levy, collection, administration, and repeal
+45 of these additional taxes must be in accordance with Article 39 of this Chapter. G.S. 105-468.1
+46 is an administrative provision that applies to this Article. A tax levied under this Article does not
+47 apply to the sales price of food that is exempt from tax pursuant to G.S. 105-164.13B or to the
+48 sales price of a bundled transaction taxable pursuant to G.S. 105-467(a)(5a). G.S. 105-164.13B.
+49 The Secretary shall not divide the amount allocated to a county between the county and the
+50 municipalities within the county."
+Page 2 DRH40647-NIf-197
+General Assembly Of North Carolina Session 2025
+1 SECTION 6. Section 9 of Chapter 1096 of the 1967 Session Laws, as amended by
+2 Section 2 of Chapter 12 of the 1979 Session Laws, Section 3 of Chapter 4 of the 1981 Session
+3 Laws, Section 13(e) of S.L. 2001-427, Section 45.11(c) of S.L. 2003-284, Section 27(b) of S.L.
+4 2003-416, and Section 19 of S.L. 2009-445, reads as rewritten:
+5 "Sec. 9. Distribution. The Secretary of Revenue must divide the net proceeds of the tax
+6 collected under this division on items other than food to Mecklenburg County and its
+7 municipalities in accordance with the ad valorem distribution method described in
+8 G.S. 105-472(b)(2). The Secretary of Revenue must distribute the taxes levied by Mecklenburg
+9 County on food to Mecklenburg County and the municipalities within Mecklenburg County in
+10 accordance with G.S. 105-469(a). This amount shall be divided between the county and its
+11 municipalities in accordance with the ad valorem distribution method described in
+12 G.S. 105-472(b)(2).
+13 The Secretary of Revenue must reduce the amount distributable to Mecklenburg County
+14 under this section by the amount set in G.S. 105-522. This reduction does not affect the amount
+15 allocated to municipalities under this section.
+16 If any provision of this Act or the application thereof to any person or circumstance is held
+17 invalid, such invalidity shall not affect other provisions or applications of the Act which can be
+18 given effect without the invalid provision or application, and to this end the provisions of this
+19 Act are declared to be severable."
+20 SECTION 7. G.S. 105-164.13B(b) is repealed.
+21 SECTION 8. This act becomes effective October 1, 2026, and applies to sales made
+22 on or after that date.
+DRH40647-NIf-197 Page 3
+[DELETED:  D R ( R  A A T S " … T p t ( a … S " ( S a ( A r n ( t 2 ( T G G ( T s ( i ( R t ( ( ( T p s p o a i o t p p u G ( E 5 a]
+[DELETED:  S  D S s o t l a m … S " ( T A i A t o ( T a t t m r a p e c t t S a a t e c a p i G 1 T S i r ( T e t o o y S s ( T r S p S " A t t S " … E o i a s T m]
+[DELETED:  S  P S S L 2 " c u t d o i o t f t M C a i m i a w t a v d m d i G C a w G T a s b d b t c a i m i a w t a v d m d i G T u a I i g A S S o]
+
+
+================================================================================
+
+Raw Text:
+H.B. 1032
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 21, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH40647-NIf-197
+Short Title: Repeal Two Percent Local Grocery Tax. (Public)
+Sponsors: Representative Chesser.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO EXEMPT GROCERIES FROM THE LOCAL SALES TAX.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. G.S. 105-465 reads as rewritten:
+5 "§ 105-465. County election as to adoption of local sales and use tax.
+6 …
+7 The county board of elections shall prepare ballots for the special election. The question
+8 presented on the ballot shall be "FOR one percent (1%) local sales and use tax on items subject
+9 to States sales and use tax at the general State rate and on food" rate" or "AGAINST one percent
+10 (1%) local sales and use tax on items subject to State sales and use tax at the general State rate
+11 and on food".rate."
+12 …."
+13 SECTION 2. G.S. 105-467 reads as rewritten:
+14 "§ 105-467. Scope of sales tax.
+15 (a) Sales Tax. – The sales tax that may be imposed under this Article is limited to a tax
+16 at the rate of one percent (1%) of the following:
+17 (1) A retailer's net taxable sales and gross receipts that are subject to the general
+18 rate of sales tax imposed by the State under G.S. 105-164.4 except the tax does
+19 not apply to the sales price of an item taxable under G.S. 105-164.4(a)(1a).
+20 (2) through (4) Repealed by Session Laws 2011-330, s. 45, effective June 27,
+21 2011.
+22 (5) The sales price of food that is not otherwise exempt from tax pursuant to
+23 G.S. 105-164.13 but is exempt from the State sales and use tax pursuant to
+24 G.S. 105-164.13B.
+25 (5a) The sales price of a bundled transaction that includes food subject to tax under
+26 subdivision (5) of this subsection, if the price of the food exceeds ten percent
+27 (10%) of the price of the bundle. A retailer must determine the price of food
+28 in a bundled transaction in accordance with G.S. 105-164.4D.
+29 (5b) Repealed by Session Laws 2013-3.4(c), effective July 1, 2014, and applicable
+30 to purchases made on or after that date.
+31 (6), (7) Repealed by Session Laws 2011-330, s. 45, effective June 27, 2011.
+32 (8) The presumed sales price of an item of tangible personal property under
+33 G.S. 105-164.12B.
+34 (b) Exemptions and Refunds. – The State exemptions and exclusions contained in Article
+35 5 of Subchapter I of this Chapter, except for the exemption for food in G.S. 105-164.13B, Chapter
+36 apply to the local sales and use tax authorized to be levied and imposed under this Article. The
+*DRH40647-NIf-197*
+
+General Assembly Of North Carolina Session 2025
+1 State refund provisions contained in G.S. 105-164.14 and G.S. 105-164.14A apply to the local
+2 sales and use tax authorized to be levied and imposed under this Article. A refund of an excessive
+3 or erroneous State sales tax collection allowed under G.S. 105-164.11 and a refund of State sales
+4 tax paid on a rescinded sale or cancelled service contract under G.S. 105-164.11A apply to the
+5 local sales and use tax authorized to be levied and imposed under this Article. The aggregate
+6 annual local refund amount allowed an entity under G.S. 105-164.14(b) for the State's fiscal year
+7 may not exceed thirteen million three hundred thousand dollars ($13,300,000).
+8 …."
+9 SECTION 3. G.S. 105-469 reads as rewritten:
+10 "§ 105-469. Secretary to collect and administer local sales and use tax.
+11 (a) The Secretary shall collect and administer a tax levied by a county pursuant to this
+12 Article. As directed by G.S. 105-164.13B, taxes levied by a county on food are administered as
+13 if they were levied by the State under Article 5 of this Chapter. The references in this section to
+14 Article 39 of this Chapter and Chapter 1096 of the 1967 Session Laws and Articles 40 and 42 of
+15 this Chapter do not include the adjustments made pursuant to G.S. 105-524. The Secretary must,
+16 on a monthly basis, distribute local taxes levied on food to the taxing counties as follows:
+17 (1) The Secretary must allocate one-half of the net proceeds on a per capita basis
+18 according to the most recent annual population estimates certified to the
+19 Secretary by the State Budget Officer. The Secretary must then adjust the
+20 amount allocated to each county as provided in G.S. 105-486(b). The
+21 Secretary must include one-half of the amount allocated under this subdivision
+22 in the distribution made under Article 40 of this Chapter and must include the
+23 remaining one-half in the distribution made under Article 42 of this Chapter.
+24 (2) The Secretary must allocate the remaining net proceeds proportionately to
+25 each taxing county based upon the amount of sales tax on food collected in
+26 the taxing county in the 1997-1998 fiscal year under Article 39 of this Chapter
+27 or under Chapter 1096 of the 1967 Session Laws relative to the total amount
+28 of sales tax on food collected in all taxing counties in the 1997-1998 fiscal
+29 year under Article 39 of this Chapter and under Chapter 1096 of the 1967
+30 Session Laws. The Secretary must include the amount allocated under this
+31 subdivision in the distribution made under Article 39 of this Chapter.
+32 (b) The Secretary shall require retailers who collect use tax on sales to North Carolina
+33 residents to ascertain the county of residence of each buyer and provide that information to the
+34 Secretary along with any other information necessary for the Secretary to allocate the use tax
+35 proceeds to the correct taxing county."
+36 SECTION 4. G.S. 105-506.2 reads as rewritten:
+37 "§ 105-506.2. Exemption of food.
+38 A tax levied under this Article does not apply to the sales price of food that is exempt from
+39 tax pursuant to G.S. 105-164.13B or to the sales price of a bundled transaction taxable pursuant
+40 to G.S. 105-467(a)(5a).G.S. 105-164.13B."
+41 SECTION 5. G.S. 105-538 reads as rewritten:
+42 "§ 105-538. Administration of taxes.
+43 …
+44 Except as provided in this Article, the adoption, levy, collection, administration, and repeal
+45 of these additional taxes must be in accordance with Article 39 of this Chapter. G.S. 105-468.1
+46 is an administrative provision that applies to this Article. A tax levied under this Article does not
+47 apply to the sales price of food that is exempt from tax pursuant to G.S. 105-164.13B or to the
+48 sales price of a bundled transaction taxable pursuant to G.S. 105-467(a)(5a). G.S. 105-164.13B.
+49 The Secretary shall not divide the amount allocated to a county between the county and the
+50 municipalities within the county."
+Page 2 DRH40647-NIf-197
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 6. Section 9 of Chapter 1096 of the 1967 Session Laws, as amended by
+2 Section 2 of Chapter 12 of the 1979 Session Laws, Section 3 of Chapter 4 of the 1981 Session
+3 Laws, Section 13(e) of S.L. 2001-427, Section 45.11(c) of S.L. 2003-284, Section 27(b) of S.L.
+4 2003-416, and Section 19 of S.L. 2009-445, reads as rewritten:
+5 "Sec. 9. Distribution. The Secretary of Revenue must divide the net proceeds of the tax
+6 collected under this division on items other than food to Mecklenburg County and its
+7 municipalities in accordance with the ad valorem distribution method described in
+8 G.S. 105-472(b)(2). The Secretary of Revenue must distribute the taxes levied by Mecklenburg
+9 County on food to Mecklenburg County and the municipalities within Mecklenburg County in
+10 accordance with G.S. 105-469(a). This amount shall be divided between the county and its
+11 municipalities in accordance with the ad valorem distribution method described in
+12 G.S. 105-472(b)(2).
+13 The Secretary of Revenue must reduce the amount distributable to Mecklenburg County
+14 under this section by the amount set in G.S. 105-522. This reduction does not affect the amount
+15 allocated to municipalities under this section.
+16 If any provision of this Act or the application thereof to any person or circumstance is held
+17 invalid, such invalidity shall not affect other provisions or applications of the Act which can be
+18 given effect without the invalid provision or application, and to this end the provisions of this
+19 Act are declared to be severable."
+20 SECTION 7. G.S. 105-164.13B(b) is repealed.
+21 SECTION 8. This act becomes effective October 1, 2026, and applies to sales made
+22 on or after that date.
+DRH40647-NIf-197 Page 3
+
+[DELETED:  D R ( R  A A T S " … T p t ( a … S " ( S a ( A r n ( t 2 ( T G G ( T s ( i ( R t ( ( ( T p s p o a i o t p p u G ( E 5 a]
+[DELETED:  S  D S s o t l a m … S " ( T A i A t o ( T a t t m r a p e c t t S a a t e c a p i G 1 T S i r ( T e t o o y S s ( T r S p S " A t t S " … E o i a s T m]
+[DELETED:  S  P S S L 2 " c u t d o i o t f t M C a i m i a w t a v d m d i G C a w G T a s b d b t c a i m i a w t a v d m d i G T u a I i g A S S o]

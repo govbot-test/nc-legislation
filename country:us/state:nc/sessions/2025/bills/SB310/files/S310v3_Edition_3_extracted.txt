@@ -1,0 +1,1335 @@
+Title: SENATE BILL 310
+Official Title: SENATE BILL 310
+Number of Sections: 1
+Source: versions - Edition 3
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 3
+Finance Committee Substitute Adopted 4/30/25
+House Committee Substitute Favorable 6/2/26
+Short Title: Criminal Law Changes. (Public)
+Sponsors:
+Referred to:
+March 18, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES RELATED TO THE CRIMINAL LAWS OF
+3 NORTH CAROLINA.
+4 The General Assembly of North Carolina enacts:
+5
+6 REVISE LAW PROHIBITING WILLFUL OR WANTON DISCHARGE OF CERTAIN
+7 BARRELED WEAPONS OR FIREARMS
+8 SECTION 1.(a) G.S. 14-34.1 reads as rewritten:
+9 "§ 14-34.1. Discharging Willful or wanton discharge of certain barreled weapons or a
+10 firearm into occupied property.firearm.
+11 (a) Any A person who willfully or wantonly discharges or attempts to discharge any
+12 firearm or barreled weapon capable of discharging shot, bullets, pellets, or other missiles at a
+13 muzzle velocity of at least 600 feet per second into any building, structure, vehicle, aircraft,
+14 watercraft, or other conveyance, device, equipment, erection, or enclosure while it is occupied is
+15 guilty of a Class E felony.
+16 (a1) Unless covered under some provision of law providing greater punishment, a person
+17 who willfully or wantonly discharges a weapon described in subsection (a) of this section in or
+18 on the property of another without the property owner's permission, on a public street or highway,
+19 or at any public place where persons other than the person who discharged the weapon are present
+20 is guilty of a Class E felony.
+21 (b) A person who willfully or wantonly discharges a weapon described in subsection (a)
+22 of this section into an occupied dwelling or into any occupied vehicle, aircraft, watercraft, or
+23 other conveyance that is in operation is guilty of a Class D felony.
+24 (c) If a person violates this section and the violation results in serious bodily injury to
+25 any person, the person is guilty of a Class C felony."
+26 SECTION 1.(b) This section becomes effective December 1, 2026, and applies to
+27 offenses committed on or after that date.
+28
+29 CREATE OFFENSE OF PREPARATION TO COMMIT LARCENY FROM A
+30 MERCHANT
+31 SECTION 2.(a) Article 16 of Chapter 14 of the General Statutes is amended by
+32 adding a new section to read:
+33 "§ 14-72.13. Preparation to commit larceny from a merchant.
+*S310-v-3*
+General Assembly Of North Carolina Session 2025
+1 (a) A person is guilty of a Class I felony if the person is found within the area of a retail
+2 establishment where goods are stored or offered for sale, with the intent to commit larceny from
+3 a merchant, and the person is in possession of, without lawful excuse, any of the following:
+4 (1) Any theft shielding device.
+5 (2) Any tool, instrument, or article designed or adapted to defeat, circumvent,
+6 deactivate, or remove any antishoplifting or inventory control device.
+7 (3) Any tool, instrument, or article designed or adapted to facilitate the
+8 concealment, removal, or carrying away of merchandise without payment.
+9 (b) For the purposes of this section, the following definitions apply:
+10 (1) Antishoplifting or inventory control device. – As defined in G.S. 14-72.11.
+11 (2) Theft detection shielding device. – Any laminated, coated, lined, or otherwise
+12 modified bag, container, or device designed or intended to shield merchandise
+13 from detection by an electronic or magnetic theft detection system."
+14 SECTION 2.(b) This section becomes effective December 1, 2026, and applies to
+15 offenses committed on or after that date.
+16
+17 INCREASE PUNISHMENT FOR SECRET PEEPING OFFENSES IN WHICH THE
+18 VICTIM IS A MINOR
+19 SECTION 3.(a) G.S. 14-202, as amended by S.L. 2025-70, reads as rewritten:
+20 "§ 14-202. Secretly peeping into room occupied by another person.
+21 (a) Any Unless covered under some provision of law providing greater punishment, any
+22 person who shall peep secretly into any room occupied by another person shall be guilty of a
+23 Class 1 misdemeanor.
+24 …
+25 (b) The following definitions apply in this section:
+26 (1) Custody. – As defined in G.S. 14-27.31.
+27 (2) Minor. – An individual who is less than 18 years of age.
+28 (1)(3) Photographic image. – Any photograph or photographic reproduction, still or
+29 moving, or any videotape, motion picture, or live television transmission, or
+30 any digital image of any individual.
+31 (2)(4) Private area of an individual. – The naked or undergarment clad genitals,
+32 pubic area, buttocks, or female breast of that individual.
+33 (3)(5) Room. – Includes, but is not limited to, a bedroom, a rest room, a bathroom, a
+34 shower, a dressing room, a dressing stall, a cubicle, or other similar area
+35 designed to provide privacy.
+36 (4)(6) Under circumstances in which that individual has a reasonable expectation of
+37 privacy. – Means either of the following:
+38 a. Circumstances in which a reasonable person would believe that he or
+39 she could disrobe in privacy, without being concerned that a
+40 photographic image of a private area of the individual was being
+41 created.
+42 b. Circumstances in which a reasonable person would believe that a
+43 private area of the individual would not be visible to the public,
+44 regardless of whether that person is in a public or private place.
+45 …
+46 (f) Any Unless covered under some provision of law providing greater punishment, any
+47 person who, for the purpose of arousing or gratifying the sexual desire of any person, secretly or
+48 surreptitiously uses or installs in a room any device that can be used to create a photographic
+49 image with the intent to capture the image of another without their consent shall be guilty of a
+50 Class I felony.
+Page 2 Senate Bill 310-Third Edition
+General Assembly Of North Carolina Session 2025
+1 (g) Any Unless covered under some provision of law providing greater punishment, any
+2 person who knowingly possesses a photographic image that the person knows, or has reason to
+3 believe, was obtained in violation of this section shall be guilty of a Class I felony.
+4 (h) Any Unless covered under some provision of law providing greater punishment, any
+5 person who disseminates or allows to be disseminated images that the person knows, or should
+6 have known, were obtained as a result of the violation of this section shall be guilty of a Class H
+7 felony if the dissemination is without the consent of the person in the photographic image.
+8 (i) Notwithstanding any other provision of this section, the following punishments apply:
+9 (1) Any person who commits a violation of this section in which the victim is a
+10 minor shall be guilty of an offense that is one class higher than the offense
+11 committed. If the offense committed is a Class A1 misdemeanor, the person
+12 shall be guilty of a Class I felony.
+13 (2) Any person who commits a violation of this section (i) in which the victim is
+14 a minor and (ii) while having custody of the minor victim shall be guilty of an
+15 offense two classes higher than the offense committed. If the offense
+16 committed is a Class 1 misdemeanor, the person shall be guilty of a Class I
+17 felony. If the offense committed is a Class A1 misdemeanor, the person shall
+18 be guilty of a Class H felony.
+19 (3) A second or subsequent felony conviction under this section shall be punished
+20 as though convicted of an offense one class higher. A second or subsequent
+21 conviction for a Class 1 misdemeanor shall be punished as a Class A1
+22 misdemeanor. A second or subsequent conviction for a Class A1 misdemeanor
+23 shall be punished as a Class I felony. An enhancement imposed pursuant to
+24 this subdivision shall apply in addition to any other enhancement imposed
+25 under this subsection.
+26 …."
+27 SECTION 3.(b) This section becomes effective December 1, 2026, and applies to
+28 offenses committed on or after that date.
+29
+30 INCREASE PUNISHMENT FOR DISRUPTING, DISTURBING, OR INTERFERING
+31 WITH A RELIGIOUS SERVICE OR ASSEMBLY
+32 SECTION 4.(a) G.S. 14-288.4 reads as rewritten:
+33 "§ 14-288.4. Disorderly conduct.
+34 (a) Disorderly conduct is a public disturbance intentionally caused by any person who
+35 does any of the following:
+36 …
+37 (7) Except as provided in subdivision (8) of this subsection, disrupts, disturbs, or
+38 interferes with a religious service or assembly or engages in conduct which
+39 disturbs the peace or order at any religious service or assembly.
+40 (8) Engages in conduct with the intent to impede, disrupt, disturb, or interfere
+41 with the orderly administration of any funeral, memorial service, or family
+42 processional to the funeral or memorial service, including a military funeral,
+43 service, or family processional, or with the normal activities and functions
+44 occurring in the facilities or buildings where a funeral or memorial service,
+45 including a military funeral or memorial service, is taking place. Any of the
+46 following conduct that occurs within two hours preceding, during, or within
+47 two hours after a funeral or memorial service shall constitute disorderly
+48 conduct under this subdivision:
+49 a. Displaying, within 500 feet of the ceremonial site, location being used
+50 for the funeral or memorial, or the family's processional route to the
+51 funeral or memorial service, any visual image that conveys fighting
+Senate Bill 310-Third Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 words or actual or imminent threats of harm directed to any person or
+2 property associated with the funeral, memorial service, or processional
+3 route.
+4 b. Uttering, within 500 feet of the ceremonial site, location being used
+5 for the funeral or memorial service, or the family's processional route
+6 to the funeral or memorial service, loud, threatening, or abusive
+7 language or singing, chanting, whistling, or yelling with or without
+8 noise amplification in a manner that would tend to impede, disrupt,
+9 disturb, or interfere with a funeral, memorial service, or processional
+10 route.
+11 c. Attempting to block or blocking pedestrian or vehicular access to the
+12 ceremonial site or location being used for a funeral or memorial.
+13 As used in this section the term "building or facility" includes the surrounding grounds and
+14 premises of any building or facility used in connection with the operation or functioning of such
+15 building or facility.
+16 (b) Except as provided in subsection (c) subsections (c) and (c1) of this section, any
+17 person who willfully engages in disorderly conduct is guilty of a Class 2 misdemeanor.
+18 (c) A person who commits a violation of subdivision (7) of subsection (a) of this section
+19 is guilty of:
+20 (1) A Class 1 misdemeanor for a first offense.
+21 (2) A Class H felony for a second or subsequent offense.
+22 (c1) A person who commits a violation of subdivision (8) of subsection (a) of this section
+23 is guilty of:
+24 (1) A Class 1 misdemeanor for a first offense.
+25 (2) A Class I felony for a second offense.
+26 (3) A Class H felony for a third or subsequent offense."
+27 SECTION 4.(b) This section becomes effective December 1, 2026, and applies to
+28 offenses committed on or after that date.
+29
+30 AUTHORIZE PROVISION OF CALL LOCATION INFORMATION TO LAW
+31 ENFORCEMENT UNDER CERTAIN EMERGENCY CIRCUMSTANCES
+32 SECTION 5.(a) Chapter 15A of the General Statutes is amended by adding a new
+33 Article to read:
+34 "Article 16C.
+35 "Provision of Wireless Call Location Information to Law Enforcement.
+36 "§ 15A-300.10. Provision of phone location information of a telecommunications device by
+37 wireless telecommunications carrier to law enforcement.
+38 (a) For purposes of this section, the term (i) "wireless telecommunications carrier" has
+39 the same meaning as a "commercial mobile radio service provider," as that term is defined in
+40 G.S. 143B-1400, and (ii) "public safety answering point" is as defined in G.S. 143B-1400.
+41 (b) At the request of a law enforcement officer, or an employee or agent of a public safety
+42 answering point on behalf of a law enforcement agency, who is acting in the course of the official
+43 duties of the officer, employee, or agent, a wireless telecommunications carrier shall provide,
+44 subject to any limitations under applicable federal law, available phone location information of
+45 a telecommunications device without delay if the officer, employee, or agent asserts either of the
+46 following:
+47 (1) The device that is the subject of the request was used to place a 911 call
+48 requesting emergency assistance.
+49 (2) There is reasonable suspicion that the device that is the subject of the request
+50 is in the possession of an individual who is involved in an emergency situation
+51 that involves risk of death or serious physical harm.
+Page 4 Senate Bill 310-Third Edition
+General Assembly Of North Carolina Session 2025
+1 (c) Notwithstanding any other provision of law to the contrary, nothing in this section
+2 prohibits a wireless telecommunications carrier from establishing protocols by which the carrier
+3 voluntarily discloses phone location information of a telecommunications device.
+4 (d) No cause of action shall lie in any court against any wireless telecommunications
+5 carrier, its officers, employees, agents, or other specified persons for providing phone location
+6 information of a telecommunications device while acting in good faith and in accordance with
+7 the provisions of this section.
+8 (e) All wireless telecommunications carriers registered to do business in this State or
+9 submitting to the jurisdiction thereof and all resellers of wireless telecommunications services
+10 shall submit their emergency contact information to the State Bureau of Investigation in order to
+11 facilitate requests from a law enforcement agency for call location information in accordance
+12 with this section. This contact information shall be submitted annually by June 15 or immediately
+13 upon any change in contact information. The State Bureau of Investigation shall maintain a
+14 database containing emergency contact information for all wireless telecommunications carriers
+15 registered to do business in this State and shall make the information immediately available upon
+16 request to all public safety answering points in this State."
+17 SECTION 5.(b) The State Bureau of Investigation shall adopt temporary rules to
+18 implement the provisions of this act. Temporary rules adopted in accordance with this act shall
+19 remain in effect until permanent rules that replace the temporary rules become effective.
+20 SECTION 5.(c) This section becomes effective July 1, 2026.
+21
+22 PROVISIONS RELATING TO MAGISTRATES' REQUIREMENT TO EXPLAIN A
+23 FINDING OF NO PROBABLE CAUSE IN IMPLIED CONSENT CASES
+24 SECTION 6.(a) G.S. 15A-511 is amended by adding a new subsection to read:
+25 "(c1) Written Findings for Implied Consent Offense. – If the magistrate determines there is
+26 no probable cause for an implied consent offense, as defined in G.S. 20-16.2, the magistrate shall
+27 provide a written explanation on a form approved by the Administrative Office of the Courts
+28 which shall contain, at a minimum, all of the following:
+29 (1) When performed, the result of any alcohol or other impairing substance
+30 screening test.
+31 (2) When performed, the results of any standardized field sobriety tests.
+32 (3) When performed, the results of any drug recognition expert evaluation.
+33 (4) When available, the alcohol concentration or the fact that the driver refused
+34 the implied consent test.
+35 (5) Whether a blood sample for analysis was obtained from the defendant.
+36 (6) The element or elements of the offense charged that the magistrate believes
+37 are missing that led to the determination that probable cause did not exist.
+38 (7) The signature of the magistrate.
+39 A copy of the form required by this subsection shall be sent to the head of the law enforcement
+40 agency that employed the charging officer, and to the chief district court judge and district
+41 attorney for the judicial district, and filed with the court. The Administrative Office of the Courts
+42 shall electronically record this data in its database and make it available upon request."
+43 SECTION 6.(b) This section becomes effective December 1, 2026, and applies to
+44 initial appearances on or after that date.
+45
+46 REVISION RELATED TO THE OFFENSE OF AIDING OR ABETTING THE SALE TO
+47 OR PURCHASE BY UNDERAGE PERSONS OF ALCOHOLIC BEVERAGES
+48 SECTION 7.(a) G.S. 18B-302(c)(2) reads as rewritten:
+49 "(2) By Person over Lawful Age. – Any Except as otherwise provided in this
+50 subdivision, any person who is over the lawful age to purchase and who aids
+51 or abets another in violation of subsection (a), (a1), or (b) of this section is
+Senate Bill 310-Third Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 guilty of a Class 1 misdemeanor. Any person who is over the lawful age to
+2 purchase and who aids or abets a person under the lawful age to purchase in
+3 violation of subsection (a), (a1), or (b) of this section is guilty of a Class F
+4 felony if the person under the lawful age to purchase consumed the alcoholic
+5 beverage involved in the violation and serious bodily injury to the person
+6 under lawful age or another results that was proximately caused by the
+7 consumption of the alcoholic beverage. For purposes of this subdivision, the
+8 term "serious bodily injury" is as defined in G.S. 14-32.4."
+9 SECTION 7.(b) G.S. 18B-302.1(b) reads as rewritten:
+10 "(b) A violation of G.S. 18B-302(c)(2) is either a Class 1 misdemeanor. misdemeanor or
+11 a Class F felony. Notwithstanding the provisions of G.S. 15A-1340.17 and G.S. 15A-1340.23, if
+12 the court imposes a sentence that does not include an active punishment, the court must include
+13 among the conditions of probation a requirement that the person pay a fine of at least five hundred
+14 dollars ($500.00) as authorized by G.S. 15A-1343(b)(9) and a requirement that the person
+15 complete at least 25 hours of community service, as authorized by G.S. 15A-1343(b1)(6). If the
+16 person has a previous conviction of this offense in the four years immediately preceding the date
+17 of the current offense, and the court imposes a sentence that does not include an active
+18 punishment, the court must include among the conditions of probation a requirement that the
+19 person pay a fine of at least one thousand dollars ($1,000) as authorized by G.S. 15A-1343(b)(9)
+20 and a requirement that the person complete at least 150 hours of community service, as authorized
+21 by G.S. 15A-1343(b1)(6)."
+22 SECTION 7.(c) This section becomes effective December 1, 2026, and applies to
+23 offenses committed on or after that date.
+24
+25 PROVISIONS RELATING TO REDUCING UNNECESSARY MOTIONS IN COURT
+26 AND ALLOWING ORAL FLUID DRUG SCREENING TESTS
+27 SECTION 8.(a) G.S. 20-16.3 reads as rewritten:
+28 "§ 20-16.3. Alcohol and drug screening tests required of certain drivers; approval of test
+29 devices and manner of use by Department of Health and Human Services; use
+30 of test results or refusal.
+31 (a) When Alcohol or Drug Screening Test May Be Required; Not an Arrest. – A
+32 law-enforcement officer may require the driver of a vehicle to submit to an alcohol screening test
+33 within a relevant time after the driving test, drug screening test, or an alcohol screening test and
+34 a drug screening test, if the officer has:has either of the following:
+35 (1) Reasonable grounds to believe that the driver has consumed alcohol alcohol,
+36 an impairing substance other than alcohol, or alcohol and an impairing
+37 substance other than alcohol, and has:has done either of the following:
+38 a. Committed a moving traffic violation; orviolation.
+39 b. Been involved in an accident or collision; orcollision.
+40 (2) An articulable and reasonable suspicion that the driver has committed an
+41 implied-consent offense under G.S. 20-16.2, and the driver has been lawfully
+42 stopped for a driver's license check or otherwise lawfully stopped or lawfully
+43 encountered by the officer in the course of the performance of the officer's
+44 duties.
+45 Requiring a driver to submit to an alcohol screening a test in accordance with this section does
+46 not in itself constitute an arrest.
+47 (b) Approval of Alcohol Screening Devices and Manner of Use. – The Department of
+48 Health and Human Services is directed to examine and approve devices suitable for use by
+49 law-enforcement officers in making on-the-scene tests of drivers for alcohol concentration. For
+50 each alcohol screening device or class of devices approved, the Department must adopt
+51 regulations governing the manner of use of the device. For any alcohol screening device that tests
+Page 6 Senate Bill 310-Third Edition
+General Assembly Of North Carolina Session 2025
+1 the breath of a driver, the Department is directed to specify in its regulations the shortest feasible
+2 minimum waiting period that does not produce an unacceptably high number of false positive
+3 test results.
+4 (b1) Approval of Oral Drug Screening Devices and Manner of Use. – The Department of
+5 Health and Human Services is directed to examine and approve oral fluid drug screening devices
+6 suitable for use by law-enforcement officers to test drivers for the presence of impairing
+7 substances other than alcohol in oral fluids. For each device or class of devices approved, the
+8 Department must adopt regulations governing the manner of use of the device and the level of
+9 training required for officers who are authorized to use the device. The Department is directed to
+10 specify in its regulations the shortest feasible minimum waiting period that does not produce an
+11 unacceptably high number of false positive test results.
+12 (c) Tests Must Be Made with Approved Devices and in Approved Manner. – No
+13 screening test for alcohol concentration is a valid one under this section unless the device used is
+14 one approved by the Department and the screening test is conducted in accordance with the
+15 applicable regulations of the Department as to the manner of its use.
+16 (d) Use of Screening Test Results or Refusal by Officer. – The fact that a driver (i)
+17 showed a positive or negative result on an alcohol screening test, test, but not the actual alcohol
+18 concentration result, result, (ii) showed a positive or negative result on an oral fluid drug
+19 screening test, or a driver's refusal (iii) refused to submit to a test may be used by a
+20 law-enforcement officer, is admissible in a court, or may also be used by an administrative
+21 agency in determining if there are reasonable grounds for believing:or probable cause to believe
+22 any of the following:
+23 (1) That the driver has committed an implied-consent offense under G.S. 20-16.2;
+24 andG.S. 20-16.2.
+25 (2) That For an alcohol screening test, that the driver had consumed alcohol and
+26 that the driver had in his or her body previously consumed alcohol, but not to
+27 prove a particular alcohol concentration. Negative or low results on the
+28 alcohol screening test may be used in factually appropriate cases by the
+29 officer, a court, or an administrative agency in determining whether a person's
+30 alleged impairment is caused by an impairing substance other than alcohol.
+31 (3) For an oral fluid drug screening test, that the driver had consumed one or more
+32 impairing substances other than alcohol and had in his or her body one or more
+33 previously consumed impairing substances other than alcohol."
+34 SECTION 8.(b) G.S. 20-138.7(d) reads as rewritten:
+35 "(d) Alcohol Screening Test. – Notwithstanding any other provision of law, an alcohol
+36 screening test may be administered to a driver suspected of violating subsection (a) of this
+37 section, and the results of an alcohol screening test or the driver's refusal to submit may be used
+38 by a law enforcement officer, a court, or an administrative agency in determining if alcohol was
+39 present in the driver's body. No alcohol screening tests are valid under this section unless the
+40 device used is one approved by the Commission for Public Health, Department of Health and
+41 Human Services, and the screening test is conducted in accordance with the applicable
+42 regulations of the Commission Department of Health and Human Services as to the manner of
+43 its use."
+44 SECTION 8.(c) G.S. 15A-534.2(d)(2) reads as rewritten:
+45 "(2) For any purpose in any proceeding if the test was not performed by a method
+46 approved by the Commission for Public Health Department of Health and
+47 Human Services under G.S. 20-139.1 and by a person licensed to administer
+48 the test by the Department of Health and Human Services."
+49 SECTION 8.(d) This section becomes effective December 1, 2026, and applies to
+50 offenses committed on or after that date.
+51
+Senate Bill 310-Third Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 PROVISIONS RELATING TO PROHIBITING TRANSPORTATION NETWORK
+2 COMPANY (TNC) DRIVERS FROM DRIVING AFTER CONSUMING ALCOHOL
+3 AND PROVIDING FOR EDUCATION FOR TNC DRIVERS
+4 SECTION 9.(a) G.S. 20-17(a) is amended by adding a new subdivision to read:
+5 "(13a) A second or subsequent conviction, as defined in G.S. 20-138.2B(d), of
+6 driving a TNC service vehicle after consuming alcohol under
+7 G.S. 20-138.2B."
+8 SECTION 9.(b) G.S. 20-138.2B reads as rewritten:
+9 "§ 20-138.2B. Operating a school bus, school activity bus, child care vehicle, ambulance,
+10 other EMS vehicle, firefighting vehicle, or law enforcement vehicle vehicle, or
+11 TNC service vehicle after consuming alcohol.
+12 (a) Offense. – A person commits the offense of operating a school bus, school activity
+13 bus, child care vehicle, ambulance, other emergency medical services vehicle, firefighting
+14 vehicle, or law enforcement vehicle vehicle, or TNC service vehicle after consuming alcohol if
+15 the person drives a school bus, school activity bus, child care vehicle, ambulance, other
+16 emergency medical services vehicle, firefighting vehicle, or law enforcement vehicle vehicle, or
+17 TNC service vehicle upon any highway, any street, or any public vehicular area within the State
+18 while consuming alcohol or while alcohol remains in the person's body. This section does not
+19 apply to law enforcement officers acting in the course of, and within the scope of, their official
+20 duties. For purposes of this section, the term "TNC service vehicle" means a motor vehicle being
+21 operated for the purpose of providing a TNC service, as that term is defined in G.S. 20-280.1.
+22 …."
+23 SECTION 9.(c) G.S. 20-280.6 reads as rewritten:
+24 "§ 20-280.6. Background checks.
+25 (a) Prior to permitting an individual to act as a TNC driver, the transportation network
+26 company must do all of the following:
+27 …
+28 (4) Require the individual to agree in writing that the individual will not act as a
+29 TNC driver while consuming alcohol or at any time while the driver has
+30 remaining in the driver's body any alcohol or controlled substance previously
+31 consumed. This subdivision does not apply to any controlled substance that
+32 was lawfully obtained and taken in therapeutically appropriate amounts.
+33 …
+34 (c) The transportation network company must not permit an individual to act as a TNC
+35 driver if any of the following apply:
+36 …
+37 (2) Has been convicted within the past seven years of driving under the influence
+38 of drugs or alcohol, fraud, sexual offenses, use of a motor vehicle to commit
+39 a felony, or a crime involving property damage, theft, acts of violence, or acts
+40 of terror.
+41 (2a) Has been convicted within the past seven years of a second or subsequent
+42 conviction, as defined in G.S. 20-138.2B(d), of driving a TNC service vehicle
+43 after consuming alcohol under G.S. 20-138.2B.
+44 …."
+45 SECTION 9.(d) Transportation network companies (TNCs) shall notify all TNC
+46 drivers providing TNC services at the time of the effective date of this section of the requirement
+47 set forth in G.S. 20-280.6(a)(4), as enacted by subsection (c) of this section. A TNC shall not
+48 permit an individual subject to this subsection to act as a TNC driver if the individual does not
+49 comply with the requirement set forth in G.S. 20-280.6(a)(4) by no later than 12 months from the
+50 effective date of this section.
+Page 8 Senate Bill 310-Third Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 9.(e) Subsections (a) and (b) of this section become effective December
+2 1, 2026, and apply to offenses committed on or after that date. The remainder of this section
+3 becomes effective December 1, 2026.
+4
+5 PROVISIONS RELATED TO ALLOWING REPEAT OFFENDERS A METHOD TO
+6 PROVE THEIR SOBRIETY AND OBTAIN A LEGAL METHOD TO OPERATE A
+7 VEHICLE
+8 SECTION 10.(a) G.S. 20-19 is amended by adding a new subsection to read:
+9 "(d1) Notwithstanding any other provision of law, when a person's license is revoked for
+10 an impaired driving offense and the person is sentenced pursuant to G.S. 20-179, the Division
+11 may conditionally restore the person's license after it has been revoked for at least one year if the
+12 person (i) provides the Division with a certificate of graduation from a Drug Treatment or Driving
+13 While Impaired (DWI) Treatment Court Program established pursuant to Article 62 of Chapter
+14 7A of the General Statutes and (ii) successfully completes a Division-approved driver
+15 improvement clinic described in G.S. 20-16. If the Division restores the person's license, it shall
+16 place all of the following restrictions, requirements, and conditions on the person for the duration
+17 of the original revocation period:
+18 (1) A requirement that all registered vehicles owned by that person be equipped
+19 with a functioning ignition interlock system in accordance with
+20 G.S. 20-17.8(c1).
+21 (2) A restriction that the person may operate only a motor vehicle equipped with
+22 a functioning ignition interlock system of a type approved by the
+23 Commissioner that is set to prohibit driving with an alcohol concentration of
+24 greater than 0.02.
+25 (3) A requirement that the person personally activate the ignition interlock system
+26 before driving the motor vehicle.
+27 Notwithstanding the provisions of G.S. 20-17.8, the Division may, in lieu of an ignition
+28 interlock system, impose a requirement that a person whose license has been conditionally
+29 restored pursuant to this subsection prove abstention from the consumption of alcohol by use of
+30 a continuous alcohol monitoring system approved under G.S. 15A-1343.3. The provider of the
+31 continuous alcohol monitoring system shall send reports prepared in accordance with this
+32 subsection to the Division.
+33 In addition, the Division may place other reasonable restrictions, requirements, and
+34 conditions on the person for the duration of the original revocation period."
+35 SECTION 10.(b) This section becomes effective December 1, 2026.
+36
+37 PROVISIONS RELATED TO TRANSPARENCY IN COURT PROCEEDINGS
+38 INVOLVING IMPAIRED DRIVERS
+39 SECTION 11. Section 33 of S.L. 2006-253, as amended by Section 5 of S.L.
+40 2007-493, reads as rewritten:
+41 "SECTION 33. Section 6 becomes effective August 21, 2006, and applies to hearings held
+42 on or after that date. Sections 20.1, 20.2, and the requirement that the Administrative Office of
+43 the Courts electronically record certain data contained in subsection (c) of G.S. 20-138.4, as
+44 amended by Section 19 of this act, become effective after the next rewrite of the superior court
+45 clerks system by the Administrative Office of the Courts. December 1, 2026. Section 22.4
+46 becomes effective December 1, 2006. The remainder of this act becomes effective December 1,
+47 2006, and applies to offenses committed on or after that date."
+48
+49 REMOVAL OF PROVISIONS RELATING TO SPEEDING TO ELUDE ARREST
+50 EVIDENCE
+51 SECTION 12.(a) G.S. 20-141.5 reads as rewritten:
+Senate Bill 310-Third Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 "§ 20-141.5. Speeding to elude arrest; seizure and sale of vehicles.
+2 (a) It shall be unlawful for any person to operate a motor vehicle on a street, highway, or
+3 public vehicular area while fleeing or attempting to elude a law enforcement officer who is in the
+4 lawful performance of his duties. Except as provided in subsection (b) of this section, violation
+5 of this section shall be a Class 1 misdemeanor.
+6 (b) If two or more of the following aggravating factors are present at the time the violation
+7 occurs, violation of this section shall be a Class H felony.
+8 (1) Speeding in excess of 15 miles per hour over the legal speed limit.
+9 (2) Gross impairment of the person's faculties while driving due to:
+10 a. Consumption of an impairing substance; or
+11 b. A blood alcohol concentration of 0.14 or more within a relevant time
+12 after the driving.
+13 (3) Reckless driving as proscribed by G.S. 20-140.
+14 (4) Negligent driving leading to an accident causing:
+15 a. Property damage in excess of one thousand dollars ($1,000); or
+16 b. Personal injury.
+17 (5) Driving when the person's drivers license is revoked.
+18 (6) Driving in excess of the posted speed limit, during the days and hours when
+19 the posted limit is in effect, on school property or in an area designated as a
+20 school zone pursuant to G.S. 20-141.1, or in a highway work zone as defined
+21 in G.S. 20-141(j2).
+22 (7) Passing a stopped school bus as proscribed by G.S. 20-217.
+23 (8) Driving with a child under 12 years of age in the vehicle.
+24 (b1) When a violation of subsection (a) of this section is the proximate cause of the death
+25 of any person, the person violating subsection (a) of this section shall be guilty of a Class H
+26 felony. When a violation of subsection (b) of this section is the proximate cause of the death of
+27 any person, the person violating subsection (b) of this section shall be guilty of a Class E felony.
+28 (c) Whenever evidence is presented in any court or administrative hearing of the fact that
+29 a vehicle was operated in violation of this section, it shall be prima facie evidence that the vehicle
+30 was operated by the person in whose name the vehicle was registered at the time of the violation,
+31 according to the Division's records. If the vehicle is rented, then proof of that rental shall be prima
+32 facie evidence that the vehicle was operated by the renter of the vehicle at the time of the
+33 violation.
+34 (d) The Division shall suspend, for up to one year, the drivers license of any person
+35 convicted of a misdemeanor under this section. The Division shall revoke, for two years, the
+36 drivers license of any person convicted of a felony under this section if the person was convicted
+37 on the basis of the presence of two of the aggravating factors listed in subsection (b) of this
+38 section. The Division shall revoke, for three years, the drivers license of any person convicted of
+39 a felony under this section if the person was convicted on the basis of the presence of three or
+40 more aggravating factors listed in subsection (b) of this section. In the case of a first felony
+41 conviction under this section where only two aggravating factors were present, the licensee may
+42 apply to the sentencing court for a limited driving privilege after a period of 12 months of
+43 revocation, provided the operator's license has not also been revoked or suspended under any
+44 other provision of law. A limited driving privilege issued under this subsection shall be valid for
+45 the period of revocation remaining in the same manner and under the terms and conditions
+46 prescribed in G.S. 20-16.1(b). If the person's license is revoked under any other statute, the
+47 limited driving privilege issued pursuant to this subsection is invalid.
+48 (e) When the probable cause of the law enforcement officer is based on the prima facie
+49 evidence rule set forth in subsection (c) above, the officer shall make a reasonable effort to
+50 contact the registered owner of the vehicle prior to initiating criminal process.
+Page 10 Senate Bill 310-Third Edition
+General Assembly Of North Carolina Session 2025
+1 (f) Each law enforcement agency shall adopt a policy applicable to the pursuit of fleeing
+2 or eluding motorists. Each policy adopted pursuant to this subsection shall specifically include
+3 factors to be considered by an officer in determining when to initiate or terminate a pursuit. The
+4 Attorney General shall develop a model policy or policies to be considered for use by law
+5 enforcement agencies.
+6 (g) through (j) Repealed by Session Laws 2013-243, s. 6, effective December 1, 2013,
+7 and applicable to offenses committed on or after that date.
+8 (k) If a person is convicted of a violation of subsection (b) or (b1) of this section, the
+9 motor vehicle that was driven by the defendant at the time the defendant committed the offense
+10 of felony speeding to elude arrest becomes property subject to forfeiture in accordance with the
+11 procedure set out in G.S. 20-28.2, 20-28.3, 20-28.4, and 20-28.5."
+12 SECTION 12.(b) This section becomes effective December 1, 2026, and applies to
+13 offenses committed on or after that date.
+14
+15 ADD RECOGNITION OF MILITARY-ISSUED PROTECTIVE ORDERS AS A
+16 CRIMINAL VIOLATION
+17 SECTION 13.(a) G.S. 50B-1 reads as rewritten:
+18 "§ 50B-1. Domestic violence; definition.
+19 (a) Domestic violence means the commission of one or more of the following acts upon
+20 an aggrieved party or upon a minor child residing with or in the custody of the aggrieved party
+21 by a person with whom the aggrieved party has or has had a personal relationship, but does not
+22 include acts of self-defense:
+23 (1) Attempting to cause bodily injury, or intentionally causing bodily injury; or
+24 (2) Placing the aggrieved party or a member of the aggrieved party's family or
+25 household in fear of imminent serious bodily injury or continued harassment,
+26 as defined in G.S. 14-277.3A, that rises to such a level as to inflict substantial
+27 emotional distress; or
+28 (3) Committing any act defined in G.S. 14-27.21 through G.S. 14-27.33.
+29 (b) For purposes of this section, the term "personal relationship" means a relationship
+30 wherein the parties involved:
+31 (1) Are current or former spouses;
+32 (2) Are persons of opposite sex who live together or have lived together;
+33 (3) Are related as parents and children, including others acting in loco parentis to
+34 a minor child, or as grandparents and grandchildren. For purposes of this
+35 subdivision, an aggrieved party may not obtain an order of protection against
+36 a child or grandchild under the age of 16;
+37 (4) Have a child in common;
+38 (5) Are current or former household members;
+39 (6) Are persons of the opposite sex who are in a dating relationship or have been
+40 in a dating relationship. For purposes of this subdivision, a dating relationship
+41 is one wherein the parties are romantically involved over time and on a
+42 continuous basis during the course of the relationship. A casual acquaintance
+43 or ordinary fraternization between persons in a business or social context is
+44 not a dating relationship.
+45 (c) As used in this Chapter, the term "protective order" includes any order entered
+46 pursuant to this Chapter upon hearing by the court or consent of the parties.
+47 (d) As used in this Chapter, the term "military protective order" means a protective order
+48 issued in accordance with 10 U.S.C. § 1567 by a commanding officer in the Armed Forces of the
+49 United States or the National Guard of any state against a person under that officer's command."
+50 SECTION 13.(b) G.S. 50B-2(c)(1) reads as rewritten:
+51 "(c) Ex Parte Orders. –
+Senate Bill 310-Third Edition Page 11
+General Assembly Of North Carolina Session 2025
+1 (1) Prior to the hearing, if it clearly appears to the court from specific facts shown,
+2 that there is a danger of acts of domestic violence against the aggrieved party
+3 or a minor child, the court may enter orders as it deems necessary to protect
+4 the aggrieved party or minor children from those acts. The existence of a
+5 verifiable order of protection issued previously or from another jurisdiction,
+6 including a military protective order, may be considered evidence of the
+7 potential for future danger of acts of domestic violence against the aggrieved
+8 party or a minor child."
+9 SECTION 13.(c) G.S. 50B-4.1 reads as rewritten:
+10 "§ 50B-4.1. Violation of valid protective order.
+11 (a) Except as otherwise provided by law, a person who knowingly violates a valid
+12 protective order entered pursuant to this Chapter or who knowingly violates a valid protective
+13 order entered by the courts of another state or the courts of an Indian tribe tribe, or a valid military
+14 protective order, shall be guilty of a Class A1 misdemeanor.
+15 (b) A law enforcement officer shall arrest and take a person into custody, with or without
+16 a warrant or other process, if the officer has probable cause to believe that the person knowingly
+17 has violated a valid protective order excluding the person from the residence or household
+18 occupied by a victim of domestic violence or directing the person to refrain from doing any or
+19 all of the acts specified in G.S. 50B-3(a)(9).
+20 (c) When a law enforcement officer makes an arrest under this section without a warrant,
+21 and the party arrested contests that the out-of-state order or the order issued by an Indian court
+22 remains in full force and effect, the party arrested shall be promptly provided with a copy of the
+23 information applicable to the party which appears on the National Crime Information Center
+24 registry by the sheriff of the county in which the arrest occurs.
+25 (c1) When (i) a law enforcement officer has probable cause to believe that a person
+26 committed a violation of this section, (ii) that officer determines a military protective order
+27 entered into the National Crime Information Center registry was also issued against that person,
+28 and (iii) the officer has probable cause to believe that the person also violated the military
+29 protective order, the officer, or his or her employing agency, must notify the agency that entered
+30 the military protective order into the registry.
+31 …."
+32 SECTION 13.(d) This section becomes effective December 1, 2026, and applies to
+33 violations issued and offenses committed on or after that date.
+34
+35 SHERIFF'S BOND
+36 SECTION 14. G.S. 162-8 reads as rewritten:
+37 "§ 162-8. Bond required.
+38 The sheriff shall furnish a bond payable to the State of North Carolina for the due execution
+39 and return of process, the payment of fees and moneys collected, and the faithful execution of
+40 his office as sheriff, which shall be conditioned as follows:
+41 The condition of the above obligation is such that, whereas the above bounden ______ is
+42 elected and appointed sheriff of ______ County; if therefore, he shall well and truly execute and
+43 due return make of all process and precepts to him directed, and pay and satisfy all fees and sums
+44 of money by him received or levied by virtue of any process into the proper office into which the
+45 same, by the tenor thereof, ought to be paid, or to the person to whom the same shall be due, his
+46 executors, administrators, attorneys, or agents; and in all other things well and truly and faithfully
+47 execute the said office of sheriff during his continuance therein, then above obligation to be
+48 void; otherwise to remain in full force and effect.
+49 The amount of the bond shall be determined by the board of county commissioners, but shall
+50 not exceed twenty-five thousand dollars ($25,000).
+Page 12 Senate Bill 310-Third Edition
+General Assembly Of North Carolina Session 2025
+1 If a suit is maintained against the sheriff and the sheriff's surety upon their respective bond
+2 and the surety is required to pay out on the bond, the county shall reimburse the surety on behalf
+3 of the sheriff for the amount paid by the surety on the bond, including reasonable and necessary
+4 expenses incurred by the surety related to the claim against the bond. The county shall not bear
+5 the cost of reimbursing the surety for recovery of the moneys paid by the surety on the bond if
+6 the conduct that gave rise to the claim against the sheriff's bond resulted in the conviction of the
+7 sheriff of a felony."
+8
+9 CRIMINAL SAVINGS CLAUSE
+10 SECTION 15. Prosecutions for offenses committed before the effective date of this
+11 act are not abated or affected by this act, and the statutes that would be applicable but for this act
+12 remain applicable to those prosecutions.
+13
+14 EFFECTIVE DATE
+15 SECTION 16. Except as otherwise provided, this act is effective when it becomes
+16 law.
+Senate Bill 310-Third Edition Page 13
+[DELETED:  3 C (   A A A T M V C R T T C L O N T  R B S " f ( A f m w g ( U w o o i ( A o o ( I a S o  C O O P T C L F A M S a "]
+[DELETED:  S  S ( A e a ( A ( A d ( A t i o a d o a t f t c ( F ( A ( T m f S o  I P F S P O I W T V S " ( A p C … ( T ( C ( M ( P m a ( P – p ( R s d r a d s a c o s d ( U p a C s c d i p w b c t a p i o a p a o t i w b c b C i w a r p w b t a p a o t i w n b v t t p r … ( A p s i C]
+[DELETED:  S  P ( A p b ( A p h f ( N ( A m c s ( A a o t c h t t o c I t o c f b ( A a c f a C 1 m s b p a a C A m s t u … S o  I P F D D O I W S " ( D d … ( E i d ( E w p s o i f t h a a f o m s s c d c a D f f]
+[DELETED:  S  S w p r b U f t t f o m s l t o a l n d r c A c A p b ( E p ( A i ( A ( A ( A i ( A ( A ( A S o  A P O C L I T L E S A " " " w ( F t G ( A a d s a f ( T r ( T i t]
+[DELETED:  S  P ( N p v ( N c i t ( A s s f w u d r r S i r S  P R T M R T E A F S " W n p w ( W p t r o a a o o i s s ( W ( W ( W t ( W ( T a ( T A a a a s S i  R O S " B A – o s o]
+[DELETED:  S  S g p v f b u l a o a r t w p c b t c t S " A a t a d ( a a b G a a r t t p c p o t c o a t c i a s t d n i a a p p a b S o  P U A S " d o ( W A o D S T M B R N a A – A l w a ( R a i s o t a o a a a i s a C b B ( A a a r s t t d h c a i s e d R n ( A H l e a s d o c o d a t D m a r]
+[DELETED:  S  P t m t ( A H s f u b l o t t d f t p o i s D t s u ( T M B M w A D a i A M – N s o a ( U – s c r r ( s a p o n r o a o f d s t o a d r ( r t s t a t m b u b a l a a ( T a ( T t p a p a c N o l r o t a s t m b u i f a c b t o a ( F i p S " A s t m b a t a d o s ( s b p d H S a t s t i c i a w t a r i S " F a H t S o ]
+[DELETED:  S  S P R T P T N C ( D F D A C A A S " A s o s c a d i G o d a T s v a c a u G S " o T ( O b c c v a o e m s v f v t p d a s b s a b c c v a o e T w a d o … S " ( P c … ( R T d c a o a t w t d r c w … ( T d … ( H o a o ( H c a … S d s p c e]
+[DELETED:  S  P S 1 b  P R T A R O A M P T S A O A L M T O A V S " N a m p W 7 o t G S a ( s c a D d i p o ( A w a f i i s i a w G ( A a f i i s o a t a b t C g ( A b N i s i a r t a p w l h b c r a c a m s s s r p i a w t s I a t D m p o r r r a c S  P R T T I C P I S 1  S 3 o S 2 a a b S 5 o S 2 " o t a c s b t A O o t C D 1 2 S 2 b 2  R O P R T S T E A E S]
+[DELETED:  S  S " ( I p l o ( I o ( S ( G a C b A a ( R ( N a P b P ( D ( D t s i ( P ( D ( W o f a ( W a w a f v v ( T c d o s a m c a c r o t p I l ( W e c]
+[DELETED:  S  P ( E o f A G s d a m p o t b c f u b l e ( t a ( I m o p S o  A R O M P O A A C S " ( D a b i ( A ( P h a e ( C ( F w ( A ( A ( A a g g s a ( H ( A ( A i i o w t p a r i o t a o a c o n ( A u i t C t t " o i a o e p ( A i U S " E]
+[DELETED:  S  S ( P t o t v i a m p o m b c e o t p p S " ( E a o p b l a p w k v a v p o p ( A a h v a v p o e t p f t r o h o a ( W a r i r ( W ( a l e o h p c t b t a p c e a ( t o p c t b t t p a t m p t … S v  S S " T a h T e d o s e e v T n]
+[DELETED:  S  P I a o e t t s  C S a r  E S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 3
+SENATE BILL 310
+Finance Committee Substitute Adopted 4/30/25
+House Committee Substitute Favorable 6/2/26
+Short Title: Criminal Law Changes. (Public)
+Sponsors:
+Referred to:
+March 18, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES RELATED TO THE CRIMINAL LAWS OF
+3 NORTH CAROLINA.
+4 The General Assembly of North Carolina enacts:
+5
+6 REVISE LAW PROHIBITING WILLFUL OR WANTON DISCHARGE OF CERTAIN
+7 BARRELED WEAPONS OR FIREARMS
+8 SECTION 1.(a) G.S. 14-34.1 reads as rewritten:
+9 "§ 14-34.1. Discharging Willful or wanton discharge of certain barreled weapons or a
+10 firearm into occupied property.firearm.
+11 (a) Any A person who willfully or wantonly discharges or attempts to discharge any
+12 firearm or barreled weapon capable of discharging shot, bullets, pellets, or other missiles at a
+13 muzzle velocity of at least 600 feet per second into any building, structure, vehicle, aircraft,
+14 watercraft, or other conveyance, device, equipment, erection, or enclosure while it is occupied is
+15 guilty of a Class E felony.
+16 (a1) Unless covered under some provision of law providing greater punishment, a person
+17 who willfully or wantonly discharges a weapon described in subsection (a) of this section in or
+18 on the property of another without the property owner's permission, on a public street or highway,
+19 or at any public place where persons other than the person who discharged the weapon are present
+20 is guilty of a Class E felony.
+21 (b) A person who willfully or wantonly discharges a weapon described in subsection (a)
+22 of this section into an occupied dwelling or into any occupied vehicle, aircraft, watercraft, or
+23 other conveyance that is in operation is guilty of a Class D felony.
+24 (c) If a person violates this section and the violation results in serious bodily injury to
+25 any person, the person is guilty of a Class C felony."
+26 SECTION 1.(b) This section becomes effective December 1, 2026, and applies to
+27 offenses committed on or after that date.
+28
+29 CREATE OFFENSE OF PREPARATION TO COMMIT LARCENY FROM A
+30 MERCHANT
+31 SECTION 2.(a) Article 16 of Chapter 14 of the General Statutes is amended by
+32 adding a new section to read:
+33 "§ 14-72.13. Preparation to commit larceny from a merchant.
+*S310-v-3*
+
+General Assembly Of North Carolina Session 2025
+1 (a) A person is guilty of a Class I felony if the person is found within the area of a retail
+2 establishment where goods are stored or offered for sale, with the intent to commit larceny from
+3 a merchant, and the person is in possession of, without lawful excuse, any of the following:
+4 (1) Any theft shielding device.
+5 (2) Any tool, instrument, or article designed or adapted to defeat, circumvent,
+6 deactivate, or remove any antishoplifting or inventory control device.
+7 (3) Any tool, instrument, or article designed or adapted to facilitate the
+8 concealment, removal, or carrying away of merchandise without payment.
+9 (b) For the purposes of this section, the following definitions apply:
+10 (1) Antishoplifting or inventory control device. – As defined in G.S. 14-72.11.
+11 (2) Theft detection shielding device. – Any laminated, coated, lined, or otherwise
+12 modified bag, container, or device designed or intended to shield merchandise
+13 from detection by an electronic or magnetic theft detection system."
+14 SECTION 2.(b) This section becomes effective December 1, 2026, and applies to
+15 offenses committed on or after that date.
+16
+17 INCREASE PUNISHMENT FOR SECRET PEEPING OFFENSES IN WHICH THE
+18 VICTIM IS A MINOR
+19 SECTION 3.(a) G.S. 14-202, as amended by S.L. 2025-70, reads as rewritten:
+20 "§ 14-202. Secretly peeping into room occupied by another person.
+21 (a) Any Unless covered under some provision of law providing greater punishment, any
+22 person who shall peep secretly into any room occupied by another person shall be guilty of a
+23 Class 1 misdemeanor.
+24 …
+25 (b) The following definitions apply in this section:
+26 (1) Custody. – As defined in G.S. 14-27.31.
+27 (2) Minor. – An individual who is less than 18 years of age.
+28 (1)(3) Photographic image. – Any photograph or photographic reproduction, still or
+29 moving, or any videotape, motion picture, or live television transmission, or
+30 any digital image of any individual.
+31 (2)(4) Private area of an individual. – The naked or undergarment clad genitals,
+32 pubic area, buttocks, or female breast of that individual.
+33 (3)(5) Room. – Includes, but is not limited to, a bedroom, a rest room, a bathroom, a
+34 shower, a dressing room, a dressing stall, a cubicle, or other similar area
+35 designed to provide privacy.
+36 (4)(6) Under circumstances in which that individual has a reasonable expectation of
+37 privacy. – Means either of the following:
+38 a. Circumstances in which a reasonable person would believe that he or
+39 she could disrobe in privacy, without being concerned that a
+40 photographic image of a private area of the individual was being
+41 created.
+42 b. Circumstances in which a reasonable person would believe that a
+43 private area of the individual would not be visible to the public,
+44 regardless of whether that person is in a public or private place.
+45 …
+46 (f) Any Unless covered under some provision of law providing greater punishment, any
+47 person who, for the purpose of arousing or gratifying the sexual desire of any person, secretly or
+48 surreptitiously uses or installs in a room any device that can be used to create a photographic
+49 image with the intent to capture the image of another without their consent shall be guilty of a
+50 Class I felony.
+Page 2 Senate Bill 310-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 (g) Any Unless covered under some provision of law providing greater punishment, any
+2 person who knowingly possesses a photographic image that the person knows, or has reason to
+3 believe, was obtained in violation of this section shall be guilty of a Class I felony.
+4 (h) Any Unless covered under some provision of law providing greater punishment, any
+5 person who disseminates or allows to be disseminated images that the person knows, or should
+6 have known, were obtained as a result of the violation of this section shall be guilty of a Class H
+7 felony if the dissemination is without the consent of the person in the photographic image.
+8 (i) Notwithstanding any other provision of this section, the following punishments apply:
+9 (1) Any person who commits a violation of this section in which the victim is a
+10 minor shall be guilty of an offense that is one class higher than the offense
+11 committed. If the offense committed is a Class A1 misdemeanor, the person
+12 shall be guilty of a Class I felony.
+13 (2) Any person who commits a violation of this section (i) in which the victim is
+14 a minor and (ii) while having custody of the minor victim shall be guilty of an
+15 offense two classes higher than the offense committed. If the offense
+16 committed is a Class 1 misdemeanor, the person shall be guilty of a Class I
+17 felony. If the offense committed is a Class A1 misdemeanor, the person shall
+18 be guilty of a Class H felony.
+19 (3) A second or subsequent felony conviction under this section shall be punished
+20 as though convicted of an offense one class higher. A second or subsequent
+21 conviction for a Class 1 misdemeanor shall be punished as a Class A1
+22 misdemeanor. A second or subsequent conviction for a Class A1 misdemeanor
+23 shall be punished as a Class I felony. An enhancement imposed pursuant to
+24 this subdivision shall apply in addition to any other enhancement imposed
+25 under this subsection.
+26 …."
+27 SECTION 3.(b) This section becomes effective December 1, 2026, and applies to
+28 offenses committed on or after that date.
+29
+30 INCREASE PUNISHMENT FOR DISRUPTING, DISTURBING, OR INTERFERING
+31 WITH A RELIGIOUS SERVICE OR ASSEMBLY
+32 SECTION 4.(a) G.S. 14-288.4 reads as rewritten:
+33 "§ 14-288.4. Disorderly conduct.
+34 (a) Disorderly conduct is a public disturbance intentionally caused by any person who
+35 does any of the following:
+36 …
+37 (7) Except as provided in subdivision (8) of this subsection, disrupts, disturbs, or
+38 interferes with a religious service or assembly or engages in conduct which
+39 disturbs the peace or order at any religious service or assembly.
+40 (8) Engages in conduct with the intent to impede, disrupt, disturb, or interfere
+41 with the orderly administration of any funeral, memorial service, or family
+42 processional to the funeral or memorial service, including a military funeral,
+43 service, or family processional, or with the normal activities and functions
+44 occurring in the facilities or buildings where a funeral or memorial service,
+45 including a military funeral or memorial service, is taking place. Any of the
+46 following conduct that occurs within two hours preceding, during, or within
+47 two hours after a funeral or memorial service shall constitute disorderly
+48 conduct under this subdivision:
+49 a. Displaying, within 500 feet of the ceremonial site, location being used
+50 for the funeral or memorial, or the family's processional route to the
+51 funeral or memorial service, any visual image that conveys fighting
+Senate Bill 310-Third Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 words or actual or imminent threats of harm directed to any person or
+2 property associated with the funeral, memorial service, or processional
+3 route.
+4 b. Uttering, within 500 feet of the ceremonial site, location being used
+5 for the funeral or memorial service, or the family's processional route
+6 to the funeral or memorial service, loud, threatening, or abusive
+7 language or singing, chanting, whistling, or yelling with or without
+8 noise amplification in a manner that would tend to impede, disrupt,
+9 disturb, or interfere with a funeral, memorial service, or processional
+10 route.
+11 c. Attempting to block or blocking pedestrian or vehicular access to the
+12 ceremonial site or location being used for a funeral or memorial.
+13 As used in this section the term "building or facility" includes the surrounding grounds and
+14 premises of any building or facility used in connection with the operation or functioning of such
+15 building or facility.
+16 (b) Except as provided in subsection (c) subsections (c) and (c1) of this section, any
+17 person who willfully engages in disorderly conduct is guilty of a Class 2 misdemeanor.
+18 (c) A person who commits a violation of subdivision (7) of subsection (a) of this section
+19 is guilty of:
+20 (1) A Class 1 misdemeanor for a first offense.
+21 (2) A Class H felony for a second or subsequent offense.
+22 (c1) A person who commits a violation of subdivision (8) of subsection (a) of this section
+23 is guilty of:
+24 (1) A Class 1 misdemeanor for a first offense.
+25 (2) A Class I felony for a second offense.
+26 (3) A Class H felony for a third or subsequent offense."
+27 SECTION 4.(b) This section becomes effective December 1, 2026, and applies to
+28 offenses committed on or after that date.
+29
+30 AUTHORIZE PROVISION OF CALL LOCATION INFORMATION TO LAW
+31 ENFORCEMENT UNDER CERTAIN EMERGENCY CIRCUMSTANCES
+32 SECTION 5.(a) Chapter 15A of the General Statutes is amended by adding a new
+33 Article to read:
+34 "Article 16C.
+35 "Provision of Wireless Call Location Information to Law Enforcement.
+36 "§ 15A-300.10. Provision of phone location information of a telecommunications device by
+37 wireless telecommunications carrier to law enforcement.
+38 (a) For purposes of this section, the term (i) "wireless telecommunications carrier" has
+39 the same meaning as a "commercial mobile radio service provider," as that term is defined in
+40 G.S. 143B-1400, and (ii) "public safety answering point" is as defined in G.S. 143B-1400.
+41 (b) At the request of a law enforcement officer, or an employee or agent of a public safety
+42 answering point on behalf of a law enforcement agency, who is acting in the course of the official
+43 duties of the officer, employee, or agent, a wireless telecommunications carrier shall provide,
+44 subject to any limitations under applicable federal law, available phone location information of
+45 a telecommunications device without delay if the officer, employee, or agent asserts either of the
+46 following:
+47 (1) The device that is the subject of the request was used to place a 911 call
+48 requesting emergency assistance.
+49 (2) There is reasonable suspicion that the device that is the subject of the request
+50 is in the possession of an individual who is involved in an emergency situation
+51 that involves risk of death or serious physical harm.
+Page 4 Senate Bill 310-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 (c) Notwithstanding any other provision of law to the contrary, nothing in this section
+2 prohibits a wireless telecommunications carrier from establishing protocols by which the carrier
+3 voluntarily discloses phone location information of a telecommunications device.
+4 (d) No cause of action shall lie in any court against any wireless telecommunications
+5 carrier, its officers, employees, agents, or other specified persons for providing phone location
+6 information of a telecommunications device while acting in good faith and in accordance with
+7 the provisions of this section.
+8 (e) All wireless telecommunications carriers registered to do business in this State or
+9 submitting to the jurisdiction thereof and all resellers of wireless telecommunications services
+10 shall submit their emergency contact information to the State Bureau of Investigation in order to
+11 facilitate requests from a law enforcement agency for call location information in accordance
+12 with this section. This contact information shall be submitted annually by June 15 or immediately
+13 upon any change in contact information. The State Bureau of Investigation shall maintain a
+14 database containing emergency contact information for all wireless telecommunications carriers
+15 registered to do business in this State and shall make the information immediately available upon
+16 request to all public safety answering points in this State."
+17 SECTION 5.(b) The State Bureau of Investigation shall adopt temporary rules to
+18 implement the provisions of this act. Temporary rules adopted in accordance with this act shall
+19 remain in effect until permanent rules that replace the temporary rules become effective.
+20 SECTION 5.(c) This section becomes effective July 1, 2026.
+21
+22 PROVISIONS RELATING TO MAGISTRATES' REQUIREMENT TO EXPLAIN A
+23 FINDING OF NO PROBABLE CAUSE IN IMPLIED CONSENT CASES
+24 SECTION 6.(a) G.S. 15A-511 is amended by adding a new subsection to read:
+25 "(c1) Written Findings for Implied Consent Offense. – If the magistrate determines there is
+26 no probable cause for an implied consent offense, as defined in G.S. 20-16.2, the magistrate shall
+27 provide a written explanation on a form approved by the Administrative Office of the Courts
+28 which shall contain, at a minimum, all of the following:
+29 (1) When performed, the result of any alcohol or other impairing substance
+30 screening test.
+31 (2) When performed, the results of any standardized field sobriety tests.
+32 (3) When performed, the results of any drug recognition expert evaluation.
+33 (4) When available, the alcohol concentration or the fact that the driver refused
+34 the implied consent test.
+35 (5) Whether a blood sample for analysis was obtained from the defendant.
+36 (6) The element or elements of the offense charged that the magistrate believes
+37 are missing that led to the determination that probable cause did not exist.
+38 (7) The signature of the magistrate.
+39 A copy of the form required by this subsection shall be sent to the head of the law enforcement
+40 agency that employed the charging officer, and to the chief district court judge and district
+41 attorney for the judicial district, and filed with the court. The Administrative Office of the Courts
+42 shall electronically record this data in its database and make it available upon request."
+43 SECTION 6.(b) This section becomes effective December 1, 2026, and applies to
+44 initial appearances on or after that date.
+45
+46 REVISION RELATED TO THE OFFENSE OF AIDING OR ABETTING THE SALE TO
+47 OR PURCHASE BY UNDERAGE PERSONS OF ALCOHOLIC BEVERAGES
+48 SECTION 7.(a) G.S. 18B-302(c)(2) reads as rewritten:
+49 "(2) By Person over Lawful Age. – Any Except as otherwise provided in this
+50 subdivision, any person who is over the lawful age to purchase and who aids
+51 or abets another in violation of subsection (a), (a1), or (b) of this section is
+Senate Bill 310-Third Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 guilty of a Class 1 misdemeanor. Any person who is over the lawful age to
+2 purchase and who aids or abets a person under the lawful age to purchase in
+3 violation of subsection (a), (a1), or (b) of this section is guilty of a Class F
+4 felony if the person under the lawful age to purchase consumed the alcoholic
+5 beverage involved in the violation and serious bodily injury to the person
+6 under lawful age or another results that was proximately caused by the
+7 consumption of the alcoholic beverage. For purposes of this subdivision, the
+8 term "serious bodily injury" is as defined in G.S. 14-32.4."
+9 SECTION 7.(b) G.S. 18B-302.1(b) reads as rewritten:
+10 "(b) A violation of G.S. 18B-302(c)(2) is either a Class 1 misdemeanor. misdemeanor or
+11 a Class F felony. Notwithstanding the provisions of G.S. 15A-1340.17 and G.S. 15A-1340.23, if
+12 the court imposes a sentence that does not include an active punishment, the court must include
+13 among the conditions of probation a requirement that the person pay a fine of at least five hundred
+14 dollars ($500.00) as authorized by G.S. 15A-1343(b)(9) and a requirement that the person
+15 complete at least 25 hours of community service, as authorized by G.S. 15A-1343(b1)(6). If the
+16 person has a previous conviction of this offense in the four years immediately preceding the date
+17 of the current offense, and the court imposes a sentence that does not include an active
+18 punishment, the court must include among the conditions of probation a requirement that the
+19 person pay a fine of at least one thousand dollars ($1,000) as authorized by G.S. 15A-1343(b)(9)
+20 and a requirement that the person complete at least 150 hours of community service, as authorized
+21 by G.S. 15A-1343(b1)(6)."
+22 SECTION 7.(c) This section becomes effective December 1, 2026, and applies to
+23 offenses committed on or after that date.
+24
+25 PROVISIONS RELATING TO REDUCING UNNECESSARY MOTIONS IN COURT
+26 AND ALLOWING ORAL FLUID DRUG SCREENING TESTS
+27 SECTION 8.(a) G.S. 20-16.3 reads as rewritten:
+28 "§ 20-16.3. Alcohol and drug screening tests required of certain drivers; approval of test
+29 devices and manner of use by Department of Health and Human Services; use
+30 of test results or refusal.
+31 (a) When Alcohol or Drug Screening Test May Be Required; Not an Arrest. – A
+32 law-enforcement officer may require the driver of a vehicle to submit to an alcohol screening test
+33 within a relevant time after the driving test, drug screening test, or an alcohol screening test and
+34 a drug screening test, if the officer has:has either of the following:
+35 (1) Reasonable grounds to believe that the driver has consumed alcohol alcohol,
+36 an impairing substance other than alcohol, or alcohol and an impairing
+37 substance other than alcohol, and has:has done either of the following:
+38 a. Committed a moving traffic violation; orviolation.
+39 b. Been involved in an accident or collision; orcollision.
+40 (2) An articulable and reasonable suspicion that the driver has committed an
+41 implied-consent offense under G.S. 20-16.2, and the driver has been lawfully
+42 stopped for a driver's license check or otherwise lawfully stopped or lawfully
+43 encountered by the officer in the course of the performance of the officer's
+44 duties.
+45 Requiring a driver to submit to an alcohol screening a test in accordance with this section does
+46 not in itself constitute an arrest.
+47 (b) Approval of Alcohol Screening Devices and Manner of Use. – The Department of
+48 Health and Human Services is directed to examine and approve devices suitable for use by
+49 law-enforcement officers in making on-the-scene tests of drivers for alcohol concentration. For
+50 each alcohol screening device or class of devices approved, the Department must adopt
+51 regulations governing the manner of use of the device. For any alcohol screening device that tests
+Page 6 Senate Bill 310-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 the breath of a driver, the Department is directed to specify in its regulations the shortest feasible
+2 minimum waiting period that does not produce an unacceptably high number of false positive
+3 test results.
+4 (b1) Approval of Oral Drug Screening Devices and Manner of Use. – The Department of
+5 Health and Human Services is directed to examine and approve oral fluid drug screening devices
+6 suitable for use by law-enforcement officers to test drivers for the presence of impairing
+7 substances other than alcohol in oral fluids. For each device or class of devices approved, the
+8 Department must adopt regulations governing the manner of use of the device and the level of
+9 training required for officers who are authorized to use the device. The Department is directed to
+10 specify in its regulations the shortest feasible minimum waiting period that does not produce an
+11 unacceptably high number of false positive test results.
+12 (c) Tests Must Be Made with Approved Devices and in Approved Manner. – No
+13 screening test for alcohol concentration is a valid one under this section unless the device used is
+14 one approved by the Department and the screening test is conducted in accordance with the
+15 applicable regulations of the Department as to the manner of its use.
+16 (d) Use of Screening Test Results or Refusal by Officer. – The fact that a driver (i)
+17 showed a positive or negative result on an alcohol screening test, test, but not the actual alcohol
+18 concentration result, result, (ii) showed a positive or negative result on an oral fluid drug
+19 screening test, or a driver's refusal (iii) refused to submit to a test may be used by a
+20 law-enforcement officer, is admissible in a court, or may also be used by an administrative
+21 agency in determining if there are reasonable grounds for believing:or probable cause to believe
+22 any of the following:
+23 (1) That the driver has committed an implied-consent offense under G.S. 20-16.2;
+24 andG.S. 20-16.2.
+25 (2) That For an alcohol screening test, that the driver had consumed alcohol and
+26 that the driver had in his or her body previously consumed alcohol, but not to
+27 prove a particular alcohol concentration. Negative or low results on the
+28 alcohol screening test may be used in factually appropriate cases by the
+29 officer, a court, or an administrative agency in determining whether a person's
+30 alleged impairment is caused by an impairing substance other than alcohol.
+31 (3) For an oral fluid drug screening test, that the driver had consumed one or more
+32 impairing substances other than alcohol and had in his or her body one or more
+33 previously consumed impairing substances other than alcohol."
+34 SECTION 8.(b) G.S. 20-138.7(d) reads as rewritten:
+35 "(d) Alcohol Screening Test. – Notwithstanding any other provision of law, an alcohol
+36 screening test may be administered to a driver suspected of violating subsection (a) of this
+37 section, and the results of an alcohol screening test or the driver's refusal to submit may be used
+38 by a law enforcement officer, a court, or an administrative agency in determining if alcohol was
+39 present in the driver's body. No alcohol screening tests are valid under this section unless the
+40 device used is one approved by the Commission for Public Health, Department of Health and
+41 Human Services, and the screening test is conducted in accordance with the applicable
+42 regulations of the Commission Department of Health and Human Services as to the manner of
+43 its use."
+44 SECTION 8.(c) G.S. 15A-534.2(d)(2) reads as rewritten:
+45 "(2) For any purpose in any proceeding if the test was not performed by a method
+46 approved by the Commission for Public Health Department of Health and
+47 Human Services under G.S. 20-139.1 and by a person licensed to administer
+48 the test by the Department of Health and Human Services."
+49 SECTION 8.(d) This section becomes effective December 1, 2026, and applies to
+50 offenses committed on or after that date.
+51
+Senate Bill 310-Third Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 PROVISIONS RELATING TO PROHIBITING TRANSPORTATION NETWORK
+2 COMPANY (TNC) DRIVERS FROM DRIVING AFTER CONSUMING ALCOHOL
+3 AND PROVIDING FOR EDUCATION FOR TNC DRIVERS
+4 SECTION 9.(a) G.S. 20-17(a) is amended by adding a new subdivision to read:
+5 "(13a) A second or subsequent conviction, as defined in G.S. 20-138.2B(d), of
+6 driving a TNC service vehicle after consuming alcohol under
+7 G.S. 20-138.2B."
+8 SECTION 9.(b) G.S. 20-138.2B reads as rewritten:
+9 "§ 20-138.2B. Operating a school bus, school activity bus, child care vehicle, ambulance,
+10 other EMS vehicle, firefighting vehicle, or law enforcement vehicle vehicle, or
+11 TNC service vehicle after consuming alcohol.
+12 (a) Offense. – A person commits the offense of operating a school bus, school activity
+13 bus, child care vehicle, ambulance, other emergency medical services vehicle, firefighting
+14 vehicle, or law enforcement vehicle vehicle, or TNC service vehicle after consuming alcohol if
+15 the person drives a school bus, school activity bus, child care vehicle, ambulance, other
+16 emergency medical services vehicle, firefighting vehicle, or law enforcement vehicle vehicle, or
+17 TNC service vehicle upon any highway, any street, or any public vehicular area within the State
+18 while consuming alcohol or while alcohol remains in the person's body. This section does not
+19 apply to law enforcement officers acting in the course of, and within the scope of, their official
+20 duties. For purposes of this section, the term "TNC service vehicle" means a motor vehicle being
+21 operated for the purpose of providing a TNC service, as that term is defined in G.S. 20-280.1.
+22 …."
+23 SECTION 9.(c) G.S. 20-280.6 reads as rewritten:
+24 "§ 20-280.6. Background checks.
+25 (a) Prior to permitting an individual to act as a TNC driver, the transportation network
+26 company must do all of the following:
+27 …
+28 (4) Require the individual to agree in writing that the individual will not act as a
+29 TNC driver while consuming alcohol or at any time while the driver has
+30 remaining in the driver's body any alcohol or controlled substance previously
+31 consumed. This subdivision does not apply to any controlled substance that
+32 was lawfully obtained and taken in therapeutically appropriate amounts.
+33 …
+34 (c) The transportation network company must not permit an individual to act as a TNC
+35 driver if any of the following apply:
+36 …
+37 (2) Has been convicted within the past seven years of driving under the influence
+38 of drugs or alcohol, fraud, sexual offenses, use of a motor vehicle to commit
+39 a felony, or a crime involving property damage, theft, acts of violence, or acts
+40 of terror.
+41 (2a) Has been convicted within the past seven years of a second or subsequent
+42 conviction, as defined in G.S. 20-138.2B(d), of driving a TNC service vehicle
+43 after consuming alcohol under G.S. 20-138.2B.
+44 …."
+45 SECTION 9.(d) Transportation network companies (TNCs) shall notify all TNC
+46 drivers providing TNC services at the time of the effective date of this section of the requirement
+47 set forth in G.S. 20-280.6(a)(4), as enacted by subsection (c) of this section. A TNC shall not
+48 permit an individual subject to this subsection to act as a TNC driver if the individual does not
+49 comply with the requirement set forth in G.S. 20-280.6(a)(4) by no later than 12 months from the
+50 effective date of this section.
+Page 8 Senate Bill 310-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 9.(e) Subsections (a) and (b) of this section become effective December
+2 1, 2026, and apply to offenses committed on or after that date. The remainder of this section
+3 becomes effective December 1, 2026.
+4
+5 PROVISIONS RELATED TO ALLOWING REPEAT OFFENDERS A METHOD TO
+6 PROVE THEIR SOBRIETY AND OBTAIN A LEGAL METHOD TO OPERATE A
+7 VEHICLE
+8 SECTION 10.(a) G.S. 20-19 is amended by adding a new subsection to read:
+9 "(d1) Notwithstanding any other provision of law, when a person's license is revoked for
+10 an impaired driving offense and the person is sentenced pursuant to G.S. 20-179, the Division
+11 may conditionally restore the person's license after it has been revoked for at least one year if the
+12 person (i) provides the Division with a certificate of graduation from a Drug Treatment or Driving
+13 While Impaired (DWI) Treatment Court Program established pursuant to Article 62 of Chapter
+14 7A of the General Statutes and (ii) successfully completes a Division-approved driver
+15 improvement clinic described in G.S. 20-16. If the Division restores the person's license, it shall
+16 place all of the following restrictions, requirements, and conditions on the person for the duration
+17 of the original revocation period:
+18 (1) A requirement that all registered vehicles owned by that person be equipped
+19 with a functioning ignition interlock system in accordance with
+20 G.S. 20-17.8(c1).
+21 (2) A restriction that the person may operate only a motor vehicle equipped with
+22 a functioning ignition interlock system of a type approved by the
+23 Commissioner that is set to prohibit driving with an alcohol concentration of
+24 greater than 0.02.
+25 (3) A requirement that the person personally activate the ignition interlock system
+26 before driving the motor vehicle.
+27 Notwithstanding the provisions of G.S. 20-17.8, the Division may, in lieu of an ignition
+28 interlock system, impose a requirement that a person whose license has been conditionally
+29 restored pursuant to this subsection prove abstention from the consumption of alcohol by use of
+30 a continuous alcohol monitoring system approved under G.S. 15A-1343.3. The provider of the
+31 continuous alcohol monitoring system shall send reports prepared in accordance with this
+32 subsection to the Division.
+33 In addition, the Division may place other reasonable restrictions, requirements, and
+34 conditions on the person for the duration of the original revocation period."
+35 SECTION 10.(b) This section becomes effective December 1, 2026.
+36
+37 PROVISIONS RELATED TO TRANSPARENCY IN COURT PROCEEDINGS
+38 INVOLVING IMPAIRED DRIVERS
+39 SECTION 11. Section 33 of S.L. 2006-253, as amended by Section 5 of S.L.
+40 2007-493, reads as rewritten:
+41 "SECTION 33. Section 6 becomes effective August 21, 2006, and applies to hearings held
+42 on or after that date. Sections 20.1, 20.2, and the requirement that the Administrative Office of
+43 the Courts electronically record certain data contained in subsection (c) of G.S. 20-138.4, as
+44 amended by Section 19 of this act, become effective after the next rewrite of the superior court
+45 clerks system by the Administrative Office of the Courts. December 1, 2026. Section 22.4
+46 becomes effective December 1, 2006. The remainder of this act becomes effective December 1,
+47 2006, and applies to offenses committed on or after that date."
+48
+49 REMOVAL OF PROVISIONS RELATING TO SPEEDING TO ELUDE ARREST
+50 EVIDENCE
+51 SECTION 12.(a) G.S. 20-141.5 reads as rewritten:
+Senate Bill 310-Third Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 "§ 20-141.5. Speeding to elude arrest; seizure and sale of vehicles.
+2 (a) It shall be unlawful for any person to operate a motor vehicle on a street, highway, or
+3 public vehicular area while fleeing or attempting to elude a law enforcement officer who is in the
+4 lawful performance of his duties. Except as provided in subsection (b) of this section, violation
+5 of this section shall be a Class 1 misdemeanor.
+6 (b) If two or more of the following aggravating factors are present at the time the violation
+7 occurs, violation of this section shall be a Class H felony.
+8 (1) Speeding in excess of 15 miles per hour over the legal speed limit.
+9 (2) Gross impairment of the person's faculties while driving due to:
+10 a. Consumption of an impairing substance; or
+11 b. A blood alcohol concentration of 0.14 or more within a relevant time
+12 after the driving.
+13 (3) Reckless driving as proscribed by G.S. 20-140.
+14 (4) Negligent driving leading to an accident causing:
+15 a. Property damage in excess of one thousand dollars ($1,000); or
+16 b. Personal injury.
+17 (5) Driving when the person's drivers license is revoked.
+18 (6) Driving in excess of the posted speed limit, during the days and hours when
+19 the posted limit is in effect, on school property or in an area designated as a
+20 school zone pursuant to G.S. 20-141.1, or in a highway work zone as defined
+21 in G.S. 20-141(j2).
+22 (7) Passing a stopped school bus as proscribed by G.S. 20-217.
+23 (8) Driving with a child under 12 years of age in the vehicle.
+24 (b1) When a violation of subsection (a) of this section is the proximate cause of the death
+25 of any person, the person violating subsection (a) of this section shall be guilty of a Class H
+26 felony. When a violation of subsection (b) of this section is the proximate cause of the death of
+27 any person, the person violating subsection (b) of this section shall be guilty of a Class E felony.
+28 (c) Whenever evidence is presented in any court or administrative hearing of the fact that
+29 a vehicle was operated in violation of this section, it shall be prima facie evidence that the vehicle
+30 was operated by the person in whose name the vehicle was registered at the time of the violation,
+31 according to the Division's records. If the vehicle is rented, then proof of that rental shall be prima
+32 facie evidence that the vehicle was operated by the renter of the vehicle at the time of the
+33 violation.
+34 (d) The Division shall suspend, for up to one year, the drivers license of any person
+35 convicted of a misdemeanor under this section. The Division shall revoke, for two years, the
+36 drivers license of any person convicted of a felony under this section if the person was convicted
+37 on the basis of the presence of two of the aggravating factors listed in subsection (b) of this
+38 section. The Division shall revoke, for three years, the drivers license of any person convicted of
+39 a felony under this section if the person was convicted on the basis of the presence of three or
+40 more aggravating factors listed in subsection (b) of this section. In the case of a first felony
+41 conviction under this section where only two aggravating factors were present, the licensee may
+42 apply to the sentencing court for a limited driving privilege after a period of 12 months of
+43 revocation, provided the operator's license has not also been revoked or suspended under any
+44 other provision of law. A limited driving privilege issued under this subsection shall be valid for
+45 the period of revocation remaining in the same manner and under the terms and conditions
+46 prescribed in G.S. 20-16.1(b). If the person's license is revoked under any other statute, the
+47 limited driving privilege issued pursuant to this subsection is invalid.
+48 (e) When the probable cause of the law enforcement officer is based on the prima facie
+49 evidence rule set forth in subsection (c) above, the officer shall make a reasonable effort to
+50 contact the registered owner of the vehicle prior to initiating criminal process.
+Page 10 Senate Bill 310-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 (f) Each law enforcement agency shall adopt a policy applicable to the pursuit of fleeing
+2 or eluding motorists. Each policy adopted pursuant to this subsection shall specifically include
+3 factors to be considered by an officer in determining when to initiate or terminate a pursuit. The
+4 Attorney General shall develop a model policy or policies to be considered for use by law
+5 enforcement agencies.
+6 (g) through (j) Repealed by Session Laws 2013-243, s. 6, effective December 1, 2013,
+7 and applicable to offenses committed on or after that date.
+8 (k) If a person is convicted of a violation of subsection (b) or (b1) of this section, the
+9 motor vehicle that was driven by the defendant at the time the defendant committed the offense
+10 of felony speeding to elude arrest becomes property subject to forfeiture in accordance with the
+11 procedure set out in G.S. 20-28.2, 20-28.3, 20-28.4, and 20-28.5."
+12 SECTION 12.(b) This section becomes effective December 1, 2026, and applies to
+13 offenses committed on or after that date.
+14
+15 ADD RECOGNITION OF MILITARY-ISSUED PROTECTIVE ORDERS AS A
+16 CRIMINAL VIOLATION
+17 SECTION 13.(a) G.S. 50B-1 reads as rewritten:
+18 "§ 50B-1. Domestic violence; definition.
+19 (a) Domestic violence means the commission of one or more of the following acts upon
+20 an aggrieved party or upon a minor child residing with or in the custody of the aggrieved party
+21 by a person with whom the aggrieved party has or has had a personal relationship, but does not
+22 include acts of self-defense:
+23 (1) Attempting to cause bodily injury, or intentionally causing bodily injury; or
+24 (2) Placing the aggrieved party or a member of the aggrieved party's family or
+25 household in fear of imminent serious bodily injury or continued harassment,
+26 as defined in G.S. 14-277.3A, that rises to such a level as to inflict substantial
+27 emotional distress; or
+28 (3) Committing any act defined in G.S. 14-27.21 through G.S. 14-27.33.
+29 (b) For purposes of this section, the term "personal relationship" means a relationship
+30 wherein the parties involved:
+31 (1) Are current or former spouses;
+32 (2) Are persons of opposite sex who live together or have lived together;
+33 (3) Are related as parents and children, including others acting in loco parentis to
+34 a minor child, or as grandparents and grandchildren. For purposes of this
+35 subdivision, an aggrieved party may not obtain an order of protection against
+36 a child or grandchild under the age of 16;
+37 (4) Have a child in common;
+38 (5) Are current or former household members;
+39 (6) Are persons of the opposite sex who are in a dating relationship or have been
+40 in a dating relationship. For purposes of this subdivision, a dating relationship
+41 is one wherein the parties are romantically involved over time and on a
+42 continuous basis during the course of the relationship. A casual acquaintance
+43 or ordinary fraternization between persons in a business or social context is
+44 not a dating relationship.
+45 (c) As used in this Chapter, the term "protective order" includes any order entered
+46 pursuant to this Chapter upon hearing by the court or consent of the parties.
+47 (d) As used in this Chapter, the term "military protective order" means a protective order
+48 issued in accordance with 10 U.S.C. § 1567 by a commanding officer in the Armed Forces of the
+49 United States or the National Guard of any state against a person under that officer's command."
+50 SECTION 13.(b) G.S. 50B-2(c)(1) reads as rewritten:
+51 "(c) Ex Parte Orders. –
+Senate Bill 310-Third Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 (1) Prior to the hearing, if it clearly appears to the court from specific facts shown,
+2 that there is a danger of acts of domestic violence against the aggrieved party
+3 or a minor child, the court may enter orders as it deems necessary to protect
+4 the aggrieved party or minor children from those acts. The existence of a
+5 verifiable order of protection issued previously or from another jurisdiction,
+6 including a military protective order, may be considered evidence of the
+7 potential for future danger of acts of domestic violence against the aggrieved
+8 party or a minor child."
+9 SECTION 13.(c) G.S. 50B-4.1 reads as rewritten:
+10 "§ 50B-4.1. Violation of valid protective order.
+11 (a) Except as otherwise provided by law, a person who knowingly violates a valid
+12 protective order entered pursuant to this Chapter or who knowingly violates a valid protective
+13 order entered by the courts of another state or the courts of an Indian tribe tribe, or a valid military
+14 protective order, shall be guilty of a Class A1 misdemeanor.
+15 (b) A law enforcement officer shall arrest and take a person into custody, with or without
+16 a warrant or other process, if the officer has probable cause to believe that the person knowingly
+17 has violated a valid protective order excluding the person from the residence or household
+18 occupied by a victim of domestic violence or directing the person to refrain from doing any or
+19 all of the acts specified in G.S. 50B-3(a)(9).
+20 (c) When a law enforcement officer makes an arrest under this section without a warrant,
+21 and the party arrested contests that the out-of-state order or the order issued by an Indian court
+22 remains in full force and effect, the party arrested shall be promptly provided with a copy of the
+23 information applicable to the party which appears on the National Crime Information Center
+24 registry by the sheriff of the county in which the arrest occurs.
+25 (c1) When (i) a law enforcement officer has probable cause to believe that a person
+26 committed a violation of this section, (ii) that officer determines a military protective order
+27 entered into the National Crime Information Center registry was also issued against that person,
+28 and (iii) the officer has probable cause to believe that the person also violated the military
+29 protective order, the officer, or his or her employing agency, must notify the agency that entered
+30 the military protective order into the registry.
+31 …."
+32 SECTION 13.(d) This section becomes effective December 1, 2026, and applies to
+33 violations issued and offenses committed on or after that date.
+34
+35 SHERIFF'S BOND
+36 SECTION 14. G.S. 162-8 reads as rewritten:
+37 "§ 162-8. Bond required.
+38 The sheriff shall furnish a bond payable to the State of North Carolina for the due execution
+39 and return of process, the payment of fees and moneys collected, and the faithful execution of
+40 his office as sheriff, which shall be conditioned as follows:
+41 The condition of the above obligation is such that, whereas the above bounden ______ is
+42 elected and appointed sheriff of ______ County; if therefore, he shall well and truly execute and
+43 due return make of all process and precepts to him directed, and pay and satisfy all fees and sums
+44 of money by him received or levied by virtue of any process into the proper office into which the
+45 same, by the tenor thereof, ought to be paid, or to the person to whom the same shall be due, his
+46 executors, administrators, attorneys, or agents; and in all other things well and truly and faithfully
+47 execute the said office of sheriff during his continuance therein, then above obligation to be
+48 void; otherwise to remain in full force and effect.
+49 The amount of the bond shall be determined by the board of county commissioners, but shall
+50 not exceed twenty-five thousand dollars ($25,000).
+Page 12 Senate Bill 310-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 If a suit is maintained against the sheriff and the sheriff's surety upon their respective bond
+2 and the surety is required to pay out on the bond, the county shall reimburse the surety on behalf
+3 of the sheriff for the amount paid by the surety on the bond, including reasonable and necessary
+4 expenses incurred by the surety related to the claim against the bond. The county shall not bear
+5 the cost of reimbursing the surety for recovery of the moneys paid by the surety on the bond if
+6 the conduct that gave rise to the claim against the sheriff's bond resulted in the conviction of the
+7 sheriff of a felony."
+8
+9 CRIMINAL SAVINGS CLAUSE
+10 SECTION 15. Prosecutions for offenses committed before the effective date of this
+11 act are not abated or affected by this act, and the statutes that would be applicable but for this act
+12 remain applicable to those prosecutions.
+13
+14 EFFECTIVE DATE
+15 SECTION 16. Except as otherwise provided, this act is effective when it becomes
+16 law.
+Senate Bill 310-Third Edition Page 13
+
+[DELETED:  3 C (   A A A T M V C R T T C L O N T  R B S " f ( A f m w g ( U w o o i ( A o o ( I a S o  C O O P T C L F A M S a "]
+[DELETED:  S  S ( A e a ( A ( A d ( A t i o a d o a t f t c ( F ( A ( T m f S o  I P F S P O I W T V S " ( A p C … ( T ( C ( M ( P m a ( P – p ( R s d r a d s a c o s d ( U p a C s c d i p w b c t a p i o a p a o t i w b c b C i w a r p w b t a p a o t i w n b v t t p r … ( A p s i C]
+[DELETED:  S  P ( A p b ( A p h f ( N ( A m c s ( A a o t c h t t o c I t o c f b ( A a c f a C 1 m s b p a a C A m s t u … S o  I P F D D O I W S " ( D d … ( E i d ( E w p s o i f t h a a f o m s s c d c a D f f]
+[DELETED:  S  S w p r b U f t t f o m s l t o a l n d r c A c A p b ( E p ( A i ( A ( A ( A i ( A ( A ( A S o  A P O C L I T L E S A " " " w ( F t G ( A a d s a f ( T r ( T i t]
+[DELETED:  S  P ( N p v ( N c i t ( A s s f w u d r r S i r S  P R T M R T E A F S " W n p w ( W p t r o a a o o i s s ( W ( W ( W t ( W ( T a ( T A a a a s S i  R O S " B A – o s o]
+[DELETED:  S  S g p v f b u l a o a r t w p c b t c t S " A a t a d ( a a b G a a r t t p c p o t c o a t c i a s t d n i a a p p a b S o  P U A S " d o ( W A o D S T M B R N a A – A l w a ( R a i s o t a o a a a i s a C b B ( A a a r s t t d h c a i s e d R n ( A H l e a s d o c o d a t D m a r]
+[DELETED:  S  P t m t ( A H s f u b l o t t d f t p o i s D t s u ( T M B M w A D a i A M – N s o a ( U – s c r r ( s a p o n r o a o f d s t o a d r ( r t s t a t m b u b a l a a ( T a ( T t p a p a c N o l r o t a s t m b u i f a c b t o a ( F i p S " A s t m b a t a d o s ( s b p d H S a t s t i c i a w t a r i S " F a H t S o ]
+[DELETED:  S  S P R T P T N C ( D F D A C A A S " A s o s c a d i G o d a T s v a c a u G S " o T ( O b c c v a o e m s v f v t p d a s b s a b c c v a o e T w a d o … S " ( P c … ( R T d c a o a t w t d r c w … ( T d … ( H o a o ( H c a … S d s p c e]
+[DELETED:  S  P S 1 b  P R T A R O A M P T S A O A L M T O A V S " N a m p W 7 o t G S a ( s c a D d i p o ( A w a f i i s i a w G ( A a f i i s o a t a b t C g ( A b N i s i a r t a p w l h b c r a c a m s s s r p i a w t s I a t D m p o r r r a c S  P R T T I C P I S 1  S 3 o S 2 a a b S 5 o S 2 " o t a c s b t A O o t C D 1 2 S 2 b 2  R O P R T S T E A E S]
+[DELETED:  S  S " ( I p l o ( I o ( S ( G a C b A a ( R ( N a P b P ( D ( D t s i ( P ( D ( W o f a ( W a w a f v v ( T c d o s a m c a c r o t p I l ( W e c]
+[DELETED:  S  P ( E o f A G s d a m p o t b c f u b l e ( t a ( I m o p S o  A R O M P O A A C S " ( D a b i ( A ( P h a e ( C ( F w ( A ( A ( A a g g s a ( H ( A ( A i i o w t p a r i o t a o a c o n ( A u i t C t t " o i a o e p ( A i U S " E]
+[DELETED:  S  S ( P t o t v i a m p o m b c e o t p p S " ( E a o p b l a p w k v a v p o p ( A a h v a v p o e t p f t r o h o a ( W a r i r ( W ( a l e o h p c t b t a p c e a ( t o p c t b t t p a t m p t … S v  S S " T a h T e d o s e e v T n]
+[DELETED:  S  P I a o e t t s  C S a r  E S l]

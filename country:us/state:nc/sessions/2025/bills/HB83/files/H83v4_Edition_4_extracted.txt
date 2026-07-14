@@ -1,0 +1,313 @@
+Title: HOUSE BILL 83
+Official Title: HOUSE BILL 83
+Number of Sections: 1
+Source: versions - Edition 4
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 4
+Committee Substitute Favorable 3/11/25
+Senate Judiciary Committee Substitute Adopted 6/10/26
+Fourth Edition Engrossed 6/16/26
+Short Title: Revise Laws on Minors/Human Trafficking. (Public)
+Sponsors:
+Referred to:
+February 11, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AMEND THE OFFENSE OF DISSEMINATING OBSCENITY TO MINORS;
+3 TO ADD THE OFFENSES OF DISSEMINATING OBSCENITY TO MINORS,
+4 DISSEMINATING HARMFUL MATERIAL TO MINORS, AND EXHIBITING
+5 HARMFUL PERFORMANCES TO MINORS TO THE LIST OF CRIMINAL
+6 CONVICTIONS THAT MAY REQUIRE REGISTRATION UNDER THE SEX
+7 OFFENDER AND PUBLIC PROTECTION REGISTRATION PROGRAM; TO REQUIRE
+8 THE HUMAN TRAFFICKING COMMISSION TO CONDUCT A STUDY ON A
+9 SYSTEM FOR REPORTING SUSPECTED HUMAN TRAFFICKING; AND TO MAKE
+10 TECHNICAL CORRECTIONS.
+11 The General Assembly of North Carolina enacts:
+12
+13 DISSEMINATION TO MINORS OF OBSCENITY AND MATERIAL HARMFUL TO
+14 MINORS
+15 SECTION 1.(a) G.S. 14-190.7 reads as rewritten:
+16 "§ 14-190.7. Dissemination to minors under the age of 16 years.minors.
+17 (a) Offense and Punishment. – Every person 18 years of age or older who is guilty of a
+18 Class H felony if the person knowingly disseminates to any minor under the age of 16 years any
+19 material which he the person knows or reasonably should know to be obscene within the meaning
+20 of G.S. 14-190.1 shall be guilty of a Class H felony.and the person is at least four years older
+21 than the minor.
+22 (b) Registration. – When a person is convicted of a violation of this section, the
+23 sentencing court shall consider whether the person is a danger to the community and whether
+24 requiring the person to register as a sex offender pursuant to Article 27A of this Chapter would
+25 further the purposes of that Article as stated in G.S. 14-208.5. If the sentencing court rules that
+26 the person is a danger to the community and that the person shall register, then an order shall be
+27 entered requiring the person to register."
+28 SECTION 1.(b) G.S. 14-190.8 reads as rewritten:
+29 "§ 14-190.8. Dissemination to minors under the age of 13 years.
+30 (a) Offense and Punishment. – Every person 18 years of age or older who knowingly
+31 disseminates to any minor under the age of 13 years any material which he the person knows or
+32 reasonably should know to be obscene within the meaning of G.S. 14-190.1 shall be punished as
+33 is guilty of a Class G felon.felony.
+*H83-v-4*
+General Assembly Of North Carolina Session 2025
+1 (b) Registration. – When a person is convicted of a violation of this section, the
+2 sentencing court shall consider whether the person is a danger to the community and whether
+3 requiring the person to register as a sex offender pursuant to Article 27A of this Chapter would
+4 further the purposes of that Article as stated in G.S. 14-208.5. If the sentencing court rules that
+5 the person is a danger to the community and that the person shall register, then an order shall be
+6 entered requiring the person to register."
+7 SECTION 1.(c) G.S. 14-190.15 reads as rewritten:
+8 "§ 14-190.15. Disseminating harmful material to minors; exhibiting harmful performances
+9 to minors.
+10 (a) Disseminating Harmful Material. – A person commits the offense of disseminating
+11 harmful material to minors if, with or without consideration and knowing the character or content
+12 of the material, he:the person does either of the following:
+13 (1) Sells, furnishes, presents, or distributes to a minor material that is harmful to
+14 minors; orminors.
+15 (2) Allows a minor to review or peruse material that is harmful to minors.
+16 (b) Exhibiting Harmful Performance. – A person commits the offense of exhibiting a
+17 harmful performance to a minor if, with or without consideration and knowing the character or
+18 content of the performance, he the person allows a minor to view a live performance that is
+19 harmful to minors.
+20 …
+21 (e) Registration. – When a person is convicted of a violation of this section, the
+22 sentencing court shall consider whether the person is a danger to the community and whether
+23 requiring the person to register as a sex offender pursuant to Article 27A of this Chapter would
+24 further the purposes of that Article as stated in G.S. 14-208.5. If the sentencing court rules that
+25 the person is a danger to the community and that the person shall register, then an order shall be
+26 entered requiring the person to register."
+27 SECTION 1.(d) G.S. 14-208.6(4) is amended by adding a new sub-subdivision to
+28 read:
+29 "g. A final conviction for a violation of G.S. 14-190.7, 14-190.8, or
+30 14-190.15, only if the court sentencing the individual issues an order
+31 pursuant to the applicable provision of G.S. 14-190.7, 14-190.8, or
+32 14-190.15, requiring the individual to register."
+33 SECTION 1.(e) Prosecutions for offenses committed before the effective date of this
+34 section are not abated or affected by this section, and the statutes that would be applicable but
+35 for this section remain applicable to those prosecutions.
+36 SECTION 1.(f) This section becomes effective December 1, 2026, and applies to
+37 offenses committed on or after that date.
+38
+39 STUDY ON HUMAN TRAFFICKING REPORTING
+40 SECTION 2.(a) The General Assembly finds all of the following:
+41 (1) Human trafficking is a pervasive crime that often goes undetected. National
+42 statistics indicate that hundreds of thousands of people are trafficked in the
+43 United States each year, yet the vast majority are never identified.
+44 (2) North Carolina is recognized as a leader in efforts to combat human
+45 trafficking; however, frontline professionals, including law enforcement
+46 officers, healthcare providers, teachers, and social workers, often lack the
+47 training, tools, and resources necessary to adequately support victim-survivors
+48 and hold traffickers accountable. Services remain fragmented and limited,
+49 despite a strong desire for collaboration and coordination across sectors.
+50 (3) Advances in the field have produced effective models for data collection,
+51 needs assessment, and landscape analysis at the State, county, and regional
+Page 2 House Bill 83-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 levels. These efforts help guide statewide partners in addressing a complex
+2 and constantly evolving issue.
+3 SECTION 2.(b) The North Carolina Human Trafficking Commission (Commission)
+4 shall conduct a study on human trafficking needs in the State, including information on the
+5 development process for a statewide human trafficking reporting and response system (system).
+6 After the Commission completed the study, the Commission is encouraged to begin facilitating
+7 stakeholder collaboration on the development of a system that facilitates referral to the National
+8 Human Trafficking hotline for crisis support as necessary. It is the intent of the General Assembly
+9 to establish a system that will (i) notify law enforcement and child protection officials of high
+10 priority reports, (ii) provide a secure dashboard for authorized personnel to view, triage, and
+11 respond to reports, and (iii) support real-time communication between investigators and
+12 survivors or reporters with consent.
+13 SECTION 2.(c) This section is effective when it becomes law.
+14
+15 TECHNICAL CORRECTIONS
+16 SECTION 3.(a) G.S. 143-805(d) reads as rewritten:
+17 "(d) Subsections (a) and (b) of this section shall not apply to an official or employee that
+18 is engaged in any of the following activities in the course of that official's or employee's official
+19 duties:
+20 …
+21 (8) Investigating matters involving offenders incarcerated with, or otherwise
+22 under the supervision of, the Department of Adult Correction or matters
+23 related to the misuse of devices owned by the Department of Adult
+24 Correction."
+25 SECTION 3.(b) G.S. 42A-39 is amended by adding a new subsection to read:
+26 "(c1) Third-Party Contractor Requirements. – A third-party contractor shall ensure that any
+27 employee of the third-party contractor who performs housekeeping services at the vacation rental
+28 or provides check-in and check-out services for the vacation rental receive human trafficking
+29 awareness training as required by subsection (c) of this section."
+30 SECTION 3.(c) G.S. 130A-511(b)(1) reads as rewritten:
+31 "(1) In consultation with the North Carolina Human Trafficking Commission, the
+32 North Carolina Restaurant and Lodging Association, and the Department of
+33 Health and Human Services, develop a training course, or identify existing
+34 training courses, to inform and educate individuals about human trafficking.
+35 Chapter 150B of the General Statutes does not apply to any training required
+36 to be developed or identified under this subdivision."
+37 SECTION 3.(d) Subsection (a) of this section is effective when it becomes law and
+38 applies to investigations occurring before, on, or after that date. Subsection (b) of this section is
+39 effective when it becomes law and applies to training required to be completed on or after that
+40 date. Subsection (c) of this section is effective when it becomes law and applies to training
+41 developed or identified before, on, or after that date.
+42
+43 EFFECTIVE DATE
+44 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+45 law.
+House Bill 83-Fourth Edition Page 3
+[DELETED:  4 R (   A A T A T O O D O T M D H M T M A E H P T M T T L O C C T M R R U T S O T H T C T C A S O A S T T  D M S " ( O C m o t ( R – W a p i c o a v o t s t s r f t e S " ( O d r i]
+[DELETED:  S  H ( R – W a p i c o a v o t s t s r f t e S " t ( D h o ( S m ( A ( E h c h … ( R – W a p i c o a v o t s t s r f t e S r " A f c f a v o G 1 o 1 p 1 S s f S o  S S ( H s U ( N C i r a a l i e t c h t h f p i l e o h p t a s w o l t t a S d ( A f m c n]
+[DELETED:  S  P l a S s d A s H t p r t r a ( s r c b i a s S  T S " S i d … ( I m i o i w o o u t s o t D o A C o m r t t m o d o b t D o A C S " T e o a S " I N H t C t S a e d d  E S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 4
+HOUSE BILL 83
+Committee Substitute Favorable 3/11/25
+Senate Judiciary Committee Substitute Adopted 6/10/26
+Fourth Edition Engrossed 6/16/26
+Short Title: Revise Laws on Minors/Human Trafficking. (Public)
+Sponsors:
+Referred to:
+February 11, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AMEND THE OFFENSE OF DISSEMINATING OBSCENITY TO MINORS;
+3 TO ADD THE OFFENSES OF DISSEMINATING OBSCENITY TO MINORS,
+4 DISSEMINATING HARMFUL MATERIAL TO MINORS, AND EXHIBITING
+5 HARMFUL PERFORMANCES TO MINORS TO THE LIST OF CRIMINAL
+6 CONVICTIONS THAT MAY REQUIRE REGISTRATION UNDER THE SEX
+7 OFFENDER AND PUBLIC PROTECTION REGISTRATION PROGRAM; TO REQUIRE
+8 THE HUMAN TRAFFICKING COMMISSION TO CONDUCT A STUDY ON A
+9 SYSTEM FOR REPORTING SUSPECTED HUMAN TRAFFICKING; AND TO MAKE
+10 TECHNICAL CORRECTIONS.
+11 The General Assembly of North Carolina enacts:
+12
+13 DISSEMINATION TO MINORS OF OBSCENITY AND MATERIAL HARMFUL TO
+14 MINORS
+15 SECTION 1.(a) G.S. 14-190.7 reads as rewritten:
+16 "§ 14-190.7. Dissemination to minors under the age of 16 years.minors.
+17 (a) Offense and Punishment. – Every person 18 years of age or older who is guilty of a
+18 Class H felony if the person knowingly disseminates to any minor under the age of 16 years any
+19 material which he the person knows or reasonably should know to be obscene within the meaning
+20 of G.S. 14-190.1 shall be guilty of a Class H felony.and the person is at least four years older
+21 than the minor.
+22 (b) Registration. – When a person is convicted of a violation of this section, the
+23 sentencing court shall consider whether the person is a danger to the community and whether
+24 requiring the person to register as a sex offender pursuant to Article 27A of this Chapter would
+25 further the purposes of that Article as stated in G.S. 14-208.5. If the sentencing court rules that
+26 the person is a danger to the community and that the person shall register, then an order shall be
+27 entered requiring the person to register."
+28 SECTION 1.(b) G.S. 14-190.8 reads as rewritten:
+29 "§ 14-190.8. Dissemination to minors under the age of 13 years.
+30 (a) Offense and Punishment. – Every person 18 years of age or older who knowingly
+31 disseminates to any minor under the age of 13 years any material which he the person knows or
+32 reasonably should know to be obscene within the meaning of G.S. 14-190.1 shall be punished as
+33 is guilty of a Class G felon.felony.
+*H83-v-4*
+
+General Assembly Of North Carolina Session 2025
+1 (b) Registration. – When a person is convicted of a violation of this section, the
+2 sentencing court shall consider whether the person is a danger to the community and whether
+3 requiring the person to register as a sex offender pursuant to Article 27A of this Chapter would
+4 further the purposes of that Article as stated in G.S. 14-208.5. If the sentencing court rules that
+5 the person is a danger to the community and that the person shall register, then an order shall be
+6 entered requiring the person to register."
+7 SECTION 1.(c) G.S. 14-190.15 reads as rewritten:
+8 "§ 14-190.15. Disseminating harmful material to minors; exhibiting harmful performances
+9 to minors.
+10 (a) Disseminating Harmful Material. – A person commits the offense of disseminating
+11 harmful material to minors if, with or without consideration and knowing the character or content
+12 of the material, he:the person does either of the following:
+13 (1) Sells, furnishes, presents, or distributes to a minor material that is harmful to
+14 minors; orminors.
+15 (2) Allows a minor to review or peruse material that is harmful to minors.
+16 (b) Exhibiting Harmful Performance. – A person commits the offense of exhibiting a
+17 harmful performance to a minor if, with or without consideration and knowing the character or
+18 content of the performance, he the person allows a minor to view a live performance that is
+19 harmful to minors.
+20 …
+21 (e) Registration. – When a person is convicted of a violation of this section, the
+22 sentencing court shall consider whether the person is a danger to the community and whether
+23 requiring the person to register as a sex offender pursuant to Article 27A of this Chapter would
+24 further the purposes of that Article as stated in G.S. 14-208.5. If the sentencing court rules that
+25 the person is a danger to the community and that the person shall register, then an order shall be
+26 entered requiring the person to register."
+27 SECTION 1.(d) G.S. 14-208.6(4) is amended by adding a new sub-subdivision to
+28 read:
+29 "g. A final conviction for a violation of G.S. 14-190.7, 14-190.8, or
+30 14-190.15, only if the court sentencing the individual issues an order
+31 pursuant to the applicable provision of G.S. 14-190.7, 14-190.8, or
+32 14-190.15, requiring the individual to register."
+33 SECTION 1.(e) Prosecutions for offenses committed before the effective date of this
+34 section are not abated or affected by this section, and the statutes that would be applicable but
+35 for this section remain applicable to those prosecutions.
+36 SECTION 1.(f) This section becomes effective December 1, 2026, and applies to
+37 offenses committed on or after that date.
+38
+39 STUDY ON HUMAN TRAFFICKING REPORTING
+40 SECTION 2.(a) The General Assembly finds all of the following:
+41 (1) Human trafficking is a pervasive crime that often goes undetected. National
+42 statistics indicate that hundreds of thousands of people are trafficked in the
+43 United States each year, yet the vast majority are never identified.
+44 (2) North Carolina is recognized as a leader in efforts to combat human
+45 trafficking; however, frontline professionals, including law enforcement
+46 officers, healthcare providers, teachers, and social workers, often lack the
+47 training, tools, and resources necessary to adequately support victim-survivors
+48 and hold traffickers accountable. Services remain fragmented and limited,
+49 despite a strong desire for collaboration and coordination across sectors.
+50 (3) Advances in the field have produced effective models for data collection,
+51 needs assessment, and landscape analysis at the State, county, and regional
+Page 2 House Bill 83-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 levels. These efforts help guide statewide partners in addressing a complex
+2 and constantly evolving issue.
+3 SECTION 2.(b) The North Carolina Human Trafficking Commission (Commission)
+4 shall conduct a study on human trafficking needs in the State, including information on the
+5 development process for a statewide human trafficking reporting and response system (system).
+6 After the Commission completed the study, the Commission is encouraged to begin facilitating
+7 stakeholder collaboration on the development of a system that facilitates referral to the National
+8 Human Trafficking hotline for crisis support as necessary. It is the intent of the General Assembly
+9 to establish a system that will (i) notify law enforcement and child protection officials of high
+10 priority reports, (ii) provide a secure dashboard for authorized personnel to view, triage, and
+11 respond to reports, and (iii) support real-time communication between investigators and
+12 survivors or reporters with consent.
+13 SECTION 2.(c) This section is effective when it becomes law.
+14
+15 TECHNICAL CORRECTIONS
+16 SECTION 3.(a) G.S. 143-805(d) reads as rewritten:
+17 "(d) Subsections (a) and (b) of this section shall not apply to an official or employee that
+18 is engaged in any of the following activities in the course of that official's or employee's official
+19 duties:
+20 …
+21 (8) Investigating matters involving offenders incarcerated with, or otherwise
+22 under the supervision of, the Department of Adult Correction or matters
+23 related to the misuse of devices owned by the Department of Adult
+24 Correction."
+25 SECTION 3.(b) G.S. 42A-39 is amended by adding a new subsection to read:
+26 "(c1) Third-Party Contractor Requirements. – A third-party contractor shall ensure that any
+27 employee of the third-party contractor who performs housekeeping services at the vacation rental
+28 or provides check-in and check-out services for the vacation rental receive human trafficking
+29 awareness training as required by subsection (c) of this section."
+30 SECTION 3.(c) G.S. 130A-511(b)(1) reads as rewritten:
+31 "(1) In consultation with the North Carolina Human Trafficking Commission, the
+32 North Carolina Restaurant and Lodging Association, and the Department of
+33 Health and Human Services, develop a training course, or identify existing
+34 training courses, to inform and educate individuals about human trafficking.
+35 Chapter 150B of the General Statutes does not apply to any training required
+36 to be developed or identified under this subdivision."
+37 SECTION 3.(d) Subsection (a) of this section is effective when it becomes law and
+38 applies to investigations occurring before, on, or after that date. Subsection (b) of this section is
+39 effective when it becomes law and applies to training required to be completed on or after that
+40 date. Subsection (c) of this section is effective when it becomes law and applies to training
+41 developed or identified before, on, or after that date.
+42
+43 EFFECTIVE DATE
+44 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+45 law.
+House Bill 83-Fourth Edition Page 3
+
+[DELETED:  4 R (   A A T A T O O D O T M D H M T M A E H P T M T T L O C C T M R R U T S O T H T C T C A S O A S T T  D M S " ( O C m o t ( R – W a p i c o a v o t s t s r f t e S " ( O d r i]
+[DELETED:  S  H ( R – W a p i c o a v o t s t s r f t e S " t ( D h o ( S m ( A ( E h c h … ( R – W a p i c o a v o t s t s r f t e S r " A f c f a v o G 1 o 1 p 1 S s f S o  S S ( H s U ( N C i r a a l i e t c h t h f p i l e o h p t a s w o l t t a S d ( A f m c n]
+[DELETED:  S  P l a S s d A s H t p r t r a ( s r c b i a s S  T S " S i d … ( I m i o i w o o u t s o t D o A C o m r t t m o d o b t D o A C S " T e o a S " I N H t C t S a e d d  E S l]

@@ -1,0 +1,172 @@
+Title: SENATE BILL DRS45584-MUe-106
+Official Title: SENATE BILL DRS45584-MUe-106
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Jun 17, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 1087
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: Post-Election Audits by State Auditor. (Public)
+Sponsors: Senators Overcash, Daniel, and Hise (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE STATE AUDITOR TO AUDIT ELECTION PROCEDURES.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. Article 5A of Chapter 147 of the General Statutes is amended by
+5 adding a new section to read:
+6 "§ 147-64.6Q. Audit of general elections.
+7 (a) After the certification of each general election, the Auditor shall select counties of the
+8 State in which to conduct post-election audits of election system and controls. The number of
+9 audits to be conducted and the selection of counties to be audited is at the discretion of the
+10 Auditor, but all county boards of elections must be audited within a reasonable time frame. No
+11 county audit under this section shall occur until after the election is certified pursuant to
+12 G.S. 163-182.15. Nothing in this section supersedes, overrides, or replaces any procedures in
+13 Article 15A of Chapter 163 of the General Statutes. No findings in audits under this section shall
+14 be used as grounds to challenge the final result of an election. Audits under this section are in
+15 addition to audits conducted under G.S. 163-182.12A.
+16 (b) In conducting audits under this section, the Auditor may examine all of the following
+17 areas:
+18 (1) The accuracy of voter rolls and compliance with list maintenance
+19 requirements in State and federal law.
+20 (2) Procedures for testing voting equipment before counting ballots, including the
+21 ballots used for testing the equipment and the storage and maintenance of the
+22 equipment.
+23 (3) Records of ballots distributed, ballots voted, poll book records, and ballots
+24 tabulated.
+25 (4) Chain of custody and seal documentation.
+26 (5) Absentee ballots, absentee ballot applications, absentee ballot envelopes,
+27 registrar records regarding absentee ballots, and records created and used by
+28 the ballot board to ensure appropriate processing and counting of absentee
+29 ballots.
+30 (6) Provisional ballots, provisional ballot envelopes, and records regarding
+31 provisional ballots.
+32 (7) Compliance with all State and federal laws regarding contact with voters and
+33 voter assistance.
+34 (8) Any areas of concern regarding election accuracy, security, or credibility
+35 uncovered over the course of the audit.
+*DRS45584-MUe-106*
+General Assembly Of North Carolina Session 2025
+1 (c) The State Board of Elections, each county board of elections, and the Division of
+2 Motor Vehicles of the Department of Transportation shall provide ready access to materials,
+3 equipment, personnel, or software necessary for audits under this section in accordance with
+4 G.S. 147-64.7. Election officials may be present during portions of an audit under this section as
+5 necessary to preserve chain of custody, when applicable.
+6 (d) The Auditor shall produce periodic reports of the audits conducted under this section
+7 and shall submit the reports to the Governor, Lieutenant Governor, Speaker of the House of
+8 Representatives, President Pro Tempore of the Senate, State Board of Elections, Joint Legislative
+9 Elections Oversight Committee, and Fiscal Research Division. The report shall include details of
+10 which areas listed in subsection (b) of this section were examined and the Auditor's findings
+11 related to those areas. Before submitting the report, the Auditor shall allow a local board of
+12 elections for any county discussed in the report to review the report and provide comments to be
+13 submitted along with it in accordance with G.S. 147-64.6(c)(13). The reports shall be
+14 prominently located on the Office of the State Auditor's website with any appropriate
+15 supplementary materials. The reports shall not violate any applicable confidentiality laws.
+16 (e) If the Auditor receives or collects information during an audit under this section that
+17 the Auditor believes may be evidence of a violation of State or federal law, the Auditor shall
+18 refer this evidence in accordance with G.S. 147-64.6B.
+19 (f) If an error, inefficiency, or vulnerability in a county's election system or controls is
+20 uncovered in an audit under this section, the county board of elections shall submit a report to
+21 the Auditor, the State Board of Elections, and the county board of commissioners outlining its
+22 plan to fix the error, inefficiency, or vulnerability.
+23 (g) The State Auditor, in collaboration with the State Board of Elections, shall develop
+24 an audit manual that details the policies and procedures guiding audits under this section. This
+25 manual will not have the force of law. The manual shall not be altered within the 90 days
+26 preceding an election in which the manual is utilized to conduct an audit under this section."
+27 SECTION 2. This act is effective when it becomes law.
+Page 2 DRS45584-MUe-106
+[DELETED:  D P ( S  A A T S a " ( A S a A c a u t s s o u a t e i c p t G A b a ( I a ( T a o v r a c w l m r ( P b e ( R t ( C ( A b a b a a b e r t b ( P b p b e a r r p ( C v ( A a o c r e a s o c u]
+[DELETED:  S  D ( T M e G n ( T a R E w r e s a w i i a w G T r s b p l o t O o t S A w w a a s ( I t r ( I u t p ( T a m s p S]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Jun 17, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 1087
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS45584-MUe-106
+Short Title: Post-Election Audits by State Auditor. (Public)
+Sponsors: Senators Overcash, Daniel, and Hise (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE STATE AUDITOR TO AUDIT ELECTION PROCEDURES.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. Article 5A of Chapter 147 of the General Statutes is amended by
+5 adding a new section to read:
+6 "§ 147-64.6Q. Audit of general elections.
+7 (a) After the certification of each general election, the Auditor shall select counties of the
+8 State in which to conduct post-election audits of election system and controls. The number of
+9 audits to be conducted and the selection of counties to be audited is at the discretion of the
+10 Auditor, but all county boards of elections must be audited within a reasonable time frame. No
+11 county audit under this section shall occur until after the election is certified pursuant to
+12 G.S. 163-182.15. Nothing in this section supersedes, overrides, or replaces any procedures in
+13 Article 15A of Chapter 163 of the General Statutes. No findings in audits under this section shall
+14 be used as grounds to challenge the final result of an election. Audits under this section are in
+15 addition to audits conducted under G.S. 163-182.12A.
+16 (b) In conducting audits under this section, the Auditor may examine all of the following
+17 areas:
+18 (1) The accuracy of voter rolls and compliance with list maintenance
+19 requirements in State and federal law.
+20 (2) Procedures for testing voting equipment before counting ballots, including the
+21 ballots used for testing the equipment and the storage and maintenance of the
+22 equipment.
+23 (3) Records of ballots distributed, ballots voted, poll book records, and ballots
+24 tabulated.
+25 (4) Chain of custody and seal documentation.
+26 (5) Absentee ballots, absentee ballot applications, absentee ballot envelopes,
+27 registrar records regarding absentee ballots, and records created and used by
+28 the ballot board to ensure appropriate processing and counting of absentee
+29 ballots.
+30 (6) Provisional ballots, provisional ballot envelopes, and records regarding
+31 provisional ballots.
+32 (7) Compliance with all State and federal laws regarding contact with voters and
+33 voter assistance.
+34 (8) Any areas of concern regarding election accuracy, security, or credibility
+35 uncovered over the course of the audit.
+*DRS45584-MUe-106*
+
+General Assembly Of North Carolina Session 2025
+1 (c) The State Board of Elections, each county board of elections, and the Division of
+2 Motor Vehicles of the Department of Transportation shall provide ready access to materials,
+3 equipment, personnel, or software necessary for audits under this section in accordance with
+4 G.S. 147-64.7. Election officials may be present during portions of an audit under this section as
+5 necessary to preserve chain of custody, when applicable.
+6 (d) The Auditor shall produce periodic reports of the audits conducted under this section
+7 and shall submit the reports to the Governor, Lieutenant Governor, Speaker of the House of
+8 Representatives, President Pro Tempore of the Senate, State Board of Elections, Joint Legislative
+9 Elections Oversight Committee, and Fiscal Research Division. The report shall include details of
+10 which areas listed in subsection (b) of this section were examined and the Auditor's findings
+11 related to those areas. Before submitting the report, the Auditor shall allow a local board of
+12 elections for any county discussed in the report to review the report and provide comments to be
+13 submitted along with it in accordance with G.S. 147-64.6(c)(13). The reports shall be
+14 prominently located on the Office of the State Auditor's website with any appropriate
+15 supplementary materials. The reports shall not violate any applicable confidentiality laws.
+16 (e) If the Auditor receives or collects information during an audit under this section that
+17 the Auditor believes may be evidence of a violation of State or federal law, the Auditor shall
+18 refer this evidence in accordance with G.S. 147-64.6B.
+19 (f) If an error, inefficiency, or vulnerability in a county's election system or controls is
+20 uncovered in an audit under this section, the county board of elections shall submit a report to
+21 the Auditor, the State Board of Elections, and the county board of commissioners outlining its
+22 plan to fix the error, inefficiency, or vulnerability.
+23 (g) The State Auditor, in collaboration with the State Board of Elections, shall develop
+24 an audit manual that details the policies and procedures guiding audits under this section. This
+25 manual will not have the force of law. The manual shall not be altered within the 90 days
+26 preceding an election in which the manual is utilized to conduct an audit under this section."
+27 SECTION 2. This act is effective when it becomes law.
+Page 2 DRS45584-MUe-106
+
+[DELETED:  D P ( S  A A T S a " ( A S a A c a u t s s o u a t e i c p t G A b a ( I a ( T a o v r a c w l m r ( P b e ( R t ( C ( A b a b a a b e r t b ( P b p b e a r r p ( C v ( A a o c r e a s o c u]
+[DELETED:  S  D ( T M e G n ( T a R E w r e s a w i i a w G T r s b p l o t O o t S A w w a a s ( I t r ( I u t p ( T a m s p S]

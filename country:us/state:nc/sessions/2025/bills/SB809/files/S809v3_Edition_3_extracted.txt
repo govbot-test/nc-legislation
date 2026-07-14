@@ -1,0 +1,134 @@
+Title: SENATE BILL 809
+Official Title: SENATE BILL 809
+Number of Sections: 1
+Source: versions - Edition 3
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 3
+House Committee Substitute Favorable 6/2/26
+House Committee Substitute #2 Favorable 6/2/26
+Short Title: Satellite Annexation Cap/Rural Hall Fire Dist. (Local)
+Sponsors:
+Referred to:
+April 22, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REMOVE THE CAP ON SATELLITE ANNEXATION FROM VARIOUS
+3 MUNICIPALITIES AND TO REMOVE THE TOWN OF RURAL HALL FROM THE
+4 FORSYTH COUNTY COUNTYWIDE FIRE SERVICE DISTRICT.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 160A-58.1(b) reads as rewritten:
+7 "(b) A noncontiguous area proposed for annexation must meet all of the following
+8 standards:
+9 …
+10 (5) The area within the proposed satellite corporate limits, when added to the area
+11 within all other satellite corporate limits, may not exceed ten percent (10%)
+12 of the area within the primary corporate limits of the annexing city.
+13 This subdivision does not apply to the Cities of Archdale, Asheboro,
+14 Belmont, Claremont, Concord, Conover, Dunn, Durham, Elizabeth City,
+15 Gastonia, Greenville, Hickory, Kannapolis, King, Kings Mountain, Locust,
+16 Lowell, Marion, Mount Airy, Mount Holly, New Bern, Newton, Oxford,
+17 Randleman, Roanoke Rapids, Rockingham, Saluda, Sanford, Salisbury,
+18 Shelby, Southport, Statesville, and Washington and the Towns of Ahoskie,
+19 Angier, Apex, Ayden, Belville, Benson, Bladenboro, Bridgeton, Bunn,
+20 Burgaw, Calabash, Carthage, Catawba, China Grove, Clayton, Cleveland,
+21 Coats, Columbia, Columbus, Cramerton, Creswell, Dallas, Dobson, Erwin,
+22 Four Oaks, Franklin, Franklinton, Franklinville, Fuquay-Varina, Garner,
+23 Godwin, Goldston, Granite Quarry, Green Level, Grimesland, Harrisburg,
+24 Holly Ridge, Holly Springs, Hookerton, Hope Mills, Huntersville,
+25 Jamestown, Kenansville, Kenly, Knightdale, Landis, Laurel Park, Liberty,
+26 Lillington, Louisburg, Madison, Maggie Valley, Maiden, Mayodan,
+27 Maysville, Middlesex, Midland, Mocksville, Morrisville, Mount Pleasant,
+28 Nashville, North Wilkesboro, Norwood, Oak Island, Oakboro, Ocean Isle
+29 Beach, Pembroke, Pine Level, Pollocksville, Princeton, Ramseur, Ranlo,
+30 Richlands, Rockwell, Rolesville, Rutherfordton, Shallotte, Siler City,
+31 Smithfield, Spencer, Spring Lake, Spruce Pine, Stanley, Stem, Stovall, Surf
+32 City, Swansboro, Taylorsville, Troutman, Troy, Vass, Wallace, Warsaw,
+33 Watha, Waynesville, Weldon, Wendell, West Jefferson, Wilson's Mills,
+34 Windsor, Wingate, Yadkinville, Youngsville, and Zebulon."
+*S809-v-3*
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.(a) The corporate limits of the Town of Rural Hall are hereby removed
+2 from the Forsyth County Countywide Fire Service District.
+3 SECTION 2.(b) This section has no effect upon the validity of any liens of Forsyth
+4 County for ad valorem taxes outstanding before the effective date of this section.
+5 SECTION 2.(c) This section becomes effective June 30, 2026. Property in the
+6 territory described in this section as of January 1, 2026, is no longer subject to Forsyth County
+7 Countywide Fire Service District taxes for taxes imposed for taxable years beginning on or after
+8 July 1, 2026.
+9 SECTION 3. Except as otherwise provided, this act is effective when it becomes
+10 law.
+Page 2 Senate Bill 809-Third Edition
+[DELETED:  3 S (   A A A T R T C O S A F V M T H F F T S " A n a p f a m m a o t f s … ( T w o T s d n a t t C o A A B C C C D D E C G L M M A M H N B N O R R R R S S S S A A A B B B B B B C C C C G C C C F O F F F F G G G G Q G L G H H R H S H H M H J K K K L L P L L L M M V M M M M M M M M P N N W N O I O O I B P P L P P R R R R R R S S C S C S T T T V W W W W W W W J W M W]
+[DELETED:  S  S S f S C S 2  T s b e J 3 2 P i t t C J S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 3
+SENATE BILL 809
+House Committee Substitute Favorable 6/2/26
+House Committee Substitute #2 Favorable 6/2/26
+Short Title: Satellite Annexation Cap/Rural Hall Fire Dist. (Local)
+Sponsors:
+Referred to:
+April 22, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REMOVE THE CAP ON SATELLITE ANNEXATION FROM VARIOUS
+3 MUNICIPALITIES AND TO REMOVE THE TOWN OF RURAL HALL FROM THE
+4 FORSYTH COUNTY COUNTYWIDE FIRE SERVICE DISTRICT.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 160A-58.1(b) reads as rewritten:
+7 "(b) A noncontiguous area proposed for annexation must meet all of the following
+8 standards:
+9 …
+10 (5) The area within the proposed satellite corporate limits, when added to the area
+11 within all other satellite corporate limits, may not exceed ten percent (10%)
+12 of the area within the primary corporate limits of the annexing city.
+13 This subdivision does not apply to the Cities of Archdale, Asheboro,
+14 Belmont, Claremont, Concord, Conover, Dunn, Durham, Elizabeth City,
+15 Gastonia, Greenville, Hickory, Kannapolis, King, Kings Mountain, Locust,
+16 Lowell, Marion, Mount Airy, Mount Holly, New Bern, Newton, Oxford,
+17 Randleman, Roanoke Rapids, Rockingham, Saluda, Sanford, Salisbury,
+18 Shelby, Southport, Statesville, and Washington and the Towns of Ahoskie,
+19 Angier, Apex, Ayden, Belville, Benson, Bladenboro, Bridgeton, Bunn,
+20 Burgaw, Calabash, Carthage, Catawba, China Grove, Clayton, Cleveland,
+21 Coats, Columbia, Columbus, Cramerton, Creswell, Dallas, Dobson, Erwin,
+22 Four Oaks, Franklin, Franklinton, Franklinville, Fuquay-Varina, Garner,
+23 Godwin, Goldston, Granite Quarry, Green Level, Grimesland, Harrisburg,
+24 Holly Ridge, Holly Springs, Hookerton, Hope Mills, Huntersville,
+25 Jamestown, Kenansville, Kenly, Knightdale, Landis, Laurel Park, Liberty,
+26 Lillington, Louisburg, Madison, Maggie Valley, Maiden, Mayodan,
+27 Maysville, Middlesex, Midland, Mocksville, Morrisville, Mount Pleasant,
+28 Nashville, North Wilkesboro, Norwood, Oak Island, Oakboro, Ocean Isle
+29 Beach, Pembroke, Pine Level, Pollocksville, Princeton, Ramseur, Ranlo,
+30 Richlands, Rockwell, Rolesville, Rutherfordton, Shallotte, Siler City,
+31 Smithfield, Spencer, Spring Lake, Spruce Pine, Stanley, Stem, Stovall, Surf
+32 City, Swansboro, Taylorsville, Troutman, Troy, Vass, Wallace, Warsaw,
+33 Watha, Waynesville, Weldon, Wendell, West Jefferson, Wilson's Mills,
+34 Windsor, Wingate, Yadkinville, Youngsville, and Zebulon."
+*S809-v-3*
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.(a) The corporate limits of the Town of Rural Hall are hereby removed
+2 from the Forsyth County Countywide Fire Service District.
+3 SECTION 2.(b) This section has no effect upon the validity of any liens of Forsyth
+4 County for ad valorem taxes outstanding before the effective date of this section.
+5 SECTION 2.(c) This section becomes effective June 30, 2026. Property in the
+6 territory described in this section as of January 1, 2026, is no longer subject to Forsyth County
+7 Countywide Fire Service District taxes for taxes imposed for taxable years beginning on or after
+8 July 1, 2026.
+9 SECTION 3. Except as otherwise provided, this act is effective when it becomes
+10 law.
+Page 2 Senate Bill 809-Third Edition
+
+[DELETED:  3 S (   A A A T R T C O S A F V M T H F F T S " A n a p f a m m a o t f s … ( T w o T s d n a t t C o A A B C C C D D E C G L M M A M H N B N O R R R R S S S S A A A B B B B B B C C C C G C C C F O F F F F G G G G Q G L G H H R H S H H M H J K K K L L P L L L M M V M M M M M M M M P N N W N O I O O I B P P L P P R R R R R R S S C S C S T T T V W W W W W W W J W M W]
+[DELETED:  S  S S f S C S 2  T s b e J 3 2 P i t t C J S l]

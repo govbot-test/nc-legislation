@@ -1,0 +1,961 @@
+Title: SENATE BILL 280
+Official Title: SENATE BILL 280
+Number of Sections: 1
+Source: versions - Edition 4
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 4
+Judiciary Committee Substitute Adopted 4/30/25
+Third Edition Engrossed 5/7/25
+House Committee Substitute Favorable 6/16/26
+Short Title: Dominique Moody Act. (Public)
+Sponsors:
+Referred to:
+March 13, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO THE LAWS REGARDING ABUSE,
+3 NEGLECT, AND DEPENDENCY CASES FOR JUVENILES.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. CHILD WELFARE CASE ESCALATION TEAM
+7 SECTION 1.(a) Article 1 of Chapter 108A of the General Statutes is amended by
+8 adding a new Part to read:
+9 "Part 2C. Child Welfare Case Escalation Team.
+10 "§ 108A-15.25. Child Welfare Case Escalation Team.
+11 (a) Child Welfare Case Escalation Team. – The Division shall maintain a representative
+12 for each child welfare services region that conducts escalation assessments, consistent with this
+13 section, of juveniles that have a history of child protective services attention due to a combination
+14 of safety and risk factors. The purpose of the team is to do all of the following:
+15 (1) Support county departments of social services.
+16 (2) Provide an additional level of review to ensure child safety statewide.
+17 (3) Provide quality assurance of the child protective services history of a family
+18 who has returned to the attention of child protective services, including
+19 assessing the quality of prior service intervention and further decisions of
+20 services provided to ensure the safety and well-being of juveniles moving
+21 forward with the family.
+22 (b) Staff. – The team is staffed by the Division, including the assigned manager and
+23 escalation specialists. The team shall collaborate and coordinate with (i) the regional child
+24 welfare specialist team supervisors or the regional child welfare specialists assigned to the
+25 county, (ii) the director of the county department of social services where the juvenile subject to
+26 the escalation notification form resides, and (iii) local law enforcement.
+27 "§ 108A-15.26. Definitions.
+28 The following definitions apply in this Part:
+29 (1) Caretaker. – As defined in G.S. 7B-101.
+30 (2) Division. – The Division of Social Services of the Department of Health and
+31 Human Services.
+32 (3) Extensive child welfare history. – Any one or more of the following:
+33 a. Involvement of a medically complex juvenile who requires
+34 subspecialty care by two or more specialties.
+*S280-v-4*
+General Assembly Of North Carolina Session 2025
+1 b. Receipt of a second report for medical neglect within six months of
+2 the current report.
+3 c. Involvement of a juvenile that requires devices to sustain their
+4 function, such as a tracheostomy or gastric tube, who has had three or
+5 more prior cases for concerns of medical neglect.
+6 d. Families with five or more child protective services cases with
+7 concerns for neglect regardless of case decision or families that have
+8 three or more cases, if any of those cases involved concerns for abuse.
+9 e. Families that have three or more prior child protective services reports
+10 with concerns for domestic violence or active or current drug activity.
+11 f. Any report on an active temporary safety provider or kinship care
+12 provider.
+13 g. Cases in which there exists a previous child protective services history
+14 with the family and involves a near fatality of a juvenile.
+15 h. Any case that has had a prior history involving a child fatality as a
+16 result of concerns for abuse or neglect and there is a new child in the
+17 residence.
+18 i. Multiple prior involvements with child welfare services, including
+19 in-home services or permanency planning.
+20 (4) High-risk home. – A home or individual that meets any of the following
+21 criteria:
+22 a. History of extensive child welfare involvement.
+23 b. Two or more screened out reports alleging abuse or neglect of any
+24 juvenile that indicate a pattern of concern despite prior screening
+25 decisions.
+26 c. History of prior removal and placement of any juvenile into foster or
+27 kinship care.
+28 d. Two or more substantiated or unsubstantiated reports that demonstrate
+29 a pattern consistent with chronic or habitual neglect or abuse of any
+30 juvenile.
+31 e. Ongoing medical or mental health neglect, such as repeated reports of
+32 failing to address any juvenile's medical or mental health needs, with
+33 allegations consistent across multiple reports and time frames.
+34 (5) Juvenile. – As defined in G.S. 7B-101.
+35 (6) Near fatality. – As defined in G.S. 7B-2902.
+36 (7) Team. – The Child Welfare Case Escalation Team.
+37 "§ 108A-15.27. Child Welfare Case Escalation Team initial procedure.
+38 (a) Criteria. – The director of the county department of social services shall notify the
+39 Child Welfare Case Escalation Team as provided for in subsection (b) of this section when a
+40 county department of social services receives a report of abuse or neglect to screen under Article
+41 3 of Subchapter I of Chapter 7B of the General Statutes that involves a juvenile residing or located
+42 in a high-risk home.
+43 (b) Notification. – When a child welfare report meets the criteria of subsection (a) of this
+44 section, the receiving county department of social services shall complete an escalation
+45 notification form within two business days and return via email or automated process to the
+46 escalation team.
+47 (c) Information Sharing. – The assigned escalation specialist shall coordinate with the
+48 county department of social services to obtain access to the entirety of the case record to address
+49 immediate safety of the juvenile. Upon request, the county department of social services shall
+50 provide any records in their possession related to the juvenile's case and identified in the
+Page 2 Senate Bill 280-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 escalation notification form. Pursuant to G.S. 7B-302, the escalation specialist may also demand,
+2 in writing, records in possession of State or local law enforcement.
+3 "§ 108A-15.28. Child welfare case escalation assessment.
+4 (a) Assessment. – Once the escalation specialist receives all pertinent information and
+5 records from the county department of social services under G.S. 108A-15.27, the escalation
+6 specialist shall do all of the following:
+7 (1) Assess child welfare history, including all reports and findings, interviews
+8 conducted and collateral interviews, safety plans developed for the juvenile,
+9 and services provided to the family.
+10 (2) Identify gaps in services and other areas that impact safety of the juvenile.
+11 (3) Review the overall safety planning for the juvenile in the current assessment
+12 to determine if there are additional steps required to ensure safety.
+13 (4) Create a chronological time line of child protective services intervention to
+14 understand the maltreatment factors of concern related to the family to aid in
+15 decision making.
+16 (b) Collaboration. – The escalation specialist assigned to the case and other team
+17 members shall provide necessary technical assistance to the county department of social services
+18 throughout the assessment phase of the child protective services case to identify any patterns or
+19 contributory factors from past history that may impact a caretaker's ability to assess and control
+20 for present danger threats. The escalation specialist shall do all of the following in collaboration
+21 with the county department of social services:
+22 (1) Be involved in determining the case decision and in identifying services
+23 needed for incorporation into the family case plan, taking into account the
+24 family's history and interventions identified in the chronological time line.
+25 (2) Guide current intervention steps and improve practice, any practice concerns
+26 from child protective services involvement, and discuss that involvement with
+27 the county director of social services and regional child welfare specialist team
+28 supervisors or the regional child welfare specialist team members assigned to
+29 the county.
+30 (c) Response. – The county department of social services shall respond to all unaddressed
+31 safety concerns identified through the team's review process immediately or within the same day
+32 of notification.
+33 (d) Review. – The team and other assigned Division and Department of Health and
+34 Human Services staff shall review records to ensure that practices that have deficiencies are
+35 corrected and there is communication with county department staff and others to improve child
+36 welfare practices at all levels across the county departments of social services."
+37 SECTION 1.(b) The Child Welfare Case Escalation Team shall consist of eight
+38 full-time equivalent positions to staff and implement the Child Welfare Case Escalation Team,
+39 as established in this section. These full-time equivalent positions shall include seven human
+40 services program consultants and one human services program manager.
+41 SECTION 1.(c) The Department of Health and Human Services, Division of Social
+42 Services, shall explore means and resources needed to automate and reduce the burden on the
+43 county workforce to alert the Division of escalation reviews as established under this section.
+44 When exploring these options, the Division shall consider using the Partnership and Technology
+45 Hub for North Carolina to make an automated process for those reviews.
+46 SECTION 1.(d) The Division shall amend protocols and rules as necessary to
+47 integrate Child Welfare Case Escalation Team involvement into the entry of a private residence,
+48 as provided for under G.S. 7B-302(h), as amended by this act, to ensure seamless and coordinated
+49 assistance for high-risk juveniles at risk of abuse or neglect.
+50
+Senate Bill 280-Fourth Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 PART II. CPS EMPLOYEE ASSESSMENT HOME VISIT AND RECORD
+2 MODIFICATIONS
+3 SECTION 2.(a) The Department of Health and Human Services, Division of Social
+4 Services, shall adopt rules to amend Subchapter 70A of the North Carolina Administrative Code
+5 and update associated Division policies; Child Protective Services Assessments Policy, Protocol,
+6 and Guidance; and the Partnership and Technology Hub for North Carolina to require directors
+7 of departments of social services to require photographs or video evidence to be gathered during
+8 an initial investigative assessment response or initial family assessment response when the
+9 assessment is investigating allegations that a child is an abused or neglected juvenile and that
+10 those photographs or video evidence be maintained as a permanent part of the case file, consistent
+11 with the requirements of Article 3 of Subchapter I of Chapter 7B of the General Statutes.
+12 SECTION 2.(b) G.S. 7B-302 reads as rewritten:
+13 "§ 7B-302. Assessment by director; military affiliation; access to confidential information;
+14 notification of person making the report.
+15 …
+16 (e) In performing any duties related to the assessment of the report or the provision or
+17 arrangement for protective services, the director may consult with any public or private agencies
+18 or individuals, including the available State or local law enforcement officers who shall assist in
+19 the assessment and evaluation of the seriousness of any report of abuse, neglect, or dependency
+20 when requested by the director. The director or the director's representative may make a written
+21 demand for any information or reports, whether or not confidential, that may in the director's
+22 opinion be relevant to the assessment or provision of protective services. Upon the director's or
+23 the director's representative's request and unless protected by the attorney-client privilege, any
+24 public or private agency or individual shall provide access to and copies of this confidential
+25 information and these records to the extent permitted by federal law and regulations. If a
+26 custodian of criminal investigative information or records believes that release of the information
+27 will jeopardize the right of the State to prosecute a defendant or the right of a defendant to receive
+28 a fair trial or will undermine an ongoing or future investigation, it may seek an order from a court
+29 of competent jurisdiction to prevent disclosure of the information. In such an action, the custodian
+30 of the records shall have the burden of showing by a preponderance of the evidence evidence, or
+31 clear and convincing evidence if the request is from the Child Welfare Case Escalation Team
+32 pursuant to a written demand under G.S. 108A-15.27(c), that disclosure of the information in
+33 question will jeopardize the right of the State to prosecute a defendant or the right of a defendant
+34 to receive a fair trial or will undermine an ongoing or future investigation. Actions brought
+35 pursuant to this paragraph shall be set down for immediate hearing, and subsequent proceedings
+36 in the actions shall be accorded priority by the trial and appellate courts.
+37 …
+38 (h) The director or the director's representative may not enter a private residence for
+39 assessment purposes without at least one of the following:
+40 (1) The reasonable belief that a juvenile is in imminent danger of death or serious
+41 physical injury.
+42 (2) The permission of the parent or person responsible for the juvenile's care.
+43 (3) The accompaniment of a law enforcement officer who has legal authority to
+44 enter the residence.
+45 (4) An order from a court of competent jurisdiction.
+46 (5) If the report alleges suspected abuse or neglect of a juvenile in a high-risk
+47 home, as defined in G.S. 108A-15.26, and the Child Welfare Case Escalation
+48 Team has been activated and is assisting the county department of social
+49 services conducting the assessment at the juvenile's residence."
+50
+51 PART III. RECOGNITION OF CHILD ABUSE AND NEGLECT TRAINING
+Page 4 Senate Bill 280-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 3. The Department of Health and Human Services, Division of Social
+2 Services, shall create a training program for child protective services employees and social
+3 workers employed by county departments of social services to recognize abuse and neglect. Once
+4 developed, the Division shall ensure that this training is virtually available for future trainings
+5 and continuing education for those employees that need it. The Division shall prioritize training
+6 specialists, prior to dissemination to the entirety of social workers statewide.
+7
+8 PART IV. LIABILITY
+9 SECTION 4. The North Carolina Department of Justice shall provide
+10 recommendations to the Joint Legislative Oversight Committee on Health and Human Services
+11 on reducing the State's liability and placing some liability on the county when a county
+12 department of social services fails to follow statutory requirements or the State's policies and
+13 procedures regarding the provision of child welfare services. The North Carolina Department of
+14 Justice shall provide its recommendations, including any necessary statutory changes to
+15 effectuate those recommendations, to the Joint Legislative Oversight Committee on Health and
+16 Human Services no later than March 1, 2027.
+17
+18 PART V. PROCEDURE FOR EXPUNGEMENT FROM RESPONSIBLE INDIVIDUALS
+19 LIST
+20 SECTION 5.(a) G.S. 7B-200(a) reads as rewritten:
+21 "(a) The court has exclusive, original jurisdiction over any case involving a juvenile who
+22 is alleged to be abused, neglected, or dependent. This jurisdiction does not extend to cases
+23 involving adult defendants alleged to be guilty of abuse or neglect. The court also has exclusive
+24 original jurisdiction of the following proceedings:
+25 …
+26 (9) Petitions for judicial review of a director's determination Proceedings
+27 involving placement on or expungement from the responsible individuals list
+28 under Article 3A of this Chapter."
+29 SECTION 5.(b) G.S. 7B-325(b) reads as rewritten:
+30 "(b) The petition for expungement shall be filed with the district court of the county in
+31 which the abuse or serious neglect report arose. A copy shall be delivered in person or by certified
+32 mail, return receipt requested, to the director of the county department of social services of that
+33 county. who determined the abuse or serious neglect and identified the individual seeking
+34 expungement as a responsible individual. The petition for expungement shall contain the name,
+35 date of birth, and address of the individual seeking expungement, the name of the juvenile who
+36 was the subject of the determination of abuse or serious neglect, and facts that invoke the
+37 jurisdiction of the court."
+38
+39 PART VI. CLARIFY CHILD WELFARE PROCEDURE
+40 SECTION 6.(a) G.S. 7B-900.1(b) reads as rewritten:
+41 "(b) Before ordering that a case be transferred to another county, the court shall find that
+42 the director of the department of social services in the county in which the action is pending and
+43 the director in the county to which transfer is contemplated have communicated about the case
+44 and that:
+45 (1) The two directors are in agreement with respect to each county's responsibility
+46 for providing financial support for the juvenile and services for the juvenile
+47 and the juvenile's family; or
+48 (2) The Director of the Division of Social Services or the Director's designee has
+49 made that determination pursuant to G.S. 153A-257(d).G.S. 153A-257(d) or
+50 appointed a county department of social services to assume management of
+51 the case pursuant to G.S. 7B-302.1(c)."
+Senate Bill 280-Fourth Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 SECTION 6.(b) G.S. 7B-901(d) reads as rewritten:
+2 "(d) When the court determines that reunification efforts are not required, the reunification
+3 is excluded as a permanent plan. The court shall order concurrent a permanent plans plan as soon
+4 as possible, after providing each party with a reasonable opportunity to prepare and present
+5 evidence. evidence at a permanency planning hearing. The court shall schedule a permanency
+6 planning hearing within 30 days from the completion of the initial dispositional hearing to
+7 address the permanent plans plan in accordance with G.S. 7B‑906.1 and G.S. 7B‑906.2."
+8 SECTION 6.(c) G.S. 7B-903.1(c1) reads as rewritten:
+9 "(c1) If juvenile siblings are removed from the home and placed in the nonsecure custody
+10 of a county department of social services, the director shall make reasonable efforts to place the
+11 juvenile siblings in the same home. The director is not required to make reasonable efforts under
+12 this subsection if the director documents that placing the juvenile siblings would be contrary to
+13 the safety or well‑being of any of the juvenile siblings. If, after making reasonable efforts, the
+14 director is unable to place the juvenile siblings in the same home, the director shall make
+15 reasonable efforts to provide frequent sibling visitation and ongoing interaction between the
+16 juvenile siblings, unless the director documents that frequent visitation or other ongoing
+17 interaction between the juvenile siblings would be contrary to the safety or well‑being of any of
+18 the juvenile siblings."
+19 SECTION 6.(d) G.S. 7B-906.1 reads as rewritten:
+20 "§ 7B‑906.1. Review and permanency planning hearings.
+21 …
+22 (e) At any permanency planning hearing where the juvenile is not placed with a parent,
+23 the court shall additionally consider the following criteria and make written findings regarding
+24 those that are relevant:
+25 …
+26 (5) Whether the county department of social services has since the initial
+27 permanency plan planning hearing made reasonable efforts to implement the
+28 permanent plan for the juvenile.
+29 …
+30 (g) At the conclusion of each permanency planning hearing, the court shall make specific
+31 findings as to the best permanent plan or plans to achieve a safe, permanent home for the juvenile
+32 within a reasonable period of time.
+33 …
+34 (m) If the court finds that a proceeding to terminate the parental rights of the juvenile's
+35 parents is necessary in order to perfect the primary or sole permanent plan for the juvenile, the
+36 director of the department of social services shall file a petition to terminate parental rights within
+37 60 calendar days from the date of the entry of the order unless the court makes written findings
+38 regarding why the petition cannot be filed within 60 days. If the court makes findings to the
+39 contrary, the court shall specify the time frame in which any needed petition to terminate parental
+40 rights shall be filed.
+41 …."
+42 SECTION 6.(e) G.S. 7B-906.2(b) reads as rewritten:
+43 "(b) At any permanency planning hearing where the court is ordering reunification as a
+44 permanent plan, the court shall adopt concurrent permanent plans and shall identify the primary
+45 plan and secondary plan. Reunification shall be a primary or secondary plan unless the court
+46 relieved the department of making reunification efforts at initial disposition under
+47 G.S. 7B‑901(c), previously made written findings under G.S. 7B‑906.1(d)(3), the permanent plan
+48 is or has been achieved, or the court makes written findings that reunification efforts clearly
+49 would be unsuccessful or would be inconsistent with the juvenile's health or safety. The finding
+50 that reunification efforts clearly would be unsuccessful or inconsistent with the juvenile's health
+51 or safety may be made at any permanency planning hearing, and if made, shall eliminate
+Page 6 Senate Bill 280-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 reunification as a plan. When reunification has been eliminated as a permanent plan, concurrent
+2 planning is not required. Unless permanence has been achieved, the court shall order the county
+3 department of social services to make efforts toward finalizing the primary and secondary
+4 permanent plans or the sole permanent plan and may specify efforts that are reasonable to timely
+5 achieve permanence for the juvenile."
+6 SECTION 6.(f) G.S. 7B-908(c) reads as rewritten:
+7 "(c) The court shall consider at least the following in its review and make written findings
+8 regarding the following that are relevant:
+9 (1) The adequacy of the permanency plan or plans developed by the county
+10 department of social services or a licensed child‑placing agency for a
+11 permanent placement in the juvenile's best interests and the efforts of the
+12 department or agency to implement the plan or plans.
+13 …."
+14 SECTION 6.(g) G.S. 7B-909.2(h) reads as rewritten:
+15 "(h) The court shall not enter an order to approve the post‑adoption contact agreement
+16 unless the agreement is in writing and executed prior to or as part of the relinquishment. The
+17 agreement and order shall not be filed in the juvenile proceeding. When the court approves the
+18 post‑adoption contact agreement:
+19 …
+20 (4) The record of the civil action shall be withheld from public inspection and
+21 may only be examined by the parties to the civil action and their attorneys, the
+22 minor adoptee, adoptee after the adoptee turns 18 years old or is otherwise
+23 emancipated, or by order of the court."
+24 SECTION 6.(h) G.S. 7B-909.3 reads as rewritten:
+25 "§ 7B-909.3. Modification, enforcement, and termination of a post‑adoption contact
+26 agreement and order; no right to appeal; rights of adoptive parents.
+27 …
+28 (e) A party subject to an order under this section has no right to appeal the order.order
+29 which terminates, modifies, or enforces the post-adoption contact agreement and order.
+30 Notwithstanding other provisions of this section, a party to an order under this section has the
+31 right to appeal any order finding him or her in contempt of the order as provided for in Chapter
+32 5A of the General Statutes.
+33 …."
+34
+35 PART VII. TERMINATION OF PARENTAL RIGHTS
+36 SECTION 7.(a) G.S. 7B-1101.1(b) reads as rewritten:
+37 "(b) In addition to the right to appointed counsel under subsection (a) of this section, a
+38 guardian ad litem shall be appointed in accordance with G.S. 1A‑1, Rule 17, to represent any
+39 parent who is under the age of 18 years and who is not married or otherwise emancipated.16
+40 years. On motion of any party or on the court's own motion, the court may appoint a guardian ad
+41 litem for a parent who is 16 or 17 years old and who is not married or otherwise emancipated."
+42 SECTION 7.(b) G.S. 7B-1103(a) reads as rewritten:
+43 "(a) A petition or motion to terminate the parental rights of either or both parents to his,
+44 her, or their minor juvenile may only be filed by one or more of the following:
+45 …
+46 (4) Any county department of social services, consolidated county human
+47 services agency, or licensed child‑placing agency to which the juvenile has
+48 been surrendered relinquished for adoption by one of the parents or by the
+49 guardian of the person of the juvenile, pursuant to G.S. 48‑3‑701.
+50 (4a) Any county department of social services who has received a safely
+51 surrendered infant, pursuant to Article 5A of this Subchapter.
+Senate Bill 280-Fourth Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 7.(c) G.S. 7B-1112 reads as rewritten:
+3 "§ 7B-1112. Effects of termination order.
+4 An order terminating the parental rights completely and permanently terminates all rights and
+5 obligations of the parent to the juvenile and of the juvenile to the parent arising from the parental
+6 relationship, except that the juvenile's right of inheritance from the juvenile's parent shall not
+7 terminate until a final order of adoption is issued. The parent is not thereafter entitled to notice
+8 of proceedings to adopt the juvenile and may not object thereto or otherwise participate therein:
+9 (1) If the juvenile had been placed in the custody of or released for adoption by
+10 one parent to a county department of social services or licensed child‑placing
+11 agency and is in the custody of the agency at the time of the filing of the
+12 petition or motion, including a petition or motion filed pursuant to
+13 G.S. 7B‑1103(a)(6), that agency shall, upon entry of the order terminating
+14 parental rights, acquire all of the rights for placement of the juvenile, except
+15 as otherwise provided in G.S. 7B‑908(d), G.S. 7B-908(d1), as the agency
+16 would have acquired had the parent whose rights are terminated released the
+17 juvenile to that agency pursuant to the provisions of Part 7 of Article 3 of
+18 Chapter 48 of the General Statutes, including the right to consent to the
+19 adoption of the juvenile.
+20 …."
+21
+22 PART VIII. UNDISCIPLINED AND DELINQUENT JUVENILES; NONSECURE
+23 CUSTODY
+24 SECTION 8. G.S. 7B-1905(a) reads as rewritten:
+25 "(a) A juvenile meeting the criteria set out in G.S. 7B‑1903(a), may be placed in nonsecure
+26 custody with a department of social services or a person designated in the order order. The
+27 department of social services with placement responsibility is authorized to place the juvenile for
+28 temporary residential placement in:in one of the following:
+29 (1) A licensed foster home or a home otherwise authorized by law to provide such
+30 care;care.
+31 (2) A facility operated by a department of social services; orservices.
+32 (2a) A facility licensed to provide care to juveniles.
+33 (3) Any other home or facility facility, such as the home of a parent, relative,
+34 nonrelative kin, or other person with legal custody of a sibling of the juvenile,
+35 approved by the court and designated in the order.
+36 The department shall not place a juvenile in any unlicensed facility or any facility that is not
+37 licensed to provide care for juveniles without the sanction of the court and so designated in the
+38 order prior to such placement being made.
+39 In placing a juvenile in nonsecure custody, the court shall first consider whether a relative of
+40 the juvenile is willing and able to provide proper care and supervision of the juvenile. If the court
+41 finds that the relative is willing and able to provide proper care and supervision, the court shall
+42 order placement of the juvenile with the relative unless the court finds that placement with the
+43 relative would be contrary to the best interest of the juvenile. Placement of a juvenile outside of
+44 this State shall be in accordance with the Interstate Compact on the Placement of Children set
+45 forth in Article 38 of this Chapter."
+46
+47 PART IX. INCLUSION OF EASTERN BAND OF CHEROKEE INDIANS IN CHILD
+48 ADVOCACY CENTERS
+49 SECTION 9.(a) G.S. 108A-77.1 reads as rewritten:
+50 "§ 108A-77.1. Definitions.
+51 The following definitions apply in this Article:
+Page 8 Senate Bill 280-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 …
+2 (7) Department. – As defined in G.S. 7B-101(8a).G.S. 7B-101 and the Eastern
+3 Band of Cherokee Indians Public Health and Human Services.
+4 …
+5 (10) Multidisciplinary team. – A group of professionals who represent various
+6 disciplines and work collaboratively pursuant to a written protocol to share
+7 information on service provision and investigations by law enforcement or a
+8 department to inform the investigation and prosecution of child maltreatment
+9 cases and to coordinate services in response to reports made of child
+10 maltreatment. The multidisciplinary team works solely on behalf of children
+11 served by a Children's Advocacy Center. In addition to the members listed in
+12 this subdivision, a multidisciplinary team may include other professionals
+13 involved in the delivery of services to victims of child maltreatment and their
+14 appropriate caregivers. Participation in a multidisciplinary team shall not
+15 preclude any member from carrying out any mandated responsibility of his or
+16 her profession. A Children's Advocacy Center's multidisciplinary team must
+17 include, at a minimum, the following professionals:
+18 a. A member of participating law enforcement agencies.
+19 b. The county district attorney or assistant district attorney.attorney or
+20 tribal prosecutor for the Eastern Band of Cherokee Indians.
+21 c. A member of the department's child protective services unit.
+22 d. A local mental health provider.
+23 e. A local health care provider.
+24 f. A victim advocate.
+25 g. Children's Advocacy Center staff.
+26 …."
+27 SECTION 9.(b) G.S. 108A-77.4(c) reads as rewritten:
+28 "(c) Disclosure of information and records outlined in subsection (b) of this section shall
+29 only be released or otherwise made available to the following:
+30 (1) The North Carolina Department of Health and Human Services and county
+31 departments.
+32 (2) Law enforcement agencies, a prosecuting district attorney, attorney, a tribal
+33 prosecutor for the Eastern Band of Cherokee Indians, or the Attorney General.
+34 (3) Health care providers or local management entity/managed care organizations
+35 providing medical or psychiatric care or services to the child, in the case of
+36 medical or mental health records.
+37 (4) The North Carolina Child Fatality Task Force.
+38 (5) As permitted under G.S. 7B-3100."
+39
+40 PART X. EFFECTIVE DATE
+41 SECTION 10. Subsection (a) of Section 1, subsection (b) of Section 2, and Part VI
+42 of this act become effective October 1, 2026. The remainder of this act is effective when it
+43 becomes law.
+Senate Bill 280-Fourth Edition Page 9
+[DELETED:  4 D (   A A A T M V C T T L R A N T  P S a " " ( C f s o ( S ( P ( P w h r t t a o c p s i a s f ( S e s T t s c a c w ( t r c w s t s o t r c w s a t t c t " T ( C ( D H ( E a I o a m c j w r s]
+[DELETED:  S  S b R t c I o a j t r d t s t f m d F w f o m c p s c w c t e F w f A r t s p p g C w h A r r i M p i w c w s i i ( H h – A h o i t m a o f c a H b T j t i a p o c d p s d c H k d T a j e O f a ( J ( N ( T " ( C C c 3 i ( N s t r c d o s s s c a e n e ( I c i p a r i t p r t t j c a i i t]
+[DELETED:  S  P e i " ( A r s ( A c a ( I ( R t ( C u d ( C – T e s a t t c a o t m t c f w ( B i i d t c d a i i s n f ( G f t s t ( R s o ( R – T t a o a D a D o H a H c w S f a s S S c W H S 1  T D s a p a r a n t i a a ]
+[DELETED:  S  S P I C E A H V A R M S S a a o a i i a r o i f a r w t a t w S " n … ( I a o t w d o t p i a t r t t e p b f l a r I a c w a o o c p q t p i … ( T a ( T p ( T ( T e ( A ( I h T h b a a i a t c d o s  P]
+[DELETED:  S  P S S s c a t p f c p s e a s w d a s  P S 4  T N C D o J s p r o r t S l a p s l o t c w a c d p J s p i r i a n s c t e H  P L S " T i a t b a n o T j d n e t c i o … ( P f j r o a d d P i u S " T w m c w d t a o s n a i t i s e d w t s o t d o a o s n a f t i t j  P S " B t t a ( T f a ( T m a t]
+[DELETED:  S  S S " W i a e p h w 3 d f t c o t i d h t a S " I o j t t d i u t p t j s i t s h t d s m r j s u t d d t f v o o o i t S " … ( A t t … ( W t c d o s s h s t i p p … ( A f w … ( I p d 6 r c r … S " A p p r t d o m r e a i d u G i w t o s m b m a a p p h a i m s e]
+[DELETED:  S  P r p d o s s t m e t f t p a s p a S " T r ( T a o t p p o p d b t c d o s s o a l c a f a p d … S " T u a p … ( T m m e S " 7  M e a t o a p c a … ( A w t m o e t p c a a o N r 5 …  P S " I g p y l S " A h … ( A c d o s s c c h s b g ( A c d o s s w h r a s s]
+[DELETED:  S  S … S " A o r t o ( I o a p o m i a p o m f p t G p a o p i G G a t a w j C 4 o t G S i t r t c t t a …  P V U A D J N C S " A c o d t ( A c ( A ( A ( A n a T l o I t f o r t f  P A S " T]
+[DELETED:  S  P … ( D B … ( M t – A g w r v d i d c a t c s i r t r m o c m s t s a m t m i o p i a c P i a m t s n p h i a A b T t c A d A e A f A g C … S " D o ( T d ( L p ( H p m ( T ( A  P S o b]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 4
+SENATE BILL 280
+Judiciary Committee Substitute Adopted 4/30/25
+Third Edition Engrossed 5/7/25
+House Committee Substitute Favorable 6/16/26
+Short Title: Dominique Moody Act. (Public)
+Sponsors:
+Referred to:
+March 13, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO THE LAWS REGARDING ABUSE,
+3 NEGLECT, AND DEPENDENCY CASES FOR JUVENILES.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. CHILD WELFARE CASE ESCALATION TEAM
+7 SECTION 1.(a) Article 1 of Chapter 108A of the General Statutes is amended by
+8 adding a new Part to read:
+9 "Part 2C. Child Welfare Case Escalation Team.
+10 "§ 108A-15.25. Child Welfare Case Escalation Team.
+11 (a) Child Welfare Case Escalation Team. – The Division shall maintain a representative
+12 for each child welfare services region that conducts escalation assessments, consistent with this
+13 section, of juveniles that have a history of child protective services attention due to a combination
+14 of safety and risk factors. The purpose of the team is to do all of the following:
+15 (1) Support county departments of social services.
+16 (2) Provide an additional level of review to ensure child safety statewide.
+17 (3) Provide quality assurance of the child protective services history of a family
+18 who has returned to the attention of child protective services, including
+19 assessing the quality of prior service intervention and further decisions of
+20 services provided to ensure the safety and well-being of juveniles moving
+21 forward with the family.
+22 (b) Staff. – The team is staffed by the Division, including the assigned manager and
+23 escalation specialists. The team shall collaborate and coordinate with (i) the regional child
+24 welfare specialist team supervisors or the regional child welfare specialists assigned to the
+25 county, (ii) the director of the county department of social services where the juvenile subject to
+26 the escalation notification form resides, and (iii) local law enforcement.
+27 "§ 108A-15.26. Definitions.
+28 The following definitions apply in this Part:
+29 (1) Caretaker. – As defined in G.S. 7B-101.
+30 (2) Division. – The Division of Social Services of the Department of Health and
+31 Human Services.
+32 (3) Extensive child welfare history. – Any one or more of the following:
+33 a. Involvement of a medically complex juvenile who requires
+34 subspecialty care by two or more specialties.
+*S280-v-4*
+
+General Assembly Of North Carolina Session 2025
+1 b. Receipt of a second report for medical neglect within six months of
+2 the current report.
+3 c. Involvement of a juvenile that requires devices to sustain their
+4 function, such as a tracheostomy or gastric tube, who has had three or
+5 more prior cases for concerns of medical neglect.
+6 d. Families with five or more child protective services cases with
+7 concerns for neglect regardless of case decision or families that have
+8 three or more cases, if any of those cases involved concerns for abuse.
+9 e. Families that have three or more prior child protective services reports
+10 with concerns for domestic violence or active or current drug activity.
+11 f. Any report on an active temporary safety provider or kinship care
+12 provider.
+13 g. Cases in which there exists a previous child protective services history
+14 with the family and involves a near fatality of a juvenile.
+15 h. Any case that has had a prior history involving a child fatality as a
+16 result of concerns for abuse or neglect and there is a new child in the
+17 residence.
+18 i. Multiple prior involvements with child welfare services, including
+19 in-home services or permanency planning.
+20 (4) High-risk home. – A home or individual that meets any of the following
+21 criteria:
+22 a. History of extensive child welfare involvement.
+23 b. Two or more screened out reports alleging abuse or neglect of any
+24 juvenile that indicate a pattern of concern despite prior screening
+25 decisions.
+26 c. History of prior removal and placement of any juvenile into foster or
+27 kinship care.
+28 d. Two or more substantiated or unsubstantiated reports that demonstrate
+29 a pattern consistent with chronic or habitual neglect or abuse of any
+30 juvenile.
+31 e. Ongoing medical or mental health neglect, such as repeated reports of
+32 failing to address any juvenile's medical or mental health needs, with
+33 allegations consistent across multiple reports and time frames.
+34 (5) Juvenile. – As defined in G.S. 7B-101.
+35 (6) Near fatality. – As defined in G.S. 7B-2902.
+36 (7) Team. – The Child Welfare Case Escalation Team.
+37 "§ 108A-15.27. Child Welfare Case Escalation Team initial procedure.
+38 (a) Criteria. – The director of the county department of social services shall notify the
+39 Child Welfare Case Escalation Team as provided for in subsection (b) of this section when a
+40 county department of social services receives a report of abuse or neglect to screen under Article
+41 3 of Subchapter I of Chapter 7B of the General Statutes that involves a juvenile residing or located
+42 in a high-risk home.
+43 (b) Notification. – When a child welfare report meets the criteria of subsection (a) of this
+44 section, the receiving county department of social services shall complete an escalation
+45 notification form within two business days and return via email or automated process to the
+46 escalation team.
+47 (c) Information Sharing. – The assigned escalation specialist shall coordinate with the
+48 county department of social services to obtain access to the entirety of the case record to address
+49 immediate safety of the juvenile. Upon request, the county department of social services shall
+50 provide any records in their possession related to the juvenile's case and identified in the
+Page 2 Senate Bill 280-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 escalation notification form. Pursuant to G.S. 7B-302, the escalation specialist may also demand,
+2 in writing, records in possession of State or local law enforcement.
+3 "§ 108A-15.28. Child welfare case escalation assessment.
+4 (a) Assessment. – Once the escalation specialist receives all pertinent information and
+5 records from the county department of social services under G.S. 108A-15.27, the escalation
+6 specialist shall do all of the following:
+7 (1) Assess child welfare history, including all reports and findings, interviews
+8 conducted and collateral interviews, safety plans developed for the juvenile,
+9 and services provided to the family.
+10 (2) Identify gaps in services and other areas that impact safety of the juvenile.
+11 (3) Review the overall safety planning for the juvenile in the current assessment
+12 to determine if there are additional steps required to ensure safety.
+13 (4) Create a chronological time line of child protective services intervention to
+14 understand the maltreatment factors of concern related to the family to aid in
+15 decision making.
+16 (b) Collaboration. – The escalation specialist assigned to the case and other team
+17 members shall provide necessary technical assistance to the county department of social services
+18 throughout the assessment phase of the child protective services case to identify any patterns or
+19 contributory factors from past history that may impact a caretaker's ability to assess and control
+20 for present danger threats. The escalation specialist shall do all of the following in collaboration
+21 with the county department of social services:
+22 (1) Be involved in determining the case decision and in identifying services
+23 needed for incorporation into the family case plan, taking into account the
+24 family's history and interventions identified in the chronological time line.
+25 (2) Guide current intervention steps and improve practice, any practice concerns
+26 from child protective services involvement, and discuss that involvement with
+27 the county director of social services and regional child welfare specialist team
+28 supervisors or the regional child welfare specialist team members assigned to
+29 the county.
+30 (c) Response. – The county department of social services shall respond to all unaddressed
+31 safety concerns identified through the team's review process immediately or within the same day
+32 of notification.
+33 (d) Review. – The team and other assigned Division and Department of Health and
+34 Human Services staff shall review records to ensure that practices that have deficiencies are
+35 corrected and there is communication with county department staff and others to improve child
+36 welfare practices at all levels across the county departments of social services."
+37 SECTION 1.(b) The Child Welfare Case Escalation Team shall consist of eight
+38 full-time equivalent positions to staff and implement the Child Welfare Case Escalation Team,
+39 as established in this section. These full-time equivalent positions shall include seven human
+40 services program consultants and one human services program manager.
+41 SECTION 1.(c) The Department of Health and Human Services, Division of Social
+42 Services, shall explore means and resources needed to automate and reduce the burden on the
+43 county workforce to alert the Division of escalation reviews as established under this section.
+44 When exploring these options, the Division shall consider using the Partnership and Technology
+45 Hub for North Carolina to make an automated process for those reviews.
+46 SECTION 1.(d) The Division shall amend protocols and rules as necessary to
+47 integrate Child Welfare Case Escalation Team involvement into the entry of a private residence,
+48 as provided for under G.S. 7B-302(h), as amended by this act, to ensure seamless and coordinated
+49 assistance for high-risk juveniles at risk of abuse or neglect.
+50
+Senate Bill 280-Fourth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 PART II. CPS EMPLOYEE ASSESSMENT HOME VISIT AND RECORD
+2 MODIFICATIONS
+3 SECTION 2.(a) The Department of Health and Human Services, Division of Social
+4 Services, shall adopt rules to amend Subchapter 70A of the North Carolina Administrative Code
+5 and update associated Division policies; Child Protective Services Assessments Policy, Protocol,
+6 and Guidance; and the Partnership and Technology Hub for North Carolina to require directors
+7 of departments of social services to require photographs or video evidence to be gathered during
+8 an initial investigative assessment response or initial family assessment response when the
+9 assessment is investigating allegations that a child is an abused or neglected juvenile and that
+10 those photographs or video evidence be maintained as a permanent part of the case file, consistent
+11 with the requirements of Article 3 of Subchapter I of Chapter 7B of the General Statutes.
+12 SECTION 2.(b) G.S. 7B-302 reads as rewritten:
+13 "§ 7B-302. Assessment by director; military affiliation; access to confidential information;
+14 notification of person making the report.
+15 …
+16 (e) In performing any duties related to the assessment of the report or the provision or
+17 arrangement for protective services, the director may consult with any public or private agencies
+18 or individuals, including the available State or local law enforcement officers who shall assist in
+19 the assessment and evaluation of the seriousness of any report of abuse, neglect, or dependency
+20 when requested by the director. The director or the director's representative may make a written
+21 demand for any information or reports, whether or not confidential, that may in the director's
+22 opinion be relevant to the assessment or provision of protective services. Upon the director's or
+23 the director's representative's request and unless protected by the attorney-client privilege, any
+24 public or private agency or individual shall provide access to and copies of this confidential
+25 information and these records to the extent permitted by federal law and regulations. If a
+26 custodian of criminal investigative information or records believes that release of the information
+27 will jeopardize the right of the State to prosecute a defendant or the right of a defendant to receive
+28 a fair trial or will undermine an ongoing or future investigation, it may seek an order from a court
+29 of competent jurisdiction to prevent disclosure of the information. In such an action, the custodian
+30 of the records shall have the burden of showing by a preponderance of the evidence evidence, or
+31 clear and convincing evidence if the request is from the Child Welfare Case Escalation Team
+32 pursuant to a written demand under G.S. 108A-15.27(c), that disclosure of the information in
+33 question will jeopardize the right of the State to prosecute a defendant or the right of a defendant
+34 to receive a fair trial or will undermine an ongoing or future investigation. Actions brought
+35 pursuant to this paragraph shall be set down for immediate hearing, and subsequent proceedings
+36 in the actions shall be accorded priority by the trial and appellate courts.
+37 …
+38 (h) The director or the director's representative may not enter a private residence for
+39 assessment purposes without at least one of the following:
+40 (1) The reasonable belief that a juvenile is in imminent danger of death or serious
+41 physical injury.
+42 (2) The permission of the parent or person responsible for the juvenile's care.
+43 (3) The accompaniment of a law enforcement officer who has legal authority to
+44 enter the residence.
+45 (4) An order from a court of competent jurisdiction.
+46 (5) If the report alleges suspected abuse or neglect of a juvenile in a high-risk
+47 home, as defined in G.S. 108A-15.26, and the Child Welfare Case Escalation
+48 Team has been activated and is assisting the county department of social
+49 services conducting the assessment at the juvenile's residence."
+50
+51 PART III. RECOGNITION OF CHILD ABUSE AND NEGLECT TRAINING
+Page 4 Senate Bill 280-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3. The Department of Health and Human Services, Division of Social
+2 Services, shall create a training program for child protective services employees and social
+3 workers employed by county departments of social services to recognize abuse and neglect. Once
+4 developed, the Division shall ensure that this training is virtually available for future trainings
+5 and continuing education for those employees that need it. The Division shall prioritize training
+6 specialists, prior to dissemination to the entirety of social workers statewide.
+7
+8 PART IV. LIABILITY
+9 SECTION 4. The North Carolina Department of Justice shall provide
+10 recommendations to the Joint Legislative Oversight Committee on Health and Human Services
+11 on reducing the State's liability and placing some liability on the county when a county
+12 department of social services fails to follow statutory requirements or the State's policies and
+13 procedures regarding the provision of child welfare services. The North Carolina Department of
+14 Justice shall provide its recommendations, including any necessary statutory changes to
+15 effectuate those recommendations, to the Joint Legislative Oversight Committee on Health and
+16 Human Services no later than March 1, 2027.
+17
+18 PART V. PROCEDURE FOR EXPUNGEMENT FROM RESPONSIBLE INDIVIDUALS
+19 LIST
+20 SECTION 5.(a) G.S. 7B-200(a) reads as rewritten:
+21 "(a) The court has exclusive, original jurisdiction over any case involving a juvenile who
+22 is alleged to be abused, neglected, or dependent. This jurisdiction does not extend to cases
+23 involving adult defendants alleged to be guilty of abuse or neglect. The court also has exclusive
+24 original jurisdiction of the following proceedings:
+25 …
+26 (9) Petitions for judicial review of a director's determination Proceedings
+27 involving placement on or expungement from the responsible individuals list
+28 under Article 3A of this Chapter."
+29 SECTION 5.(b) G.S. 7B-325(b) reads as rewritten:
+30 "(b) The petition for expungement shall be filed with the district court of the county in
+31 which the abuse or serious neglect report arose. A copy shall be delivered in person or by certified
+32 mail, return receipt requested, to the director of the county department of social services of that
+33 county. who determined the abuse or serious neglect and identified the individual seeking
+34 expungement as a responsible individual. The petition for expungement shall contain the name,
+35 date of birth, and address of the individual seeking expungement, the name of the juvenile who
+36 was the subject of the determination of abuse or serious neglect, and facts that invoke the
+37 jurisdiction of the court."
+38
+39 PART VI. CLARIFY CHILD WELFARE PROCEDURE
+40 SECTION 6.(a) G.S. 7B-900.1(b) reads as rewritten:
+41 "(b) Before ordering that a case be transferred to another county, the court shall find that
+42 the director of the department of social services in the county in which the action is pending and
+43 the director in the county to which transfer is contemplated have communicated about the case
+44 and that:
+45 (1) The two directors are in agreement with respect to each county's responsibility
+46 for providing financial support for the juvenile and services for the juvenile
+47 and the juvenile's family; or
+48 (2) The Director of the Division of Social Services or the Director's designee has
+49 made that determination pursuant to G.S. 153A-257(d).G.S. 153A-257(d) or
+50 appointed a county department of social services to assume management of
+51 the case pursuant to G.S. 7B-302.1(c)."
+Senate Bill 280-Fourth Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 6.(b) G.S. 7B-901(d) reads as rewritten:
+2 "(d) When the court determines that reunification efforts are not required, the reunification
+3 is excluded as a permanent plan. The court shall order concurrent a permanent plans plan as soon
+4 as possible, after providing each party with a reasonable opportunity to prepare and present
+5 evidence. evidence at a permanency planning hearing. The court shall schedule a permanency
+6 planning hearing within 30 days from the completion of the initial dispositional hearing to
+7 address the permanent plans plan in accordance with G.S. 7B‑906.1 and G.S. 7B‑906.2."
+8 SECTION 6.(c) G.S. 7B-903.1(c1) reads as rewritten:
+9 "(c1) If juvenile siblings are removed from the home and placed in the nonsecure custody
+10 of a county department of social services, the director shall make reasonable efforts to place the
+11 juvenile siblings in the same home. The director is not required to make reasonable efforts under
+12 this subsection if the director documents that placing the juvenile siblings would be contrary to
+13 the safety or well‑being of any of the juvenile siblings. If, after making reasonable efforts, the
+14 director is unable to place the juvenile siblings in the same home, the director shall make
+15 reasonable efforts to provide frequent sibling visitation and ongoing interaction between the
+16 juvenile siblings, unless the director documents that frequent visitation or other ongoing
+17 interaction between the juvenile siblings would be contrary to the safety or well‑being of any of
+18 the juvenile siblings."
+19 SECTION 6.(d) G.S. 7B-906.1 reads as rewritten:
+20 "§ 7B‑906.1. Review and permanency planning hearings.
+21 …
+22 (e) At any permanency planning hearing where the juvenile is not placed with a parent,
+23 the court shall additionally consider the following criteria and make written findings regarding
+24 those that are relevant:
+25 …
+26 (5) Whether the county department of social services has since the initial
+27 permanency plan planning hearing made reasonable efforts to implement the
+28 permanent plan for the juvenile.
+29 …
+30 (g) At the conclusion of each permanency planning hearing, the court shall make specific
+31 findings as to the best permanent plan or plans to achieve a safe, permanent home for the juvenile
+32 within a reasonable period of time.
+33 …
+34 (m) If the court finds that a proceeding to terminate the parental rights of the juvenile's
+35 parents is necessary in order to perfect the primary or sole permanent plan for the juvenile, the
+36 director of the department of social services shall file a petition to terminate parental rights within
+37 60 calendar days from the date of the entry of the order unless the court makes written findings
+38 regarding why the petition cannot be filed within 60 days. If the court makes findings to the
+39 contrary, the court shall specify the time frame in which any needed petition to terminate parental
+40 rights shall be filed.
+41 …."
+42 SECTION 6.(e) G.S. 7B-906.2(b) reads as rewritten:
+43 "(b) At any permanency planning hearing where the court is ordering reunification as a
+44 permanent plan, the court shall adopt concurrent permanent plans and shall identify the primary
+45 plan and secondary plan. Reunification shall be a primary or secondary plan unless the court
+46 relieved the department of making reunification efforts at initial disposition under
+47 G.S. 7B‑901(c), previously made written findings under G.S. 7B‑906.1(d)(3), the permanent plan
+48 is or has been achieved, or the court makes written findings that reunification efforts clearly
+49 would be unsuccessful or would be inconsistent with the juvenile's health or safety. The finding
+50 that reunification efforts clearly would be unsuccessful or inconsistent with the juvenile's health
+51 or safety may be made at any permanency planning hearing, and if made, shall eliminate
+Page 6 Senate Bill 280-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 reunification as a plan. When reunification has been eliminated as a permanent plan, concurrent
+2 planning is not required. Unless permanence has been achieved, the court shall order the county
+3 department of social services to make efforts toward finalizing the primary and secondary
+4 permanent plans or the sole permanent plan and may specify efforts that are reasonable to timely
+5 achieve permanence for the juvenile."
+6 SECTION 6.(f) G.S. 7B-908(c) reads as rewritten:
+7 "(c) The court shall consider at least the following in its review and make written findings
+8 regarding the following that are relevant:
+9 (1) The adequacy of the permanency plan or plans developed by the county
+10 department of social services or a licensed child‑placing agency for a
+11 permanent placement in the juvenile's best interests and the efforts of the
+12 department or agency to implement the plan or plans.
+13 …."
+14 SECTION 6.(g) G.S. 7B-909.2(h) reads as rewritten:
+15 "(h) The court shall not enter an order to approve the post‑adoption contact agreement
+16 unless the agreement is in writing and executed prior to or as part of the relinquishment. The
+17 agreement and order shall not be filed in the juvenile proceeding. When the court approves the
+18 post‑adoption contact agreement:
+19 …
+20 (4) The record of the civil action shall be withheld from public inspection and
+21 may only be examined by the parties to the civil action and their attorneys, the
+22 minor adoptee, adoptee after the adoptee turns 18 years old or is otherwise
+23 emancipated, or by order of the court."
+24 SECTION 6.(h) G.S. 7B-909.3 reads as rewritten:
+25 "§ 7B-909.3. Modification, enforcement, and termination of a post‑adoption contact
+26 agreement and order; no right to appeal; rights of adoptive parents.
+27 …
+28 (e) A party subject to an order under this section has no right to appeal the order.order
+29 which terminates, modifies, or enforces the post-adoption contact agreement and order.
+30 Notwithstanding other provisions of this section, a party to an order under this section has the
+31 right to appeal any order finding him or her in contempt of the order as provided for in Chapter
+32 5A of the General Statutes.
+33 …."
+34
+35 PART VII. TERMINATION OF PARENTAL RIGHTS
+36 SECTION 7.(a) G.S. 7B-1101.1(b) reads as rewritten:
+37 "(b) In addition to the right to appointed counsel under subsection (a) of this section, a
+38 guardian ad litem shall be appointed in accordance with G.S. 1A‑1, Rule 17, to represent any
+39 parent who is under the age of 18 years and who is not married or otherwise emancipated.16
+40 years. On motion of any party or on the court's own motion, the court may appoint a guardian ad
+41 litem for a parent who is 16 or 17 years old and who is not married or otherwise emancipated."
+42 SECTION 7.(b) G.S. 7B-1103(a) reads as rewritten:
+43 "(a) A petition or motion to terminate the parental rights of either or both parents to his,
+44 her, or their minor juvenile may only be filed by one or more of the following:
+45 …
+46 (4) Any county department of social services, consolidated county human
+47 services agency, or licensed child‑placing agency to which the juvenile has
+48 been surrendered relinquished for adoption by one of the parents or by the
+49 guardian of the person of the juvenile, pursuant to G.S. 48‑3‑701.
+50 (4a) Any county department of social services who has received a safely
+51 surrendered infant, pursuant to Article 5A of this Subchapter.
+Senate Bill 280-Fourth Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 7.(c) G.S. 7B-1112 reads as rewritten:
+3 "§ 7B-1112. Effects of termination order.
+4 An order terminating the parental rights completely and permanently terminates all rights and
+5 obligations of the parent to the juvenile and of the juvenile to the parent arising from the parental
+6 relationship, except that the juvenile's right of inheritance from the juvenile's parent shall not
+7 terminate until a final order of adoption is issued. The parent is not thereafter entitled to notice
+8 of proceedings to adopt the juvenile and may not object thereto or otherwise participate therein:
+9 (1) If the juvenile had been placed in the custody of or released for adoption by
+10 one parent to a county department of social services or licensed child‑placing
+11 agency and is in the custody of the agency at the time of the filing of the
+12 petition or motion, including a petition or motion filed pursuant to
+13 G.S. 7B‑1103(a)(6), that agency shall, upon entry of the order terminating
+14 parental rights, acquire all of the rights for placement of the juvenile, except
+15 as otherwise provided in G.S. 7B‑908(d), G.S. 7B-908(d1), as the agency
+16 would have acquired had the parent whose rights are terminated released the
+17 juvenile to that agency pursuant to the provisions of Part 7 of Article 3 of
+18 Chapter 48 of the General Statutes, including the right to consent to the
+19 adoption of the juvenile.
+20 …."
+21
+22 PART VIII. UNDISCIPLINED AND DELINQUENT JUVENILES; NONSECURE
+23 CUSTODY
+24 SECTION 8. G.S. 7B-1905(a) reads as rewritten:
+25 "(a) A juvenile meeting the criteria set out in G.S. 7B‑1903(a), may be placed in nonsecure
+26 custody with a department of social services or a person designated in the order order. The
+27 department of social services with placement responsibility is authorized to place the juvenile for
+28 temporary residential placement in:in one of the following:
+29 (1) A licensed foster home or a home otherwise authorized by law to provide such
+30 care;care.
+31 (2) A facility operated by a department of social services; orservices.
+32 (2a) A facility licensed to provide care to juveniles.
+33 (3) Any other home or facility facility, such as the home of a parent, relative,
+34 nonrelative kin, or other person with legal custody of a sibling of the juvenile,
+35 approved by the court and designated in the order.
+36 The department shall not place a juvenile in any unlicensed facility or any facility that is not
+37 licensed to provide care for juveniles without the sanction of the court and so designated in the
+38 order prior to such placement being made.
+39 In placing a juvenile in nonsecure custody, the court shall first consider whether a relative of
+40 the juvenile is willing and able to provide proper care and supervision of the juvenile. If the court
+41 finds that the relative is willing and able to provide proper care and supervision, the court shall
+42 order placement of the juvenile with the relative unless the court finds that placement with the
+43 relative would be contrary to the best interest of the juvenile. Placement of a juvenile outside of
+44 this State shall be in accordance with the Interstate Compact on the Placement of Children set
+45 forth in Article 38 of this Chapter."
+46
+47 PART IX. INCLUSION OF EASTERN BAND OF CHEROKEE INDIANS IN CHILD
+48 ADVOCACY CENTERS
+49 SECTION 9.(a) G.S. 108A-77.1 reads as rewritten:
+50 "§ 108A-77.1. Definitions.
+51 The following definitions apply in this Article:
+Page 8 Senate Bill 280-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 …
+2 (7) Department. – As defined in G.S. 7B-101(8a).G.S. 7B-101 and the Eastern
+3 Band of Cherokee Indians Public Health and Human Services.
+4 …
+5 (10) Multidisciplinary team. – A group of professionals who represent various
+6 disciplines and work collaboratively pursuant to a written protocol to share
+7 information on service provision and investigations by law enforcement or a
+8 department to inform the investigation and prosecution of child maltreatment
+9 cases and to coordinate services in response to reports made of child
+10 maltreatment. The multidisciplinary team works solely on behalf of children
+11 served by a Children's Advocacy Center. In addition to the members listed in
+12 this subdivision, a multidisciplinary team may include other professionals
+13 involved in the delivery of services to victims of child maltreatment and their
+14 appropriate caregivers. Participation in a multidisciplinary team shall not
+15 preclude any member from carrying out any mandated responsibility of his or
+16 her profession. A Children's Advocacy Center's multidisciplinary team must
+17 include, at a minimum, the following professionals:
+18 a. A member of participating law enforcement agencies.
+19 b. The county district attorney or assistant district attorney.attorney or
+20 tribal prosecutor for the Eastern Band of Cherokee Indians.
+21 c. A member of the department's child protective services unit.
+22 d. A local mental health provider.
+23 e. A local health care provider.
+24 f. A victim advocate.
+25 g. Children's Advocacy Center staff.
+26 …."
+27 SECTION 9.(b) G.S. 108A-77.4(c) reads as rewritten:
+28 "(c) Disclosure of information and records outlined in subsection (b) of this section shall
+29 only be released or otherwise made available to the following:
+30 (1) The North Carolina Department of Health and Human Services and county
+31 departments.
+32 (2) Law enforcement agencies, a prosecuting district attorney, attorney, a tribal
+33 prosecutor for the Eastern Band of Cherokee Indians, or the Attorney General.
+34 (3) Health care providers or local management entity/managed care organizations
+35 providing medical or psychiatric care or services to the child, in the case of
+36 medical or mental health records.
+37 (4) The North Carolina Child Fatality Task Force.
+38 (5) As permitted under G.S. 7B-3100."
+39
+40 PART X. EFFECTIVE DATE
+41 SECTION 10. Subsection (a) of Section 1, subsection (b) of Section 2, and Part VI
+42 of this act become effective October 1, 2026. The remainder of this act is effective when it
+43 becomes law.
+Senate Bill 280-Fourth Edition Page 9
+
+[DELETED:  4 D (   A A A T M V C T T L R A N T  P S a " " ( C f s o ( S ( P ( P w h r t t a o c p s i a s f ( S e s T t s c a c w ( t r c w s t s o t r c w s a t t c t " T ( C ( D H ( E a I o a m c j w r s]
+[DELETED:  S  S b R t c I o a j t r d t s t f m d F w f o m c p s c w c t e F w f A r t s p p g C w h A r r i M p i w c w s i i ( H h – A h o i t m a o f c a H b T j t i a p o c d p s d c H k d T a j e O f a ( J ( N ( T " ( C C c 3 i ( N s t r c d o s s s c a e n e ( I c i p a r i t p r t t j c a i i t]
+[DELETED:  S  P e i " ( A r s ( A c a ( I ( R t ( C u d ( C – T e s a t t c a o t m t c f w ( B i i d t c d a i i s n f ( G f t s t ( R s o ( R – T t a o a D a D o H a H c w S f a s S S c W H S 1  T D s a p a r a n t i a a ]
+[DELETED:  S  S P I C E A H V A R M S S a a o a i i a r o i f a r w t a t w S " n … ( I a o t w d o t p i a t r t t e p b f l a r I a c w a o o c p q t p i … ( T a ( T p ( T ( T e ( A ( I h T h b a a i a t c d o s  P]
+[DELETED:  S  P S S s c a t p f c p s e a s w d a s  P S 4  T N C D o J s p r o r t S l a p s l o t c w a c d p J s p i r i a n s c t e H  P L S " T i a t b a n o T j d n e t c i o … ( P f j r o a d d P i u S " T w m c w d t a o s n a i t i s e d w t s o t d o a o s n a f t i t j  P S " B t t a ( T f a ( T m a t]
+[DELETED:  S  S S " W i a e p h w 3 d f t c o t i d h t a S " I o j t t d i u t p t j s i t s h t d s m r j s u t d d t f v o o o i t S " … ( A t t … ( W t c d o s s h s t i p p … ( A f w … ( I p d 6 r c r … S " A p p r t d o m r e a i d u G i w t o s m b m a a p p h a i m s e]
+[DELETED:  S  P r p d o s s t m e t f t p a s p a S " T r ( T a o t p p o p d b t c d o s s o a l c a f a p d … S " T u a p … ( T m m e S " 7  M e a t o a p c a … ( A w t m o e t p c a a o N r 5 …  P S " I g p y l S " A h … ( A c d o s s c c h s b g ( A c d o s s w h r a s s]
+[DELETED:  S  S … S " A o r t o ( I o a p o m i a p o m f p t G p a o p i G G a t a w j C 4 o t G S i t r t c t t a …  P V U A D J N C S " A c o d t ( A c ( A ( A ( A n a T l o I t f o r t f  P A S " T]
+[DELETED:  S  P … ( D B … ( M t – A g w r v d i d c a t c s i r t r m o c m s t s a m t m i o p i a c P i a m t s n p h i a A b T t c A d A e A f A g C … S " D o ( T d ( L p ( H p m ( T ( A  P S o b]

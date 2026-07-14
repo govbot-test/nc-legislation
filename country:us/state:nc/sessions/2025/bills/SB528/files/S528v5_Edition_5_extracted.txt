@@ -1,0 +1,820 @@
+Title: SENATE BILL 528
+Official Title: SENATE BILL 528
+Number of Sections: 1
+Source: versions - Edition 5
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 5
+Health Care Committee Substitute Adopted 4/9/25
+Third Edition Engrossed 4/15/25
+House Committee Substitute Favorable 6/9/26
+House Committee Substitute #2 Favorable 6/16/26
+Short Title: Health and Human Services Revisions. (Public)
+Sponsors:
+Referred to:
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT REVISING AND MODERNIZING THE HEALTH AND HUMAN SERVICES
+3 STATUTES.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART II. JOEL H. CRISP SUDEP AWARENESS LAW
+7 SECTION 2.(a) The University of North Carolina School of Medicine's Area Health
+8 Education Centers (NC AHEC) shall consult with the North Carolina Medical Board, North
+9 Carolina Department of Health and Human Services, North Carolina Medical Society, North
+10 Carolina Pediatric Society, North Carolina Academy of Family Physicians, North Carolina Board
+11 of Nursing, North Carolina Board of Pharmacy, and North Carolina Nurses Association to gather
+12 evidence-based information on sudden unexpected death in epilepsy from publications and
+13 nonprofit organizations to create standard information to provide to all health care practitioners
+14 in this State. The information shall include, at a minimum, current and evidence-based
+15 information about sudden unexpected death in epilepsy risk factors and conditions and contact
+16 information for nonprofit organizations that provide support services for epilepsy conditions. The
+17 information shall be made available on NC AHEC's website and readily accessible to health care
+18 practitioners in this State. No later than September 1, 2026, NC AHEC shall report to the Joint
+19 Legislative Oversight Committee on Health and Human Services a completed summary or
+20 booklet of information provided to health care practitioners in the report.
+21 SECTION 2.(b) This section is effective when it becomes law.
+22
+23 PART III. VETERANS AND ELECTROENCEPHALOGRAM COMBINED
+24 TRANSCRANIAL MAGNETIC STIMULATION TREATMENT PILOT PROGRAM
+25 SECTION 3.(a) The Department of Military and Veterans Affairs shall select a
+26 provider to establish a statewide pilot program to make eTMS available for veterans, first
+27 responders, and immediate family members of veterans and first responders experiencing one or
+28 more of the conditions listed in subsection (b) of this section. For purposes of this act, the
+29 following definitions shall apply:
+30 (1) Electroencephalogram combined Transcranial Magnetic Stimulation
+31 Treatment (eTMS). – Treatment in which transcranial magnetic stimulation
+32 frequency pulses are tuned to the patient's physiology and biometric data.
+33 (2) Immediate family. – A spouse, child, stepchild, parent, or stepparent.
+*S528-v-5*
+General Assembly Of North Carolina Session 2025
+1 (3) Veteran. – A person who (i) served in the Armed Forces of the United States
+2 on active duty, for reasons other than training, and has been discharged under
+3 other than dishonorable conditions, (ii) served in a reserve component as
+4 defined in 38 U.S.C. § 101(27), and (iii) served in the National Guard of any
+5 state.
+6 SECTION 3.(b) The conditions that shall be the subject of the pilot program are the
+7 following:
+8 (1) Substance use disorders.
+9 (2) Mental illness.
+10 (3) Sleep disorders.
+11 (4) Traumatic brain injuries.
+12 (5) Sexual trauma.
+13 (6) Posttraumatic stress disorder and accompanying comorbidities.
+14 (7) Concussions.
+15 (8) Other brain trauma.
+16 (9) Quality of life issues affecting human performance, including issues related
+17 to or resulting from problems with cognition and problems maintaining
+18 attention, concentration, or focus.
+19 SECTION 3.(c) The provider selected by the Department to conduct the pilot
+20 program must display a history of serving veteran and first responder populations at a statewide
+21 level. The provider shall establish a network for in-person and off-site care with the goal of
+22 providing statewide access. Consideration shall be provided to locations with a large population
+23 of first responders and veterans. In addition to traditional eTMS devices, the provider may utilize
+24 nonmedical portable magnetic stimulation devices to improve access to underserved populations
+25 in remote areas or to be used to serve as a pre-post treatment or a stand-alone device. The provider
+26 shall be required to establish and operate a clinical practice and to evaluate outcomes of such
+27 clinical practice.
+28 SECTION 3.(d) At a minimum, the pilot program shall include all of the following:
+29 (1) The establishment of a peer-to-peer support network by the provider made
+30 available to all individuals receiving treatment under the program.
+31 (2) The requirement that each individual who receives treatment under the
+32 program also must receive neurophysiological monitoring, monitoring for
+33 symptoms of substance use and other mental health disorders, and access to
+34 counseling and wellness programming. Each individual who receives
+35 treatment must also participate in the peer-to-peer support network established
+36 by the provider.
+37 (3) The establishment of protocols which include the use of adopted stimulation
+38 frequency and intensity modulation based on EEGs done on days 0, 10, and
+39 20 and motor threshold testing, as well as clinical symptoms, signs, and
+40 biometrics.
+41 (4) The requirement that protocols and outcomes of any treatment provided by
+42 the clinical practice shall be collected and reported by the provider not later
+43 than September 15, 2027, to the Department, the Joint Legislative Oversight
+44 Committee on General Government, and the Fiscal Research Division. The
+45 report shall include the biometrics data and all expenditures made using State
+46 funds.
+47 SECTION 3.(e) The Department may adopt rules to implement the provisions of this
+48 section.
+49 SECTION 3.(f) This section is effective when it becomes law.
+50
+51 PART IV. UPDATE OPIOID ABATEMENT TREATMENT PROGRAM RULES
+Page 2 Senate Bill 528-Fifth Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.(a) The Commission for Mental Health, Developmental Disabilities,
+2 and Substance Use Services (Commission) shall amend the rules applicable to outpatient opioid
+3 treatment programs (OTPs) in 10A NCAC 27G .3600 through 10A NCAC 27G .3605 to be more
+4 consistent with 42 C.F.R. Part 8 governing medications for the treatment of opioid use disorder.
+5 In amending these rules, the Commission shall make at least all of the following changes:
+6 (1) Remove stability of a patient's home environment and social relationships as
+7 an eligibility criterion for take-home medication.
+8 (2) Require the State Opioid Treatment Authority (SOTA) to review patient
+9 discharge policies related to continued substance use, missed doses, and
+10 nonparticipation in ancillary services such as counseling.
+11 (3) Remove structured counseling schedules to better align with federal
+12 regulations that promote individualized care that is more patient-centered and
+13 flexible.
+14 (4) Reduce the number of required drug tests to align with the frequency required
+15 by federal regulations.
+16 (5) Explicitly permit OTPs to administer methadone to patients who are not
+17 enrolled with the OTPs as their patients but can be verified as a patient in
+18 another OTP through contacting the patient's home OTP, checking the central
+19 registry, or other means established by the Commission.
+20 SECTION 4.(b) In determining whether to include any additional changes to the
+21 rules applicable to OTPs to achieve greater consistency with 42 C.F.R. Part 8, the Commission
+22 shall engage with current and former OTP clients and OTP providers for input on other changes
+23 that would serve the goal of improving access to patient-centered care and achieving better
+24 alignment with federal regulations. However, the Commission shall not amend the rules to
+25 include any input that is inconsistent with State or federal law.
+26 SECTION 4.(c) The Commission shall publish the proposed text of the amended
+27 rules applicable to OTPs by January 1, 2027.
+28 SECTION 4.(d) This section is effective when it becomes law.
+29
+30 PART V. REQUIRE SCHOOLS TO SHARE THE SUICIDE AND CRISIS LIFELINE
+31 PHONE NUMBER AND NC PEER WARMLINE PHONE NUMBER
+32 SECTION 5.(a) G.S. 115C-47 is amended by adding the following new subdivision
+33 to read:
+34 "(73) To Provide Students the Suicide and Crisis Lifeline Phone Number and the
+35 NC Peer Warmline Phone Number. – A local board of education shall adopt
+36 a policy to ensure all schools in the local school administrative unit provide
+37 students the phone numbers for the Suicide and Crisis Lifeline and the NC
+38 Peer Warmline. The board shall verify that the phone numbers for the Lifeline
+39 and the Warmline are current and accurate annually. If either phone number
+40 has changed, schools shall use the updated phone number. Unless an updated
+41 phone number exists, the schools shall have the phrases "To reach the Suicide
+42 and Crisis Lifeline, call 988 or text HOME to 741741" and "To reach the NC
+43 Peer Warmline, call 855-733-7762" in the following places:
+44 a. On any new student identification (student ID) issued to a student in
+45 grades six through 12. The text shall be in a conspicuous location on
+46 the student ID. The text may be printed on the ID or affixed by sticker.
+47 Nothing in this sub-subdivision requires a school to issue a student ID.
+48 b. On the school website.
+49 c. On the home screen of any electronic device issued to students.
+50 d. On any school agenda or calendar, whether digital or printed.
+51 e. On a document during any suicide awareness activity.
+Senate Bill 528-Fifth Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 f. On a document when the student registers to attend the school."
+2 SECTION 5.(b) G.S. 115C-150.12C is amended by adding a new subdivision to
+3 read:
+4 "(39) To provide students the Suicide and Crisis Lifeline phone number and the NC
+5 Peer Warmline phone number. – The board of trustees shall provide students
+6 the phone numbers for the Suicide and Crisis Lifeline and the NC Peer
+7 Warmline. The board shall verify that the phone numbers for the Lifeline and
+8 the Warmline are current and accurate annually. If either phone number has
+9 changed, the board shall use the updated phone number. Unless an updated
+10 phone number exists, the board shall have the phrases "To reach the Suicide
+11 and Crisis Lifeline, call 988 or text HOME to 741741" and "To reach the NC
+12 Peer Warmline, call 855-733-7762" in the following places:
+13 a. On any new student identification (student ID) issued to a student in
+14 grades six through 12. The text shall be in a conspicuous location on
+15 the student ID. The text may be printed on the ID or affixed by sticker.
+16 Nothing in this sub-subdivision requires a school to issue a student ID.
+17 b. On the school website.
+18 c. On the home screen of any electronic device issued to students.
+19 d. On any school agenda or calendar, whether digital or printed.
+20 e. On a document during any suicide awareness activity.
+21 f. On a document when the student registers to attend the school."
+22 SECTION 5.(c) G.S. 115C-218.75 is amended by adding a new subsection to read:
+23 "(p) To Provide Students the Suicide and Crisis Lifeline Phone Number and the NC Peer
+24 Warmline Phone Number. – A charter school shall provide students the phone numbers for the
+25 Suicide and Crisis Lifeline and the NC Peer Warmline. The school shall verify that the phone
+26 numbers for the Lifeline and the Warmline are current and accurate annually. If either phone
+27 number has changed, the school shall use the updated phone number. Unless an updated phone
+28 number exists, the school shall have the phrases "To reach the Suicide and Crisis Lifeline, call
+29 988 or text HOME to 741741" and "To reach the NC Peer Warmline, call 855-733-7762" in the
+30 following places:
+31 (1) On any new student identification (student ID) issued to a student in grades
+32 six through 12. The text shall be in a conspicuous location on the student ID.
+33 The text may be printed on the ID or affixed by sticker. Nothing in this
+34 subdivision requires a school to issue a student ID.
+35 (2) On the school website.
+36 (3) On the home screen of any electronic device issued to students.
+37 (4) On any school agenda or calendar, whether digital or printed.
+38 (5) On a document during any suicide awareness activity.
+39 (6) On a document when the student registers to attend the school."
+40 SECTION 5.(d) G.S. 115C-238.66 is amended by adding a new subdivision to read:
+41 "(23) To provide students the Suicide and Crisis Lifeline phone number and the NC
+42 Peer Warmline phone number. – A regional school shall provide students the
+43 phone numbers for the Suicide and Crisis Lifeline and the NC Peer Warmline.
+44 The school shall verify that the phone numbers for the Lifeline and the
+45 Warmline are current and accurate annually. If either phone number has
+46 changed, the school shall use the updated phone number. Unless an updated
+47 phone number exists, the school shall have the phrases "To reach the Suicide
+48 and Crisis Lifeline, call 988 or text HOME to 741741" and "To reach the NC
+49 Peer Warmline, call 855-733-7762" in the following places:
+50 a. On any new student identification (student ID) issued to a student in
+51 grades six through 12. The text shall be in a conspicuous location on
+Page 4 Senate Bill 528-Fifth Edition
+General Assembly Of North Carolina Session 2025
+1 the student ID. The text may be printed on the ID or affixed by sticker.
+2 Nothing in this sub-subdivision requires a school to issue a student ID.
+3 b. On the school website.
+4 c. On the home screen of any electronic device issued to students.
+5 d. On any school agenda or calendar, whether digital or printed.
+6 e. On a document during any suicide awareness activity.
+7 f. On a document when the student registers to attend the school."
+8 SECTION 5.(e) G.S. 116-239.8(b) is amended by adding a new subdivision to read:
+9 "(26) To provide students the Suicide and Crisis Lifeline phone number and the NC
+10 Peer Warmline phone number. – A laboratory school shall provide students
+11 the phone numbers for the Suicide and Crisis Lifeline and the NC Peer
+12 Warmline. The school shall verify that the phone numbers for the Lifeline and
+13 the Warmline are current and accurate annually. If either phone number has
+14 changed, the school shall use the updated phone number. Unless an updated
+15 phone number exists, the school shall have the phrases "To reach the Suicide
+16 and Crisis Lifeline, call 988 or text HOME to 741741" and "To reach the NC
+17 Peer Warmline, call 855-733-7762" in the following places:
+18 a. On any new student identification (student ID) issued to a student in
+19 grades six through 12. The text shall be in a conspicuous location on
+20 the student ID. The text may be printed on the ID or affixed by sticker.
+21 Nothing in this sub-subdivision requires a school to issue a student ID.
+22 b. On the school website.
+23 c. On the home screen of any electronic device issued to students.
+24 d. On any school agenda or calendar, whether digital or printed.
+25 e. On a document during any suicide awareness activity.
+26 f. On a document when the student registers to attend the school."
+27 SECTION 5.(f) Part 1 of Article 39 of Chapter 115C of the General Statutes is
+28 amended by adding a new section to read:
+29 "§ 115C-550.2. Provide students the Suicide and Crisis Lifeline phone number and the NC
+30 Peer Warmline phone number.
+31 Each private church school or school of religious charter shall provide students the phone
+32 numbers for the Suicide and Crisis Lifeline and the NC Peer Warmline. The school shall verify
+33 that the phone numbers for the Lifeline and the Warmline are current and accurate annually. If
+34 either phone number has changed, the school shall use the updated phone number. Unless an
+35 updated phone number exists, the school shall have the phrases "To reach the Suicide and Crisis
+36 Lifeline, call 988 or text HOME to 741741" and "To reach the NC Peer Warmline, call
+37 855-733-7762" in the following places:
+38 (1) On any new student identification (student ID) issued to a student in grades
+39 six through 12. The text shall be in a conspicuous location on the student ID.
+40 The text may be printed on the ID or affixed by sticker. Nothing in this
+41 subdivision requires a school to issue a student ID.
+42 (2) On the school website.
+43 (3) On the home screen of any electronic device issued to students.
+44 (4) On any school agenda or calendar, whether digital or printed.
+45 (5) On a document during any suicide awareness activity.
+46 (6) On a document when the student registers to attend the school."
+47 SECTION 5.(g) Part 2 of Article 39 of Chapter 115C of the General Statutes is
+48 amended by adding a new section to read:
+49 "§ 115C-558.2. Provide students the Suicide and Crisis Lifeline phone number and the NC
+50 Peer Warmline phone number.
+Senate Bill 528-Fifth Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 Each qualified nonpublic school shall provide students the phone numbers for the Suicide
+2 and Crisis Lifeline and the NC Peer Warmline. The school shall verify that the phone numbers
+3 for the Lifeline and the Warmline are current and accurate annually. If either phone number has
+4 changed, the school shall use the updated phone number. Unless an updated phone number exists,
+5 the school shall have the phrases "To reach the Suicide and Crisis Lifeline, call 988 or text HOME
+6 to 741741" and "To reach the NC Peer Warmline, call 855-733-7762" in the following places:
+7 (1) On any new student identification (student ID) issued to a student in grades
+8 six through 12. The text shall be in a conspicuous location on the student ID.
+9 The text may be printed on the ID or affixed by sticker. Nothing in this
+10 subdivision requires a school to issue a student ID.
+11 (2) On the school website.
+12 (3) On the home screen of any electronic device issued to students.
+13 (4) On any school agenda or calendar, whether digital or printed.
+14 (5) On a document during any suicide awareness activity.
+15 (6) On a document when the student registers to attend the school."
+16 SECTION 5.(h) This section is effective when it becomes law and applies beginning
+17 with the 2026-2027 school year.
+18
+19 PART VI. REAGAN'S LAW
+20 SECTION 6.(a) Article 3 of Chapter 58 of the General Statutes is amended by adding
+21 a new section to read:
+22 "§ 58-3-286. Prosthetic and orthotic devices and care.
+23 (a) This section shall apply to all health benefit plans offered in this State other than those
+24 regulated under Part 5 of Article 50 of this Chapter, Small Employer Group Health Insurance
+25 Reform, or Article 50A of this Chapter, Multiple Employer Welfare Arrangements.
+26 (b) Health benefit plan coverage shall include coverage for all prosthetic and orthotic
+27 devices required to be covered by federal law or regulation under Medicare Part B, as detailed
+28 under Part B of Subchapter XVIII of Chapter 7 of Title 42 of the U.S. Code and Subpart D of
+29 Part 414 of Subchapter B of Chapter IX of Title 42 of the Code of Federal Regulations. Coverage
+30 under this section shall include:
+31 (1) All materials and components necessary to use a prosthetic or orthotic device.
+32 (2) Instruction relating to the use of a prosthetic or orthotic device.
+33 (3) Repair or replacement of a prosthetic or orthotic device meeting the
+34 requirements of subsection (g) of this section.
+35 (c) Coverage consistent with this section shall be required for all prosthetic or orthotic
+36 devices, including custom devices, determined by the insured's healthcare provider to be the most
+37 appropriate model to adequately meet the medical needs of the insured for completing activities
+38 of daily living or essential job-related activities.
+39 (d) Coverage under this section shall not be limited to one prosthetic or orthotic device.
+40 In addition to coverage required under subsection (c) of this section, a health benefit plan shall
+41 provide coverage for additional prosthetic or orthotic devices, including custom devices,
+42 determined by the insured's healthcare provider to be the most appropriate model to adequately
+43 meet the medical needs of the insured for either or both of the following:
+44 (1) Performing physical activities, such as running, biking, swimming, and
+45 strength training.
+46 (2) Maximizing the insured's whole-body health and function of one or more
+47 lower or upper limb.
+48 (e) Coverage for prosthetic and orthotic devices, including custom devices, is considered
+49 a habilitative or rehabilitative benefit, including for the purposes of any federal requirement for
+50 the coverage of essential health benefits.
+Page 6 Senate Bill 528-Fifth Edition
+General Assembly Of North Carolina Session 2025
+1 (f) An insurer shall not deny any health benefit claim for a prosthetic or orthotic device
+2 for an insured with limb loss or absence that would otherwise be covered for any insured without
+3 a disability seeking medical or surgical intervention to restore or maintain the ability to perform
+4 the same physical activity.
+5 (g) A health benefit plan shall provide coverage for the replacement of a prosthetic or
+6 orthotic device, or part of a prosthetic or orthotic device, and all of the following shall apply to
+7 that coverage:
+8 (1) The coverage shall be provided without regard to continuous use or useful
+9 lifetime restrictions so long as the prescribing healthcare provider determines
+10 that the provision of a replacement prosthetic or orthotic device, or a
+11 replacement part of a prosthetic or orthotic device, is necessary for any of the
+12 following reasons:
+13 a. A change in the physiological condition of the insured.
+14 b. An irreparable change in the condition of the device or part of the
+15 device.
+16 c. The condition of the device, or part of the device, requires one or more
+17 repairs and the cost of the repair or repairs would be more than sixty
+18 percent (60%) of replacement cost of the device or the parts requiring
+19 replacement.
+20 (2) An insurer may require confirmation from the prescribing healthcare provider
+21 prior to replacement only if the device or the part of the device being replaced
+22 is less than 3 years old.
+23 (3) The coverage shall be provided for custom devices."
+24 SECTION 6.(b) No later than February 1, 2029, each issuer that offers a health
+25 benefit plan subject to G.S. 58-3-286 shall report to the Commissioner of the Department of
+26 Insurance, in a form prescribed by the Commissioner, the number of claims and total amount of
+27 claims paid for benefits required under G.S. 58-3-286.
+28 SECTION 6.(c) No later than March 1, 2029, the Commissioner of the Department
+29 of Insurance shall aggregate all data received under subsection (b) of this section by health benefit
+30 plan year and provide this information in a report to the Joint Legislative Oversight Committee
+31 on General Government and the Joint Legislative Oversight Committee on Health and Human
+32 Services.
+33 SECTION 6.(d) This act is effective October 1, 2026, and applies to insurance
+34 contracts issued, renewed, or amended on or after that date.
+35
+36 PART VII. HOSPITAL AND AMBULATORY SURGICAL FACILITY STANDARDS
+37 FOR SURGICAL SMOKE EVACUATION
+38 SECTION 7.(a) G.S. 131E-78.4 reads as rewritten:
+39 "§ 131E-78.4. Hospital standards for surgical smoke evacuation.
+40 (a) Definitions. – The following definitions apply in this section:
+41 (1) Smoke evacuation/filtering system. – Stand-alone, portable equipment
+42 utilizing either an electrocautery device with a smoke removal collar or
+43 assistant-held smoke evacuation device that effectively captures, filters, and
+44 eliminates surgical smoke at the site of origin before the smoke makes contact
+45 with the eyes or respiratory tracts of occupants in the room. This equipment is
+46 not required to be interconnected to the hospital surgical ventilation or medical
+47 gas system.
+48 (2) Surgical smoke. – The gaseous by-product produced by energy-generating
+49 devices, including surgical plume, smoke plume, bio-aerosols, laser-generated
+50 airborne contaminants, or lung-damaging dust.
+Senate Bill 528-Fifth Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 (b) Policy Requirement. – Each hospital licensed under this Part shall adopt and
+2 implement policies that require the use of a smoke evacuation/filtering system during any
+3 surgical procedure that is likely to generate surgical smoke.
+4 (c) Adverse Action. – The Department of Health and Human Services may take adverse
+5 action against a hospital under G.S. 131E-78 for a violation of this section."
+6 SECTION 7.(b) G.S. 131E-147.2 reads as rewritten:
+7 "§ 131E-147.2. Ambulatory surgical facility standards for surgical smoke evacuation.
+8 (a) Definitions. – The following definitions apply in this section:
+9 (1) Smoke evacuation/filtering system. – Equipment Stand-alone, portable
+10 equipment utilizing either an electrocautery device with a smoke removal
+11 collar or assistant-held smoke evacuation device that effectively captures,
+12 filters, and eliminates surgical smoke at the site of origin before the smoke
+13 makes contact with the eyes or the respiratory tracts of occupants in the room.
+14 This equipment is not required to be interconnected to the ambulatory surgical
+15 ventilation or medical gas system.
+16 (2) Surgical smoke. – The gaseous by-product produced by energy-generating
+17 devices, including surgical plume, smoke plume, bio-aerosols, laser-generated
+18 airborne contaminants, or lung-damaging dust.
+19 (b) Policy Requirement. – Each ambulatory surgical facility licensed under this Part shall
+20 adopt and implement policies that require the use of a smoke evacuation/filtering system during
+21 any surgical procedure that is likely to generate surgical smoke.
+22 (c) Adverse Action. – The Department of Health and Human Services may take adverse
+23 action against an ambulatory surgical facility under G.S. 131E-148 for a violation of this section."
+24 SECTION 7.(c) This section is effective when it becomes law.
+25
+26 PART VIII. EFFECTIVE DATE
+27 SECTION 8. Except as otherwise provided, this act is effective when it becomes
+28 law.
+Page 8 Senate Bill 528-Fifth Edition
+[DELETED:  5 H (   A A A R A M T H A H S S T  P S E C C o e i o s u d i e f p a n i t S T i s i a a m c a e i i i p L O C o H a H S a c s o b S  P I V A E C T S p t e a s p p t m e a f v f r m c F f ( E c T M S T f ( I]
+[DELETED:  S  S ( V o o t d c ( s i a r c a d s S f ( S ( M ( S ( T ( S ( P ( C ( O ( Q t o r f p w c a p m a S 3  T p s b t D t c t p p l p o n i s c S ( T a ( T r t e i w r t u t p a m r n m m f s c a w p E i w r t b ( T f 2 a m t t a w a c s s a b ( T t t C r f S s S  P]
+[DELETED:  S  P S a t c I ( R a ( R t S O T A ( t r p d p r t c s u m d a n ( R s c s t b a w f r f ( R b ( E p O t a m t p w a n e a r S r s t a a w f r H t C s n a t r t i S r S  P P S t " T N a s P a h p a P a O g t N b O c O d O e O]
+[DELETED:  S  S f O S r " T P t p n f t S a C L a t N P W t c p a P a O g t N b O c O d O e O f O S " T W S n n n 9 f ( O s T t m b p o t I o a b s N i t s ( O ( O ( O ( O ( O S " T P p T s s v t t p n f t L a t W a c a a a I e p n h c p a P a O g]
+[DELETED:  S  P t N b O c O d O e O f O S " T P t p n f t S a C L a t N P W t c p a P a O g t N b O c O d O e O f O S a " P E n t e u L c 9 o t H t 7 a " r t N P W c 8 ( O s T t m b p o t I o a b s N i t s ( O ( O ( O ( O ( O S a " P]
+[DELETED:  S  S E a f c t t ( O s T t m b p o t I o a b s N i t s ( O ( O ( O ( O ( O S w  P S a " ( T r R ( H d u P u ( A ( I ( R o r o a p o o d m t r ( C d a o ( C I p c f a p o o d i c d d m ( P p a s a r b s a s ( M f l ( C a t]
+[DELETED:  S  P ( A f a t ( A o t ( T l t t p o a r p o o d o a r f a A b A d c T r p r ( A p i ( T S b I c S o p o S S c  P V H A A S F S F S " ( D ( S e s – S p e u e a e d w a s r c o a e w n g ( S d a]
+[DELETED:  S  S ( P R – E h l u t P s a a i p t r t u o a s e s d a s ( A a S " ( D ( S e s – E S p e u e e d w a s r c o a s e d t e c f m T v ( S d a ( P a a ( A a S  P S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 5
+SENATE BILL 528
+Health Care Committee Substitute Adopted 4/9/25
+Third Edition Engrossed 4/15/25
+House Committee Substitute Favorable 6/9/26
+House Committee Substitute #2 Favorable 6/16/26
+Short Title: Health and Human Services Revisions. (Public)
+Sponsors:
+Referred to:
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT REVISING AND MODERNIZING THE HEALTH AND HUMAN SERVICES
+3 STATUTES.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART II. JOEL H. CRISP SUDEP AWARENESS LAW
+7 SECTION 2.(a) The University of North Carolina School of Medicine's Area Health
+8 Education Centers (NC AHEC) shall consult with the North Carolina Medical Board, North
+9 Carolina Department of Health and Human Services, North Carolina Medical Society, North
+10 Carolina Pediatric Society, North Carolina Academy of Family Physicians, North Carolina Board
+11 of Nursing, North Carolina Board of Pharmacy, and North Carolina Nurses Association to gather
+12 evidence-based information on sudden unexpected death in epilepsy from publications and
+13 nonprofit organizations to create standard information to provide to all health care practitioners
+14 in this State. The information shall include, at a minimum, current and evidence-based
+15 information about sudden unexpected death in epilepsy risk factors and conditions and contact
+16 information for nonprofit organizations that provide support services for epilepsy conditions. The
+17 information shall be made available on NC AHEC's website and readily accessible to health care
+18 practitioners in this State. No later than September 1, 2026, NC AHEC shall report to the Joint
+19 Legislative Oversight Committee on Health and Human Services a completed summary or
+20 booklet of information provided to health care practitioners in the report.
+21 SECTION 2.(b) This section is effective when it becomes law.
+22
+23 PART III. VETERANS AND ELECTROENCEPHALOGRAM COMBINED
+24 TRANSCRANIAL MAGNETIC STIMULATION TREATMENT PILOT PROGRAM
+25 SECTION 3.(a) The Department of Military and Veterans Affairs shall select a
+26 provider to establish a statewide pilot program to make eTMS available for veterans, first
+27 responders, and immediate family members of veterans and first responders experiencing one or
+28 more of the conditions listed in subsection (b) of this section. For purposes of this act, the
+29 following definitions shall apply:
+30 (1) Electroencephalogram combined Transcranial Magnetic Stimulation
+31 Treatment (eTMS). – Treatment in which transcranial magnetic stimulation
+32 frequency pulses are tuned to the patient's physiology and biometric data.
+33 (2) Immediate family. – A spouse, child, stepchild, parent, or stepparent.
+*S528-v-5*
+
+General Assembly Of North Carolina Session 2025
+1 (3) Veteran. – A person who (i) served in the Armed Forces of the United States
+2 on active duty, for reasons other than training, and has been discharged under
+3 other than dishonorable conditions, (ii) served in a reserve component as
+4 defined in 38 U.S.C. § 101(27), and (iii) served in the National Guard of any
+5 state.
+6 SECTION 3.(b) The conditions that shall be the subject of the pilot program are the
+7 following:
+8 (1) Substance use disorders.
+9 (2) Mental illness.
+10 (3) Sleep disorders.
+11 (4) Traumatic brain injuries.
+12 (5) Sexual trauma.
+13 (6) Posttraumatic stress disorder and accompanying comorbidities.
+14 (7) Concussions.
+15 (8) Other brain trauma.
+16 (9) Quality of life issues affecting human performance, including issues related
+17 to or resulting from problems with cognition and problems maintaining
+18 attention, concentration, or focus.
+19 SECTION 3.(c) The provider selected by the Department to conduct the pilot
+20 program must display a history of serving veteran and first responder populations at a statewide
+21 level. The provider shall establish a network for in-person and off-site care with the goal of
+22 providing statewide access. Consideration shall be provided to locations with a large population
+23 of first responders and veterans. In addition to traditional eTMS devices, the provider may utilize
+24 nonmedical portable magnetic stimulation devices to improve access to underserved populations
+25 in remote areas or to be used to serve as a pre-post treatment or a stand-alone device. The provider
+26 shall be required to establish and operate a clinical practice and to evaluate outcomes of such
+27 clinical practice.
+28 SECTION 3.(d) At a minimum, the pilot program shall include all of the following:
+29 (1) The establishment of a peer-to-peer support network by the provider made
+30 available to all individuals receiving treatment under the program.
+31 (2) The requirement that each individual who receives treatment under the
+32 program also must receive neurophysiological monitoring, monitoring for
+33 symptoms of substance use and other mental health disorders, and access to
+34 counseling and wellness programming. Each individual who receives
+35 treatment must also participate in the peer-to-peer support network established
+36 by the provider.
+37 (3) The establishment of protocols which include the use of adopted stimulation
+38 frequency and intensity modulation based on EEGs done on days 0, 10, and
+39 20 and motor threshold testing, as well as clinical symptoms, signs, and
+40 biometrics.
+41 (4) The requirement that protocols and outcomes of any treatment provided by
+42 the clinical practice shall be collected and reported by the provider not later
+43 than September 15, 2027, to the Department, the Joint Legislative Oversight
+44 Committee on General Government, and the Fiscal Research Division. The
+45 report shall include the biometrics data and all expenditures made using State
+46 funds.
+47 SECTION 3.(e) The Department may adopt rules to implement the provisions of this
+48 section.
+49 SECTION 3.(f) This section is effective when it becomes law.
+50
+51 PART IV. UPDATE OPIOID ABATEMENT TREATMENT PROGRAM RULES
+Page 2 Senate Bill 528-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.(a) The Commission for Mental Health, Developmental Disabilities,
+2 and Substance Use Services (Commission) shall amend the rules applicable to outpatient opioid
+3 treatment programs (OTPs) in 10A NCAC 27G .3600 through 10A NCAC 27G .3605 to be more
+4 consistent with 42 C.F.R. Part 8 governing medications for the treatment of opioid use disorder.
+5 In amending these rules, the Commission shall make at least all of the following changes:
+6 (1) Remove stability of a patient's home environment and social relationships as
+7 an eligibility criterion for take-home medication.
+8 (2) Require the State Opioid Treatment Authority (SOTA) to review patient
+9 discharge policies related to continued substance use, missed doses, and
+10 nonparticipation in ancillary services such as counseling.
+11 (3) Remove structured counseling schedules to better align with federal
+12 regulations that promote individualized care that is more patient-centered and
+13 flexible.
+14 (4) Reduce the number of required drug tests to align with the frequency required
+15 by federal regulations.
+16 (5) Explicitly permit OTPs to administer methadone to patients who are not
+17 enrolled with the OTPs as their patients but can be verified as a patient in
+18 another OTP through contacting the patient's home OTP, checking the central
+19 registry, or other means established by the Commission.
+20 SECTION 4.(b) In determining whether to include any additional changes to the
+21 rules applicable to OTPs to achieve greater consistency with 42 C.F.R. Part 8, the Commission
+22 shall engage with current and former OTP clients and OTP providers for input on other changes
+23 that would serve the goal of improving access to patient-centered care and achieving better
+24 alignment with federal regulations. However, the Commission shall not amend the rules to
+25 include any input that is inconsistent with State or federal law.
+26 SECTION 4.(c) The Commission shall publish the proposed text of the amended
+27 rules applicable to OTPs by January 1, 2027.
+28 SECTION 4.(d) This section is effective when it becomes law.
+29
+30 PART V. REQUIRE SCHOOLS TO SHARE THE SUICIDE AND CRISIS LIFELINE
+31 PHONE NUMBER AND NC PEER WARMLINE PHONE NUMBER
+32 SECTION 5.(a) G.S. 115C-47 is amended by adding the following new subdivision
+33 to read:
+34 "(73) To Provide Students the Suicide and Crisis Lifeline Phone Number and the
+35 NC Peer Warmline Phone Number. – A local board of education shall adopt
+36 a policy to ensure all schools in the local school administrative unit provide
+37 students the phone numbers for the Suicide and Crisis Lifeline and the NC
+38 Peer Warmline. The board shall verify that the phone numbers for the Lifeline
+39 and the Warmline are current and accurate annually. If either phone number
+40 has changed, schools shall use the updated phone number. Unless an updated
+41 phone number exists, the schools shall have the phrases "To reach the Suicide
+42 and Crisis Lifeline, call 988 or text HOME to 741741" and "To reach the NC
+43 Peer Warmline, call 855-733-7762" in the following places:
+44 a. On any new student identification (student ID) issued to a student in
+45 grades six through 12. The text shall be in a conspicuous location on
+46 the student ID. The text may be printed on the ID or affixed by sticker.
+47 Nothing in this sub-subdivision requires a school to issue a student ID.
+48 b. On the school website.
+49 c. On the home screen of any electronic device issued to students.
+50 d. On any school agenda or calendar, whether digital or printed.
+51 e. On a document during any suicide awareness activity.
+Senate Bill 528-Fifth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 f. On a document when the student registers to attend the school."
+2 SECTION 5.(b) G.S. 115C-150.12C is amended by adding a new subdivision to
+3 read:
+4 "(39) To provide students the Suicide and Crisis Lifeline phone number and the NC
+5 Peer Warmline phone number. – The board of trustees shall provide students
+6 the phone numbers for the Suicide and Crisis Lifeline and the NC Peer
+7 Warmline. The board shall verify that the phone numbers for the Lifeline and
+8 the Warmline are current and accurate annually. If either phone number has
+9 changed, the board shall use the updated phone number. Unless an updated
+10 phone number exists, the board shall have the phrases "To reach the Suicide
+11 and Crisis Lifeline, call 988 or text HOME to 741741" and "To reach the NC
+12 Peer Warmline, call 855-733-7762" in the following places:
+13 a. On any new student identification (student ID) issued to a student in
+14 grades six through 12. The text shall be in a conspicuous location on
+15 the student ID. The text may be printed on the ID or affixed by sticker.
+16 Nothing in this sub-subdivision requires a school to issue a student ID.
+17 b. On the school website.
+18 c. On the home screen of any electronic device issued to students.
+19 d. On any school agenda or calendar, whether digital or printed.
+20 e. On a document during any suicide awareness activity.
+21 f. On a document when the student registers to attend the school."
+22 SECTION 5.(c) G.S. 115C-218.75 is amended by adding a new subsection to read:
+23 "(p) To Provide Students the Suicide and Crisis Lifeline Phone Number and the NC Peer
+24 Warmline Phone Number. – A charter school shall provide students the phone numbers for the
+25 Suicide and Crisis Lifeline and the NC Peer Warmline. The school shall verify that the phone
+26 numbers for the Lifeline and the Warmline are current and accurate annually. If either phone
+27 number has changed, the school shall use the updated phone number. Unless an updated phone
+28 number exists, the school shall have the phrases "To reach the Suicide and Crisis Lifeline, call
+29 988 or text HOME to 741741" and "To reach the NC Peer Warmline, call 855-733-7762" in the
+30 following places:
+31 (1) On any new student identification (student ID) issued to a student in grades
+32 six through 12. The text shall be in a conspicuous location on the student ID.
+33 The text may be printed on the ID or affixed by sticker. Nothing in this
+34 subdivision requires a school to issue a student ID.
+35 (2) On the school website.
+36 (3) On the home screen of any electronic device issued to students.
+37 (4) On any school agenda or calendar, whether digital or printed.
+38 (5) On a document during any suicide awareness activity.
+39 (6) On a document when the student registers to attend the school."
+40 SECTION 5.(d) G.S. 115C-238.66 is amended by adding a new subdivision to read:
+41 "(23) To provide students the Suicide and Crisis Lifeline phone number and the NC
+42 Peer Warmline phone number. – A regional school shall provide students the
+43 phone numbers for the Suicide and Crisis Lifeline and the NC Peer Warmline.
+44 The school shall verify that the phone numbers for the Lifeline and the
+45 Warmline are current and accurate annually. If either phone number has
+46 changed, the school shall use the updated phone number. Unless an updated
+47 phone number exists, the school shall have the phrases "To reach the Suicide
+48 and Crisis Lifeline, call 988 or text HOME to 741741" and "To reach the NC
+49 Peer Warmline, call 855-733-7762" in the following places:
+50 a. On any new student identification (student ID) issued to a student in
+51 grades six through 12. The text shall be in a conspicuous location on
+Page 4 Senate Bill 528-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 the student ID. The text may be printed on the ID or affixed by sticker.
+2 Nothing in this sub-subdivision requires a school to issue a student ID.
+3 b. On the school website.
+4 c. On the home screen of any electronic device issued to students.
+5 d. On any school agenda or calendar, whether digital or printed.
+6 e. On a document during any suicide awareness activity.
+7 f. On a document when the student registers to attend the school."
+8 SECTION 5.(e) G.S. 116-239.8(b) is amended by adding a new subdivision to read:
+9 "(26) To provide students the Suicide and Crisis Lifeline phone number and the NC
+10 Peer Warmline phone number. – A laboratory school shall provide students
+11 the phone numbers for the Suicide and Crisis Lifeline and the NC Peer
+12 Warmline. The school shall verify that the phone numbers for the Lifeline and
+13 the Warmline are current and accurate annually. If either phone number has
+14 changed, the school shall use the updated phone number. Unless an updated
+15 phone number exists, the school shall have the phrases "To reach the Suicide
+16 and Crisis Lifeline, call 988 or text HOME to 741741" and "To reach the NC
+17 Peer Warmline, call 855-733-7762" in the following places:
+18 a. On any new student identification (student ID) issued to a student in
+19 grades six through 12. The text shall be in a conspicuous location on
+20 the student ID. The text may be printed on the ID or affixed by sticker.
+21 Nothing in this sub-subdivision requires a school to issue a student ID.
+22 b. On the school website.
+23 c. On the home screen of any electronic device issued to students.
+24 d. On any school agenda or calendar, whether digital or printed.
+25 e. On a document during any suicide awareness activity.
+26 f. On a document when the student registers to attend the school."
+27 SECTION 5.(f) Part 1 of Article 39 of Chapter 115C of the General Statutes is
+28 amended by adding a new section to read:
+29 "§ 115C-550.2. Provide students the Suicide and Crisis Lifeline phone number and the NC
+30 Peer Warmline phone number.
+31 Each private church school or school of religious charter shall provide students the phone
+32 numbers for the Suicide and Crisis Lifeline and the NC Peer Warmline. The school shall verify
+33 that the phone numbers for the Lifeline and the Warmline are current and accurate annually. If
+34 either phone number has changed, the school shall use the updated phone number. Unless an
+35 updated phone number exists, the school shall have the phrases "To reach the Suicide and Crisis
+36 Lifeline, call 988 or text HOME to 741741" and "To reach the NC Peer Warmline, call
+37 855-733-7762" in the following places:
+38 (1) On any new student identification (student ID) issued to a student in grades
+39 six through 12. The text shall be in a conspicuous location on the student ID.
+40 The text may be printed on the ID or affixed by sticker. Nothing in this
+41 subdivision requires a school to issue a student ID.
+42 (2) On the school website.
+43 (3) On the home screen of any electronic device issued to students.
+44 (4) On any school agenda or calendar, whether digital or printed.
+45 (5) On a document during any suicide awareness activity.
+46 (6) On a document when the student registers to attend the school."
+47 SECTION 5.(g) Part 2 of Article 39 of Chapter 115C of the General Statutes is
+48 amended by adding a new section to read:
+49 "§ 115C-558.2. Provide students the Suicide and Crisis Lifeline phone number and the NC
+50 Peer Warmline phone number.
+Senate Bill 528-Fifth Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 Each qualified nonpublic school shall provide students the phone numbers for the Suicide
+2 and Crisis Lifeline and the NC Peer Warmline. The school shall verify that the phone numbers
+3 for the Lifeline and the Warmline are current and accurate annually. If either phone number has
+4 changed, the school shall use the updated phone number. Unless an updated phone number exists,
+5 the school shall have the phrases "To reach the Suicide and Crisis Lifeline, call 988 or text HOME
+6 to 741741" and "To reach the NC Peer Warmline, call 855-733-7762" in the following places:
+7 (1) On any new student identification (student ID) issued to a student in grades
+8 six through 12. The text shall be in a conspicuous location on the student ID.
+9 The text may be printed on the ID or affixed by sticker. Nothing in this
+10 subdivision requires a school to issue a student ID.
+11 (2) On the school website.
+12 (3) On the home screen of any electronic device issued to students.
+13 (4) On any school agenda or calendar, whether digital or printed.
+14 (5) On a document during any suicide awareness activity.
+15 (6) On a document when the student registers to attend the school."
+16 SECTION 5.(h) This section is effective when it becomes law and applies beginning
+17 with the 2026-2027 school year.
+18
+19 PART VI. REAGAN'S LAW
+20 SECTION 6.(a) Article 3 of Chapter 58 of the General Statutes is amended by adding
+21 a new section to read:
+22 "§ 58-3-286. Prosthetic and orthotic devices and care.
+23 (a) This section shall apply to all health benefit plans offered in this State other than those
+24 regulated under Part 5 of Article 50 of this Chapter, Small Employer Group Health Insurance
+25 Reform, or Article 50A of this Chapter, Multiple Employer Welfare Arrangements.
+26 (b) Health benefit plan coverage shall include coverage for all prosthetic and orthotic
+27 devices required to be covered by federal law or regulation under Medicare Part B, as detailed
+28 under Part B of Subchapter XVIII of Chapter 7 of Title 42 of the U.S. Code and Subpart D of
+29 Part 414 of Subchapter B of Chapter IX of Title 42 of the Code of Federal Regulations. Coverage
+30 under this section shall include:
+31 (1) All materials and components necessary to use a prosthetic or orthotic device.
+32 (2) Instruction relating to the use of a prosthetic or orthotic device.
+33 (3) Repair or replacement of a prosthetic or orthotic device meeting the
+34 requirements of subsection (g) of this section.
+35 (c) Coverage consistent with this section shall be required for all prosthetic or orthotic
+36 devices, including custom devices, determined by the insured's healthcare provider to be the most
+37 appropriate model to adequately meet the medical needs of the insured for completing activities
+38 of daily living or essential job-related activities.
+39 (d) Coverage under this section shall not be limited to one prosthetic or orthotic device.
+40 In addition to coverage required under subsection (c) of this section, a health benefit plan shall
+41 provide coverage for additional prosthetic or orthotic devices, including custom devices,
+42 determined by the insured's healthcare provider to be the most appropriate model to adequately
+43 meet the medical needs of the insured for either or both of the following:
+44 (1) Performing physical activities, such as running, biking, swimming, and
+45 strength training.
+46 (2) Maximizing the insured's whole-body health and function of one or more
+47 lower or upper limb.
+48 (e) Coverage for prosthetic and orthotic devices, including custom devices, is considered
+49 a habilitative or rehabilitative benefit, including for the purposes of any federal requirement for
+50 the coverage of essential health benefits.
+Page 6 Senate Bill 528-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (f) An insurer shall not deny any health benefit claim for a prosthetic or orthotic device
+2 for an insured with limb loss or absence that would otherwise be covered for any insured without
+3 a disability seeking medical or surgical intervention to restore or maintain the ability to perform
+4 the same physical activity.
+5 (g) A health benefit plan shall provide coverage for the replacement of a prosthetic or
+6 orthotic device, or part of a prosthetic or orthotic device, and all of the following shall apply to
+7 that coverage:
+8 (1) The coverage shall be provided without regard to continuous use or useful
+9 lifetime restrictions so long as the prescribing healthcare provider determines
+10 that the provision of a replacement prosthetic or orthotic device, or a
+11 replacement part of a prosthetic or orthotic device, is necessary for any of the
+12 following reasons:
+13 a. A change in the physiological condition of the insured.
+14 b. An irreparable change in the condition of the device or part of the
+15 device.
+16 c. The condition of the device, or part of the device, requires one or more
+17 repairs and the cost of the repair or repairs would be more than sixty
+18 percent (60%) of replacement cost of the device or the parts requiring
+19 replacement.
+20 (2) An insurer may require confirmation from the prescribing healthcare provider
+21 prior to replacement only if the device or the part of the device being replaced
+22 is less than 3 years old.
+23 (3) The coverage shall be provided for custom devices."
+24 SECTION 6.(b) No later than February 1, 2029, each issuer that offers a health
+25 benefit plan subject to G.S. 58-3-286 shall report to the Commissioner of the Department of
+26 Insurance, in a form prescribed by the Commissioner, the number of claims and total amount of
+27 claims paid for benefits required under G.S. 58-3-286.
+28 SECTION 6.(c) No later than March 1, 2029, the Commissioner of the Department
+29 of Insurance shall aggregate all data received under subsection (b) of this section by health benefit
+30 plan year and provide this information in a report to the Joint Legislative Oversight Committee
+31 on General Government and the Joint Legislative Oversight Committee on Health and Human
+32 Services.
+33 SECTION 6.(d) This act is effective October 1, 2026, and applies to insurance
+34 contracts issued, renewed, or amended on or after that date.
+35
+36 PART VII. HOSPITAL AND AMBULATORY SURGICAL FACILITY STANDARDS
+37 FOR SURGICAL SMOKE EVACUATION
+38 SECTION 7.(a) G.S. 131E-78.4 reads as rewritten:
+39 "§ 131E-78.4. Hospital standards for surgical smoke evacuation.
+40 (a) Definitions. – The following definitions apply in this section:
+41 (1) Smoke evacuation/filtering system. – Stand-alone, portable equipment
+42 utilizing either an electrocautery device with a smoke removal collar or
+43 assistant-held smoke evacuation device that effectively captures, filters, and
+44 eliminates surgical smoke at the site of origin before the smoke makes contact
+45 with the eyes or respiratory tracts of occupants in the room. This equipment is
+46 not required to be interconnected to the hospital surgical ventilation or medical
+47 gas system.
+48 (2) Surgical smoke. – The gaseous by-product produced by energy-generating
+49 devices, including surgical plume, smoke plume, bio-aerosols, laser-generated
+50 airborne contaminants, or lung-damaging dust.
+Senate Bill 528-Fifth Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (b) Policy Requirement. – Each hospital licensed under this Part shall adopt and
+2 implement policies that require the use of a smoke evacuation/filtering system during any
+3 surgical procedure that is likely to generate surgical smoke.
+4 (c) Adverse Action. – The Department of Health and Human Services may take adverse
+5 action against a hospital under G.S. 131E-78 for a violation of this section."
+6 SECTION 7.(b) G.S. 131E-147.2 reads as rewritten:
+7 "§ 131E-147.2. Ambulatory surgical facility standards for surgical smoke evacuation.
+8 (a) Definitions. – The following definitions apply in this section:
+9 (1) Smoke evacuation/filtering system. – Equipment Stand-alone, portable
+10 equipment utilizing either an electrocautery device with a smoke removal
+11 collar or assistant-held smoke evacuation device that effectively captures,
+12 filters, and eliminates surgical smoke at the site of origin before the smoke
+13 makes contact with the eyes or the respiratory tracts of occupants in the room.
+14 This equipment is not required to be interconnected to the ambulatory surgical
+15 ventilation or medical gas system.
+16 (2) Surgical smoke. – The gaseous by-product produced by energy-generating
+17 devices, including surgical plume, smoke plume, bio-aerosols, laser-generated
+18 airborne contaminants, or lung-damaging dust.
+19 (b) Policy Requirement. – Each ambulatory surgical facility licensed under this Part shall
+20 adopt and implement policies that require the use of a smoke evacuation/filtering system during
+21 any surgical procedure that is likely to generate surgical smoke.
+22 (c) Adverse Action. – The Department of Health and Human Services may take adverse
+23 action against an ambulatory surgical facility under G.S. 131E-148 for a violation of this section."
+24 SECTION 7.(c) This section is effective when it becomes law.
+25
+26 PART VIII. EFFECTIVE DATE
+27 SECTION 8. Except as otherwise provided, this act is effective when it becomes
+28 law.
+Page 8 Senate Bill 528-Fifth Edition
+
+[DELETED:  5 H (   A A A R A M T H A H S S T  P S E C C o e i o s u d i e f p a n i t S T i s i a a m c a e i i i p L O C o H a H S a c s o b S  P I V A E C T S p t e a s p p t m e a f v f r m c F f ( E c T M S T f ( I]
+[DELETED:  S  S ( V o o t d c ( s i a r c a d s S f ( S ( M ( S ( T ( S ( P ( C ( O ( Q t o r f p w c a p m a S 3  T p s b t D t c t p p l p o n i s c S ( T a ( T r t e i w r t u t p a m r n m m f s c a w p E i w r t b ( T f 2 a m t t a w a c s s a b ( T t t C r f S s S  P]
+[DELETED:  S  P S a t c I ( R a ( R t S O T A ( t r p d p r t c s u m d a n ( R s c s t b a w f r f ( R b ( E p O t a m t p w a n e a r S r s t a a w f r H t C s n a t r t i S r S  P P S t " T N a s P a h p a P a O g t N b O c O d O e O]
+[DELETED:  S  S f O S r " T P t p n f t S a C L a t N P W t c p a P a O g t N b O c O d O e O f O S " T W S n n n 9 f ( O s T t m b p o t I o a b s N i t s ( O ( O ( O ( O ( O S " T P p T s s v t t p n f t L a t W a c a a a I e p n h c p a P a O g]
+[DELETED:  S  P t N b O c O d O e O f O S " T P t p n f t S a C L a t N P W t c p a P a O g t N b O c O d O e O f O S a " P E n t e u L c 9 o t H t 7 a " r t N P W c 8 ( O s T t m b p o t I o a b s N i t s ( O ( O ( O ( O ( O S a " P]
+[DELETED:  S  S E a f c t t ( O s T t m b p o t I o a b s N i t s ( O ( O ( O ( O ( O S w  P S a " ( T r R ( H d u P u ( A ( I ( R o r o a p o o d m t r ( C d a o ( C I p c f a p o o d i c d d m ( P p a s a r b s a s ( M f l ( C a t]
+[DELETED:  S  P ( A f a t ( A o t ( T l t t p o a r p o o d o a r f a A b A d c T r p r ( A p i ( T S b I c S o p o S S c  P V H A A S F S F S " ( D ( S e s – S p e u e a e d w a s r c o a e w n g ( S d a]
+[DELETED:  S  S ( P R – E h l u t P s a a i p t r t u o a s e s d a s ( A a S " ( D ( S e s – E S p e u e e d w a s r c o a s e d t e c f m T v ( S d a ( P a a ( A a S  P S l]

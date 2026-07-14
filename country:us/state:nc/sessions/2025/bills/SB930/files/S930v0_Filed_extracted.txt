@@ -1,0 +1,59 @@
+Title: SENATE BILL DRS35392-MWa-102
+Official Title: SENATE BILL DRS35392-MWa-102
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Apr 29, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 930
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: Traffic Signal Preemption Software. (Public)
+Sponsors: Senator Lowe (Primary Sponsor).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO FUND TRAFFIC SIGNAL PREEMPTION TECHNOLOGY.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. There is appropriated from the Highway Fund to the Department of
+5 Transportation the sum of two million seven hundred thousand dollars ($2,700,000) in
+6 nonrecurring funds for the 2026-2027 fiscal year to be used for traffic signal preemption
+7 technology to allow real-time signal changes prioritizing first responder vehicles, reducing
+8 response times and improving intersection safety.
+9 SECTION 2. This act becomes effective July 1, 2026.
+*DRS35392-MWa-102*
+[DELETED:  D T ( S  t s o t m s h t d ( i f f t 2 f y t b u f t s p t a r s c p f r v r]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Apr 29, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 930
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS35392-MWa-102
+Short Title: Traffic Signal Preemption Software. (Public)
+Sponsors: Senator Lowe (Primary Sponsor).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO FUND TRAFFIC SIGNAL PREEMPTION TECHNOLOGY.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. There is appropriated from the Highway Fund to the Department of
+5 Transportation the sum of two million seven hundred thousand dollars ($2,700,000) in
+6 nonrecurring funds for the 2026-2027 fiscal year to be used for traffic signal preemption
+7 technology to allow real-time signal changes prioritizing first responder vehicles, reducing
+8 response times and improving intersection safety.
+9 SECTION 2. This act becomes effective July 1, 2026.
+*DRS35392-MWa-102*
+
+[DELETED:  D T ( S  t s o t m s h t d ( i f f t 2 f y t b u f t s p t a r s c p f r v r]

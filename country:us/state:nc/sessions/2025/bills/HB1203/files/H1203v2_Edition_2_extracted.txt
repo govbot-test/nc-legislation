@@ -1,0 +1,87 @@
+Title: HOUSE BILL 1203
+Official Title: HOUSE BILL 1203
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+Committee Substitute Favorable 6/10/26
+Short Title: Family Support for Those Who Serve Act. (Public)
+Sponsors:
+Referred to:
+May 5, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO EXPAND TUITION WAIVERS TO THE CHILDREN OF CERTAIN PUBLIC
+3 SAFETY EMPLOYEES FOR ENROLLMENT IN NORTH CAROLINA COMMUNITY
+4 COLLEGES.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Chapter 115B of the General Statutes is amended by adding a new
+7 section to read:
+8 "§ 115B-2.1A. Community college tuition waiver for the children of certain public safety
+9 officers.
+10 (a) Definition. – For the purposes of this section, "experienced correctional officer"
+11 means a correctional officer with at least 10 years of service as a correctional officer in this State.
+12 (b) Tuition Waiver Authorized. – The community colleges, as defined in G.S. 115D-2(2),
+13 shall permit any child, if the child is at least 17 years old but not yet 24 years old, whose parent,
+14 legal guardian, or legal custodian is a law enforcement officer, experienced correctional officer,
+15 or firefighter to attend classes for credit or noncredit purposes without the required payment of
+16 tuition.
+17 (c) Proof of Eligibility Required. – The community college shall require a child
+18 requesting a tuition waiver to produce proof of eligibility under this section.
+19 (d) Limitation on Eligibility. – A child's eligibility for a tuition waiver under this section
+20 shall not exceed the number of months required to complete the educational program in which
+21 the child is enrolled.
+22 (e) Admissions Standards. – Children eligible for the tuition waiver under this section
+23 shall meet admission and other standards considered appropriate by the community college."
+24 SECTION 2. This act is effective when it becomes law and applies beginning with
+25 the 2026-2027 academic year.
+*H1203-v-2*
+[DELETED:  2 F (   A A S C T S s " o ( D – F t p o t s " c o m ( T s l o t ( P o E R – T c c s r a c r ( L s t ( A s S t]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 1203
+Committee Substitute Favorable 6/10/26
+Short Title: Family Support for Those Who Serve Act. (Public)
+Sponsors:
+Referred to:
+May 5, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO EXPAND TUITION WAIVERS TO THE CHILDREN OF CERTAIN PUBLIC
+3 SAFETY EMPLOYEES FOR ENROLLMENT IN NORTH CAROLINA COMMUNITY
+4 COLLEGES.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Chapter 115B of the General Statutes is amended by adding a new
+7 section to read:
+8 "§ 115B-2.1A. Community college tuition waiver for the children of certain public safety
+9 officers.
+10 (a) Definition. – For the purposes of this section, "experienced correctional officer"
+11 means a correctional officer with at least 10 years of service as a correctional officer in this State.
+12 (b) Tuition Waiver Authorized. – The community colleges, as defined in G.S. 115D-2(2),
+13 shall permit any child, if the child is at least 17 years old but not yet 24 years old, whose parent,
+14 legal guardian, or legal custodian is a law enforcement officer, experienced correctional officer,
+15 or firefighter to attend classes for credit or noncredit purposes without the required payment of
+16 tuition.
+17 (c) Proof of Eligibility Required. – The community college shall require a child
+18 requesting a tuition waiver to produce proof of eligibility under this section.
+19 (d) Limitation on Eligibility. – A child's eligibility for a tuition waiver under this section
+20 shall not exceed the number of months required to complete the educational program in which
+21 the child is enrolled.
+22 (e) Admissions Standards. – Children eligible for the tuition waiver under this section
+23 shall meet admission and other standards considered appropriate by the community college."
+24 SECTION 2. This act is effective when it becomes law and applies beginning with
+25 the 2026-2027 academic year.
+*H1203-v-2*
+
+[DELETED:  2 F (   A A S C T S s " o ( D – F t p o t s " c o m ( T s l o t ( P o E R – T c c s r a c r ( L s t ( A s S t]

@@ -1,0 +1,507 @@
+Title: HOUSE BILL 1143
+Official Title: HOUSE BILL 1143
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Principal Fellows & MSA Intern Stipends. (Public)
+Sponsors: Representatives Blackwell, Biggs, Cotham, and Willis (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Education - K-12, if favorable, Appropriations, if favorable, Rules, Calendar, and
+Operations of the House
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO THE PRINCIPAL FELLOWS PROGRAM
+3 AND TO PROVIDE REQUIREMENTS FOR STIPENDS FOR THE MASTER'S IN
+4 SCHOOL ADMINISTRATION INTERNSHIP.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. ESTABLISH DEVELOPMENT GRANTS FOR PRINCIPAL FELLOWS
+8 PROGRAM
+9 SECTION 1. Article 5C of Chapter 116 of the General Statutes reads as rewritten:
+10 "Article 5C.
+11 "North Carolina Principal Fellows Program.
+12 …
+13 "§ 116-74.44. North Carolina Principal Fellows Program established; administration.
+14 (a) Established. – There is established the North Carolina Principal Fellows Program as
+15 a competitive grant program for eligible entities for the purpose of elevating educators in North
+16 Carolina public schools by transforming the preparation of principals across the State and
+17 providing for (i) forgivable scholarship loans to the participants of those school leader
+18 preparation programs. programs and (ii) grants to school leader preparation programs to develop
+19 innovative ways of training principals. The Authority shall administer the North Carolina
+20 Principal Fellows Program in collaboration with the Commission as set forth in this Article to
+21 provide funds for the preparation and support of highly effective future school principals in North
+22 Carolina.
+23 …
+24 (c) Administration of Forgivable Scholarship Loans. – Upon the grant recipients'
+25 selection selection by grant recipients for forgivable scholarship loans of the program participants
+26 for the school leader preparation programs, the Commission shall transfer the names of all
+27 program participants to the Authority. The Authority shall perform all of the administrative
+28 functions necessary to implement the forgivable scholarship loans to the school leader
+29 preparation program participants, which functions shall include rulemaking, disseminating
+30 information, acting as a liaison with participating eligible entities, implementing forgivable loan
+31 agreements in the form of promissory notes, monitoring loan repayment through service and
+32 cash, and performing all other functions necessary for the execution, payment, and enforcement
+33 of promissory notes required under this Article.
+34 …
+*H1143-v-1*
+General Assembly Of North Carolina Session 2025
+1 "§ 116-74.45. Grant applications; priority.
+2 (a) Application Requirements. – Subject to the availability of funds for this purpose, the
+3 Commission shall issue a request for proposal with guidelines and criteria for applying for a
+4 grant. grants to provide forgivable scholarship loans and develop innovative ways of training
+5 principals. An eligible entity that seeks a grant shall submit to the Commission an application at
+6 such time, in such manner, and accompanied by such information as the Commission may
+7 require. Eligible entities may create partnerships to develop and establish school leader
+8 preparation programs and apply jointly to be a grant recipient. An applicant shall include at least
+9 the following information in its application for consideration by the Commission:
+10 …
+11 "§ 116-74.46. Recipient selection; use of grant funds; duration and conditions of grants;
+12 reporting requirements.
+13 (a) Selection. – After evaluation of grant applications pursuant to G.S. 116-74.45, the
+14 Commission shall notify the Authority of its selection of the recipients of grants for each fiscal
+15 year. The Commission shall select up to eight grant recipients to be operating operate a school
+16 leader preparation program with grant funds for forgivable scholarship loans in any fiscal
+17 year.year and up to two recipients for a grant of up to two hundred fifty thousand dollars
+18 ($250,000) per recipient per fiscal year to develop innovative ways of training principals.
+19 (b) Use of Funds. Grant Funds for Forgivable Scholarship Loans. – Each eligible entity
+20 that receives grant funds for forgivable scholarship loans shall use those funds to carry out the
+21 following:
+22 …
+23 (c) Duration and Conditions of Grants. – The Commission shall also notify the Authority
+24 of its decisions on the duration and renewal of grants to eligible entities made in accordance with
+25 the following:
+26 (1) The duration of grants for forgivable scholarship loans shall be as follows:
+27 a. Grants shall be no more than six years and no fewer than two years in
+28 duration, unless the Commission finds early termination of a grant is
+29 necessary due to noncompliance with grant terms.
+30 b. The Commission may renew a grant based on compliance with the
+31 grant terms and performance, including allowing the grantee to scale
+32 up or replicate the successful program as provided in subdivision (3)
+33 of this subsection.
+34 (1a) The duration of grants for training development shall be for one year. The
+35 Commission may renew a grant for training development, in its discretion, on
+36 an annual basis.
+37 …
+38 (3) In evaluating performance for purposes of grant renewal and making its
+39 renewal decisions to provide to the Authority, Authority pursuant to
+40 subdivision (1) of this subsection, the Commission shall consider at least the
+41 following:
+42 …
+43 (d) Reporting Requirements for Grant Recipients. – Recipients of grants shall participate
+44 in all evaluation activities required by the Commission and submit an annual report to the
+45 Commission with any information requested by the Commission. The recipients shall comply
+46 with additional report requests made by the Commission. Whenever practicable and within a
+47 reasonable amount of time, grant recipients shall also make all materials developed as part of the
+48 program and with grant funds publicly available to contribute to the broader sharing of promising
+49 practices. Materials shall not include personally identifiable information regarding individuals
+50 involved or associated with the program, including, without limitation, applicants, participants,
+51 supervisors, evaluators, faculty, and staff, without their prior written consent. The Commission
+Page 2 House Bill 1143-First Edition
+General Assembly Of North Carolina Session 2025
+1 shall work with recipients, local school administrative units, and public schools, as needed, to
+2 enable the collection, analysis, and evaluation of at least the following relevant data, data related
+3 to grants for forgivable scholarship loans, within necessary privacy constraints:
+4 (1) Student achievement in eligible schools.
+5 (2) The percentage of program completers who are placed as school leaders
+6 within three years in the State.
+7 (3) The percentage of program completers who are placed as school leaders
+8 within three years in high-need schools in the State.
+9 (4) The percentage of program completers rated proficient or above on school
+10 leader evaluation and support systems.
+11 (5) The percentage of program completers that are school leaders who have
+12 remained employed in a North Carolina public school for two or more years
+13 of initial placement.
+14 …."
+15
+16 PART II. PRINCIPAL FELLOWS PROGRAM MAY USE ADMINISTRATIVE FUNDS
+17 FOR STATEWIDE PROGRAMMING
+18 SECTION 2. G.S. 116-74.41B reads as rewritten:
+19 "§ 116-74.41B. The North Carolina Principal Fellows Trust Fund.
+20 …
+21 (b) Use of Monies in the Trust Fund. – The monies in the Trust Fund may be used only
+22 for the purposes set forth in this subsection, including the award of grants pursuant to
+23 G.S. 116-74.44, administrative costs, and costs associated with Program operations in
+24 accordance with this Article. The Authority may use up to two percent (2%) of the funds
+25 appropriated for the Program or one hundred sixty thousand dollars ($160,000) from the Trust
+26 Fund, whichever is greater, each fiscal year for administrative costs, including recovery of funds
+27 advanced under the Program, and may allocate to the Commission up to eight hundred thousand
+28 dollars ($800,000) from the Trust Fund each fiscal year for the following:
+29 (1) The salary and benefits of the director and staff of the Program.
+30 (2) The expenses of the Commission to administer the Program.
+31 (3) Program monitoring and evaluation.
+32 (4) Extracurricular enhancement activities for the Program.
+33 (5) Repealed by Session Laws 2019-60, s. 1(y), effective July 1, 2021.
+34 (6) Programming on research-based school leadership practices to be shared with
+35 eligible entities in order to improve principal preparation throughout the State.
+36 (c) Remaining Funds. – If at the end of each fiscal year there are funds remaining in the
+37 Trust Fund that are not obligated or otherwise encumbered for another purpose, upon the request
+38 of the Commission, the Authority shall allocate the funds to the Commission for any of the
+39 purposes identified in subdivisions (3) through (6) of subsection (b) of this section."
+40
+41 PART III. APPROPRIATION FOR PRINCIPAL FELLOWS PROGRAM
+42 SECTION 3. There is appropriated from the General Fund to the North Carolina
+43 Principal Fellows Trust Fund the sum of five million dollars ($5,000,000) in recurring funds
+44 beginning in the 2026-2027 fiscal year to increase the number of principal fellows candidates
+45 supported by the North Carolina Principal Fellows Program in accordance with Article 5C of
+46 Chapter 116 of the General Statutes. These funds shall be allocated as follows:
+47 (1) The sum of two million six hundred thousand dollars ($2,600,000) to be used
+48 to bring the number of principal fellows candidates receiving funds in the
+49 2028-2034 award cycle into parity with the number of recipients in other
+50 award cycles.
+House Bill 1143-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (2) The sum of two million four hundred thousand dollars ($2,400,000) to expand
+2 the number of principal fellows candidates supported by the Program with the
+3 goal of having fifty-five percent (55%) of all principals employed in North
+4 Carolina be graduates of the North Carolina Principal Fellows Program.
+5
+6 PART IV. MASTER'S IN SCHOOL ADMINISTRATION INTERNSHIP STIPENDS
+7 SECTION 4.(a) Article 19 of Chapter 115C of the General Statutes is amended by
+8 adding the following new section to read:
+9 "§ 115C-284.2. Master's in school administration internship stipends.
+10 (a) Definitions. – The following definitions apply in this section:
+11 (1) Authority. – The State Education Assistance Authority.
+12 (2) Department. – The Department of Public Instruction.
+13 (3) MSA intern. – A participant in an approved full-time master's in school
+14 administration program who is completing an internship pursuant to
+15 G.S. 115C-284.1(d)(1).
+16 (4) Principal Fellow MSA intern. – An MSA intern who is a participant in the
+17 Principal Fellows Program.
+18 (5) School administrator. – A principal or an assistant principal.
+19 (b) Stipend. – To the extent funds are made available for this purpose, the Department
+20 shall provide MSA interns with a full-time internship position with a 10-month stipend during
+21 the internship period of the master's program. The stipend shall be at the beginning salary of an
+22 assistant principal or, for a teacher who becomes an intern, at least as much as that person would
+23 earn as a teacher on the teacher salary schedule. If the funds provided for this purpose are
+24 insufficient to fully fund the stipend required by this subsection, the Department shall use funds
+25 appropriated to the State Public School Fund for this purpose. The North Carolina Principal
+26 Fellows Program or the school of education where the MSA intern participates in a full-time
+27 master's in school administration program shall supply the Department of Public Instruction with
+28 certification of eligible full-time interns in order to receive the stipends provided in this section.
+29 (c) Payback. – For MSA interns who are not Principal Fellow MSA interns, the
+30 Department shall condition receipt of the stipend authorized pursuant to subsection (b) of this
+31 section on an agreement to be signed by the intern to reimburse the Authority on behalf of the
+32 Department in cash for up to twenty thousand dollars ($20,000) of the stipend funds provided to
+33 the intern if the intern does not serve as a school administrator in a public school unit for two
+34 years within seven years after graduation from the master's in school administration program,
+35 exclusive of any authorized deferment for extenuating circumstances. To the extent practicable,
+36 the Authority may model the agreement on the service repayment agreement in place for principal
+37 fellows pursuant to G.S. 116-74.48(c). The Authority shall transfer any funds received in
+38 repayment from a recipient pursuant to this subsection to the Department.
+39 (d) Administration. – Of the funds appropriated to the Department pursuant to this
+40 section, the Department may retain up to two percent (2%) each fiscal year for the administrative
+41 costs associated with the payback agreement described in subsection (c) of this section. The
+42 Department shall use these funds to enter into a memorandum of understanding with the
+43 Authority to accept repayment on behalf of the Department and to monitor the acceptability of
+44 compliance of the recipient with that agreement. The Authority shall forgive repayment of the
+45 stipend funds if it finds it is impossible for the recipient to work for two years as a school
+46 administrator, within seven years after completion of the preparation program supported by those
+47 funds, because of the death or permanent disability of the recipient. If the recipient repays the
+48 stipend funds by cash payments to the Authority, all funds shall be repaid within 10 years after
+49 completion of the master's in school administration internship supported by the stipend. If the
+50 recipient completes the master's in school administration program, repayment of stipend funds
+51 shall begin no later than 27 months after the completion of the program. Should a recipient
+Page 4 House Bill 1143-First Edition
+General Assembly Of North Carolina Session 2025
+1 present extenuating circumstances, the Authority may extend the period to repay the stipend
+2 funds in cash to no more than a total of 12 years.
+3 (e) Report. – No later than February 15 of each year, the Department of Public
+4 Instruction, in consultation with the State Education Assistance Authority, shall report to the
+5 Joint Legislative Education Oversight Committee on the stipends provided pursuant to this
+6 section, including at least the following information:
+7 (1) Demographic information of recipients.
+8 (2) Number of recipients by institution of higher education.
+9 (3) Number of MSA interns and the portion of MSA interns who agreed to the
+10 payback terms described in subsection (c) of this section.
+11 (4) Placement and repayment information, including the following:
+12 a. Number of recipients who are employed in a public school unit and
+13 the positions of those recipients.
+14 b. Number of recipients identified in subdivision (3) of this subsection
+15 who did either of the following:
+16 1. Were not required to pay back any of the stipend funds because
+17 they completed two years of service as a school administrator
+18 in a public school unit.
+19 2. Elected to repay stipend funds in cash and their years of
+20 service, if any, prior to beginning repayment."
+21 SECTION 4.(b) The Department of Public Instruction shall include the funds
+22 retained for administration of the payback agreement pursuant to G.S. 115C-284.1(d) as part of
+23 its recommended technical adjustments, beginning with the Current Operations Appropriations
+24 Act of 2027.
+25 SECTION 4.(c) There is appropriated from the General Fund to the Department of
+26 Public Instruction beginning with the 2026-2027 fiscal year the sum of one hundred
+27 seventy-seven thousand two hundred forty-one dollars ($177,241) in recurring funds to provide
+28 stipends for MSA interns in accordance with G.S. 115C-284.2(b), as enacted by subsection (a)
+29 of this section.
+30 SECTION 4.(d) This section applies beginning with master's in school
+31 administration internships beginning in the 2027-2028 academic year.
+32
+33 PART V. EFFECTIVE DATE
+34 SECTION 5. Except as otherwise provided, this act becomes effective July 1, 2026.
+House Bill 1143-First Edition Page 5
+[DELETED:  1 P ( R E A A A T P R F S F T M I S T  P I E D G F P F P S " " … " ( E a C p s b t t p o p a t S a p f ( f s l t t p o t s l p i w o t p T A s a t N C P p C … ( A o F S L – U t g r s f t s l p p t C s t t n o a p f n t i t f s l t t s l p p p w f s i r d i a c o …]
+[DELETED:  S  H " ( A C g p s t i s m a a b s i a t C m r E e m c p t d a e s l p t … " r ( S C y l p p w g f f f s l i a f y a u t t r f a g o u t t h f t d ( ( U t f … ( D o t ( T a G d n b T g u o ( T C a … ( I e p f p o g r a m i r d t p t t A A p t s f … ( R i a e a r b t C a s a a r t t C w r p p i s]
+[DELETED:  S  P s e t ( S ( T p o p c w a p a s l w ( T p o p c w a p a s l w ( T l ( T p o p c t a s l w h r o …  P F S " … ( U f t p s f i t s i t a o g p t G a c a c a w P o i a w t A T A m u u t t p ( o t f a F a d ( T ( T ( P ( E ( R ( P e ( R T o p  P S P b s C ( T t 2 i a]
+[DELETED:  S  H ( T t g C  P S a " ( D ( A ( D ( M i – A p i a a f m i s a p w i c a i p t G ( P P ( S ( S s t a e I f i a F m c ( P – F M i w a n P F M i t D s D t y e t f p t G T A s t a f r i r ( A – O t f a t t D p t t s c D s u t f t e i a m o u w t A c s a f s c r s]
+[DELETED:  S  P p f ( R – N l t F 1 o e y t D o P I J L E O C o t s p p t t s ( D ( N ( N p ( P a N t b N w 1 W t i 2 E t r s f i c a t y o s S 4  T D o P I s i t f r i A S P I b w t 2 f y t s o o h s s o S 4  T s a b w m i s a  P S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1143
+Short Title: Principal Fellows & MSA Intern Stipends. (Public)
+Sponsors: Representatives Blackwell, Biggs, Cotham, and Willis (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Education - K-12, if favorable, Appropriations, if favorable, Rules, Calendar, and
+Operations of the House
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO THE PRINCIPAL FELLOWS PROGRAM
+3 AND TO PROVIDE REQUIREMENTS FOR STIPENDS FOR THE MASTER'S IN
+4 SCHOOL ADMINISTRATION INTERNSHIP.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. ESTABLISH DEVELOPMENT GRANTS FOR PRINCIPAL FELLOWS
+8 PROGRAM
+9 SECTION 1. Article 5C of Chapter 116 of the General Statutes reads as rewritten:
+10 "Article 5C.
+11 "North Carolina Principal Fellows Program.
+12 …
+13 "§ 116-74.44. North Carolina Principal Fellows Program established; administration.
+14 (a) Established. – There is established the North Carolina Principal Fellows Program as
+15 a competitive grant program for eligible entities for the purpose of elevating educators in North
+16 Carolina public schools by transforming the preparation of principals across the State and
+17 providing for (i) forgivable scholarship loans to the participants of those school leader
+18 preparation programs. programs and (ii) grants to school leader preparation programs to develop
+19 innovative ways of training principals. The Authority shall administer the North Carolina
+20 Principal Fellows Program in collaboration with the Commission as set forth in this Article to
+21 provide funds for the preparation and support of highly effective future school principals in North
+22 Carolina.
+23 …
+24 (c) Administration of Forgivable Scholarship Loans. – Upon the grant recipients'
+25 selection selection by grant recipients for forgivable scholarship loans of the program participants
+26 for the school leader preparation programs, the Commission shall transfer the names of all
+27 program participants to the Authority. The Authority shall perform all of the administrative
+28 functions necessary to implement the forgivable scholarship loans to the school leader
+29 preparation program participants, which functions shall include rulemaking, disseminating
+30 information, acting as a liaison with participating eligible entities, implementing forgivable loan
+31 agreements in the form of promissory notes, monitoring loan repayment through service and
+32 cash, and performing all other functions necessary for the execution, payment, and enforcement
+33 of promissory notes required under this Article.
+34 …
+*H1143-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 "§ 116-74.45. Grant applications; priority.
+2 (a) Application Requirements. – Subject to the availability of funds for this purpose, the
+3 Commission shall issue a request for proposal with guidelines and criteria for applying for a
+4 grant. grants to provide forgivable scholarship loans and develop innovative ways of training
+5 principals. An eligible entity that seeks a grant shall submit to the Commission an application at
+6 such time, in such manner, and accompanied by such information as the Commission may
+7 require. Eligible entities may create partnerships to develop and establish school leader
+8 preparation programs and apply jointly to be a grant recipient. An applicant shall include at least
+9 the following information in its application for consideration by the Commission:
+10 …
+11 "§ 116-74.46. Recipient selection; use of grant funds; duration and conditions of grants;
+12 reporting requirements.
+13 (a) Selection. – After evaluation of grant applications pursuant to G.S. 116-74.45, the
+14 Commission shall notify the Authority of its selection of the recipients of grants for each fiscal
+15 year. The Commission shall select up to eight grant recipients to be operating operate a school
+16 leader preparation program with grant funds for forgivable scholarship loans in any fiscal
+17 year.year and up to two recipients for a grant of up to two hundred fifty thousand dollars
+18 ($250,000) per recipient per fiscal year to develop innovative ways of training principals.
+19 (b) Use of Funds. Grant Funds for Forgivable Scholarship Loans. – Each eligible entity
+20 that receives grant funds for forgivable scholarship loans shall use those funds to carry out the
+21 following:
+22 …
+23 (c) Duration and Conditions of Grants. – The Commission shall also notify the Authority
+24 of its decisions on the duration and renewal of grants to eligible entities made in accordance with
+25 the following:
+26 (1) The duration of grants for forgivable scholarship loans shall be as follows:
+27 a. Grants shall be no more than six years and no fewer than two years in
+28 duration, unless the Commission finds early termination of a grant is
+29 necessary due to noncompliance with grant terms.
+30 b. The Commission may renew a grant based on compliance with the
+31 grant terms and performance, including allowing the grantee to scale
+32 up or replicate the successful program as provided in subdivision (3)
+33 of this subsection.
+34 (1a) The duration of grants for training development shall be for one year. The
+35 Commission may renew a grant for training development, in its discretion, on
+36 an annual basis.
+37 …
+38 (3) In evaluating performance for purposes of grant renewal and making its
+39 renewal decisions to provide to the Authority, Authority pursuant to
+40 subdivision (1) of this subsection, the Commission shall consider at least the
+41 following:
+42 …
+43 (d) Reporting Requirements for Grant Recipients. – Recipients of grants shall participate
+44 in all evaluation activities required by the Commission and submit an annual report to the
+45 Commission with any information requested by the Commission. The recipients shall comply
+46 with additional report requests made by the Commission. Whenever practicable and within a
+47 reasonable amount of time, grant recipients shall also make all materials developed as part of the
+48 program and with grant funds publicly available to contribute to the broader sharing of promising
+49 practices. Materials shall not include personally identifiable information regarding individuals
+50 involved or associated with the program, including, without limitation, applicants, participants,
+51 supervisors, evaluators, faculty, and staff, without their prior written consent. The Commission
+Page 2 House Bill 1143-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 shall work with recipients, local school administrative units, and public schools, as needed, to
+2 enable the collection, analysis, and evaluation of at least the following relevant data, data related
+3 to grants for forgivable scholarship loans, within necessary privacy constraints:
+4 (1) Student achievement in eligible schools.
+5 (2) The percentage of program completers who are placed as school leaders
+6 within three years in the State.
+7 (3) The percentage of program completers who are placed as school leaders
+8 within three years in high-need schools in the State.
+9 (4) The percentage of program completers rated proficient or above on school
+10 leader evaluation and support systems.
+11 (5) The percentage of program completers that are school leaders who have
+12 remained employed in a North Carolina public school for two or more years
+13 of initial placement.
+14 …."
+15
+16 PART II. PRINCIPAL FELLOWS PROGRAM MAY USE ADMINISTRATIVE FUNDS
+17 FOR STATEWIDE PROGRAMMING
+18 SECTION 2. G.S. 116-74.41B reads as rewritten:
+19 "§ 116-74.41B. The North Carolina Principal Fellows Trust Fund.
+20 …
+21 (b) Use of Monies in the Trust Fund. – The monies in the Trust Fund may be used only
+22 for the purposes set forth in this subsection, including the award of grants pursuant to
+23 G.S. 116-74.44, administrative costs, and costs associated with Program operations in
+24 accordance with this Article. The Authority may use up to two percent (2%) of the funds
+25 appropriated for the Program or one hundred sixty thousand dollars ($160,000) from the Trust
+26 Fund, whichever is greater, each fiscal year for administrative costs, including recovery of funds
+27 advanced under the Program, and may allocate to the Commission up to eight hundred thousand
+28 dollars ($800,000) from the Trust Fund each fiscal year for the following:
+29 (1) The salary and benefits of the director and staff of the Program.
+30 (2) The expenses of the Commission to administer the Program.
+31 (3) Program monitoring and evaluation.
+32 (4) Extracurricular enhancement activities for the Program.
+33 (5) Repealed by Session Laws 2019-60, s. 1(y), effective July 1, 2021.
+34 (6) Programming on research-based school leadership practices to be shared with
+35 eligible entities in order to improve principal preparation throughout the State.
+36 (c) Remaining Funds. – If at the end of each fiscal year there are funds remaining in the
+37 Trust Fund that are not obligated or otherwise encumbered for another purpose, upon the request
+38 of the Commission, the Authority shall allocate the funds to the Commission for any of the
+39 purposes identified in subdivisions (3) through (6) of subsection (b) of this section."
+40
+41 PART III. APPROPRIATION FOR PRINCIPAL FELLOWS PROGRAM
+42 SECTION 3. There is appropriated from the General Fund to the North Carolina
+43 Principal Fellows Trust Fund the sum of five million dollars ($5,000,000) in recurring funds
+44 beginning in the 2026-2027 fiscal year to increase the number of principal fellows candidates
+45 supported by the North Carolina Principal Fellows Program in accordance with Article 5C of
+46 Chapter 116 of the General Statutes. These funds shall be allocated as follows:
+47 (1) The sum of two million six hundred thousand dollars ($2,600,000) to be used
+48 to bring the number of principal fellows candidates receiving funds in the
+49 2028-2034 award cycle into parity with the number of recipients in other
+50 award cycles.
+House Bill 1143-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (2) The sum of two million four hundred thousand dollars ($2,400,000) to expand
+2 the number of principal fellows candidates supported by the Program with the
+3 goal of having fifty-five percent (55%) of all principals employed in North
+4 Carolina be graduates of the North Carolina Principal Fellows Program.
+5
+6 PART IV. MASTER'S IN SCHOOL ADMINISTRATION INTERNSHIP STIPENDS
+7 SECTION 4.(a) Article 19 of Chapter 115C of the General Statutes is amended by
+8 adding the following new section to read:
+9 "§ 115C-284.2. Master's in school administration internship stipends.
+10 (a) Definitions. – The following definitions apply in this section:
+11 (1) Authority. – The State Education Assistance Authority.
+12 (2) Department. – The Department of Public Instruction.
+13 (3) MSA intern. – A participant in an approved full-time master's in school
+14 administration program who is completing an internship pursuant to
+15 G.S. 115C-284.1(d)(1).
+16 (4) Principal Fellow MSA intern. – An MSA intern who is a participant in the
+17 Principal Fellows Program.
+18 (5) School administrator. – A principal or an assistant principal.
+19 (b) Stipend. – To the extent funds are made available for this purpose, the Department
+20 shall provide MSA interns with a full-time internship position with a 10-month stipend during
+21 the internship period of the master's program. The stipend shall be at the beginning salary of an
+22 assistant principal or, for a teacher who becomes an intern, at least as much as that person would
+23 earn as a teacher on the teacher salary schedule. If the funds provided for this purpose are
+24 insufficient to fully fund the stipend required by this subsection, the Department shall use funds
+25 appropriated to the State Public School Fund for this purpose. The North Carolina Principal
+26 Fellows Program or the school of education where the MSA intern participates in a full-time
+27 master's in school administration program shall supply the Department of Public Instruction with
+28 certification of eligible full-time interns in order to receive the stipends provided in this section.
+29 (c) Payback. – For MSA interns who are not Principal Fellow MSA interns, the
+30 Department shall condition receipt of the stipend authorized pursuant to subsection (b) of this
+31 section on an agreement to be signed by the intern to reimburse the Authority on behalf of the
+32 Department in cash for up to twenty thousand dollars ($20,000) of the stipend funds provided to
+33 the intern if the intern does not serve as a school administrator in a public school unit for two
+34 years within seven years after graduation from the master's in school administration program,
+35 exclusive of any authorized deferment for extenuating circumstances. To the extent practicable,
+36 the Authority may model the agreement on the service repayment agreement in place for principal
+37 fellows pursuant to G.S. 116-74.48(c). The Authority shall transfer any funds received in
+38 repayment from a recipient pursuant to this subsection to the Department.
+39 (d) Administration. – Of the funds appropriated to the Department pursuant to this
+40 section, the Department may retain up to two percent (2%) each fiscal year for the administrative
+41 costs associated with the payback agreement described in subsection (c) of this section. The
+42 Department shall use these funds to enter into a memorandum of understanding with the
+43 Authority to accept repayment on behalf of the Department and to monitor the acceptability of
+44 compliance of the recipient with that agreement. The Authority shall forgive repayment of the
+45 stipend funds if it finds it is impossible for the recipient to work for two years as a school
+46 administrator, within seven years after completion of the preparation program supported by those
+47 funds, because of the death or permanent disability of the recipient. If the recipient repays the
+48 stipend funds by cash payments to the Authority, all funds shall be repaid within 10 years after
+49 completion of the master's in school administration internship supported by the stipend. If the
+50 recipient completes the master's in school administration program, repayment of stipend funds
+51 shall begin no later than 27 months after the completion of the program. Should a recipient
+Page 4 House Bill 1143-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 present extenuating circumstances, the Authority may extend the period to repay the stipend
+2 funds in cash to no more than a total of 12 years.
+3 (e) Report. – No later than February 15 of each year, the Department of Public
+4 Instruction, in consultation with the State Education Assistance Authority, shall report to the
+5 Joint Legislative Education Oversight Committee on the stipends provided pursuant to this
+6 section, including at least the following information:
+7 (1) Demographic information of recipients.
+8 (2) Number of recipients by institution of higher education.
+9 (3) Number of MSA interns and the portion of MSA interns who agreed to the
+10 payback terms described in subsection (c) of this section.
+11 (4) Placement and repayment information, including the following:
+12 a. Number of recipients who are employed in a public school unit and
+13 the positions of those recipients.
+14 b. Number of recipients identified in subdivision (3) of this subsection
+15 who did either of the following:
+16 1. Were not required to pay back any of the stipend funds because
+17 they completed two years of service as a school administrator
+18 in a public school unit.
+19 2. Elected to repay stipend funds in cash and their years of
+20 service, if any, prior to beginning repayment."
+21 SECTION 4.(b) The Department of Public Instruction shall include the funds
+22 retained for administration of the payback agreement pursuant to G.S. 115C-284.1(d) as part of
+23 its recommended technical adjustments, beginning with the Current Operations Appropriations
+24 Act of 2027.
+25 SECTION 4.(c) There is appropriated from the General Fund to the Department of
+26 Public Instruction beginning with the 2026-2027 fiscal year the sum of one hundred
+27 seventy-seven thousand two hundred forty-one dollars ($177,241) in recurring funds to provide
+28 stipends for MSA interns in accordance with G.S. 115C-284.2(b), as enacted by subsection (a)
+29 of this section.
+30 SECTION 4.(d) This section applies beginning with master's in school
+31 administration internships beginning in the 2027-2028 academic year.
+32
+33 PART V. EFFECTIVE DATE
+34 SECTION 5. Except as otherwise provided, this act becomes effective July 1, 2026.
+House Bill 1143-First Edition Page 5
+
+[DELETED:  1 P ( R E A A A T P R F S F T M I S T  P I E D G F P F P S " " … " ( E a C p s b t t p o p a t S a p f ( f s l t t p o t s l p i w o t p T A s a t N C P p C … ( A o F S L – U t g r s f t s l p p t C s t t n o a p f n t i t f s l t t s l p p p w f s i r d i a c o …]
+[DELETED:  S  H " ( A C g p s t i s m a a b s i a t C m r E e m c p t d a e s l p t … " r ( S C y l p p w g f f f s l i a f y a u t t r f a g o u t t h f t d ( ( U t f … ( D o t ( T a G d n b T g u o ( T C a … ( I e p f p o g r a m i r d t p t t A A p t s f … ( R i a e a r b t C a s a a r t t C w r p p i s]
+[DELETED:  S  P s e t ( S ( T p o p c w a p a s l w ( T p o p c w a p a s l w ( T l ( T p o p c t a s l w h r o …  P F S " … ( U f t p s f i t s i t a o g p t G a c a c a w P o i a w t A T A m u u t t p ( o t f a F a d ( T ( T ( P ( E ( R ( P e ( R T o p  P S P b s C ( T t 2 i a]
+[DELETED:  S  H ( T t g C  P S a " ( D ( A ( D ( M i – A p i a a f m i s a p w i c a i p t G ( P P ( S ( S s t a e I f i a F m c ( P – F M i w a n P F M i t D s D t y e t f p t G T A s t a f r i r ( A – O t f a t t D p t t s c D s u t f t e i a m o u w t A c s a f s c r s]
+[DELETED:  S  P p f ( R – N l t F 1 o e y t D o P I J L E O C o t s p p t t s ( D ( N ( N p ( P a N t b N w 1 W t i 2 E t r s f i c a t y o s S 4  T D o P I s i t f r i A S P I b w t 2 f y t s o o h s s o S 4  T s a b w m i s a  P S]

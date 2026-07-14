@@ -1,0 +1,566 @@
+Title: HOUSE BILL DRH30548-LRa-161A
+Official Title: HOUSE BILL DRH30548-LRa-161A
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+H.B. 1059
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 27, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Fair Minimum Wage Act. (Public)
+Sponsors: Representative Prather.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT ESTABLISHING STATE MINIMUM WAGES THAT ADJUST UPWARD
+3 AUTOMATICALLY FOR INFLATION, CREATING THE NORTH CAROLINA WAGE
+4 BOARD, ESTABLISHING THE SHORT-TIME COMPENSATION PROGRAM,
+5 REPEALING THE RESTRICTION ON LOCAL MINIMUM WAGES, AND
+6 APPROPRIATING FUNDS FOR IMPLEMENTATION OF THIS ACT.
+7 Whereas, the wages paid to working North Carolinians should be sufficient to better
+8 reflect the rising cost of basic necessities, including housing, food, transportation, and health
+9 care; and
+10 Whereas, indexing the State minimum wage for inflation will help preserve workers'
+11 purchasing power over time and reduce the need for repeated legislative intervention; and
+12 Whereas, allowing local governments to adopt higher minimum wages, where
+13 appropriate, gives communities greater flexibility to respond to local labor market conditions and
+14 cost pressures; and
+15 Whereas, a Wage Board and a short-time compensation program can help the State
+16 promote fair wages, reduce avoidable layoffs, and support workforce stability during economic
+17 downturns; and
+18 Whereas, improving wage standards and employment stability advances the general
+19 welfare of the people of North Carolina; Now, therefore,
+20 The General Assembly of North Carolina enacts:
+21 SECTION 1.1. G.S. 95-25.3 reads as rewritten:
+22 "§ 95-25.3. Minimum wage.
+23 (a) Every Except as provided by subsection (a1) of this section, every employer shall pay
+24 to each employee who in any workweek performs any work, wages of at least six dollars and
+25 fifteen cents ($6.15) per hour or the minimum wage set forth in paragraph 1 of section 6(a) of the
+26 Fair Labor Standards Act, 29 U.S.C. 206(a)(1), as that wage may change from time to time,
+27 whichever is higher, except as otherwise provided in this section.fifteen dollars ($15.00) per hour,
+28 which shall be adjusted automatically for inflation annually to reflect increases in the Consumer
+29 Price Index, with the first adjustment occurring effective January 1, 2027. These adjustments
+30 shall be effective January 1 of each year. The adjustments shall be calculated by the
+31 Commissioner as the percentage of change between the October Consumer Price Index in the
+32 year most recently ended, calculated to the nearest tenth of one percent (1/10 of 1%), provided
+33 that this percentage change is positive. For the purposes of this section, the term "Consumer Price
+34 Index" means the Consumer Price Index for All Urban Consumers (CPI-U), U.S. City Average,
+35 all items, not seasonally adjusted, standard reference base, as published by the Bureau of Labor
+36 Statistics of the U.S. Department of Labor.
+*DRH30548-LRa-161A*
+General Assembly Of North Carolina Session 2025
+1 (a1) Notwithstanding the provisions of subsection (a) of this section, an employer whose
+2 gross annual receipts for the preceding calendar year were less than four hundred thousand dollars
+3 ($400,000) shall pay to each employee who in any workweek performs any work wages of at
+4 least eleven dollars ($11.00) per hour or the minimum wage set forth in paragraph 1 of section
+5 6(a) of the Fair Labor Standards Act, 29 U.S.C. § 206(a)(1), as that wage may change from time
+6 to time, whichever is higher, except as otherwise provided in this section. The rate of eleven
+7 dollars ($11.00) per hour is effective January 1, 2027, and shall be adjusted annually thereafter
+8 in the same manner and on the same schedule as provided in subsection (a) of this section. An
+9 employer that qualifies under this section has the burden of establishing its eligibility by
+10 maintaining records sufficient to demonstrate gross annual receipts for the preceding calendar
+11 year. The records shall be retained for at least three years and shall be made available to the
+12 Commissioner upon request.
+13 (a2) A local government may adopt an ordinance establishing a local minimum wage
+14 within its territorial jurisdiction that is higher than the statewide minimum wage; then, in that
+15 case, every employer in the jurisdiction shall instead pay the higher local minimum wage.
+16 (a3) The North Carolina Wage Board is established within the Department. Wage Board
+17 members shall be appointed by, and serve at the pleasure of, the Commissioner. The Wage Board
+18 shall review wages in this State annually and publish a report establishing targets for the State to
+19 remain competitive and that allow wage earners to afford housing, health care, and other basic
+20 necessities.
+21 (b) In order to prevent curtailment of opportunities for employment, the wage rate for
+22 full-time students, learners, apprentices, and messengers, as defined under the Fair Labor
+23 Standards Act, shall be ninety percent (90%) of the rate in effect under subsection (a) above, or
+24 subsection (a1) of this section rounded to the lowest nickel.
+25 (c) The Commissioner, in order to prevent curtailment of opportunities for employment,
+26 may, by regulation, establish a wage rate less than the wage rate in effect under section (a) or
+27 subsection (a1) of this section which may apply to persons whose earning or productive capacity
+28 is impaired by age or physical or mental deficiency or injury, as such persons are defined under
+29 the Fair Labor Standards Act.
+30 (d) The Commissioner, in order to prevent curtailment of opportunities for employment
+31 of the economically disadvantaged and the unemployed, may, by regulation, establish a wage
+32 rate not less than eighty-five percent (85%) of the otherwise applicable wage rate in effect under
+33 subsection (a) or subsection (a1) of this section which shall apply to all persons (i) who have
+34 been unemployed for at least 15 weeks and who are economically disadvantaged, or (ii) who are,
+35 or whose families are, receiving Work First Family Assistance or who are receiving supplemental
+36 security benefits under Title XVI of the Social Security Act.
+37 Pursuant to regulations issued by the Commissioner, certificates establishing eligibility for
+38 such subminimum wage shall be issued by the Division of Employment Security.
+39 The regulation issued by the Commissioner shall not permit employment at the subminimum
+40 rate for a period in excess of 52 weeks.
+41 (e) The Commissioner, in order to prevent curtailment of opportunities for employment,
+42 and to not adversely affect the viability of seasonal establishments, may, by regulation, establish
+43 a wage rate not less than eighty-five percent (85%) of the otherwise applicable wage rate in effect
+44 under subsection (a) or subsection (a1) of this section that shall apply to any employee employed
+45 by an establishment that is a seasonal food service establishment.
+46 (f) Tips earned by a tipped employee may be counted as wages only up to the amount
+47 permitted in section 3(m) of the Fair Labor Standards Act, 29 U.S.C. 203(m), if the tipped
+48 employee is notified in advance, is permitted to retain all tips and the employer maintains
+49 accurate and complete records of tips received by each employee as such tips are certified by the
+50 employee monthly or for each pay period. Even if the employee refuses to certify tips accurately,
+51 tips may still be counted as wages when the employer complies with the other requirements of
+Page 2 DRH30548-LRa-161A
+General Assembly Of North Carolina Session 2025
+1 this section and can demonstrate by monitoring tips that the employee regularly receives tips in
+2 the amount for which the credit is taken. Tip pooling shall also be permissible among employees
+3 who customarily and regularly receive tips; however, no employee's tips may be reduced by more
+4 than fifteen percent (15%) under a tip pooling arrangement.
+5 (g) Repealed by Session Laws 2006-259, s. 18, effective August 23, 2006."
+6 SECTION 2.1. G.S. 95-25.1 reads as rewritten:
+7 "§ 95-25.1. Short title and legislative purpose; local governments preempted.purpose.
+8 (a) This Article shall be known and may be cited as the "Wage and Hour Act."
+9 (b) The public policy of this State is declared as follows: The wage levels of employees,
+10 hours of labor, payment of earned wages, and the well-being of minors are subjects of concern
+11 requiring legislation to promote the general welfare of the people of the State without
+12 jeopardizing the competitive position of North Carolina business and industry. The General
+13 Assembly declares that the general welfare of the State requires the enactment of this law under
+14 the police power of the State.
+15 (c) Repealed by Session Laws 2017-4, s. 1, effective March 30, 2017.
+16 (d) The provisions of this Article supersede and preempt any ordinance, regulation,
+17 resolution, or policy adopted or imposed by a unit of local government or other political
+18 subdivision of the State that regulates or imposes any requirement upon an employer pertaining
+19 to compensation of employees, such as the wage levels of employees, hours of labor, payment of
+20 earned wages, benefits, leave, or well-being of minors in the workforce. This subsection shall not
+21 apply to any of the following:
+22 (1) A local government regulating, compensating, or controlling its own
+23 employees.
+24 (2) Economic development incentives awarded under Chapter 143B of the
+25 General Statutes.
+26 (3) Economic development incentives awarded under Article 1 of Chapter 158 of
+27 the General Statutes.
+28 (4) A requirement of federal community development block grants.
+29 (5) Programs established under G.S. 160D-1311."
+30 SECTION 3.1. Chapter 96 of the General Statutes is amended by adding a new
+31 Article to read:
+32 "Article 6.
+33 "Short-Time Compensation.
+34 "§ 96-45. Short-time compensation.
+35 (a) Definitions. – The following definitions apply in this section:
+36 (1) Affected unit. – A specified plant, department, shift, or other definable unit of
+37 two or more employees designated by the employer to participate in a
+38 short-time compensation plan.
+39 (2) Employer-sponsored training. – A training component sponsored by an
+40 employer to improve the skills of the employer's workers.
+41 (3) Normal weekly hours of work. – The number of hours in a week that an
+42 individual would regularly work for the short-time compensation employer,
+43 not to exceed 40 hours, excluding overtime.
+44 (4) Short-time compensation benefits. – Benefits payable to individuals in an
+45 affected unit under an approved short-time compensation plan.
+46 (5) Short-time compensation employer. – An employer with a short-time
+47 compensation plan in effect.
+48 (6) Short-time compensation plan or plan. – An employer's written plan for
+49 reducing unemployment under which an affected unit shares the work
+50 remaining after its normal weekly hours of work are reduced.
+DRH30548-LRa-161A Page 3
+General Assembly Of North Carolina Session 2025
+1 (b) Approval of Plans. – An employer wishing to participate in the short-time
+2 compensation program must submit a signed, written, short-time plan to the Division. The
+3 Division shall approve the plan if all of the following criteria are met:
+4 (1) The plan applies to and identifies each specific affected unit.
+5 (2) The individuals in the affected unit are identified by name and social security
+6 number.
+7 (3) The normal weekly hours of work for individuals in the affected unit are
+8 reduced by at least ten percent (10%) and by not more than sixty percent
+9 (60%).
+10 (4) The plan includes a certified statement by the employer that the aggregate
+11 reduction in work hours is in lieu of layoffs that would affect at least ten
+12 percent (10%) of the employees in the affected unit and that would have
+13 resulted in an equivalent reduction in work hours.
+14 (5) The plan applies to at least ten percent (10%) of the employees in the affected
+15 unit.
+16 (6) The plan is approved in writing by the collective bargaining agent for each
+17 collective bargaining agreement covering any individual in the affected unit.
+18 (7) The plan does not serve as a subsidy to seasonal employers during the
+19 off-season or as a subsidy to employers who traditionally use part-time
+20 employees.
+21 (8) The plan certifies that, if the employer provides fringe benefits to any
+22 employee whose workweek is reduced under the program, the fringe benefits
+23 will continue to be provided to the employee participating in the short-time
+24 compensation program under the same terms and conditions as though the
+25 workweek of such employee had not been reduced or to the same extent as
+26 other employees not participating in the short-time compensation program. As
+27 used in this subdivision, the term "fringe benefits" includes, but is not limited
+28 to, health insurance, retirement benefits under defined benefit pension plans
+29 as defined in the Employee Retirement Income Security Act of 1974, 29
+30 U.S.C. § 1002(35), contributions under a defined contribution plan as defined
+31 in section 414(i) of the Internal Revenue Code, paid vacation and holidays,
+32 and sick leave.
+33 (9) The plan describes the manner in which the requirements of this subsection
+34 will be implemented, including a plan for giving notice, if feasible, to an
+35 employee whose workweek is to be reduced, together with an estimate of the
+36 number of layoffs that would have occurred absent the ability to participate in
+37 short-time compensation.
+38 (10) The terms of the employer's written plan and implementation are consistent
+39 with employer obligations under applicable federal laws and laws of this State.
+40 (11) The employer has filed all quarterly reports and other reports required under
+41 this Chapter and has paid all obligation assessments, contributions,
+42 reimbursements in lieu of contributions, interest, and penalties due through
+43 the date of the employer's application.
+44 The Division shall approve or disapprove a short-time compensation plan in writing within
+45 15 days after its receipt. If the plan is denied, the Division shall notify the employer of the reasons
+46 for disapproval. The plan takes effect on the date of its approval by the Division and expires at
+47 the end of the twelfth full calendar month after its effective date.
+48 (c) Revocation of Approval. – The Division shall periodically monitor the employer's
+49 plan compliance and operations. Plan approval may be revoked based on good cause, including
+50 the failure to comply with assurances provided in the plan such as that the aggregate reduction
+51 in hours is in lieu of layoffs.
+Page 4 DRH30548-LRa-161A
+General Assembly Of North Carolina Session 2025
+1 (d) Eligibility Requirements for Short-Time Compensation Benefits. – Except as
+2 provided in this subsection, an individual is eligible to receive short-time compensation benefits
+3 for any week only if the individual complies with this Chapter and the Division finds that (i) the
+4 individual is employed as a member of an affected unit in an approved plan that was approved
+5 before the week and is in effect for the week, (ii) the individual is able to work and is available
+6 for additional hours of work or for full-time work with the short-time employer, and (iii) the
+7 normal weekly hours of work of the individual are reduced by at least ten percent (10%) but not
+8 by more than sixty percent (60%), with a corresponding reduction in wages.
+9 The Division may not deny short-time compensation benefits to an individual who is
+10 otherwise eligible for these benefits for any week by reason of the application of any provision
+11 of this Chapter relating to availability for work, active search for work, or refusal to apply for or
+12 accept work from other than the short-time compensation employer of that individual. The
+13 Division may not deny short-time compensation benefits to an individual who is otherwise
+14 eligible for these benefits for any week because such individual is participating in an
+15 employer-sponsored training or a training under the Workforce Innovation and Opportunity Act
+16 to improve job skills when the training is approved by the Division.
+17 Notwithstanding any other provision of law, an individual is deemed unemployed in any
+18 week for which compensation is payable to the individual, as an employee in an affected unit,
+19 for less than the individual's normal weekly hours of work in accordance with an approved
+20 short-time compensation plan in effect for the week.
+21 (e) Weekly Benefit Amount. – The weekly short-time compensation benefit amount
+22 payable to an individual is equal to the product of the individual's weekly benefit amount and the
+23 ratio of the number of normal weekly hours of work for which the employer would not
+24 compensate the individual to the individual's normal weekly hours of work. The benefit amount,
+25 if not a multiple of one dollar ($1.00), is rounded downward to the next lower multiple of one
+26 dollar ($1.00).
+27 (f) Total Benefit Amount. – An individual may not be paid benefits under this section in
+28 an amount that is more than the individual's maximum entitlement, and an individual may not be
+29 paid short-time compensation benefits in excess of that maximum.
+30 (g) Effect of Benefit. – The short-time compensation benefits paid to an individual shall
+31 be deducted from the total benefit amount established for that individual. An individual who
+32 receives all of the short-time compensation or combined reemployment assistance or
+33 unemployment compensation and short-time compensation available in a benefit year is
+34 considered an exhaustee for purposes of the extended benefits program and, if otherwise eligible
+35 under those provisions, is eligible to receive extended benefits. An otherwise eligible individual
+36 may not be disqualified from benefits for leaving employment instead of accepting a reduction
+37 in hours under an approved plan.
+38 (h) Allocation of Charges. – Except when the result is inconsistent with the other
+39 provisions of this Chapter, short-time compensation benefits shall be charged to the employment
+40 record of employers.
+41 (i) Seasonal, temporary, or intermittent employees are not eligible for participation in the
+42 program. The following definitions apply in this subsection:
+43 (1) Seasonal employment. – Employment with an employer who experiences at
+44 least a twenty percent (20%) difference between its highest level of
+45 employment during a particular season and its lowest level of employment
+46 during the off-season in each of the previous three years as reported to the
+47 State agency and/or employees are hired to work on a temporary basis by
+48 employers that need extra help during a particular season.
+49 (2) Temporary employment. – Employment where an employee is expected to
+50 remain in a position for only a limited period of time and/or is hired by a
+51 temporary agency to fill a gap in an employer's workforce.
+DRH30548-LRa-161A Page 5
+General Assembly Of North Carolina Session 2025
+1 (3) Intermittent employment. – Employment that is not continuous but may
+2 consist of periodic intervals of weekly work and intervals of no weekly work."
+3 SECTION 4.1. Effective July 1, 2026, there is appropriated from the General Fund
+4 to the Department of Labor the sum of one hundred fifty thousand dollars ($150,000) in
+5 nonrecurring funds for the 2026-2027 fiscal year to implement the provisions of this act.
+6 SECTION 5.1. Except as otherwise provided, this act is effective when it becomes
+7 law.
+Page 6 DRH30548-LRa-161A
+[DELETED:  D F ( R  A E S M W T A U E T S C P T R O L M W A a l g t a h m w w E b e J 1 o e y T a s b c b t]
+[DELETED:  S  D N t q u t s h t b o e i e b A T I s l a a m a d u t F L T T T T i n i a i p t r a t a t e m]
+[DELETED:  S  P R T T l t p t g w o t p o t S w C R T p o t A s a p a o r o p a o i b a u o l g o o p A l g r c o c i o E d i a u C 1 o t E A P D A o m e d b t e t p i a E t – A t c s b a N S c b – B p t i i a S c e – A e w a s S c p o p – A e w p f u u w a a u s t w]
+[DELETED:  S  D A o P – A e w t p i t s p m s a s w s p t t D T T T T T t ( o e i t a u a t w h T T T p d n s a a s t s e d t o a a s t e w t u p T p c t i t e p f b t a d i t E R I S A o 1 2 T T T C a h p a o a c R]
+[DELETED:  S  P E R f S C B – E a D m n d s c b t a i w i w f o t t s c e o t i T m n d s c b t a i w i o f t b f a w b s i i p i a W B A – T w s c b a o t n o n w h o w f w t e w n T E a o t s c o c r a o c a s c a i a b y i A o C – E w t r i i w t o S S a t p ( d b i h l o T]
+[DELETED:  S  D I e – E t i n c b m t D o L t s o o h f t d ( i]
+
+
+================================================================================
+
+Raw Text:
+H.B. 1059
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 27, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH30548-LRa-161A
+Short Title: Fair Minimum Wage Act. (Public)
+Sponsors: Representative Prather.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT ESTABLISHING STATE MINIMUM WAGES THAT ADJUST UPWARD
+3 AUTOMATICALLY FOR INFLATION, CREATING THE NORTH CAROLINA WAGE
+4 BOARD, ESTABLISHING THE SHORT-TIME COMPENSATION PROGRAM,
+5 REPEALING THE RESTRICTION ON LOCAL MINIMUM WAGES, AND
+6 APPROPRIATING FUNDS FOR IMPLEMENTATION OF THIS ACT.
+7 Whereas, the wages paid to working North Carolinians should be sufficient to better
+8 reflect the rising cost of basic necessities, including housing, food, transportation, and health
+9 care; and
+10 Whereas, indexing the State minimum wage for inflation will help preserve workers'
+11 purchasing power over time and reduce the need for repeated legislative intervention; and
+12 Whereas, allowing local governments to adopt higher minimum wages, where
+13 appropriate, gives communities greater flexibility to respond to local labor market conditions and
+14 cost pressures; and
+15 Whereas, a Wage Board and a short-time compensation program can help the State
+16 promote fair wages, reduce avoidable layoffs, and support workforce stability during economic
+17 downturns; and
+18 Whereas, improving wage standards and employment stability advances the general
+19 welfare of the people of North Carolina; Now, therefore,
+20 The General Assembly of North Carolina enacts:
+21 SECTION 1.1. G.S. 95-25.3 reads as rewritten:
+22 "§ 95-25.3. Minimum wage.
+23 (a) Every Except as provided by subsection (a1) of this section, every employer shall pay
+24 to each employee who in any workweek performs any work, wages of at least six dollars and
+25 fifteen cents ($6.15) per hour or the minimum wage set forth in paragraph 1 of section 6(a) of the
+26 Fair Labor Standards Act, 29 U.S.C. 206(a)(1), as that wage may change from time to time,
+27 whichever is higher, except as otherwise provided in this section.fifteen dollars ($15.00) per hour,
+28 which shall be adjusted automatically for inflation annually to reflect increases in the Consumer
+29 Price Index, with the first adjustment occurring effective January 1, 2027. These adjustments
+30 shall be effective January 1 of each year. The adjustments shall be calculated by the
+31 Commissioner as the percentage of change between the October Consumer Price Index in the
+32 year most recently ended, calculated to the nearest tenth of one percent (1/10 of 1%), provided
+33 that this percentage change is positive. For the purposes of this section, the term "Consumer Price
+34 Index" means the Consumer Price Index for All Urban Consumers (CPI-U), U.S. City Average,
+35 all items, not seasonally adjusted, standard reference base, as published by the Bureau of Labor
+36 Statistics of the U.S. Department of Labor.
+*DRH30548-LRa-161A*
+
+General Assembly Of North Carolina Session 2025
+1 (a1) Notwithstanding the provisions of subsection (a) of this section, an employer whose
+2 gross annual receipts for the preceding calendar year were less than four hundred thousand dollars
+3 ($400,000) shall pay to each employee who in any workweek performs any work wages of at
+4 least eleven dollars ($11.00) per hour or the minimum wage set forth in paragraph 1 of section
+5 6(a) of the Fair Labor Standards Act, 29 U.S.C. § 206(a)(1), as that wage may change from time
+6 to time, whichever is higher, except as otherwise provided in this section. The rate of eleven
+7 dollars ($11.00) per hour is effective January 1, 2027, and shall be adjusted annually thereafter
+8 in the same manner and on the same schedule as provided in subsection (a) of this section. An
+9 employer that qualifies under this section has the burden of establishing its eligibility by
+10 maintaining records sufficient to demonstrate gross annual receipts for the preceding calendar
+11 year. The records shall be retained for at least three years and shall be made available to the
+12 Commissioner upon request.
+13 (a2) A local government may adopt an ordinance establishing a local minimum wage
+14 within its territorial jurisdiction that is higher than the statewide minimum wage; then, in that
+15 case, every employer in the jurisdiction shall instead pay the higher local minimum wage.
+16 (a3) The North Carolina Wage Board is established within the Department. Wage Board
+17 members shall be appointed by, and serve at the pleasure of, the Commissioner. The Wage Board
+18 shall review wages in this State annually and publish a report establishing targets for the State to
+19 remain competitive and that allow wage earners to afford housing, health care, and other basic
+20 necessities.
+21 (b) In order to prevent curtailment of opportunities for employment, the wage rate for
+22 full-time students, learners, apprentices, and messengers, as defined under the Fair Labor
+23 Standards Act, shall be ninety percent (90%) of the rate in effect under subsection (a) above, or
+24 subsection (a1) of this section rounded to the lowest nickel.
+25 (c) The Commissioner, in order to prevent curtailment of opportunities for employment,
+26 may, by regulation, establish a wage rate less than the wage rate in effect under section (a) or
+27 subsection (a1) of this section which may apply to persons whose earning or productive capacity
+28 is impaired by age or physical or mental deficiency or injury, as such persons are defined under
+29 the Fair Labor Standards Act.
+30 (d) The Commissioner, in order to prevent curtailment of opportunities for employment
+31 of the economically disadvantaged and the unemployed, may, by regulation, establish a wage
+32 rate not less than eighty-five percent (85%) of the otherwise applicable wage rate in effect under
+33 subsection (a) or subsection (a1) of this section which shall apply to all persons (i) who have
+34 been unemployed for at least 15 weeks and who are economically disadvantaged, or (ii) who are,
+35 or whose families are, receiving Work First Family Assistance or who are receiving supplemental
+36 security benefits under Title XVI of the Social Security Act.
+37 Pursuant to regulations issued by the Commissioner, certificates establishing eligibility for
+38 such subminimum wage shall be issued by the Division of Employment Security.
+39 The regulation issued by the Commissioner shall not permit employment at the subminimum
+40 rate for a period in excess of 52 weeks.
+41 (e) The Commissioner, in order to prevent curtailment of opportunities for employment,
+42 and to not adversely affect the viability of seasonal establishments, may, by regulation, establish
+43 a wage rate not less than eighty-five percent (85%) of the otherwise applicable wage rate in effect
+44 under subsection (a) or subsection (a1) of this section that shall apply to any employee employed
+45 by an establishment that is a seasonal food service establishment.
+46 (f) Tips earned by a tipped employee may be counted as wages only up to the amount
+47 permitted in section 3(m) of the Fair Labor Standards Act, 29 U.S.C. 203(m), if the tipped
+48 employee is notified in advance, is permitted to retain all tips and the employer maintains
+49 accurate and complete records of tips received by each employee as such tips are certified by the
+50 employee monthly or for each pay period. Even if the employee refuses to certify tips accurately,
+51 tips may still be counted as wages when the employer complies with the other requirements of
+Page 2 DRH30548-LRa-161A
+
+General Assembly Of North Carolina Session 2025
+1 this section and can demonstrate by monitoring tips that the employee regularly receives tips in
+2 the amount for which the credit is taken. Tip pooling shall also be permissible among employees
+3 who customarily and regularly receive tips; however, no employee's tips may be reduced by more
+4 than fifteen percent (15%) under a tip pooling arrangement.
+5 (g) Repealed by Session Laws 2006-259, s. 18, effective August 23, 2006."
+6 SECTION 2.1. G.S. 95-25.1 reads as rewritten:
+7 "§ 95-25.1. Short title and legislative purpose; local governments preempted.purpose.
+8 (a) This Article shall be known and may be cited as the "Wage and Hour Act."
+9 (b) The public policy of this State is declared as follows: The wage levels of employees,
+10 hours of labor, payment of earned wages, and the well-being of minors are subjects of concern
+11 requiring legislation to promote the general welfare of the people of the State without
+12 jeopardizing the competitive position of North Carolina business and industry. The General
+13 Assembly declares that the general welfare of the State requires the enactment of this law under
+14 the police power of the State.
+15 (c) Repealed by Session Laws 2017-4, s. 1, effective March 30, 2017.
+16 (d) The provisions of this Article supersede and preempt any ordinance, regulation,
+17 resolution, or policy adopted or imposed by a unit of local government or other political
+18 subdivision of the State that regulates or imposes any requirement upon an employer pertaining
+19 to compensation of employees, such as the wage levels of employees, hours of labor, payment of
+20 earned wages, benefits, leave, or well-being of minors in the workforce. This subsection shall not
+21 apply to any of the following:
+22 (1) A local government regulating, compensating, or controlling its own
+23 employees.
+24 (2) Economic development incentives awarded under Chapter 143B of the
+25 General Statutes.
+26 (3) Economic development incentives awarded under Article 1 of Chapter 158 of
+27 the General Statutes.
+28 (4) A requirement of federal community development block grants.
+29 (5) Programs established under G.S. 160D-1311."
+30 SECTION 3.1. Chapter 96 of the General Statutes is amended by adding a new
+31 Article to read:
+32 "Article 6.
+33 "Short-Time Compensation.
+34 "§ 96-45. Short-time compensation.
+35 (a) Definitions. – The following definitions apply in this section:
+36 (1) Affected unit. – A specified plant, department, shift, or other definable unit of
+37 two or more employees designated by the employer to participate in a
+38 short-time compensation plan.
+39 (2) Employer-sponsored training. – A training component sponsored by an
+40 employer to improve the skills of the employer's workers.
+41 (3) Normal weekly hours of work. – The number of hours in a week that an
+42 individual would regularly work for the short-time compensation employer,
+43 not to exceed 40 hours, excluding overtime.
+44 (4) Short-time compensation benefits. – Benefits payable to individuals in an
+45 affected unit under an approved short-time compensation plan.
+46 (5) Short-time compensation employer. – An employer with a short-time
+47 compensation plan in effect.
+48 (6) Short-time compensation plan or plan. – An employer's written plan for
+49 reducing unemployment under which an affected unit shares the work
+50 remaining after its normal weekly hours of work are reduced.
+DRH30548-LRa-161A Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (b) Approval of Plans. – An employer wishing to participate in the short-time
+2 compensation program must submit a signed, written, short-time plan to the Division. The
+3 Division shall approve the plan if all of the following criteria are met:
+4 (1) The plan applies to and identifies each specific affected unit.
+5 (2) The individuals in the affected unit are identified by name and social security
+6 number.
+7 (3) The normal weekly hours of work for individuals in the affected unit are
+8 reduced by at least ten percent (10%) and by not more than sixty percent
+9 (60%).
+10 (4) The plan includes a certified statement by the employer that the aggregate
+11 reduction in work hours is in lieu of layoffs that would affect at least ten
+12 percent (10%) of the employees in the affected unit and that would have
+13 resulted in an equivalent reduction in work hours.
+14 (5) The plan applies to at least ten percent (10%) of the employees in the affected
+15 unit.
+16 (6) The plan is approved in writing by the collective bargaining agent for each
+17 collective bargaining agreement covering any individual in the affected unit.
+18 (7) The plan does not serve as a subsidy to seasonal employers during the
+19 off-season or as a subsidy to employers who traditionally use part-time
+20 employees.
+21 (8) The plan certifies that, if the employer provides fringe benefits to any
+22 employee whose workweek is reduced under the program, the fringe benefits
+23 will continue to be provided to the employee participating in the short-time
+24 compensation program under the same terms and conditions as though the
+25 workweek of such employee had not been reduced or to the same extent as
+26 other employees not participating in the short-time compensation program. As
+27 used in this subdivision, the term "fringe benefits" includes, but is not limited
+28 to, health insurance, retirement benefits under defined benefit pension plans
+29 as defined in the Employee Retirement Income Security Act of 1974, 29
+30 U.S.C. § 1002(35), contributions under a defined contribution plan as defined
+31 in section 414(i) of the Internal Revenue Code, paid vacation and holidays,
+32 and sick leave.
+33 (9) The plan describes the manner in which the requirements of this subsection
+34 will be implemented, including a plan for giving notice, if feasible, to an
+35 employee whose workweek is to be reduced, together with an estimate of the
+36 number of layoffs that would have occurred absent the ability to participate in
+37 short-time compensation.
+38 (10) The terms of the employer's written plan and implementation are consistent
+39 with employer obligations under applicable federal laws and laws of this State.
+40 (11) The employer has filed all quarterly reports and other reports required under
+41 this Chapter and has paid all obligation assessments, contributions,
+42 reimbursements in lieu of contributions, interest, and penalties due through
+43 the date of the employer's application.
+44 The Division shall approve or disapprove a short-time compensation plan in writing within
+45 15 days after its receipt. If the plan is denied, the Division shall notify the employer of the reasons
+46 for disapproval. The plan takes effect on the date of its approval by the Division and expires at
+47 the end of the twelfth full calendar month after its effective date.
+48 (c) Revocation of Approval. – The Division shall periodically monitor the employer's
+49 plan compliance and operations. Plan approval may be revoked based on good cause, including
+50 the failure to comply with assurances provided in the plan such as that the aggregate reduction
+51 in hours is in lieu of layoffs.
+Page 4 DRH30548-LRa-161A
+
+General Assembly Of North Carolina Session 2025
+1 (d) Eligibility Requirements for Short-Time Compensation Benefits. – Except as
+2 provided in this subsection, an individual is eligible to receive short-time compensation benefits
+3 for any week only if the individual complies with this Chapter and the Division finds that (i) the
+4 individual is employed as a member of an affected unit in an approved plan that was approved
+5 before the week and is in effect for the week, (ii) the individual is able to work and is available
+6 for additional hours of work or for full-time work with the short-time employer, and (iii) the
+7 normal weekly hours of work of the individual are reduced by at least ten percent (10%) but not
+8 by more than sixty percent (60%), with a corresponding reduction in wages.
+9 The Division may not deny short-time compensation benefits to an individual who is
+10 otherwise eligible for these benefits for any week by reason of the application of any provision
+11 of this Chapter relating to availability for work, active search for work, or refusal to apply for or
+12 accept work from other than the short-time compensation employer of that individual. The
+13 Division may not deny short-time compensation benefits to an individual who is otherwise
+14 eligible for these benefits for any week because such individual is participating in an
+15 employer-sponsored training or a training under the Workforce Innovation and Opportunity Act
+16 to improve job skills when the training is approved by the Division.
+17 Notwithstanding any other provision of law, an individual is deemed unemployed in any
+18 week for which compensation is payable to the individual, as an employee in an affected unit,
+19 for less than the individual's normal weekly hours of work in accordance with an approved
+20 short-time compensation plan in effect for the week.
+21 (e) Weekly Benefit Amount. – The weekly short-time compensation benefit amount
+22 payable to an individual is equal to the product of the individual's weekly benefit amount and the
+23 ratio of the number of normal weekly hours of work for which the employer would not
+24 compensate the individual to the individual's normal weekly hours of work. The benefit amount,
+25 if not a multiple of one dollar ($1.00), is rounded downward to the next lower multiple of one
+26 dollar ($1.00).
+27 (f) Total Benefit Amount. – An individual may not be paid benefits under this section in
+28 an amount that is more than the individual's maximum entitlement, and an individual may not be
+29 paid short-time compensation benefits in excess of that maximum.
+30 (g) Effect of Benefit. – The short-time compensation benefits paid to an individual shall
+31 be deducted from the total benefit amount established for that individual. An individual who
+32 receives all of the short-time compensation or combined reemployment assistance or
+33 unemployment compensation and short-time compensation available in a benefit year is
+34 considered an exhaustee for purposes of the extended benefits program and, if otherwise eligible
+35 under those provisions, is eligible to receive extended benefits. An otherwise eligible individual
+36 may not be disqualified from benefits for leaving employment instead of accepting a reduction
+37 in hours under an approved plan.
+38 (h) Allocation of Charges. – Except when the result is inconsistent with the other
+39 provisions of this Chapter, short-time compensation benefits shall be charged to the employment
+40 record of employers.
+41 (i) Seasonal, temporary, or intermittent employees are not eligible for participation in the
+42 program. The following definitions apply in this subsection:
+43 (1) Seasonal employment. – Employment with an employer who experiences at
+44 least a twenty percent (20%) difference between its highest level of
+45 employment during a particular season and its lowest level of employment
+46 during the off-season in each of the previous three years as reported to the
+47 State agency and/or employees are hired to work on a temporary basis by
+48 employers that need extra help during a particular season.
+49 (2) Temporary employment. – Employment where an employee is expected to
+50 remain in a position for only a limited period of time and/or is hired by a
+51 temporary agency to fill a gap in an employer's workforce.
+DRH30548-LRa-161A Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (3) Intermittent employment. – Employment that is not continuous but may
+2 consist of periodic intervals of weekly work and intervals of no weekly work."
+3 SECTION 4.1. Effective July 1, 2026, there is appropriated from the General Fund
+4 to the Department of Labor the sum of one hundred fifty thousand dollars ($150,000) in
+5 nonrecurring funds for the 2026-2027 fiscal year to implement the provisions of this act.
+6 SECTION 5.1. Except as otherwise provided, this act is effective when it becomes
+7 law.
+Page 6 DRH30548-LRa-161A
+
+[DELETED:  D F ( R  A E S M W T A U E T S C P T R O L M W A a l g t a h m w w E b e J 1 o e y T a s b c b t]
+[DELETED:  S  D N t q u t s h t b o e i e b A T I s l a a m a d u t F L T T T T i n i a i p t r a t a t e m]
+[DELETED:  S  P R T T l t p t g w o t p o t S w C R T p o t A s a p a o r o p a o i b a u o l g o o p A l g r c o c i o E d i a u C 1 o t E A P D A o m e d b t e t p i a E t – A t c s b a N S c b – B p t i i a S c e – A e w a s S c p o p – A e w p f u u w a a u s t w]
+[DELETED:  S  D A o P – A e w t p i t s p m s a s w s p t t D T T T T T t ( o e i t a u a t w h T T T p d n s a a s t s e d t o a a s t e w t u p T p c t i t e p f b t a d i t E R I S A o 1 2 T T T C a h p a o a c R]
+[DELETED:  S  P E R f S C B – E a D m n d s c b t a i w i w f o t t s c e o t i T m n d s c b t a i w i o f t b f a w b s i i p i a W B A – T w s c b a o t n o n w h o w f w t e w n T E a o t s c o c r a o c a s c a i a b y i A o C – E w t r i i w t o S S a t p ( d b i h l o T]
+[DELETED:  S  D I e – E t i n c b m t D o L t s o o h f t d ( i]

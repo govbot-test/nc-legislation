@@ -1,0 +1,1531 @@
+Title: HOUSE BILL 349
+Official Title: HOUSE BILL 349
+Number of Sections: 1
+Source: versions - Edition 4
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 4
+Committee Substitute Favorable 3/25/25
+Senate Health Care Committee Substitute Adopted 5/22/25
+Senate Judiciary Committee Substitute Adopted 6/17/26
+Short Title: Modify HC POA/Adv Direct. (Public)
+Sponsors:
+Referred to:
+March 11, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT UPDATING REQUIREMENTS FOR HEALTH CARE POWERS OF ATTORNEY
+3 AND ADVANCE HEALTH CARE DIRECTIVES AND AUTHORIZING THE
+4 SECRETARY OF STATE TO RECEIVE ELECTRONIC FILINGS OF ADVANCE
+5 HEALTH CARE DIRECTIVES.
+6 The General Assembly of North Carolina enacts:
+7
+8 PART I. HEALTH CARE POWERS OF ATTORNEY
+9 SECTION 1.1. G.S. 32A-16(6) reads as rewritten:
+10 "(6) Qualified witness. – Except as provided in G.S. 32A-16.1, a witness in whose
+11 presence the principal has executed the health care power of attorney, who
+12 believes the principal to be of sound mind, and who states that he or she (i) is
+13 meets all of the following criteria:
+14 a. The witness is not related within the third degree to the principal nor
+15 to the principal's spouse, (ii) does spouse.
+16 b. The witness does not know nor have a reasonable expectation that he
+17 or she would be entitled to any portion of the estate of the principal
+18 upon the principal's death under any existing will or codicil of the
+19 principal or under the Intestate Succession Act as it then provides, (iii)
+20 provides.
+21 c. The witness does not have a claim against any portion of the estate of
+22 the principal at the time of the principal's execution of the health care
+23 power of attorney.
+24 d. The witness is not the attending physician or mental health treatment
+25 provider of the principal, nor a licensed health care provider who is a
+26 paid employee of the attending physician or mental health treatment
+27 provider, nor a paid employee of a health facility in which the principal
+28 is a patient, nor a paid employee of a nursing home or any adult care
+29 home in which the principal resides, and (iv) does not have a claim
+30 against any portion of the estate of the principal at the time of the
+31 principal's execution of the health care power of attorney.resides,
+32 unless the witness has both (i) received training on recognizing
+33 whether the declarant meets the legal requirements for competency to
+34 execute the health care power of attorney and (ii) has been designated
+*H349-v-4*
+General Assembly Of North Carolina Session 2025
+1 by his or her employer to serve as a witness to the execution of the
+2 health care power of attorney."
+3 SECTION 1.2. G.S. 32A-25.1(a) reads as rewritten:
+4 "(a) The use of the following form in the creation of a health care power of attorney is
+5 lawful and, when used, it shall meet the requirements of and be construed in accordance with the
+6 provisions of this Article:
+7
+8 HEALTH CARE POWER OF ATTORNEY
+9
+10 NOTE: YOU SHOULD USE THIS DOCUMENT TO NAME A PERSON AS YOUR
+11 HEALTH CARE AGENT IF YOU ARE COMFORTABLE GIVING THAT PERSON
+12 BROAD AND SWEEPING POWERS TO MAKE HEALTH CARE DECISIONS FOR
+13 YOU. THERE IS NO LEGAL REQUIREMENT THAT ANYONE EXECUTE A
+14 HEALTH CARE POWER OF ATTORNEY.
+15
+16 EXPLANATION: You have the right to name someone to make health care decisions for you
+17 when you cannot make or communicate those decisions. This form may be used to create a health
+18 care power of attorney, and meets the requirements of North Carolina law. However, you are
+19 not required to use this form, and North Carolina law allows the use of other forms that meet
+20 certain requirements. If you prepare your own health care power of attorney, you should be very
+21 careful to make sure it is consistent with North Carolina law.
+22
+23 This document gives the person you designate as your health care agent broad powers to make
+24 health care decisions for you when you cannot make the decision yourself or cannot communicate
+25 your decision to other people. You should discuss your wishes concerning life-prolonging
+26 measures, mental health treatment, and other health care decisions with your health care agent.
+27 Except to the extent that you express specific limitations or restrictions in this form, your health
+28 care agent may make any health care decision you could make yourself.
+29
+30 This form does not impose a duty on your health care agent to exercise granted powers, but when
+31 a power is exercised, your health care agent will be obligated to use due care to act in your best
+32 interests and in accordance with this document.
+33
+34 This Health Care Power of Attorney form is intended to be valid in any jurisdiction in which it
+35 is presented, but places outside North Carolina may impose requirements that this form does not
+36 meet.
+37
+38 If you want to use this form, you must complete it, sign it, and have your signature witnessed by
+39 two qualified witnesses and proved by a notary public. Follow the instructions about which
+40 choices you can initial very carefully. Do not sign this form until two witnesses and a notary
+41 public are present to watch you sign it. You then should give a copy to your health care agent
+42 and to any alternates you name. You should consider filing it with the Advance Health Care
+43 Directive Registry maintained by the North Carolina Secretary of State:
+44 http://www.nclifelinks.org/ahcdr/State.
+45
+46 1. Designation of Health Care Agent.
+47
+48 I, __________________, being of sound mind, hereby appoint the following person(s) to serve
+49 as my health care agent(s) to act for me and in my name (in any way I could act in person) to
+50 make health care decisions for me as authorized in this document. My designated health care
+51 agent(s) shall serve alone, in the order named.
+Page 2 House Bill 349-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1
+2 A. Name: _______________________ Home Telephone: _______________
+3 Home Address: _______________________ Work Telephone: _______________
+4 ____________________________________ Cellular Telephone: _______________
+5
+6 B. Name: _______________________ Home Telephone: _______________
+7 Home Address: _______________________ Work Telephone: _______________
+8 ____________________________________ Cellular Telephone: _______________
+9
+10 C. Name: _______________________ Home Telephone: _______________
+11 Home Address: _______________________ Work Telephone: _______________
+12 ____________________________________ Cellular Telephone: _______________
+13
+14 Any successor health care agent designated shall be vested with the same power and duties as if
+15 originally named as my health care agent, and shall serve any time his or her predecessor is not
+16 reasonably available or is unwilling or unable to serve in that capacity.
+17
+18 2. Effectiveness of Appointment.
+19
+20 My designation of a health care agent expires only when I revoke it. Absent revocation, the
+21 authority granted in this document shall become effective when and if one of the physician(s)
+22 listed below determines that I lack capacity to make or communicate decisions relating to my
+23 health care, and will continue in effect during that incapacity, or until my death, except if I
+24 authorize my health care agent to exercise my rights with respect to anatomical gifts, autopsy, or
+25 disposition of my remains, this authority will continue after my death to the extent necessary to
+26 exercise that authority.
+27
+28 1. _______________________ (Physician)
+29
+30 2. _______________________ (Physician)
+31
+32 If I have not designated a physician, or no physician(s) named above is reasonably available, the
+33 determination that I lack capacity to make or communicate decisions relating to my health care
+34 shall be made by my attending physician.
+35
+36 3. Revocation.
+37
+38 Any time while I am competent, I may revoke this power of attorney in a writing I sign or by
+39 communicating my intent to revoke, in any clear and consistent manner, to my health care agent
+40 or my health care provider.
+41
+42 4. General Statement of Authority Granted.
+43
+44 Subject to any restrictions set forth in Section 5 below, I grant to my health care agent full power
+45 and authority to make and carry out all health care decisions for me. These decisions include, but
+46 are not limited to:
+47
+48 A. Requesting, reviewing, and receiving any information, verbal or written,
+49 regarding my physical or mental health, including, but not limited to, medical
+50 and hospital records, and to consent to the disclosure of this information.
+51
+House Bill 349-Fourth Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 B. Employing or discharging my health care providers.
+2
+3 C. Consenting to and authorizing my admission to and discharge from a hospital,
+4 nursing or convalescent home, hospice, long-term care facility, or other health
+5 care facility.
+6
+7 D. Consenting to and authorizing my admission to and retention in a facility for
+8 the care or treatment of mental illness.
+9
+10 E. Consenting to and authorizing the administration of medications for mental
+11 health treatment and electroconvulsive treatment (ECT) commonly referred to
+12 as "shock treatment."
+13
+14 F. Giving consent for, withdrawing consent for, or withholding consent for,
+15 X-ray, anesthesia, medication, surgery, and all other diagnostic and treatment
+16 procedures ordered by or under the authorization of a licensed physician,
+17 dentist, podiatrist, or other health care provider. This authorization
+18 specifically includes the power to consent to measures for relief of pain.
+19
+20 G. Authorizing the withholding or withdrawal of life-prolonging measures.
+21
+22 H. Providing my medical information at the request of any individual acting as
+23 my attorney-in-fact under a durable power of attorney or as a Trustee or
+24 successor Trustee under any Trust Agreement of which I am a Grantor or
+25 Trustee, or at the request of any other individual whom my health care agent
+26 believes should have such information. I desire that such information be
+27 provided whenever it would expedite the prompt and proper handling of my
+28 affairs or the affairs of any person or entity for which I have some
+29 responsibility. In addition, I authorize my health care agent to take any and all
+30 legal steps necessary to ensure compliance with my instructions providing
+31 access to my protected health information. Such steps shall include resorting
+32 to any and all legal procedures in and out of courts as may be necessary to
+33 enforce my rights under the law and shall include attempting to recover
+34 attorneys' fees against anyone who does not comply with this health care
+35 power of attorney.
+36
+37 I. To the extent I have not already made valid and enforceable arrangements
+38 during my lifetime that have not been revoked, exercising any right I may
+39 have to authorize an autopsy or direct the disposition of my remains.
+40
+41 J. Taking any lawful actions that may be necessary to carry out these decisions,
+42 including, but not limited to: (i) signing, executing, delivering, and
+43 acknowledging any agreement, release, authorization, or other document that
+44 may be necessary, desirable, convenient, or proper in order to exercise and
+45 carry out any of these powers; (ii) granting releases of liability to medical
+46 providers or others; and (iii) incurring reasonable costs on my behalf related
+47 to exercising these powers, provided that this health care power of attorney
+48 shall not give my health care agent general authority over my property or
+49 financial affairs.
+50
+51 5. Special Provisions and Limitations.
+Page 4 House Bill 349-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1
+2 (Notice: The authority granted in this document is intended to be as broad as possible so that
+3 your health care agent will have authority to make any decisions you could make to obtain or
+4 terminate any type of health care treatment or service. If you wish to limit the scope of your
+5 health care agent's powers, you may do so in this section. If none of the following are initialed,
+6 there will be no special limitations on your agent's authority.)
+7
+8 A. Limitations about Artificial Nutrition or Hydration: In exercising the
+9 authority to make health care decisions on my behalf, my health care
+10 agent:
+11 ______________ shall NOT have the authority to withhold artificial nutrition
+12 (Initial) (such as through tubes) OR may exercise that authority only
+13 in accordance with the following special provisions:
+14 __________________________________________________
+15 __________________________________________________
+16
+17 ______________ shall NOT have the authority to withhold artificial hydration
+18 (Initial) (such as through tubes) OR may exercise that authority only
+19 in accordance with the following special provisions:
+20 __________________________________________________
+21 __________________________________________________
+22 NOTE: If you initial either block but do not insert any special
+23 provisions, your health care agent shall have NO AUTHORITY
+24 to withhold artificial nutrition or hydration.
+25
+26 ______________ B. Limitations Concerning Health Care Decisions. In exercising
+27 (Initial) the authority to make health care decisions on my behalf, the
+28 authority of my health care agent is subject to the following
+29 special provisions: (Here you may include any specific
+30 provisions you deem appropriate such as: your own definition
+31 of when life-prolonging measures should be withheld or
+32 discontinued, or instructions to refuse any specific types of
+33 treatment that are inconsistent with your religious beliefs, or
+34 are unacceptable to you for any other reason.)
+35 __________________________________________________
+36 __________________________________________________
+37 NOTE: DO NOT initial unless you insert a limitation.
+38
+39 ______________ C. Limitations Concerning Mental Health Decisions. In
+40 (Initial) exercising the authority to make mental health decisions on
+41 my behalf, the authority of my health care agent is subject to
+42 the following special provisions: (Here you may include any
+43 specific provisions you deem appropriate such as: limiting
+44 the grant of authority to make only mental health treatment
+45 decisions, your own instructions regarding the administration
+46 or withholding of psychotropic medications and
+47 electroconvulsive treatment (ECT), instructions regarding
+48 your admission to and retention in a health care facility for
+49 mental health treatment, or instructions to refuse any specific
+50 types of treatment that are unacceptable to you.)
+51 __________________________________________________
+House Bill 349-Fourth Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 __________________________________________________
+2 NOTE: DO NOT initial unless you insert a limitation.
+3
+4 ______________ D. Advance Instruction for Mental Health Treatment. (Notice:
+5 (Initial) This health care power of attorney may incorporate or be
+6 combined with an advance instruction for mental health
+7 treatment, executed in accordance with Part 2 of Article 3 of
+8 Chapter 122C of the General Statutes, which you may use to
+9 state your instructions regarding mental health treatment in
+10 the event you lack capacity to make or communicate mental
+11 health treatment decisions. Because your health care agent's
+12 decisions must be consistent with any statements you have
+13 expressed in an advance instruction, you should indicate here
+14 whether you have executed an advance instruction for mental
+15 health treatment):
+16 __________________________________________________
+17 __________________________________________________
+18 NOTE: DO NOT initial unless you insert a limitation.
+19
+20 ______________ E. Autopsy and Disposition of Remains. In exercising the
+21 (Initial) authority to make decisions regarding autopsy and disposition
+22 of remains on my behalf, the authority of my health care agent
+23 is subject to the following special provisions and limitations.
+24 (Here you may include any specific limitations you deem
+25 appropriate such as: limiting the grant of authority and the
+26 scope of authority, or instructions regarding burial or
+27 cremation):
+28 __________________________________________________
+29 __________________________________________________
+30 NOTE: DO NOT initial unless you insert a limitation.
+31
+32 6. Organ Donation.
+33
+34 To the extent I have not already made valid and enforceable arrangements during my lifetime
+35 that have not been revoked, my health care agent may exercise any right I may have to:
+36
+37 ______________ donate any needed organs or parts; or
+38 (Initial)
+39 ______________ donate only the following organs or parts:
+40 (Initial)
+41 __________________________________________________
+42 NOTE: DO NOT INITIAL BOTH BLOCKS ABOVE.
+43
+44 ______________ donate my body for anatomical study if needed.
+45 (Initial)
+46 ______________ In exercising the authority to make donations, my health care
+47 (Initial) agent is subject to the following special provisions and
+48 limitations: (Here you may include any specific limitations
+49 you deem appropriate such as: limiting the grant of authority
+50 and the scope of authority, or instructions regarding gifts of
+51 the body or body parts.)
+Page 6 House Bill 349-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 __________________________________________________
+2 __________________________________________________
+3 __________________________________________________
+4
+5 NOTE: DO NOT initial unless you insert a limitation.
+6
+7 NOTE: NO AUTHORITY FOR ORGAN DONATION IS GRANTED IN
+8 THIS INSTRUMENT WITHOUT YOUR INITIALS.
+9
+10 7. Guardianship Provision.
+11
+12 If it becomes necessary for a court to appoint a guardian of my person, I nominate the persons
+13 designated in Section 1, in the order named, to be the guardian of my person, to serve without
+14 bond or security. The guardian shall act consistently with G.S. 35A-1201(a)(5).
+15
+16 8. Reliance of Third Parties on Health Care Agent.
+17
+18 A. No person who relies in good faith upon the authority of or any representations
+19 by my health care agent shall be liable to me, my estate, my heirs, successors,
+20 assigns, or personal representatives, for actions or omissions in reliance on
+21 that authority or those representations.
+22 B. The powers conferred on my health care agent by this document may be
+23 exercised by my health care agent alone, and my health care agent's signature
+24 or action taken under the authority granted in this document may be accepted
+25 by persons as fully authorized by me and with the same force and effect as if
+26 I were personally present, competent, and acting on my own behalf. All acts
+27 performed in good faith by my health care agent pursuant to this power of
+28 attorney are done with my consent and shall have the same validity and effect
+29 as if I were present and exercised the powers myself, and shall inure to the
+30 benefit of and bind me, my estate, my heirs, successors, assigns, and personal
+31 representatives. The authority of my health care agent pursuant to this power
+32 of attorney shall be superior to and binding upon my family, relatives, friends,
+33 and others.
+34
+35 9. Miscellaneous Provisions.
+36
+37 A. Revocation of Prior Powers of Attorney. I revoke any prior health care power
+38 of attorney. The preceding sentence is not intended to revoke any general
+39 powers of attorney, some of the provisions of which may relate to health care;
+40 however, this power of attorney shall take precedence over any health care
+41 provisions in any valid general power of attorney I have not revoked.
+42
+43 B. Jurisdiction, Severability, and Durability. This Health Care Power of Attorney
+44 is intended to be valid in any jurisdiction in which it is presented. The powers
+45 delegated under this power of attorney are severable, so that the invalidity of
+46 one or more powers shall not affect any others. This power of attorney shall
+47 not be affected or revoked by my incapacity or mental incompetence.
+48
+49 C. Health Care Agent Not Liable. My health care agent and my health care
+50 agent's estate, heirs, successors, and assigns are hereby released and forever
+51 discharged by me, my estate, my heirs, successors, assigns, and personal
+House Bill 349-Fourth Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 representatives from all liability and from all claims or demands of all kinds
+2 arising out of my health care agent's acts or omissions, except for my health
+3 care agent's willful misconduct or gross negligence.
+4
+5 D. No Civil or Criminal Liability. No act or omission of my health care agent, or
+6 of any other person, entity, institution, or facility acting in good faith in
+7 reliance on the authority of my health care agent pursuant to this Health Care
+8 Power of Attorney shall be considered suicide, nor the cause of my death for
+9 any civil or criminal purposes, nor shall it be considered unprofessional
+10 conduct or as lack of professional competence. Any person, entity, institution,
+11 or facility against whom criminal or civil liability is asserted because of
+12 conduct authorized by this Health Care Power of Attorney may interpose this
+13 document as a defense.
+14
+15 E. Reimbursement. My health care agent shall be entitled to reimbursement for
+16 all reasonable expenses incurred as a result of carrying out any provision of
+17 this directive.
+18
+19 By signing here, I indicate that I am mentally alert and competent, fully informed as to the
+20 contents of this document, and understand the full import of this grant of powers to my health
+21 care agent.
+22
+23 This the _____ day of ______________, 20____.
+24
+25 ________________________(SEAL)
+26
+27 I hereby state that the principal, _______________, being of sound mind, signed (or directed
+28 another to sign on the principal's behalf) the foregoing health care power of attorney in my
+29 presence, and that I am not related to the principal by blood or marriage, and I would not be
+30 entitled to any portion of the estate of the principal under any existing will or codicil of the
+31 principal or as an heir under the Intestate Succession Act, if the principal died on this date without
+32 a will. I also state that that, unless I have received training on recognizing whether the declarant
+33 meets the legal requirements for competency to execute the health care power of attorney and
+34 have been designated by my employer to serve as a witness to the execution of the health care
+35 power of attorney, I am not the principal's attending physician, nor a licensed health care provider
+36 or mental health treatment provider who is (1) an employee of the principal's attending physician
+37 or mental health treatment provider, (2) an employee of the health facility in which the principal
+38 is a patient, or (3) an employee of a nursing home or any adult care home where the principal
+39 resides. I further state that I do not have any claim against the principal or the estate of the
+40 principal.
+41
+42 Date: _____________________________ Witness: ___________________________
+43
+44 Date: _____________________________ Witness: ___________________________
+45
+46 ________________COUNTY, _________________STATE
+47
+48 Sworn to (or affirmed) and subscribed before me this day by _____________________
+49 (type/print name of signer)
+50
+51 ______________________
+Page 8 House Bill 349-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 (type/print name of witness)
+2
+3 ______________________
+4 (type/print name of witness)
+5
+6
+7 Date: ___________________________ ______________________________
+8 (Official Seal) Signature of Notary Public
+9
+10 __________________, Notary Public
+11 Printed or typed name
+12
+13 My commission expires: __________"
+14
+15 PART II. ADVANCE HEALTH CARE DIRECTIVES
+16 SECTION 2.1. G.S. 90-321(c) reads as rewritten:
+17 "(c) The attending physician shall follow, subject to subsections (b), (e), and (k) of this
+18 section, a declaration:declaration meeting all of the following:
+19 (1) That expresses a desire of the declarant that life-prolonging measures not be
+20 used to prolong the declarant's life if, as specified in the declaration as to any
+21 or all of the following:
+22 a. The declarant has an incurable or irreversible condition that will result
+23 in the declarant's death within a relatively short period of time; ortime.
+24 b. The declarant becomes unconscious and, to a high degree of medical
+25 certainty, will never regain consciousness; orconsciousness.
+26 c. The declarant suffers from advanced dementia or any other condition
+27 resulting in the substantial loss of cognitive ability and that loss, to a
+28 high degree of medical certainty, is not reversible.
+29 (2) That states that the declarant is aware that the declaration authorizes a
+30 physician to withhold or discontinue the life-prolonging measures;
+31 andmeasures.
+32 (3) Except as provided in G.S. 90-321.1, that has been signed by the declarant in
+33 the presence of two witnesses who believe the declarant to be of sound mind
+34 and who state that they (i) are all of the following are true:
+35 a. The witness is not related within the third degree to the declarant or to
+36 the declarant's spouse, (ii) do spouse.
+37 b. The witness does not know or have a reasonable expectation that they
+38 he or she would be entitled to any portion of the estate of the declarant
+39 upon the declarant's death under any will of the declarant or codicil
+40 thereto then existing or under the Intestate Succession Act as it then
+41 provides, (iii) are not provides.
+42 c. The witness does not have a claim against any portion of the estate of
+43 the declarant at the time of the declaration.
+44 d. The witness is not the attending physician, a licensed health care
+45 providers provider who are paid employees is a paid employee of the
+46 attending physician, a paid employees employee of a health facility in
+47 which the declarant is a patient, or a paid employees employee of a
+48 nursing home or any adult care home in which the declarant
+49 resides,and (iv) do not have a claim against any portion of the estate
+50 of the declarant at the time of the declaration; andresides, unless the
+51 witness has both (i) received training on recognizing whether the
+House Bill 349-Fourth Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 declarant meets the legal requirements for competency to execute the
+2 Advanced Directive for a Natural Death and (ii) been designated by
+3 his or her employer to serve as a witness to the execution of the
+4 Advanced Directive for a Natural Death.
+5 (4) That has been proved before a clerk or assistant clerk of superior court, or a
+6 notary public who certifies substantially as set out in subsection (d1) of this
+7 section. A notary who takes the acknowledgement may but is not required to
+8 be a paid employee of the attending physician, a paid employee of a health
+9 facility in which the declarant is a patient, or a paid employee of a nursing
+10 home or any adult care home in which the declarant resides."
+11 SECTION 2.2. G.S. 90-321(d1) reads as rewritten:
+12 "(d1) The following form is specifically determined to meet the requirements of subsection
+13 (c) of this section:
+14
+15 ADVANCE DIRECTIVE FOR A NATURAL DEATH ("LIVING WILL")
+16
+17 NOTE: YOU SHOULD USE THIS DOCUMENT TO GIVE YOUR HEALTH CARE
+18 PROVIDERS INSTRUCTIONS TO WITHHOLD OR WITHDRAW
+19 LIFE-PROLONGING MEASURES IN CERTAIN SITUATIONS. THERE IS NO LEGAL
+20 REQUIREMENT THAT ANYONE EXECUTE A LIVING WILL.
+21
+22 GENERAL INSTRUCTIONS: You can use this Advance Directive ("Living Will") form to give
+23 instructions for the future if you want your health care providers to withhold or withdraw
+24 life-prolonging measures in certain situations. You should talk to your doctor about what these
+25 terms mean. The Living Will states what choices you would have made for yourself if you were
+26 able to communicate. Talk to your family members, friends, and others you trust about your
+27 choices. Also, it is a good idea to talk with professionals such as your doctors, clergypersons,
+28 and lawyers before you complete and sign this Living Will.
+29
+30 You do not have to use this form to give those instructions, but if you create your own Advance
+31 Directive you need to be very careful to ensure that it is consistent with North Carolina law.
+32
+33 This Living Will form is intended to be valid in any jurisdiction in which it is presented, but places
+34 outside North Carolina may impose requirements that this form does not meet.
+35
+36 If you want to use this form, you must complete it, sign it, and have your signature witnessed by
+37 two qualified witnesses and proved by a notary public. Follow the instructions about which
+38 choices you can initial very carefully. Do not sign this form until two witnesses and a notary
+39 public are present to watch you sign it. You then should consider giving a copy to your primary
+40 physician and/or a trusted relative, and should consider filing it with the Advanced Health Care
+41 Directive Registry maintained by the North Carolina Secretary of State:
+42 http://www.nclifelinks.org/ahcdr/State:
+43
+44 My Desire for a Natural Death
+45
+46 I, ____________________, being of sound mind, desire that, as specified below, my life not be
+47 prolonged by life-prolonging measures:
+48
+49 1. When My Directives Apply
+50
+Page 10 House Bill 349-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 My directions about prolonging my life shall apply IF my attending physician determines
+2 that I lack capacity to make or communicate health care decisions and:
+3
+4 NOTE: YOU MAY INITIAL ANY AND ALL OF THESE CHOICES.
+5
+6 _________ I have an incurable or irreversible condition that will result
+7 (Initial) in my death within a relatively short period of time.
+8
+9 _________ I become unconscious and my health care providers
+10 (Initial) determine that, to a high degree of medical certainty, I will
+11 never regain my consciousness.
+12
+13 _________ I suffer from advanced dementia or any other condition
+14 (Initial) which results in the substantial loss of my cognitive ability
+15 and my health care providers determine that, to a high
+16 degree of medical certainty, this loss is not reversible.
+17
+18 2. These are My Directives about Prolonging My Life:
+19
+20 In those situations I have initialed in Section 1, I direct that my health care providers:
+21
+22 NOTE: INITIAL ONLY IN ONE PLACE.
+23
+24 _________ may withhold or withdraw life-prolonging measures.
+25 (Initial)
+26
+27 _________ shall withhold or withdraw life-prolonging measures.
+28 (Initial)
+29
+30 3. Exceptions – "Artificial Nutrition or Hydration"
+31
+32 NOTE: INITIAL ONLY IF YOU WANT TO MAKE EXCEPTIONS TO YOUR
+33 INSTRUCTIONS IN PARAGRAPH 2.
+34
+35 EVEN THOUGH I do not want my life prolonged in those situations I have initialed in
+36 Section 1:
+37 _________ I DO want to receive BOTH artificial hydration AND
+38 (Initial) artificial nutrition (for example, through tubes) in those
+39 situations.
+40
+41 NOTE: DO NOT INITIAL THIS BLOCK IF ONE OF THE
+42 BLOCKS BELOW IS INITIALED.
+43
+44 _________I DO want to receive ONLY artificial hydration (for
+45 (Initial) example, through tubes) in those situations.
+46
+47 NOTE: DO NOT INITIAL THE BLOCK ABOVE OR
+48 BELOW IF THIS BLOCK IS INITIALED.
+49
+50 _________ I DO want to receive ONLY artificial nutrition (for
+51 (Initial) example, through tubes) in those situations.
+House Bill 349-Fourth Edition Page 11
+General Assembly Of North Carolina Session 2025
+1
+2 NOTE: DO NOT INITIAL EITHER OF THE TWO
+3 BLOCKS ABOVE IF THIS BLOCK IS INITIALED.
+4
+5 4. I Wish to be Made as Comfortable as Possible
+6
+7 I direct that my health care providers take reasonable steps to keep me as clean,
+8 comfortable, and free of pain as possible so that my dignity is maintained, even though
+9 this care may hasten my death.
+10
+11 5. I Understand my Advance Directive
+12
+13 I am aware and understand that this document directs certain life-prolonging measures to
+14 be withheld or discontinued in accordance with my advance instructions.
+15
+16 6. If I have an Available Health Care Agent
+17
+18 If I have appointed a health care agent by executing a health care power of attorney or
+19 similar instrument, and that health care agent is acting and available and gives instructions
+20 that differ from this Advance Directive, then I direct that:
+21
+22 _________ Follow Advance Directive: This Advance Directive will
+23 (Initial) override instructions my health care agent gives about
+24 prolonging my life.
+25
+26 _________ Follow Health Care Agent: My health care agent has
+27 (Initial) authority to override this Advance Directive.
+28
+29 NOTE: DO NOT INITIAL BOTH BLOCKS. IF YOU DO NOT INITIAL EITHER
+30 BOX, THEN YOUR HEALTH CARE PROVIDERS WILL FOLLOW THIS
+31 ADVANCE DIRECTIVE AND IGNORE THE INSTRUCTIONS OF YOUR HEALTH
+32 CARE AGENT ABOUT PROLONGING YOUR LIFE.
+33
+34 7. My Health Care Providers May Rely on this Directive
+35
+36 My health care providers shall not be liable to me or to my family, my estate, my heirs,
+37 or my personal representative for following the instructions I give in this instrument.
+38 Following my directions shall not be considered suicide, or the cause of my death, or
+39 malpractice or unprofessional conduct. If I have revoked this instrument but my health
+40 care providers do not know that I have done so, and they follow the instructions in this
+41 instrument in good faith, they shall be entitled to the same protections to which they
+42 would have been entitled if the instrument had not been revoked.
+43
+44 8. I Want this Directive to be Effective Anywhere
+45
+46 I intend that this Advance Directive be followed by any health care provider in any place.
+47
+48 9. I have the Right to Revoke this Advance Directive
+49
+50 I understand that at any time I may revoke this Advance Directive in a writing I sign or
+51 by communicating in any clear and consistent manner my intent to revoke it to my
+Page 12 House Bill 349-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 attending physician. I understand that if I revoke this instrument I should try to destroy
+2 all copies of it.
+3
+4 This the ________ day of ____________, _________.
+5
+6 ___________________________________
+7 Print Name __________________________
+8
+9 I hereby state that the declarant, ______________________, being of sound mind, signed (or
+10 directed another to sign on declarant's behalf) the foregoing Advance Directive for a Natural
+11 Death in my presence, and that I am not related to the declarant by blood or marriage, and I would
+12 not be entitled to any portion of the estate of the declarant under any existing will or codicil of
+13 the declarant or as an heir under the Intestate Succession Act, if the declarant died on this date
+14 without a will. I also state that that, unless I have received training on recognizing whether the
+15 declarant meets the legal requirements for competency to execute the Advanced Directive for a
+16 Natural Death and have been designated by my employer to serve as a witness to the execution
+17 of the Advanced Directive for a Natural Death, I am not the declarant's attending physician, nor
+18 a licensed health care provider who is (1) an employee of the declarant's attending physician, (2)
+19 nor an employee of the health facility in which the declarant is a patient, or (3) an employee of a
+20 nursing home or any adult care home where the declarant resides. I further state that I do not have
+21 any claim against the declarant or the estate of the declarant.
+22
+23 Date: _____________________________ Witness: ___________________________
+24
+25 Date: _____________________________ Witness: ___________________________
+26
+27 ________________COUNTY, _________________STATE
+28
+29 Sworn to (or affirmed) and subscribed before me this day by _____________________
+30 (type/print name of declarant)
+31
+32 ________________________
+33 (type/print name of witness)
+34
+35 ________________________
+36 (type/print name of witness)
+37
+38 Date ___________________________ ______________________________
+39 (Official Seal) Signature of Notary Public
+40
+41 __________________, Notary Public
+42 Printed or typed name
+43
+44 My commission expires: _________"
+45
+46 PART III. ELECTRONIC FILING OF HEALTH CARE POWERS OF ATTORNEY AND
+47 ADVANCE HEALTH CARE DIRECTIVES WITH THE NORTH CAROLINA
+48 SECRETARY OF STATE
+49 SECTION 3.1. G.S. 130A-466 reads as rewritten:
+50 "§ 130A-466. Filing requirements.
+House Bill 349-Fourth Edition Page 13
+General Assembly Of North Carolina Session 2025
+1 (a) A person may submit any of the following documents and the revocations of these
+2 documents to the Secretary of State in electronic or hard copy format for filing in the Advance
+3 Health Care Directive Registry established pursuant to this Article:
+4 (1) A health care power of attorney under Article 3 of Chapter 32A of the General
+5 Statutes.
+6 (2) A declaration of a desire for a natural death under Article 23 of Chapter 90 of
+7 the General Statutes.
+8 (3) An advance instruction for mental health treatment under Part 2 of Article 3
+9 of Chapter 122C of the General Statutes.
+10 (4) A declaration of an anatomical gift under Part 3A of Article 16 of Chapter
+11 130A of the General Statutes.
+12 (5) A Health Insurance Portability and Accountability Act (HIPAA) waiver.
+13 (b) Any document and any revocation of a document submitted for filing in the registry
+14 shall be notarized regardless of whether notarization is required for its validity. This subsection
+15 does not apply to a declaration of an anatomical gift described in subdivision (a)(4) of this
+16 section.
+17 (c) The document may be submitted for filing only by the person who executed the
+18 document.
+19 (d) The person who submits the document shall supply a return address.
+20 (e) The document shall be accompanied by any fee required by this Article."
+21 SECTION 3.2. G.S. 130A-468 reads as rewritten:
+22 "§ 130A-468. Filing of documents with the registry.
+23 (a) When the Secretary of State receives a hard copy of a document that may be filed
+24 with the registry pursuant to this Article, the Secretary shall create a digital reproduction of that
+25 document and enter the reproduced document into the registry database. When the Secretary of
+26 State receives a document in electronic format that may be filed with the registry pursuant to this
+27 Article, the Secretary shall enter that document into the registry database. The Secretary is not
+28 required to review a document to ensure that it complies with the particular statutory
+29 requirements applicable to the document. Each document entered into the registry database shall
+30 be assigned a unique file number and password.
+31 (b) Upon entering the a reproduced hard copy of a document into the registry database,
+32 the Secretary shall return the original hard copy of the document and a wallet-size card containing
+33 the document's file number and password to the person who submitted the document. Upon
+34 entering into the registry database a document that was received in electronic format, the
+35 Secretary shall send a wallet-size card containing the document's file number and password to
+36 the person who submitted the document.
+37 (c) When the Secretary of State receives a revocation of a document that is filed with the
+38 registry and that document's file number and password, or a request to remove that document
+39 from the registry without its revocation, the Secretary shall delete that document from the registry
+40 database.
+41 (c1) The Secretary of State may remove documents of deceased registrants from the
+42 registry upon notification of death in writing in a form acceptable to the Secretary of State.
+43 (d) The Secretary of State's entry of a document into, or removal of a document from, the
+44 registry database does not do any of the following:
+45 (1) Affect the validity of the document in whole or in part.
+46 (2) Relate to the accuracy of information contained in the document.
+47 (3) Create a presumption regarding the validity of the document, regarding the
+48 accuracy of information contained in the document, or that the statutory
+49 requirements for the document have been met."
+50
+51 PART IV. EFFECTIVE DATE
+Page 14 House Bill 349-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 4. This act becomes effective October 1, 2026.
+House Bill 349-Fourth Edition Page 15
+[DELETED:  4 M (   A A A A H C D A A T S O S T R E F O A H T  P S " Q p b m a T t b T o u p p c T t p d T p p p i h a p e o t h c p o a u t w h b ( r t o r w e]
+[DELETED:  S  H b h S " T l p  H  N Y S U T D T N A P A Y H C A I Y A C G T P B Y T I N L R T A E A H  E w c n c c  T h y d t o p Y s d y w c l m E c  T a i  T i m  I t c p a D R m b t N C S o S h  1 D  I a m a]
+[DELETED:  S  P  A N _ H _ H _ W _ _ C _  B N _ H _ H _ W _ _ C _  C N _ H _ H _ W _ _ C _  A o r  2 E  M a l h a d e  1 _ (  2 _ (  I d s  3 R  A c o  4 G  S a a  A R r a r a i v o w r a ]
+[DELETED:  S  H B E  C C n c  D C t  E C h a  F G c f w c f o w c f X p o b o a o l p d p o o h c p T a s  G A  H P m a u a d p o a o a a T o s T b s h s i I d t s i b p a o t a o a p o e f w I h s r l a t e m r u t l a s i a t r a a p  I T d h  J T i b n l t ( s e d a a m c p t s f  5 S]
+[DELETED:  S  P  ( y t h t   A L a a _  s N h t a t w a n  (  ( a t t O m e t a o    i _ _  _  s N h t a t w a h  (  ( a t t O m e t a o    i _ _ N p t   _ B L C H C D I e  (  t a t m h c d o m b t    a o m h c a i s t t f    s p ( y m i a s    p y d a s a  y o d    o w l m s b w o    d o i t r a s t o    t t a i w y r b o    a _ _ N   _ C L C M H D I  (  e t a t m m h d o    m b t a o m h c a i s t    t f s p ( y m i a    s p y d a s a  l    t g o a t m o m h t    d y o i r t a    o w o p m a    e t ( i r    y a t a r i a h c f f    m h t o i t r a s    t _]
+[DELETED:  S  H _ N   _ D A I f M H T (  (  T h c p o a m i o b    c w a a i f m h    t e i a w P 2 o A 3 o    C 1 o t G S w y m u t    s y i r m h t i    t e y l c t m o c m    h t d B y h c a    d m b c w a s y h    e i a a i y s i h    w y h e a a i f m    h _ _ N   _ E A a D o R I e t  (  a t m d r a a d    o r o m b t a o m h c a    i s t t f s p a l    ( y m i a s l y d    a s a  l t g o a a t    s o a o i r b o    c _ _ N   6 O  T t  _  d  ( _  d  (    _ N   _  d  ( _  I e t a t m d m h c  (  a i s t t f s p a    l ( y m i a s l    y d a s a l t g o a    a t s o a o i r g o    t]
+[DELETED:  S  P _ _ _  N  N  N A F O D I G I T  7 G  I d b  8 R  A N b a t B T p c o m h c a b t d m b e o b I p a a b r o a  9 M  A R o p h p  B J i d o n  C H C A N L M h c a a m h c a d b m m e m h s a a p]
+[DELETED:  S  H r a c  D N o a o p e i o f a i g f i r P a c o c p n s i b c u c o f a w c o c l i a b o c d  E R a t  B c c  T   _  I a p e p a m h p o o i r p  D W  D W  _  S  (   _]
+[DELETED:  S  P  (   _  (   D _  ( S   _  P   M  P S " T s ( T u o a T i b T c c T r h ( T s t t d i a t t d a a p t w o d t l m a ( E t a a T t b T h u t p c T t d T w i n t a p a l h c p a w n h o a a c h i w t d r o w h b ( r t o r w t]
+[DELETED:  S  H d A h o h e t s a a w t t e o t A ( T n s b f h S " T (  A  N Y S U T D T G Y H C P I T W O W L R  G i f t f i y w y h c p t w o w l t a c a  Y D  T o  I t c p p D R m b t N C S o S h  M  I p  1 W ]
+[DELETED:  S  P  M t   N  _ I h a i o i c t w r  ( i  _ I b u a m h c p  ( d t t a h d o m c I w   n  _ I s f a d o a o c  ( w r i t s l o m c a   a m h c p d t t a h   d  2 T   I   N  _ m  (  _ s  (  3 E   N I   E S _ I D w t r B a h A  ( a n ( e t t i t   s  N B  _  ( e t t i t s  N D N I T B A O B  _ I D w t r O a n (  ( e]
+[DELETED:  S  H  N D N I E O T T B  4 I  I d t m h c p t r s t k m a c c t  5 I  I b  6 I  I s t  _ F A D  T A D w  ( o i m h c a g a   p  _ F H C A  M h c a h  ( a  N B T Y H C P W F T A C  7 M  M o F m c i w  8 I   I  9 I  I b c i a c a c m i t r i t m]
+[DELETED:  S  P a a  T   _  P  I d D n t w d N o a n n a  D W  D W  _  S  (   _  (   _  (  D _  ( S   _  P   M  P A H C D W T N C S S "]
+[DELETED:  S  H ( A d H ( A S ( A t ( A o ( A 1 ( A ( A s d s ( T d ( T ( T S " ( W w d S A r t r a d t e t i c w t p s r b ( U t t e i t r d a d t w r i e f t S t ( W r f d ( T S o S m r d o d r f t r ( T r ( A ( R ( C a o i c i t d o t t s r  P]
+[DELETED:  S  P S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 4
+HOUSE BILL 349
+Committee Substitute Favorable 3/25/25
+Senate Health Care Committee Substitute Adopted 5/22/25
+Senate Judiciary Committee Substitute Adopted 6/17/26
+Short Title: Modify HC POA/Adv Direct. (Public)
+Sponsors:
+Referred to:
+March 11, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT UPDATING REQUIREMENTS FOR HEALTH CARE POWERS OF ATTORNEY
+3 AND ADVANCE HEALTH CARE DIRECTIVES AND AUTHORIZING THE
+4 SECRETARY OF STATE TO RECEIVE ELECTRONIC FILINGS OF ADVANCE
+5 HEALTH CARE DIRECTIVES.
+6 The General Assembly of North Carolina enacts:
+7
+8 PART I. HEALTH CARE POWERS OF ATTORNEY
+9 SECTION 1.1. G.S. 32A-16(6) reads as rewritten:
+10 "(6) Qualified witness. – Except as provided in G.S. 32A-16.1, a witness in whose
+11 presence the principal has executed the health care power of attorney, who
+12 believes the principal to be of sound mind, and who states that he or she (i) is
+13 meets all of the following criteria:
+14 a. The witness is not related within the third degree to the principal nor
+15 to the principal's spouse, (ii) does spouse.
+16 b. The witness does not know nor have a reasonable expectation that he
+17 or she would be entitled to any portion of the estate of the principal
+18 upon the principal's death under any existing will or codicil of the
+19 principal or under the Intestate Succession Act as it then provides, (iii)
+20 provides.
+21 c. The witness does not have a claim against any portion of the estate of
+22 the principal at the time of the principal's execution of the health care
+23 power of attorney.
+24 d. The witness is not the attending physician or mental health treatment
+25 provider of the principal, nor a licensed health care provider who is a
+26 paid employee of the attending physician or mental health treatment
+27 provider, nor a paid employee of a health facility in which the principal
+28 is a patient, nor a paid employee of a nursing home or any adult care
+29 home in which the principal resides, and (iv) does not have a claim
+30 against any portion of the estate of the principal at the time of the
+31 principal's execution of the health care power of attorney.resides,
+32 unless the witness has both (i) received training on recognizing
+33 whether the declarant meets the legal requirements for competency to
+34 execute the health care power of attorney and (ii) has been designated
+*H349-v-4*
+
+General Assembly Of North Carolina Session 2025
+1 by his or her employer to serve as a witness to the execution of the
+2 health care power of attorney."
+3 SECTION 1.2. G.S. 32A-25.1(a) reads as rewritten:
+4 "(a) The use of the following form in the creation of a health care power of attorney is
+5 lawful and, when used, it shall meet the requirements of and be construed in accordance with the
+6 provisions of this Article:
+7
+8 HEALTH CARE POWER OF ATTORNEY
+9
+10 NOTE: YOU SHOULD USE THIS DOCUMENT TO NAME A PERSON AS YOUR
+11 HEALTH CARE AGENT IF YOU ARE COMFORTABLE GIVING THAT PERSON
+12 BROAD AND SWEEPING POWERS TO MAKE HEALTH CARE DECISIONS FOR
+13 YOU. THERE IS NO LEGAL REQUIREMENT THAT ANYONE EXECUTE A
+14 HEALTH CARE POWER OF ATTORNEY.
+15
+16 EXPLANATION: You have the right to name someone to make health care decisions for you
+17 when you cannot make or communicate those decisions. This form may be used to create a health
+18 care power of attorney, and meets the requirements of North Carolina law. However, you are
+19 not required to use this form, and North Carolina law allows the use of other forms that meet
+20 certain requirements. If you prepare your own health care power of attorney, you should be very
+21 careful to make sure it is consistent with North Carolina law.
+22
+23 This document gives the person you designate as your health care agent broad powers to make
+24 health care decisions for you when you cannot make the decision yourself or cannot communicate
+25 your decision to other people. You should discuss your wishes concerning life-prolonging
+26 measures, mental health treatment, and other health care decisions with your health care agent.
+27 Except to the extent that you express specific limitations or restrictions in this form, your health
+28 care agent may make any health care decision you could make yourself.
+29
+30 This form does not impose a duty on your health care agent to exercise granted powers, but when
+31 a power is exercised, your health care agent will be obligated to use due care to act in your best
+32 interests and in accordance with this document.
+33
+34 This Health Care Power of Attorney form is intended to be valid in any jurisdiction in which it
+35 is presented, but places outside North Carolina may impose requirements that this form does not
+36 meet.
+37
+38 If you want to use this form, you must complete it, sign it, and have your signature witnessed by
+39 two qualified witnesses and proved by a notary public. Follow the instructions about which
+40 choices you can initial very carefully. Do not sign this form until two witnesses and a notary
+41 public are present to watch you sign it. You then should give a copy to your health care agent
+42 and to any alternates you name. You should consider filing it with the Advance Health Care
+43 Directive Registry maintained by the North Carolina Secretary of State:
+44 http://www.nclifelinks.org/ahcdr/State.
+45
+46 1. Designation of Health Care Agent.
+47
+48 I, __________________, being of sound mind, hereby appoint the following person(s) to serve
+49 as my health care agent(s) to act for me and in my name (in any way I could act in person) to
+50 make health care decisions for me as authorized in this document. My designated health care
+51 agent(s) shall serve alone, in the order named.
+Page 2 House Bill 349-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1
+2 A. Name: _______________________ Home Telephone: _______________
+3 Home Address: _______________________ Work Telephone: _______________
+4 ____________________________________ Cellular Telephone: _______________
+5
+6 B. Name: _______________________ Home Telephone: _______________
+7 Home Address: _______________________ Work Telephone: _______________
+8 ____________________________________ Cellular Telephone: _______________
+9
+10 C. Name: _______________________ Home Telephone: _______________
+11 Home Address: _______________________ Work Telephone: _______________
+12 ____________________________________ Cellular Telephone: _______________
+13
+14 Any successor health care agent designated shall be vested with the same power and duties as if
+15 originally named as my health care agent, and shall serve any time his or her predecessor is not
+16 reasonably available or is unwilling or unable to serve in that capacity.
+17
+18 2. Effectiveness of Appointment.
+19
+20 My designation of a health care agent expires only when I revoke it. Absent revocation, the
+21 authority granted in this document shall become effective when and if one of the physician(s)
+22 listed below determines that I lack capacity to make or communicate decisions relating to my
+23 health care, and will continue in effect during that incapacity, or until my death, except if I
+24 authorize my health care agent to exercise my rights with respect to anatomical gifts, autopsy, or
+25 disposition of my remains, this authority will continue after my death to the extent necessary to
+26 exercise that authority.
+27
+28 1. _______________________ (Physician)
+29
+30 2. _______________________ (Physician)
+31
+32 If I have not designated a physician, or no physician(s) named above is reasonably available, the
+33 determination that I lack capacity to make or communicate decisions relating to my health care
+34 shall be made by my attending physician.
+35
+36 3. Revocation.
+37
+38 Any time while I am competent, I may revoke this power of attorney in a writing I sign or by
+39 communicating my intent to revoke, in any clear and consistent manner, to my health care agent
+40 or my health care provider.
+41
+42 4. General Statement of Authority Granted.
+43
+44 Subject to any restrictions set forth in Section 5 below, I grant to my health care agent full power
+45 and authority to make and carry out all health care decisions for me. These decisions include, but
+46 are not limited to:
+47
+48 A. Requesting, reviewing, and receiving any information, verbal or written,
+49 regarding my physical or mental health, including, but not limited to, medical
+50 and hospital records, and to consent to the disclosure of this information.
+51
+House Bill 349-Fourth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 B. Employing or discharging my health care providers.
+2
+3 C. Consenting to and authorizing my admission to and discharge from a hospital,
+4 nursing or convalescent home, hospice, long-term care facility, or other health
+5 care facility.
+6
+7 D. Consenting to and authorizing my admission to and retention in a facility for
+8 the care or treatment of mental illness.
+9
+10 E. Consenting to and authorizing the administration of medications for mental
+11 health treatment and electroconvulsive treatment (ECT) commonly referred to
+12 as "shock treatment."
+13
+14 F. Giving consent for, withdrawing consent for, or withholding consent for,
+15 X-ray, anesthesia, medication, surgery, and all other diagnostic and treatment
+16 procedures ordered by or under the authorization of a licensed physician,
+17 dentist, podiatrist, or other health care provider. This authorization
+18 specifically includes the power to consent to measures for relief of pain.
+19
+20 G. Authorizing the withholding or withdrawal of life-prolonging measures.
+21
+22 H. Providing my medical information at the request of any individual acting as
+23 my attorney-in-fact under a durable power of attorney or as a Trustee or
+24 successor Trustee under any Trust Agreement of which I am a Grantor or
+25 Trustee, or at the request of any other individual whom my health care agent
+26 believes should have such information. I desire that such information be
+27 provided whenever it would expedite the prompt and proper handling of my
+28 affairs or the affairs of any person or entity for which I have some
+29 responsibility. In addition, I authorize my health care agent to take any and all
+30 legal steps necessary to ensure compliance with my instructions providing
+31 access to my protected health information. Such steps shall include resorting
+32 to any and all legal procedures in and out of courts as may be necessary to
+33 enforce my rights under the law and shall include attempting to recover
+34 attorneys' fees against anyone who does not comply with this health care
+35 power of attorney.
+36
+37 I. To the extent I have not already made valid and enforceable arrangements
+38 during my lifetime that have not been revoked, exercising any right I may
+39 have to authorize an autopsy or direct the disposition of my remains.
+40
+41 J. Taking any lawful actions that may be necessary to carry out these decisions,
+42 including, but not limited to: (i) signing, executing, delivering, and
+43 acknowledging any agreement, release, authorization, or other document that
+44 may be necessary, desirable, convenient, or proper in order to exercise and
+45 carry out any of these powers; (ii) granting releases of liability to medical
+46 providers or others; and (iii) incurring reasonable costs on my behalf related
+47 to exercising these powers, provided that this health care power of attorney
+48 shall not give my health care agent general authority over my property or
+49 financial affairs.
+50
+51 5. Special Provisions and Limitations.
+Page 4 House Bill 349-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1
+2 (Notice: The authority granted in this document is intended to be as broad as possible so that
+3 your health care agent will have authority to make any decisions you could make to obtain or
+4 terminate any type of health care treatment or service. If you wish to limit the scope of your
+5 health care agent's powers, you may do so in this section. If none of the following are initialed,
+6 there will be no special limitations on your agent's authority.)
+7
+8 A. Limitations about Artificial Nutrition or Hydration: In exercising the
+9 authority to make health care decisions on my behalf, my health care
+10 agent:
+11 ______________ shall NOT have the authority to withhold artificial nutrition
+12 (Initial) (such as through tubes) OR may exercise that authority only
+13 in accordance with the following special provisions:
+14 __________________________________________________
+15 __________________________________________________
+16
+17 ______________ shall NOT have the authority to withhold artificial hydration
+18 (Initial) (such as through tubes) OR may exercise that authority only
+19 in accordance with the following special provisions:
+20 __________________________________________________
+21 __________________________________________________
+22 NOTE: If you initial either block but do not insert any special
+23 provisions, your health care agent shall have NO AUTHORITY
+24 to withhold artificial nutrition or hydration.
+25
+26 ______________ B. Limitations Concerning Health Care Decisions. In exercising
+27 (Initial) the authority to make health care decisions on my behalf, the
+28 authority of my health care agent is subject to the following
+29 special provisions: (Here you may include any specific
+30 provisions you deem appropriate such as: your own definition
+31 of when life-prolonging measures should be withheld or
+32 discontinued, or instructions to refuse any specific types of
+33 treatment that are inconsistent with your religious beliefs, or
+34 are unacceptable to you for any other reason.)
+35 __________________________________________________
+36 __________________________________________________
+37 NOTE: DO NOT initial unless you insert a limitation.
+38
+39 ______________ C. Limitations Concerning Mental Health Decisions. In
+40 (Initial) exercising the authority to make mental health decisions on
+41 my behalf, the authority of my health care agent is subject to
+42 the following special provisions: (Here you may include any
+43 specific provisions you deem appropriate such as: limiting
+44 the grant of authority to make only mental health treatment
+45 decisions, your own instructions regarding the administration
+46 or withholding of psychotropic medications and
+47 electroconvulsive treatment (ECT), instructions regarding
+48 your admission to and retention in a health care facility for
+49 mental health treatment, or instructions to refuse any specific
+50 types of treatment that are unacceptable to you.)
+51 __________________________________________________
+House Bill 349-Fourth Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 __________________________________________________
+2 NOTE: DO NOT initial unless you insert a limitation.
+3
+4 ______________ D. Advance Instruction for Mental Health Treatment. (Notice:
+5 (Initial) This health care power of attorney may incorporate or be
+6 combined with an advance instruction for mental health
+7 treatment, executed in accordance with Part 2 of Article 3 of
+8 Chapter 122C of the General Statutes, which you may use to
+9 state your instructions regarding mental health treatment in
+10 the event you lack capacity to make or communicate mental
+11 health treatment decisions. Because your health care agent's
+12 decisions must be consistent with any statements you have
+13 expressed in an advance instruction, you should indicate here
+14 whether you have executed an advance instruction for mental
+15 health treatment):
+16 __________________________________________________
+17 __________________________________________________
+18 NOTE: DO NOT initial unless you insert a limitation.
+19
+20 ______________ E. Autopsy and Disposition of Remains. In exercising the
+21 (Initial) authority to make decisions regarding autopsy and disposition
+22 of remains on my behalf, the authority of my health care agent
+23 is subject to the following special provisions and limitations.
+24 (Here you may include any specific limitations you deem
+25 appropriate such as: limiting the grant of authority and the
+26 scope of authority, or instructions regarding burial or
+27 cremation):
+28 __________________________________________________
+29 __________________________________________________
+30 NOTE: DO NOT initial unless you insert a limitation.
+31
+32 6. Organ Donation.
+33
+34 To the extent I have not already made valid and enforceable arrangements during my lifetime
+35 that have not been revoked, my health care agent may exercise any right I may have to:
+36
+37 ______________ donate any needed organs or parts; or
+38 (Initial)
+39 ______________ donate only the following organs or parts:
+40 (Initial)
+41 __________________________________________________
+42 NOTE: DO NOT INITIAL BOTH BLOCKS ABOVE.
+43
+44 ______________ donate my body for anatomical study if needed.
+45 (Initial)
+46 ______________ In exercising the authority to make donations, my health care
+47 (Initial) agent is subject to the following special provisions and
+48 limitations: (Here you may include any specific limitations
+49 you deem appropriate such as: limiting the grant of authority
+50 and the scope of authority, or instructions regarding gifts of
+51 the body or body parts.)
+Page 6 House Bill 349-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 __________________________________________________
+2 __________________________________________________
+3 __________________________________________________
+4
+5 NOTE: DO NOT initial unless you insert a limitation.
+6
+7 NOTE: NO AUTHORITY FOR ORGAN DONATION IS GRANTED IN
+8 THIS INSTRUMENT WITHOUT YOUR INITIALS.
+9
+10 7. Guardianship Provision.
+11
+12 If it becomes necessary for a court to appoint a guardian of my person, I nominate the persons
+13 designated in Section 1, in the order named, to be the guardian of my person, to serve without
+14 bond or security. The guardian shall act consistently with G.S. 35A-1201(a)(5).
+15
+16 8. Reliance of Third Parties on Health Care Agent.
+17
+18 A. No person who relies in good faith upon the authority of or any representations
+19 by my health care agent shall be liable to me, my estate, my heirs, successors,
+20 assigns, or personal representatives, for actions or omissions in reliance on
+21 that authority or those representations.
+22 B. The powers conferred on my health care agent by this document may be
+23 exercised by my health care agent alone, and my health care agent's signature
+24 or action taken under the authority granted in this document may be accepted
+25 by persons as fully authorized by me and with the same force and effect as if
+26 I were personally present, competent, and acting on my own behalf. All acts
+27 performed in good faith by my health care agent pursuant to this power of
+28 attorney are done with my consent and shall have the same validity and effect
+29 as if I were present and exercised the powers myself, and shall inure to the
+30 benefit of and bind me, my estate, my heirs, successors, assigns, and personal
+31 representatives. The authority of my health care agent pursuant to this power
+32 of attorney shall be superior to and binding upon my family, relatives, friends,
+33 and others.
+34
+35 9. Miscellaneous Provisions.
+36
+37 A. Revocation of Prior Powers of Attorney. I revoke any prior health care power
+38 of attorney. The preceding sentence is not intended to revoke any general
+39 powers of attorney, some of the provisions of which may relate to health care;
+40 however, this power of attorney shall take precedence over any health care
+41 provisions in any valid general power of attorney I have not revoked.
+42
+43 B. Jurisdiction, Severability, and Durability. This Health Care Power of Attorney
+44 is intended to be valid in any jurisdiction in which it is presented. The powers
+45 delegated under this power of attorney are severable, so that the invalidity of
+46 one or more powers shall not affect any others. This power of attorney shall
+47 not be affected or revoked by my incapacity or mental incompetence.
+48
+49 C. Health Care Agent Not Liable. My health care agent and my health care
+50 agent's estate, heirs, successors, and assigns are hereby released and forever
+51 discharged by me, my estate, my heirs, successors, assigns, and personal
+House Bill 349-Fourth Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 representatives from all liability and from all claims or demands of all kinds
+2 arising out of my health care agent's acts or omissions, except for my health
+3 care agent's willful misconduct or gross negligence.
+4
+5 D. No Civil or Criminal Liability. No act or omission of my health care agent, or
+6 of any other person, entity, institution, or facility acting in good faith in
+7 reliance on the authority of my health care agent pursuant to this Health Care
+8 Power of Attorney shall be considered suicide, nor the cause of my death for
+9 any civil or criminal purposes, nor shall it be considered unprofessional
+10 conduct or as lack of professional competence. Any person, entity, institution,
+11 or facility against whom criminal or civil liability is asserted because of
+12 conduct authorized by this Health Care Power of Attorney may interpose this
+13 document as a defense.
+14
+15 E. Reimbursement. My health care agent shall be entitled to reimbursement for
+16 all reasonable expenses incurred as a result of carrying out any provision of
+17 this directive.
+18
+19 By signing here, I indicate that I am mentally alert and competent, fully informed as to the
+20 contents of this document, and understand the full import of this grant of powers to my health
+21 care agent.
+22
+23 This the _____ day of ______________, 20____.
+24
+25 ________________________(SEAL)
+26
+27 I hereby state that the principal, _______________, being of sound mind, signed (or directed
+28 another to sign on the principal's behalf) the foregoing health care power of attorney in my
+29 presence, and that I am not related to the principal by blood or marriage, and I would not be
+30 entitled to any portion of the estate of the principal under any existing will or codicil of the
+31 principal or as an heir under the Intestate Succession Act, if the principal died on this date without
+32 a will. I also state that that, unless I have received training on recognizing whether the declarant
+33 meets the legal requirements for competency to execute the health care power of attorney and
+34 have been designated by my employer to serve as a witness to the execution of the health care
+35 power of attorney, I am not the principal's attending physician, nor a licensed health care provider
+36 or mental health treatment provider who is (1) an employee of the principal's attending physician
+37 or mental health treatment provider, (2) an employee of the health facility in which the principal
+38 is a patient, or (3) an employee of a nursing home or any adult care home where the principal
+39 resides. I further state that I do not have any claim against the principal or the estate of the
+40 principal.
+41
+42 Date: _____________________________ Witness: ___________________________
+43
+44 Date: _____________________________ Witness: ___________________________
+45
+46 ________________COUNTY, _________________STATE
+47
+48 Sworn to (or affirmed) and subscribed before me this day by _____________________
+49 (type/print name of signer)
+50
+51 ______________________
+Page 8 House Bill 349-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (type/print name of witness)
+2
+3 ______________________
+4 (type/print name of witness)
+5
+6
+7 Date: ___________________________ ______________________________
+8 (Official Seal) Signature of Notary Public
+9
+10 __________________, Notary Public
+11 Printed or typed name
+12
+13 My commission expires: __________"
+14
+15 PART II. ADVANCE HEALTH CARE DIRECTIVES
+16 SECTION 2.1. G.S. 90-321(c) reads as rewritten:
+17 "(c) The attending physician shall follow, subject to subsections (b), (e), and (k) of this
+18 section, a declaration:declaration meeting all of the following:
+19 (1) That expresses a desire of the declarant that life-prolonging measures not be
+20 used to prolong the declarant's life if, as specified in the declaration as to any
+21 or all of the following:
+22 a. The declarant has an incurable or irreversible condition that will result
+23 in the declarant's death within a relatively short period of time; ortime.
+24 b. The declarant becomes unconscious and, to a high degree of medical
+25 certainty, will never regain consciousness; orconsciousness.
+26 c. The declarant suffers from advanced dementia or any other condition
+27 resulting in the substantial loss of cognitive ability and that loss, to a
+28 high degree of medical certainty, is not reversible.
+29 (2) That states that the declarant is aware that the declaration authorizes a
+30 physician to withhold or discontinue the life-prolonging measures;
+31 andmeasures.
+32 (3) Except as provided in G.S. 90-321.1, that has been signed by the declarant in
+33 the presence of two witnesses who believe the declarant to be of sound mind
+34 and who state that they (i) are all of the following are true:
+35 a. The witness is not related within the third degree to the declarant or to
+36 the declarant's spouse, (ii) do spouse.
+37 b. The witness does not know or have a reasonable expectation that they
+38 he or she would be entitled to any portion of the estate of the declarant
+39 upon the declarant's death under any will of the declarant or codicil
+40 thereto then existing or under the Intestate Succession Act as it then
+41 provides, (iii) are not provides.
+42 c. The witness does not have a claim against any portion of the estate of
+43 the declarant at the time of the declaration.
+44 d. The witness is not the attending physician, a licensed health care
+45 providers provider who are paid employees is a paid employee of the
+46 attending physician, a paid employees employee of a health facility in
+47 which the declarant is a patient, or a paid employees employee of a
+48 nursing home or any adult care home in which the declarant
+49 resides,and (iv) do not have a claim against any portion of the estate
+50 of the declarant at the time of the declaration; andresides, unless the
+51 witness has both (i) received training on recognizing whether the
+House Bill 349-Fourth Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 declarant meets the legal requirements for competency to execute the
+2 Advanced Directive for a Natural Death and (ii) been designated by
+3 his or her employer to serve as a witness to the execution of the
+4 Advanced Directive for a Natural Death.
+5 (4) That has been proved before a clerk or assistant clerk of superior court, or a
+6 notary public who certifies substantially as set out in subsection (d1) of this
+7 section. A notary who takes the acknowledgement may but is not required to
+8 be a paid employee of the attending physician, a paid employee of a health
+9 facility in which the declarant is a patient, or a paid employee of a nursing
+10 home or any adult care home in which the declarant resides."
+11 SECTION 2.2. G.S. 90-321(d1) reads as rewritten:
+12 "(d1) The following form is specifically determined to meet the requirements of subsection
+13 (c) of this section:
+14
+15 ADVANCE DIRECTIVE FOR A NATURAL DEATH ("LIVING WILL")
+16
+17 NOTE: YOU SHOULD USE THIS DOCUMENT TO GIVE YOUR HEALTH CARE
+18 PROVIDERS INSTRUCTIONS TO WITHHOLD OR WITHDRAW
+19 LIFE-PROLONGING MEASURES IN CERTAIN SITUATIONS. THERE IS NO LEGAL
+20 REQUIREMENT THAT ANYONE EXECUTE A LIVING WILL.
+21
+22 GENERAL INSTRUCTIONS: You can use this Advance Directive ("Living Will") form to give
+23 instructions for the future if you want your health care providers to withhold or withdraw
+24 life-prolonging measures in certain situations. You should talk to your doctor about what these
+25 terms mean. The Living Will states what choices you would have made for yourself if you were
+26 able to communicate. Talk to your family members, friends, and others you trust about your
+27 choices. Also, it is a good idea to talk with professionals such as your doctors, clergypersons,
+28 and lawyers before you complete and sign this Living Will.
+29
+30 You do not have to use this form to give those instructions, but if you create your own Advance
+31 Directive you need to be very careful to ensure that it is consistent with North Carolina law.
+32
+33 This Living Will form is intended to be valid in any jurisdiction in which it is presented, but places
+34 outside North Carolina may impose requirements that this form does not meet.
+35
+36 If you want to use this form, you must complete it, sign it, and have your signature witnessed by
+37 two qualified witnesses and proved by a notary public. Follow the instructions about which
+38 choices you can initial very carefully. Do not sign this form until two witnesses and a notary
+39 public are present to watch you sign it. You then should consider giving a copy to your primary
+40 physician and/or a trusted relative, and should consider filing it with the Advanced Health Care
+41 Directive Registry maintained by the North Carolina Secretary of State:
+42 http://www.nclifelinks.org/ahcdr/State:
+43
+44 My Desire for a Natural Death
+45
+46 I, ____________________, being of sound mind, desire that, as specified below, my life not be
+47 prolonged by life-prolonging measures:
+48
+49 1. When My Directives Apply
+50
+Page 10 House Bill 349-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 My directions about prolonging my life shall apply IF my attending physician determines
+2 that I lack capacity to make or communicate health care decisions and:
+3
+4 NOTE: YOU MAY INITIAL ANY AND ALL OF THESE CHOICES.
+5
+6 _________ I have an incurable or irreversible condition that will result
+7 (Initial) in my death within a relatively short period of time.
+8
+9 _________ I become unconscious and my health care providers
+10 (Initial) determine that, to a high degree of medical certainty, I will
+11 never regain my consciousness.
+12
+13 _________ I suffer from advanced dementia or any other condition
+14 (Initial) which results in the substantial loss of my cognitive ability
+15 and my health care providers determine that, to a high
+16 degree of medical certainty, this loss is not reversible.
+17
+18 2. These are My Directives about Prolonging My Life:
+19
+20 In those situations I have initialed in Section 1, I direct that my health care providers:
+21
+22 NOTE: INITIAL ONLY IN ONE PLACE.
+23
+24 _________ may withhold or withdraw life-prolonging measures.
+25 (Initial)
+26
+27 _________ shall withhold or withdraw life-prolonging measures.
+28 (Initial)
+29
+30 3. Exceptions – "Artificial Nutrition or Hydration"
+31
+32 NOTE: INITIAL ONLY IF YOU WANT TO MAKE EXCEPTIONS TO YOUR
+33 INSTRUCTIONS IN PARAGRAPH 2.
+34
+35 EVEN THOUGH I do not want my life prolonged in those situations I have initialed in
+36 Section 1:
+37 _________ I DO want to receive BOTH artificial hydration AND
+38 (Initial) artificial nutrition (for example, through tubes) in those
+39 situations.
+40
+41 NOTE: DO NOT INITIAL THIS BLOCK IF ONE OF THE
+42 BLOCKS BELOW IS INITIALED.
+43
+44 _________I DO want to receive ONLY artificial hydration (for
+45 (Initial) example, through tubes) in those situations.
+46
+47 NOTE: DO NOT INITIAL THE BLOCK ABOVE OR
+48 BELOW IF THIS BLOCK IS INITIALED.
+49
+50 _________ I DO want to receive ONLY artificial nutrition (for
+51 (Initial) example, through tubes) in those situations.
+House Bill 349-Fourth Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1
+2 NOTE: DO NOT INITIAL EITHER OF THE TWO
+3 BLOCKS ABOVE IF THIS BLOCK IS INITIALED.
+4
+5 4. I Wish to be Made as Comfortable as Possible
+6
+7 I direct that my health care providers take reasonable steps to keep me as clean,
+8 comfortable, and free of pain as possible so that my dignity is maintained, even though
+9 this care may hasten my death.
+10
+11 5. I Understand my Advance Directive
+12
+13 I am aware and understand that this document directs certain life-prolonging measures to
+14 be withheld or discontinued in accordance with my advance instructions.
+15
+16 6. If I have an Available Health Care Agent
+17
+18 If I have appointed a health care agent by executing a health care power of attorney or
+19 similar instrument, and that health care agent is acting and available and gives instructions
+20 that differ from this Advance Directive, then I direct that:
+21
+22 _________ Follow Advance Directive: This Advance Directive will
+23 (Initial) override instructions my health care agent gives about
+24 prolonging my life.
+25
+26 _________ Follow Health Care Agent: My health care agent has
+27 (Initial) authority to override this Advance Directive.
+28
+29 NOTE: DO NOT INITIAL BOTH BLOCKS. IF YOU DO NOT INITIAL EITHER
+30 BOX, THEN YOUR HEALTH CARE PROVIDERS WILL FOLLOW THIS
+31 ADVANCE DIRECTIVE AND IGNORE THE INSTRUCTIONS OF YOUR HEALTH
+32 CARE AGENT ABOUT PROLONGING YOUR LIFE.
+33
+34 7. My Health Care Providers May Rely on this Directive
+35
+36 My health care providers shall not be liable to me or to my family, my estate, my heirs,
+37 or my personal representative for following the instructions I give in this instrument.
+38 Following my directions shall not be considered suicide, or the cause of my death, or
+39 malpractice or unprofessional conduct. If I have revoked this instrument but my health
+40 care providers do not know that I have done so, and they follow the instructions in this
+41 instrument in good faith, they shall be entitled to the same protections to which they
+42 would have been entitled if the instrument had not been revoked.
+43
+44 8. I Want this Directive to be Effective Anywhere
+45
+46 I intend that this Advance Directive be followed by any health care provider in any place.
+47
+48 9. I have the Right to Revoke this Advance Directive
+49
+50 I understand that at any time I may revoke this Advance Directive in a writing I sign or
+51 by communicating in any clear and consistent manner my intent to revoke it to my
+Page 12 House Bill 349-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 attending physician. I understand that if I revoke this instrument I should try to destroy
+2 all copies of it.
+3
+4 This the ________ day of ____________, _________.
+5
+6 ___________________________________
+7 Print Name __________________________
+8
+9 I hereby state that the declarant, ______________________, being of sound mind, signed (or
+10 directed another to sign on declarant's behalf) the foregoing Advance Directive for a Natural
+11 Death in my presence, and that I am not related to the declarant by blood or marriage, and I would
+12 not be entitled to any portion of the estate of the declarant under any existing will or codicil of
+13 the declarant or as an heir under the Intestate Succession Act, if the declarant died on this date
+14 without a will. I also state that that, unless I have received training on recognizing whether the
+15 declarant meets the legal requirements for competency to execute the Advanced Directive for a
+16 Natural Death and have been designated by my employer to serve as a witness to the execution
+17 of the Advanced Directive for a Natural Death, I am not the declarant's attending physician, nor
+18 a licensed health care provider who is (1) an employee of the declarant's attending physician, (2)
+19 nor an employee of the health facility in which the declarant is a patient, or (3) an employee of a
+20 nursing home or any adult care home where the declarant resides. I further state that I do not have
+21 any claim against the declarant or the estate of the declarant.
+22
+23 Date: _____________________________ Witness: ___________________________
+24
+25 Date: _____________________________ Witness: ___________________________
+26
+27 ________________COUNTY, _________________STATE
+28
+29 Sworn to (or affirmed) and subscribed before me this day by _____________________
+30 (type/print name of declarant)
+31
+32 ________________________
+33 (type/print name of witness)
+34
+35 ________________________
+36 (type/print name of witness)
+37
+38 Date ___________________________ ______________________________
+39 (Official Seal) Signature of Notary Public
+40
+41 __________________, Notary Public
+42 Printed or typed name
+43
+44 My commission expires: _________"
+45
+46 PART III. ELECTRONIC FILING OF HEALTH CARE POWERS OF ATTORNEY AND
+47 ADVANCE HEALTH CARE DIRECTIVES WITH THE NORTH CAROLINA
+48 SECRETARY OF STATE
+49 SECTION 3.1. G.S. 130A-466 reads as rewritten:
+50 "§ 130A-466. Filing requirements.
+House Bill 349-Fourth Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 (a) A person may submit any of the following documents and the revocations of these
+2 documents to the Secretary of State in electronic or hard copy format for filing in the Advance
+3 Health Care Directive Registry established pursuant to this Article:
+4 (1) A health care power of attorney under Article 3 of Chapter 32A of the General
+5 Statutes.
+6 (2) A declaration of a desire for a natural death under Article 23 of Chapter 90 of
+7 the General Statutes.
+8 (3) An advance instruction for mental health treatment under Part 2 of Article 3
+9 of Chapter 122C of the General Statutes.
+10 (4) A declaration of an anatomical gift under Part 3A of Article 16 of Chapter
+11 130A of the General Statutes.
+12 (5) A Health Insurance Portability and Accountability Act (HIPAA) waiver.
+13 (b) Any document and any revocation of a document submitted for filing in the registry
+14 shall be notarized regardless of whether notarization is required for its validity. This subsection
+15 does not apply to a declaration of an anatomical gift described in subdivision (a)(4) of this
+16 section.
+17 (c) The document may be submitted for filing only by the person who executed the
+18 document.
+19 (d) The person who submits the document shall supply a return address.
+20 (e) The document shall be accompanied by any fee required by this Article."
+21 SECTION 3.2. G.S. 130A-468 reads as rewritten:
+22 "§ 130A-468. Filing of documents with the registry.
+23 (a) When the Secretary of State receives a hard copy of a document that may be filed
+24 with the registry pursuant to this Article, the Secretary shall create a digital reproduction of that
+25 document and enter the reproduced document into the registry database. When the Secretary of
+26 State receives a document in electronic format that may be filed with the registry pursuant to this
+27 Article, the Secretary shall enter that document into the registry database. The Secretary is not
+28 required to review a document to ensure that it complies with the particular statutory
+29 requirements applicable to the document. Each document entered into the registry database shall
+30 be assigned a unique file number and password.
+31 (b) Upon entering the a reproduced hard copy of a document into the registry database,
+32 the Secretary shall return the original hard copy of the document and a wallet-size card containing
+33 the document's file number and password to the person who submitted the document. Upon
+34 entering into the registry database a document that was received in electronic format, the
+35 Secretary shall send a wallet-size card containing the document's file number and password to
+36 the person who submitted the document.
+37 (c) When the Secretary of State receives a revocation of a document that is filed with the
+38 registry and that document's file number and password, or a request to remove that document
+39 from the registry without its revocation, the Secretary shall delete that document from the registry
+40 database.
+41 (c1) The Secretary of State may remove documents of deceased registrants from the
+42 registry upon notification of death in writing in a form acceptable to the Secretary of State.
+43 (d) The Secretary of State's entry of a document into, or removal of a document from, the
+44 registry database does not do any of the following:
+45 (1) Affect the validity of the document in whole or in part.
+46 (2) Relate to the accuracy of information contained in the document.
+47 (3) Create a presumption regarding the validity of the document, regarding the
+48 accuracy of information contained in the document, or that the statutory
+49 requirements for the document have been met."
+50
+51 PART IV. EFFECTIVE DATE
+Page 14 House Bill 349-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 4. This act becomes effective October 1, 2026.
+House Bill 349-Fourth Edition Page 15
+
+[DELETED:  4 M (   A A A A H C D A A T S O S T R E F O A H T  P S " Q p b m a T t b T o u p p c T t p d T p p p i h a p e o t h c p o a u t w h b ( r t o r w e]
+[DELETED:  S  H b h S " T l p  H  N Y S U T D T N A P A Y H C A I Y A C G T P B Y T I N L R T A E A H  E w c n c c  T h y d t o p Y s d y w c l m E c  T a i  T i m  I t c p a D R m b t N C S o S h  1 D  I a m a]
+[DELETED:  S  P  A N _ H _ H _ W _ _ C _  B N _ H _ H _ W _ _ C _  C N _ H _ H _ W _ _ C _  A o r  2 E  M a l h a d e  1 _ (  2 _ (  I d s  3 R  A c o  4 G  S a a  A R r a r a i v o w r a ]
+[DELETED:  S  H B E  C C n c  D C t  E C h a  F G c f w c f o w c f X p o b o a o l p d p o o h c p T a s  G A  H P m a u a d p o a o a a T o s T b s h s i I d t s i b p a o t a o a p o e f w I h s r l a t e m r u t l a s i a t r a a p  I T d h  J T i b n l t ( s e d a a m c p t s f  5 S]
+[DELETED:  S  P  ( y t h t   A L a a _  s N h t a t w a n  (  ( a t t O m e t a o    i _ _  _  s N h t a t w a h  (  ( a t t O m e t a o    i _ _ N p t   _ B L C H C D I e  (  t a t m h c d o m b t    a o m h c a i s t t f    s p ( y m i a s    p y d a s a  y o d    o w l m s b w o    d o i t r a s t o    t t a i w y r b o    a _ _ N   _ C L C M H D I  (  e t a t m m h d o    m b t a o m h c a i s t    t f s p ( y m i a    s p y d a s a  l    t g o a t m o m h t    d y o i r t a    o w o p m a    e t ( i r    y a t a r i a h c f f    m h t o i t r a s    t _]
+[DELETED:  S  H _ N   _ D A I f M H T (  (  T h c p o a m i o b    c w a a i f m h    t e i a w P 2 o A 3 o    C 1 o t G S w y m u t    s y i r m h t i    t e y l c t m o c m    h t d B y h c a    d m b c w a s y h    e i a a i y s i h    w y h e a a i f m    h _ _ N   _ E A a D o R I e t  (  a t m d r a a d    o r o m b t a o m h c a    i s t t f s p a l    ( y m i a s l y d    a s a  l t g o a a t    s o a o i r b o    c _ _ N   6 O  T t  _  d  ( _  d  (    _ N   _  d  ( _  I e t a t m d m h c  (  a i s t t f s p a    l ( y m i a s l    y d a s a l t g o a    a t s o a o i r g o    t]
+[DELETED:  S  P _ _ _  N  N  N A F O D I G I T  7 G  I d b  8 R  A N b a t B T p c o m h c a b t d m b e o b I p a a b r o a  9 M  A R o p h p  B J i d o n  C H C A N L M h c a a m h c a d b m m e m h s a a p]
+[DELETED:  S  H r a c  D N o a o p e i o f a i g f i r P a c o c p n s i b c u c o f a w c o c l i a b o c d  E R a t  B c c  T   _  I a p e p a m h p o o i r p  D W  D W  _  S  (   _]
+[DELETED:  S  P  (   _  (   D _  ( S   _  P   M  P S " T s ( T u o a T i b T c c T r h ( T s t t d i a t t d a a p t w o d t l m a ( E t a a T t b T h u t p c T t d T w i n t a p a l h c p a w n h o a a c h i w t d r o w h b ( r t o r w t]
+[DELETED:  S  H d A h o h e t s a a w t t e o t A ( T n s b f h S " T (  A  N Y S U T D T G Y H C P I T W O W L R  G i f t f i y w y h c p t w o w l t a c a  Y D  T o  I t c p p D R m b t N C S o S h  M  I p  1 W ]
+[DELETED:  S  P  M t   N  _ I h a i o i c t w r  ( i  _ I b u a m h c p  ( d t t a h d o m c I w   n  _ I s f a d o a o c  ( w r i t s l o m c a   a m h c p d t t a h   d  2 T   I   N  _ m  (  _ s  (  3 E   N I   E S _ I D w t r B a h A  ( a n ( e t t i t   s  N B  _  ( e t t i t s  N D N I T B A O B  _ I D w t r O a n (  ( e]
+[DELETED:  S  H  N D N I E O T T B  4 I  I d t m h c p t r s t k m a c c t  5 I  I b  6 I  I s t  _ F A D  T A D w  ( o i m h c a g a   p  _ F H C A  M h c a h  ( a  N B T Y H C P W F T A C  7 M  M o F m c i w  8 I   I  9 I  I b c i a c a c m i t r i t m]
+[DELETED:  S  P a a  T   _  P  I d D n t w d N o a n n a  D W  D W  _  S  (   _  (   _  (  D _  ( S   _  P   M  P A H C D W T N C S S "]
+[DELETED:  S  H ( A d H ( A S ( A t ( A o ( A 1 ( A ( A s d s ( T d ( T ( T S " ( W w d S A r t r a d t e t i c w t p s r b ( U t t e i t r d a d t w r i e f t S t ( W r f d ( T S o S m r d o d r f t r ( T r ( A ( R ( C a o i c i t d o t t s r  P]
+[DELETED:  S  P S]
