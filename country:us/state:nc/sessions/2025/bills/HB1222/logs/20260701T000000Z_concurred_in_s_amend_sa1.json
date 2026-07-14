@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Concurred In S Amend SA1",
+    "occurred_at": "2026-07-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H1222",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1222"
+}

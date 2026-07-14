@@ -1,13 +1,15 @@
 {
   "legislative_session": "2025",
   "identifier": "HB 368",
-  "title": "Revise Child Passenger Restraint System Law.",
+  "title": "Revise Child Passenger Restraint Systems Law.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "MINORS; MOTOR VEHICLES; PUBLIC; SAFETY; SAFETY EQUIPMENT; SEATBELTS & RESTRAINTS; NEWBORNS & INFANTS"
+    "INSURANCE; INSURANCE",
+    "LIABILITY; INSURANCE",
+    "MOTOR VEHICLE; MINORS; MOTOR VEHICLES; PUBLIC; SAFETY; SAFETY EQUIPMENT; SEATBELTS & RESTRAINTS; LIABILITY; NEWBORNS & INFANTS"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -17,6 +19,62 @@
     }
   ],
   "actions": [
+    {
+      "description": "Re-ref Com On Rules and Operations of the Senate",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Com Substitute Adopted",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Substitute",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Re-ref to Judiciary.  If fav, re-ref to Rules and Operations of the Senate",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
     {
       "description": "Ref To Com On Rules and Operations of the Senate",
       "date": "2025-04-30",
@@ -311,6 +369,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Edition 3",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H368v3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -329,7 +398,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:03Z",
+    "logs_latest_update": "2026-07-14T13:49:03Z",
     "text_extraction_latest_update": "2026-07-13T11:40:27.845832Z"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Regular Message Sent To House",
+    "occurred_at": "2026-06-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H1220",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1220"
+}

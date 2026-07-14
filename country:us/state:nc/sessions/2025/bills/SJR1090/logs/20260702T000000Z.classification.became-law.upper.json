@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Ch. Res 2026-4",
+    "occurred_at": "2026-07-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/S1090",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 1090"
+}

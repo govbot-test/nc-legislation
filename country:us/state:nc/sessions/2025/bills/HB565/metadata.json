@@ -1,13 +1,14 @@
 {
   "legislative_session": "2025",
   "identifier": "HB 565",
-  "title": "Check Yes, Save Lives.",
+  "title": "Limit Use of AI Medicaid/Commercial Insurance.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "DATA & RECORDS SYSTEMS; DMV; DRIVERS LICENSES; HEALTH SERVICES; HUMAN BLOOD & ORGANS; ID SYSTEMS; INFORMATION TECHNOLOGY; LICENSES & PERMITS; MOTOR VEHICLES; ORGAN DONATIONS; PUBLIC; PUBLIC HEALTH; REVENUE DEPT.; TAXATION; TRANSPORTATION; TRANSPORTATION DEPT.; RECORDS"
+    "COMMERCE; CONSUMER PROTECTION; DATA & RECORDS SYSTEMS; DHHS; DMV; DRIVERS LICENSES; EMERGING TECHNOLOGIES; HEALTH SERVICES; HUMAN BLOOD & ORGANS; ID SYSTEMS; INFORMATION TECHNOLOGY; INSURANCE",
+    "HEALTH; LICENSES & PERMITS; MEDICAID; MOTOR VEHICLES; ORGAN DONATIONS; POVERTY; PUBLIC; PUBLIC HEALTH; REVENUE DEPT.; STEM; SOCIAL SERVICES; TAXATION; TRANSPORTATION; TRANSPORTATION DEPT.; RECORDS; PATIENT RIGHTS; ARTIFICIAL INTELLIGENCE"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -17,6 +18,84 @@
     }
   ],
   "actions": [
+    {
+      "description": "Re-ref Com On Rules and Operations of the Senate",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Com Substitute Adopted",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Substitute",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Re-ref Com On Judiciary",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Com Substitute Adopted",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Substitute",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Sequential Referral To Judiciary Added After Health Care",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
     {
       "description": "Re-ref to Health Care.  If fav, re-ref to Rules and Operations of the Senate",
       "date": "2025-06-09",
@@ -440,6 +519,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Edition 4",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H565v4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 5",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H565v5.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -458,7 +559,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:01Z",
+    "logs_latest_update": "2026-07-14T13:49:03Z",
     "text_extraction_latest_update": "2026-07-13T13:21:38.249502Z"
   }
 }

@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "ATTORNEYS; COMMERCE; CONSUMER PROTECTION; COUNCIL OF STATE; COURTS; INSURANCE; INSURANCE DEPT.; OCCUPATIONS; PUBLIC; PUBLIC OFFICIALS; INSURANCE COMMISSIONER; CIVIL ACTIONS"
+    "ATTORNEY GENERAL; ATTORNEYS; CIVIL PROCEDURE; COMMERCE; CONSUMER PROTECTION; COUNCIL OF STATE; COURTS; FINES & PENALTIES; INSURANCE; INSURANCE DEPT.; JUDGMENTS & SETTLEMENTS; JUSTICE DEPT.; OCCUPATIONS; PUBLIC; PUBLIC OFFICIALS; INSURANCE COMMISSIONER; CIVIL ACTIONS"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -17,6 +17,219 @@
     }
   ],
   "actions": [
+    {
+      "description": "Ref To Com On Rules and Operations of the Senate",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Regular Message Received From House",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Regular Message Sent To Senate",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Ordered Engrossed",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Passed 3rd Reading",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Passed 2nd Reading",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Amend Adopted A1",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Added to Calendar",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Cal Pursuant Rule 36(b)",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Sub 3",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Re-ref to the Com on Finance, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Sub 2",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Re-ref to the Com on Judiciary 1, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
     {
       "description": "Re-ref Com On Finance",
       "date": "2025-06-25",
@@ -146,6 +359,50 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Edition 3",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H925v3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 4",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H925v4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 5",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H925v5.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A1: ARN-22-V-4",
+      "links": [
+        {
+          "url": "https://webservices.ncleg.gov/ViewBillDocument/2025/10104/0/H925-ARN-22-V-4",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -164,7 +421,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:01Z",
+    "logs_latest_update": "2026-07-14T13:49:02Z",
     "text_extraction_latest_update": "2026-07-13T10:12:22.692682Z"
   }
 }

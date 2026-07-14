@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Concurred In S Com Sub",
+    "occurred_at": "2026-06-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H376",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 376"
+}

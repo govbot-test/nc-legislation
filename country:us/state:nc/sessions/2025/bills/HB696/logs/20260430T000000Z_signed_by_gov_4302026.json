@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by Gov. 4/30/2026",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H696",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 696"
+}

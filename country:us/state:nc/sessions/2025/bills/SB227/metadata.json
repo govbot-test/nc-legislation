@@ -8,7 +8,7 @@
   ],
   "subject": [
     "BOARDS; DISCRIMINATION; EDUCATION; EDUCATION ADMINISTRATION; EDUCATION",
-    "STATE BOARD OF; LGBTQ & GENDER ISSUES; MINORITIES; OCCUPATIONS; PRESENTED; PUBLIC; RATIFIED; STATE EMPLOYEES; STUDENTS; TEACHERS; VETOED; WOMEN; GOVERNMENT EMPLOYEES"
+    "STATE BOARD OF; LGBTQ & GENDER ISSUES; MINORITIES; OCCUPATIONS; PRESENTED; PUBLIC; RATIFIED; STATE EMPLOYEES; STUDENTS; TEACHERS; VETOED; WOMEN; CHAPTERED; VETO OVERRIDDEN; GOVERNMENT EMPLOYEES"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -18,6 +18,130 @@
     }
   ],
   "actions": [
+    {
+      "description": "Ch. SL 2026-20",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Veto Overridden",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 04/21/2026",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Cal",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 04/06/2026",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Cal",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 03/09/2026",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Cal",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 02/09/2026",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Cal",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 01/12/2026",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Cal",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
     {
       "description": "Placed On Cal For 12/15/2025",
       "date": "2025-11-17",
@@ -870,6 +994,17 @@
       "classification": ""
     },
     {
+      "note": "SL 2026-20",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S227v4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "A3: ARQ-8-V-2",
       "links": [
         {
@@ -908,7 +1043,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:03Z",
+    "logs_latest_update": "2026-07-14T13:49:03Z",
     "text_extraction_latest_update": "2026-07-13T12:27:00.365410Z"
   }
 }

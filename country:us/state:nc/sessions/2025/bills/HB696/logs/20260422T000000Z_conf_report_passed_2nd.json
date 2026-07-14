@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conf Report Passed 2nd",
+    "occurred_at": "2026-04-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H696",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 696"
+}

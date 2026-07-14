@@ -18,6 +18,52 @@
   ],
   "actions": [
     {
+      "description": "Re-ref Com On State and Local Government",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Substitute",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Re-ref to the Com on Federal Relations and American Indian Affairs, if favorable, State and Local Government, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
       "description": "Ref To Com On Rules, Calendar, and Operations of the House",
       "date": "2025-04-01",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -141,14 +187,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Cervania\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Dahle",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Dahle\"}",
       "organization_id": null
     },
     {
@@ -279,6 +317,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Edition 2",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H600v2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -297,7 +346,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:03Z",
+    "logs_latest_update": "2026-07-14T13:49:02Z",
     "text_extraction_latest_update": "2026-07-13T12:50:31.799941Z"
   }
 }

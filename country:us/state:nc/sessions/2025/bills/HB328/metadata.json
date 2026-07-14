@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "ADVERTISING & MARKETING; AGRICULTURE; ALCOHOLIC BEVERAGES; BOARDS; BUILDINGS; COMMERCE; COMMUNICATIONS; CRIMES; EDUCATION; EDUCATION BOARDS; ELEMENTARY EDUCATION; FEES; FINES & PENALTIES; FOODS & BEVERAGES; ID SYSTEMS; KINDERGARTEN; LAW ENFORCEMENT; LICENSES & PERMITS; LOCAL GOVERNMENT; MANUFACTURING; MINORS; SCHOOL BUILDINGS & PROPERTY; SECONDARY EDUCATION; TITLE CHANGE; TOBACCO; PROPERTY-LOCAL GOVERNMENT; TOBACCO PRODUCTS; CASH CROPS; PUBLIC SAFETY DEPT.; ALE ; HEMP & HEMP PRODUCTS"
+    "ADVERTISING & MARKETING; AGRICULTURE; ALCOHOLIC BEVERAGES; BOARDS; BUILDINGS; COMMERCE; COMMUNICATIONS; CONTROLLED SUBSTANCES; CRIMES; EDUCATION; EDUCATION BOARDS; ELEMENTARY EDUCATION; FEES; FINES & PENALTIES; FOODS & BEVERAGES; ID SYSTEMS; KINDERGARTEN; LAW ENFORCEMENT; LICENSES & PERMITS; LOCAL GOVERNMENT; MANUFACTURING; MINORS; RETAILING; SCHOOL BUILDINGS & PROPERTY; SECONDARY EDUCATION; TITLE CHANGE; TOBACCO; PROPERTY-LOCAL GOVERNMENT; TOBACCO PRODUCTS; CASH CROPS; PUBLIC SAFETY DEPT.; ALE ; HEMP & HEMP PRODUCTS"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -17,6 +17,96 @@
     }
   ],
   "actions": [
+    {
+      "description": "Conf Report Adopted",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Placed on Today's Calendar",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Conf Com Reported",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Conferees Changed",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Conf Com Appointed",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Conf Com Appointed",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Failed Concur In S Com Sub",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Added to Calendar",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
     {
       "description": "Re-ref Com On Rules, Calendar, and Operations of the House",
       "date": "2025-06-23",
@@ -742,7 +832,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:01Z",
+    "logs_latest_update": "2026-07-14T13:49:03Z",
     "text_extraction_latest_update": "2026-07-13T10:18:39.986789Z"
   }
 }

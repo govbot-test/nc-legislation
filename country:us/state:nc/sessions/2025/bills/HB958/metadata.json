@@ -7,8 +7,8 @@
     "bill"
   ],
   "subject": [
-    "BOARDS; CAMPAIGN FINANCE; COUNTIES; ELECTIONS; ELECTIONS BOARDS; ELECTIONS",
-    "STATE BOARD OF; EMERGING TECHNOLOGIES; ID SYSTEMS; INFORMATION TECHNOLOGY; LOCAL GOVERNMENT; PERSONNEL; PILOT PROGRAMS; PUBLIC; PUBLIC OFFICIALS; REFERENDUM & INITIATIVE; REPORTS; STEM; SESSION LAWS; STATE EMPLOYEES; STUDIES; GOVERNMENT EMPLOYEES; BALLOTS & BALLOT ISSUES; ARTIFICIAL INTELLIGENCE"
+    "ARMED FORCES; AUDITING & AUDITS; BOARDS; CAMPAIGN FINANCE; CENSUS; CITIZENSHIP; COLLEGES & UNIVERSITIES; COMMUNITY COLLEGES; COMMUNITY COLLEGES BOARD; COUNCIL OF STATE; COUNTIES; COURTS; CRIMES; DATA & RECORDS SYSTEMS; DMV; DRIVERS LICENSES; EDUCATION; ELECTIONS; ELECTIONS BOARDS; ELECTIONS",
+    "STATE BOARD OF; EMERGING TECHNOLOGIES; EMPLOYMENT; HIGHER EDUCATION; ID SYSTEMS; INFORMATION TECHNOLOGY; LICENSES & PERMITS; LOBBYING; LOCAL GOVERNMENT; MORATORIUMS; MOTOR VEHICLES; NOTIFICATION; PACS; PERSONNEL; PILOT PROGRAMS; POLITICAL ACTIVITY; POLITICAL PARTIES; PUBLIC; PUBLIC OFFICIALS; REFERENDUM & INITIATIVE; REPORTING; REPORTS; SALARIES & BENEFITS; STEM; SESSION LAWS; STATE AUDITOR; STATE EMPLOYEES; STUDIES; VOTER REGISTRATION; WAKE COUNTY; RECORDS; SUPERIOR COURT; GOVERNMENT EMPLOYEES; PRIMARIES; BALLOTS & BALLOT ISSUES; ARTIFICIAL INTELLIGENCE"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -18,6 +18,177 @@
     }
   ],
   "actions": [
+    {
+      "description": "Ref To Com On Rules and Operations of the Senate",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Regular Message Received From House",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Regular Message Sent To Senate",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Ordered Engrossed",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Passed 3rd Reading",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Passed 2nd Reading",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Amend Failed A3",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Amend Adopted A2",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Amend Adopted A1",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 06/30/2026",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Cal Pursuant Rule 36(b)",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Sub 4",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Sub 3",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
     {
       "description": "Re-ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House",
       "date": "2025-09-25",
@@ -258,6 +429,61 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Edition 4",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H958v4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 5",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H958v5.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 6",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H958v6.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A2: ACHE-41-V-6",
+      "links": [
+        {
+          "url": "https://webservices.ncleg.gov/ViewBillDocument/2025/10106/0/H958-ACHE-41-V-6",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A1: ABKE-54-V-1",
+      "links": [
+        {
+          "url": "https://webservices.ncleg.gov/ViewBillDocument/2025/10107/0/H958-ABKE-54-V-1",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -276,7 +502,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:02Z",
+    "logs_latest_update": "2026-07-14T13:49:03Z",
     "text_extraction_latest_update": "2026-07-13T13:29:27.059484Z"
   }
 }

@@ -1,13 +1,14 @@
 {
   "legislative_session": "2025",
   "identifier": "HB 199",
-  "title": "Nonconsensual Booting and Towing Reform.",
+  "title": "Authorize Municipal Deannexation.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "APPOINTMENTS; COMMERCE; COMMISSIONS; CONSUMER PROTECTION; COUNCIL OF STATE; EMERGENCY SERVICES; FEES; GENERAL ASSEMBLY; GOVERNOR; LICENSES & PERMITS; MEMBERSHIP; MOTOR VEHICLES; NOTIFICATION; PRESIDENT PRO TEMPORE; PUBLIC; PUBLIC OFFICIALS; SPEAKER; TOWING; PARKING & PARKING STRUCTURES; PUBLIC SAFETY DEPT.; TOWING COMN."
+    "ANNEXATION; APPOINTMENTS; CITY COUNCILS; COMMERCE; COMMISSIONS; CONSUMER PROTECTION; COUNCIL OF STATE; COURTS; ELECTIONS; EMERGENCY SERVICES; FEES; GENERAL ASSEMBLY; GOVERNOR; LANDOWNERS; LICENSES & PERMITS; LOCAL GOVERNMENT; MEMBERSHIP; MOTOR VEHICLES; MUNICIPALITIES; NOTIFICATION; PLANNING & ZONING; PRESIDENT PRO TEMPORE; PROPERTY; PUBLIC; PUBLIC OFFICIALS; REAL ESTATE; SPEAKER; TAXATION; TAXES",
+    "PROPERTY; TITLE CHANGE; TOWING; TAX DISTRICTS; PARKING & PARKING STRUCTURES; PUBLIC SAFETY DEPT.; TOWING COMN."
   ],
   "abstracts": [],
   "other_titles": [],
@@ -17,6 +18,84 @@
     }
   ],
   "actions": [
+    {
+      "description": "Passed 2nd Reading",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Added to Calendar",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Cal Pursuant Rule 36(b)",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Reptd Fav",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Ruled Material",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Sub 2",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
     {
       "description": "Re-ref Com On Finance",
       "date": "2025-06-03",
@@ -272,6 +351,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Edition 3",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H199v3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -290,7 +380,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:03Z",
+    "logs_latest_update": "2026-07-14T13:49:03Z",
     "text_extraction_latest_update": "2026-07-13T13:24:30.383654Z"
   }
 }

@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "ARMED FORCES; CITIZENSHIP; COMMERCE; INTERNATIONAL TRADE; LANDOWNERS; MILITARY BASES; PROPERTY; PUBLIC; PUBLIC RECORDS; RECORDATION OF INSTRUMENTS; SALES & CONVEYANCES; RECORDS"
+    "ARMED FORCES; ATTORNEY GENERAL; CITIZENSHIP; COMMERCE; COUNCIL OF STATE; DEEDS; FINES & PENALTIES; INTERNATIONAL TRADE; JUSTICE DEPT.; LANDOWNERS; MILITARY BASES; PROPERTY; PUBLIC; PUBLIC OFFICIALS; PUBLIC RECORDS; RECORDATION OF INSTRUMENTS; REGISTER OF DEEDS; SALES & CONVEYANCES; RECORDS"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -17,6 +17,76 @@
     }
   ],
   "actions": [
+    {
+      "description": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Sub 2",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Re-ref Com On Homeland Security and Military and Veterans Affairs",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Substitute",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Re-ref to the Com on Judiciary 2, if favorable, Homeland Security and Military and Veterans Affairs, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
     {
       "description": "Ref To Com On Rules, Calendar, and Operations of the House",
       "date": "2025-05-06",
@@ -392,6 +462,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Edition 4",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S394v4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 5",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S394v5.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -410,7 +502,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:02Z",
+    "logs_latest_update": "2026-07-14T13:49:03Z",
     "text_extraction_latest_update": "2026-07-13T10:12:34.877137Z"
   }
 }

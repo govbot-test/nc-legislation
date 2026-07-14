@@ -1,13 +1,13 @@
 {
   "legislative_session": "2025",
   "identifier": "SB 451",
-  "title": "Occupational/Professional Licensing Relief.",
+  "title": "Universal Licensure/Limit Continuing Ed.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "ACCOUNTANTS; ADMINISTRATIVE CODE; ADMINISTRATIVE RULES; AGRICULTURE; AGRICULTURE DEPT.; ALARM SYSTEMS; SECURITY SYSTEMS LICENSING BOARD; APPRAISAL BOARD; APPRAISALS; ATHLETIC TRAINER EXAMINERS BOARD; AUCTIONEERS COMN.; AUCTIONS; BARBERS & COSMETOLOGISTS; BOARDS; BUILDING CODES; CODE OFFICIALS BOARD; COMMISSIONS; CONSTRUCTION; CPA EXAMINERS BOARD; DEREGULATION; EDUCATION; ELECTRICAL CONTRACTORS BOARD; EMPLOYMENT; ENGINEERS & ENGINEERING; ENGINEERS & SURVEYORS BOARD; ENVIRONMENT; ENVIRONMENTAL HEALTH; FORESTRY; GENERAL CONTRACTORS BOARD; GEOLOGISTS BOARD; GEOLOGY; HOME INSPECTOR BOARD; HOUSING; INSPECTIONS; LANDSCAPE ARCHITECTS BOARD; LANDSCAPING; LANGUAGES; LICENSING & CERTIFICATION; LOCKSMITH LICENSING BOARD; LOCKSMITHS; MANUFACTURED HOUSING BOARD; OCCUPATIONS; PESTICIDES & HERBICIDES; PROFESSIONAL EDUCATION; PUBLIC; PUBLIC HEALTH; REAL ESTATE; REAL ESTATE COMN.; SOIL SCIENTISTS LICENSING BD.; SOILS; SPORTS; SURVEYORS & SURVEYING; WATER & SEWER SYSTEMS; WELL CONTRACTORS COMN.; LANDSCAPE CONTRACTORS BOARD; BARBER EXAMINERS BOARD; INTERPRETER LICENSING BOARD; MANUFACTURED HOMES; INTERPRETERS & TRANSLITERATORS; SOIL SCIENTISTS; IRRIGATION CONTRACTORS BOARD; PESTICIDE BOARD; WELLS; ATHLETIC TRAINERS; ENVIRONMENTAL HEALTH EXAMINERS BOARD; FORESTERS BOARD"
+    "ACCOUNTANTS; ADMINISTRATIVE CODE; ADMINISTRATIVE RULES; AGRICULTURE; AGRICULTURE DEPT.; ALARM SYSTEMS; SECURITY SYSTEMS LICENSING BOARD; APPRAISAL BOARD; APPRAISALS; ATHLETIC TRAINER EXAMINERS BOARD; AUCTIONEERS COMN.; AUCTIONS; BARBERS & COSMETOLOGISTS; BOARDS; BUILDING CODES; CODE OFFICIALS BOARD; COMMISSIONS; CONSTRUCTION; CPA EXAMINERS BOARD; DEREGULATION; EDUCATION; ELECTRICAL CONTRACTORS BOARD; EMERGENCY SERVICES; EMPLOYMENT; ENGINEERS & ENGINEERING; ENGINEERS & SURVEYORS BOARD; ENVIRONMENT; ENVIRONMENTAL HEALTH; FEES; FORESTRY; GENERAL CONTRACTORS BOARD; GEOLOGISTS BOARD; GEOLOGY; HOME INSPECTOR BOARD; HOUSING; INSPECTIONS; INTERSTATE COOPERATION; LANDSCAPE ARCHITECTS BOARD; LANDSCAPING; LANGUAGES; LAW ENFORCEMENT; LAW ENFORCEMENT OFFICERS; LICENSING & CERTIFICATION; LOCKSMITH LICENSING BOARD; LOCKSMITHS; MANUFACTURED HOUSING BOARD; OCCUPATIONS; PERSONNEL; PESTICIDES & HERBICIDES; PROFESSIONAL EDUCATION; PUBLIC; PUBLIC HEALTH; REAL ESTATE; REAL ESTATE COMN.; SOCIAL SERVICES; SOCIAL WORKERS; SOIL SCIENTISTS LICENSING BD.; SOILS; SPORTS; SURVEYORS & SURVEYING; TITLE CHANGE; ON-SITE WASTEWATER CONTRACTORS BD.; WATER & SEWER SYSTEMS; WELL CONTRACTORS COMN.; LANDSCAPE CONTRACTORS BOARD; BARBER EXAMINERS BOARD; INTERPRETER LICENSING BOARD; MANUFACTURED HOMES; INTERPRETERS & TRANSLITERATORS; SOIL SCIENTISTS; IRRIGATION CONTRACTORS BOARD; PESTICIDE BOARD; WELLS; ATHLETIC TRAINERS; ENVIRONMENTAL HEALTH EXAMINERS BOARD; FORESTERS BOARD"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -17,6 +17,50 @@
     }
   ],
   "actions": [
+    {
+      "description": "Re-ref Com On Finance",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Com Substitute Adopted",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Substitute",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Sequential Referral To Finance Added After Regulatory Reform",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
     {
       "description": "Re-ref to Regulatory Reform.  If fav, re-ref to Rules and Operations of the Senate",
       "date": "2025-04-07",
@@ -125,6 +169,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Edition 2",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S451v2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -143,7 +198,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:02Z",
+    "logs_latest_update": "2026-07-14T13:49:02Z",
     "text_extraction_latest_update": "2026-07-13T12:05:34.234308Z"
   }
 }

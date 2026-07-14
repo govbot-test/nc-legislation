@@ -1,0 +1,310 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 1114",
+  "title": "General Statutes Commission Technical Corrections 2026.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ADMINISTRATION DEPT.; AGING; AGRICULTURE; ANIMALS; OBSOLETE LAWS; APPOINTMENTS; ARTS; AUDITING & AUDITS; AUTHORITIES; BANKING COMN.; BANKS; BOARDS; CHILD CARE COMN.; COLLEGES & UNIVERSITIES; COMMERCE; COMMERCE DEPT.; COMMISSIONS; COMMITTEES; CORRECTIONAL INSTITUTIONS; COUNCIL OF STATE; COUNCILS; COUNTIES; CULTURAL RESOURCES; NATURAL & CULTURAL RESOURCES DEPT.; DAY CARE; DHHS; EDUCATION; EDUCATION ASSISTANCE AUTHORITY; EMERGENCY SERVICES; EMPLOYMENT; ENVIRONMENT; ESCHEATS; FINANCIAL INSTITUTIONS; FISH & WILDLIFE; FORESTRY; FORESTRY COUNCIL; FUNDS & ACCOUNTS; GENERAL ASSEMBLY; GENERAL STATUTES; GOVERNMENTAL OPERATIONS COMN.; GOVERNOR; GOVERNORS AGING COUNCIL; HAZARDOUS SUBSTANCES; HEALTH SERVICES; HIGHER EDUCATION; HISTORIC SITES & MONUMENTS; HISTORICAL COMN.; HOLOCAUST COUNCIL; INDIAN AFFAIRS COMN.; INDUSTRIAL COMN.; INSURANCE; INSURANCE DEPT.; LABOR DEPT.; LIBRARIES; LICENSING & CERTIFICATION; LOCAL GOVERNMENT; LT. GOVERNOR; MEDICAL CARE COMN.; MEMBERSHIP; MINORITIES; MINORS; MUNICIPALITIES; MUSEUMS; NAVIGATION & PILOTAGE COMN.; OSH; PARKS & RECREATION AREAS; PAROLE COMN.; PAROLE & PROBATION; PORTS & HARBORS; INMATES; PROPERTY; PUBLIC; PUBLIC OFFICIALS; PURCHASING; REPORTING; REVENUE DEPT.; SAFETY; SENTENCING; SESSION LAWS; SOCIAL SERVICES; SOCIAL SERVICES COMN.; STATE AUDITOR; STATE BUILDINGS; STATE EMPLOYEES; TAXATION; TOBACCO; TOBACCO TRUST FUND COMN.; TRANSPORTATION; TRANSPORTATION DEPT.; TRIBES & TRIBAL GOVERNMENT; WILDLIFE RESOURCES COMN.; WOMEN; WOMENS COUNCIL; WORK SAFETY; ZOOLOGICAL PARK COUNCIL; ZOOS; NEW HANOVER COUNTY; WILMINGTON; CRAVEN COUNTY; ARTS COUNCIL; NEW BERN; TRYON PALACE COMN.; EXECUTIVE MANSION COMM.; TOBACCO TRUST FUND; LABOR COMMISSIONER; BATTLESHIP COMN.; PUBLIC SAFETY DEPT.; ABANDONED PROPERTY; HUMAN RESOURCES OFFICE; PUBLIC LIBRARIAN COMN.; YOUTH ADVISORY COUNCIL; ADULT CORRECTION DEPT."
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-nc-2025-hb1114"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Ref To Com On Rules and Operations of the Senate",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Regular Message Received From House",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Regular Message Sent To Senate",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Ordered Engrossed",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Passed 3rd Reading",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Passed 2nd Reading",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Amend Adopted A1",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 06/09/2026",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Cal",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 06/03/2026",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Cal Pursuant Rule 36(b)",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Reptd Fav",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Substitute",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Ref to the Com on Judiciary 1, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Filed",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Davis\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1114v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1114v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 2",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1114v2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 3",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1114v3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A1: AMU-55-V-4",
+      "links": [
+        {
+          "url": "https://webservices.ncleg.gov/ViewBillDocument/2025/9499/0/H1114-AMU-55-V-4",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/H1114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:49:02Z"
+  }
+}

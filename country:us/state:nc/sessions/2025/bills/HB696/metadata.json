@@ -1,13 +1,13 @@
 {
   "legislative_session": "2025",
   "identifier": "HB 696",
-  "title": "Health Care Practitioner Transparency Act.",
+  "title": "Medicaid and HHS Adjust./Other Critical Needs.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "ADMINISTRATIVE CODE; ADMINISTRATIVE RULES; ADVERTISING & MARKETING; ALTERNATIVE MEDICINE; CHIROPRACTORS; COMMUNICATIONS; COUNSELING; DENTISTS & DENTISTRY; EMPLOYMENT; FOODS & BEVERAGES; HEALTH SERVICES; MENTAL HEALTH; NURSES & NURSING; NUTRITION; OCCUPATIONAL THERAPY; OCCUPATIONS; OPTICIANS & OPTOMETRISTS; PERSONNEL; PHARMACEUTICALS; PHARMACISTS & PHARMACIES; PHYSICAL THERAPY; PHYSICIANS; PSYCHIATRY; PSYCHOLOGY; PUBLIC; PUBLIC HEALTH; SPEECH PATHOLOGISTS & AUDIOLOGISTS; OPTHALMOLOGY & OPTHALMOLOGISTS"
+    "ADMINISTRATIVE CODE; ADMINISTRATIVE RULES; ADVERTISING & MARKETING; ALTERNATIVE MEDICINE; CHIROPRACTORS; COMMUNICATIONS; COUNSELING; DENTISTS & DENTISTRY; EMPLOYMENT; FOODS & BEVERAGES; HEALTH SERVICES; MENTAL HEALTH; NURSES & NURSING; NUTRITION; OCCUPATIONAL THERAPY; OCCUPATIONS; OPTICIANS & OPTOMETRISTS; PERSONNEL; PHARMACEUTICALS; PHARMACISTS & PHARMACIES; PHYSICAL THERAPY; PHYSICIANS; PRESENTED; PSYCHIATRY; PSYCHOLOGY; PUBLIC; PUBLIC HEALTH; RATIFIED; SPEECH PATHOLOGISTS & AUDIOLOGISTS; CHAPTERED; OPTHALMOLOGY & OPTHALMOLOGISTS"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -17,6 +17,192 @@
     }
   ],
   "actions": [
+    {
+      "description": "Ch. SL 2026-1",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Signed by Gov. 4/30/2026",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Pres. To Gov. 4/28/2026",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Ratified",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Ordered Enrolled",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Conf Report Adopted 3rd",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Conf Report Adopted 3rd",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 04/28/2026",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Conf Report Passed 2nd",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 04/28/2026",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Conf Report Adopted 2nd",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 04/22/2026",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Ruled Material",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Conf Com Reported",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 04/22/2026",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Held As Material",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Conf Com Reported",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Conferees Changed",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
     {
       "description": "Conf Com Appointed",
       "date": "2025-06-25",
@@ -471,6 +657,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Ratified",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H696v4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SL 2026-1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H696v5.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -489,7 +697,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:03Z",
+    "logs_latest_update": "2026-07-14T13:49:03Z",
     "text_extraction_latest_update": "2026-07-13T12:08:35.984143Z"
   }
 }

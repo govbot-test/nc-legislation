@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Filed",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H1196",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1196"
+}

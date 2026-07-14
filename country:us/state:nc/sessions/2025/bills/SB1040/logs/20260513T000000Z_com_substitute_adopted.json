@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Com Substitute Adopted",
+    "occurred_at": "2026-05-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/S1040",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1040"
+}

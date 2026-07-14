@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Re-ref to Appropriations/Base Budget.  If fav, re-ref to Rules and Operations of the Senate",
+    "occurred_at": "2026-04-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/S849",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 849"
+}

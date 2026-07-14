@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Regular Message Sent To House",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H727",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 727"
+}

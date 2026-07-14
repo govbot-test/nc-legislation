@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Withdrawn From Cal",
+    "occurred_at": "2026-06-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/H1114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1114"
+}

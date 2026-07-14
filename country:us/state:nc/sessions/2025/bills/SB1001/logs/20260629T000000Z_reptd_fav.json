@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Reptd Fav",
+    "occurred_at": "2026-06-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/S1001",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1001"
+}

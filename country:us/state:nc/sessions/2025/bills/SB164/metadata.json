@@ -18,6 +18,28 @@
   ],
   "actions": [
     {
+      "description": "Re-ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:02Z"
+      }
+    },
+    {
       "description": "Re-ref Com On Rules, Calendar, and Operations of the House",
       "date": "2025-06-03",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -366,7 +388,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:02Z",
+    "logs_latest_update": "2026-07-14T13:49:02Z",
     "text_extraction_latest_update": "2026-07-13T10:15:20.052604Z"
   }
 }

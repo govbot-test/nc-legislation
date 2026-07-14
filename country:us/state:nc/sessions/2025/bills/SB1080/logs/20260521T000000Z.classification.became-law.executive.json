@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Ch. SL 2026-4",
+    "occurred_at": "2026-05-21",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.ncleg.gov/BillLookUp/2025/S1080",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1080"
+}

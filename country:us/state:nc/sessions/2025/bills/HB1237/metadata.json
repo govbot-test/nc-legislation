@@ -1,0 +1,303 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 1237",
+  "title": "Appointments and Corrections.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ADMINISTRATIVE RULES; APPOINTMENTS; APPRAISAL BOARD; APPRAISALS; AUTHORITIES; BOARDS; BUILDING CODE COUNCIL; BUILDING CODES; BUILDINGS; CENTENNIAL AUTHORITY; CHILD CARE COMN.; COASTAL RESOURCES; COASTAL RESOURCES COMN.; CODE OFFICIALS BOARD; COMMERCE DEPT.; COMMISSIONS; COMMITTEES; COMMUNITY COLLEGES; CONSTRUCTION; CORPORATIONS",
+    "HEALTH; INVESTMENT ADVISORY COMM.; INVESTMENTS; LANGUAGES; LICENSING & CERTIFICATION; LOCAL GOVERNMENT; LOCKSMITH LICENSING BOARD; LOCKSMITHS; MASS TRANSIT; MASSAGE THERAPY; MASSAGE THERAPY BOARD; MEDIATION & ARBITRATION; MENTAL HEALTH; MHDDSAS COMN.; MINING & MINERAL EXTRACTION; MINORITIES; MINORS; NUTRITION; OCCUPATIONS; PARKS & RECREATION AREAS; PARTNERSHIP FOR CHILDREN; PESTS; PESTICIDES & HERBICIDES; PORTS & HARBORS; PORTS AUTHORITY; PRESIDENT PRO TEMPORE; PROPRIETARY SCHOOLS; PUBLIC; PUBLIC OFFICIALS; PUBLIC TRANSPORTATION; RATIFIED; REAL ESTATE; REAL ESTATE COMN.; RECREATION & LEISURE; RESPIRATORY CARE BOARD; RULES REVIEW COMN.; RURAL DEVELOPMENT; SALARIES & BENEFITS; SECONDARY EDUCATION; SESSION LAWS; SOIL SCIENTISTS LICENSING BD.; SOILS; SPEAKER; SPORTS; STATE BUILDING COMN.; STATE BUILDINGS; STATE EMPLOYEES; STATE TREASURER; STRUCTURAL PEST CONTROL COMM.; TEACHERS; RECREATIONAL THERAPY BOARD; TRANSPORTATION; TRANSPORTATION BOARD; STATE HEALTH PLAN; STATE HEALTH PLAN BOARD; UNC; VETERINARIANS; VETERINARY BOARD; VETERINARY MEDICINE; VOCATIONAL EDUCATION; ON-SITE WASTEWATER CONTRACTORS BD.; WATER & SEWER SYSTEMS; WATER RESOURCES; WELL CONTRACTORS COMN.; SUBSTANCE ABUSE; ADDICTIONS SPECIALIST BOARD; INTERPRETER LICENSING BOARD; CHAPTERED; ECONOMIC INVESTMENT COMM.; INTERPRETERS & TRANSLITERATORS; FUNERAL SERVICE BOARD; BRAIN INJURY COUNCIL; RECREATIONAL THERAPY; SOIL SCIENTISTS; ETHICS COMN.; AFRICAN-AMERICAN HERITAGE COMN.; WELLS; WATER INFRASTRUCTURE AUTHORITY; PROPRIETARY SCHOOLS BOARD; COMMUNITY COLLEGE BOARDS; RURAL INFRASTRUCTURE AUTHORITY; OIL & GAS COMN.; MINING COMN.; FAMILY ISSUES; INFORMATION TECHNOLOGY DEPT.; OUTDOOR HERITAGE ADVISORY COUNCIL; IT STRATEGY BOARD; UNC BOARDS OF TRUSTEES; RESIDENTIAL SCHOOLS; RESIDENTIAL CODE COUNCIL; METRO TRANSPORT AUTHORITY",
+    "NONPROFIT; COUNCILS; CRIMES; CULTURAL RESOURCES; NATURAL & CULTURAL RESOURCES DEPT.; DAY CARE; DEQ; DHHS; DIETETICS/NUTRITION BOARD; DISABLED PERSONS; DISPUTE RESOLUTION COMN.; DISPUTE SETTLEMENT CENTERS; DOMESTIC VIOLENCE; DOMESTIC VIOLENCE COMN.; ECONOMIC DEVELOPMENT; EDUCATION; EDUCATION",
+    "STATE BOARD OF; ELEMENTARY EDUCATION; ETHICS; FUNERAL SERVICES; GENERAL ASSEMBLY; HEALTH SERVICES; HIGHER EDUCATION; HOUSING; HOUSING PARTNERSHIP; INFORMATION TECHNOLOGY; INFRASTRUCTURE; INSPECTIONS; INSTITUTE OF MEDICINE; INSURANCE; INSURANCE"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-nc-2025-hb1237"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Ch. SL 2026-10",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Ratified",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Ordered Enrolled",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Passed 3rd Reading",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Passed 2nd Reading",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Placed on Today's Calendar",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Reptd Fav",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Ref To Com On Rules and Operations of the Senate",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Special Message Received From House",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Special Message Sent To Senate",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Passed 3rd Reading",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Passed 2nd Reading",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Added to Calendar",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Rules Suspended",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Filed",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    },
+    {
+      "description": "Reptd Fav. For Introduction",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:49:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rules, Calendar, and Operations of the House",
+      "classification": "cosponsor",
+      "entity_type": "organization",
+      "primary": false,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules, Calendar, and Operations of the House\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1237v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1237v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Ratified",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1237v2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SL 2026-10",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1237v3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/H1237",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:49:03Z"
+  }
+}
