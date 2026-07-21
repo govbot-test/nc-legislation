@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1164
+Short Title: NSF for Taxes Penalty Modification. (Public)
+Sponsors: Representatives Rubin, Budd, Logan, and Roberson (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MODIFY THE PENALTY ASSOCIATED WITH INSUFFICIENT FUNDS FOR
+3 PAYMENT OF TAXES.
+4 Whereas, current law imposes a penalty for insufficient funds tax payments equal to
+5 the greater of twenty-five dollars or ten percent of the total payment amount, which can result in
+6 excessively high penalties on large yearly property tax bills; and
+7 Whereas, these penalties can greatly exceed the actual administrative costs incurred
+8 by counties in processing returned payments, creating unnecessarily punitive outcomes for
+9 taxpayers; and
+10 Whereas, it is the intent of the General Assembly to ensure this penalty structure is
+11 fair to taxpayers and aligned with cost recovery for counties; Now, therefore,
+12 The General Assembly of North Carolina enacts:
+13 SECTION 1. G.S. 105-357(b) reads as rewritten:
+14 "(b) Acceptance of Checks and Electronic Payment. – The tax collector may accept checks
+15 and electronic payments, as defined in G.S. 147-86.20, in payment of taxes, as authorized by
+16 G.S. 159-32.1. Acceptance of a check or electronic payment is at the tax collector's own risk. A
+17 tax collector who accepts electronic payment of taxes may add a fee to each electronic payment
+18 transaction to offset the service charge the taxing unit pays for electronic payment service. A tax
+19 collector who accepts electronic payment or check in payment of taxes may issue the tax receipt
+20 immediately or withhold the receipt until the check has been collected or the electronic payment
+21 invoice has been honored by the issuer.
+22 If a tax collector accepts a check or an electronic payment and issues a tax receipt and the
+23 check is returned unpaid (without negligence on the part of the tax collector in presenting the
+24 check for payment) or the electronic payment invoice is not honored by the issuer, the taxes for
+25 which the check or electronic payment was given shall be deemed unpaid; the tax collector shall
+26 immediately correct the copy of the tax receipt and other appropriate records to show the fact of
+27 nonpayment, and shall give written notice by certified or registered mail to the person to whom
+28 the tax receipt was issued to return it to the tax collector. After correcting the records to show the
+29 fact of nonpayment, the tax collector shall proceed to collect the taxes by the use of any remedies
+30 allowed for the collection of taxes or by bringing a civil action on the check or electronic
+31 payment.
+32 A financial institution with which a taxing unit has contracted for receipt of payment of taxes
+33 may accept a check in payment of taxes. If the check is honored, the financial institution shall so
+34 notify the tax collector, who shall, upon request of the taxpayer, issue a receipt for payment of
+35 the taxes. If the check is returned unpaid, the financial institution shall so notify the tax collector,
+*H1164-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 who shall proceed to collect the taxes by use of any remedy allowed for collection of taxes or by
+2 bringing a civil action on the check.
+3 …
+4 (2) Penalty. – In addition to interest for nonpayment of taxes provided by
+5 G.S. 105-360 and in addition to any criminal penalties provided by law, the
+6 penalty for presenting in payment of taxes a check or electronic funds transfer
+7 that is returned or not completed because of insufficient funds or nonexistence
+8 of an account of the drawer or transferor is twenty-five dollars ($25.00) or ten
+9 percent (10%) of the amount of the check or electronic invoice, whichever is
+10 greater, subject to a maximum of one thousand dollars ($1,000). This penalty
+11 does not apply if the tax collector finds that, when the check or electronic
+12 funds transfer was presented for payment, the drawer of the check or transferor
+13 of funds had sufficient funds in an account at a financial institution in this
+14 State to make the payment and, by inadvertence, the drawer of the check or
+15 transferor of the funds failed to draw the check or initiate a transfer on the
+16 account that had sufficient funds. is, subject to a maximum of one thousand
+17 dollars ($1,000), (i) for the first two violations for which a penalty is imposed
+18 under this section within the past five years, twenty-five dollars ($25.00) plus
+19 one percent (1%) of the amount of the check or electronic invoice or (ii) for
+20 any other violation, fifty dollars ($50.00) plus two percent (2%) of the amount
+21 of the check or electronic invoice. This penalty shall be added to and collected
+22 in the same manner as the taxes for which the check or electronic payment
+23 was given."
+24 SECTION 2. There is appropriated from the General Fund to the Department of
+25 Revenue the sum of fifteen thousand dollars ($15,000) in nonrecurring funds for the 2026-2027
+26 fiscal year to be used by the Department for educational materials and assistance to the public
+27 and county tax collectors with respect to the change in law regarding the penalty for presenting
+28 in payment of taxes a check or electronic funds transfer that is returned or not completed because
+29 of insufficient funds or nonexistence of an account, as set forth in G.S. 105-357(b), as modified
+30 by this act.
+31 SECTION 3. Section 1 of this act is effective when it becomes law and applies to
+32 payments of taxes made on or after that date. The remainder of this act is effective when it
+33 becomes law.
+Page 2 House Bill 1164-First Edition

@@ -1,0 +1,638 @@
+Title: 
+Official Title: 
+Source: versions - Edition 6
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 6
+SENATE BILL 808
+Regulatory Reform Committee Substitute Adopted 4/28/26
+Finance Committee Substitute Adopted 4/29/26
+Fourth Edition Engrossed 5/5/26
+House Committee Substitute Favorable 6/9/26
+House Committee Substitute #2 Favorable 6/30/26
+Short Title: Board of Cosmetic Art Examiners Amendments. (Public)
+Sponsors:
+Referred to:
+April 22, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MODIFY THE REQUIREMENTS FOR NATURAL HAIR CARE SPECIALIST
+3 LICENSURE AND CREATE A CERTIFICATION FOR HAIR BRAIDERS; TO LICENSE
+4 HAIR DESIGNERS; TO ALLOW MOBILE COSMETIC ART SHOPS; AND TO MAKE
+5 OTHER CHANGES TO THE COSMETIC ART STATUTES.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. Chapter 88B of the General Statutes, as amended by S.L. 2025-20,
+8 reads as rewritten:
+9 "Chapter 88B.
+10 "Cosmetic Art.
+11 "§ 88B-1. Short title.
+12 This chapter shall be known and may be cited as the North Carolina Cosmetic Art Act.
+13 "§ 88B-2. Definitions.
+14 The following definitions apply in this Chapter:
+15 (1) Apprentice. – A person who is not a manager or operator and who is engaged
+16 in learning the practice of cosmetic art under the direction and supervision of
+17 a cosmetologist.
+18 (2) Board. – The North Carolina Board of Cosmetic Art Examiners.
+19 (3) Booth. – A workstation located within a licensed cosmetic art shop or mobile
+20 cosmetic art shop that is operated primarily by one individual in performing
+21 cosmetic art services for consumers.
+22 (4) Booth renter. – A person who rents a booth in a cosmetic art shop.shop or
+23 mobile cosmetic art shop.
+24 (5) Cosmetic art. – All or any part or combination of cosmetology, hair design,
+25 esthetics, natural hair care, hair braiding, or manicuring, including the
+26 systematic manipulation with the hands or mechanical apparatus of the scalp,
+27 face, neck, shoulders, hands, and feet. Practices included within this
+28 subdivision shall not include the practice of massage or bodywork therapy as
+29 set forth in Article 36 of Chapter 90 of the General Statutes.
+30 (6) Cosmetic art school. – Any building or part thereof where cosmetic art is
+31 taught.
+*S808-v-6*
+
+General Assembly Of North Carolina Session 2025
+1 (7) Cosmetic art shop. – Any building or part thereof where cosmetic art is
+2 practiced for pay or reward, whether direct or indirect.
+3 (8) Cosmetologist. – Any individual who is licensed to practice all parts of
+4 cosmetic art.
+5 (8a) Cosmetology. – The act of arranging, dressing, curling, waving, cleansing,
+6 cutting, singeing, bleaching, coloring, or similar work upon the hair of a
+7 person by any means, including the use of hands, mechanical or electrical
+8 apparatus, or appliances or by use of cosmetic or chemical preparations or
+9 antiseptics.The practice of all parts of cosmetic art.
+10 (9) Cosmetology teacher. – An individual licensed by the Board to teach all parts
+11 of cosmetic art.
+12 (10) Esthetician. – An individual licensed by the Board to practice only that part of
+13 cosmetic art that constitutes skin care.
+14 (11) Esthetician teacher. – An individual licensed by the Board to teach only that
+15 part of cosmetic art that constitutes skin care.
+16 (11a) Esthetics. – Refers to any of the following practices: giving facials; applying
+17 makeup; performing skin care; removing superfluous hair from the body of a
+18 person by use of creams, tweezers, or waxing; applying eyelashes to a person,
+19 including the application of eyelash extensions, brow or lash color;
+20 beautifying the face, neck, arms, or upper part of the human body by use of
+21 cosmetic preparations, antiseptics, tonics, lotions, or creams; surface
+22 manipulation in relation to skin care; or cleaning or stimulating the face, neck,
+23 ears, arms, hands, bust, torso, legs, or feet of a person by means of hands,
+24 devices, apparatus, or appliances along with the use of cosmetic preparations,
+25 antiseptics, tonics, lotions, or creams.
+26 (11b) Hair braiding. – A service that results in tension on hair strands or roots by
+27 braiding, twisting, or wrapping the hair by hand or a mechanical device. Hair
+28 braiding is the intertwining of hair into a patterned style, which may include
+29 the addition of decorative or nonstructural elements such as beads, thread, or
+30 ornaments, provided they do not alter the natural hair or require chemicals,
+31 adhesives, or heat used on natural hair. Hair braiding also includes minor
+32 trimming of hair or hair extensions incidental to the braiding of hair.
+33 (11c) Hair design. – The act of arranging, dressing, curling, waving, cleansing,
+34 cutting, singeing, bleaching, coloring, or similar work upon the hair of a
+35 person by any means, including the use of hands, mechanical or electrical
+36 apparatus, or appliances or by use of cosmetic or chemical preparations or
+37 antiseptics.
+38 (11d) Hair design teacher. – An individual licensed by the Board to teach hair
+39 design.
+40 (11e) Hair designer. – An individual licensed by the Board to practice only that part
+41 of cosmetic art that constitutes hair design.
+42 (11f) Licensee. – An individual who holds one or more licenses or certifications
+43 issued by the Board.
+44 (12) Manicuring. – The care and treatment of the fingernails, toenails, cuticles on
+45 fingernails and toenails, and the hands and feet, including the decoration of
+46 the fingernails and the application of nail extensions and artificial nails. The
+47 term "manicuring" shall not include the treatment of pathologic conditions.
+48 (13) Manicurist. – An individual licensed by the Board to practice only that part of
+49 cosmetic art that constitutes manicuring.
+50 (14) Manicurist teacher. – An individual licensed by the Board to teach
+51 manicuring.
+Page 2 Senate Bill 808-Sixth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (14a) Mobile cosmetic art shop. – A motor home as defined in Article 1 of Chapter
+2 20 of the General Statutes that is used for the practice of cosmetic art for pay
+3 or reward, whether direct or indirect.
+4 (14b) Natural hair care. – A service that results in tension on involves the
+5 manipulation of hair strands or roots by twisting, wrapping, extending, or
+6 locking braiding, corn rows, locks, knots, twisting, wrapping, heating,
+7 arranging, rolling, blow drying, track and sew method for a weft of hair, or
+8 extending the hair by hand or mechanical device. Natural hair care also
+9 includes minor trimming of hair or hair extensions incidental to the braiding
+10 of hair. For purposes of this definition, the phrase "natural hair care" shall
+11 include the use of artificial or natural hair.
+12 (14b)(14c) Natural hair care specialist. – An individual licensed by the Board to
+13 practice only that part of cosmetic art that constitutes natural hair care.
+14 (14c)(14d) Natural hair care teacher. – An individual licensed by the Board to teach
+15 natural hair care.
+16 (15) Shampooing. – The application and removal of commonly used, room
+17 temperature, liquid hair cleaning and hair conditioning products. Shampooing
+18 does not include the arranging, dressing, waving, coloring, or other treatment
+19 of the hair.
+20 …
+21 "§ 88B-4. Powers and duties of the Board.
+22 (a) The Board shall have the following powers and duties:
+23 (1) To administer and interpret this Chapter.
+24 (2) To adopt, amend, and repeal rules to carry out the provisions of this Chapter.
+25 (3) To examine and determine the qualifications and fitness of applicants for
+26 licensure under this Chapter.
+27 (4) To issue, renew, deny, restrict, suspend, or revoke licenses.licenses or
+28 certifications.
+29 (5) To conduct investigations of alleged violations of this Chapter or the Board's
+30 rules.
+31 (6) To collect fees required by G.S. 88B-20 and any other monies permitted by
+32 law to be paid to the Board.
+33 (7) To approve new cosmetic art schools.
+34 (7a) To adopt rules for cosmetic art schools.
+35 (8) To inspect cosmetic art schools and shops.schools, cosmetic art shops, and
+36 mobile cosmetic art shops.
+37 (9) To adopt rules for the sanitary management and physical requirements of
+38 cosmetic art shops shops, mobile cosmetic art shops, and cosmetic art schools.
+39 (10) To establish a curriculum for each course of study required for the issuance of
+40 a license or certification issued under this Chapter.
+41 (11) To employ an executive director and any additional professional, clerical, or
+42 special personnel necessary to carry out the provisions of this Chapter, and to
+43 purchase or rent necessary office space, equipment, and supplies.
+44 (12) To adopt a seal.
+45 (13) To carry out any other actions authorized by this Chapter.
+46 (b) A member of the Board shall have the authority to inspect cosmetic art shops shops,
+47 mobile cosmetic art shops, and cosmetic art schools at any reasonable hour to determine
+48 compliance with the provisions of this Chapter if the inspection is made: (i) at the request of the
+49 Board, or with the approval of the chair or the executive director as the result of a complaint
+50 made to the Board or a problem reported by an inspector, or (ii) at the request of an inspector
+51 who deems it necessary to request the assistance of a Board member and who has the prior
+Senate Bill 808-Sixth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 approval of the chair or executive director to do so. A Board member who makes an inspection
+2 pursuant to this subsection shall file a report with the Board before requesting reimbursement for
+3 expenses.
+4 (c) The Board shall keep a record of its proceedings relating to the issuance, renewal,
+5 denial, restriction, suspension, and revocation of licenses. licenses and certifications. This record
+6 shall also contain each licensee's name, business and home addresses, license number, and the
+7 date the license was issued.
+8 "§ 88B-5. Meetings and compensation of the Board.
+9 (a) Each member of the Board shall receive compensation for services and expenses as
+10 provided in G.S. 93B-5, but shall be limited to payment for services deemed official business of
+11 the Board when such business exceeds three continuous hours per day. Official business of the
+12 Board includes meetings called by the chair and time spent inspecting cosmetic art shops and
+13 shops, mobile cosmetic art shops, and cosmetic art schools as permitted by this Chapter. No
+14 payment for per diem or travel expenses shall be authorized or paid for Board meetings other
+15 than those called by the chair. The Board may annually select one member to attend a national
+16 state board of cosmetic arts meeting on official business of the Board. No other Board members
+17 shall be authorized to attend trade shows or to travel out-of-state at the Board's expense.
+18 (b) The Board shall hold four regular meetings a year in the months of January, April,
+19 July, and October. The chair may call additional meetings whenever necessary.
+20 "§ 88B-6. Board office, employees, funds, budget requirements.
+21 (a) The Board shall maintain its office in Wake County, North Carolina.
+22 (b) The Board shall employ an executive director who shall not be a member of the Board.
+23 The executive director shall keep all records of the Board, issue all necessary notices, and
+24 perform any other duties required by the Board.
+25 (c) With the approval of the Director of the Budget and the Office of State Human
+26 Resources, the Board may employ as many inspectors, investigators, and other staff as necessary
+27 to perform inspections and other duties prescribed by the Board. Inspectors and investigators
+28 shall be experienced in all parts of cosmetic art and shall have authority to examine cosmetic art
+29 shops shops, mobile cosmetic art shops, and cosmetic art schools during business hours to
+30 determine compliance with this Chapter.
+31 "§ 88B-7. Qualifications for licensing cosmetologists.
+32 The Board shall issue a license to practice as a cosmetologist to any individual who meets all
+33 of the following requirements:
+34 (1) Successful completion of at least 1,500 hours of a cosmetology curriculum in
+35 an approved cosmetic art school, or at least 1,200 hours of a cosmetology
+36 curriculum in an approved cosmetic art school and completion of an
+37 apprenticeship for a period of at least six months under the direct supervision
+38 of a cosmetologist, as certified by sworn affidavit of three licensed
+39 cosmetologists or by other evidence satisfactory to the Board.
+40 (2) Passage of an examination conducted by the Board.
+41 (3) Payment of the fees required by G.S. 88B-20.
+42 "§ 88B-8. Qualifications for licensing apprentices.
+43 The Board shall issue a license to practice as an apprentice to any individual who meets all
+44 of the following requirements:
+45 (1) Successful completion of at least 1,200 hours of a cosmetology curriculum in
+46 an approved cosmetic art school.
+47 (2) Passage of an examination conducted by the Board.
+48 (3) Payment of the fees required by G.S. 88B-20.
+49 "§ 88B-8.1. Qualifications for licensing as a hair designer.
+50 The Board shall issue a license to practice as a hair designer to any individual who meets all
+51 of the following requirements:
+Page 4 Senate Bill 808-Sixth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (1) Successful completion of at least 1,000 hours of a hair design curriculum in
+2 an approved cosmetic art school.
+3 (2) Passage of an examination conducted by the Board.
+4 (3) Payment of the fees required by G.S. 88B-20.
+5 "§ 88B-9. Qualifications for licensing as an esthetician.
+6 The Board shall issue a license to practice as an esthetician to any individual who meets all
+7 of the following requirements:
+8 (1) Successful completion of at least 600 hours of an esthetics curriculum in an
+9 approved cosmetic art school.school, or, for a licensed hair designer,
+10 successful completion of at least 475 hours of an esthetics curriculum in an
+11 approved cosmetic art school.
+12 (2) Passage of an examination conducted by the Board.
+13 (3) Payment of the fees required by G.S. 88B-20.
+14 "§ 88B-10. Qualifications for licensing manicurists.
+15 The Board shall issue a license to practice as a manicurist to any individual who meets all of
+16 the following requirements:
+17 (1) Successful completion of at least 300 hours of a manicurist curriculum in an
+18 approved cosmetic art school.school or, for a licensed hair designer,
+19 successful completion of at least 200 hours of a manicurist curriculum in an
+20 approved cosmetic art school.
+21 (2) Passage of an examination conducted by the Board.
+22 (3) Payment of the fees required by G.S. 88B-20.
+23 "§ 88B-10.1. Qualifications for licensing natural hair care specialists.
+24 The Board shall issue a license to practice as a natural hair care specialist to any individual
+25 who meets all of the following requirements:
+26 (1) Successful completion of at least 300 hours 150 hours of a natural hair care
+27 curriculum in an approved cosmetic art school.school or, for a certified hair
+28 braider, successful completion of at least 126 hours of a natural hair care
+29 curriculum in an approved cosmetic art school.
+30 (2) Passage of an examination conducted by the Board.
+31 (3) Payment of the fees required by G.S. 88B-20.
+32 "§ 88B-10.2. Qualifications for certifying hair braiders.
+33 The Board shall issue a certification to practice as a hair braider to any individual who meets
+34 all of the following requirements:
+35 (1) Successful completion of at least 24 hours of a hair braiding curriculum in an
+36 approved cosmetic art school or an approved course offered by the Board.
+37 (2) Passage of a hair braider certification examination conducted by the Board.
+38 (3) Payment of the fees required by G.S. 88B-20.
+39 "§ 88B-11. Qualifications for licensing teachers.
+40 (a) Applicants for any teacher's license issued by the Board shall meet all of the following
+41 requirements:
+42 (1) Possession of a high school diploma or a high school graduation equivalency
+43 certificate.
+44 (2) Payment of the fees required by G.S. 88B-20.
+45 (b) The Board shall issue a license to practice as a cosmetology teacher to any individual
+46 who meets the requirements of subsection (a) of this section and who meets all of the following:
+47 (1) Holds in good standing a cosmetologist license issued by the Board.
+48 (2) Submits proof of either practice of cosmetic art in a cosmetic art shop, shop
+49 or mobile cosmetic art shop, or any Board-approved employment capacity in
+50 the cosmetic arts industry, for a period equivalent to one year of full-time work
+Senate Bill 808-Sixth Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 immediately prior to application or successful completion of at least 800 500
+2 hours of a teacher curriculum in an approved cosmetic art school.
+3 (3) Passes an examination for teachers conducted by the Board.
+4 (b1) The Board shall issue a license to practice as a hair design teacher to any individual
+5 who meets the requirements of subsection (a) of this section and who meets all of the following:
+6 (1) Holds in good standing a cosmetologist or a hair designer license issued by
+7 the Board.
+8 (2) Submits proof of either of the following:
+9 a. Practice of hair design in a cosmetic art shop or mobile cosmetic art
+10 shop, or any Board-approved employment capacity in the cosmetic
+11 arts industry, for a period equivalent to one year of full-time work
+12 immediately prior to application.
+13 b. Successful completion of at least 500 hours of a teacher curriculum in
+14 an approved cosmetic art school.
+15 (3) Passes an examination for teachers conducted by the Board.
+16 (c) The Board shall issue a license to practice as an esthetician teacher to any individual
+17 who meets the requirements of subsection (a) of this section and who meets all of the following:
+18 (1) Holds in good standing a cosmetologist or an esthetician license issued by the
+19 Board.
+20 (2) Submits proof of either practice as an esthetician in a cosmetic art shop, shop
+21 or mobile cosmetic art shop, or any Board-approved employment capacity in
+22 the cosmetic arts industry, for a period equivalent to one year of full-time work
+23 immediately prior to application or successful completion of at least 650 500
+24 hours of a teacher curriculum in an approved cosmetic art school.
+25 (3) Passes an examination for teachers conducted by the Board.
+26 (d) The Board shall issue a license to practice as a manicurist teacher to any individual
+27 who meets the requirements of subsection (a) of this section and who meets all of the following:
+28 (1) Holds in good standing a cosmetologist or manicurist license issued by the
+29 Board.
+30 (2) Submits proof of either practice as a manicurist in a cosmetic art shop, shop
+31 or mobile cosmetic art shop, or any Board-approved employment capacity in
+32 the cosmetic arts industry, for a period equivalent to one year of full-time work
+33 immediately prior to application or successful completion of at least 320 hours
+34 of a teacher curriculum in an approved cosmetic art school.
+35 (3) Passes an examination for teachers conducted by the Board.
+36 (e) The Board shall issue a license to practice as a natural hair care teacher to any
+37 individual who meets the requirements of subsection (a) of this section and who meets all of the
+38 following:
+39 (1) Holds in good standing a natural hair care license issued by the Board.
+40 (2) Submits proof of either practice as a natural hair care specialist in a cosmetic
+41 art shop or any Board-approved employment capacity in the cosmetic art
+42 industry for a period equivalent to one year of full-time work immediately
+43 prior to application or successful completion of at least 320 hours 200 hours
+44 of a teacher curriculum in an approved cosmetic art school.
+45 (3) Passes an examination for teachers conducted by the Board.
+46 "§ 88B-12. Temporary employment permit; extensions; limits on practice.
+47 (a) The Board shall issue a temporary employment permit to an applicant for licensure
+48 as an apprentice, cosmetologist, hair designer, esthetician, natural hair care specialist, or
+49 manicurist who meets all of the following:
+50 (1) Has completed the required hours of a cosmetic art school curriculum in the
+51 area in which the applicant wishes to be licensed.
+Page 6 Senate Bill 808-Sixth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (2) Has applied to take the examination within three months of completing the
+2 required hours.
+3 (3) Is qualified to take the examination.
+4 (b) A temporary employment permit shall expire six months from the date of graduation
+5 from a cosmetic art school and shall not be renewed.
+6 (c) The holder of a temporary employment permit may practice cosmetic art only under
+7 the supervision of a licensed cosmetologist, hair designer, manicurist, natural hair care specialist,
+8 or esthetician, as appropriate, and may not operate a cosmetic art shop.
+9 "§ 88B-13. Applicants licensed in other states.
+10 (a) The Board shall issue a license to an applicant licensed in another state as an
+11 apprentice, cosmetologist, hair designer, esthetician, natural hair care specialist, hair braider, or
+12 manicurist in another state if the applicant shows:
+13 (1) The applicant is an active practitioner in good standing.
+14 (2) The applicant has practiced at least one of the three years immediately
+15 preceding the application for a license.
+16 (3) There is no disciplinary proceeding or unresolved complaint pending against
+17 the applicant at the time a license is to be issued by this State.
+18 (4) The licensure requirements in the state in which the applicant is licensed are
+19 substantially equivalent to those required by this State.
+20 (b) Instead of meeting the requirements in subsection (a) of this section, any applicant
+21 who is licensed as a cosmetologist, hair designer, esthetician, natural hair care specialist, or
+22 manicurist in another state shall be admitted to practice in this State under the same reciprocity
+23 or comity provisions that the state in which the applicant is licensed grants to persons licensed in
+24 this State.
+25 (c) The Board may establish standards for issuing a license to an applicant who is licensed
+26 as a teacher in another state. These standards shall include a requirement that the licensure
+27 requirements in the state in which the teacher is licensed shall be substantially equivalent to those
+28 required in this State and that the applicant shall be licensed by the Board to practice in the area
+29 in which the applicant is licensed to teach.
+30 "§ 88B-14. Licensing of cosmetic art shops.shops and mobile cosmetic art shops.
+31 (a) The Board shall issue a license to operate a cosmetic art shop or mobile cosmetic art
+32 shop to any applicant who submits a properly completed application, on a form approved by the
+33 Board, pays the required fee, and is determined, after inspection, to be in compliance with the
+34 provisions of this Chapter and the Board's rules.
+35 (b) The applicant shall list all licensees who practice cosmetic art in the shop or mobile
+36 cosmetic art shop and shall identify each as an employee or a booth renter.
+37 (c) A cosmetic art shop or mobile cosmetic art shop shall be allowed to operate for a
+38 period of 30 days while the Board inspects and determines the shop's or mobile cosmetic art
+39 shop's compliance with this Chapter and the Board's rules. If the Board is unable to complete the
+40 inspection within 30 days, the shop or mobile cosmetic art shop will be authorized to operate
+41 until such an inspection can be completed.
+42 (d) A license to operate a cosmetic art shop or mobile cosmetic art shop shall not be
+43 transferable from one location to another or from one owner to another.
+44 "§ 88B-15. Practice outside cosmetic art shops.
+45 (a) Any individual licensed or certified under this Chapter may visit the residences of
+46 individuals who are sick or disabled and confined to their places of residence in order to attend
+47 to their cosmetic needs. A licensed or certified individual may also visit hospitals, nursing homes,
+48 rest homes, retirement homes, mental institutions, correctional facilities, funeral homes, and
+49 similar institutions to attend to the cosmetic needs of those in these institutions.
+50 (b) An individual licensed or certified under this Chapter may practice in a licensed
+51 barbershop as permitted by G.S. 86A-14.G.S. 86B-32.
+Senate Bill 808-Sixth Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (c) A natural hair care specialist licensed under this Chapter or a hair braider certified
+2 under this Chapter may practice hair braiding at fairs, street festivals, holiday festivals,
+3 agricultural festivals, farmers markets, balloon races, local fundraisers, and other similar events
+4 approved by the Board.
+5 "§ 88B-15A. Mobile cosmetic art shops.
+6 (a) The Board shall issue a license to operate a mobile cosmetic art shop to any applicant
+7 who submits a properly completed application on a form approved by the Board, pays the
+8 required fee, and is determined after inspection to be in compliance with the provisions of this
+9 Chapter and the Board's rules.
+10 (b) The Board shall adopt rules for the operation, permitting, and inspection of mobile
+11 cosmetic art shops, including standards for facilities, personnel, and safety and sanitary
+12 requirements. All permitting and operating requirements provided by this Chapter or by rules
+13 adopted by the Board pursuant to this Chapter that apply to cosmetic art shops shall also apply
+14 to mobile cosmetic art shops, except to the extent that the requirements conflict with this section
+15 or with any rules adopted by the Board pursuant to this section.
+16 (c) In addition to the requirements of this Chapter, individuals and the vehicles they
+17 operate while providing mobile cosmetic art services shall be subject to the provisions of (i)
+18 Chapter 20 of the General Statutes, (ii) Title 19A of the North Carolina Administrative Code,
+19 (iii) all applicable OSHA requirements, and (iv) all local laws and ordinances regulating business
+20 establishments.
+21 (d) A mobile cosmetic art shop must be equipped with a functional sink and toilet
+22 facilities and must maintain an adequate supply of clean water and wastewater storage capacity.
+23 (e) No cosmetic art service may be performed in a mobile cosmetic art shop while the
+24 mobile cosmetic art shop is moving. The mobile cosmetic art shop must be safely parked in a
+25 legal parking spot at all times while patrons are present inside the mobile cosmetic art shop.
+26 (f) A mobile cosmetic art shop owner must maintain a permanent business address at
+27 which records of appointments, itineraries, license numbers, and vehicle identification numbers
+28 for each mobile cosmetic art shop being operated shall be kept and made available for verification
+29 and inspection by the Board and at which all correspondence from the Board can be received.
+30 (g) To facilitate periodic inspections of mobile cosmetic art shops, prior to the beginning
+31 of each month, the owner of the mobile cosmetic art shop shall provide to the Board a written
+32 monthly itinerary listing locations, dates, and hours of operation for the mobile cosmetic art shop.
+33 …
+34 "§ 88B-18. Examinations.
+35 (a) Repealed by Session Laws 2006-212, s. 2, effective August 8, 2006.
+36 (b) Each examination shall have both a practical and a written portion.
+37 (c) Examinations for applicants for apprentice, cosmetologist, hair designer, teacher,
+38 esthetician, natural hair care specialist, and manicurist licenses and hair braider certifications
+39 shall be given in at least three locations in the State that are geographically scattered. The
+40 examinations shall be administered in Board-approved facilities.
+41 (d) An applicant for a cosmetologist, hair designer, esthetician, manicurist, natural hair
+42 care specialist, or teacher's license license, or a hair braider certification, who fails to pass the
+43 examination three times may not reapply to take the examination again until after the applicant
+44 has successfully completed any additional requirements prescribed by the Board.
+45 "§ 88B-19. Expired school credits.
+46 No credit shall be approved by the Board if five years or more have elapsed from the date a
+47 person enrolled in a cosmetic art school unless the person completed the required number of
+48 hours and filed an application to take an examination administered by the Board.
+49 "§ 88B-20. Fees required.
+50 (a) The Board may charge the applicant the actual cost of preparation, administration,
+51 and grading of examinations for cosmetologists, apprentices, hair designers, manicurists,
+Page 8 Senate Bill 808-Sixth Edition
+
+General Assembly Of North Carolina Session 2025
+1 estheticians, natural hair care specialist, specialists, hair braiders, or teachers, in addition to its
+2 other fees.
+3 (b) The Board may charge application fees as follows:
+4 (1) Inspection of a newly established cosmetic art shop .......................... $ 25.00
+5 (1a) Inspection of a newly established mobile cosmetic art
+6 shop ..................................................................................................... $ 25.00
+7 (2) Reciprocity applicant under G.S. 88B-13 ........................................... $ 15.00.
+8 (c) The Board may charge license and certification fees as follows:
+9 (1) Cosmetologist .................................................................. $ 39.00 every 3 years
+10 (2) Apprentice ............................................................................... $ 10.00 per year
+11 (2a) Hair designer ........................................................................... $ 10.00 per year
+12 (3) Esthetician ............................................................................... $ 10.00 per year
+13 (4) Manicurist ............................................................................... $ 10.00 per year
+14 (4a) Natural hair care specialist ...................................................... $ 10.00 per year
+15 (4b) Hair braider ............................................................................. $ 10.00 per year
+16 (5) Teacher ............................................................................ $ 10.00 every 2 years
+17 (6) Cosmetic art shop per active booth ........................................... $ 3.00 per year
+18 (6a) Mobile cosmetic art shop ........................................................ $ 50.00 per year
+19 (7) Cosmetic art school ................................................................. $ 50.00 per year
+20 (8) Duplicate license ................................................................................... $ 1.00.
+21 (d) The Board may require payment of late fees and reinstatement fees as follows:
+22 (1) Apprentice, cosmetologist, hair designer, esthetician, manicurist, hair braider,
+23 natural hair care specialist, and teacher late renewal .......................... $ 10.00
+24 (2) Cosmetic art schools and shops and mobile cosmetic art
+25 shops late renewal ............................................................................... $ 10.00
+26 (3) Reinstatement – cosmetic art schools and shops and
+27 mobile cosmetic art shops ................................................................... $ 25.00.
+28 (e) The Board may prorate fees as appropriate.
+29 "§ 88B-21. Renewals; expired licenses; inactive status.
+30 (a) Each license to operate a cosmetic art shop or mobile cosmetic art shop shall be
+31 renewed on or before the first day of February of each year. As provided in G.S. 88B-20, a late
+32 fee shall be charged for licenses renewed after February 1. Any license not renewed by March 1
+33 of each year shall expire. A cosmetic art shop or mobile cosmetic art shop whose license has
+34 been expired for one year or less shall have the license reinstated immediately upon payment of
+35 the reinstatement fee, the late fee, and all unpaid license fees. The licensee shall submit to the
+36 Board, as a part of the renewal process, a list of all licensed cosmetologists who practice cosmetic
+37 art in the shop and shall identify each as an employee or a booth renter.
+38 (b) Cosmetologist licenses shall be renewed on or before October 1 every three years
+39 beginning October 1, 1998. A late fee shall be charged for renewals after that date. Any license
+40 not renewed shall expire on October 1 of the year that renewal is required. The Board may
+41 develop and implement a plan for staggered license renewal and may prorate license fees to
+42 implement such a plan.
+43 (c) Apprentice, hair designer, esthetician, natural hair care specialist, and manicurist
+44 licenses and hair braider certifications shall be renewed annually on or before October 1 of each
+45 year. A late fee shall be charged for the renewal of licenses or certifications after that date. Any
+46 license or certification not renewed shall expire on October 1 of that year.
+47 (d) Teacher licenses shall be renewed every two years on or before October 1. A late fee
+48 shall be charged for the renewal of licenses after that date. Any license not renewed shall expire
+49 on October 1 of that year.
+50 (e) Prior to renewal of a license, license or certification, a teacher, cosmetologist, hair
+51 designer, esthetician, natural hair care specialist, hair braider, or manicurist shall annually
+Senate Bill 808-Sixth Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 complete eight four hours of Board-approved continuing education for each year of the licensing
+2 cycle. A cosmetologist may complete up to 24 hours 12 hours of required continuing education
+3 at any time within the cosmetologist's three-year licensing cycle. Licensees shall submit written
+4 documentation to the Board showing that they have satisfied the requirements of this subsection.
+5 A licensee who is in active practice as a cosmetologist, hair designer, esthetician, natural hair
+6 care specialist, or manicurist, has practiced for at least 10 consecutive years in that profession,
+7 and is 60 years of age or older does not have to meet the continuing education requirements of
+8 this subsection. A licensee who is in active practice as a cosmetologist cosmetologist, hair
+9 designer, esthetician, natural hair care specialist, hair braider, or manicurist and has at least 20
+10 consecutive years of experience as a cosmetologist, in that profession, does not have to meet the
+11 continuing education requirements of this subsection, but shall report any continuing education
+12 classes completed to the Board, whether the continuing education classes are Board-approved or
+13 not. Promotion of products and systems shall be allowed at continuing education given in-house
+14 or at trade shows. Continuing education classes may also be offered in secondary languages as
+15 needed. No member of the Board may offer continuing education courses as required by this
+16 section.
+17 (f) If an apprentice, cosmetologist, hair designer, esthetician, manicurist, natural hair care
+18 specialist, hair braider, or teacher fails to renew his or her license or certification within five years
+19 following the expiration date, the licensee shall be required to pass an examination as prescribed
+20 by the Board before the license will be reinstated.
+21 (g) Cosmetic art school licenses shall be renewed on or before October 1 of each year. A
+22 late fee shall be charged for licenses renewed after that date. Any license not renewed by
+23 November 1 of that year shall expire. A cosmetic art school whose license has been expired for
+24 one year or less shall have its license reinstated upon payment of the reinstatement fee, the late
+25 fee, and all unpaid license fees.
+26 (h) Upon request by a licensee for inactive status, the Board may place the licensee's
+27 name on the inactive list so long as the licensee is in good standing with the Board. An inactive
+28 licensee is not required to complete continuing education requirements. An inactive licensee shall
+29 not practice cosmetic art for consideration. However, the inactive licensee may continue to
+30 purchase supplies as accorded an active licensee. When the inactive licensee desires to be
+31 removed from the inactive list and return to active practice, the inactive licensee shall notify the
+32 Board of his or her desire to return to active status and pay the required fee as determined by the
+33 Board. As a condition of returning to active status, the Board may require the licensee to complete
+34 eight to 24 hours of continuing education pursuant to subsection (e) of this section.
+35 "§ 88B-22. Licenses and certifications required; criminal penalty.
+36 (a) Except as provided in this Chapter, no person may practice or attempt to practice
+37 cosmetic art for pay or reward in any form, either directly or indirectly, without being licensed
+38 or certified as an apprentice, cosmetologist, hair designer, esthetician, natural hair care specialist,
+39 hair braider, or manicurist by the Board.
+40 (b) Except as provided in this Chapter, no person may practice cosmetic art or any part
+41 of cosmetic art, for pay or reward in any form, either directly or indirectly, outside of a licensed
+42 cosmetic art shop.shop or mobile cosmetic art shop.
+43 (c) No person may open or operate a cosmetic art shop or mobile cosmetic art shop in
+44 this State unless a license has been issued by the Board for that shop.shop or mobile cosmetic art
+45 shop.
+46 (d) An individual certified or licensed as an esthetician, hair designer, natural hair care
+47 specialist, hair braider, or manicurist may practice only that part of cosmetic art for which the
+48 individual is certified or licensed.
+49 (d1) No person may teach cosmetic art in a Board-approved cosmetic art school unless the
+50 person is a teacher licensed under this Chapter. A guest lecturer may be exempt from the
+51 requirements of this subsection upon approval by the Board.
+Page 10 Senate Bill 808-Sixth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (e) An apprentice licensed under the provisions of this Chapter shall apprentice under the
+2 direct supervision of a cosmetologist. An apprentice shall not operate a cosmetic art shop.
+3 (f) A violation of this Chapter is a Class 3 misdemeanor.
+4 "§ 88B-23. Licenses and certifications to be posted.
+5 (a) Every apprentice, cosmetologist, hair designer, esthetician, manicurist, natural hair
+6 care specialist, hair braider, and teacher licensed or certified under this Chapter shall display the
+7 certificate of license or certification issued by the Board within the shop in which the person
+8 works.
+9 (b) Every certificate of license or certification to operate a cosmetic art shop or shop,
+10 mobile cosmetic art shop, or cosmetic art school shall be conspicuously posted in the shop or
+11 school for which it is issued.
+12 "§ 88B-24. Revocation of licenses and other disciplinary measures.
+13 The Board may restrict, suspend, revoke, or refuse to issue, renew, or reinstate any license
+14 for any of the following:
+15 (1) Conviction of a felony shown by certified copy of the record of the court of
+16 conviction.
+17 (2) Gross malpractice or gross incompetency as determined by the Board.
+18 (3) Advertising by means of knowingly false or deceptive statements.
+19 (4) Permitting any individual to practice cosmetic art without a license license,
+20 certification, or temporary employment permit, with an expired license or
+21 temporary employment permit, or with an invalid license license, certification,
+22 or temporary employment permit.
+23 (5) Obtaining or attempting to obtain a license for money or other thing of value
+24 other than the required fee or by fraudulent misrepresentation.
+25 (6) Practicing or attempting to practice by fraudulent misrepresentation.
+26 (7) Willful failure to display a certificate of license or certification as required by
+27 G.S. 88B-23.
+28 (8) Willful violation of the rules adopted by the Board.
+29 (9) Violation of G.S. 86A-15 G.S. 86B-31 by a cosmetologist, hair designer,
+30 esthetician, natural hair care specialist, hair braider, or manicurist licensed or
+31 certified by the Board and practicing cosmetic art in a barber shop.
+32 "§ 88B-25. Exemptions.
+33 The following persons are exempt from the provisions of this Chapter while engaged in the
+34 proper discharge of their professional duties:
+35 (1) Undertakers and funeral establishments licensed under G.S. 90-210.25.
+36 (2) Persons authorized to practice medicine or surgery under Chapter 90 of the
+37 General Statutes.
+38 (3) Nurses licensed under Chapter 90 of the General Statutes.
+39 (4) Commissioned medical or surgical officers of the United States Army, Air
+40 Force, Navy, Marine Corps, Space Force, or Coast Guard.
+41 (5) A person employed in a cosmetic art shop or mobile cosmetic art shop whose
+42 duties are expressly confined to the shampooing or blow drying of hair,
+43 provided that the person shall comply with rules adopted by the Board relating
+44 to sanitary management of cosmetic art shops.shops and mobile cosmetic art
+45 shops.
+46 (6) A person licensed as a massage and bodywork therapist pursuant to Article 36
+47 of Chapter 90 of the General Statutes only when that person is engaged in the
+48 shampooing, conditioning, or washing of hair.
+49 "§ 88B-26. Rules to be posted.
+50 (a) The Board shall furnish a copy of its rules relating to sanitary management of
+51 cosmetic art shops shops, mobile cosmetic art shops, and cosmetic art schools to each shop shop,
+Senate Bill 808-Sixth Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 mobile cosmetic art shop, and school licensed by the Board. Each shop shop, mobile cosmetic
+2 art shop, and school shall post the rules in a conspicuous place.
+3 (b) The Board shall furnish a copy of its rules relating to curriculum and schools to each
+4 licensed cosmetic art school. Each cosmetic art school shall make these rules available to all
+5 teachers and students.
+6 "§ 88B-27. Inspections.
+7 Any inspector or other authorized representative of the Board may enter any cosmetic art
+8 shop or shop, mobile cosmetic art shop, or cosmetic art school to inspect it for compliance with
+9 this Chapter and the Board's rules. All persons practicing cosmetic art in a shop shop, mobile
+10 cosmetic art shop, or cosmetic art school shall, upon request, present satisfactory proof of
+11 identification. Satisfactory proof shall be in the form of a photographic driver's license or
+12 photographic identification card issued by any state, federal, or other government entity. The
+13 Board may require a cosmetic art shop or shop, mobile cosmetic art shop, or cosmetic art school
+14 to be inspected as a condition for license renewal.
+15 …."
+16 SECTION 2. G.S. 86B-32 reads as rewritten:
+17 "§ 86B-32. Persons exempt from the provisions of this Article.
+18 The following persons are exempt from the provisions of this Article while engaged in the
+19 proper discharge of their duties:
+20 (1) Persons authorized under the laws of the State to practice medicine and
+21 surgery, and those working under their supervision.
+22 (2) Commissioned medical or surgical officers of the United States Army or other
+23 components of the Armed Forces of the United States, and those working
+24 under their supervision.
+25 (3) Registered nurses and licensed practical nurses and those working under their
+26 supervision.
+27 (4) Licensed embalmers and funeral directors and those working under their
+28 supervision.
+29 (5) Persons who are working in licensed cosmetic shops or beauty cosmetic art
+30 schools and are licensed or certified by the State Board of Cosmetic Art
+31 Examiners pursuant to Chapter 88B of the General Statutes.
+32 (6) Persons who are working in barbershops and are licensed or certified by the
+33 State Board of Cosmetic Art Examiners pursuant to Chapter 88B of the
+34 General Statutes, provided that those persons shall comply with G.S. 86B-31.
+35 (7) Inmates under the jurisdiction of the North Carolina Department of Adult
+36 Correction.
+37 (8) Persons who are employed by barbershops and whose duties are expressly
+38 confined to the shampooing or blow drying of hair, provided that the person
+39 shall comply with G.S. 86B-31."
+40 SECTION 3. The North Carolina Board of Barber and Electrolysis Examiners may
+41 adopt rules to implement Section 2 of this act.
+42 SECTION 4. Sections 1 and 2 of this act become effective December 31, 2026. The
+43 remainder of this act is effective when it becomes law.
+Page 12 Senate Bill 808-Sixth Edition

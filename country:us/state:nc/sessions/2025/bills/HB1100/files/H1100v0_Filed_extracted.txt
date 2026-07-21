@@ -1,0 +1,167 @@
+Title: 
+Official Title: 
+Source: versions - Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+H.B. 1100
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 29, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH40677-NGa-125
+Short Title: Construction Support Act. (Public)
+Sponsors: Representative Reives.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ESTABLISH THE COMMUNITY COLLEGE CONSTRUCTION
+3 WORKFORCE PROGRAM AND TO APPROPRIATE FUNDS FOR THAT PURPOSE,
+4 TO CREATE THE CONSTRUCTION MATERIALS PRODUCER INCENTIVE GRANT
+5 PROGRAM AND TO APPROPRIATE FUNDS FOR THAT PURPOSE, TO REQUIRE
+6 THE BUILDING CODE COUNCIL AND THE RESIDENTIAL CODE COUNCIL TO
+7 UPDATE THE NORTH CAROLINA STATE BUILDING CODE TO ALLOW
+8 PORTLAND-LIMESTONE CEMENT AND NATIONALLY RECOGNIZED CEMENT
+9 SUBSTITUTES, AND TO APPROPRIATE FUNDS TO THE DEPARTMENT OF
+10 INFORMATION TECHNOLOGY TO PROVIDE GRANTS TO LOCAL
+11 GOVERNMENTS FOR THE ESTABLISHMENT OF E-PERMITTING SYSTEMS.
+12 Whereas, the General Assembly finds that rises in housing costs stem primarily from
+13 bottlenecks in labor and materials; and
+14 Whereas, the most effective way to reduce housing costs in North Carolina is to
+15 reduce these bottlenecks; and
+16 Whereas, investments in construction training, material production, and permitting
+17 modernization will strengthen North Carolina's economy, enhance housing affordability, and
+18 promote regional equity in growth; Now, therefore,
+19 The General Assembly of North Carolina enacts:
+20
+21 PART I. COMMUNITY COLLEGE CONSTRUCTION WORKFORCE PROGRAM
+22 SECTION 1.(a) Program Established. – There is established the Community College
+23 Construction Workforce Program (Program). The purpose of the Program is to provide funds to
+24 community colleges in the State to establish credentialing programs for high-demand
+25 construction trades. For the purposes of this section, "high-demand construction trades" include
+26 electricians, plumbers, carpenters, roofers, HVAC (heating, ventilation, and air conditioning)
+27 technicians, or other similar trades with skills applicable to and used in the construction of
+28 residential structures.
+29 SECTION 1.(b) Program Funds. – The Community Colleges System Office shall
+30 provide funds to community colleges seeking to establish credentialing programs for
+31 high-demand construction trades. In order to receive funds, a community college must submit a
+32 written request to the Community Colleges System Office detailing the credentialing programs
+33 to be established with the funds and how the funds will be used to establish the credentialing
+34 program. The Community Colleges System Office shall notify the requesting community college
+35 of the approval or denial of the request within 30 days of receipt of the written request.
+*DRH40677-NGa-125*
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.(c) Community College Reporting Requirement. – Each community
+2 college that receives funds shall submit a report to the Community Colleges System Office by
+3 June 30 of each year that funds are received detailing the following:
+4 (1) How funds distributed through the Program were used to establish
+5 high-demand construction trades credentialing programs at the community
+6 college, including which high-demand construction trades credentialing
+7 programs were established.
+8 (2) The number of students achieving credentials for high-demand construction
+9 trades during the most recent academic year compared to the prior academic
+10 year.
+11 (3) Which specific credential programs were established using Program funds.
+12 (4) Any further plans by the community college to establish other high-demand
+13 construction trades.
+14 SECTION 1.(d) Community Colleges System Office Reporting Requirement. – The
+15 Community Colleges System Office shall report to the Joint Legislative Education Oversight
+16 Committee on the results of the Program by October 1, 2027, and each year thereafter that funds
+17 are available for the Program on the following:
+18 (1) The number of community colleges that applied for funds, the number of
+19 community colleges that received funds, and the amount of funds received by
+20 each community college.
+21 (2) The number of high-demand construction trades credentialing programs that
+22 were established, broken down by specific trade credentials.
+23 (3) The total number of high-demand construction trades credentials awarded by
+24 colleges in the Community Colleges System compared to previous years.
+25 (4) Any other information the Community Colleges System Office deems
+26 relevant.
+27 SECTION 1.(e) Appropriation. – There is appropriated from the General Fund to
+28 the Community Colleges System Office the sum of two hundred million dollars ($200,000,000)
+29 in nonrecurring funds for the 2026-2027 fiscal year to be used for the purposes of this section.
+30 The Community Colleges System Office may use up to ten percent (10%) of the funds
+31 appropriated pursuant to this section to administer the Program and promote the Program to the
+32 public. Funds appropriated pursuant to this section shall not revert but shall remain available
+33 until expended.
+34
+35 PART II. CONSTRUCTION MATERIALS PRODUCER INCENTIVE GRANT
+36 PROGRAM
+37 SECTION 2.(a) Appropriation. – There is appropriated from the General Fund to
+38 the Department of Commerce (Department) the nonrecurring sum of one hundred million dollars
+39 ($100,000,000) for the 2026-2027 fiscal year to be allocated to, and used for purposes consistent
+40 with, the Construction Materials Producer Incentive Grant Program created by subsection (b) of
+41 this section.
+42 SECTION 2.(b) Construction Materials Producer Incentive Grant Program. – The
+43 Department shall administer a grant program using funds allocated in subsection (a) of this
+44 section to provide grants to producers of construction materials to incentivize investment in
+45 production capacity for construction materials. For purposes of this section, "construction
+46 materials" include lumber, engineered wood, concrete, cement substitutes, HVAC (heating,
+47 ventilation, and air conditioning) components, windows, doors, and any other material,
+48 component, or system assembly that is a standard item used in the construction of buildings or
+49 infrastructure. Grants under the program shall be subject to the following conditions, which shall
+50 be in addition to any conditions imposed by rules created by the Department pursuant to
+51 subsection (c) of this section:
+Page 2 DRH40677-NGa-125
+
+General Assembly Of North Carolina Session 2025
+1 (1) The maximum award amount under the program, per producer of construction
+2 materials, shall not exceed five million dollars ($5,000,000).
+3 (2) Grants from the program shall only be awarded to producers of construction
+4 materials that (i) invest a minimum of ten million dollars ($10,000,000) in the
+5 State and (ii) create an average of 250 FTE jobs during the "grant period." For
+6 purposes of this subdivision, a "grant period" is a period of time, not to exceed
+7 five years, during which producers of construction materials are eligible to
+8 receive grants under the program.
+9 SECTION 2.(c) Rules; Report. – The Department shall adopt rules to implement the
+10 grant program created by this section. Beginning September 15, 2026, and continuing annually
+11 thereafter until all funds have been awarded, the Department shall submit a report on the grant
+12 program to the Joint Legislative Economic Development and Global Engagement Oversight
+13 Committee and the Fiscal Research Division.
+14 SECTION 2.(d) Effective Date. – This section becomes effective July 1, 2026.
+15
+16 PART III. CONSTRUCTION MATERIALS REGULATIONS
+17 SECTION 3.(a) Definitions. – For purposes of this section, the following definitions
+18 apply:
+19 (1) Nationally recognized cement substitute. – A cementitious material used as a
+20 partial replacement for portland cement that conforms to a standard
+21 promulgated by ASTM International, the American Association of State
+22 Highway and Transportation Officials (AASHTO), or another nationally
+23 recognized consensus standards organization.
+24 (2) Portland-limestone cement. – Portland-limestone cement conforming to
+25 ASTM C595/C595M, Type IL.
+26 SECTION 3.(b) Code Amendments Required. – To implement this section, the
+27 following shall apply:
+28 (1) The Building Code Council shall, in accordance with G.S. 143-138(a) and
+29 G.S. 143-138(d), amend those parts of the North Carolina State Building Code
+30 volumes specified in subdivisions (1) through (9) of G.S. 143-138(a) that
+31 apply to commercial and multifamily construction to explicitly allow the use
+32 of portland-limestone cement and nationally recognized cement substitutes,
+33 as defined in subsection (a) of this section, in construction regulated by those
+34 parts of the Code.
+35 (2) The Residential Code Council shall, in accordance with G.S. 143-138(a) and
+36 G.S. 143-138(d), amend those parts of the North Carolina State Building Code
+37 volumes specified in subdivisions (1) through (10) of G.S. 143-138(a) that
+38 apply to residential construction to explicitly allow the use of
+39 portland-limestone cement and nationally recognized cement substitutes, as
+40 defined in subsection (a) of this section, in construction regulated by those
+41 parts of the Code.
+42 SECTION 3.(c) Effective Date. – This section is effective when it becomes law.
+43
+44 PART IV. E-PERMITTING GRANT FUNDS
+45 SECTION 4.(a) Appropriation. – There is appropriated from the General Fund to
+46 the Department of Information Technology the sum of twenty million dollars ($20,000,000) in
+47 nonrecurring funds for the 2026-2027 fiscal year to be provided in the form of grants to local
+48 governments in this State for the purpose of establishing e-permitting systems.
+49 SECTION 4.(b) Effective Date. – This section becomes effective July 1, 2026.
+50
+51 PART V. EFFECTIVE DATE
+DRH40677-NGa-125 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 5. Effective Date. – Except as otherwise provided, this act is effective
+2 when it becomes law.
+Page 4 DRH40677-NGa-125

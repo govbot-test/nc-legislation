@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 1053
+Short Title: Child Care Licensing Penalty Reform. (Public)
+Sponsors: Senators Chaudhuri and Burgin (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REDUCE THE SEVERITY OF THE FELONY LEVEL AND GRANT
+3 PROSECUTORIAL DISCRETION IN CHILD CARE LICENSING VIOLATIONS.
+4 Whereas, the current Class I felony classification under G.S. 110-103(b) for child care
+5 facility licensing violations may create disproportionate consequences relative to the underlying
+6 conduct when no injury to children has occurred; and
+7 Whereas, providing prosecutors and courts with discretion to impose penalties
+8 proportionate to the nature and severity of a violation will ensure more just and flexible
+9 enforcement while preserving deterrence; and
+10 Whereas, reducing the felony grade to a Class A1 misdemeanor for base violations,
+11 while retaining felony exposure for willful and repeated violations involving multiple children,
+12 strikes an appropriate balance between public safety and proportionate punishment; Now,
+13 therefore,
+14 The General Assembly of North Carolina enacts:
+15 SECTION 1. G.S. 110-103 reads as rewritten:
+16 "§ 110-103. Criminal penalty.
+17 …
+18 (b) It shall be a Class I felony for anyAny person who operates a child care facility to:
+19 (1) Willfully violateand (i) willfully violates the provisions of G.S. 110-99(a), or
+20 (2) Willfully violate(ii) willfully violates the provisions of this Article while
+21 providing child care for three or more children, for more than four hours per
+22 day on two consecutive days.days, shall be subject to the following criminal
+23 penalties:
+24 (1) For a first offense under this subsection, the person shall be guilty of a Class
+25 A1 misdemeanor.
+26 (2) For a second or subsequent offense under this subsection, or where the
+27 violation poses a substantial risk of harm to a child, the district attorney, in the
+28 exercise of prosecutorial discretion, may charge the violation as a Class I
+29 felony. In exercising this discretion, the district attorney shall consider the
+30 nature and circumstances of the violation, the number of children placed at
+31 risk, the history of prior violations, and whether the operator took prompt
+32 corrective action.
+33 (b1) Nothing in subsection (b) of this section limits the authority of the Department to
+34 pursue civil or administrative remedies concurrently with or in lieu of criminal prosecution.
+35 …."
+*S1053-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.(a) There is appropriated from the General Fund to the Department of
+2 Health and Human Services, Division of Child Development and Early Education, the sum of
+3 fifty thousand dollars ($50,000) in nonrecurring funds for the 2025-2026 fiscal year to implement
+4 the following:
+5 (1) Update enforcement protocols, internal policy guidance, and staff training
+6 materials to reflect the revised criminal penalty structure under
+7 G.S. 110-103(b), as enacted by this act, including the reclassification of first
+8 offenses as Class A1 misdemeanors and the criteria applicable to Class I
+9 felony charging decisions for second or subsequent offenses.
+10 (2) Develop and disseminate guidance to child care facility operators and the
+11 public regarding the revised penalty structure, including the factors a district
+12 attorney may consider in exercising prosecutorial discretion under
+13 G.S. 110-103(b)(2), as enacted by Section 1 of this act.
+14 (3) Coordinate with the Department of Justice and the Administrative Office of
+15 the Courts to ensure consistent implementation of the revised penalty
+16 structure.
+17 SECTION 2.(b) There is appropriated from the General Fund to the Administrative
+18 Office of the Courts the sum of twenty-five thousand dollars ($25,000) in nonrecurring funds for
+19 the 2025-2026 fiscal year to implement the following:
+20 (1) Update charging instruments, case management systems, and related forms to
+21 reflect the revised classification of offenses under G.S. 110-103(b), as enacted
+22 by Section 1 of this act.
+23 (2) Provide notice and guidance to district attorneys, clerks of superior court, and
+24 other relevant court personnel regarding the revised penalty structure, the
+25 discretionary felony charging criteria, and the effective date of this act.
+26 SECTION 3. This act is effective when it becomes law and applies to violations
+27 occurring on or after that date. This act does not affect the prosecution or punishment of a person
+28 for an offense committed before the effective date of this act.
+Page 2 Senate Bill 1053-First Edition

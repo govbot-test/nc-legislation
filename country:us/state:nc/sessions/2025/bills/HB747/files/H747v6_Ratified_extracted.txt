@@ -1,0 +1,258 @@
+Title: 
+Official Title: 
+Source: versions - Ratified
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+HOUSE BILL 747
+RATIFIED BILL
+AN ACT TO MAKE VARIOUS CHANGES TO THE WILDLIFE LAWS.
+The General Assembly of North Carolina enacts:
+CONFIDENTIALITY OF WILDLIFE RESOURCE INFORMATION
+SECTION 1. G.S. 143-254.5 reads as rewritten:
+"§ 143-254.5. Disclosure of personal identifying and sensitive wildlife resource information.
+(a) Social security numbers and identifying information obtained by the Commission
+shall be treated as provided in G.S. 132-1.10. For purposes of this section, "identifying
+information" also includes a person's mailing address, residence address, email address,
+Commission-issued customer identification number, date of birth, information subject to
+G.S. 106-24.1 transferred to the Commission from the Department of Agriculture and Consumer
+Services, and telephone number.
+(b) Records that contain site-specific information regarding the occurrence of rare species
+of plants or animals specified in the current North Carolina Wildlife Action Plan, or the location
+of sensitive habitats, are confidential and exempt from disclosure under Chapter 132 of the
+General Statutes when the Executive Director finds that disclosure will create a risk of harm,
+theft, or destruction to the species or habitats or the area where the species or habitats are located.
+This subsection does not apply to a request for release of records requested by the owner of record
+of land where such species, habitats, or areas are located."
+AUTHORIZE THE DIVISION OF MOTOR VEHICLES TO ISSUE LIFETIME
+CONSERVATIONIST AND WILDLIFE RESOURCES REGISTRATION PLATES
+SECTION 2.(a) G.S. 20-63(b1) is amended by adding a new subdivision to read:
+"(61) Wildlife Resources."
+SECTION 2.(b) G.S. 20-79.4(b) reads as rewritten:
+"(b) Types. – The Division shall issue the following types of special registration plates:
+…
+() Lifetime Conservationist. – Issuable to the registered owner of a motor vehicle
+in accordance with G.S. 20-81.12. The plate shall bear the "North Carolina
+Lifetime Conservationist" logo of the North Carolina Wildlife Resources
+Commission.
+…
+(267) Wildlife Resources. – Issuable to the registered owner of a motor vehicle in
+accordance with G.S. 20-81.12. The plate shall bear the phrase "Wildlife
+Resources Commission" with a picture in the background representing a
+native wildlife species occurring in North Carolina. The plate authorized by
+this subdivision is not subject to the provisions of G.S. 20-79.3A or
+G.S. 20-79.8.
+…."
+SECTION 2.(c) G.S. 20-79.7 reads as rewritten:
+"§ 20-79.7. Fees for special registration plates and distribution of the fees.
+*H747-v-6*
+
+…
+(a1) Fees. – All other special registration plates are subject to the regular motor vehicle
+registration fee in G.S. 20-87 or G.S. 20-88 plus an additional fee in the following amount:
+Special Plate Additional Fee Amount
+…
+Kick Cancer for Kids $30.00
+Lifetime Conservationist $30.00
+Maggie Valley Trout Festival Expired July 1, 2016
+…
+(b) Distribution of Fees. – The Special Registration Plate Account and the Collegiate and
+Cultural Attraction Plate Account are established within the Highway Fund. The Division must
+credit the additional fee imposed for the special registration plates listed in subsection (a1) of this
+section among the Special Registration Plate Account (SRPA), the Collegiate and Cultural
+Attraction Plate Account (CCAPA), the North Carolina Land and Water Fund (NCLWF) which
+is established under G.S. 143B-135.234, and the Parks and Recreation Trust Fund, which is
+established under G.S. 143B-135.56, as follows:
+Special Plate SRPA CCAPA NCLWF PRTF
+…
+Leukemia & Lymphoma Society
+– Expired July 1, 2016
+Lifetime Conservationist $10 $20 0 0
+Litter Prevention $10 $10 0 0
+…
+Native American $10 $10 0 0
+Native Brook Trout $10 $20 0 0
+NC Agribusiness – Expired July
+1, 2016
+…."
+SECTION 2.(d) G.S. 20-81.12 reads as rewritten:
+"§ 20-81.12. Collegiate insignia plates and certain other special plates.
+…
+() Lifetime Conservationist. – The Division must transfer quarterly the money in the
+Collegiate and Cultural Attraction Account derived from the sale of Lifetime Conservationist
+plates to the Wildlife Resources Fund established in G.S. 143-250.
+…
+(b163) Wildlife Resources Plates. Resources. – The Division must receive 300 or more
+applications for a wildlife resources plate with a picture representing a particular native wildlife
+species occurring in North Carolina before the plate may be developed. The Division must
+transfer quarterly the money in the Collegiate and Cultural Attraction Plate Account derived from
+the sale of wildlife resources plates to the Wildlife Conservation Account established by
+G.S. 143-247.2.
+…."
+SECTION 2.(e) The Revisor of Statutes is authorized to alphabetize, number, and
+renumber the special registration plates listed in G.S. 20-63(b1), 20-79.4(b), 20-79.7(a1) and (b),
+and 20-81.12 to ensure that all special registration plates are listed in alphabetical order and
+numbered accordingly.
+SECTION 2.(f) This section becomes effective October 1, 2026.
+RECREATIONAL BOATING SAFETY CONFORMING PROGRAM CHANGES
+Page 2 House Bill 747-Ratified
+
+SECTION 3.(a) G.S. 75A-5 reads as rewritten:
+"§ 75A-5. Application for certificate of number; fees; reciprocity; change of ownership;
+conformity with federal regulations; records; award of certificates; renewal of
+certificates; transfer of partial interest; destroyed or junked vessels;
+abandonment; change of address; duplicate certificates; display.
+…
+(b) Reciprocity. – The owner of any vessel already covered by a number in full force and
+effect pursuant to federal law or a federally approved numbering system of another state shall
+record the identification number prior to operating the vessel on the waters of this State in excess
+of the 90-day 60-day reciprocity period provided for in G.S. 75A-7(a)(1). The recordation shall
+be made pursuant to subsection (a) of this section, except that no additional or substitute
+identification number shall be issued.
+…."
+SECTION 3.(b) G.S. 75A-7(a) reads as rewritten:
+"(a) A vessel shall not be required to be numbered under this Chapter if it is:
+(1) A vessel that is required to be awarded an identification number pursuant to
+federal law or a federally approved numbering system of another state, and
+for which an identification number has been so awarded: Provided, that any
+such vessel shall not have been within this State for a period in excess of 90
+60 consecutive days.
+…."
+SECTION 3.(c) G.S. 75A-6.1(a) reads as rewritten:
+"(a) Every vessel operated on the waters of this State that is required to obtain an
+identification number pursuant to this Chapter, has a valid marine document issued by the federal
+Bureau of Customs or any federal agency successor to it, or issued pursuant to a federally
+approved numbering system of another state shall comply with the navigation rules, including
+requirements for navigational lights, sound-signaling devices, and other equipment, contained in
+the Inland Navigational Rules Act of 1980, codified as amended at 33 U.S.C. §§ 2001-2038,
+2071-2073 (1993) and rules adopted pursuant thereto, see 33 C.F.R. Part 84 (1992)."
+SECTION 3.(d) G.S. 75A-13.3 reads as rewritten:
+"§ 75A-13.3. Personal watercraft.
+…
+(d) No person shall operate a personal watercraft on the waters of this State, nor shall the
+owner of a personal watercraft knowingly allow another person to operate that personal
+watercraft on the waters of this State, unless:
+(1) Each person riding on or being towed behind the vessel is wearing a personal
+flotation device approved by the United States Coast Guard. Inflatable
+personal flotation devices do not satisfy this requirement; and
+(2) In the case of a personal watercraft equipped by the manufacturer with a
+lanyard-type an engine cut-off switch, the lanyard is securely attached to the
+person, clothing, or flotation device of the operator at all times while the
+personal watercraft is being operated in such a manner to turn off the engine
+if the operator dismounts while the watercraft is in operation.the engine
+cut-off switch is being used while the vessel is operating on plane or above
+displacement speed.
+…
+(e) A personal watercraft must at all times be operated in a reasonable and prudent
+manner. Maneuvers that endanger life, limb, or property shall constitute reckless operation of a
+vessel as provided in G.S. 75A-10, and include any of the following:
+(1) Unreasonably or unnecessarily weaving through congested vessel traffic.
+House Bill 747-Ratified Page 3
+
+(2) Jumping the wake of another vessel within 100 feet of the other vessel or when
+visibility around the other vessel is obstructed.
+(3) Intentionally approaching another vessel in order to swerve at the last possible
+moment to avoid collision.
+(4) Repealed by Session Laws 2000-52, s. 2.
+(5) Operating contrary to the "rules of the road" navigation rules or following too
+closely to another vessel, including another personal watercraft. For purposes
+of this subdivision, "following too closely" means proceeding in the same
+direction and operating at a speed in excess of 10 miles per hour when
+approaching within 100 feet to the rear or 50 feet to the side of another vessel
+that is underway unless that vessel is operating in a narrow channel, in which
+case a personal watercraft may operate at the speed and flow of other vessel
+traffic.
+…."
+SECTION 3.(e) This section becomes effective October 1, 2026. Prosecutions for
+offenses committed before the effective date of this act are not abated or affected by this act, and
+the statutes that would be applicable but for this act remain applicable to those prosecutions.
+ALLOW THE WILDLIFE RESOURCES COMMISSION TO ISSUE ELK PERMITS BY
+RAFFLE AND AUCTION
+SECTION 4.(a) Directive to Commission. – The Wildlife Resources Commission
+shall issue one resident Elk Permit by raffle and one Elk Permit by auction as provided in this
+section. These permits shall be issued for the 2027 hunting season, pursuant to rules adopted by
+the Commission. Any elk taken shall be reported and presented to Commission staff pursuant to
+the conditions of the permit issued. An Elk Permit obtained by raffle or auction is nontransferable
+and may not be resold or reassigned.
+SECTION 4.(b) Raffle. – The Commission shall conduct a raffle for one resident
+Elk Permit. Raffle tickets will be twenty dollars ($20.00) per ticket or a maximum of 30 raffle
+tickets for five hundred dollars ($500.00). Purchasers of raffle tickets must either have a valid
+North Carolina hunting license or be licensed exempt as provided in G.S. 113-276 at the time of
+purchase. The Commission may retain from the proceeds of the raffle the actual costs of
+administering the raffle for a resident Elk Permit, not to exceed twenty-five thousand dollars
+($25,000). The Commission shall deposit the remaining proceeds from the raffle in the Wildlife
+Resources Fund created under G.S. 143-250 to be used for the conservation and management of
+elk.
+SECTION 4.(c) Auction. – Notwithstanding Article 3 of Chapter 143 of the General
+Statutes or any other provision of law pertaining to public contracting, the Commission shall
+select one nonprofit wildlife conservation organization to conduct an auction for one Elk Permit.
+The nonprofit wildlife conservation organization selected by the Commission pursuant to this
+section must have been involved in the reintroduction of elk into North Carolina. The nonprofit
+wildlife conservation organization shall retain no more than twenty-five percent (25%) of the
+proceeds of the auction for an Elk Permit. The Commission shall deposit the remaining proceeds
+from the auction in the Wildlife Resources Fund created under G.S. 143-250 to be used for the
+conservation and management of elk.
+SECTION 4.(d) Continuing Authority. – For hunting seasons after the 2027 hunting
+season, the Commission, based on its evaluation of its elk management goals, may raffle off one
+or more Elk Permits and select one nonprofit wildlife conservation organization to conduct an
+auction for one Elk Permit in the manner described in subsections (b) and (c) of this section. The
+following restrictions apply to those future hunting season activities:
+(1) The Commission must conduct an Elk Permit raffle for one or more Elk
+Permits if it conducts an Elk Permit auction.
+Page 4 House Bill 747-Ratified
+
+(2) The Commission shall reserve fifty percent (50%) of all Elk Permits made
+available via raffle for residents of the State of North Carolina.
+SECTION 4.(e) Funds Supplemental. – It is the intent of the General Assembly that
+receipts generated by the activities authorized by this act supplement, rather than replace, other
+funds budgeted for management of elk.
+SECTION 4.(f) Report. – No later than March 1, 2028, and every year thereafter in
+which the Commission conducts Elk Permit raffles and auctions, the Commission shall submit
+to the House Wildlife Resources Committee; the Senate Agriculture, Energy, and Environment
+Committee; and the Fiscal Research Division a report on the effectiveness of the auction and
+raffle programs, including the amount of money raised, recommendations as to whether to
+continue the programs, and, if so, legislative recommendations to improve the programs.
+SECTION 5. Conforming Change. – G.S. 113-129(7c) reads as rewritten:
+"(7c) Game Animals. – Bear, elk, fox, rabbit, squirrel, white-tailed deer, and, except
+when trapped in accordance with provisions relating to fur-bearing animals,
+bobcat, opossum, and raccoon."
+SECTION 6. Conforming Change. – G.S. 113-291.8 reads as rewritten:
+"§ 113-291.8. Requirement to display hunter orange.
+(a) Any person hunting game animals other than foxes, bobcats, raccoons, and opossum,
+or hunting upland game birds other than wild turkeys, or hunting feral swine, with the use of
+firearms, must wear a cap or hat on his head made of hunter orange material or an outer garment
+of hunter orange visible from all sides. Any person hunting deer during a deer firearms season or
+elk during an open elk season shall wear hunter orange. orange in a manner that is visible from
+all directions. Hunter orange material is a material that is a daylight fluorescent orange color.
+This section does not apply to a landholder, his spouse, or children, who are hunting on land
+held by the landholder. This subsection shall be enforced by warning ticket only until October 1,
+1992, with respect to those hunting rabbit, squirrel, grouse, pheasant, and quail.
+(b) Any person violating this section during the 1987 big game hunting season shall be
+given a warning of violation only. Thereafter, any Any person violating this section has
+committed an infraction and shall pay a fine of twenty-five dollars ($25.00). An infraction is an
+unlawful act that is not a crime. The procedure for charging and trying an infraction is the same
+as for a misdemeanor, but conviction of an infraction has no consequence other than payment of
+a fine. A person convicted of an infraction may not be assessed court costs.
+Wildlife Enforcement Officers are authorized to charge persons with the infraction created
+by this section.
+(c) Failure to wear hunter orange material in violation of this section shall not constitute
+negligence per se or contributory negligence per se."
+House Bill 747-Ratified Page 5
+
+EFFECTIVE DATE
+SECTION 7. Except as otherwise provided, this act is effective when it becomes
+law.
+In the General Assembly read three times and ratified this the 2nd day of July, 2026.
+s/ Rachel Hunt
+President of the Senate
+s/ Destin Hall
+Speaker of the House of Representatives
+_____________________________________
+Josh Stein
+Governor
+Approved __________.m. this ______________ day of ___________________, 2026
+Page 6 House Bill 747-Ratified

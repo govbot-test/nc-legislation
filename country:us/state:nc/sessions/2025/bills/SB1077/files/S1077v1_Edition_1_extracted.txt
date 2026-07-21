@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 1077
+Short Title: City of New Bern Even-Year Elections. (Local)
+Sponsors: Senator Brinson (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+May 6, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO CHANGE THE TIMING AND MANNER OF REGULAR MUNICIPAL
+3 ELECTIONS FOR THE CITY OF NEW BERN.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Section 3.1 of the Charter of the City of New Bern, being S.L. 2016-41,
+6 reads as rewritten:
+7 "Section 3.1. Method of election. Regular municipal elections shall be held in the City every
+8 four years in odd-numbered even-numbered years, and shall be conducted in accordance with
+9 general laws of the State governing municipal elections. The Mayor and members of the Board
+10 of Aldermen shall be elected according to the nonpartisan election and runoff plurality method,
+11 as provided in G.S. 163-293.G.S. 163-292. In the event of a vacancy on the Board of Aldermen,
+12 a special election shall take place if the vacancy is not filled within 90 days of the beginning of
+13 the vacancy. This special election shall be conducted pursuant to the Charter of the City of New
+14 Bern and G.S. 163-287. The final date that an appointment may be made by the Board of
+15 Aldermen to fill the vacancy is 12 o'clock noon local time on the first day of candidate filing for
+16 the next available election, as set by Chapter 163 of the General Statutes, provided that the first
+17 day of candidate filing for the next available election is not less than 90 days from the beginning
+18 of the vacancy. If no appointment is made by the Board of Aldermen to fill the vacancy before
+19 the deadline set by Chapter 163 of the General Statutes, the vacancy shall be filled by the
+20 candidate receiving the highest number of votes in the special election. A special election shall
+21 not be required if the date on which it would be held is the same date as the regular municipal
+22 election."
+23 SECTION 2. No municipal elections shall be conducted in the City of New Bern in
+24 2029. The terms of office of the mayor and all aldermen set to expire in 2029 shall be extended
+25 by one year, and regular municipal elections shall be conducted in 2030 and every four years
+26 thereafter.
+27 SECTION 3. This act is effective when it becomes law and applies beginning with
+28 elections held on or after January 1, 2030.
+*S1077-v-1*

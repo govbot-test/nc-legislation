@@ -1,0 +1,408 @@
+Title: 
+Official Title: 
+Source: versions - Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+H.B. 1092
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 29, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH30558-NIfa-155
+Short Title: Reform NC Property Tax. (Public)
+Sponsors: Representative Ager.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AMEND THE CONSTITUTION OF NORTH CAROLINA TO ALLOW
+3 PROPERTY TAX EXEMPTIONS BASED UPON AREA MEDIAN INCOME; TO
+4 MODIFY THE PROPERTY TAX HOMESTEAD CIRCUIT BREAKER; TO UPDATE
+5 AND MODIFY THE NONPROFIT LOW- OR MODERATE-INCOME HOUSING
+6 PROPERTY TAX EXEMPTION; AND TO PROVIDE GRANT FUNDING TO THE
+7 NORTH CAROLINA ASSOCIATION OF COUNTY COMMISSIONERS TO SUPPORT
+8 MORE FREQUENT PROPERTY REAPPRAISALS.
+9 The General Assembly of North Carolina enacts:
+10
+11 AREA MEDIAN INCOME CONSTITUTIONAL AMENDMENT
+12 SECTION 1.(a) Section 2 of Article V of the North Carolina Constitution reads as
+13 rewritten:
+14 "Sec. 2. State and local taxation.
+15 …
+16 (3) Exemptions. Property belonging to the State, counties, and municipal corporations
+17 shall be exempt from taxation. The General Assembly may exempt cemeteries and property held
+18 for educational, scientific, literary, cultural, charitable, or religious purposes, and, to a value not
+19 exceeding $300, any personal property. The General Assembly may exempt from taxation not
+20 exceeding $1,000 in value of property held and used as the place of residence of the owner. Every
+21 exemption shall be on a State-wide basis and shall be made by general law uniformly applicable
+22 in every county, city and town, and other unit of local government. No taxing authority other
+23 than the General Assembly may grant exemptions, and the General Assembly shall not delegate
+24 the powers accorded to it by this subsection. The General Assembly may use area median income
+25 as a criterion for affording property tax relief on a statewide basis by a general law uniformly
+26 applicable in every county, city and town, and other unit of local government.
+27 …."
+28 SECTION 1.(b) The amendment set out in subsection (a) of this section shall be
+29 submitted to the qualified voters of the State at a statewide general election to be held on
+30 November 3, 2026, which election shall be conducted under the laws then governing elections in
+31 the State. The question to be used in the voting systems and ballots shall be:
+32 "[ ] FOR [ ] AGAINST
+33 Constitutional amendment to allow the General Assembly to use area median income
+34 as a criterion for affording property tax relief on a statewide basis."
+35 SECTION 1.(c) The State Board of Elections shall certify the results of the
+36 referendum conducted under subsection (b) of this section. If a majority of votes cast on the
+*DRH30558-NIfa-155*
+
+General Assembly Of North Carolina Session 2025
+1 question are in favor of the amendment set out in subsection (a) of this section, the Secretary of
+2 State shall enroll the amendment among the permanent records of that office. If a majority of
+3 votes cast on the question are against the amendment set out in subsection (a) of this section, the
+4 amendment shall have no effect.
+5 SECTION 1.(d) If the certification from the State Board of Elections under
+6 subsection (c) of this section reflects that a majority of votes cast on the question are in favor of
+7 the amendment set out in subsection (a) of this section, the amendment set out in subsection (a)
+8 of this section is effective upon certification.
+9
+10 PROPERTY TAX HOMESTEAD CIRCUIT BREAKER MODIFICATIONS
+11 SECTION 2. G.S. 105-277.1B reads as rewritten:
+12 "§ 105-277.1B. Property tax homestead circuit breaker.
+13 (a) Classification. – A permanent residence owned and occupied by a qualifying owner
+14 is designated a special class of property under Article V, Section 2(2) of the North Carolina
+15 Constitution and is taxable in accordance with this section.
+16 (b) Definitions. – The definitions provided in G.S. 105-277.1 apply to this section.
+17 (c) Income Eligibility Limit. – The income eligibility limit provided in G.S.
+18 105-277.1(a2) applies to this section.is equal to (i) one hundred percent (100%) of the area
+19 median income of the county in which the permanent residence is located for a non-married
+20 qualifying owner and (ii) one hundred fifteen percent (115%) of the area median income of the
+21 county in which the permanent residence is located for a married qualifying owner.
+22 (d) Qualifying Owner. – For the purpose of qualifying for the property tax homestead
+23 circuit breaker under this section, a qualifying owner is an owner who meets all of the following
+24 requirements as of January 1 preceding the taxable year for which the benefit is claimed:
+25 (1) The owner has an income for the preceding calendar year of not more than
+26 one hundred fifty percent (150%) of the income eligibility limit specified in
+27 subsection (c) of this section.
+28 (2) The owner has owned the property as a permanent residence for at least five
+29 consecutive years and has occupied the property as a permanent residence for
+30 at least five years.
+31 (3) The owner is at least 65 years of age or totally and permanently disabled.
+32 (4) The owner is a North Carolina resident.
+33 (e) Multiple Owners. – A permanent residence owned and occupied by husband and wife
+34 is entitled to the full benefit of the property tax homestead circuit breaker notwithstanding that
+35 only one of them meets the length of occupancy and ownership requirements and the age or
+36 disability requirement of this section. When a permanent residence is owned and occupied by
+37 two or more persons other than husband and wife, no property tax homestead circuit breaker is
+38 allowed unless all of the owners qualify and elect to defer taxes under this section.
+39 (f) Tax Limitation. – A qualifying owner may defer the portion a proportional amount of
+40 the principal amount of tax that is imposed for the current tax year on his or her permanent
+41 residence and exceeds the percentage of the qualifying owner's income set out in the table in this
+42 subsection. If a permanent residence is subject to tax by more than one taxing unit and the total
+43 tax liability exceeds the tax limit imposed by this section, then both the taxes due under this
+44 section and the taxes deferred under this section must be apportioned among the taxing units
+45 based upon the ratio each taxing unit's tax rate bears to the total tax rate of all units.
+46 Income Over Income Up To Percentage
+47 -0- Income Eligibility Limit 4.0%
+48 Income Eligibility Limit 150% of Income Eligibility Limit5.0%that is equal to the
+49 proportional amount of the homestead's appraised value that does not exceed the county
+50 median appraised value of the owner-occupied residential property.
+Page 2 DRH30558-NIfa-155
+
+General Assembly Of North Carolina Session 2025
+1 (g) Temporary Absence. – An otherwise qualifying owner does not lose the benefit of
+2 this circuit breaker because of a temporary absence from his or her permanent residence for
+3 reasons of health, or because of an extended absence while confined to a rest home or nursing
+4 home, so long as the residence is unoccupied or occupied by the owner's spouse or other
+5 dependent.
+6 (h) Deferred Taxes. – The difference between the taxes due under this section and the
+7 taxes that would have been payable in the absence of this section are a lien on the real property
+8 of the taxpayer as provided in G.S. 105-355(a). G.S. 105-355(a); provided, however, liens
+9 remaining after (i) a qualifying owner's death or (ii) the devise of the property to a member of
+10 the owner's family, as defined in subdivision (i)(1) of this section, shall be deemed satisfied and
+11 no deferred taxes shall be due thereon. The difference in taxes must be carried forward in the
+12 records of each taxing unit as deferred taxes. The deferred taxes for the preceding three fiscal
+13 years are due and payable in accordance with G.S. 105-277.1F when the property loses its
+14 eligibility for deferral as a result of a disqualifying event described in subsection (i) of this
+15 section. On or before September 1 of each year, the collector must send to the mailing address of
+16 a residence on which taxes have been deferred a notice stating the amount of deferred taxes and
+17 interest that would be due and payable upon the occurrence of a disqualifying event.
+18 (i) Disqualifying Events. – Each of the following constitutes a disqualifying event:
+19 (1) The owner transfers the residence. Transfer of the residence is not a
+20 disqualifying event if (i) the owner transfers the residence to a co-owner of
+21 the residence or, as part of a divorce proceeding, to his or her spouse and (ii)
+22 that individual occupies or continues to occupy the property as his or her
+23 permanent residence.residence or (ii) the owner transfers the residence to a
+24 member of the owner's family and the person to whom the residence was
+25 transferred satisfies the income eligibility limit provided by this section. For
+26 purposes of this subdivision, "family" means the owner's, or the owner's
+27 spouse's lineal descendant, lineal ascendant, or sibling, and the spouse of any
+28 of these individuals.
+29 (2) The owner dies. Death of the owner is not a disqualifying event if (i) the
+30 owner's share passes to a co-owner of the residence or to his or her spouse and
+31 (ii) that individual occupies or continues to occupy the property as his or her
+32 permanent residence.
+33 (3) The owner ceases to use the property as a permanent residence.
+34 …."
+35
+36 NONPROFIT OWNERSHIP REQUIREMENTS FOR PROPERTY TAX EXEMPTION
+37 SECTION 3.(a) G.S. 105-278.6 reads as rewritten:
+38 "§ 105-278.6. Real and personal property used for charitable purposes.purposes by certain
+39 entities.
+40 (a) Real and personal property owned by:by an entity listed in this subsection is exempt
+41 from taxation if (i) as to real property, it is actually and exclusively occupied and used, and as to
+42 personal property, it is entirely and completely used, by the owner for a charitable purpose; and
+43 (ii) the owner is not organized or operated for profit. The entities are:
+44 (1) A Young Men's Christian Association or similar organization;organization.
+45 (2) A home for the aged, sick, or infirm;infirm.
+46 (3) An orphanage or similar home;home.
+47 (4) A Society for the Prevention of Cruelty to Animals;Animals.
+48 (5) A reformatory or correctional institution;institution.
+49 (6) A monastery, convent, or nunnery;nunnery.
+50 (7) A nonprofit, life-saving, first aid, or rescue squad organization;organization.
+DRH30558-NIfa-155 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (8) A nonprofit organization providing housing for individuals or families with
+2 low or moderate incomesincomes, other than rental housing, which is subject
+3 to G.S. 105-278.7A.
+4 shall be exempted from taxation if: (i) As to real property, it is actually and exclusively occupied
+5 and used, and as to personal property, it is entirely and completely used, by the owner for
+6 charitable purposes; and (ii) the owner is not organized or operated for profit.
+7 (b) A charitable purpose within the meaning of this section is one that has humane and
+8 philanthropic objectives; it is an activity that benefits humanity or a significant rather than limited
+9 segment of the community without expectation of pecuniary profit or reward. The humane
+10 treatment of animals is also a charitable purpose.
+11 (c) The fact that a building or facility is incidentally available to and patronized by the
+12 general public, so long as there is no material amount of business or patronage with the general
+13 public, shall does not defeat the exemption granted by this section.
+14 (d) Notwithstanding the exclusive-use exclusive use requirements of this section, if part
+15 of a property that otherwise meets the section's requirements is used for a purpose that would
+16 require exemption under subsection (a), above, if the entire property were so used, the valuation
+17 of the part so used shall be exempted is exempt from taxation.
+18 (e) Real property held by an organization described in subdivision (a)(8) for a charitable
+19 purpose under this section as a future site for housing housing, other than affordable rental
+20 housing as defined in G.S. 105-278.7A, for individuals or families with low or moderate incomes
+21 may be classified under this section for no more than 10 five years. The taxes that would
+22 otherwise be due on real property exempt under this subsection shall be are a lien on the property
+23 as provided in G.S. 105-355(a). The taxes shall be are carried forward in the records of the taxing
+24 unit as deferred taxes. The deferred taxes are due and payable in accordance with
+25 G.S. 105-277.1F when the property loses its eligibility for deferral as a result of a disqualifying
+26 event. A disqualifying event occurs when the property was is not used for low- or
+27 moderate-income housing within 10 five years from the first day of the fiscal year the property
+28 was classified under this subsection. In addition to the provisions in G.S. 105-277.1F, all liens
+29 arising under this subdivision are extinguished when the property is used for low- or
+30 moderate-income housing within the time period allowed under this subsection."
+31 SECTION 3.(b) Article 12 of Chapter 105 of the General Statutes is amended by
+32 adding the following new section to read:
+33 "§ 105-278.7A. Real and personal property owned, in whole or in part, by a charitable
+34 nonprofit and used for affordable rental housing.
+35 (a) Exemption Generally. – Real and personal property owned by an eligible owner and
+36 used for a charitable purpose in the operation of affordable rental housing is exempt from taxation
+37 to the extent provided in this section if the requirements of this section are met.
+38 (b) Definitions. –The following definitions apply in this section:
+39 (1) Affiliate. – Defined in G.S. 105-130.2.
+40 (2) Affordable rental housing. – A rental housing development consisting of land
+41 and improvements in which more than fifty percent (50%) of the units are
+42 qualifying units.
+43 (3) Charitable purpose. – A charitable purpose within the meaning of this section
+44 is one that has humane and philanthropic objectives; it is an activity that
+45 benefits humanity or a significant rather than limited segment of the
+46 community without expectation of pecuniary profit or reward.
+47 (4) Eligible joint venture. – A limited partnership, limited liability company, or
+48 limited liability partnership in which a general partner or limited liability
+49 company managing member is an eligible nonprofit corporation.
+50 (5) Eligible nonprofit corporation. – A nonprofit described in 501(c)(3) of the
+51 Code that (i) is exempt from federal income taxation under section 501(a) of
+Page 4 DRH30558-NIfa-155
+
+General Assembly Of North Carolina Session 2025
+1 the Code, (ii) is incorporated under a certificate of existence or admitted under
+2 a certificate of authority under the North Carolina Nonprofit Corporation Act
+3 as provided in Chapter 55A of the General Statutes, and (iii) has day-to-day
+4 control of the operations of and decisions for the affordable rental housing and
+5 has not delegated any decision-making authority other than to a property
+6 manager serving under the direction of the eligible owner. The term includes
+7 a single-purpose entity wholly owned by an eligible nonprofit corporation.
+8 (6) Eligible owner. – An eligible joint venture or an eligible nonprofit corporation.
+9 (7) Income limit. – Eighty percent (80%) of area median income, adjusted for
+10 family size, as set and most recently published by the U.S. Department of
+11 Housing and Urban Development.
+12 (8) Qualifying unit. – An affordable rental housing unit for which both of the
+13 following conditions are met:
+14 a. The rent charged for an occupied unit or the published rent for a vacant
+15 unit is at or below the rent limit.
+16 b. It is occupied by, or set aside for, a tenant whose income is at or below
+17 the income limit.
+18 (9) Rent limit. – Rent, plus a utility allowance calculated in accordance with the
+19 requirements of the North Carolina Housing Finance Agency, that does not
+20 exceed thirty percent (30%) of the income limit.
+21 (c) Requirements for Government-Supported Affordable Rental Housing. – Real and
+22 personal property that provides government-supported affordable rental housing is exempt from
+23 property taxation in any year in which all of the conditions listed in this subsection are met. For
+24 purposes of this subsection, the term "government-supported" means that the property is financed
+25 as described in sub-subdivision a. or b. of subdivision (2) of this subsection. The conditions are:
+26 (1) The property is owned and operated by an eligible nonprofit corporation or an
+27 eligible joint venture.
+28 (2) Either of the following applies:
+29 a. The eligible owner is an eligible joint venture that receives
+30 low-income housing credits pursuant to section 42 of the Code and
+31 that is in compliance with any applicable regulatory requirements as
+32 determined by the North Carolina Housing Finance Agency.
+33 Ownership is determined as of the date the certificate of occupancy is
+34 issued.
+35 b. The eligible owner finances the acquisition, rehabilitation,
+36 development, or operation of the property, or any combination thereof,
+37 with tax-exempt mortgage revenue bonds, qualified 501(c)(3) bonds,
+38 federal direct loans or grants, State loans or grants, or loans or grants
+39 provided by a local jurisdiction in which the property is located. Such
+40 government support must require the execution of a deed restriction or
+41 enforceable, verifiable agreement with a public agency requiring that
+42 the property be operated as affordable rental housing in accordance
+43 with this section for a period of at least 15 years from the date the
+44 financing or financial assistance was initially provided. Government
+45 support does not include payments made to the owner under the federal
+46 Housing Choice Voucher Program or other local, State, or federal
+47 voucher program.
+48 (d) Requirements for Non-Government-Supported Affordable Rental Housing. – Real
+49 and personal property that provides non-government-supported affordable rental housing is
+50 exempt from property taxation in any year in which all of the conditions listed in this subsection
+51 are met. For purposes of this subsection, the term "non-government-supported" means that the
+DRH30558-NIfa-155 Page 5
+
+General Assembly Of North Carolina Session 2025
+1 property is not financed as described in sub-subdivision a. or b. of subdivision (2) of subsection
+2 (c) of this section. The conditions are:
+3 (1) The property is one hundred percent (100%) owned and operated by an
+4 eligible nonprofit corporation that has owned and operated affordable rental
+5 housing for at least five years.
+6 (2) The eligible nonprofit corporation, including any of its subsidiaries or
+7 nonprofit affiliates, does not receive any funding or financial assistance, other
+8 than grants, from a for-profit affiliate.
+9 (3) The eligible nonprofit corporation does not lease the affordable rental housing
+10 land or improvements to another entity. This subdivision does not apply to the
+11 leasing of affordable rental housing units to tenants.
+12 (4) The eligible nonprofit corporation has executed a deed restriction in favor of
+13 the county and any municipality in which the property is located requiring that
+14 the property be operated as affordable rental housing in accordance with this
+15 section for a period of at least 15 years from the date of application. The
+16 restriction must require that the owner provide the reporting required under
+17 subsection (g) of this section annually to all grantees for the term of the deed
+18 restriction. The deed restriction must state that any grantee, or its assigns, has
+19 the right to enforce the terms of the restriction.
+20 (e) Exemption Amount. – The exemption amount is the percentage of the appraised value
+21 that is equal to the percentage of qualifying units unless the eligible owner meets the requirements
+22 of the safe harbor in Section 3 of Internal Revenue Service Rev. Proc. 96-32, in which case the
+23 exemption amount is one hundred percent (100%) of the appraised value of the property. A
+24 transition period of one taxable year applies to improved and occupied rental housing property
+25 purchased by an eligible owner for which the eligible owner cannot provide the total household
+26 income for each qualifying unit at the time of application but that otherwise meets the
+27 requirements of this section. During the transition period, a "qualifying unit" is an affordable
+28 rental housing unit for which the rent charged is at or below the rent limit for purposes of
+29 determining the exemption amount.
+30 (f) Application. – To be eligible for an exemption under this section, an eligible owner
+31 must submit an application in accordance with G.S. 105-282.1. The application form shall
+32 require the applicant to provide the following information:
+33 (1) Whether the applicant is applying for the exemption under subsection (c) or
+34 subsection (d) of this section, along with documentation supporting that the
+35 applicant is an eligible owner for the subsection under which it is applying;
+36 evidence of government support pursuant to sub-subdivision a. or b. of
+37 subdivision (2) of subsection (c) of this section, if applicable; and a copy of
+38 the applicable deed restriction or regulatory agreement.
+39 (2) Whether the property is subject to a transition period as described in
+40 subsection (e) of this section.
+41 (3) Either of the following, as of last day of the month immediately preceding
+42 January 1 of the year of application:
+43 a. If the applicant is applying for an exemption amount based on the
+44 percentage of qualifying units, the percentage of qualifying units by
+45 providing the following items:
+46 1. The rent amount received by the owner for each qualifying unit
+47 as evidenced by an anonymized rent roll. The applicant must
+48 provide evidence of the published rent if a unit is vacant.
+49 2. The total household income for each occupied qualifying unit,
+50 except during the transition period, evidenced in an
+51 anonymized manner.
+Page 6 DRH30558-NIfa-155
+
+General Assembly Of North Carolina Session 2025
+1 b. If the applicant is applying for an exemption amount based on meeting
+2 the requirements of the safe harbor in Section 3 of Internal Revenue
+3 Service Rev. Proc. 96-32, evidence demonstrating the affordable
+4 rental housing meets those requirements.
+5 (4) Certification that the applicant is in compliance with any applicable deed
+6 restriction or regulatory agreement and the requirements of this section.
+7 (g) Compliance. – An eligible owner that has been granted an exemption under this
+8 section must, on an annual basis by January 31 following the initial exemption, certify that it
+9 remains in compliance with this section and provide to the taxing unit the items listed in
+10 subdivision (3) of subsection (f) of this section, as of the previous December 31, including any
+11 supporting documentation required by the taxing unit. Failure to meet these requirements within
+12 the time limits subjects the property to discovery under G.S. 105-312. For purposes of satisfying
+13 this requirement, the household income provided for each qualifying unit must be verified every
+14 two years following initial verification of the tenant's income.
+15 (h) Future Site. – Real property held by an eligible owner as a future site for affordable
+16 rental housing may be classified under this section for no more than five years. The taxes that
+17 would otherwise be due on real property exempt under this subsection are a lien on the property
+18 as provided in G.S. 105-355(a). The taxes shall be carried forward in the records of the taxing
+19 unit as deferred taxes. The deferred taxes are due and payable in accordance with
+20 G.S. 105-277.1F when the property loses its eligibility for deferral as a result of a disqualifying
+21 event. A disqualifying event occurs when the property is not used for affordable rental housing
+22 that is in compliance with this section within five years from the first day of the fiscal year the
+23 property was classified under this section. In addition to the provisions in G.S. 105-277.1F, all
+24 liens arising under this subsection are extinguished when the property is used for affordable rental
+25 housing within the time period allowed under this subsection. For purposes of this subsection,
+26 the term "future site" means unimproved real property or improved real property that is not
+27 occupied as of the date of the application for exemption under this section.
+28 (i) Ineligible Property. – Property that has been designated a special class of property
+29 under G.S. 105-277.16 and assessed accordingly is not eligible for exemption under this section."
+30 SECTION 3.(c) G.S. 105-277.1F(a) reads as rewritten:
+31 "(a) Scope. – This section applies to the following deferred tax programs:
+32 (1) G.S. 105-275(12), real property owned by a nonprofit corporation held as a
+33 protected natural area.
+34 (1a) G.S. 105-275(29a), historic district property held as future site of historic
+35 structure.
+36 (2) G.S. 105-277.1B, the property tax homestead circuit breaker.
+37 (2a) (See note for repeal) G.S. 105-277.1D, the inventory property tax deferral.
+38 (3) G.S. 105-277.4(c), present-use value property.
+39 (4) G.S. 105-277.14, working waterfront property.
+40 (4a) G.S. 105-277.15, wildlife conservation land.
+41 (4b) G.S. 105-277.15A, site infrastructure land.
+42 (5) G.S. 105-278(b), historic property.
+43 (6) G.S. 105-278.6(e), nonprofit property held as future site of low- or
+44 moderate-income housing.housing, other than affordable rental housing as
+45 defined under G.S. 105-278.7A.
+46 (7) G.S. 105-278.7A(h), nonprofit property held as future site of affordable rental
+47 housing."
+48 SECTION 3.(d) This section is effective for taxes imposed for taxable years
+49 beginning on or after July 1, 2026, and, with respect to property held as a future site under
+50 G.S. 105-278.6(e) or G.S. 105-278.7A(h), as enacted by this act, applies to real property
+51 classified under those provisions on or after that date. Notwithstanding G.S. 105-282.1(a)(2)a.,
+DRH30558-NIfa-155 Page 7
+
+General Assembly Of North Carolina Session 2025
+1 an owner of low- or moderate-income rental housing property that is exempt under
+2 G.S. 105-278.6(a)(8) as of the effective date of this act must, by December 31, 2026, reapply for
+3 the exemption, providing the assessor of the taxing unit with any necessary documentation for
+4 compliance consistent with this act. Reapplication under this section is considered an application
+5 under subsection (f) of G.S. 105-278.7A, as enacted by this act. Failure to meet this requirement
+6 within the time limit subjects the property to discovery under G.S. 105-312.
+7
+8 NCACC GRANT FUNDING FOR REAPPRAISAL TECHNOLOGY
+9 SECTION 4.(a) There is appropriated from the General Fund to the North Carolina
+10 Association of County Commissioners (Association) the nonrecurring sum of twenty million
+11 dollars ($20,000,000) for the 2026-2027 fiscal year to be used by the Association to provide
+12 grants to local governments for the purpose of transitioning those governments to shortened
+13 reappraisal cycles and thereby ensure more frequent and accurate property valuations. Grant
+14 funds provided under this section shall be used by local governments for (i) technical assistance
+15 and (ii) one-time capital investments in technological infrastructure that improve local capacity
+16 and efficiency in conducting reappraisals, including the acquisition of specialized software, data
+17 migration, and the implementation of digital systems. In awarding grants under this section, the
+18 Association shall prioritize awarding grants to local governments operating on a reappraisal cycle
+19 of more than four years. For purposes of this section, "local governments" means counties, cities,
+20 or towns conducting reappraisals of property under Subchapter II of Chapter 105 of the General
+21 Statutes as of the effective date of this section.
+22 SECTION 4.(b) This section becomes effective July 1, 2026.
+23
+24 EFFECTIVE DATE
+25 SECTION 5. Section 2 of this act becomes effective for taxable years beginning on
+26 or after July 1, 2027, only if the constitutional amendment proposed by Section 1 of this act is
+27 approved; otherwise, Section 2 of this act shall have no effect. Unless otherwise provided, the
+28 remainder of this act is effective when it becomes law.
+Page 8 DRH30558-NIfa-155

@@ -1,0 +1,156 @@
+Title: 
+Official Title: 
+Source: versions - Edition 4
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 4
+SENATE BILL 675
+Commerce and Insurance Committee Substitute Adopted 4/8/25
+House Committee Substitute Favorable 6/16/26
+House Committee Substitute #2 Favorable 6/24/26
+Short Title: Charitable Orgs. Privacy Protection Act. (Public)
+Sponsors:
+Referred to:
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENACT PROVISIONS RELATED TO THE TRANSFER OF PROPERTY WHEN
+3 CHARITABLE ORGANIZATIONS ARE NAMED AS BENEFICIARIES OF
+4 NONPROBATE ASSETS.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Chapter 41 of the General Statutes is amended by adding a new Article
+7 to read:
+8 "Article 4B.
+9 "Transfers on Death to Charitable Organizations.
+10 "§ 41-53.1. Beneficiary designation defined.
+11 For the purposes of this Article, "beneficiary designation" means, other than a will or an
+12 instrument creating a trust, an instrument or provision in an instrument designating a beneficiary,
+13 including, but not limited to, any of the following:
+14 (1) An annuity or insurance policy.
+15 (2) An account with a designation for payment on death.
+16 (3) A security registered in beneficiary form.
+17 (4) A pension, profit-sharing, retirement, or other employment-related benefit
+18 plan.
+19 (5) Any other nonprobate transfer at death.
+20 "§ 41-53.2. Charitable organization as beneficiary.
+21 (a) A charitable organization incorporated in North Carolina or incorporated in another
+22 state and having a valid certificate of authority in North Carolina that is exempt under section
+23 501(c)(3) of the Internal Revenue Code and is a beneficiary of an interest in property created by
+24 beneficiary designation may deliver an affidavit to the holder of the property for the purpose of
+25 obtaining the property or information regarding the property. The affidavit shall be signed by a
+26 duly authorized representative of the charitable organization under penalty of perjury before a
+27 notary public and shall state all of the following:
+28 (1) The decedent's name and last known address.
+29 (2) A general description of the property, to the extent known.
+30 (3) The charitable organization's name, address, and primary contact information.
+31 (4) A request that the property be transferred to the charitable organization or that
+32 specified information about the property be given to the charitable
+33 organization.
+*S675-v-4*
+
+General Assembly Of North Carolina Session 2025
+1 (5) Affirmation that, on information or belief of the affiant, the property owner is
+2 deceased and no one other than the charitable organization has a right to the
+3 interest in the property listed in the affidavit.
+4 (6) That the information in the affidavit is true and correct.
+5 (b) An affidavit presented under this section shall be accompanied by all of the following:
+6 (1) A copy of the charitable organization's determination letter from the Internal
+7 Revenue Service recognizing its tax-exempt status.
+8 (2) A copy of the charitable organization's certificate of existence issued pursuant
+9 to the law under which it is organized as conclusive evidence that the
+10 organization is in good standing.
+11 (3) The certified copy of the death certificate of the decedent as verification of the
+12 decedent's death.
+13 (4) A corporate resolution or similar statement recognizing the affiant's authority
+14 to act on behalf of the charitable organization.
+15 (5) Internal Revenue Service form W-9 completed by an authorized
+16 representative of the charitable organization.
+17 "§ 41-53.3. Transfer of property.
+18 (a) A holder of property that receives an affidavit under this Article shall not request any
+19 additional personal information from any individual employed by or serving on the board of
+20 directors of the charitable organization. As used in this subsection, "personal information"
+21 includes, but is not limited to, the following:
+22 (1) Social security number.
+23 (2) Drivers license number.
+24 (3) Contact information.
+25 (4) Personal financial information.
+26 (b) If the requirements of this Article are satisfied, all of the following apply:
+27 (1) The decedent's property shall be paid, delivered, or transferred to or for the
+28 benefit of the charitable organization as requested in the affidavit.
+29 (2) The transfer agent of a security described in the affidavit shall change
+30 registered ownership from the decedent to or for the benefit of the charitable
+31 organization as requested in the affidavit.
+32 (3) The information requested in the affidavit shall be delivered to the
+33 organization.
+34 (c) A holder of property that receives an affidavit and accompanying documents under
+35 this Article may assume without undue investigation the validity of the facts contained in them.
+36 The holder of the property that in good faith delivers the property or information requested in
+37 reliance on the facts contained in the affidavit and accompanying documents and that has no
+38 actual knowledge that contradicts those facts is not liable to any person for having delivered the
+39 property or information requested.
+40 (d) A lien created by a transaction between the charitable organization and a holder of
+41 property acting in reliance on the affidavit provided under this Article is enforceable against the
+42 property the charitable organization has requested.
+43 (e) Compliance with this section is not required if it would cause a holder of property to
+44 violate federal or State law, including the rules of a self-regulatory organization registered under
+45 the federal Securities Exchange Act of 1934, 15 U.S.C. § 78a, et seq., or promulgated regulations,
+46 provided, however, all of the following shall apply:
+47 (1) A violation of an internal policy or guideline of the holder of property,
+48 including a policy or guideline that requires opening an inherited account,
+49 does not excuse compliance unless the policy or guideline is expressly
+50 required by federal or State law, including the rules of a self-regulatory
+Page 2 Senate Bill 675-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 organization registered under the federal Securities Exchange Act of 1934, 15
+2 U.S.C. § 78a, et seq., or promulgated regulations.
+3 (2) If compliance with the requirements of this section would cause a violation as
+4 described in this subsection, the holder of property shall not seek any personal
+5 information from any individual employed by or serving on the board of
+6 directors of the charitable organization that is not expressly required by federal
+7 or State law, including the rules of a self-regulatory organization registered
+8 under the federal Securities Exchange Act of 1934, 15 U.S.C. § 78a, et seq.,
+9 or promulgated regulations.
+10 (3) If compliance with the requirements of this section would cause a violation as
+11 described in this subsection, the holder of property shall provide a written
+12 notice of the specific legal authority for the noncompliance to the charitable
+13 organization that is the beneficiary within 30 days. The written notice shall
+14 include the following:
+15 a. A citation to the specific statute or regulation that would be violated.
+16 b. A plain-language description of the information or action required
+17 from the beneficiary to satisfy and comply with that specific legal
+18 requirement.
+19 (4) A holder of property that originates or transfers securities in reliance on
+20 documentation that complies with this section shall be discharged from all
+21 claims to the security by the estate, creditors, heirs, or devisees of a deceased
+22 owner.
+23 "§ 41-53.4. Enforcement.
+24 (a) If a holder of the property refuses to provide the requested property or information
+25 within 60 days after delivery of the affidavit and accompanying documents under this Article,
+26 the charitable organization may, within one year from the sixty-first day following the date of
+27 proof of delivery, bring an action against the holder of the property to compel delivery of the
+28 property or information. If the court finds that the holder of the property acted unreasonably in
+29 failing to deliver the property or information as requested in the affidavit, the court may award
+30 to the charitable organization any or all of the following:
+31 (1) Damages sustained by the charitable organization.
+32 (2) Costs of the action.
+33 (3) A penalty in an amount determined by the court between five hundred dollars
+34 ($500.00) and ten thousand dollars ($10,000).
+35 (4) Reasonable attorneys' fees based on the value of the time reasonably expended
+36 by the attorney and not based on the amount of the recovery by the charitable
+37 organization.
+38 (b) If a charitable organization receives designated benefits for which the charitable
+39 organization is liable under G.S. 30-15, the charitable organization shall return to the donor's
+40 estate a portion or all of the designated benefits in order to satisfy the allowed claims, statutory
+41 allowances, or unsatisfied balance of the elective share or supplemental elective-share claim
+42 within 60 days after receiving written notice from the personal representative of the donor's
+43 estate. If the charitable organization fails to comply with this provision, the charitable
+44 organization shall pay statutory interest to the donor's estate for each day the unreturned amount
+45 remains outstanding."
+46 SECTION 2. This act is effective when it becomes law and applies to affidavits from
+47 charitable organizations delivered on or after that date.
+Senate Bill 675-Fourth Edition Page 3

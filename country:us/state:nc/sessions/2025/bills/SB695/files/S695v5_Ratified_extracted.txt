@@ -1,0 +1,78 @@
+Title: 
+Official Title: 
+Source: versions - Ratified
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+SENATE BILL 695
+RATIFIED BILL
+AN ACT TO GROW THE PROPERTY TAX BASE OF UNITS OF LOCAL GOVERNMENT
+BY FACILITATING PRIVATE DEVELOPER INVOLVEMENT IN CERTAIN PROJECT
+DEVELOPMENTS.
+The General Assembly of North Carolina enacts:
+SECTION 1. Article 12 of Chapter 105 of the General Statutes is amended by adding
+a new section to read:
+"§ 105-277.03. Incentive district property tax exclusion.
+(a) Classification. – Qualified development (i) located in an incentive district and (ii) held
+for sale by a builder is designated a special class of property under Section 2(2) of Article V of
+the North Carolina Constitution and is taxable in accordance with this section. Ninety percent
+(90%) of the appraised value of property classified under this section is excluded from taxation.
+Property receiving an exclusion under this section may not receive property tax relief under
+G.S. 105-277.02.
+(b) Definitions. – The following definitions apply in this section:
+(1) Incentive district. – An area (i) designated by a developer, (ii) submitted for
+approval to the governing body of the unit of local government in which the
+area is located, (iii) determined, by that governing body, to be an area for
+which the unit could apply for project development financing debt instruments
+pursuant to Article 6 of Chapter 159 of the General Statutes, and (iv) approved
+by resolution of the governing body as an incentive district.
+(2) Qualified development. – Land and any unoccupied improvement by a builder
+to the land, other than remodeling, renovating, rehabilitating, or refinishing
+existing structures or buildings.
+(c) District Parameters. – The total land area within incentive districts in a local
+government unit may not exceed five percent (5%) of the local government unit's total area. A
+county may not include in an incentive district any land that, at the time the district is created, is
+inside a municipality, unless the governing body of the municipality agrees by resolution to
+include the land.
+(d) County Review. – Before approving an incentive district within a municipality, the
+governing body of the municipality shall send notice of the proposed district, by first-class mail,
+to the board of county commissioners of the county or counties in which the incentive district is
+located. The person mailing the notice shall certify that fact, and the date thereof, to the governing
+body, and the certificate is conclusive in the absence of fraud. Unless the board of county
+commissioners of any county in which the incentive district is located, by resolution, disapproves
+the proposed district within 28 days after the date the notice is mailed, the governing body may
+proceed to approve the district.
+(e) Expiration. – The exclusion authorized by this section ends at the earlier of the
+following:
+(1) Ten years from the time the property first received the property tax benefit
+provided by this section.
+*S695-v-5*
+
+(2) Sale of the property.
+(f) Application. – The builder must apply for the exclusion under this section as provided
+in G.S. 105-282.1."
+SECTION 2. G.S. 105-277.02 is amended by adding a new subsection to read:
+"(e) Property receiving an exclusion under this section may not receive property tax relief
+under G.S. 105-277.03."
+SECTION 3. G.S. 105-282.1(a)(2)c. reads as rewritten:
+"c. Special classes of property classified for taxation at a reduced
+valuation under G.S. 105-277(h), 105-277.02, 105-277.03, 105-277.1,
+105-277.1C, 105-277.10, 105-277.13, 105-277.14, 105-277.15,
+105-277.17, or 105-278."
+SECTION 4. This act is effective for taxes imposed for taxable years beginning on
+or after July 1, 2027.
+In the General Assembly read three times and ratified this the 17th day of June, 2026.
+s/ Rachel Hunt
+President of the Senate
+s/ Mitchell S. Setzer
+Speaker Pro Tempore of the House of
+Representatives
+_____________________________________
+Josh Stein
+Governor
+Approved __________.m. this ______________ day of ___________________, 2026
+Page 2 Senate Bill 695-Ratified
