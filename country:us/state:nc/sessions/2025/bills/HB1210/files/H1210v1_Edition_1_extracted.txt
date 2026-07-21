@@ -1,0 +1,220 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1210
+Short Title: Firearm & Conflict De-escalation Training Act. (Public)
+Sponsors: Representative Budd.
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+May 5, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE PROVISION OF FIREARM SAFETY AND DE-ESCALATION
+3 INSTRUCTION TO CERTAIN STUDENTS IN PUBLIC SCHOOL; TO REQUIRE
+4 CLERKS OF COURT TO CONDUCT A STATEWIDE SEARCH OF MENTAL HEALTH
+5 RECORDS WHEN PRESENTED WITH A RELEASE FORM SIGNED BY AN
+6 APPLICANT FOR A CONCEALED HANDGUN PERMIT; TO MODIFY THE
+7 AUTHORITY OF MAGISTRATES AND JUDGES TO ISSUE ORDERS OF
+8 INVOLUNTARY COMMITMENT; AND TO APPROPRIATE FUNDS FOR A PILOT
+9 PROGRAM FOR A CO-RESPONDER PROGRAM.
+10 The General Assembly of North Carolina enacts:
+11
+12 FIREARM SAFETY INSTRUCTION
+13 SECTION 1.(a) Subsection (c) of G.S. 143B-1209.100 is amended by adding two
+14 new subdivisions to read:
+15 "(12) Develop, in consultation with any local or State entity the Center for Safer
+16 Schools deems necessary to consult with, firearm safety instruction for
+17 students that meets all of the following requirements:
+18 a. The instruction shall teach students all of the following:
+19 1. Safe storage and handling of firearms, including instruction on
+20 (i) loading and unloading a firearm, (ii) using the safety on a
+21 firearm, and (iii) determining if a firearm is loaded or
+22 unloaded.
+23 2. How to avoid injury if the student finds a firearm.
+24 3. To never touch a found firearm.
+25 4. To immediately notify an adult of the location of a found
+26 firearm.
+27 5. How to provide basic first aid and how to contact emergency
+28 services.
+29 b. The instruction shall be viewpoint neutral on political topics, such as
+30 firearm rights, firearm violence, and the Second Amendment to the
+31 United States Constitution.
+32 c. The instruction shall not include the use or presence of live
+33 ammunition, live fire, or live firearms.
+34 d. The instruction shall be age- and grade-appropriate.
+*H1210-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 e. The instruction required under this subdivision shall be provided in a
+2 classroom setting by a live instructor who is an active or retired law
+3 enforcement officer or is certified by the North Carolina Criminal
+4 Justice Education and Training Standards Commission, the United
+5 States Concealed Carry Association, or the National Rifle Association.
+6 (13) Develop, in consultation with any local or State entity the Center for Safer
+7 Schools deems necessary to consult with, instruction for students on
+8 de-escalation techniques for conflict or other stressful situations. The
+9 instruction shall meet all of the following requirements:
+10 a. The instruction shall be viewpoint neutral on political topics.
+11 b. The instruction shall be age- and grade-appropriate.
+12 c. The instruction required under this subdivision shall be provided in a
+13 classroom setting by a live instructor who is a behavioral or mental
+14 health professional who has training or experience working with
+15 adolescents and children."
+16 SECTION 1.(b) Article 8C of Chapter 115C of the General Statutes is amended by
+17 adding a new section to read:
+18 "§ 115C-105.50. Firearm safety and de-escalation instruction.
+19 (a) Requirement. – Each public school unit shall require each school under its control to
+20 provide annually to its students the firearm safety and de-escalation instruction developed under
+21 subdivisions (12) and (13) of subsection (c) of G.S. 143B-1209.100. The instruction required
+22 under this section shall begin in kindergarten.
+23 (b) Opt out. – The parent or legal guardian of a student subject to instruction under this
+24 section shall be allowed to opt out of either or both the firearm safety and de-escalation
+25 instruction on behalf of the student. A request to opt out only applies to the school year in which
+26 the request is made and the parent or legal guardian must renew the request for each school year
+27 the parent or legal guardian wants the student to opt out of either or both the firearm safety and
+28 de-escalation instruction. The State Board of Education shall establish the process for submitting
+29 a request to opt out of the instruction required under this section."
+30 SECTION 1.(c) G.S. 115C-76.25(a) is amended by adding a new subdivision to
+31 read:
+32 "(13) The right to opt out of either or both the firearm safety and de-escalation
+33 instruction for their child pursuant to G.S. 115C-105.50(b)."
+34 SECTION 1.(d) The Center for Safer Schools and the State Board of Education may
+35 use the procedure set forth in G.S. 150B-21.1 to adopt or amend any rules necessary to implement
+36 the provisions of this act.
+37 SECTION 1.(e) The instruction required under G.S. 115C-105.50, as enacted by
+38 Section 2 of this act, shall be provided beginning with the 2026-2027 school year.
+39 SECTION 1.(f) There is appropriated from the General Fund to the Center for Safer
+40 Schools the sum of two hundred fifty thousand dollars ($250,000) in nonrecurring funds for the
+41 2026-2027 fiscal year to be used to cover any costs associated with developing the instruction in
+42 accordance with subdivisions (12) and (13) of subsection (c) of G.S. 143B-1209.100, as enacted
+43 by Section 1 of this act.
+44 SECTION 1.(g) Subsection (f) of this section becomes effective July 1, 2026. The
+45 remainder of this section is effective when it becomes law.
+46
+47 CONCEALED HANDGUN PERMIT/ALLOW STATEWIDE SEARCH OF
+48 INVOLUNTARY COMMITMENT RECORDS
+49 SECTION 2.(a) G.S. 14-415.14(c) reads as rewritten:
+50 "(c) Any person or entity who is presented by the applicant or by the sheriff with an
+51 original or photocopied release form as described in G.S. 14-415.13(a)(5) shall promptly disclose
+Page 2 House Bill 1210-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 to the sheriff any records concerning the mental health or capacity of the applicant who signed
+2 the form and authorized the release of the records. A clerk of court who is presented with an
+3 original or photocopied release form as described in G.S. 14-415.13(a)(5) shall conduct an
+4 electronic Statewide search for, and promptly disclose to the sheriff, any records concerning the
+5 mental health or capacity of the applicant who signed the form and authorized the release of the
+6 records."
+7 SECTION 2.(b) G.S. 122C-54(d) reads as rewritten:
+8 "(d) Except as otherwise provided in this section, any individual seeking confidential
+9 information contained in the court files or the court records of a proceeding made pursuant to
+10 Article 5 of this Chapter may file a written motion in the cause setting out why the information
+11 is needed. A district court judge may issue an order to disclose the confidential information
+12 sought if he finds the order is appropriate under the circumstances and if he finds that it is in the
+13 best interest of the individual admitted or committed or of the public to have the information
+14 disclosed.
+15 Counsel for the respondent and counsel for the State in the commitment hearing may receive
+16 access to the court file without filing a motion or obtaining a court order. A judge presiding over
+17 a criminal case that initiated the Article 5 proceeding may have access to the file without filing a
+18 motion.
+19 Judicial officials determining whether a criminal defendant may be released before trial
+20 pursuant to G.S. 15A-533 may have access to the defendant's records of proceedings made
+21 pursuant to Article 5 of this Chapter for the purposes of determining whether a criminal defendant
+22 has been involuntarily committed within the previous three years.
+23 An applicant for a concealed handgun permit, or a sheriff, who presents an original or
+24 photocopied release form as described in G.S. 14-415.13(a)(5) may have access to the applicant's
+25 records of proceedings made pursuant to Article 5 of this Chapter for the purpose of determining
+26 the mental health or capacity of the applicant."
+27 SECTION 2.(c) No later than the effective date of subsections (a) and (b) of this
+28 section, the Administrative Office of the Courts shall develop and implement a process or system
+29 that allows for an electronic Statewide search described in G.S. 14-415.14(c), as amended by
+30 subsection (a) of this section. Notwithstanding any provision of law to the contrary, the
+31 Administrative Office of the Courts may use any funds available for the implementation or
+32 maintenance of eCourts to cover any costs incurred from developing and implementing a process
+33 or system in accordance with this subsection.
+34 SECTION 2.(d) Subsections (a) and (b) of this section become effective December
+35 1, 2026, and apply to applications on or after that date. The remainder of this section is effective
+36 when it becomes law.
+37
+38 MODIFY AUTHORITY OF MAGISTRATES AND JUDGES TO ISSUE ORDER FOR
+39 INVOLUNTARY COMMITMENT
+40 SECTION 3.(a) Article 18 of Chapter 7A of the General Statutes is amended by
+41 adding a new section to read:
+42 "§ 7A-201. Involuntary commitments.
+43 (a) Authority. – Except as otherwise provided by law, if a magistrate or presiding judge
+44 over a civil or criminal matter has reasonable grounds to believe a party to a proceeding before
+45 the magistrate or judge meets the criteria for involuntary commitment under Part 7 of Article 5
+46 of Chapter 122C of the General Statutes, the magistrate or judge shall be vested with the authority
+47 sua sponte to make findings of fact and issue a custody order in the same manner, upon the same
+48 grounds, and with the same effect as an order issued by a clerk or magistrate pursuant to
+49 G.S. 122C-261. Proceedings thereafter are in accordance with Part 7 of Article 5 of Chapter 122C
+50 of the General Statutes.
+House Bill 1210-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (b) Recusal. – A magistrate or judge who issues an order pursuant to subsection (a) of
+2 this section is disqualified from presiding over any other hearing pursuant to Part 7 of Article 5
+3 of Chapter 122C of the General Statutes for a respondent who was the subject of the order issued
+4 pursuant to subsection (a) of this section.
+5 (c) Construction. – Except as otherwise provided in subsection (b) of this section, nothing
+6 in this section shall be construed as amending or otherwise altering the duties of a magistrate or
+7 judge set forth in Part 7 of Article 5 of the General Statutes."
+8 SECTION 3.(b) G.S. 122C-261(e) reads as rewritten:
+9 "(e) Except as provided in subdivision (5) of subsection (d) of this section, upon receipt
+10 of the custody order of the clerk or magistrate ormagistrate, a custody order issued by the court
+11 pursuant to G.S. 15A-1003, or a custody order issued pursuant to G.S. 7A-201, a law
+12 enforcement officer, person designated under G.S. 122C-251(g), or other person identified in the
+13 order shall take the respondent into custody within 24 hours after the order is signed, and proceed
+14 according to G.S. 122C-263. The custody order is valid throughout the State.
+15 Notwithstanding the provisions of this section, in no event shall an individual known or
+16 reasonably believed to have an intellectual disability be admitted to a State psychiatric hospital,
+17 except the following:
+18 (1) Persons described in G.S. 122C-266(b).
+19 (2) Persons admitted pursuant to G.S. 15A-1321.
+20 (3) Respondents who are so extremely dangerous as to pose a serious threat to the
+21 community and to other patients committed to non-State hospital psychiatric
+22 inpatient units, as determined by the Director of the Division of Mental
+23 Health, Developmental Disabilities, and Substance Use Services or the
+24 Director's designee.
+25 (4) Respondents who are so gravely disabled by both multiple disorders and
+26 medical fragility or multiple disorders and deafness that alternative care is
+27 inappropriate, as determined by the Director of the Division of Mental Health,
+28 Developmental Disabilities, and Substance Use Services or the Director's
+29 designee.
+30 Individuals transported to a State facility for individuals with mental illnesses who are not
+31 admitted by the facility may be transported by appropriate law enforcement officers or designated
+32 staff of the State facility in State-owned vehicles to an appropriate 24-hour facility that provides
+33 psychiatric inpatient care.
+34 No later than 24 hours after the transfer, the responsible professional at the original facility
+35 shall notify the petitioner, the clerk of court, and, if consent is granted by the respondent, the next
+36 of kin, that the transfer has been completed."
+37 SECTION 3.(c) This section becomes effective October 1, 2026, and applies to
+38 proceedings on or after that date.
+39
+40 PILOT CO-RESPONDER POLICE PROGRAM
+41 SECTION 4.(a) There is appropriated from the General Fund to the Department of
+42 Public Safety for each year of the 2025-2027 fiscal biennium the nonrecurring sum of four
+43 hundred seventy-four thousand six hundred eighty dollars ($474,680) to allocate to each county
+44 in this State in equal amounts to use to fund pilot program co-responder models designed to
+45 integrate mental health professionals with law enforcement responding to mental health related
+46 calls by people in distress needing assistance. The funds shall be used to hire and integrate within
+47 the law enforcement agency of each locality identified below one full-time mental health
+48 professional to be paired with law enforcement, either on a dedicated team or as part of a
+49 specialized unit, in responding to calls and incidences identified as involving mental health crises
+50 or persons with mental health issues.
+51 SECTION 4.(b) This section is effective retroactive to July 1, 2025.
+Page 4 House Bill 1210-First Edition
+
+General Assembly Of North Carolina Session 2025
+1
+2 EFFECTIVE DATE
+3 SECTION 5. Except as otherwise provided, this act is effective when it becomes
+4 law.
+House Bill 1210-First Edition Page 5
