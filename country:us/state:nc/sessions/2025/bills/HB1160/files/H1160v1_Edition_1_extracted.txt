@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1160
+Short Title: Reduce Parent Copays/Child Care Subsidy/Funds. (Public)
+Sponsors: Representatives Lofton, Prather, von Haefen, and Crawford (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REDUCE PARENT COPAYMENTS FOR SUBSIDIZED CHILD CARE AND
+3 TO APPROPRIATE FUNDS FOR THAT PURPOSE.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Section 9D.3(b) of S.L. 2023-134 reads as rewritten:
+6 "SECTION 9D.3.(b) Fees Beginning October 1, 2026, fees for families who are required to
+7 share in the cost of care are established based on ten percent (10%) seven percent (7%) of gross
+8 family income. When care is received at the blended rate, the copayment shall be eighty-three
+9 percent (83%) of the full-time copayment. Copayments for part-time care shall be seventy-five
+10 percent (75%) of the full-time copayment."
+11 SECTION 2. There is appropriated from the General Fund to the Department of
+12 Health and Human Services, Division of Child Development and Early Education, the sum of
+13 twenty-five million dollars ($25,000,000) in recurring funds beginning in the 2026-2027 fiscal
+14 year to reduce parent copayments for subsidized child care in accordance with Section 1 of this
+15 act.
+16 SECTION 3. This act becomes effective July 1, 2026.
+*H1160-v-1*

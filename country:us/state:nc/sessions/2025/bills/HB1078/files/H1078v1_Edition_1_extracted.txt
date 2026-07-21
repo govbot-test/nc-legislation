@@ -1,0 +1,273 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1078
+Short Title: Omnibus Life Sciences Appropriations. (Public)
+Sponsors: Representatives White and Reives (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+April 29, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT APPROPRIATING FUNDS TO THE DEPARTMENT OF COMMERCE FOR
+3 VARIOUS PURPOSES; REVISING THE COMPOSITION AND DUTIES OF THE
+4 ADVISORY COUNCIL ON RARE DISEASES; TRANSFERRING THE COUNCIL TO
+5 THE DEPARTMENT OF HEALTH AND HUMAN SERVICES; APPROPRIATING
+6 FUNDS TO THE DEPARTMENT OF HEALTH AND HUMAN SERVICES TO COVER
+7 THE OPERATING EXPENSES OF THE COUNCIL; ALLOWING CERTAIN WATER
+8 AND SEWER ECONOMIC DEVELOPMENT PROJECTS; AND CREATING THE LIFE
+9 SCIENCE AND BIOMANUFACTURING TECHNOLOGIES RESERVE FUND.
+10 The General Assembly of North Carolina enacts:
+11
+12 PART I. ONE NORTH CAROLINA SMALL BUSINESS ACCOUNT APPROPRIATION
+13 SECTION 1. There is appropriated from the General Fund to the Department of
+14 Commerce the sum of ten million dollars ($10,000,000) in recurring funds beginning in the
+15 2026-2027 fiscal year to be allocated to the One North Carolina Small Business Account
+16 established in G.S. 143B-437.71.
+17
+18 PART II. NORTH CAROLINA BIOTECHNOLOGY CENTER APPROPRIATION
+19 SECTION 2. There is appropriated from the General Fund to the Department of
+20 Commerce for the North Carolina Biotechnology Center (the Center) the sum of two million
+21 dollars ($2,000,000) in recurring funds beginning in the 2026-2027 fiscal year to support life
+22 science company funding, university technology development, workforce development, and
+23 economic development programs administered by the Center.
+24
+25 PART III. ADVISORY COUNCIL ON RARE DISEASES
+26 SECTION 3.1. Part 6 of Article 1B of Chapter 130A of the General Statutes reads
+27 as rewritten:
+28 "Part 6. Taylor's Law Establishing the Advisory Council on Rare Diseases.
+29 "§ 130A-33.65. Advisory Council on Rare Diseases; membership; terms; compensation;
+30 meetings; quorum.
+31 (a) Short Title. – This Part shall be known as Taylor's Law Establishing the Advisory
+32 Council on Rare Diseases.
+33 (a1) Establishment of Advisory Council. – There is established the Advisory Council on
+34 Rare Diseases within the School of Medicine of the University of North Carolina at Chapel Hill
+35 Department of Health and Human Services to advise the Governor, the Secretary, and the General
+*H1078-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 Assembly on research, diagnosis, treatment, and education relating to rare diseases. This Part
+2 shall be known as Taylor's Law Establishing the Advisory Council on Rare Diseases. For
+3 purposes of this Part, "rare disease" has the same meaning as provided in 21 U.S.C. § 360bb.
+4 (b) Advisory Council Membership. – The advisory council shall consist of 19 members
+5 to be appointed as follows:
+6 (1) Upon the recommendation of the Dean of the School of Medicine of the
+7 University of North Carolina at Chapel Hill, the The Secretary shall appoint
+8 members to the advisory council as follows:the following 15 members:
+9 a. A physician Two physicians licensed and practicing in this State with
+10 experience researching, diagnosing, or treating rare diseases.
+11 b. A medical researcher with experience conducting research concerning
+12 rare diseases.
+13 c. A One registered nurse or advanced practice registered nurse licensed
+14 and practicing in the State with experience treating rare diseases.
+15 d. One rare diseases survivor.
+16 e. One member who represents a rare diseases foundation.
+17 f. One representative researcher from each an academic research
+18 institution in this State that receives any grant funding for rare diseases
+19 research.
+20 g. One parent of a childhood rare disease survivor.
+21 h. One hospital administrator, or the hospital administrator's designee,
+22 representing a hospital in the State that provides care to persons
+23 diagnosed with a rare disease.
+24 i. Two persons age 18 or older who have been diagnosed with a rare
+25 disease.
+26 j. Two persons age 18 or older who are, or were previously, caregivers
+27 to a person diagnosed with a rare disease.
+28 k. One representative of a rare disease patient organization that operates
+29 in the State.
+30 l. One pharmacist licensed and practicing in this State with knowledge
+31 and experience regarding drugs used to treat rare diseases.
+32 m. One representative of the life sciences, biotechnology, or
+33 biopharmaceutical industry that either focuses on research efforts
+34 related to the development of therapeutic products for persons
+35 diagnosed with a rare disease or has demonstratable understanding of
+36 the path to commercialization of such products.
+37 n. Two representatives of a health benefit plan or health insurer, at least
+38 one of whom is a representative of a North Carolina Medicaid
+39 Managed Care health plan.
+40 o. One genetic counselor with experience providing services to persons
+41 diagnosed with a rare disease or caregivers of persons diagnosed with
+42 a rare disease.
+43 (2) The chairs of the Joint Legislative Oversight Committee on Health and Human
+44 Services, or the chairs' designees, shall serve on the advisory council. A
+45 member of the advisory council who is designated by the chairs of the Joint
+46 Legislative Oversight Committee on Health and Human Services may be a
+47 member of the General Assembly.
+48 (2a) One member appointed by the President Pro Tempore of the Senate.
+49 (2b) One member appointed by the Speaker of the House of Representatives.
+50 (2c) One member appointed by the Governor.
+Page 2 House Bill 1078-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (3) The Secretary, or the Secretary's designee, shall serve as an ex officio,
+2 nonvoting member of the advisory council.
+3 (c) Members Length of Terms. – All initial members appointed pursuant to subsection
+4 (b) of this section to the advisory council shall serve for a term of three years, and no member
+5 initial member, except for the initial physician members and the initial member representing a
+6 rare disease patient organization, shall serve more than three consecutive terms. The initial
+7 physician members and the initial member representing a rare disease patient organization may
+8 serve for up to four consecutive terms. Thereafter, members appointed by the President Pro
+9 Tempore of the Senate, the Speaker of the House of Representatives, and the Governor shall
+10 serve for a term of two years; and members appointed by the Secretary shall serve for a term of
+11 two, three, or four years, as determined by the chair of the advisory council.
+12 (c1) Vacancies and Removals. – Any appointment to fill a vacancy on the advisory council
+13 created by the resignation, dismissal, death, or disability of a member shall be filled by the
+14 appointing authority for the balance of the unexpired term. Each appointing authority may
+15 remove any member appointed by that appointing authority for misfeasance, malfeasance, or
+16 nonfeasance.
+17 (d) Per Diem and Expenses. – Members of the advisory council shall receive per diem
+18 and necessary travel and subsistence expenses in accordance with the provisions of G.S. 138-5
+19 or G.S. 138-6 or travel and subsistence expenses in accordance with the provisions of
+20 G.S. 120-3.1, as applicable.
+21 (e) Administrative Support. – All administrative support and other services required by
+22 the advisory council shall be provided by the School of Medicine of the University of North
+23 Carolina at Chapel Hill.Department.
+24 (f) Upon the recommendation of the Dean of the School of Medicine of the University
+25 of North Carolina at Chapel Hill, Selection of Chair. – The Secretary shall select the chair of the
+26 advisory council from among the members of the council. The chair shall serve in this position
+27 until the expiration of his or her term.
+28 (g) The chair shall convene the first meeting of the advisory council no later than October
+29 1, 2015. Meetings and Quorum. – A majority of the council members shall constitute a quorum.
+30 A majority vote of a quorum shall be required for any official action of the advisory council.
+31 Following the first meeting, the advisory council shall meet at least quarterly. The advisory
+32 council may meet more frequently upon the call of the chair or upon the request of a majority of
+33 council members.
+34 "§ 130A-33.66. Advisory Council on Rare Diseases; powers and duties; reports.
+35 The advisory council shall have the following powers and duties:
+36 (1) Advise on coordinating the Governor, the Secretary, and the General
+37 Assembly on all of the following:
+38 a. Coordination of statewide efforts for the to study of the incidence of
+39 rare diseases within the State and the status of the rare disease
+40 community.
+41 b. Coordination of statewide efforts to increase public awareness and
+42 understanding of rare diseases.
+43 c. Identification of policy issues related to rare diseases and the
+44 advancement of policy initiatives related to rare diseases at the State
+45 and federal levels.
+46 d. The appropriation of State funds to facilitate increased public
+47 awareness of and improved treatment for rare diseases.
+48 (2) Report to the Secretary, the Governor, and the Joint Legislative Oversight
+49 Committee on Health and Human Services Services, and the Fiscal Research
+50 Division on behalf of the General Assembly not later than January 1, 2016,
+51 and annually thereafter, on the activities of the advisory council and its
+House Bill 1078-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 findings and recommendations regarding rare disease research and care in
+2 North Carolina, including any recommendations for statutory changes and
+3 amendments to the structure, organization, and powers or duties of the
+4 advisory council.
+5 (3) In consultation with accredited medical schools, accredited schools of public
+6 health, and hospitals licensed to operate in the State that provide care to
+7 persons diagnosed with a rare disease, develop resources or recommendations
+8 regarding quality of and access to treatment and services available within the
+9 State for persons diagnosed with a rare disease.
+10 (4) Advise and consult with the Department, the North Carolina Drug Utilization
+11 Review Board, and the Medicaid Preferred Drug List Review Panel in
+12 developing recommendations, resources, and programs relating to the
+13 diagnosis and treatment of rare diseases.
+14 (5) Identify additional relevant areas for the advisory council to study and
+15 evaluate."
+16 SECTION 3.2. There is appropriated from the General Fund to the Department of
+17 Health and Human Services the sum of two hundred fifty thousand dollars ($250,000) in
+18 recurring funds beginning in the 2026-2027 fiscal year to be allocated to cover the operating
+19 expenses of the Advisory Council on Rare Diseases authorized by G.S. 130A-33.65, as amended
+20 by Section 3.1 of this act.
+21
+22 PART IV. WATER AND SEWER ECONOMIC DEVELOPMENT PROGRAM
+23 SECTION 4.(a) Award Authorized. – Pursuant to Part 2H of Article 10 of Chapter
+24 143B of the General Statutes, the Department of Commerce may commit in a Governor's Letter
+25 to reimburse, over a period of time not less than 10 years, a business, as defined in
+26 G.S. 143B-437.51, for the costs incurred for an eligible project. For purposes of this section, an
+27 eligible project is the construction of, or improvements to, new or existing water or sewer lines,
+28 facilities, or equipment for new, proposed, or existing buildings by the business, and can include
+29 water reuse and water reclamation projects, if the business commits, in a company performance
+30 agreement, to the requirements of subsection (c) of this section.
+31 SECTION 4.(b) Award Amount. – The total amount that may be committed for
+32 reimbursement under this section is equal to the lesser of (i) fifty million dollars ($50,000,000)
+33 or (ii) fifty percent (50%) of the cost of the eligible project. The maximum amount that can be
+34 paid out in a single calendar year for all but the final year of the award term is the lesser of
+35 one-tenth of the amount committed or one-half of the costs incurred and verified by the business
+36 for that calendar year.
+37 SECTION 4.(c) Company Performance Agreement. – For a project to be eligible
+38 under this section, a business must commit to the following requirements in addition to those
+39 contained in G.S. 143B-437.72(b):
+40 (1) Invest at least two billion dollars ($2,000,000,000) of private funds in the
+41 development or expansion of the manufacturing site served by or located
+42 within the same county as the eligible project.
+43 (2) For the greater of the term of the agreement or 10 years, create at least 500
+44 new jobs having an overall average compensation that exceeds the average
+45 wage for all insured private employers in the county in which the eligible
+46 project is located and maintain both the new and existing jobs of the business
+47 in that county.
+48 (3) Annually verify costs incurred for the eligible project.
+49 (4) Ensure that the eligible project will supply at least sixty percent (60%) of the
+50 total aggregate water and wastewater needs required by the manufacturing site
+Page 4 House Bill 1078-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 as developed or expanded by the investment made under subdivision (1) of
+2 this subsection.
+3 (5) Not seek or accept any other grant from the State, including a grant pursuant
+4 to Part 2G of Article 10 of Chapter 143B of the General Statutes, for any jobs
+5 created as part of the company performance agreement.
+6 SECTION 4.(d) One NC Commitment Exclusion. – The amount committed pursuant
+7 to this section shall not be included in calculating the amount authorized to be committed
+8 pursuant to G.S. 143B-437.71(b1).
+9 SECTION 4.(e) Agreement Binding. – A Governor's Letter issued pursuant to this
+10 section is a binding obligation of the State and is not subject to State funds being appropriated
+11 by the General Assembly.
+12 SECTION 4.(f) Match Requirement. – Notwithstanding G.S. 143B-437.72(c)(1), a
+13 local government is not required to match the funds allocated by the State for an eligible project
+14 under this section.
+15
+16 PART V. LIFE SCIENCE AND BIOMANUFACTURING TECHNOLOGIES RESERVE
+17 FUND
+18 SECTION 5.(a) Initial Capitalization Transfer. – There is transferred from the
+19 General Fund to the Life Science and Biomanufacturing Technologies Reserve Fund established
+20 in subsection (b) of this section the sum of twenty million dollars ($20,000,000) in nonrecurring
+21 funds for the 2026-2027 fiscal year.
+22 SECTION 5.(b) Fund Established; Purpose. – There is created the Life Science and
+23 Biomanufacturing Technologies Reserve Fund (the Reserve) to be administered by the Office of
+24 State Budget and Management. Funds in the Reserve shall be available only for appropriation by
+25 the General Assembly and shall be used to provide State matching funds, cost-share
+26 contributions, and other financial support for joint federal, State, local government, and industry
+27 initiatives involving emerging life science or biomanufacturing technologies.
+28 SECTION 5.(c) Eligible Uses. – Eligible uses of funds from the Reserve include:
+29 (1) State matching funds for federal grants or cooperative agreements related to
+30 life science research, development, or manufacturing.
+31 (2) Cost-share contributions required for competitive federal programs, including
+32 programs administered by the National Institutes of Health, the Biomedical
+33 Advanced Research and Development Authority (BARDA), the Advanced
+34 Research Projects Agency for Health (ARPA-H), or the Department of
+35 Commerce Economic Development Administration.
+36 (3) Financial for public-private partnerships involving life science or
+37 biomanufacturing facility development, workforce development, or
+38 technology transfer initiatives.
+39 (4) Seed funding for multigovernmental consortia or regional innovation hubs
+40 focused on biomanufacturing technologies, cell and gene therapy
+41 manufacturing, advanced pharmaceutical manufacturing, or related fields.
+42 SECTION 5.(d) Appropriation Required. – Funds in the Reserve shall not be
+43 expended except upon an act of appropriation by the General Assembly designating the specific
+44 initiative, purpose, and amount to be disbursed from the Reserve.
+45 SECTION 5.(e) Reporting. – The Director of the Budget shall report to the Joint
+46 Legislative Economic Development and Global Engagement Oversight Committee and the Fiscal
+47 Research Division no later than March 1 of each fiscal year that funds are appropriated from the
+48 Reserve. The report required under this subsection shall include, at a minimum, the balance of
+49 the Reserve, any proposals received for use of Reserve funds, and recommendations regarding
+50 capitalization of the Reserve for the ensuing biennium.
+51
+House Bill 1078-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 PART VI. EFFECTIVE DATE
+2 SECTION 6. Parts 1, 2, 3, and 5 of this act become effective July 1, 2026. Except as
+3 otherwise provided, the remainder of this act is effective when it becomes law.
+Page 6 House Bill 1078-First Edition
