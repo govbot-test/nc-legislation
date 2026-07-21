@@ -1,0 +1,362 @@
+Title: 
+Official Title: 
+Source: versions - Edition 2
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 920
+Committee Substitute Favorable 6/2/26
+Short Title: Virtual Currency Kiosk Consumer Prot. Act. (Public)
+Sponsors:
+Referred to:
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENACT THE VIRTUAL CURRENCY KIOSK CONSUMER PROTECTION
+3 ACT.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Chapter 53 of the General Statutes is amended by adding a new Article
+6 to read:
+7 "Article 26.
+8 "Virtual Currency Kiosk Consumer Protection Act.
+9 "§ 53-441. Short title.
+10 This Article may be cited as the Virtual Currency Kiosk Consumer Protection Act.
+11 "§ 53-442. Definitions.
+12 The following definitions apply in this Article:
+13 (1) Bank Secrecy Act. – The Bank Secrecy Act, 31 U.S.C. § 5311, et seq., and its
+14 implementing rules and regulations, as amended and recodified from time to
+15 time.
+16 (2) Blockchain. – A distributed digital ledger or database which is chronological,
+17 consensus-based, decentralized, and mathematically verified in nature.
+18 (3) Blockchain analytics. – A software service that uses data from various virtual
+19 currencies and their applicable blockchains to provide a risk rating specific to
+20 digital wallet addresses from users of virtual currency kiosks.
+21 (4) Commissioner. – The Commissioner of Banks of the State of North Carolina.
+22 (5) Digital wallet. – Hardware or software that enables individuals to store and
+23 use virtual currency.
+24 (6) Digital wallet address. – An alphanumeric identifier representing a destination
+25 on a blockchain for a virtual currency transfer that is associated with a digital
+26 wallet.
+27 (7) Existing virtual currency customer. – A person whose first transaction with a
+28 licensee to transmit virtual currency occurred more than 30 days ago.
+29 (8) Federal Deposit Insurance Corporation or Securities Investor Protection
+30 Corporation. – A bank, credit union, savings and loan association, trust
+31 company, savings association, savings bank, industrial bank, or industrial loan
+32 company organized under the laws of the United States or any state of the
+33 United States, if the bank, credit union, savings and loan association, trust
+34 company, savings association, savings bank, industrial bank, or industrial loan
+35 company has federally insured deposits.
+*H920-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 (9) Fiat currency. – A medium of exchange that is authorized or adopted by the
+2 United States government as part of its currency and is not backed by a
+3 commodity.
+4 (10) Individual. – A natural person.
+5 (11) New virtual currency customer. – A person that has no previous transactions
+6 with a licensee to transmit virtual currency or a person whose first transaction
+7 with a licensee to transmit virtual currency occurs within the past 30 days.
+8 (12) NMLS. – The Nationwide Multistate Licensing System and Registry
+9 developed by the Conference of State Bank Supervisors and the American
+10 Association of Residential Mortgage Regulators and owned and operated by
+11 the State Regulatory Registry, LLC, or any successor or affiliated entity, for
+12 the licensing and registration of persons in financial services industries.
+13 (13) Spread. – The amount, in United States dollars, of any difference between the
+14 United States dollar price of the virtual currency that is charged to the
+15 customer and the United States dollar price of the virtual currency as listed by
+16 a licensed virtual currency exchange.
+17 (14) United States PATRIOT Act. – The Uniting and Strengthening America by
+18 Providing Appropriate Tools Required to Intercept and Obstruct Terrorism
+19 Act of 2001 and its implementing rules and regulations, as amended and
+20 recodified from time to time.
+21 (15) Virtual currency. – Any type of digital unit that is used as a medium of
+22 exchange or a form of digitally stored value or that is incorporated into
+23 payment system technology. Virtual currency shall be construed to include
+24 digital units of exchange that (i) have a centralized repository or administrator,
+25 (ii) are decentralized and have no centralized repository or administrator, or
+26 (iii) may be created or obtained by computing or manufacturing effort. Virtual
+27 currency shall not be construed to include digital units that are used (i) solely
+28 within online gaming platforms with no market or application outside of such
+29 gaming platforms or (ii) exclusively as part of a consumer affinity or rewards
+30 program and can be applied solely as payment for purchases with the issuer
+31 or other designated merchants but cannot be converted into or redeemed for
+32 fiat currency.
+33 (16) Virtual currency kiosk. – Any fully automated electronic machine owned,
+34 operated, or used by a virtual currency kiosk operator that enables the owner
+35 or operator to facilitate the transfer of fiat currency to a public key that is
+36 recorded on the block chain, as directed by the customer.
+37 (17) Virtual currency kiosk operator. – A corporation, limited liability company,
+38 limited liability partnership, or foreign entity qualified to do business in the
+39 State which operates a virtual currency kiosk within the State.
+40 "§ 53-443. Confidentiality.
+41 (a) Except as otherwise provided in this section, all information or reports obtained by
+42 the Commissioner from a virtual currency kiosk operator and all information contained in or
+43 related to an examination, investigation, operating report, or condition report prepared by, on
+44 behalf of, or for the use of the Commissioner, are confidential and are not public records.
+45 (b) Information contained in the records of the Commissioner that is not confidential and
+46 may be available to the public either on the Commissioner's website, upon receipt by the
+47 Commissioner of a written request, or in NMLS shall include:
+48 (1) The name, business address, telephone number, and unique identifier of a
+49 virtual currency kiosk operator;
+50 (2) The business address of a virtual currency kiosk operator's registered agent
+51 for service; and
+Page 2 House Bill 920-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (3) Copies of any final orders of the Commissioner relating to any violation of
+2 this Article or rules implementing this Article.
+3 "§ 53-444. Relationship to federal law.
+4 If anything in this Article is inconsistent with federal law, including, but not limited to, the
+5 Bank Secrecy Act or the United States PATRIOT Act, the applicable federal law shall govern to
+6 the extent of any inconsistency.
+7 "§ 53-445. Supervision.
+8 (a) The Commissioner may request evidence of compliance with this Article or a rule
+9 adopted or order issued under this Article as reasonably necessary or appropriate to administer
+10 and enforce this Article, and other applicable law, including the Bank Secrecy Act and the United
+11 States PATRIOT Act.
+12 (b) A virtual currency kiosk operator shall provide the Commissioner all records the
+13 Commissioner may reasonably require to ensure compliance with this Article.
+14 "§ 53-446. Disclosures.
+15 (a) Disclosures of Material Risks. – As part of establishing a relationship with a customer,
+16 and prior to entering into an initial transaction for, on behalf of, or with the customer, each virtual
+17 currency kiosk operator shall disclose in clear, conspicuous, and legible writing in the English
+18 language, whether in accessible terms of service or elsewhere, all material risks associated with
+19 its products, services, and activities and virtual currency generally, including disclosures
+20 substantially similar to the following:
+21 "Virtual currency is not legal tender, is not backed by the government, and accounts and value
+22 balances are not subject to Federal Deposit Insurance Corporation or Securities Investor
+23 Protection Corporation protections.
+24 Transactions in virtual currency may be irreversible, and, accordingly, losses due to
+25 fraudulent or accidental transactions may not be recoverable.
+26 The nature of virtual currency may lead to an increased risk of fraud or cyber attack.
+27 The nature of virtual currency means that any technological difficulties experienced by the
+28 virtual currency kiosk operator may prevent the access or use of a customer's virtual currency.
+29 Any bond or trust account maintained by the virtual currency kiosk operator for the benefit
+30 of its customers may not be sufficient to cover all losses incurred by customers."
+31 (b) Disclosure of General Terms and Conditions. – When opening an account for a new
+32 customer, and prior to entering into an initial transaction for, on behalf of, or with the customer,
+33 each virtual currency kiosk operator shall disclose in clear, conspicuous, and legible writing in
+34 the English language, whether in accessible terms of service or elsewhere, all relevant terms and
+35 conditions associated with its products, services, and activities and virtual currency generally,
+36 including disclosures substantially similar to the following:
+37 (1) The customer's liability for unauthorized virtual currency transactions.
+38 (2) Under what circumstances the virtual currency kiosk operator will, absent a
+39 court or government order, disclose information concerning the customer's
+40 account to third parties.
+41 (3) The customer's right to receive periodic account statements and valuations
+42 from the virtual currency kiosk operator.
+43 (4) The customer's right to receive a receipt, trade ticket, or other evidence of a
+44 transaction.
+45 (5) The customer's right to prior notice of a change in the virtual currency kiosk
+46 operator's rules or policies.
+47 (6) The amount of the transaction denominated in United States dollars as well as
+48 the applicable virtual currency.
+49 (7) Any fees or expenses charged by the virtual currency kiosk operator.
+50 (8) Any applicable exchange rates.
+House Bill 920-Second Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (9) Other disclosures as are customarily given in connection with the opening of
+2 customer accounts.
+3 (c) Warning Disclosure. – Prior to entering into a virtual currency transaction with a
+4 customer, each virtual currency kiosk operator shall ensure a warning is disclosed to a customer
+5 substantially similar to the following:
+6 "Customer Notice. Please Read Carefully.
+7 Were you contacted by someone urging you to use this kiosk? If so, you may be the victim
+8 of a scam, and you should NOT PROCEED with the transaction. Scammers often pretend to be:
+9 · Your bank;
+10 · Your software provider (these scammers often make contact through a pop-up message on
+11 your computer);
+12 · A new friend or romantic interest who needs money (or who can help you invest in
+13 cryptocurrency);
+14 · The police;
+15 · A government agency (such as Social Security, Medicare, or the IRS);
+16 · A utility;
+17 · An investment advisor;
+18 · A legal official (who may say that you have a criminal warrant or missed jury duty or owe
+19 bail money); or
+20 · A legitimate sweepstakes (claiming you won the lottery and have to prepay to receive your
+21 winnings).
+22 DO NOT USE THIS KIOSK under any of these circumstances or other situations where you
+23 are pressured to make a payment through a kiosk. Also, you should immediately report the scam
+24 to law enforcement.
+25 I understand that the purchase and sale of cryptocurrency is a final irreversible and
+26 nonrefundable transaction.
+27 I confirm I am sending funds to a wallet I own or directly have control over. I confirm that I
+28 am using funds gained from my own initiative to make my transaction."
+29 (d) Disclosures Before Each Transaction. – Prior to the completion of each virtual
+30 currency transaction, each virtual currency kiosk operator shall ensure the following is disclosed
+31 in a clear and conspicuous manner to the customer:
+32 (1) All fees and expenses associated with the transaction.
+33 (2) The exchange rates.
+34 (3) The spread, as defined in G.S. 53-442.
+35 (4) Any customer liability.
+36 "§ 53-447. Receipts.
+37 (a) An owner of a virtual currency kiosk or a virtual currency kiosk operator, upon the
+38 completion of a virtual currency transaction, shall provide to the customer a receipt containing:
+39 (1) The name of, and contact information for, the owner of the virtual currency
+40 kiosk or the virtual currency kiosk operator, including, without limitation, the
+41 owner of the virtual currency kiosk's or the virtual currency kiosk operator's
+42 business address and a customer service telephone number established by the
+43 owner of a virtual currency kiosk or the virtual currency kiosk operator to
+44 answer questions and register complaints.
+45 (2) The name of the customer.
+46 (3) The type, value, date and precise time of the virtual currency transaction,
+47 transaction hash or identification number, and each virtual currency address.
+48 (4) The amount of the virtual currency transaction expressed in United States
+49 dollars.
+50 (5) The public virtual currency address of the customer.
+51 (6) The unique identifier of the virtual currency kiosk operator.
+Page 4 House Bill 920-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (7) Any fee charged, including, without limitation, a fee charged directly or
+2 indirectly by the owner of the virtual currency kiosk or the virtual currency
+3 kiosk operator or a third party involved in the virtual currency transaction.
+4 (8) The exchange rate of the virtual currency to United States dollars.
+5 (9) Any tax collected by the owner of the virtual currency kiosk or the virtual
+6 currency kiosk operator for the virtual currency transaction.
+7 (10) A statement of the liability of the owner of the virtual currency kiosk or the
+8 virtual currency kiosk operator for nondelivery or delayed delivery.
+9 (11) A statement of the refund policy of the owner of the virtual currency kiosk or
+10 the virtual currency kiosk operator.
+11 (12) The name and telephone number of the Commissioner, and a statement
+12 disclosing that customers may contact the Commissioner with questions or
+13 complaints about virtual currency kiosk services provided by the owner or
+14 operator of the virtual currency kiosk.
+15 (13) The name of the licensed virtual currency exchange the operator used to
+16 calculate the spread.
+17 (14) The name and contact information of the designated recipient of the
+18 controllable electronic record transaction.
+19 (15) Any additional information the Commissioner may require.
+20 (b) The receipt required under subsection (a) of this section shall be provided as a
+21 physical written receipt unless the customer requests to receive an electronic receipt. The receipt
+22 shall satisfy all of the following:
+23 (1) Have a retainable form.
+24 (2) Be written in English and in the language principally used by the owner of the
+25 virtual currency kiosk or the virtual currency kiosk operator to advertise,
+26 solicit, or negotiate, orally or in writing.
+27 "§ 53-448. Blockchain analytics.
+28 All virtual currency kiosk operators must use blockchain analytics software to assist in the
+29 prevention of sending purchased virtual currency from a virtual currency kiosk operator to a
+30 digital wallet known to be affiliated with fraudulent activity at the time of a transaction. The
+31 Commissioner may request evidence from any virtual currency kiosk operator of current use of
+32 blockchain analytics.
+33 "§ 53-449. Customer service.
+34 All virtual currency kiosk operators performing business in the State must provide live
+35 customer service, at a minimum, on Monday through Friday between 8:00 A.M. EST and 10:00
+36 P.M. EST. The customer service toll-free number must be displayed on the virtual currency kiosk
+37 or the virtual currency kiosk screens.
+38 "§ 53-450. Anti-fraud policy.
+39 All virtual currency kiosk operators shall take reasonable steps to detect and prevent fraud,
+40 including establishing and maintaining a written anti-fraud policy. The anti-fraud policy shall, at
+41 a minimum, include:
+42 (1) The identification and assessment of fraud-related risk areas.
+43 (2) Procedures and controls to protect against identified risks.
+44 (3) Allocation of responsibility for monitoring risks.
+45 (4) Procedures for the periodic evaluation and revision of the anti-fraud
+46 procedures, controls, and monitoring mechanisms.
+47 "§ 53-451. Compliance policies.
+48 (a) Each virtual currency kiosk operator is required to comply with the provisions of this
+49 Article, any lawful order, or rule, made or issued under the provisions of this Article, and all
+50 applicable federal and State laws, rules, and regulations.
+House Bill 920-Second Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (b) Each virtual currency kiosk shall maintain, implement, and enforce written
+2 compliance policies and procedures. Those policies and procedures must be reviewed and
+3 approved by the virtual currency kiosk operator's board of directors or an equivalent governing
+4 body of the virtual currency kiosk operator.
+5 "§ 53-452. Compliance officer.
+6 (a) Each virtual currency kiosk operator must designate and employ a compliance officer
+7 with the following requirements:
+8 (1) The individual must be qualified to coordinate and monitor compliance with
+9 this Article and all other applicable federal and State laws, rules, and
+10 regulations.
+11 (2) The individual must be employed full time by the virtual currency kiosk
+12 operator.
+13 (3) The designated compliance officer cannot be any individual who owns more
+14 than twenty percent (20%) of the virtual currency kiosk operator by whom the
+15 individual is employed.
+16 (b) Compliance responsibilities required under federal and State laws, rules, and
+17 regulations shall be completed by full-time employees of the virtual currency kiosk operator.
+18 "§ 53-453. Consumer protection officer.
+19 Each virtual currency kiosk operator must designate and employ a consumer protection
+20 officer with each of the following requirements:
+21 (1) The individual must be qualified to coordinate and monitor compliance with
+22 this Article and all other applicable federal and State laws, rules, and
+23 regulations.
+24 (2) The individual must be employed full time by the virtual currency kiosk
+25 operator.
+26 (3) The designated consumer protection officer cannot be an individual who owns
+27 more than twenty percent (20%) of the virtual currency kiosk operator by
+28 whom the individual is employed.
+29 "§ 53-454. Reporting virtual currency kiosk locations.
+30 (a) Each virtual currency kiosk operator shall submit a report of the location of each
+31 virtual currency kiosk located within the State within 45 days of the end of the calendar quarter.
+32 The Commissioner shall formulate a system for virtual currency kiosk operators to submit
+33 location information consistent with the requirements of this section.
+34 (b) The location report shall include, at a minimum, the following regarding the location
+35 where a virtual currency kiosk is located:
+36 (1) Company legal name.
+37 (2) Any fictitious or trade name.
+38 (3) Physical address.
+39 (4) Start date of operation of virtual currency kiosk at location.
+40 (5) End date of operation of virtual currency kiosk at location, if applicable.
+41 "§ 53-455. Money transmitter license.
+42 Any virtual currency kiosk operator who owns, operates, solicits, markets, advertises, or
+43 facilitates virtual currency kiosks in this State shall be deemed to be engaged in money
+44 transmission and require licensure under Article 16B of this Chapter.
+45 "§ 53-456. Virtual currency customers; daily limit; refunds; cancellation; fees.
+46 (a) Daily Limit. – A virtual currency kiosk operator shall impose a daily transaction limit
+47 equivalent to the following dollar values for transmissions of virtual currency through one or
+48 more of the operator's kiosks:
+49 (1) One thousand dollars ($1,000) for a new virtual currency customer.
+50 (2) Two thousand five hundred dollars ($2,500) for an existing virtual currency
+51 customer.
+Page 6 House Bill 920-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (b) Refunds. – The virtual currency kiosk operator shall refund the full dollar amount
+2 deposited into a kiosk if all of the following apply:
+3 (1) The person was fraudulently induced to transmit the virtual currency.
+4 (2) The person reported the fraudulent nature of the transmission to the virtual
+5 currency kiosk operator within 30 days of the transmission.
+6 (c) Cancellation of Transaction. – A customer shall have the option to cancel any
+7 transaction and receive a full and immediate refund if the cancellation is done before the
+8 transaction is completed. The kiosk shall provide a receipt compliant with G.S. 53-447 for any
+9 cancelled transaction.
+10 (d) Fees. – The aggregate fees and charges directly or indirectly charged to a customer
+11 related to a single transaction or series of related transactions involving virtual currency effected
+12 through a virtual currency kiosk in this State, including any difference between the price charged
+13 to a customer to buy, sell, exchange, swap, or virtual currency and the prevailing market value
+14 of such virtual currency at the time of such transaction, shall not exceed three percent (3%) of
+15 the United States dollar equivalent of the virtual currency involved in the transaction or
+16 transactions.
+17 "§ 53-457. Unfair trade practice.
+18 A violation of this Article is an unfair trade practice under G.S. 75-1.1.
+19 "§ 53-458. Facilitating or inducing a fraudulent virtual currency kiosk transaction a
+20 misdemeanor.
+21 It is unlawful for any person to facilitate or induce a fraudulent virtual currency kiosk
+22 transaction. Any person that violates this section is guilty of a Class 1 misdemeanor.
+23 "§ 53-459. Local government authority not preempted.
+24 Any local government may regulate virtual currency kiosks in a manner that does not conflict
+25 with this Article. Nothing in this Article shall limit a local government's authority to impose
+26 greater requirements or restrictions on virtual currency kiosks.
+27 "§ 53-460. Additional authorities and remedies.
+28 The implementation, administrative authority, and enforcement provisions of Article 16B of
+29 this Chapter apply to this Article."
+30 SECTION 2. If any provision of this act or its application to any person or
+31 circumstance is held invalid, then the invalidity shall not affect other provisions or applications
+32 of the act that can be given effect without the invalid provision or application and, to that end,
+33 the provisions of this act shall be severable.
+34 SECTION 3.(a) No later than December 1, 2026, the Commissioner shall adopt rules
+35 necessary to implement the provisions of this act.
+36 SECTION 3.(b) This section is effective when it becomes law.
+37 SECTION 4. Unless otherwise provided, this act becomes effective December 1,
+38 2026, and applies to offenses committed on or after that date.
+House Bill 920-Second Edition Page 7

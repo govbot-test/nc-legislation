@@ -1,0 +1,2510 @@
+Title: 
+Official Title: 
+Source: versions - Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+H.B. 1017
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 21, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH10571-MTa-148
+Short Title: Sound Basic Education for Every Child. (Public)
+Sponsors: Representative von Haefen.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROVIDE FOR A SOUND BASIC EDUCATION FOR EVERY CHILD IN
+3 NORTH CAROLINA.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. WELL-PREPARED, HIGH-QUALITY, AND SUPPORTED TEACHER IN
+7 EVERY CLASSROOM
+8
+9 PEPSC POSITIONS
+10 SECTION 1.1. There is appropriated from the General Fund to the Department of
+11 Public Instruction the sum of two hundred thousand dollars ($200,000) in recurring funds for the
+12 2026-2027 fiscal year to support two additional positions for the Professional Educator
+13 Preparation and Standards Commission (Commission) to increase the capacity of the
+14 Commission to coordinate efforts to recruit, prepare, retain, and support the State's teaching
+15 workforce on behalf of the State Board of Education and the Department of Public Instruction.
+16
+17 EDUCATOR LICENSURE AND COMPENSATION REFORM PLAN
+18 SECTION 1.2.(a) The State Board of Education shall develop a plan for
+19 implementing a teacher licensure and compensation reform model designed to restore respect for
+20 the teaching profession; to build a more diverse, quality teaching force; to increase instructional
+21 capabilities of teachers; and to entice more young professionals, mid-career professionals, and
+22 out-of-state individuals into the teaching profession. The plan shall include at least the following
+23 components:
+24 (1) Offer early, inclusive, and clear pathways into the profession.
+25 (2) Reward excellence and advancement among teachers.
+26 (3) Encourage retention in the profession.
+27 The State Board of Education shall submit details on the plan and any recommended
+28 legislative changes to implement the plan to the Joint Legislative Education Oversight
+29 Committee, the Fiscal Research Division, and the Office of State Budget and Management by
+30 March 15, 2027.
+31 SECTION 1.2.(b) There is appropriated from the General Fund to the Department
+32 of Public Instruction the sum of fifty thousand dollars ($50,000) in nonrecurring funds for the
+33 2026-2027 fiscal year to develop the plan required by subsection (a) of this section.
+34
+35 EDUCATOR PREPARATION PROGRAM CAPACITY STUDY
+*DRH10571-MTa-148*
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.3.(a) The State Board of Education, in consultation with The University
+2 of North Carolina System Office, shall conduct a study to identify the resources and structures
+3 that educator preparation programs at the constituent institutions of The University of North
+4 Carolina need to be able to do the following:
+5 (1) Increase capacity in educator preparation programs to recruit, prepare,
+6 support, and graduate at least 5,000 in-State trained teachers annually.
+7 (2) Increase capacity in educator preparation programs to recruit, prepare,
+8 support, and graduate more educators of color annually.
+9 The State Board of Education shall report on the findings of this study to the Joint
+10 Legislative Education Oversight Committee, the Fiscal Research Division, and the Office of
+11 State Budget and Management by March 15, 2027.
+12 SECTION 1.3.(b) There is appropriated from the General Fund to the Department
+13 of Public Instruction the sum of twenty-five thousand dollars ($25,000) in nonrecurring funds for
+14 the 2026-2027 fiscal year to conduct the study required by subsection (a) of this section.
+15
+16 ALTERNATIVE PATHWAYS TEACHER RECRUITMENT MODELS
+17 SECTION 1.4.(a) There is appropriated from the General Fund to the Department
+18 of Public Instruction the sum of five million eight hundred thousand dollars ($5,800,000) in
+19 recurring funds for the 2026-2027 fiscal year to support research-based Grow-Your-Own and
+20 2+2 teacher recruitment education programs in all regions of the State, including high
+21 school-based career academy programs, the North Carolina Teacher Cadet Program, the
+22 Teaching as a Profession program, and the TA to Teachers program.
+23 SECTION 1.4.(b) There is appropriated from the General Fund to the Department
+24 of Public Instruction the sum of one million dollars ($1,000,000) in recurring funds for the
+25 2026-2027 fiscal year to establish new Grow-Your-Own and 2+2 teacher recruitment education
+26 programs in high-need public school units.
+27
+28 STUDY ON CONSOLIDATING AND COORDINATING TEACHER RECRUITMENT
+29 AND RETENTION EFFORTS
+30 SECTION 1.5.(a) The State Board of Education shall develop a plan to implement
+31 and fund a statewide system or entity to coordinate, enhance, and evaluate efforts to recruit, place,
+32 and retain teacher candidates and beginning teachers between institutions of higher education
+33 and local school administrative units. This study shall focus on, but not be limited to, how best
+34 to consolidate and coordinate statewide teacher recruitment and retention efforts. The State Board
+35 of Education shall submit details on the plan and any recommended legislative changes to
+36 implement the plan to the Joint Legislative Education Oversight Committee, the Fiscal Research
+37 Division, and the Office of State Budget and Management by March 15, 2027.
+38 SECTION 1.5.(b) There is appropriated from the General Fund to the Department
+39 of Public Instruction the sum of twenty-five thousand dollars ($25,000) in nonrecurring funds for
+40 the 2026-2027 fiscal year to be used to support the development of the plan required by this
+41 section.
+42
+43 EXPAND NC TEACHING FELLOWS PROGRAM
+44 SECTION 1.6.(a) Part 3 of Article 23 of Chapter 116 of the General Statutes reads
+45 as rewritten:
+46 "Part 3. North Carolina Teaching Fellows Program.
+47 "§ 116-209.60. Definitions.
+48 The following definitions apply in this Part:
+49 (1) Commission. – The North Carolina Teaching Fellows Commission.
+50 (2) Director. – The Director of the North Carolina Teaching Fellows Program.
+51 (3) Forgivable loan. – A forgivable loan made under the Program.
+Page 2 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 (4) Program. – The North Carolina Teaching Fellows Program.
+2 (5) Public school. – An elementary or secondary school located in North Carolina
+3 that is governed by a local board of education, charter school board of
+4 directors, regional school board of directors, or University of North Carolina
+5 laboratory school board of trustees.
+6 (5a) Qualifying licensure area. – A teacher licensure area in one of the following
+7 subjects:
+8 a. Either of the following, as identified pursuant to G.S. 116-209.62(h):
+9 1. Special education.
+10 2. STEM.
+11 b. Elementary education (K-6).
+12 (5b) Qualifying teacher. – A teacher in a North Carolina public school who meets
+13 the following criteria:
+14 a. Received a forgivable loan under the Program.
+15 b. Graduated within 10 years from an educator preparation program
+16 leading to teacher licensure, excluding any authorized deferment for
+17 extenuating circumstances.
+18 c. Serves as a teacher in a qualifying licensure area.
+19 (6) STEM. – Science, technology, engineering, and mathematics.
+20 (7) Trust Fund. – The North Carolina Teaching Fellows Program Trust Fund.
+21 …
+22 "§ 116-209.62. North Carolina Teaching Fellows Program established; administration.
+23 (a) Program. – There is established the North Carolina Teaching Fellows Program to be
+24 administered by the System Office of The University of North Carolina, in conjunction with the
+25 Authority and the Commission. The purpose of the Program is to recruit, prepare, and support
+26 students residing in or attending institutions of higher education located in North Carolina for
+27 preparation as highly effective teachers in qualifying licensure areas in the State's public schools.
+28 The Program shall be used to provide a forgivable loan to individuals interested in preparing to
+29 teach in the public schools of the State in qualifying licensure areas.State.
+30 (b) Trust Fund. – There is established the North Carolina Teaching Fellows Program
+31 Trust Fund to be administered by the Authority, in conjunction with the System Office of The
+32 University of North Carolina. All funds (i) appropriated to, or otherwise received by, the Program
+33 for forgivable loans and other Program purposes, (ii) received as repayment of forgivable loans,
+34 and (iii) earned as interest on these funds shall be placed in the Trust Fund. The purpose of the
+35 Trust Fund is to provide financial assistance to qualified students for completion of teacher
+36 education and licensure programs to fill qualifying licensure areas teach in the public schools of
+37 the State.
+38 …
+39 (d) Director of the Program. – The Board of Governors of The University of North
+40 Carolina shall appoint a Director of the Program. The Director shall appoint staff to the
+41 Commission and shall be responsible for recruitment and coordination of the Program, including
+42 proactive, aggressive, and strategic recruitment of potential recipients. Efforts shall include
+43 identifying and encouraging students of color and students who may not otherwise consider a
+44 career in teaching to enter the Program. Recruitment activities shall include a broad-based
+45 strategy (i) targeting regions of the State with the highest teacher attrition rates and teacher
+46 recruitment challenges, challenges and (ii) actively engaging with educators, business leaders,
+47 experts in human resources, elected officials, and other community leaders throughout the State,
+48 and (iii) attracting candidates in qualifying licensure areas to the Program. State to attract a
+49 diverse pool of applicants. The Director shall report to the President of The University of North
+50 Carolina. The Authority shall provide office space and clerical support staff, as necessary, to the
+51 Director for the Program.
+DRH10571-MTa-148 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (e) Student Selection Criteria for Forgivable Loans. – The Commission shall adopt
+2 stringent standards for awarding forgivable loans based on multiple measures to ensure that only
+3 the strongest applicants receive them, including the following:
+4 (1) Grade point averages.
+5 (2) Performance on relevant career and college readiness assessments.
+6 (3) Experience, accomplishments, and other criteria demonstrating qualities
+7 positively correlated with highly effective teachers, including excellent verbal
+8 and communication skills.
+9 (4) Demonstrated commitment to serve in a qualifying licensure area in North
+10 Carolina public schools.
+11 (f) Program Selection Criteria. – The Authority shall administer the Program in
+12 cooperation with up to 10 institutions of higher education with approved educator preparation
+13 programs selected by the Commission that represent a diverse selection of both postsecondary
+14 constituent institutions of The University of North Carolina and private postsecondary
+15 institutions operating in the State. State, including minority-serving institutions. The
+16 Commission shall adopt stringent standards for selection of the most effective educator
+17 preparation programs, including the following:
+18 (1) Demonstrates high rates of educator effectiveness on value-added models and
+19 teacher evaluations, including using performance-based, subject-specific
+20 assessment and support systems, such as edTPA or other metrics of evaluating
+21 candidate effectiveness that have predictive validity.
+22 (2) Demonstrates measurable impact of prior graduates on student learning,
+23 including impact of graduates teaching in qualifying licensure areas.learning.
+24 (3) Demonstrates high rates of graduates passing exams required for teacher
+25 licensure.
+26 (4) Provides curricular and co-curricular enhancements in leadership, facilitates
+27 learning for diverse learners, and promotes community engagement,
+28 classroom management, and reflection and assessment.
+29 (5) Requires at least a minor concentration of study in the subject area that the
+30 candidate may teach.
+31 (6) Provides early and frequent internship or practical experiences, including the
+32 opportunity for participants to perform practicums in diverse school
+33 environments.
+34 (7) Is approved by the State Board of Education as an educator preparation
+35 program.
+36 (8) For an educator preparation program enrolling loan recipients in a program of
+37 study leading to licensure in elementary education (K-6), provides training
+38 that is aligned with the Science of Reading in accordance with
+39 G.S. 115C-269.20. The Commission shall contract with a third-party entity to
+40 biennially evaluate whether a program identified in this subdivision is
+41 providing training that is aligned with the Science of Reading.
+42 (g) Awards of Forgivable Loans. – The Program shall provide forgivable loans to selected
+43 students to be used at up to 10 selected institutions for completion of a program leading to initial
+44 teacher licensure as follows:
+45 (1) North Carolina high school seniors. – Forgivable loans of up to five thousand
+46 dollars ($5,000) per semester for up to eight semesters.
+47 (2) Students applying for transfer to a selected educator preparation program at
+48 an institution of higher education. – Forgivable loans of up to five thousand
+49 dollars ($5,000) per semester for up to six semesters.
+Page 4 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 (3) Individuals currently holding a bachelor's degree seeking preparation for
+2 teacher licensure. – Forgivable loans of up to five thousand dollars ($5,000)
+3 per semester for up to four semesters.
+4 (4) Students matriculating at institutions of higher education who are changing to
+5 an approved program of study at a selected educator preparation program. –
+6 Forgivable loans of up to five thousand dollars ($5,000) per semester for up
+7 to four semesters.
+8 Forgivable loans may be used for tuition, fees, the cost of books, and expenses related to
+9 obtaining licensure.
+10 (g1) Extracurricular Enhancement Activities. – The Program shall provide planning,
+11 training, and ongoing support for Program leaders and recipients, including training on topics
+12 such as culturally responsive teaching, teaching students with disabilities, and trauma-informed
+13 teaching.
+14 (h) Identification of STEM and Special Education Licensure Areas. – The Superintendent
+15 of Public Instruction shall identify and provide to the Commission and the Authority a list of
+16 STEM and special education licensure areas and shall annually provide to the Commission the
+17 number of available positions in each qualifying licensure area relative to the number of current
+18 and anticipated teachers in that area of licensure. The Commission shall make the list of STEM
+19 and special education licensure areas readily available to applicants.
+20 …
+21 (j) Annual Report. – The Commission, in coordination with the Authority, the
+22 Department of Public Instruction, and the selected educator education programs participating in
+23 the Program shall report no later than January 1, 2019, and annually thereafter, to the Joint
+24 Legislative Education Oversight Committee regarding the following:
+25 (1) Forgivable loans awarded from the Trust Fund, including the following:
+26 a. Demographic information regarding recipients.
+27 b. Number of recipients by institution of higher education and program.
+28 c. Information on number of recipients by anticipated qualifying
+29 licensure area.
+30 (2) Placement and repayment rates, including the following:
+31 a. Number of graduates who have been employed in a qualifying
+32 licensure area within two years of program completion.
+33 b. Number of graduates who accepted employment at a low-performing
+34 school identified under G.S. 115C-105.37 as part of their years of
+35 service.
+36 c. Number of graduates who have elected to do loan repayment and their
+37 years of service, if any, prior to beginning loan repayment.
+38 d. Number of graduates employed in a qualifying licensure area who
+39 have received an overall rating of at least accomplished and have met
+40 expected growth on applicable standards of the teacher evaluation
+41 instrument.
+42 e. Aggregate information on student growth and proficiency in courses
+43 taught by graduates who have fulfilled service requirements through
+44 employment in a qualifying licensure area.employment.
+45 …."
+46 SECTION 1.6.(b) There is appropriated from the General Fund to the North Carolina
+47 Teaching Fellows Program Trust Fund the sum of thirty-seven million dollars ($37,000,000) in
+48 recurring funds for the 2026-2027 fiscal year to revise and expand the NC Teaching Fellows
+49 Program in accordance with subsection (a) of this section.
+50 SECTION 1.6.(c) Subsection (a) of this section applies to applications for the award
+51 of funds beginning in the 2026-2027 academic year.
+DRH10571-MTa-148 Page 5
+
+General Assembly Of North Carolina Session 2025
+1
+2 RECRUITMENT BONUS PILOT PROGRAM FOR TEACHERS IN LOW-WEALTH,
+3 LOW-PERFORMING, OR HIGH-NEED SCHOOLS
+4 SECTION 1.7.(a) Purpose. – The State Board of Education shall establish a grant
+5 program to assist local school administrative units in providing multiyear recruitment bonuses to
+6 certified teachers who commit to teach multiple years in a low-performing or high-need school.
+7 Bonuses awarded as part of this grant program shall include, but are not limited to, the following
+8 components:
+9 (1) Awards over multiple years with a requirement that teachers remain in the
+10 school over multiple years to receive the bonus.
+11 (2) Awards to licensed teachers who commit to teach in a school identified as
+12 low-performing, as defined in G.S. 115C-105.37, a school identified as
+13 continually low-performing, as defined in G.S. 115C-105.37A, or a school
+14 where seventy-five percent (75%) or greater of students qualify for free or
+15 reduced-price lunch under the National School Lunch Program.
+16 SECTION 1.7.(b) Request for Proposal. – By September 1, 2026, and annually
+17 thereafter, the State Board of Education shall issue a request for proposal (RFP) for the grant
+18 program. Local boards of education shall submit their proposals by December 1, 2026. The RFP
+19 shall require that proposals include the following information at a minimum:
+20 (1) Description of the proposal, including details on targeted schools for the
+21 bonuses and how the bonus program will be structured.
+22 (2) Evidence-based research that supports the proposal.
+23 (3) Implementation time line for the plan.
+24 (4) Plans for financial sustainability once grant money is no longer available.
+25 SECTION 1.7.(c) Grant Awards. – By February 15, 2027, the State Board of
+26 Education shall review the proposals submitted by local boards of education and select up to 10
+27 local school administrative units for grant awards. The State Board of Education may make grant
+28 awards for up to three years. A local school administrative unit may not receive more than five
+29 hundred thousand dollars ($500,000) in a single fiscal year from the grant program.
+30 SECTION 1.7.(d) Evaluation and Reporting. – Of the funds appropriated by this
+31 section, the State Board of Education may use up to three hundred thousand dollars ($300,000)
+32 to contract with an independent research organization to evaluate the impact of this grant
+33 program. The independent research organization shall report the results of this evaluation to the
+34 Joint Legislative Education Oversight Committee, the Fiscal Research Division, and the Office
+35 of State Budget and Management by September 1, 2029. The Department of Public Instruction
+36 shall report annually on the implementation of this grant program beginning March 15, 2027.
+37 SECTION 1.7.(e) Appropriation. – There is appropriated from the General Fund to
+38 the Department of Public Instruction the sum of seven million seven hundred thousand dollars
+39 ($7,700,000) in recurring funds for the 2026-2027 fiscal year to implement the grant program in
+40 accordance with this section.
+41 SECTION 1.7.(f) Carryforward. – Any unexpended funds appropriated under this
+42 section at the end of the 2026-2027 fiscal year shall not revert to the General Fund but shall
+43 remain available for the purposes set forth in this section.
+44
+45 TEACHER PREPARATION RESIDENCY PILOT GRANT PROGRAM
+46 SECTION 1.8.(a) Purpose. – The State Board of Education shall establish a grant
+47 program to assist local school administrative units in the development of teacher preparation
+48 residency pilot programs. Teacher preparation residency programs provide the necessary
+49 preparation and induction supports to teacher preparation candidates pursuing a continuing
+50 professional license. Teacher preparation residency programs eligible to receive grant funding
+51 through this program shall include, at a minimum, the following components:
+Page 6 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 (1) Coursework in the candidate's area of licensure.
+2 (2) Tuition and stipends.
+3 (3) Faculty advising.
+4 (4) Clinical training experiences.
+5 (5) Ongoing induction support.
+6 Residency programs eligible for this grant program may include partnerships between
+7 local school administrative units, educator preparation programs, local community colleges or
+8 universities, and other community organizations. Grant funds awarded to local school
+9 administrative units under this program shall be matched by the local school administrative units
+10 on the basis of one dollar ($1.00) in non-grant funds for every one dollar ($1.00) in grant funds.
+11 SECTION 1.8.(b) Request for Proposal. – By October 1, 2026, the State Board of
+12 Education shall issue a request for proposal (RFP) for the grant program. Local boards of
+13 education shall submit their proposals by January 15, 2027. The RFP shall require that proposals
+14 include the following information at a minimum:
+15 (1) Description of the proposal, including the number of teacher preparation
+16 candidates to be served.
+17 (2) Evidence-based research that supports the proposal.
+18 (3) Implementation time line for the plan.
+19 (4) Plans for financial sustainability once grant money is no longer available.
+20 SECTION 1.8.(c) Grant Awards. – By April 15, 2027, the State Board of Education
+21 shall review the proposals submitted by local boards of education and shall select up to 10 local
+22 school administrative units for grant awards. The State Board of Education may make grant
+23 awards for up to three years. A local school administrative unit may not receive more than five
+24 hundred thousand dollars ($500,000) in a single fiscal year from this grant program.
+25 SECTION 1.8.(d) Evaluation and Reporting. – Of the funds appropriated by this
+26 section, the State Board of Education may use up to three hundred thousand dollars ($300,000)
+27 to contract with an independent research organization to evaluate the impact of this grant
+28 program. The independent research organization shall report the results of this evaluation to the
+29 Joint Legislative Education Oversight Committee, the Fiscal Research Division, and the Office
+30 of State Budget and Management by September 1, 2030. The Department of Public Instruction
+31 shall report annually on the implementation of this grant program beginning March 15, 2027.
+32 SECTION 1.8.(e) Appropriation. – There is appropriated from the General Fund to
+33 the Department of Public Instruction the sum of twenty-five million dollars ($25,000,000) in
+34 recurring funds for the 2026-2027 fiscal year to implement the grant program in accordance with
+35 this section.
+36 SECTION 1.8.(f) Carryforward. – Any unexpended funds appropriated under this
+37 section at the end of the 2026-2027 fiscal year shall not revert to the General Fund but shall
+38 remain available for the purposes set forth in this section.
+39
+40 EXPAND PARTNERSHIP TEACH
+41 SECTION 1.9. There is appropriated from the General Fund to the Board of
+42 Governors of The University of North Carolina the sum of two hundred thousand dollars
+43 ($200,000) in recurring funds for the 2026-2027 fiscal year to expand Partnership Teach to up to
+44 two additional hub sites, including providing funds for staffing, fellowship support, mentoring,
+45 and increasing recruitment capacity.
+46
+47 DEVELOPING A REPRESENTATIVE AND INCLUSIVE VISION FOR EDUCATION
+48 (DRIVE) GRANT PROGRAM
+49 SECTION 1.10.(a) Purpose. – The State Board of Education, in consultation with
+50 the Office of the Governor, The University of North Carolina System Office, and the Community
+51 College System Office, shall establish a grant program to support strategic partnerships
+DRH10571-MTa-148 Page 7
+
+General Assembly Of North Carolina Session 2025
+1 committed to increasing the pipeline of educators of color across the State. As an extension of
+2 the recommendations and strategies presented by the Governor's DRIVE Task Force on January
+3 1, 2021, the grants shall be provided to local school administrative units, institutions of higher
+4 education, and community organizations to implement innovative initiatives that support the
+5 recruitment, preparation, support, and retention of racially, ethnically, and linguistically diverse
+6 educators. The purpose of this program shall be to do at least the following:
+7 (1) Increase the diversity of the educator workforce across the State through novel
+8 recruitment efforts.
+9 (2) Strengthen the pipeline of aspiring teachers of color across the State through
+10 traditional and alternative certification pathways.
+11 (3) Provide mechanisms to support and retain educators of color currently serving
+12 in elementary and secondary public schools.
+13 (4) Promote collaboration between school systems, institutions of higher
+14 education, and community and nonprofit organizations to diversify the
+15 educator workforce.
+16 SECTION 1.10.(b) Applications. – Applicants for grants shall demonstrate at least
+17 the following for grant award consideration:
+18 (1) A partnership between at least two of the following entities: local school
+19 administrative units, Historically Black Colleges and Universities,
+20 Historically Minority-Serving Institutions, educator preparation programs,
+21 alternative certification programs, public and private colleges and universities,
+22 community colleges, and community or nonprofit organizations.
+23 (2) Proposals for strategies that address one or more of the following components
+24 of the educator development continuum as highlighted by the DRIVE Task
+25 Force's 2021 Report to the Governor: recruitment, placement and induction,
+26 and support and retention of educators of color.
+27 SECTION 1.10.(c) Use of Funds. – Grant funds may be used for the following
+28 activities:
+29 (1) Strengthening existing high school dual enrollment programs to offer
+30 education-based college credit or honors courses as streamlined pathways for
+31 future careers in education.
+32 (2) Implementing targeted school system-level and community-based recruitment
+33 programs for aspiring educators of color interested in traditional and
+34 alternative educator preparation programs.
+35 (3) Utilizing and leveraging existing financial aid programs that include
+36 scholarships, loan forgiveness, and tuition reimbursement that reduce the
+37 disproportionate financial burden incurred by aspiring candidates of color.
+38 (4) Increasing preparation and supporting preservice educators of color through
+39 paid clinical learning experiences, with a commitment to teaching in North
+40 Carolina public schools.
+41 (5) Offering support for job placement and licensure for candidates of color after
+42 completing their educator preparation program.
+43 (6) Providing induction and mentoring programs that address the needs of
+44 educators of color and that include sustaining networking and professional
+45 learning communities or affinity groups.
+46 (7) Encouraging and financially supporting educators of color interested in
+47 joining national professional organizations or attending national conferences.
+48 SECTION 1.10.(d) Request for Proposal. – By October 1, 2026, the State Board of
+49 Education shall issue a request for proposal (RFP) for the grant program. Applicants shall submit
+50 their proposals by December 1, 2026. The RFP shall require that proposals include the following
+51 information at a minimum:
+Page 8 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 (1) Description of the proposal.
+2 (2) Evidence-based research that supports the proposal.
+3 (3) An implementation time line for the plan.
+4 (4) Plans for financial sustainability once grant money is no longer available.
+5 SECTION 1.10.(e) Selection. – By February 1, 2027, a selection committee shall
+6 select up to five grantees, making the effort to ensure that there is representation across the State
+7 as reflected by rural and urban districts, institutions of higher education, and community-based
+8 partners. Any grants awarded may be spent over a five-year period from the initial award. Grants
+9 may be awarded for new or existing projects.
+10 SECTION 1.10.(f) Reporting Requirements. – No later than September 1 of each
+11 year, grant recipients shall submit to the State Board of Education an annual report for the
+12 preceding grant year that describes the implementation of the program. This report must include
+13 qualitative and quantitative data to demonstrate program effectiveness.
+14 SECTION 1.10.(g) Evaluation and Reporting. – Of the funds appropriated by this
+15 section, the State Board of Education may use up to three hundred thousand dollars ($300,000)
+16 to contract with an independent research organization to evaluate the impact of this grant
+17 program. The independent research organization shall report the results of this evaluation to the
+18 Joint Legislative Education Oversight Committee, the Fiscal Research Division, and the Office
+19 of State Budget and Management by September 1, 2028. The State Board of Education shall
+20 report annually on the implementation of this grant program beginning on January 1, 2028.
+21 SECTION 1.10.(h) Appropriation. – There is appropriated from the General Fund
+22 to the Department of Public Instruction the sum of two million dollars ($2,000,000) in recurring
+23 funds for the 2026-2027 fiscal year to implement the grant program in accordance with this
+24 section.
+25 SECTION 1.10.(i) Carryforward. – Any unexpended funds at the end of the
+26 2026-2027 fiscal year from the funds appropriated for the grant program under this section shall
+27 not revert to the General Fund but shall remain available for expenditure for the purposes set
+28 forth in this section.
+29
+30 ANNUAL EDUCATOR DIVERSITY REPORT
+31 SECTION 1.11.(a) G.S. 115C-12(22) reads as rewritten:
+32 "(22) Duty to Monitor the State of the Teaching and School Administration
+33 Professions and Educator Diversity in North Carolina. – The State Board of
+34 Education shall monitor and compile an annual report reports on the
+35 following:
+36 a. The state of the teaching and school administration professions in
+37 North Carolina, as provided in G.S. 115C-289.2 and G.S. 115C-299.5.
+38 b. Educator diversity in North Carolina, as provided in
+39 G.S. 115C-299.7."
+40 SECTION 1.11.(b) Article 20 of Chapter 115C of the General Statutes is amended
+41 by adding a new section to read:
+42 "§ 115C-299.7. Duty to monitor educator diversity.
+43 (a) Definitions. – As used in this section, the following definitions apply:
+44 (1) Diversity categories. – Race and ethnicity.
+45 (2) Education entity. – Any of the following:
+46 a. A public school unit, as defined in G.S. 115C-5(7a).
+47 b. An educator preparation program, as defined in G.S. 115C-269.1(10).
+48 (3) Educators. – Teachers employed by a public school unit.
+49 (4) Future educators. – Students enrolled in an educator preparation program.
+50 (5) Grade level. – Where applicable, the grade level taught by an educator and the
+51 grade level attended by a future educator.
+DRH10571-MTa-148 Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (6) Mobility rates. – The percentage of educators who move from one school or
+2 public school unit to another.
+3 (7) Qualitative data. – Information collected via questionnaire, interview, and
+4 other nonquantitative methods.
+5 (b) Education Entity Diversity Report. – No later than July 30, 2027, and annually
+6 thereafter, each education entity shall report to the Department of Public Instruction the following
+7 information regarding the diversity of educators and future educators in the entity from the
+8 previous school year, disaggregated by diversity category and, where applicable, by grade level:
+9 (1) Total number of educators and future educators.
+10 (2) The number of persons who apply to work in or attend the education entity as
+11 an educator or future educator.
+12 (3) The number of educators and future educators who are employed by or
+13 enrolled in an education entity.
+14 (4) Retention rates of educators.
+15 (5) Mobility rates of educators between schools in a public school unit.
+16 (6) The number of future educators who do the following:
+17 a. Complete an educator preparation program.
+18 b. Become licensed in North Carolina.
+19 c. Become employed in a public school unit.
+20 (7) Qualitative data from educators and future educators on the diversity and
+21 inclusiveness of the education entity, including applicable information on
+22 recruitment, educator preparation, retention, mobility, and turnover. This
+23 information should include related reasons for educator attrition provided on
+24 educator workforce reports.
+25 (8) Recommendations from the entity to improve diversity of educators and future
+26 educators, including strategies to recruit and retain a diverse pool of educators
+27 and future educators.
+28 (c) Statewide Diversity Report. – No later than October 15, 2027, and annually thereafter,
+29 the Department of Public Instruction shall collect the information provided pursuant to
+30 subsection (b) of this section and report that information, organized to include at least the
+31 following, to the Joint Legislative Education Oversight Committee, disaggregated by diversity
+32 category and, where applicable, by grade level:
+33 (1) Statewide data for each education entity, including mobility rates of educators
+34 between public school units.
+35 (2) Recommendations from the Department to improve diversity among
+36 educators and future educators in education entities, including strategies to
+37 recruit and retain a diverse pool of educators and future educators.
+38 (d) Statistical Profile. – The Department of Public Instruction shall include the
+39 information regarding public school units collected pursuant to this section in the statistical
+40 profile of public schools maintained on its website.
+41 (e) Certain Information Excluded. – Nothing in this section shall be construed to require
+42 an education entity or the Department of Public Instruction to report any data that reveals
+43 confidential or personally identifiable information about an educator or future educator."
+44
+45 ESTABLISH THE OFFICE OF EQUITY AFFAIRS WITHIN THE DEPARTMENT OF
+46 PUBLIC INSTRUCTION
+47 SECTION 1.12.(a) Chapter 115C of the General Statutes is amended by adding a
+48 new Article to read:
+49 "Article 6E.
+50 "Office of Equity Affairs.
+51 "§ 115C-64.35. Establishment, purpose, and duties of Office of Equity Affairs.
+Page 10 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 (a) There is established within the Department of Public Instruction the Office of Equity
+2 Affairs. The purpose of the Office of Equity Affairs is to provide internal oversight within the
+3 Department of Public Instruction and the State Board of Education specific to compliance with
+4 the State's constitutional role to provide each child the opportunity to receive a sound basic
+5 education and to direct the recruitment and retention of a diverse educator workforce.
+6 (b) The Office of Equity Affairs shall review educational policies, programs, and
+7 initiatives and shall provide an independent, objective source of information to be used in
+8 evaluating substantial compliance with sound basic education standards and the goal of recruiting
+9 and retaining a diverse educator workforce, giving special attention and consideration to
+10 outcomes for at-risk students. The Office of Equity Affairs may suggest adjustments to the
+11 content and delivery of educational policies, programs, and initiatives to improve their efficacy.
+12 The authority of the Office of Equity Affairs to evaluate and advise shall extend to all policies,
+13 programs, and initiatives related to ensuring that all students have access to a sound basic
+14 education and to the goal of recruiting and retaining a diverse educator workforce.
+15 (c) In carrying out its duties, the Office of Equity Affairs has authority to obtain full and
+16 unrestricted access to all records, information, and data in the possession of or legally available
+17 to the Department of Public Instruction or State Board of Education.
+18 (d) Beginning no later than January 15 immediately following the effective date of this
+19 section, and semiannually thereafter, the Office of Equity Affairs shall submit a report to the
+20 Joint Legislative Education Oversight Committee on the (i) implementation of its duties as set
+21 forth in this Article, (ii) progress of the Department of Public Instruction and the State Board of
+22 Education in effectively providing each child the opportunity to receive a sound basic education,
+23 and (iii) diversity of the educator workforce. Prior to the reporting of any deficiencies in progress,
+24 the Office of Equity Affairs shall give to the Department of Public Instruction and the State Board
+25 of Education ample notice of the deficiencies and an opportunity to correct or improve the
+26 deficiencies and shall include in the report any efforts to do so. The report shall include any
+27 recommended legislation.
+28 "§ 115C-64.36. Administrative organization; organizational independence.
+29 (a) There is established within the Department of Public Instruction the position of
+30 Deputy Superintendent of Equity Affairs who shall serve as the chief officer of the Office of
+31 Equity Affairs. The Deputy Superintendent shall have professional, administrative, technical, and
+32 clerical personnel as may be necessary in carrying out the duties of the position.
+33 (b) The Superintendent of Public Instruction shall recommend to the State Board of
+34 Education the individual to be appointed as Deputy Superintendent of Equity Affairs, and the
+35 recommended appointee shall be appointed upon approval by the State Board of Education. The
+36 Deputy Superintendent shall report to the Superintendent of Public Instruction and the State
+37 Board of Education jointly and may be removed only upon the joint agreement of the
+38 Superintendent of Public Instruction and a majority of the members of the State Board of
+39 Education. The Deputy Superintendent shall be organizationally situated to avoid impairments
+40 to independence of the Deputy Superintendent's professional judgment on how to best
+41 accomplish the purposes of the Office of Equity Affairs."
+42 SECTION 1.12.(b) There is appropriated from the General Fund to the Department
+43 of Public Instruction for the 2026-2027 fiscal year the sum of four hundred thousand dollars
+44 ($400,000) in recurring funds to permit the Deputy Superintendent of Equity Affairs, as
+45 established by this section, to appoint up to four full-time staff to assist in the administration of
+46 the Deputy Superintendent's duties under Article 6E of Chapter 115C of the General Statutes, as
+47 enacted by this section. Personnel appointed to these positions shall report solely to the Deputy
+48 Superintendent of Equity Affairs. The appointments shall not be subject to approval or
+49 disapproval by the Superintendent of Public Instruction or the State Board of Education. Of the
+50 four time-limited positions, one shall be an administrative assistant position and at least one shall
+51 be an attorney position.
+DRH10571-MTa-148 Page 11
+
+General Assembly Of North Carolina Session 2025
+1
+2 NORTH CAROLINA NEW TEACHER SUPPORT PROGRAM
+3 SECTION 1.13. There is appropriated from the General Fund to the Board of
+4 Governors of The University of North Carolina the sum of forty-eight million five hundred
+5 thousand dollars ($48,500,000) in recurring funds for the 2026-2027 fiscal year for the New
+6 Teacher Support Program to provide mentoring and coaching support to beginning teachers who
+7 are employed in public schools identified as low-performing or high-poverty at no cost to the
+8 local school administrative units.
+9
+10 ADVANCED TEACHING ROLES CHANGES
+11 SECTION 1.14.(a) G.S. 115C-310.7(a) reads as rewritten:
+12 "(a) Class Size Flexibility. – Notwithstanding G.S. 115C-301, with the approval of the
+13 State Board of Education, ATR schools may exceed the maximum class size requirements for
+14 kindergarten through third grade during any term of up to three years in which State funds are
+15 awarded to the ATR unit where the school is located. At the conclusion of the term, any class
+16 size flexibility approved for an ATR school pursuant to this subsection shall expire.grade."
+17 SECTION 1.14.(b) This section is effective beginning July 1, 2026, and applies
+18 beginning with the 2026-2027 school year.
+19
+20 EDUCATOR PROFESSIONAL DEVELOPMENT ALLOTMENT
+21 SECTION 1.15.(a) Effective July 1, 2026, there is established the Educator
+22 Professional Development Allotment in the State Public School Fund. The State Board of
+23 Education shall establish the purposes for which the funds within the new Educator Professional
+24 Development Allotment may be used, including at least the following:
+25 (1) Educator professional development for targeted public school units and
+26 schools requiring multitiered support for prekindergarten through grade three,
+27 including the following:
+28 a. Child development.
+29 b. Early literacy.
+30 c. Social and emotional learning.
+31 d. Family engagement.
+32 (2) Implementation of literacy training.
+33 (3) Mentoring programs for beginning educators.
+34 SECTION 1.15.(b) There is appropriated from the General Fund to the Department
+35 of Public Instruction the sum of one hundred twenty-eight million four hundred fifty thousand
+36 dollars ($128,450,000) in recurring funds for the 2026-2027 fiscal year to be used to fund the
+37 Educator Professional Development Allotment. Funds shall be allotted to local school
+38 administrative units based on average daily membership.
+39
+40 REPORT FINDINGS OF COMPENSATION STUDY
+41 SECTION 1.16. The Department of Public Instruction shall report to the Joint
+42 Legislative Education Oversight Committee, the Fiscal Research Division, and the Office of
+43 State Budget and Management (OSBM) by March 1, 2027, on the findings of the compensation
+44 study it conducted on alternative teacher compensation models and advanced teaching roles using
+45 funds awarded by OSBM from the North Carolina Evaluation Fund.
+46
+47 TEACHER SALARY SCHEDULE
+48 SECTION 1.17.(a) The following monthly teacher salary schedule shall apply for
+49 the 2026-2027 fiscal year to licensed personnel of the public schools who are classified as
+50 teachers. The salary schedule is based on years of teaching experience.
+51 2026-2027 Teacher Monthly Salary Schedule
+Page 12 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 Years of Experience "A" Teachers
+2 0 $5,120
+3 1 $5,160
+4 2 $5,200
+5 3 $5,240
+6 4 $5,280
+7 5 $5,320
+8 6 $5,360
+9 7 $5,400
+10 8 $5,440
+11 9 $5,480
+12 10 $5,520
+13 11 $5,560
+14 12 $5,600
+15 13 $5,640
+16 14 $5,680
+17 15-24 $5,720
+18 25+ $5,920
+19 SECTION 1.17.(b) Salary Supplements for Teachers Paid on This Salary Schedule.
+20 –
+21 (1) Licensed teachers who have NBPTS certification shall receive a salary
+22 supplement each month of twelve percent (12%) of their monthly salary on
+23 the "A" salary schedule.
+24 (2) Licensed teachers who are classified as "M" teachers shall receive a salary
+25 supplement each month of ten percent (10%) of their monthly salary on the
+26 "A" salary schedule.
+27 (3) Licensed teachers with licensure based on academic preparation at the
+28 six-year degree level shall receive a salary supplement of one hundred
+29 twenty-six dollars ($126.00) per month in addition to the supplement provided
+30 to them as "M" teachers.
+31 (4) Licensed teachers with licensure based on academic preparation at the
+32 doctoral degree level shall receive a salary supplement of two hundred
+33 fifty-three dollars ($253.00) per month in addition to the supplement provided
+34 to them as "M" teachers.
+35 (5) Certified school nurses shall receive a salary supplement each month of ten
+36 percent (10%) of their monthly salary on the "A" salary schedule.
+37 (6) School counselors who are licensed as counselors at the master's degree level
+38 or higher shall receive a salary supplement of one hundred dollars ($100.00)
+39 per month.
+40 SECTION 1.17.(c) For school psychologists, school speech pathologists who are
+41 licensed as speech pathologists at the master's degree level or higher, and school audiologists
+42 who are licensed as audiologists at the master's degree level or higher, the following shall apply:
+43 (1) The first step of the salary schedule shall be equivalent to the sixth step of the
+44 "A" salary schedule.
+45 (2) These employees shall receive the following salary supplements each month:
+46 a. Ten percent (10%) of their monthly salary, excluding the supplement
+47 provided pursuant to sub-subdivision b. of this subdivision.
+48 b. Five hundred dollars ($500.00).
+49 (3) These employees are eligible to receive salary supplements equivalent to those
+50 of teachers for academic preparation at the six-year degree level or the
+51 doctoral degree level.
+DRH10571-MTa-148 Page 13
+
+General Assembly Of North Carolina Session 2025
+1 (4) The twenty-sixth step of the salary schedule shall be seven and one-half
+2 percent (7.5%) higher than the salary received by these same employees on
+3 the twenty-fifth step of the salary schedule.
+4 SECTION 1.17.(d) Beginning with the 2014-2015 fiscal year, in lieu of providing
+5 annual longevity payments to teachers paid on the teacher salary schedule, the amounts of those
+6 longevity payments are included in the monthly amounts under the teacher salary schedule.
+7 SECTION 1.17.(e) A teacher compensated in accordance with this salary schedule
+8 for the 2026-2027 school year shall receive an amount equal to the greater of the following:
+9 (1) The applicable amount on the salary schedule for the applicable school year.
+10 (2) For teachers who were eligible for longevity for the 2013-2014 school year,
+11 the sum of the following:
+12 a. The salary the teacher received in the 2013-2014 school year pursuant
+13 to Section 35.11 of S.L. 2013-360.
+14 b. The longevity that the teacher would have received under the longevity
+15 system in effect for the 2013-2014 school year provided in Section
+16 35.11 of S.L. 2013-360 based on the teacher's current years of service.
+17 c. The annual bonus provided in Section 9.1(e) of S.L. 2014-100.
+18 (3) For teachers who were not eligible for longevity for the 2013-2014 school
+19 year, the sum of the salary and annual bonus the teacher received in the
+20 2014-2015 school year pursuant to Section 9.1 of S.L. 2014-100.
+21 SECTION 1.17.(f) As used in this section, the term "teacher" shall also include
+22 instructional support personnel.
+23 SECTION 1.17.(g) There is appropriated from the General Fund to the Department
+24 of Public Instruction for the 2026-2027 fiscal year the sum of seven hundred thirty-one million
+25 eight hundred thousand dollars ($731,800,000) in recurring funds to implement the teacher raises
+26 provided in this section.
+27 SECTION 1.17.(h) It is the intent of the General Assembly to adjust compensation
+28 for teachers in the 2027-2028 fiscal year and subsequent fiscal years in accordance with
+29 information provided by the Department of Public Instruction in March of 2027 pursuant to the
+30 compensation study referenced in Section 1.16 of this act.
+31
+32 FUNDS FOR NATIONAL BOARD CERTIFICATION APPLICATION FEE
+33 SECTION 1.18. There is appropriated from the General Fund to the Department of
+34 Public Instruction the sum of nine hundred thousand dollars ($900,000) in recurring funds for the
+35 2026-2027 fiscal year to provide additional grants for reimbursement of the cost of the
+36 participation fee for National Board for Professional Teaching Standards (NBPTS) certification
+37 pursuant to G.S. 115C-296.2A.
+38
+39 PART II. WELL-PREPARED, HIGH-QUALITY, AND SUPPORTED PRINCIPAL IN
+40 EVERY SCHOOL
+41
+42 EXPANSION OF THE NORTH CAROLINA PRINCIPAL FELLOWS PROGRAM
+43 SECTION 2.1. There is appropriated from the General Fund to the North Carolina
+44 Principal Fellows Trust Fund the sum of thirteen million two hundred thousand dollars
+45 ($13,200,000) in recurring funds for the 2026-2027 fiscal year to be used to provide forgivable
+46 loans for additional principal candidates through principal preparation programs that are provided
+47 grants under the North Carolina Principal Fellows Program (Program) established pursuant to
+48 Article 5C of Chapter 116 of the General Statutes.
+49
+50 STATEWIDE SCHOOL LEADERSHIP ACADEMY
+Page 14 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.2.(a) The State Board of Education shall develop a plan for the creation
+2 of a School Leadership Academy to provide initial and ongoing support to the State's local school
+3 administrative units and school leaders. The plan for the School Leadership Academy shall
+4 include at least the following components:
+5 (1) Equity training for all local school administrative units and school leaders.
+6 (2) Training and ongoing support for local board of education members focused
+7 on the needs of successful schools and turnaround schools.
+8 (3) Mentorship and individualized coaching for novice principals and for
+9 experienced principals in high-need schools focused on dismantling
+10 impediments to student success in their schools.
+11 (4) Peer support networks, such as facilitated partnership networks and rapid
+12 response hotlines that provide immediate assistance.
+13 (5) Aligned, ongoing, research-driven professional learning.
+14 The State Board shall take into consideration any existing school administrator
+15 leadership training opportunities when creating this plan.
+16 SECTION 2.2.(b) By February 15, 2027, the State Board shall report to the Joint
+17 Legislative Education Oversight Committee, the Fiscal Research Division, and the Office of
+18 State Budget and Management on its proposal for the School Leadership Academy, including the
+19 plan for implementation and an estimation of costs.
+20 SECTION 2.2.(c) Beginning with the 2027-2028 school year, the Department of
+21 Public Instruction shall operate and support the School Leadership Academy according to the
+22 plan developed by the State Board of Education pursuant to subsection (a) of this section.
+23
+24 PRINCIPAL SALARY SCHEDULE
+25 SECTION 2.3.(a) The following annual salary schedule for principals shall apply
+26 for the 2026-2027 fiscal year beginning July 1, 2026:
+27 2026-2027 Principal Annual Salary Schedule
+28 Avg. Daily Membership Base Met Growth Exceeded Growth
+29 0-200 $84,934 $93,425 $101,920
+30 201-400 $89,179 $98,097 $107,015
+31 401-700 $93,425 $102,769 $112,112
+32 701-1,000 $97,674 $107,439 $117,208
+33 1,001-1,600 $101,920 $112,112 $122,304
+34 1,601+ $106,165 $116,782 $127,399
+35 A principal's placement on the salary schedule shall be determined according to the
+36 average daily membership of the school supervised by the principal, as described in subsection
+37 (b) of this section, and the school growth scores, calculated pursuant to G.S. 115C-83.15(c), for
+38 each school the principal supervised in at least two of the prior three school years, as described
+39 in subsection (c) of this section, regardless of a break in service, and provided the principal
+40 supervised each school as a principal for at least a majority of the school year, as follows:
+41 (1) A principal shall be paid according to the Exceeded Growth column of the
+42 schedule if the school growth scores show the school or schools exceeded
+43 expected growth in at least two of the prior three school years.
+44 (2) A principal shall be paid according to the Met Growth column of the schedule
+45 if any of the following apply:
+46 a. The school growth scores show the school or schools met expected
+47 growth in at least two of the prior three school years.
+48 b. The school growth scores show the school or schools met expected
+49 growth in at least one of the prior three school years and exceeded
+50 expected growth in one of the prior three school years.
+DRH10571-MTa-148 Page 15
+
+General Assembly Of North Carolina Session 2025
+1 c. The principal supervised a school in at least two of the prior three
+2 school years that was not eligible to receive a school growth score.
+3 (3) A principal shall be paid according to the Base column if any of the following
+4 apply:
+5 a. The school growth scores show the school or schools did not meet
+6 expected growth in at least two of the prior three school years.
+7 b. The principal has not supervised any school as a principal for a
+8 majority of the school year in at least two of the prior three school
+9 years.
+10 SECTION 2.3.(b) For purposes of determining the average daily membership of a
+11 principal's school, the allotted average daily membership for the school for the applicable school
+12 year shall be used. For purposes of this section, the allotted average daily membership of a
+13 principal's school shall include any prekindergarten students in membership at that school.
+14 SECTION 2.3.(c) For purposes of determining the school growth scores for each
+15 school the principal supervised in one or more prior school years, the following school growth
+16 scores shall be used during the following time periods:
+17 (1) For the first six months of the applicable fiscal year, the school growth scores
+18 from the first, second, and third years.
+19 (2) For the second six months of the applicable fiscal year, the school growth
+20 scores from the second, third, and fourth years.
+21 (3) If a principal does not have a school growth score from any of the school years
+22 identified in this subsection, the most recent available growth scores, up to the
+23 fourth year, shall be used.
+24 SECTION 2.3.(d) Beginning with the 2017-2018 fiscal year, in lieu of providing
+25 annual longevity payments to principals paid on the principal salary schedule, the amounts of
+26 those longevity payments are included in the annual amounts under the principal salary schedule.
+27 SECTION 2.3.(e) A principal compensated in accordance with this section for the
+28 2026-2027 fiscal year shall receive an amount equal to the greater of the following:
+29 (1) The applicable amount on the principal salary schedule for the applicable
+30 fiscal year.
+31 (2) For principals who were eligible for longevity in the 2016-2017 fiscal year,
+32 the sum of the following:
+33 a. The salary the principal received in the 2016-2017 fiscal year pursuant
+34 to Section 9.1 or Section 9.2 of S.L. 2016-94.
+35 b. The longevity that the principal would have received as provided for
+36 State employees under the North Carolina Human Resources Act for
+37 the 2016-2017 fiscal year based on the principal's current years of
+38 service.
+39 (3) For principals who were not eligible for longevity in the 2016-2017 fiscal
+40 year, the salary the principal received in the 2016-2017 fiscal year pursuant to
+41 Section 9.1 or Section 9.2 of S.L. 2016-94.
+42 SECTION 2.3.(f) For purposes of this section, the following definitions apply:
+43 (1) First year. – The school year immediately preceding the second year.
+44 (2) Fourth year. – The school year immediately preceding the applicable school
+45 year.
+46 (3) Second year. – The school year immediately preceding the third year.
+47 (4) The applicable fiscal year. – The 2026-2027 fiscal year.
+48 (5) The applicable school year. – The 2026-2027 school year.
+49 (6) Third year. – The school year immediately preceding the fourth year.
+50 SECTION 2.3.(g) There is appropriated from the General Fund to the Department
+51 of Public Instruction for the 2026-2027 fiscal year the sum of thirty million five hundred thousand
+Page 16 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 dollars ($30,500,000) in recurring funds to increase salaries for principals in accordance with this
+2 section.
+3 SECTION 2.3.(h) It is the intent of the General Assembly to adjust compensation
+4 for principals in the 2027-2028 fiscal year and subsequent fiscal years in accordance with any
+5 information provided by the Department of Public Instruction in March of 2027 pursuant to the
+6 compensation study referenced in Section 1.16 of this act.
+7
+8 ASSISTANT PRINCIPAL SALARIES
+9 SECTION 2.4.(a) For the 2026-2027 fiscal year, beginning July 1, 2026, assistant
+10 principals shall receive a monthly salary based on the salary schedule for teachers who are
+11 classified as "A" teachers plus nineteen percent (19%). An assistant principal shall be placed on
+12 the step on the salary schedule that reflects the total number of years of experience as a certified
+13 employee of the public schools. For purposes of this section, an administrator with a one-year
+14 provisional assistant principal's certificate shall be considered equivalent to an assistant principal.
+15 SECTION 2.4.(b) Assistant principals with certification based on academic
+16 preparation at the six-year degree level shall be paid a salary supplement of one hundred
+17 twenty-six dollars ($126.00) per month and at the doctoral degree level shall be paid a salary
+18 supplement of two hundred fifty-three dollars ($253.00) per month.
+19 SECTION 2.4.(c) Participants in an approved full-time master's in school
+20 administration program shall receive up to a 10-month stipend during the internship period of the
+21 master's program. The stipend shall be at the beginning salary of an assistant principal or, for a
+22 teacher who becomes an intern, at least as much as that person would earn as a teacher on the
+23 teacher salary schedule. The North Carolina Principal Fellows Program or the school of education
+24 where the intern participates in a full-time master's in school administration program shall supply
+25 the Department of Public Instruction with certification of eligible full-time interns.
+26 SECTION 2.4.(d) Beginning with the 2017-2018 fiscal year, in lieu of providing
+27 annual longevity payments to assistant principals on the assistant principal salary schedule, the
+28 amounts of those longevity payments are included in the monthly amounts provided to assistant
+29 principals pursuant to subsection (a) of this section.
+30 SECTION 2.4.(e) An assistant principal compensated in accordance with this section
+31 for the 2026-2027 fiscal year shall receive an amount equal to the greater of the following:
+32 (1) The applicable amount on the salary schedule for the applicable year.
+33 (2) For assistant principals who were eligible for longevity in the 2016-2017 fiscal
+34 year, the sum of the following:
+35 a. The salary the assistant principal received in the 2016-2017 fiscal year
+36 pursuant to Section 9.1 or Section 9.2 of S.L. 2016-94.
+37 b. The longevity that the assistant principal would have received as
+38 provided for State employees under the North Carolina Human
+39 Resources Act for the 2016-2017 fiscal year based on the assistant
+40 principal's current years of service.
+41 (3) For assistant principals who were not eligible for longevity in the 2016-2017
+42 fiscal year, the salary the assistant principal received in the 2016-2017 fiscal
+43 year pursuant to Section 9.1 or Section 9.2 of S.L. 2016-94.
+44 SECTION 2.4.(f) There is appropriated from the General Fund to the Department of
+45 Public Instruction for the 2026-2027 fiscal year the sum of fourteen million three hundred
+46 thousand dollars ($14,300,000) in recurring funds to increase salaries for assistant principals in
+47 accordance with this section.
+48 SECTION 2.4.(g) It is the intent of the General Assembly to adjust compensation
+49 for assistant principals in the 2027-2028 fiscal year and subsequent fiscal years in accordance
+50 with any information provided by the Department of Public Instruction in March of 2027
+51 pursuant to the compensation study referenced in Section 1.16 of this act.
+DRH10571-MTa-148 Page 17
+
+General Assembly Of North Carolina Session 2025
+1
+2 PLAN FOR SCHOOL-BASED ADMINISTRATOR GRANT PROGRAM
+3 SECTION 2.5.(a) No later than March 15, 2027, the State Board of Education shall
+4 develop and report to the Joint Legislative Education Oversight Committee and the Fiscal
+5 Research Division a plan to implement and evaluate the effectiveness of incentive programs to
+6 encourage well-qualified principals and assistant principals to work in high-need schools. These
+7 programs may include salary supplements for principals who take positions in chronically
+8 low-performing schools, protection for principals against salary reduction for working in
+9 high-need or low-performing schools, and rewards for principals and assistant principals for
+10 making progress on school performance.
+11 SECTION 2.5.(b) It is the intent of the General Assembly to implement advisable
+12 components of the plan developed pursuant to subsection (a) of this section.
+13 SECTION 2.5.(c) There is appropriated from the General Fund to the Department
+14 of Public Instruction for the 2026-2027 fiscal year the sum of fifty thousand dollars ($50,000) in
+15 nonrecurring funds to develop and report the plan described in subsection (a) of this section.
+16
+17 RECOMMENDATIONS FOR ADDITIONAL AUTONOMY AND RESOURCES FOR
+18 PRINCIPALS AND SUPERINTENDENTS IN LOCAL SCHOOL ADMINISTRATIVE
+19 UNITS
+20 SECTION 2.6.(a) No later than November 15, 2027, the Department of Public
+21 Instruction shall survey local school administrative units on recommendations to increase
+22 autonomy and resources for principals and superintendents. No later than February 15, 2028, the
+23 Department shall compile responses from this survey and report them to the Joint Legislative
+24 Education Oversight Committee and the Fiscal Research Division.
+25 SECTION 2.6.(b) It is the intent of the General Assembly to implement advisable
+26 recommendations submitted to the Department pursuant to subsection (a) of this section in the
+27 2028-2029 fiscal year and subsequent fiscal years.
+28
+29 PART III. FINANCE SYSTEM THAT PROVIDES ADEQUATE, EQUITABLE, AND
+30 EFFICIENT RESOURCES
+31
+32 BUDGET FLEXIBILITY FOR LOCAL BOARDS OF EDUCATION
+33 SECTION 3.1.(a) G.S. 115C-105.25(b) reads as rewritten:
+34 "(b) Subject to the following limitations, local boards of education may transfer and may
+35 approve transfers of funds between funding allotment categories:
+36 (1) Repealed by Session Laws 2013-360, s. 8.14, effective July 1, 2013.
+37 (1a) Funds for career and technical education and other purposes may be
+38 transferred only as permitted by federal law and the conditions of federal
+39 grants or as provided through any rules that the State Board of Education
+40 adopts to ensure compliance with federal regulations.
+41 (1b) No funds shall be transferred out of the children with disabilities allotment
+42 category.
+43 (2), (2a) Repealed by Session Laws 2013-360, s. 8.14, effective July 1, 2013.
+44 (3) No funds shall be transferred into the central office administration allotment
+45 category.
+46 (3a) No funds shall be transferred out of the teacher assistants allotment category.
+47 (3b) No funds shall be transferred out of the academically or intellectually gifted
+48 children allotment category.
+49 (4), (5) Repealed by Session Laws 2013-360, s. 8.14, effective July 1, 2013.
+50 (5a) No positions shall be transferred out of the allocation for classroom teachers
+51 for kindergarten through twelfth grade, except as provided in this subdivision.
+Page 18 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 Positions allocated for classroom teachers may be converted to dollar
+2 equivalents to contract for visiting international exchange teachers through a
+3 visiting international exchange teacher program approved by the State. These
+4 positions shall be converted at the statewide average salary for classroom
+5 teachers, including benefits. The converted funds shall be used only to provide
+6 visiting international exchange teachers with salaries commensurate with their
+7 experience levels, to provide any State-approved bonuses, and to cover the
+8 costs associated with supporting visiting international exchange teachers
+9 within the local school administrative unit, including programming and
+10 related activities, background checks, medical coverage, and other program
+11 administration services in accordance with the federal regulations for the
+12 Exchange Visitor Program, 22 C.F.R. Part 62.
+13 (5b) Positions allocated Except as provided in subdivision (5a) of this subsection,
+14 positions allocated for classroom teachers and for instructional support
+15 personnel may be converted to dollar equivalents for any purpose authorized
+16 by the policies of the State Board of Education. These positions shall be
+17 converted at the salary on the first step of the "A" Teachers Salary Schedule.
+18 Certified position allotments shall not be transferred to dollars to hire the same
+19 type of position.
+20 (5c) Funds allocated for school building administration may be converted for any
+21 purpose authorized by the policies of the State Board of Education. For funds
+22 related to principal positions, the salary transferred shall be based on the first
+23 step of the Base column of the Principal Salary Schedule. For funds related to
+24 assistant principal months of employment, the salary transferred shall be based
+25 on the first step of the "A" Teachers Salary Schedule at the salary level for
+26 assistant principals. Certified position allotments shall not be transferred to
+27 dollars to hire the same type of position.
+28 (5d) No positions shall be transferred out of the allocation for program
+29 enhancement teachers for kindergarten through fifth grade except as provided
+30 in this subdivision. Positions allocated for program enhancement teachers for
+31 kindergarten through fifth grade may be converted into positions allocated for
+32 classroom teachers for kindergarten through twelfth grade. For the purposes
+33 of this subdivision, the term "program enhancement" is as defined in
+34 G.S. 115C-301(c2).
+35 (6) through (9) Repealed by Session Laws 2013-360, s. 8.14, effective July 1,
+36 2013.
+37 (10) Funds to carry out the elements of the Excellent Public Schools Act that are
+38 contained in Section 7A.1 of S.L. 2012-142 shall not be transferred.
+39 (10a) No funds shall be transferred out of the limited English proficiency allotment
+40 category.
+41 (11) No funds shall be transferred into or out of the driver education allotment
+42 category.
+43 (12) Funds allotted for textbooks and digital resources may only be used for the
+44 purchase of textbooks and digital resources. These funds shall not be
+45 transferred out of the allotment for any other purpose.
+46 (13) No positions shall be transferred out of the allocation for school health
+47 personnel except as provided in this subdivision. Positions allocated for school
+48 health personnel may be converted to dollar equivalents for contracted
+49 services directly related to school psychology, school counseling, school
+50 nursing, and school social work. These positions shall be converted at the
+51 minimum salary for the position on the "A" Teachers Salary Schedule."
+DRH10571-MTa-148 Page 19
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.1.(b) This section applies beginning with the 2026-2027 school year.
+2
+3 FUNDS FOR CHILDREN WITH DISABILITIES
+4 SECTION 3.2.(a) G.S. 115C-111.05 reads as rewritten:
+5 "§ 115C-111.05. Funding for children with disabilities.
+6 To the extent funds are made available for this purpose, the State Board shall allocate funds
+7 for children with disabilities to each local school administrative unit on a per child basis. Each
+8 local school administrative unit shall receive funds for the lesser of (i) all children who are
+9 identified as children with disabilities or (ii) thirteen percent (13%) of its allocated average daily
+10 membership in the local school administrative unit for the current school year.on the basis of the
+11 reported cost of the services provided."
+12 SECTION 3.2.(b) There is appropriated from the General Fund to the Department
+13 of Public Instruction the sum of four hundred fifty million three hundred twenty-four thousand
+14 two hundred seventy-three dollars ($450,324,273) in recurring funds for the 2026-2027 fiscal
+15 year to implement the plan for weighted funding for children with disabilities on the basis of the
+16 reported cost of services provided developed by the Department of Public Instruction pursuant
+17 to Section 7.7 of S.L. 2023-134. The Department shall begin distributing funds for children with
+18 disabilities based on this model beginning with the 2026-2027 school year.
+19
+20 REVISE SUPPLEMENTAL FUNDING IN LOW-WEALTH COUNTIES
+21 SECTION 3.3.(a) Subsections (d) and (e) of G.S. 115C-472.22 read as rewritten:
+22 "(d) Allocation of Funds. – Except as provided in subsection (f) of this section, the amount
+23 received per average daily membership for a county shall be the difference between one hundred
+24 ten percent (110%) of the State average current expense appropriations per student and the
+25 current expense appropriations per student that the county could provide given the county's
+26 wealth and an average effort to fund public schools. To derive the current expense appropriations
+27 per student that the county could be able to provide given the county's wealth and an average
+28 effort to fund public schools, multiply the county's wealth as a percentage of State average wealth
+29 by the State average current expense appropriations per student. The funds for the local school
+30 administrative units located in whole or in part in the county shall be allocated to each local
+31 school administrative unit located in whole or in part in the county based on the average daily
+32 membership of the county's students in the school units. If the funds appropriated for
+33 supplemental funding are not adequate to fund the formula fully, each local school administrative
+34 unit shall receive a pro rata share of the funds appropriated for supplemental funding.
+35 (e) Formula for Distribution of Supplemental Funding Pursuant to This Section Only. –
+36 The formula in this section is solely a basis for distribution of supplemental funding for
+37 low-wealth counties and is not intended to reflect any measure of the adequacy of the educational
+38 program or funding for public schools. The formula is also not intended to reflect any
+39 commitment by the General Assembly to appropriate any additional supplemental funds for low-
+40 wealth counties.counties. It is the intent of the General Assembly to incrementally increase
+41 appropriations for the low-wealth allotment to provide eligible counties supplemental funding
+42 equal to one hundred ten percent (110%) of the statewide local revenue per student by fiscal year
+43 2027-2028. The State Board of Education shall adjust the formula to ensure each local school
+44 administrative unit receives a pro rata share of the additional funds appropriated for the
+45 low-wealth allotment in this section for supplemental funding."
+46 SECTION 3.3.(b) There is appropriated from the General Fund to the Department
+47 of Public Instruction the sum of one hundred fifty-four million one hundred thousand dollars
+48 ($154,100,000) in recurring funds for the 2026-2027 fiscal year to implement the changes to the
+49 low-wealth allotment enacted by this section.
+50
+51 FUNDING FOR LIMITED ENGLISH PROFICIENCY STUDENTS
+Page 20 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.4.(a) The title of Article 32F of Chapter 115C of the General Statutes
+2 reads as rewritten:
+3 "Supplemental School Funding.Funding and Other Allotments."
+4 SECTION 3.4.(b) Article 32F of Chapter 115C of the General Statutes is amended
+5 by adding a new section to read:
+6 "§ 115C-472.30. Limited English proficient allotment.
+7 (a) To the extent funds are made available for this purpose, the State Board of Education
+8 shall allocate funds to local school administrative units, charter schools, regional schools, and
+9 laboratory schools operated under Article 29A of Chapter 116 of the General Statutes to provide
+10 services to students with limited English proficiency. The State Board shall allocate these funds
+11 under a formula that is based on the average number of students in the units, charter schools,
+12 regional schools, or laboratory schools over the past three years who have limited English
+13 proficiency.
+14 (b) Local school administrative units shall use funds allocated to them to pay for
+15 classroom teachers, teacher assistants, tutors, instructional materials, transportation costs, and
+16 professional development of teachers for students with limited English proficiency.
+17 (c) A county in which a local school administrative unit receives funds under this section
+18 shall use the funds to supplement local current expense funds and shall not supplant local current
+19 expense funds."
+20 SECTION 3.4.(c) Subsection (a) of Section 7.9 of S.L. 2007-323 is repealed.
+21 SECTION 3.4.(d) There is appropriated from the General Fund to the Department
+22 of Public Instruction the sum of one hundred eighty-one million dollars ($181,000,000) in
+23 recurring funds for the 2026-2027 fiscal year to implement the requirements of this section.
+24
+25 TEACHER ASSISTANT ALLOTMENT
+26 SECTION 3.5.(a) Section 8.47(b) of S.L. 2015-241 is repealed.
+27 SECTION 3.5.(b) Article 21 of Chapter 115C of the General Statutes is amended by
+28 adding a new section to read:
+29 "§ 115C-316.6. Teacher assistant allotment.
+30 (a) To the extent funds are made available, the State Board of Education shall establish a
+31 funding allotment for teacher assistant positions. The State Board is authorized to adopt rules for
+32 the allocation of teacher assistant positions pursuant to this allotment. Funds allocated pursuant
+33 to this section shall be distributed based on the following:
+34 (1) An estimated statewide average salary and benefits per teacher assistant
+35 position.
+36 (2) The requirements of subsection (d) of this section.
+37 (b) Beginning with the 2026-2027 fiscal year, there is appropriated from the General
+38 Fund to the Department of Public Instruction for the following fiscal years the following amounts
+39 to the teacher assistant allotment:
+40 Fiscal Year Appropriation
+41 2026-2027 $201,500,000
+42 2027-2028 and each subsequent fiscal year thereafter $280,300,000
+43 (c) When developing the base budget, as defined by G.S. 143C-1-1, for each fiscal year
+44 specified in subsection (b) of this section, the Director of the Budget shall include the
+45 appropriated amount for that fiscal year.
+46 (d) Funds appropriated pursuant to subsection (b) of this section shall be allocated to local
+47 school administrative units to increase positions for teacher assistants in the following fiscal years
+48 to the following statewide ratios of teacher assistants to students in kindergarten through grade
+49 three:
+50 Fiscal Year Teacher Assistants
+51 2026-2027 1:30
+DRH10571-MTa-148 Page 21
+
+General Assembly Of North Carolina Session 2025
+1 2027-2028 and each subsequent fiscal year thereafter 1:27."
+2
+3 INCREASE FUNDING FOR INSTRUCTIONAL SUPPORT PERSONNEL
+4 SECTION 3.6.(a) G.S. 115C-316.5 reads as rewritten:
+5 "§ 115C-316.5. School health personnel allotment.
+6 (a) For the purposes of this section, the term "school health personnel" refers to the same
+7 positions listed in G.S. 115C-316.2(a).
+8 (b) To the extent funds are made available, the The State Board of Education shall
+9 establish a funding allotment for school health personnel positions. There is appropriated from
+10 the General Fund to the Department of Public Instruction to fund the allotment the following
+11 amounts in the fiscal years identified:
+12 Fiscal Year Appropriation
+13 2026-2027 $614,800,000
+14 2027-2028 and each subsequent fiscal year thereafter $796,600,000
+15 (b1) When developing the base budget, as defined by G.S. 143C-1-1, for each fiscal year
+16 specified in subsection (b) of this section, the Director of the Budget shall include the
+17 appropriated amount for that fiscal year.
+18 (b2) The State Board is authorized to shall adopt rules for the allocation of school health
+19 personnel positions pursuant to this allotment. Rules adopted by the State Board pursuant to this
+20 section shall include, at a minimum, the following requirements:
+21 (1) School health personnel positions are allocated on the basis of average daily
+22 membership.
+23 (2) Each local school administrative unit receives sufficient funding for at least
+24 one school psychologist position.to fulfill the position-to-student ratios
+25 identified in subsection (c) of this section.
+26 (3) Local school administrative units are encouraged to fill positions under this
+27 allotment with full-time, permanent employees. If the local school
+28 administrative unit is unable to fill these positions by hiring a full-time,
+29 permanent employee, the allocation for the position may be converted to a
+30 dollar equivalent for the unit to contract with a third party to provide the
+31 relevant services for an amount of hours equivalent to the hours a full-time
+32 position employee would provide.
+33 (c) Local school administrative units shall increase school health personnel positions
+34 each fiscal year until the 2028-2029 fiscal year at the following position-to-student ratios:
+35 Fiscal Year Nurses Counselors Social Workers Psychologists
+36 2026-2027 1:657 1:275 1:496 1:885
+37 2027-2028
+38 and each subsequent
+39 fiscal year thereafter 1:574 1:250 1:400 1:700."
+40 SECTION 3.6.(b) Article 21 of Chapter 115C of the General Statutes is amended by
+41 adding a new section to read:
+42 "§ 115C-316.7. Instructional support allotment.
+43 (a) Beginning with the 2026-2027 fiscal year, there is appropriated from the General
+44 Fund to the Department of Public Instruction for the following fiscal years the following amounts
+45 to the instructional support allotment:
+46 Fiscal Year Appropriation
+47 2026-2027 $49,400,000
+48 2027-2028 and each subsequent fiscal year thereafter $73,400,000
+49 (b) When developing the base budget, as defined by G.S. 143C-1-1, for each fiscal year
+50 specified in subsection (a) of this section, the Director of the Budget shall include the
+51 appropriated amount for that fiscal year.
+Page 22 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 (c) Funds appropriated pursuant to subsection (a) of this section shall be allocated to local
+2 school administrative units to increase instructional support personnel positions each fiscal year
+3 until the 2028-2029 fiscal year at the following position-to-student ratios:
+4 Fiscal Year Media Coordinators
+5 2026-2027 1:608
+6 2027-2028 and each subsequent fiscal year thereafter 1:547."
+7
+8 CONSOLIDATE ALLOTMENTS INTO A SINGLE ALLOTMENT
+9 SECTION 3.7. The Department of Public Instruction shall report to the Joint
+10 Legislative Education Oversight Committee on a method to combine all dollar allotments
+11 currently distributed on the basis of average daily membership into a single allotment. The
+12 Department shall submit the report no later than February 15, 2027.
+13
+14 INCREASE ALLOTTED ASSISTANT PRINCIPAL MONTHS OF EMPLOYMENT
+15 SECTION 3.8. There is appropriated from the General Fund to the Department of
+16 Public Instruction the recurring sum of twenty-four million eight hundred thousand dollars
+17 ($24,800,000) in the 2026-2027 fiscal year to increase the school building administration
+18 allotment. These funds shall be used to increase the ratio of assistant principals to students in all
+19 local school administrative units.
+20
+21 INCREASE FUNDING FOR CENTRAL OFFICE STAFF
+22 SECTION 3.9. There is appropriated from the General Fund to the Department of
+23 Public Instruction the recurring sum of twenty-nine million three hundred fifty-five thousand
+24 three hundred fifty-five dollars ($29,355,355) in the 2026-2027 fiscal year to increase the central
+25 office administration allotment. These funds shall be used to support additional personnel and
+26 services provided by central office staff in local school administrative units.
+27
+28 CENTRAL OFFICE SALARIES
+29 SECTION 3.10.(a) The monthly salary maximums that follow apply to assistant
+30 superintendents, associate superintendents, directors/coordinators, supervisors, and finance
+31 officers for the 2026-2027 fiscal year beginning July 1, 2026:
+32 2026-2027 Fiscal Year
+33 Maximum
+34 School Administrator I $7,800
+35 School Administrator II $8,265
+36 School Administrator III $8,757
+37 School Administrator IV $9,099
+38 School Administrator V $9,463
+39 School Administrator VI $10,023
+40 School Administrator VII $10,424
+41 The local board of education shall determine the appropriate category and placement
+42 for each assistant superintendent, associate superintendent, director/coordinator, supervisor, or
+43 finance officer within the maximums and within funds appropriated by the General Assembly
+44 for central office administrators and superintendents. The category in which an employee is
+45 placed shall be included in the contract of any employee.
+46 SECTION 3.10.(b) The monthly salary maximums that follow apply to
+47 superintendents for the 2026-2027 fiscal year beginning July 1, 2026:
+48 2026-2027 Fiscal Year
+49 Maximum
+50 Superintendent I $11,049
+51 Superintendent II $11,707
+DRH10571-MTa-148 Page 23
+
+General Assembly Of North Carolina Session 2025
+1 Superintendent III $12,410
+2 Superintendent IV $13,156
+3 Superintendent V $13,947
+4 The local board of education shall determine the appropriate category and placement
+5 for the superintendent based on the average daily membership of the local school administrative
+6 unit and within funds appropriated by the General Assembly for central office administrators and
+7 superintendents.
+8 SECTION 3.10.(c) Longevity pay for superintendents, assistant superintendents,
+9 associate superintendents, directors/coordinators, supervisors, and finance officers shall be as
+10 provided for State employees under the North Carolina Human Resources Act.
+11 SECTION 3.10.(d) Superintendents, assistant superintendents, associate
+12 superintendents, directors/coordinators, supervisors, and finance officers with certification based
+13 on academic preparation at the six-year degree level shall receive a salary supplement of one
+14 hundred twenty-six dollars ($126.00) per month in addition to the compensation provided
+15 pursuant to this section. Superintendents, assistant superintendents, associate superintendents,
+16 directors/coordinators, supervisors, and finance officers with certification based on academic
+17 preparation at the doctoral degree level shall receive a salary supplement of two hundred
+18 fifty-three dollars ($253.00) per month in addition to the compensation provided for under this
+19 section.
+20 SECTION 3.10.(e) The State Board of Education shall not permit local school
+21 administrative units to transfer State funds from other funding categories for salaries for public
+22 school central office administrators.
+23
+24 ESTABLISH MECHANISM TO CONTINUALLY UPDATE STATE SPENDING FOR
+25 INFLATION AND ENROLLMENT GROWTH
+26 SECTION 3.11. The Department of Public Instruction, when submitting budget
+27 adjustment requests to the General Assembly and the Office of State Budget and Management,
+28 shall include adjustments for inflation and other rising costs associated with providing a sound
+29 basic education.
+30
+31 APPROPRIATE FUNDS DIRECTLY TO CHARTER SCHOOLS
+32 SECTION 3.12.(a) G.S. 115C-218.105 reads as rewritten:
+33 "§ 115C-218.105. State and local funds for a charter school.
+34 (a) The State Board of Education shall allocate to each charter school:
+35 (1) An amount equal to the average per pupil allocation for average daily
+36 membership from the local school administrative unit allotments for the local
+37 school administrative unit in which the charter school is located for each child
+38 attending the charter school except for the allocation for children with
+39 disabilities and for the allocation for children with limited English
+40 proficiency;school.
+41 (2) An additional amount for each child attending the charter school who is a child
+42 with disabilities; anddisabilities.
+43 (3) An additional amount for children with limited English proficiency attending
+44 the charter school, based on a formula adopted by the State Board.
+45 In accordance with G.S. 115C-218.7 and G.S. 115C-218.8, the State Board shall allow for
+46 annual adjustments to the amount allocated to a charter school based on its enrollment growth in
+47 school years subsequent to the initial year of operation.
+48 In the event a child with disabilities leaves the charter school and enrolls in a public school
+49 during the first 60 school days in the school year, the charter school shall return a pro rata amount
+50 of funds allocated for that child to the State Board, and the State Board shall reallocate those
+51 funds to the local school administrative unit in which the public school is located. In the event a
+Page 24 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 child with disabilities enrolls in a charter school during the first 60 school days in the school year,
+2 the State Board shall allocate to the charter school the pro rata amount of additional funds for
+3 children with disabilities.
+4 …
+5 (b1) Counties may provide direct capital funds to charter schools by direct appropriation
+6 as set forth in G.S. 153A-461. These funds shall be used only for the following purposes:
+7 …
+8 (b2) If a charter school uses funds provided in receives direct capital funds under
+9 subsection (b1) of this section to acquire or improve property, the amount provided by the county
+10 shall be evidenced by a promissory note and secured by a deed of trust on the property acquired
+11 or improved by the funds. The county may subordinate the deed of trust to other liens to facilitate
+12 the acquisition or improvement of the property secured by the deed of trust. In the event that a
+13 charter school repays the county in the amount of the capital funds provided, the county shall,
+14 for the property acquired or improved by the funds, execute and file a deed of release or other
+15 documentation of satisfaction showing the charter school repaid the county in the amount of the
+16 capital funds provided.
+17 (b3) For each child attending a charter school, the county in which the child resides shall
+18 allocate to the charter school an amount equal to the average per pupil allocation for average
+19 daily membership, as determined in accordance with G.S. 115C-430.
+20 (b4) Counties shall allocate funds to charter schools in accordance with G.S. 115C-437.
+21 …."
+22 SECTION 3.12.(b) G.S. 115C-218.105(c) through G.S. 115C-218.105(e) are
+23 repealed.
+24 SECTION 3.12.(c) G.S. 115C-423 reads as rewritten:
+25 "§ 115C-423. Definitions.
+26 The words and phrases defined in this section have the meanings indicated when used in this
+27 Article, unless the context clearly requires another meaning:
+28 (1) "Budget" is a Budget. – A plan proposed by a board of education for raising
+29 and spending money for specified school programs, functions, activities, or
+30 objectives during a fiscal year.
+31 (2) "Budget resolution" is a Budget resolution. – A resolution adopted by a board
+32 of education that appropriates revenues for specified school programs,
+33 functions, activities, or objectives during a fiscal year.
+34 (3) "Budget year" is the Budget year. – The fiscal year for which a budget is
+35 proposed and a budget resolution is adopted.
+36 (4) "Fiscal year" is the Fiscal year. – The annual period for the compilation of
+37 fiscal operations. The fiscal year begins on July 1 and ends on June 30.
+38 (5) "Fund" is an Fund. – An independent fiscal and accounting entity consisting
+39 of cash and other resources together with all related liabilities, obligations,
+40 reserves, and equities which are segregated by appropriate accounting
+41 techniques for the purpose of carrying on specific activities or attaining certain
+42 objectives in accordance with established legal regulations, restrictions or
+43 limitations.
+44 (6) "Vending facilities" has the same meaning as it does in Local schools. – All
+45 local school administrative units located in a county, plus any charter schools
+46 that are attended by children residing in the county.
+47 (7) Vending facilities. – As defined in G.S. 111-42(d), but also means any
+48 mechanical or electronic device dispensing items or something of value or
+49 entertainment or services for a fee, regardless of the method of activation, and
+50 regardless of the means of payment, whether by coin, currency, tokens, or
+51 other means."
+DRH10571-MTa-148 Page 25
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.12.(d) G.S. 115C-430 reads as rewritten:
+2 "§ 115C-430. Apportionment of county appropriations among local school administrative
+3 units.schools.
+4 If there is more than one local school administrative unit in a county, all All appropriations
+5 by the county to the local current expense funds of the units, schools, except appropriations
+6 funded by supplemental taxes levied less than countywide pursuant to a local act of
+7 G.S. 115C-501 to 115C-511, must be apportioned according to the membership of each unit.
+8 average daily membership. County appropriations are properly apportioned when the dollar
+9 amount obtained by dividing the amount so appropriated to each unit appropriated to each local
+10 school administrative unit in the county and each charter school a resident child is attending by
+11 the total membership of the unit or number of resident charter school attendees is the same for
+12 each unit. The total membership of the local school administrative unit is the unit's average same.
+13 Average daily membership for the budget year to shall be determined by and certified to the unit
+14 local schools and the board of county commissioners by the State Board of Education."
+15 SECTION 3.12.(e) G.S. 115C-431 reads as rewritten:
+16 "§ 115C-431. Procedure for resolution of dispute between board of education the governing
+17 body of a local school and a board of county commissioners.
+18 (a) If the board of education governing body of a local school determines that the amount
+19 of money appropriated to the local current expense fund, or the capital outlay fund, or both, by
+20 the board of county commissioners to a local school administrative unit or charter school is not
+21 sufficient to support a system of free public schools, then the chairman of the board of education
+22 governing body of the local school and the chairman of the board of county commissioners shall
+23 arrange a joint meeting of the two boards to be held within seven days after the day of the county
+24 commissioners' decision on the school appropriations.
+25 Prior to the joint meeting, the Senior Resident Superior Court Judge shall appoint a mediator
+26 unless the boards agree to jointly select a mediator. The mediator shall preside at the joint meeting
+27 and shall act as a neutral facilitator of disclosures of factual information, statements of positions
+28 and contentions, and efforts to negotiate an agreement settling the boards' differences.
+29 At the joint meeting, the entire school budget shall be considered carefully and judiciously,
+30 and the two boards shall make a good-faith attempt to resolve the differences that have arisen
+31 between them.
+32 (b) If no agreement is reached at the joint meeting of the two boards, the mediator shall,
+33 at the request of either board, commence a mediation immediately or within a reasonable period
+34 of time. The mediation shall be held in accordance with rules and standards of conduct adopted
+35 under Chapter 7A of the General Statutes governing mediated settlement conferences but
+36 modified as appropriate and suitable to the resolution of the particular issues in disagreement.
+37 Unless otherwise agreed upon by both boards, the following individuals shall constitute the
+38 two working groups empowered to represent their respective boards during the mediation:
+39 (1) The chair of each board or the chair's designee;designee.
+40 (2) The superintendent of the local school administrative unit or the chairman of
+41 the charter school board of directors, and the county manager manager, or
+42 either's designee;any of their designees.
+43 (3) The finance officer of each board; andboard.
+44 (4) The attorney for each board.
+45 Members of both the boards, their chairs, and representatives shall cooperate with and respond
+46 to all reasonable requests of the mediator to participate in the mediation. Notwithstanding Article
+47 33C of Chapter 143 of the General Statutes, the mediation proceedings involving the two working
+48 groups shall be conducted in private. Evidence of statements made and conduct occurring in a
+49 mediation are not subject to discovery and are inadmissible in any court action. However, no
+50 evidence otherwise discoverable is inadmissible merely because it is presented or discussed in a
+51 mediation. The mediator shall not be compelled to testify or produce evidence concerning
+Page 26 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 statements made and conduct occurring in a mediation in any civil proceeding for any purpose,
+2 except disciplinary hearings before the State Bar or any agency established to enforce standards
+3 of conduct for mediators. Reports by members of either working group to their respective boards
+4 shall be made in compliance with Article 33C of Chapter 143 of the General Statutes.
+5 Unless both boards agree otherwise, or unless the boards have already resolved their dispute,
+6 the mediation shall end no later than August 1. The mediator shall have the authority to determine
+7 that an impasse exists and to discontinue the mediation. The mediation may continue beyond
+8 August 1 provided both boards agree. If both boards agree to continue the mediation beyond
+9 August 1, the board of county commissioners shall appropriate to the local school administrative
+10 unit for deposit in the local current expense fund or to a charter school a sum of money sufficient
+11 to equal the local contribution to this fund for the previous year.
+12 If the working groups reach a proposed agreement, the terms and conditions must be
+13 approved by each board. If no agreement is reached, the mediator shall announce that fact to the
+14 chairs of both boards, the Senior Resident Superior Court Judge, and the public. The mediator
+15 shall not disclose any other information about the mediation. The mediator shall not make any
+16 recommendations or public statement of findings or conclusions.
+17 The local board of education governing body of the local school and the board of county
+18 commissioners shall share equally the mediator's compensation and expenses. The mediator's
+19 compensation shall be determined according to rules adopted under Chapter 7A of the General
+20 Statutes.
+21 (b1) If agreement is not reached in mediation on the amount of money appropriated to the
+22 local current expense fund, fund or charter school, and the amount to be appropriated has not
+23 been calculated pursuant to this subsection for longer than the prior year, the sum to be
+24 appropriated for the budget year in dispute shall be calculated as follows:
+25 (1) The amount of moneys appropriated to the local current expense fund by the
+26 board of county commissioners in the prior fiscal year that are expended in
+27 that year by the local school administrative unit or transferred as required by
+28 G.S. 115C-75.10, 115C-218.105, 115C-238.70, and 116-239.11 shall be
+29 divided by the sum of the following: the average daily membership of the local
+30 school administrative unit plus the share of the average daily membership of
+31 any innovative, charter, regional, or laboratory school whose students reside
+32 in the local school administrative unit for the prior school year. For charter
+33 schools, the amount of moneys appropriated to the charter school in the prior
+34 fiscal year that are expended in that year divided by the average daily
+35 membership of the charter school.
+36 (2) The amount from subdivision (1) of this subsection, rounded to the nearest
+37 penny, shall then be multiplied by the sum of one plus the twelve month
+38 percent change in the second quarter Employment Cost Index for elementary
+39 and secondary school workers as reported by the Federal Bureau of Labor
+40 Statistics.
+41 (3) The amount from subdivision (2) of this subsection, rounded to the nearest
+42 penny, shall then be multiplied by the sum of the following: the allotted
+43 average daily membership for the school year plus the share of the average
+44 daily membership of any innovative, charter, regional, or laboratory school
+45 whose students reside in the local school administrative unit for the budget
+46 year in dispute. For charter schools, the amount shall be multiplied by the
+47 allotted average daily membership for the school year.
+48 The board of county commissioners shall appropriate to the local current expense fund or the
+49 charter school the sum from subdivision (3) of this subsection, rounded to the nearest penny, to
+50 the local board of education for the budget year in dispute.
+DRH10571-MTa-148 Page 27
+
+General Assembly Of North Carolina Session 2025
+1 (b2) If agreement is not reached in mediation, and the amount to be appropriated has been
+2 calculated pursuant to subsection (b1) of this section to the local current expense fund for the
+3 prior two years, the sum to be appropriated for the budget year in dispute shall be calculated as
+4 follows:
+5 (1) The amount of moneys appropriated to the local current expense fund by the
+6 board of county commissioners in the prior fiscal year that are expended in
+7 the prior fiscal year by the local school administrative unit and transferred as
+8 required by G.S. 115C-75.10, 115C-218.105, 115C-238.70, and 116-239.11
+9 shall be divided by the sum of the following: the average daily membership
+10 plus the share of the average daily membership of any innovative, charter,
+11 regional, or laboratory school whose students reside in the local school
+12 administrative unit for the prior school year. For charter schools, the amount
+13 of moneys appropriated to the charter school in the prior fiscal year that are
+14 expended in that year divided by the average daily membership of the charter
+15 school.
+16 …
+17 (4) The amount from subdivision (3) of this subsection shall then be multiplied
+18 by the sum of the following: the allotted average daily membership for the
+19 school year plus the share of the average daily membership of any innovative,
+20 charter, regional, or laboratory school whose students reside in the local
+21 school administrative unit for the budget year in dispute. For charter schools,
+22 the amount shall be multiplied by the funded average daily membership for
+23 the school year.
+24 The board of county commissioners shall appropriate to the local current expense fund or to
+25 the charter school the sum from subdivision (4) of this subsection, rounded to the nearest penny,
+26 to the local board of education for the budget year in dispute.
+27 (b3) Neither the local board of education governing body of the local school nor the board
+28 of county commissioners shall file any legal action challenging the determination as to the funds
+29 to be appropriated by the board of county commissioners to the local current expense fund in
+30 accordance with under the formulas found in subsections (b1) and (b2) of this section.
+31 …."
+32 SECTION 3.12.(f) G.S. 115C-437 reads as rewritten:
+33 "§ 115C-437. Allocation of revenues to the local school administrative unit by the
+34 county.schools.
+35 Revenues accruing to the local school administrative unit schools by virtue of Article IX,
+36 Sec. 7, of the Constitution and taxes levied by or on behalf of the a local school administrative
+37 unit pursuant to a local act or G.S. 115C-501 to 115C-511 shall be remitted to the school finance
+38 officer by the officer having custody thereof within 10 days after the close of the calendar month
+39 in which the revenues were received or collected. The clear proceeds of all penalties and
+40 forfeitures and of all fines collected for any breach of the penal laws of the State, as referred to
+41 in Article IX, Sec. 7 of the Constitution, shall include the full amount of all penalties, forfeitures
+42 or fines collected under authority conferred by the State, diminished only by the actual costs of
+43 collection, not to exceed ten percent (10%) of the amount collected. Revenues appropriated to
+44 the local school administrative unit a local school by the board of county commissioners from
+45 general county revenues shall be made available to the school finance officer by such procedures
+46 as may be mutually agreeable to the board of education governing body of the local school and
+47 the board of county commissioners, but if no such agreement is reached, these funds shall be
+48 remitted to the school finance officer by the county finance officer in monthly installments
+49 sufficient to meet its lawful expenditures from the county appropriation until the county
+50 appropriation to the local school administrative unit is exhausted. Each installment shall be paid
+51 not later than 10 days after the close of each calendar month. When revenue has been appropriated
+Page 28 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 to the local school administrative unit by the board of county commissioners from funds which
+2 carry specific restrictions binding upon the county as recipient, the board of commissioners must
+3 inform the local school administrative unit in writing of those restrictions."
+4 SECTION 3.12.(g) G.S. 115C-448(d) reads as rewritten:
+5 "(d) Special funds of individual schools shall not be included as part of the local current
+6 expense fund of a local school administrative unit for the purposes of determining in determining
+7 the per pupil share of the local current expense fund transferred amount to be appropriated from
+8 the county to a charter school pursuant to G.S. 115C-218.105(c).G.S. 115C-218.105(b3)."
+9 SECTION 3.12.(h) G.S. 153A-461 reads as rewritten:
+10 "§ 153A-461. Charter schools.
+11 (a) Each county shall appropriate to a charter school the average per pupil allocation, as
+12 determined by G.S. 115C-430, for each child that resides in the county and attends that charter
+13 school.
+14 (b) Each county is authorized to appropriate direct capital funds and lease real property
+15 to schools chartered under Article 14A of Chapter 115C of the General Statutes. Counties may
+16 provide direct capital funds only for the purposes set forth in G.S. 115C-218.105(b1)."
+17
+18 ISSUE CAPITAL BONDS
+19 SECTION 3.13.(a) Purpose. – It is the intent of the General Assembly by this section
+20 to provide, subject to a vote of the qualified voters of the State, for the issuance of four billion
+21 dollars ($4,000,000,000) general obligation bonds of the State for the purpose of providing funds,
+22 with any other available funds, for public school facilities through grants to counties for public
+23 school capital outlay projects, repairs, and renovations.
+24 SECTION 3.13.(b) Definitions. – Unless the context otherwise requires, the
+25 following definitions apply in this section:
+26 (1) Bonds. – Bonds issued under this section.
+27 (2) Cost. – Without intending thereby to limit or restrict any proper definition of
+28 this term in financing the cost of any capital outlay projects as authorized by
+29 this section, any of the following:
+30 a. The cost of constructing, reconstructing, enlarging, acquiring, and
+31 improving projects and acquiring equipment and land therefor.
+32 b. The cost of engineering, architectural, and other consulting services as
+33 may be required.
+34 c. Administrative expenses and charges, including expenses related to
+35 determining compliance with applicable requirements of federal law
+36 and expenses relating to issuance. Nothing in this section shall permit
+37 use of bond funds to pay salaries or fees for bond administration; such
+38 salaries and fees shall come from funds appropriated by the General
+39 Assembly.
+40 d. Finance charges and interest prior to and during construction and, if
+41 deemed advisable by the State Treasurer, for a period not exceeding
+42 three years after the estimated date of completion of construction.
+43 e. The cost of bond insurance, investment contracts, credit enhancement
+44 and liquidity facilities, interest rate swap agreements or other
+45 derivative products, financial and legal consultants, and related costs
+46 of bond and note issuance, and costs incurred by the State in
+47 administering the bond issues, including costs of trustees, escrow
+48 agents, arbitrage rebate liability consultants, securities disclosure
+49 counsel or similar securities disclosure consultants, tax consultants
+50 and financial advisors, to the extent and as determined by the State
+51 Treasurer.
+DRH10571-MTa-148 Page 29
+
+General Assembly Of North Carolina Session 2025
+1 f. The cost of reimbursing the State for any payments made for any cost
+2 described in this subdivision.
+3 g. Any other costs and expenses necessary or incidental to the purposes
+4 of this subdivision.
+5 Allocations in this section of proceeds of bonds to the costs of a project or
+6 undertaking in each case may include allocations to pay the costs set forth in
+7 sub-subdivisions c. through g. of this subdivision in connection with the
+8 issuance of bonds for the project or undertaking.
+9 (3) Credit facility agreement. – An agreement entered into by the State Treasurer
+10 on behalf of the State with a bank, savings and loan association, or other
+11 banking institution; an insurance company, reinsurance company, surety
+12 company, or other insurance institution; a corporation, investment banking
+13 firm, or other investment institution; or any financial institution or other
+14 similar provider of a credit facility agreement, which provider may be located
+15 within or without the United States of America, such agreement providing for
+16 prompt payment of all or any part of the principal or purchase price (whether
+17 at maturity, presentment or tender for purchase, redemption, or acceleration),
+18 redemption premium, if any, and interest on any bonds or notes payable on
+19 demand or tender by the owner, in consideration of the State agreeing to repay
+20 the provider of the credit facility agreement in accordance with the terms and
+21 provisions of such agreement.
+22 (4) Notes. – Notes issued under this section.
+23 (5) Par formula. – Any provision or formula adopted by the State to provide for
+24 the adjustment, from time to time, of the interest rate or rates borne by any
+25 bonds or notes, including the following:
+26 a. A provision providing for such adjustment so that the purchase price
+27 of such bonds or notes in the open market would be as close to par as
+28 possible;
+29 b. A provision providing for such adjustment based upon a percentage or
+30 percentages of a LIBOR rate, a prime rate, or base rate, which
+31 percentage or percentages may vary or be applied for different periods
+32 of time; or
+33 c. Such other provision as the State Treasurer may determine to be
+34 consistent with this and will not materially and adversely affect the
+35 financial position of the State and the marketing of bonds or notes at a
+36 reasonable interest cost to the State.
+37 (6) Public school capital outlay project. – A project for any of the following:
+38 a. Construction of one or more new public school buildings.
+39 b. Renovation of one or more existing public school buildings.
+40 c. Construction, acquisition, and installation of technology infrastructure
+41 for a public school building.
+42 d. Acquisition and installation of equipment or fixtures to ensure
+43 building security for a public school building.
+44 e. Acquisition and installation of equipment for a public school building
+45 that will be used for an instructional or related purpose.
+46 f. Purchase of land necessary for construction to commence within 24
+47 months of one or more public school buildings.
+48 g. Other related capital outlay projects to provide facilities for individual
+49 public schools that are used for instructional or related purposes.
+50 The term does not include projects for facilities for centralized administration,
+51 trailers, relocatable classrooms, or mobile classrooms.
+Page 30 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 (7) State. – The State of North Carolina.
+2 SECTION 3.13.(c) Authorization of Bonds and Notes. – Subject to a favorable vote
+3 of a majority of the qualified voters of the State who vote on the question of issuing bonds for
+4 public school capital outlay projects in the election called and held as provided in this section,
+5 the State Treasurer is hereby authorized, by and with the consent of the Council of State, to issue
+6 and sell, at one time or from time to time, general obligation bonds of the State to be designated
+7 "State of North Carolina Education Bonds," with any additional designations as may be
+8 determined to indicate the issuance of bonds from time to time, or notes of the State as provided
+9 in this section, in an aggregate principal amount not exceeding four billion dollars
+10 ($4,000,000,000) for the purpose of providing funds, with any other available funds, for the
+11 purposes authorized in this section. In determining whether this limit has been reached, the
+12 issuance of a note or bond to pay an outstanding note is not considered an issuance.
+13 SECTION 3.13.(d) Use of Education Bond and Note Proceeds. –
+14 (1) Subject to the provisions of subdivision (2) of this subsection, four billion
+15 dollars ($4,000,000,000) of the proceeds of education bonds and notes,
+16 including premium thereon, if any, shall be used for the purpose of making
+17 grants to counties for paying the cost of public school capital outlay projects,
+18 repairs, and renovations. Proceeds of education bonds and notes shall be
+19 distributed to public school units as if they were funds in the Needs-Based
+20 Public School Capital Fund, except there shall be no matching requirements
+21 imposed on the public school units.
+22 Any additional monies that may be received by means of a grant or grants
+23 from the United States of America or any agency or department thereof or
+24 from any other source to aid in financing the cost of public school capital
+25 outlay projects authorized by this section may be placed by the State Treasurer
+26 in the Education Bonds Fund or in a separate account or fund and shall be
+27 disbursed, to the extent permitted by the terms of the grant or grants, without
+28 regard to limitations imposed by this section.
+29 (2) The State Board of Education shall also require counties to report annually on
+30 the impact of funds provided under this section on the property tax rate for
+31 that year. These reports shall be public documents and shall be furnished to
+32 any citizen upon request.
+33 (3) The General Assembly encourages, in projects for which bond proceeds are
+34 allocated, consideration by counties and local school administrative units of
+35 projects that primarily involve materially improving the energy efficiency of
+36 the school facility.
+37 SECTION 3.13.(e) Allocation and Tracking of Proceeds. –
+38 (1) Education bonds. – The proceeds of education bonds and notes, including
+39 premium thereon, if any, except the proceeds of bonds, the issuance of which
+40 has been anticipated by bond anticipation notes or the proceeds of refunding
+41 bonds or notes, shall be placed by the State Treasurer in a special fund to be
+42 designated "Education Bonds Fund," which may include such appropriate
+43 special accounts therein as may be determined by the State Treasurer and shall
+44 be disbursed as provided in this section. Monies in the Education Bonds Fund
+45 shall be allocated and expended as provided in this section.
+46 Any additional monies that may be received by means of a grant or grants
+47 from the United States of America or any agency or department thereof or
+48 from any other source for deposit to the Education Bonds Fund may be placed
+49 in the Education Bonds Fund or in a separate account or fund and shall be
+50 disbursed, to the extent permitted by the terms of the grant or grants, without
+51 regard to any limitations imposed by this section.
+DRH10571-MTa-148 Page 31
+
+General Assembly Of North Carolina Session 2025
+1 Monies in the Education Bonds Fund or any separate account established
+2 under this section may be invested from time to time by the State Treasurer in
+3 the same manner permitted for investment of monies belonging to the State or
+4 held in the State treasury, except with respect to grant money to the extent
+5 otherwise directed by the terms of the grant. Investment earnings, except
+6 investment earnings with respect to grant monies to the extent otherwise
+7 directed or restricted by the terms of the grant, may be (i) credited to the
+8 Education Bonds Fund or (ii) used to satisfy compliance with applicable
+9 requirements of the federal tax law.
+10 The proceeds of education bonds and notes, including premium thereon,
+11 if any, may be used with any other monies made available by the General
+12 Assembly for funding the projects authorized by this section, including the
+13 proceeds of any other State bond issues, whether heretofore made available or
+14 that may be made available at the session of the General Assembly at which
+15 this section is ratified or any subsequent sessions. The proceeds of education
+16 bonds and notes, including premium thereon, if any, shall be expended and
+17 disbursed under the direction and supervision of the Director of the Budget.
+18 The funds provided by this section shall be disbursed for the purposes
+19 provided in this section upon warrants drawn on the State Treasurer by the
+20 State Controller, which warrants shall not be drawn until requisition has been
+21 approved by the Director of the Budget and which requisition shall be
+22 approved only after full compliance with the State Budget Act, Chapter 143C
+23 of the General Statutes.
+24 (2) Tracking of bond proceeds. – The State Treasurer or the State Treasurer's
+25 designee is hereby authorized and directed to set up a comprehensive system
+26 of tracking the proceeds of the education bonds and notes, including premium
+27 thereon, if any, to the extent necessary to enable the State Treasurer or the
+28 State Treasurer's designee to properly account for the use of such proceeds for
+29 compliance with applicable requirements of the federal tax law or otherwise.
+30 All recipients of such proceeds shall comply with any tracking system
+31 implemented by the State Treasurer or the State Treasurer's designee for this
+32 purpose. The State Treasurer may withhold proceeds if the recipient fails to
+33 comply with this subdivision.
+34 (3) Costs. – Allocations to the costs of a capital improvement or undertaking in
+35 each case may include allocations to pay the costs set forth in sub-subdivisions
+36 (b)(2)c. through (b)(2)g. of this section in connection with the issuance of
+37 bonds for that capital improvement or undertaking.
+38 SECTION 3.13.(f) Election. – The question of the issuance of the bonds authorized
+39 by this section shall be submitted to the qualified voters of the State at the time of the election in
+40 2026 when voters of this State are given an opportunity to express their preference for the person
+41 to be the presidential candidate of their political party. Any other primary, election, or
+42 referendum, validly called or scheduled by law at the time the election on the bond question
+43 provided for in this subsection is held, may be held as called or scheduled. Notice of the election
+44 shall be given in the manner and at the times required by G.S. 163-33(8). The election and the
+45 registration of voters therefor shall be held under and in accordance with the general laws of the
+46 State. Absentee ballots shall be authorized in the election.
+47 Ballots, voting systems authorized by Article 14A of Chapter 163 of the General
+48 Statutes, or both may be used in accordance with rules prescribed by the State Board. The bond
+49 question to be used in the ballots or voting systems shall be in substantially the following form:
+50 "[ ] FOR [ ] AGAINST
+Page 32 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 The issuance of four billion dollars ($4,000,000,000) State of North Carolina
+2 Education Bonds constituting general obligation bonds of the State secured by a pledge of the
+3 faith and credit and taxing power of the State for the purpose of providing funds, with any other
+4 available funds, to fund capital improvements, construction of new facilities, and the renovation
+5 and rehabilitation of existing facilities for the State's kindergarten through grade 12 public
+6 education system."
+7 If a majority of those voting on a bond question in the election vote in favor of the
+8 issuance of the bonds described in the question, those bonds may be issued as provided in this
+9 section. If a majority of those voting on the bond question in the election do not vote in favor of
+10 the issuance of the bonds described in the question, those bonds shall not be issued.
+11 The results of the election shall be canvassed and declared as provided by law for
+12 elections for State officers; the results of the election shall be certified by the State Board to the
+13 Secretary of State in the manner and at the time provided by the general election laws of the
+14 State.
+15 SECTION 3.13.(g) Issuance of Bonds and Notes. –
+16 (1) Terms and conditions. – Bonds or notes may bear such date or dates, may be
+17 serial or term bonds or notes, or any combination thereof, may mature in such
+18 amounts and at such time or times, not exceeding 40 years from their date or
+19 dates, may be payable at such place or places, either within or without the
+20 United States of America, in such coin or currency of the United States of
+21 America as at the time of payment is legal tender for payment of public and
+22 private debts, may bear interest at such rate or rates, which may vary from
+23 time to time, and may be made redeemable before maturity, at the option of
+24 the State or otherwise as may be provided by the State, at such price or prices,
+25 including a price less than the face amount of the bonds or notes, and under
+26 such terms and conditions, all as may be determined by the State Treasurer by
+27 and with the consent of the Council of State.
+28 (2) Signatures; form and denomination; registration. – Bonds or notes may be
+29 issued as certificated or uncertificated obligations. If issued as certificated
+30 obligations, bonds or notes shall be signed on behalf of the State by the
+31 Governor or shall bear the Governor's facsimile signature, shall be signed by
+32 the State Treasurer or shall bear the State Treasurer's facsimile signature, and
+33 shall bear the Great Seal of the State of North Carolina or a facsimile thereof
+34 shall be impressed or imprinted thereon. If bonds or notes bear the facsimile
+35 signatures of the Governor and the State Treasurer, the bonds or notes shall
+36 also bear a manual signature, which may be that of a bond registrar, trustee,
+37 paying agent, or designated assistant of the State Treasurer. Should any officer
+38 whose signature or facsimile signature appears on bonds or notes cease to be
+39 such officer before the delivery of the bonds or notes, the signature or
+40 facsimile signature shall nevertheless have the same validity for all purposes
+41 as if the officer had remained in office until delivery, and bonds or notes may
+42 bear the facsimile signatures of persons who at the actual time of the execution
+43 of the bonds or notes shall be the proper officers to sign any bond or note,
+44 although at the date of the bond or note such persons may not have been such
+45 officers. The form and denomination of bonds or notes, including the
+46 provisions with respect to registration of the bonds or notes and any system
+47 for their registration, shall be as the State Treasurer may determine in
+48 conformity with this section; provided, however, that nothing in this section
+49 shall prohibit the State Treasurer from proceeding, with respect to the issuance
+50 and form of the bonds or notes, under the provisions of Chapter 159E of the
+DRH10571-MTa-148 Page 33
+
+General Assembly Of North Carolina Session 2025
+1 General Statutes, the Registered Public Obligations Act, as well as under this
+2 section.
+3 (3) Manner of sale; expenses. – Subject to the consent of the Council of State, the
+4 State Treasurer shall determine the manner in which bonds or notes shall be
+5 offered for sale, whether at public or private sale, whether within or without
+6 the United States of America, and whether by publishing notices in certain
+7 newspapers and financial journals, mailing notices, inviting bids by
+8 correspondence, negotiating contracts of purchase, or otherwise, and the State
+9 Treasurer is authorized to sell bonds or notes at one time or from time to time
+10 at such rate or rates of interest, which may vary from time to time, and at such
+11 price or prices, including a price less than the face amount of the bonds or the
+12 notes, as the State Treasurer may determine. All expenses incurred in
+13 preparation, sale, and issuance of bonds or notes shall be paid by the State
+14 Treasurer from the proceeds of bonds or notes or other available monies.
+15 (4) Notes; repayment. –
+16 a. Subject to the consent of the Council of State, the State Treasurer is
+17 hereby authorized to borrow money and to execute and issue notes of
+18 the State for the same, but only in the following circumstances and
+19 under the following conditions:
+20 1. For anticipating the sale of bonds to the issuance of which the
+21 Council of State shall have given consent if the State Treasurer
+22 shall deem it advisable to postpone the issuance of the bonds.
+23 2. For the payment of interest on or any installment of principal
+24 of any bonds then outstanding if there shall not be sufficient
+25 funds in the State treasury with which to pay the interest or
+26 installment of principal as they respectively become due.
+27 3. For the renewal of any loan evidenced by notes herein
+28 authorized.
+29 4. For the purposes authorized in this section.
+30 5. For refunding bonds or notes as herein authorized.
+31 b. Funds derived from the sale of bonds or notes may be used in the
+32 payment of any bond anticipation notes issued under this section.
+33 Funds provided by the General Assembly for the payment of interest
+34 on or principal of bonds shall be used in paying the interest on or
+35 principal of any notes and any renewals thereof, the proceeds of which
+36 shall have been used in paying interest on or principal of the bonds.
+37 (5) Refunding bonds and notes. – By and with the consent of the Council of State,
+38 the State Treasurer is authorized to issue and sell refunding bonds and notes
+39 pursuant to the provisions of the State Refunding Bond Act for the purpose of
+40 refunding bonds or notes issued pursuant to this section. The refunding bonds
+41 and notes may be combined with any other issues of State bonds and notes
+42 similarly secured.
+43 (6) Tax exemption. – Bonds and notes shall be exempt from all State, county, and
+44 municipal taxation or assessment, direct or indirect, general or special,
+45 whether imposed for the purpose of general revenue or otherwise, excluding
+46 inheritance and gift taxes, income taxes on the gain from the transfer of bonds
+47 and notes, and franchise taxes. The interest on bonds and notes shall not be
+48 subject to taxation as to income.
+49 (7) Investment eligibility. – Bonds and notes are hereby made securities in which
+50 all public officers, agencies, and public bodies of the State and its political
+51 subdivisions; all insurance companies, trust companies, investment
+Page 34 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 companies, banks, savings banks, savings and loan associations, credit unions,
+2 pension or retirement funds, other financial institutions engaged in business
+3 in the State; executors, administrators, trustees, and other fiduciaries may
+4 properly and legally invest funds, including capital in their control or
+5 belonging to them. Bonds and notes are hereby made securities that may
+6 properly and legally be deposited with and received by any officer or agency
+7 of the State or political subdivision of the State for any purpose for which the
+8 deposit of bonds, notes, or obligations of the State or any political subdivision
+9 of the State is now or may hereafter be authorized by law.
+10 (8) Faith and credit. – The faith and credit and taxing power of the State are hereby
+11 pledged for the payment of the principal of and the interest on bonds and notes.
+12 In addition to the State's right to amend any provision of this section to the
+13 extent it does not impair any contractual right of a bond owner, the State
+14 expressly reserves the right to amend any provision of this section with respect
+15 to the making and repayment of loans, the disposition of any repayments of
+16 loans, and any intercept provisions relating to the failure of a local government
+17 unit to repay a loan, the bonds not being secured in any respect by loans, any
+18 repayments thereof, or any intercept provisions with respect thereto.
+19 SECTION 3.13.(h) Variable Interest Rates. – In fixing the details of bonds and notes,
+20 the State Treasurer may provide that any of the bonds or notes may:
+21 (1) Be made payable from time to time on demand or tender for purchase by the
+22 owner thereof, provided a credit facility agreement supports the bonds or
+23 notes, unless the State Treasurer specifically determines that a credit facility
+24 agreement is not required, upon a finding and determination by the State
+25 Treasurer that the absence of a credit facility agreement will not materially or
+26 adversely affect the financial position of the State and the marketing of the
+27 bonds or notes at a reasonable interest cost to the State;
+28 (2) Be additionally supported by a credit facility agreement;
+29 (3) Be made subject to redemption or a mandatory tender for purchase prior to
+30 maturity;
+31 (4) Bear interest at a rate or rates that may vary for such period or periods of time,
+32 all as may be provided in the proceedings providing for the issuance of the
+33 bonds or notes, including, without limitation, such variations as may be
+34 permitted pursuant to a par formula; and
+35 (5) Be made the subject of a remarketing agreement whereby an attempt is made
+36 to remarket bonds or notes to new purchasers prior to their presentment for
+37 payment to the provider of the credit facility agreement or to the State.
+38 If the aggregate principal amount repayable by the State under a credit facility
+39 agreement is in excess of the aggregate principal amount of bonds or notes secured by the credit
+40 facility agreement, whether as a result of the inclusion in the credit facility agreement of a
+41 provision for the payment of interest for a limited period of time or the payment of a redemption
+42 premium or for any other reason, then the amount of authorized but unissued bonds or notes
+43 during the term of such credit facility agreement shall not be less than the amount of such excess,
+44 unless the payment of such excess is otherwise provided for by agreement of the State executed
+45 by the State Treasurer.
+46 SECTION 3.13.(i) Interpretation of Section. –
+47 (1) Additional method. – The foregoing subsections of this section shall be
+48 deemed to provide an additional and alternative method for the doing of the
+49 things authorized thereby and shall be regarded as supplemental and
+50 additional to powers conferred by other laws and shall not be regarded as in
+51 derogation of any powers now existing.
+DRH10571-MTa-148 Page 35
+
+General Assembly Of North Carolina Session 2025
+1 (2) Statutory references. – References in this section to specific sections or
+2 Chapters of the General Statutes or to specific acts are intended to be
+3 references to these sections, Chapters, or acts as they may be amended from
+4 time to time by the General Assembly.
+5 (3) Broad construction. – This section, being necessary for the health, welfare,
+6 and advancement of the people of the State, shall be broadly construed to
+7 affect the purposes thereof.
+8 (4) Inconsistent provisions. – Insofar as the provisions of this section are
+9 inconsistent with the provisions of any general laws, or parts thereof, the
+10 provisions of this section shall be controlling.
+11 (5) Severability. – If any provision of this section or the application thereof to any
+12 person or circumstance is held invalid, such invalidity shall not affect other
+13 provisions or applications of the section that can be given effect without the
+14 invalid provision or application and, to this end, the provisions of this section
+15 are declared to be severable.
+16 SECTION 3.13.(j) Other Agreements. – The State Treasurer may authorize, execute,
+17 obtain, or otherwise provide for bond issuance, investment contracts, credit and liquidity
+18 facilities, interest rate swap agreements and other derivative products, and any other related
+19 instruments and matters the State Treasurer determines to be desirable in connection with the
+20 issuance of bonds and notes.
+21 SECTION 3.13.(k) Each entity, upon receiving the proceeds of education bonds and
+22 notes, including premium thereon, if any, issued pursuant to and for purposes listed in subsection
+23 (a) of this section, shall administer, supervise, and ensure that use of the proceeds comports with
+24 those purposes. Each local school administrative unit, along with the corresponding board of
+25 county commissioners, shall jointly submit to the State Board of Education a plan for the
+26 distribution of the proceeds of education bonds and notes pursuant to this section. After the State
+27 Board of Education determines that a local school administrative unit's planned expenditure of
+28 part or all of the proceeds is within the purposes provided in this section, the State Board of
+29 Education shall make the proceeds to which the plans apply available to the local school
+30 administrative unit. Each local school administrative unit receiving the proceeds of education
+31 bonds and notes, including premium thereon, if any, issued pursuant to subsection (a) of this
+32 section shall report by January 1, 2027, and quarterly thereafter, to the State Board of Education
+33 on the projects funded from education general obligation bonds authorized by subsection (a) of
+34 this section, and the State Board of Education shall combine the reports and submit them to the
+35 Joint Legislative Capital Oversight Committee, the House of Representatives Appropriations
+36 Committee, and the Senate Committee on Appropriations/Base Budget. Each report shall include
+37 the total project costs, the amount to be funded from the bonds, the expenditures to date from the
+38 bonds and other sources, and the percentage of each project completed.
+39 SECTION 3.13.(l) Projects funded in whole or in part with the proceeds of education
+40 bonds and notes, including premium thereon, if any, issued pursuant to this section, and that
+41 portion of funds estimated to be needed for escalation of costs shall remain with the Office of
+42 State Budget and Management and shall be disbursed only for the following purposes:
+43 (1) To address unforeseen contingencies related to the specific project for which
+44 the funds were made available.
+45 (2) To address inflation costs related to that specific project.
+46 SECTION 3.13.(m) Any funds retained by the Office of State Budget and
+47 Management pursuant to subsection (l) of this section at the time a project is completed shall be
+48 retained by the Office of State Budget and Management. The Office of State Budget and
+49 Management shall report on any funds retained pursuant to this subsection within 90 days of a
+50 project's completion.
+Page 36 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.13.(n) Any funds from the Education Bond expended for school
+2 technology for public schools shall be reported to the State Board of Education and shall be
+3 credited against the judgment in N.C. Sch. Bds. Ass'n. v. Moore, No. 98-CVS-14159 (N.C. Super.
+4 Ct.).
+5
+6 DISADVANTAGED STUDENT SUPPLEMENTAL FUNDING (DSSF)/AT-RISK
+7 STUDENT SERVICES/ALTERNATIVE SCHOOLS
+8 SECTION 3.14.(a) Beginning with the 2026-2027 fiscal year, the State Board of
+9 Education shall transfer the At-Risk Student Services/Alternative Schools allotment into the
+10 DSSF allotment, as established by G.S. 115C-472.24. The State Board of Education shall allocate
+11 these funds to local school administrative units under a formula that provides that no local school
+12 administrative unit receives a decrease in combined funding. Reallocated at-risk funding must be
+13 counted as an independent supplement to existing DSSF funds.
+14 SECTION 3.14.(b) G.S. 115C-472.24 reads as rewritten:
+15 "§ 115C-472.24. Disadvantaged Disadvantaged/at-risk student supplemental funding.
+16 (a) To the extent funds are made available for this purpose, funds appropriated for
+17 disadvantaged or at-risk student supplemental funding shall be used, consistent with the policies
+18 and procedures adopted by the State Board of Education, only to do the following:
+19 (1) Provide instructional positions or instructional support positions.
+20 (2) Provide professional development.
+21 (3) Provide intensive in-school or after-school remediation, or both.
+22 (4) Purchase diagnostic software and progress-monitoring tools.
+23 (5) Provide funds for teacher bonuses and supplements. The State Board of
+24 Education shall set a maximum percentage of the funds that may be used for
+25 this purpose.
+26 (6) Provide funds for alternative learning and at-risk student programs in
+27 accordance with G.S. 115C-12(24).
+28 The State Board of Education may require local school administrative units receiving funding
+29 under the Disadvantaged Student Supplemental Fund to purchase the Education Value-Added
+30 Assessment System (EVAAS) in order to provide in-depth analysis of student performance and
+31 help identify strategies for improving student achievement. This data shall be used exclusively
+32 for instructional and curriculum decisions made in the best interest of children and for
+33 professional development for their teachers and administrators.
+34 …."
+35 SECTION 3.14.(c) There is appropriated from the General Fund to the Department
+36 of Public Instruction the sum of nine hundred forty-four million three hundred thousand dollars
+37 ($944,300,000) in recurring funds for the 2026-2027 fiscal year to implement the provisions of
+38 this section.
+39
+40 INCREASE FUNDING FOR CLASSROOM SUPPLIES
+41 SECTION 3.15. There is appropriated from the General Fund to the Department of
+42 Public Instruction the sum of ninety-six million seven hundred thousand dollars ($96,700,000)
+43 in recurring funds for the 2026-2027 fiscal year to increase the Classroom Materials/Instructional
+44 Supplies/Equipment Allotment.
+45
+46 DEPARTMENT OF PUBLIC INSTRUCTION TO STUDY WEIGHTED STUDENT
+47 FUNDING MODEL
+48 SECTION 3.16.(a) The Department of Public Instruction shall study methods of
+49 implementing a weighted student funding formula that retains existing guaranteed position
+50 allotments. The Department may contract with a third party to conduct this study. The
+DRH10571-MTa-148 Page 37
+
+General Assembly Of North Carolina Session 2025
+1 Department shall report the Department's recommendations to implement such a model to the
+2 Joint Legislative Education Oversight Committee by March 15, 2027.
+3 SECTION 3.16.(b) There is appropriated from the General Fund to the Department
+4 of Public Instruction the sum of five hundred thousand dollars ($500,000) in nonrecurring funds
+5 for the 2026-2027 fiscal year to perform the study required by this section.
+6
+7 PART IV. ASSESSMENT AND ACCOUNTABILITY SYSTEM THAT RELIABLY
+8 ASSESSES MULTIPLE MEASURES OF STUDENT PERFORMANCE
+9
+10 ADJUST WEIGHTING BETWEEN PROFICIENCY AND GROWTH
+11 SECTION 4.1.(a) G.S. 115C-83.15(d) reads as rewritten:
+12 "(d) Calculation of the Overall School Performance Scores and Grades. – The State Board
+13 of Education shall calculate the overall school performance score by adding the school
+14 achievement score, as provided in subsection (b) of this section, and the school growth score, as
+15 determined using EVAAS as provided in subsection (c) of this section, earned by a school. The
+16 school achievement score shall account for eighty fifty-one percent (80%), (51%), and the school
+17 growth score shall account for twenty forty-nine percent (20%) (49%) of the total sum. For all
+18 schools, the total school performance score shall be converted to a 100-point scale and used to
+19 determine an overall school performance grade. The overall school performance grade shall be
+20 based on the following scale and shall not be modified to add any other designation related to
+21 other performance measures, such as a "plus" or "minus":
+22 …."
+23 SECTION 4.1.(b) The Department of Public Instruction shall amend the State plan
+24 under the Elementary and Secondary Education Act of 1965, as amended by the Every Student
+25 Succeeds Act, to reflect the changes to achievement and growth score weighting in this section.
+26 SECTION 4.1.(c) This section applies beginning with school performance scores
+27 issued based on data from the 2026-2027 school year.
+28
+29 STUDY ON ADDITIONAL MEASURES IN THE SCHOOL ACCOUNTABILITY
+30 SYSTEM
+31 SECTION 4.2. The State Board of Education, in consultation with the Department
+32 of Public Instruction, shall study methods of adding to the State school accountability system
+33 indicators that provide information on the opportunity of students to access a sound basic
+34 education. Additional indicators recommended shall not be inconsistent with the requirements of
+35 the Elementary and Secondary Education Act of 1965, as amended by the Every Student
+36 Succeeds Act, and shall not replace indicators included in the State school accountability system
+37 under Part 1B of Article 8 of Chapter 115C of the General Statutes. The State Board of Education
+38 shall submit a report with its recommended changes regarding the school accountability system
+39 to the Joint Legislative Education Oversight Committee on or before June 15, 2027.
+40
+41 PART V. ASSISTANCE AND TURNAROUND FUNCTION THAT PROVIDES
+42 NECESSARY SUPPORT TO LOW-PERFORMING SCHOOLS AND
+43 LOW-PERFORMING LOCAL SCHOOL ADMINISTRATIVE UNITS
+44
+45 DISTRICT AND REGIONAL SUPPORT MODEL
+46 SECTION 5.1. There is appropriated from the General Fund to the Department of
+47 Public Instruction the sum of nineteen million dollars ($19,000,000) in recurring funds for the
+48 2026-2027 fiscal year to be used to continue to implement the District and Regional Support
+49 model developed by the State Board of Education to support the improvement of low-performing
+50 and high-poverty schools. Implementation shall (i) provide support in needed content areas and
+51 instructional and leadership coaching and (ii) include direct, comprehensive, and progressive
+Page 38 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 turnaround assistance to the State's chronically low-performing schools and low-performing
+2 districts.
+3
+4 REVIEW AND UPDATE CURRICULUM ADOPTION PROCESSES
+5 SECTION 5.2.(a) Before March 15, 2027, the State Board of Education shall review,
+6 update, and strengthen the State-level process for reviewing and adopting core curriculum
+7 resources. The State Board of Education shall provide statewide and regional support, resources,
+8 and professional learning opportunities to assist schools and districts in selecting and successfully
+9 employing high-quality, standards-aligned, culturally responsive, evidence-based resources and
+10 practices to assist educators in applying innovative practices that promote continuous
+11 improvement. No later than June 30, 2027, the Department of Public Instruction shall provide a
+12 model implementation plan to each local school administrative unit.
+13 SECTION 5.2.(b) There is appropriated from the General Fund to the Department
+14 of Public Instruction the sum of two hundred fifty thousand dollars ($250,000) in nonrecurring
+15 funds for the 2026-2027 fiscal year to implement the provisions of this section.
+16
+17 SUPPORT FOR HIGH-POVERTY SCHOOLS
+18 SECTION 5.3.(a) Article 13 of Chapter 115C of the General Statutes is amended by
+19 adding a new section to read:
+20 "§ 115C-209.2. Community schools support program.
+21 (a) Program Established. – The Department of Public Instruction shall establish a
+22 program (Program) to provide support to high-poverty schools that adopt a community school
+23 model or other evidence-based models to address out-of-school barriers to learning.
+24 (b) Definitions. – The following definitions shall apply in this section:
+25 (1) Community school model. – The model following the Department of Public
+26 Instruction's Whole School, Whole Community, Whole Child model based on
+27 the Centers for Disease Control and Prevention's guidance.
+28 (2) Evidence-based model. – Any model established using evidence-based
+29 methods that, in the discretion of the State Board of Education, achieve the
+30 goals set in the Whole School, Whole Community, Whole Child model.
+31 (c) Participation. – The Department of Public Instruction shall disseminate an application
+32 form for participation in the Program for the following school year no later than June 1 of each
+33 year. No later than July 1, any school that uses a community school model or other
+34 evidence-based model to address out-of-school barriers to learning may apply to participate in
+35 the Program. No later than August 1 of each school year that funds are made available for this
+36 purpose, the Department of Public Instruction shall select geographically and culturally diverse
+37 schools from among the applicants for that school year to participate in the Program. Priority
+38 shall be given to schools that have high rates of student poverty.
+39 (d) Implementation. – Each participating local school administrative unit shall hire one
+40 full-time school-based coordinator per participating school. The school-based coordinator shall
+41 assess local needs and assets and organize the integration of social, academic, and health supports
+42 in coordination with school support personnel. The school-based coordinator shall also assess the
+43 school's access to technical assistance and professional support to effectively plan and implement
+44 the community school model or other evidence-based model. No later than July 15 of each school
+45 year that a school participates in the Program, the school-based coordinator shall submit to the
+46 Department of Public Instruction a request for funds for goods or services beneficial to meeting
+47 the goals of the community school model or other evidence-based model for the following school
+48 year. No later than August 15 of each school year, the Department of Public Instruction shall
+49 evaluate each funding request and allocate funds as it deems necessary.
+DRH10571-MTa-148 Page 39
+
+General Assembly Of North Carolina Session 2025
+1 (e) Report. – No later than October 15 of each school year, the Department of Public
+2 Instruction, in consultation with each school-based coordinator, shall provide a report to the Joint
+3 Legislative Education Oversight Committee on the following:
+4 (1) The amount of funds requested by each school.
+5 (2) The purposes of funds requested by each school.
+6 (3) The amount of funds allocated to each school.
+7 (4) The use of funds allocated to each school.
+8 (5) Any effects of the model on school outcomes, including attendance rates,
+9 academic outcomes, or any other measure the school-based coordinator or the
+10 Department deems relevant.
+11 (6) Any other information the Department deems relevant."
+12 SECTION 5.3.(b) Appropriation. – There is appropriated from the General Fund to
+13 the Department of Public Instruction the sum of sixty-five million five hundred thirteen thousand
+14 six hundred twenty-one dollars ($65,513,621) in recurring funds for the 2026-2027 fiscal year to
+15 implement the Program established by this section.
+16 SECTION 5.3.(c) This section applies beginning with the 2026-2027 school year.
+17
+18 SCHOOL MEAL DEBT REPORT
+19 SECTION 5.4. Part 2 of Article 17 of Chapter 115C of the General Statutes is
+20 amended by adding a new section to read:
+21 "§ 115C-264.6. School meal debt report.
+22 No later than October 15 of each year, the State Board of Education shall report to the Joint
+23 Legislative Education Oversight Committee on unpaid meal charges in local school
+24 administrative units. At a minimum, the report shall include the following information:
+25 (1) The percentage of students in each grade level in each local school
+26 administrative unit who carry unpaid meal debt.
+27 (2) The total amount of funds received by each local school administrative unit
+28 related to unpaid meal charges.
+29 (3) Summaries of approaches adopted by each local school administrative unit
+30 regarding unpaid meal charges.
+31 (4) Options for a statewide policy on the uniform administration of unpaid meal
+32 charges in local school administrative units."
+33
+34 CEP MEAL PROGRAM INCENTIVE
+35 SECTION 5.5.(a) Part 2 of Article 17 of Chapter 115C of the General Statutes is
+36 amended by adding a new section to read:
+37 "§ 115C-264.15. CEP meal program supplement.
+38 (a) Any public school unit or school within a public school unit that is operating a school
+39 nutrition program that is eligible for the federal Community Eligibility Provision (CEP) program
+40 shall participate in the CEP program to increase the number of students with access to healthy,
+41 cost-free school breakfast and lunch. Schools participating in the CEP program shall have an
+42 innovative breakfast option available where students have access to breakfast and are allowed to
+43 consume breakfast in the classroom.
+44 (b) To the extent funds are made available for the purpose, the Department of Public
+45 Instruction shall issue State reimbursements to participating public school units and schools to
+46 supplement federal reimbursements of school meals. State reimbursement shall equal the
+47 difference between the federal free rate and the federal paid rate for the number of meals served
+48 at the participating schools equal to a 0.2 multiplier of the Identified School Percentage (ISP) for
+49 the participating schools. State and federal reimbursements shall not exceed one hundred percent
+50 (100%) of the federal free rate of meals served. If funds provided for the purpose are insufficient,
+51 the Department shall distribute available funds pro rata on the basis of average daily membership.
+Page 40 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 (c) No later than January 1 of each year, the Department shall report to the Joint
+2 Legislative Education Oversight Committee at least the following information:
+3 (1) The number of schools participating in the CEP program and the number of
+4 students served by use of the program.
+5 (2) The amount of federal and State money participating public school units and
+6 schools received.
+7 (3) Any noted changes in student performance due to the increased availability of
+8 nutrition services."
+9 SECTION 5.5.(b) There is appropriated from the General Fund to the Department
+10 of Public Instruction the sum of ninety-two million five hundred thousand dollars ($92,500,000)
+11 in recurring funds for the 2026-2027 fiscal year for the Department to provide State
+12 reimbursements to schools participating in the CEP program pursuant to G.S. 115C-264.15, as
+13 enacted by this act.
+14 SECTION 5.5.(c) This section becomes effective July 1, 2026, and applies
+15 beginning with the 2026-2027 school year.
+16
+17 PART VI. SYSTEM OF EARLY EDUCATION THAT PROVIDES ACCESS TO
+18 HIGH-QUALITY PREKINDERGARTEN AND OTHER EARLY CHILDHOOD
+19 LEARNING OPPORTUNITIES
+20
+21 EXPAND NC PREKINDERGARTEN (NC PRE-K) PROGRAM
+22 SECTION 6.1.(a) Appropriation. – There is appropriated from the General Fund to
+23 the Department of Health and Human Services, Division of Child Development and Early
+24 Education, the sum of three hundred thirty-three million four hundred thousand dollars
+25 ($333,400,000) in recurring funds for the 2026-2027 fiscal year for the purpose of expanding the
+26 NC Prekindergarten (NC Pre-K) program for eligible children who are 4 years of age by
+27 allocating funds for each of the following:
+28 (1) Incrementally increase State funding for each NC Pre-K slot with the goal of
+29 paying one hundred percent (100%) of the actual cost by the end of the
+30 2027-2028 fiscal year.
+31 (2) Gradually increase the number of eligible children able to be served in the NC
+32 Pre-K program with the goal of reaching at least seventy-five percent (75%)
+33 of eligible children in each county by the end of the 2027-2028 fiscal year.
+34 (3) Raise the rate for the county administrator to provide oversight, monitoring,
+35 enrollment, and support to ten percent (10%) by the end of the 2026-2027
+36 fiscal year.
+37 (4) Phase extension of the NC Pre-K program year from 10 to 12 months in
+38 accordance with subsection (b) of this section.
+39 SECTION 6.1.(b) Extend NC Pre-K Program Year to 12 Months. – Section 9D.1 of
+40 S.L. 2023-134 is amended by adding a new subsection to read:
+41 "SECTION 9D.1.(h) Extend NC Pre-K Program Year. – It is the intent of the General
+42 Assembly to gradually extend the NC Pre-K program to cover 12 months of the program year
+43 with full implementation statewide by the end of the 2027-2028 fiscal year. To that end, the
+44 Division of Child Development and Early Education (Division) shall develop and implement a
+45 plan that (i) includes establishing a pilot program to extend the NC Pre-K program year from 10
+46 to 12 months and (ii) is based on county capacity to implement the extension. The Division shall
+47 select up to three counties to participate in the pilot program that includes, at a minimum,
+48 representation from a private classroom setting, a public classroom setting that operates on a
+49 year-round basis, and an underserved area. The Division shall submit a report to the Joint
+50 Legislative Oversight Committee on Health and Human Services and the Fiscal Research
+51 Division by December 31, 2027. The report shall include each of the following:
+DRH10571-MTa-148 Page 41
+
+General Assembly Of North Carolina Session 2025
+1 (1) The number of students participating in the pilot program.
+2 (2) The number of students participating who are in an NC Pre-K classroom in a
+3 child care center versus those in an NC Pre-K classroom in a public school.
+4 (3) The number of schools and child care centers participating in the program,
+5 including identifying those that are private and those that are public.
+6 (4) The number of NC Pre-K classrooms participating in the program.
+7 (5) The additional costs needed to implement the program.
+8 (6) The challenges and successes of implementing the program in both NC Pre-K
+9 classrooms in child care centers and NC Pre-K classrooms in public schools."
+10 SECTION 6.1.(c) There is appropriated from the General Fund to the Department
+11 of Health and Human Services, Division of Child Development and Early Education (Division),
+12 the sum of three hundred thousand dollars ($300,000) in recurring funds for the 2026-2027 fiscal
+13 year to increase State-level NC Pre-K staffing to manage the planned expansion of the NC Pre-K
+14 program, provide policy development and program oversight, ensure program quality, and
+15 manage any new, required studies.
+16 SECTION 6.1.(d) There is appropriated from the General Fund to the Department
+17 of Health and Human Services, Division of Child Development and Early Education (Division),
+18 the sum of forty-eight million four hundred thousand dollars ($48,400,000) in recurring funds
+19 for the 2026-2027 fiscal year to provide transportation to all participants enrolled in the NC Pre-K
+20 program.
+21
+22 INCREASE HIGH-QUALITY EARLY LEARNING OPPORTUNITIES FOR
+23 CHILDREN FROM BIRTH/INCREASE FUNDS FOR CHILD CARE SUBSIDY
+24 SECTION 6.2.(a) There is appropriated from the General Fund to the Department
+25 of Health and Human Services, Division of Child Development and Early Education (Division),
+26 the sum of ten million dollars ($10,000,000) in recurring funds for the 2026-2027 fiscal year to
+27 increase funds for the child care subsidy program and provide for program improvements,
+28 including, but not limited to, increasing compensation for the child care workforce and ensuring
+29 that eligible families receive assistance through the elimination of waitlists.
+30 SECTION 6.2.(b) There is appropriated from the General Fund to the Department
+31 of Health and Human Services, Division of Child Development and Early Education (Division),
+32 the sum of seventy-eight million seven hundred thousand dollars ($78,700,000) in recurring
+33 funds for the 2026-2027 fiscal year to expand the Family Connects universal home visiting model
+34 to local agencies statewide that choose to implement the program for their community through
+35 local health departments or local Smart Start partnerships. Family Connects is an evidence-based
+36 model that provides one to three home visits from a registered nurse to all families who have
+37 newborns and live in a defined service area.
+38 SECTION 6.2.(c) There is appropriated from the General Fund to the Department
+39 of Health and Human Services, Division of Child Development and Early Education (Division),
+40 the sum of forty million dollars ($40,000,000) in recurring funds for the 2026-2027 fiscal year to
+41 conduct a pilot program of a State model for high-quality early learning programs for eligible
+42 children from birth to 3 years of age, for 1,000 children each year, with the intent to expand the
+43 program to additional locations. The pilot program and any subsequent expansion of the pilot
+44 program shall focus on high-poverty school districts across the State.
+45
+46 EXPAND AND IMPROVE ACCESS TO INDIVIDUALIZED EARLY INTERVENTION
+47 SERVICES FOR ELIGIBLE CHILDREN/NC INFANT-TODDLER PROGRAM
+48 SECTION 6.3.(a) Funds for NC Infant-Toddler Program. – There is appropriated
+49 from the General Fund to the Department of Health and Human Services, Division of Child and
+50 Family Well-Being, Early Intervention Section, the sum of twenty million dollars ($20,000,000)
+51 in recurring funds for the 2026-2027 fiscal year to provide funds for the North Carolina
+Page 42 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 Infant-Toddler Program, a program that provides support and services for families and their
+2 children, from birth to 3 years of age, who have special needs. These funds shall be used to take
+3 steps toward doing the following:
+4 (1) Increasing State and local staffing in the provision of services to families with
+5 infants and toddlers with developmental delays and established medical
+6 conditions who are eligible for the NC Infant-Toddler Program.
+7 (2) Expanding funding for interpreter services.
+8 (3) Establishing a centralized provider network system.
+9 (4) Providing professional development focused on early childhood mental
+10 health.
+11 (5) Addressing salary inequities affecting provider retention and recruitment.
+12 SECTION 6.3.(b) Feasibility Study & Infrastructure Readiness
+13 Assessment/Expansion of NC Infant-Toddler Program. – There is appropriated from the General
+14 Fund to the Department of Health and Human Services, Division of Child and Family
+15 Well-Being, Early Intervention Section, the sum of two hundred fifty thousand dollars
+16 ($250,000) in nonrecurring funds for the 2026-2027 fiscal year to be allocated as follows:
+17 (1) One hundred fifty thousand dollars ($150,000) to conduct a feasibility study
+18 to examine eligibility criteria and cost implications for expansion of the NC
+19 Infant-Toddler Program.
+20 (2) One hundred thousand dollars ($100,000) to conduct a system and
+21 infrastructure readiness assessment to determine areas of need and system
+22 challenges that need to be addressed before expanding the NC Infant-Toddler
+23 Program. The Division of Public Health shall solicit public input and feedback
+24 on the plan developed pursuant to this subdivision.
+25 SECTION 6.3.(c) Scale Up Early Intervention Services. – There is appropriated
+26 from the General Fund to the Department of Health and Human Services, Division of Child and
+27 Family Well-Being, Early Intervention Section, the sum of one hundred sixty-two million five
+28 hundred thousand dollars ($162,500,000) in recurring funds for the 2026-2027 fiscal year to
+29 provide high-quality early intervention services and supports for up to an additional 30,000
+30 children from birth to 3 years of age, who meet expanded eligibility criteria for the Infant and
+31 Toddler Program implemented as a result of the feasibility study conducted pursuant to
+32 subdivision (b)(1) of this section. The Early Intervention Section may use up to five percent (5%)
+33 of these allocated funds to conduct a public awareness campaign regarding expansion of
+34 eligibility for the NC Infant and Toddler Program, to increase efforts to identify children eligible
+35 to receive services under this expanded program, and to create partnerships with family support
+36 agencies.
+37
+38 INCREASE SMART START FUNDING
+39 SECTION 6.4. There is appropriated from the General Fund to the Department of
+40 Health and Human Services, Division of Child Development and Early Education, the sum of
+41 four hundred nineteen million six hundred thousand dollars ($419,600,000) in recurring funds
+42 for the 2026-2027 fiscal year to gradually increase funding for the North Carolina Partnership
+43 for Children, Inc., (Smart Start), with the goal of fully funding Smart Start by the end of the
+44 2027-2028 fiscal year. Funds allocated to the North Carolina Partnership for Children, Inc.,
+45 pursuant to this section, shall be distributed to Smart Start local partnerships to improve statewide
+46 early child system infrastructure and support a cohesive continuum of services for families and
+47 children from birth through 5 years of age.
+48
+49 INCREASE EARLY CHILDHOOD EDUCATOR WORKFORCE
+50 SECTION 6.5.(a) Funds for WAGE$ and AWARD$ Programs. – There is
+51 appropriated from the General Fund to the Department of Health and Human Services, Division
+DRH10571-MTa-148 Page 43
+
+General Assembly Of North Carolina Session 2025
+1 of Child Development and Early Education, the sum of thirty-two million dollars ($32,000,000)
+2 in recurring funds for the 2026-2027 fiscal year to increase funding for and expand participation
+3 statewide in the Child Care WAGE$ program and the Infant-Toddler Educator AWARD$
+4 program, both of which provide salary supplements for early childhood educators.
+5 SECTION 6.5.(b) Recruitment Strategies and Professional Development. – There is
+6 appropriated from the General Fund to the Department of Health and Human Services, Division
+7 of Child Development and Early Education, the sum of seven million three hundred thousand
+8 dollars ($7,300,000) in recurring funds for the 2026-2027 fiscal year to implement strategies to
+9 recruit early childhood educators and provide ongoing professional development, including
+10 coaching, technical assistance, assistance with degree attainment, and licensure support.
+11
+12 FACILITATE RELIABLE ACCESS TO HIGH-QUALITY DATA SUPPORTING
+13 EARLY CHILDHOOD EDUCATION
+14 SECTION 6.6.(a) Real-Time Workforce Data System. – There is appropriated from
+15 the General Fund to the Department of Health and Human Services, Division of Child
+16 Development and Early Education, the sum of five hundred thousand dollars ($500,000) in
+17 recurring funds for the 2026-2027 fiscal year to develop and implement a real-time workforce
+18 data system that supports building a pipeline of early childhood educators.
+19 SECTION 6.6.(b) Expand and Improve Current Early Childhood Data Systems. –
+20 There is appropriated from the General Fund to the Department of Health and Human Services,
+21 Division of Child Development and Early Education (Division), the sum of five hundred
+22 thousand dollars ($500,000) in recurring funds for the 2026-2027 fiscal year to expand and
+23 improve the North Carolina Early Childhood Integrated Data System (NC ECIDS) and the North
+24 Carolina Early Childhood Action plan data dashboards to track child outcomes and provide
+25 access to State data for State and local users and researchers with the goal of connecting this data
+26 to the NC Longitudinal Data System (NCLDS).
+27 SECTION 6.6.(c) Build Local Capacity/Early Childhood Data. – There is
+28 appropriated from the General Fund to the Department of Health and Human Services
+29 (Department), Division of Child Development and Early Education (Division), the sum of one
+30 hundred fifty thousand dollars ($150,000) in recurring funds for the 2026-2027 fiscal year to
+31 collaborate with the Divisions of Social Services and Public Health, as appropriate, in developing
+32 and implementing a plan to provide technical assistance to build local capacity to use quality
+33 early childhood data across child health, child welfare, and early childhood education for local
+34 planning.
+35 SECTION 6.6.(d) Real-Time Data Collection/Children Eligible for Early Childhood
+36 Services. – There is appropriated from the General Fund to the Department of Health and Human
+37 Services, Division of Child Development and Early Education, the sum of five hundred thousand
+38 dollars ($500,000) in nonrecurring funds for the 2026-2027 fiscal year and the sum of two
+39 hundred fifty thousand dollars ($250,000) in recurring funds for the 2026-2027 fiscal year to
+40 develop and implement a real-time data collection and sharing process to identify children
+41 eligible for early childhood programs, including the North Carolina Prekindergarten (NC Pre-K)
+42 program and Early Intervention program, that allows for each of the following:
+43 (1) The disaggregation along multiple variables, such as race, ethnicity, and
+44 geography.
+45 (2) The identification of the children most vulnerable to build a more equitable
+46 early learning system.
+47
+48 PREKINDERGARTEN TO KINDERGARTEN TRANSITIONS
+49 SECTION 6.7. There is appropriated from the General Fund to the Department of
+50 Health and Human Services, Division of Child Development and Early Education (Division), the
+Page 44 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 sum of five million dollars ($5,000,000) in recurring funds for the 2026-2027 fiscal year to
+2 incrementally scale up the Pre-K to K Transitions program to serve all districts.
+3
+4 COLLABORATIVE FAMILY ENGAGEMENT PLANS
+5 SECTION 6.8. There is appropriated from the General Fund to the Department of
+6 Health and Human Services, Division of Child Development and Early Education (Division), the
+7 sum of three hundred twenty thousand dollars ($320,000) in recurring funds for the 2026-2027
+8 fiscal year to provide ongoing support and technical assistance for establishing local
+9 collaborative family engagement plans for birth through third grade.
+10
+11 REQUIRE LICENSURE FOR NC PRE-K LEAD TEACHERS
+12 SECTION 6.9. By July 1, 2027, the Department of Health and Human Services,
+13 Division of Child Development and Early Education, shall implement a policy to require that all
+14 NC Prekindergarten (NC Pre-K) lead teachers hold an appropriate State teaching license as
+15 specified by NC Pre-K policy. The policy shall also require that NC Pre-K lead teachers be paid
+16 according to the State public school salary schedule by the 2027-2028 fiscal year.
+17
+18 PART VII. ALIGNMENT OF HIGH SCHOOL TO POSTSECONDARY AND CAREER
+19 EXPECTATIONS FOR ALL STUDENTS
+20
+21 REVISE NCVPS FUNDING
+22 SECTION 7.1. There is appropriated from the General Fund to the Department of
+23 Public Instruction the sum of sixteen million seven hundred thousand dollars ($16,700,000) in
+24 nonrecurring funds for the 2026-2027 fiscal year to offset the costs for local administrative units
+25 and charter schools to remove barriers to student participation in North Carolina Virtual Public
+26 Schools. The funds shall be allocated with a priority to cover the costs of courses for students
+27 enrolled in public schools located in low-wealth counties.
+28
+29 SCHOOL CALENDAR FLEXIBILITY/CC CALENDAR
+30 SECTION 7.2.(a) G.S. 115C-84.2(d) reads as rewritten:
+31 "(d) Opening and Closing Dates. – Local boards of education shall determine the dates of
+32 opening and closing the public schools under subdivision (a)(1) of this section. Except for
+33 year-round schools, the opening date for students shall be no earlier than the Monday closest to
+34 August 26, and the closing date for students shall be no later than the Friday closest to June 11.
+35 On a showing of good cause, the State Board of Education may waive the requirement that the
+36 opening date for students be no earlier than the Monday closest to August 26 and may allow the
+37 local board of education to set an opening date no earlier than the Monday closest to August 19,
+38 to the extent that school calendars are able to provide sufficient days to accommodate anticipated
+39 makeup days due to school closings. A local board may revise the scheduled closing date if
+40 necessary in order to comply with the minimum requirements for instructional days or
+41 instructional time. For purposes of this subsection, the term "good cause" means that schools in
+42 any local school administrative unit in a county have been closed eight days per year during any
+43 four of the last 10 years because of severe weather conditions, energy shortages, power failures,
+44 or other emergency situations.
+45 The required opening and closing dates under this subsection shall not apply to any school
+46 that a local board designated as having a modified calendar for the 2003-2004 school year or to
+47 any school that was part of a planned program in the 2003-2004 school year for a system of
+48 modified calendar schools, so long as the school operates under a modified calendar.
+49 Notwithstanding the required opening and closing dates under this subsection, a local board
+50 of education may align the calendar of schools in the local school administrative unit with the
+51 calendar of a community college serving the city or county in which the unit is located."
+DRH10571-MTa-148 Page 45
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 7.2.(b) This section is effective when it becomes law and applies
+2 beginning with the 2026-2027 school year.
+3
+4 COLLEGE ADVISING CORPS/COLLEGE ADVISERS IN THE PUBLIC SCHOOLS
+5 SECTION 7.3.(a) Purpose of the College Advising Corps Program. – From the funds
+6 appropriated in subsection (b) of this section, the Board of Governors of The University of North
+7 Carolina shall make funds available to the National College Advising Corps, Inc., (CAC) to
+8 support an expansion of the placement of college advisers in North Carolina public schools
+9 through their program over a three-year period. CAC is a college access nonprofit organization
+10 with the mission to increase the number of underrepresented, low-income, or first-generation
+11 postsecondary degree or certificate students entering and completing their postsecondary
+12 education at community colleges and universities. In furthering this mission, CAC operates an
+13 innovative model of partnering with schools, communities, families, and postsecondary
+14 institutions, including providing for a two-year service opportunity to recent college graduates
+15 as near-peer college advisers working full time in the public schools, with an emphasis on
+16 engaging college advisers who have similar backgrounds to the students the program seeks to
+17 serve. Near-peer college advisers perform various services for those students that are key
+18 components to the proven success of the program, including (i) attending postsecondary campus
+19 visits, fairs, and workshops with students, (ii) assisting with registering for college entrance
+20 exams, (iii) assisting with Free Application for Federal Student Aid (FAFSA) registrations and
+21 completions, (iv) identifying available scholarships, (v) assisting with postsecondary
+22 applications, and (vi) engaging with parents.
+23 SECTION 7.3.(b) Funds for the Program. – Due to the effectiveness of the
+24 innovative model operated by CAC and the potential for significantly impacting the highest-need
+25 students as described in subsection (a) of this section, the sum of three million dollars
+26 ($3,000,000) in recurring funds is appropriated from the General Fund to the Board of Governors
+27 of The University of North Carolina for the 2026-2027 fiscal year to be provided to CAC for the
+28 purpose of expanding the placement of college advisers in accordance with the requirements of
+29 this section.
+30 SECTION 7.3.(c) Use of Funds. – CAC shall focus the first two years of the
+31 expansion of its program using the funds provided to it under this section by placing college
+32 advisers in counties designated as tier one and tier two. For the third year of the expansion, CAC
+33 shall use the funds provided to it to place college advisers in the remaining counties designated
+34 as tier three in order to achieve placement of college advisers in all 100 counties of the State. In
+35 addition, CAC shall select at least three additional postsecondary institutions to partner with in
+36 order to increase the number of recent graduates working as near-peer college advisers to meet
+37 the needs of the program expansion. Once CAC has reached the goal of placement of college
+38 advisers in 100 counties, the funds provided to it for the program shall be used to continue the
+39 mission of the program to increase access for North Carolina public school students to
+40 postsecondary degree or certificate attainment at community colleges and universities.
+41 SECTION 7.3.(d) Reporting Requirements. – CAC shall submit a report by June 1
+42 of each year in which CAC spends State funds made available to it pursuant to this section to the
+43 Joint Legislative Education Oversight Committee and the Fiscal Research Division on the
+44 progress of expanding the placement of college advisers, data on the effectiveness of the program
+45 in increasing access for students to postsecondary education, and the use of State funds.
+46
+47 CAREER DEVELOPMENT COORDINATORS
+48 SECTION 7.4. There is appropriated from the General Fund to the Department of
+49 Public Instruction the sum of one hundred thousand dollars ($100,000) in recurring funds for the
+50 2026-2027 fiscal year for a Career and Postsecondary Planning Director position in the
+51 Department's career and technical education division to focus on career planning in grades five
+Page 46 DRH10571-MTa-148
+
+General Assembly Of North Carolina Session 2025
+1 through 12. There is also appropriated the sum of eighty-seven million dollars ($87,000,000) in
+2 recurring funds for the 2026-2027 fiscal year to increase the number of school-based career
+3 development coordinators for grades six through 12.
+4
+5 FUNDS TO REMOVE BARRIERS FOR ECONOMICALLY DISADVANTAGED
+6 STUDENTS TO PARTICIPATE IN THE CAREER AND COLLEGE PROMISE
+7 TRANSFER PATHWAY PROGRAM
+8 SECTION 7.5. There is appropriated from the General Fund to the Department of
+9 Public Instruction the sum of five million dollars ($5,000,000) in recurring funds for the
+10 2026-2027 fiscal year to fund additional costs for all economically disadvantaged students
+11 enrolled in the Career and College Promise Transfer Pathway Program, including at least the full
+12 costs of textbooks, transportation, meals on college campuses, fees, and technology. If these
+13 funds are insufficient, the Department shall use additional unspent funds in the State Public
+14 School Fund to fulfill this purpose.
+15
+16 PART VIII. MISCELLANEOUS
+17
+18 STATE BUDGET ACT APPLIES
+19 SECTION 8.1. The provisions of the State Budget Act, Chapter 143C of the General
+20 Statutes, are reenacted and shall remain in full force and effect and are incorporated in this act
+21 by reference.
+22
+23 EFFECT OF HEADINGS
+24 SECTION 8.2. The headings to the Parts, subparts, and sections of this act are a
+25 convenience to the reader and are for reference only. The headings do not expand, limit, or define
+26 the text of this act, except for effective dates referring to a Part or subpart.
+27
+28 SEVERABILITY CLAUSE
+29 SECTION 8.3. If any section or provision of this act is declared unconstitutional or
+30 invalid by the courts, it does not affect the validity of this act as a whole or any part other than
+31 the part so declared to be unconstitutional or invalid.
+32
+33 EFFECTIVE DATE
+34 SECTION 8.4. Except as otherwise provided, this act becomes effective July 1,
+35 2026.
+DRH10571-MTa-148 Page 47

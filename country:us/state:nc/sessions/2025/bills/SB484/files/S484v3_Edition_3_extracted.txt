@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Edition 3
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 3
+SENATE BILL 484
+Judiciary Committee Substitute Adopted 4/29/25
+House Committee Substitute Favorable 6/2/26
+Short Title: Clarify Tourism-Related Expenditures. (Public)
+Sponsors:
+Referred to:
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO CLARIFY THE APPROPRIATE USE OF PROCEEDS OF A ROOM
+3 OCCUPANCY TAX THAT MAY BE USED FOR TOURISM-RELATED
+4 EXPENDITURES.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 160A-215 reads as rewritten:
+7 "§ 160A-215. Uniform provisions for room occupancy taxes.
+8 …
+9 (f1) Use. – The proceeds of a room occupancy tax shall not be used as follows:
+10 (1) for For development or construction of a hotel or another transient lodging
+11 facility.
+12 (2) For the proceeds of a room occupancy tax that may be used for tourism-related
+13 expenditures, for services ordinarily provided by a city for its residents, or for
+14 purposes that are designed for or primarily benefit residents of the city unless
+15 explicitly authorized by local act, including all of the following:
+16 a. Solid waste collection or disposal.
+17 b. Water supply, distribution, or treatment.
+18 c. Fire protection.
+19 d. Law enforcement, public safety services, or emergency services.
+20 e. Affordable housing.
+21 f. Education.
+22 (g) Applicability. – Subsection (c) of this section applies to all cities that levy an
+23 occupancy tax. To the extent subsection (c) conflicts with any provision of a local act, subsection
+24 (c) supersedes that provision. Subdivision (2) of subsection (f1) of this section applies to all cities
+25 that levy an occupancy tax. The remainder of this section applies only to Beech Mountain District
+26 W, to the Cities of Belmont, Burlington, Conover, Eden, Elizabeth City, Gastonia, Goldsboro,
+27 Graham, Greensboro, Hickory, High Point, Indian Trail, Jacksonville, Kings Mountain, Lake
+28 Santeetlah, Lenoir, Lexington, Lincolnton, Lowell, Lumberton, Mebane, Monroe, Mount Airy,
+29 Mount Holly, Reidsville, Roanoke Rapids, Salisbury, Sanford, Shelby, Statesville, Washington,
+30 and Wilmington, to the Towns of Ahoskie, Beech Mountain, Benson, Bermuda Run, Blowing
+31 Rock, Boiling Springs, Boone, Burgaw, Carolina Beach, Carrboro, Cooleemee, Cramerton,
+32 Dallas, Dobson, Elkin, Elon, Fontana Dam, Four Oaks, Franklin, Grover, Hillsborough,
+33 Jefferson, Jonesville, Kenly, Kure Beach, Lansing, Leland, McAdenville, Mocksville,
+34 Mooresville, Murfreesboro, North Topsail Beach, Pembroke, Pilot Mountain, Ranlo,
+35 Robbinsville, Selma, Smithfield, St. James, St. Pauls, Swansboro, Troutman, Tryon, West
+*S484-v-3*
+
+General Assembly Of North Carolina Session 2025
+1 Jefferson, Wrightsville Beach, Yadkinville, Yanceyville, to the municipalities in Avery and
+2 Brunswick Counties, to Clayton District C, Saluda District D, and Stallings District S."
+3 SECTION 2. G.S. 153A-155 reads as rewritten:
+4 "§ 153A-155. Uniform provisions for room occupancy taxes.
+5 …
+6 (f1) Use. – The proceeds of a room occupancy tax shall not be used as follows:
+7 (1) for For development or construction of a hotel or another transient lodging
+8 facility.
+9 (2) For the proceeds of a room occupancy tax that may be used for tourism-related
+10 expenditures, for services ordinarily provided by a county for its residents, or
+11 for purposes that are designed for or primarily benefit residents of the county
+12 unless explicitly authorized by local act, including all of the following:
+13 a. Solid waste collection or disposal.
+14 b. Water supply, distribution, or treatment.
+15 c. Fire protection.
+16 d. Law enforcement, public safety services, or emergency services.
+17 e. Affordable housing.
+18 f. Education.
+19 (g) Applicability. – Subsection (c) of this section applies to all counties and county
+20 districts that levy an occupancy tax. To the extent subsection (c) conflicts with any provision of
+21 a local act, subsection (c) supersedes that provision. Subdivision (2) of subsection (f1) of this
+22 section applies to all counties that levy an occupancy tax. The remainder of this section applies
+23 only to Alleghany, Anson, Bertie, Brunswick, Buncombe, Burke, Cabarrus, Camden, Carteret,
+24 Caswell, Chatham, Cherokee, Chowan, Clay, Craven, Cumberland, Currituck, Dare, Davie,
+25 Duplin, Durham, Edgecombe, Forsyth, Franklin, Graham, Granville, Halifax, Haywood,
+26 Henderson, Jackson, Madison, Martin, McDowell, Mitchell, Montgomery, Moore, Nash, New
+27 Hanover, Northampton, Pasquotank, Pender, Perquimans, Person, Randolph, Richmond,
+28 Rockingham, Rowan, Rutherford, Sampson, Scotland, Stanly, Stokes, Swain, Transylvania,
+29 Tyrrell, Union, Vance, Warren, Washington, Wayne, Wilson, and Yancey Counties, to Avery
+30 County District A, Graham County District G, Harnett County District H, Iredell County District
+31 I, New Hanover County District U, Pender County District P, Surry County District S, Watauga
+32 County District U, Wilkes County District W, Yadkin County District Y, and the Township of
+33 Averasboro in Harnett County and the Ocracoke Township Taxing District."
+34 SECTION 3. This act is effective when it becomes law and applies to the expenditure
+35 of occupancy tax proceeds collected on or after that date.
+Page 2 Senate Bill 484-Third Edition
