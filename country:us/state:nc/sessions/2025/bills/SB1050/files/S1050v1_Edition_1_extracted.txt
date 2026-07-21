@@ -1,0 +1,428 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 1050
+Short Title: Office of State Fire Marshal ESF Mods. (Public)
+Sponsors: Senator Johnson (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO EMERGENCY RESPONSE FUNCTIONS
+3 WITHIN THE STATE AND TO MODIFY THE OPERATIONS OF THE OFFICE OF THE
+4 STATE FIRE MARSHAL AND TO USE FUNDS TO EFFECTUATE THOSE PURPOSES.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. OFFICE OF STATE FIRE MARSHAL EMERGENCY SUPPORT FUNCTIONS
+8 SECTION 1.(a) Article 1 of Chapter 166A of the General Statutes is amended by
+9 adding a new part to read:
+10 "Part 6A. Certain Emergency Response Planning and Operations.
+11 "§ 166A-19.45. Office of State Fire Marshal Disaster Response.
+12 (a) Purpose. – The purpose of this Part is to align operational authority between certain
+13 State agencies and associated emergency response activities. The combination of firefighting,
+14 search and rescue, and hazardous materials response align with the responsibilities of the Office
+15 of the State Fire Marshal, and shall be managed, directed, and implemented during emergency
+16 response by the State Fire Marshal or their designee. The Office shall support the costs associated
+17 with implementing the provisions of this Part with the IRF, consistent with the limitation and use
+18 listed under G.S. 58-6-25(12).
+19 (b) Definitions. – The following definitions apply in this Part:
+20 (1) Office. – The Office of the State Fire Marshal.
+21 (2) EMAC. – The Emergency Management Assistance Compact under Article 4
+22 of this Chapter.
+23 (3) ESF. – Emergency Support Function, as defined under the Incident Command
+24 System and National Incident Management System.
+25 (4) Lead State Agency. – As defined in the NCEOP.
+26 (5) Lead Technical Agency. – As defined in the NCEOP.
+27 (6) NCEOP. – The North Carolina Emergency Operations Plan.
+28 (7) National Incident Management System (NIMS). – Established under
+29 Homeland Security Presidential Directive #5, issued February 28, 2003, as
+30 amended.
+31 (8) Presidential Policy Directive/PPD-8. – Issued by the President of the United
+32 States on March 30, 2011, to develop the National Preparedness Goal to
+33 identify core capabilities necessary for preparedness to guide activities that
+34 will enable the nation to achieve those directives and goals.
+35 (9) IRF. – The Insurance Regulatory Fund established in G.S. 58-6-25.
+36 (10) USAR. – Urban Search and Rescue team.
+*S1050-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 "§ 166A-19.46. Powers and duties of the Office; emergency support functions.
+2 (a) Powers and Duties. – The Office, through the State Fire Marshal or their designee, as
+3 the designated Emergency Coordinating Officer, shall have the following powers and duties as
+4 the designated Lead State Agency for certain emergency support functions listed
+5 G.S. 166A-19.47 under this Part:
+6 (1) Coordination of the activities of all State agencies for certain emergency
+7 support functions listed under this Part within the State, including planning,
+8 organizing, staffing, equipping, training, testing, and activating and managing
+9 the State Emergency Response Team and emergency management programs
+10 associated with those emergency support functions.
+11 (2) Preparation and maintenance of State plans for emergencies for certain
+12 emergency support functions listed under this Part. The State plans or any
+13 parts of those plans may be incorporated into Office rules and into executive
+14 orders of the Governor.
+15 (3) Promulgation of standards and requirements for local plans and programs
+16 consistent with federal and State laws and regulations, determination of
+17 eligibility for State financial assistance provided for in G.S. 166A-19.15, and
+18 provision of technical assistance to local governments. Standards and
+19 requirements for local plans and programs promulgated under this subdivision
+20 shall be reviewed by the Office at least biennially and updated as necessary.
+21 (4) Development and presentation of training programs for personnel for certain
+22 emergency support functions listed under this Part, including the Emergency
+23 Management Certification Program established under Article 5 of this
+24 Chapter, and public information programs to insure the furnishing of
+25 adequately trained personnel and an informed public in time of need
+26 associated with those emergency support functions.
+27 (5) Making of studies and surveys of the resources in this State as may be
+28 necessary to ascertain the capabilities of the State for certain emergency
+29 support functions listed under this Part, maintaining data on these resources,
+30 and planning for the most efficient use of those resources.
+31 (6) Coordination of the use of any private facilities, services, and property for
+32 certain emergency support functions listed under this Part.
+33 (7) Preparation for issuance by the Governor of executive orders, declarations,
+34 and regulations as necessary or appropriate for certain emergency support
+35 functions listed under this Part.
+36 (8) Cooperation and maintenance of liaison with the other states, the federal
+37 government, and any public or private agency or entity in implementing
+38 programs for certain emergency support functions listed under this Part.
+39 (9) Coordination of the use of existing means of communications and
+40 supplementing communications resources for certain emergency support
+41 functions listed under this Part and integrating them into a comprehensive
+42 State or State federal telecommunications or other communications system or
+43 network.
+44 (10) Administration of federal and State grant funds provided for emergency
+45 management purposes, including those funds provided for planning and
+46 preparedness activities by emergency management agencies, for certain
+47 emergency support functions listed under this Part.
+48 (11) Utilizing and maintaining technology that enables efficient and effective
+49 communication and management of resources between political subdivisions,
+50 State agencies, and other governmental entities involved in emergency
+Page 2 Senate Bill 1050-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 management activities, for certain emergency support functions listed under
+2 this Part.
+3 (12) Maintenance of an effective statewide urban search and rescue program.
+4 (b) NCEOP Integration. – The State Fire Marshal, or their designee, shall be integrated
+5 into the NCEOP as an Emergency Coordinating Officer for ESFs pertaining to firefighting,
+6 search and rescue, and hazardous materials response. The Emergency Coordinating Officer shall
+7 coordinate emergency response for those ESFs and collaborate with the State Emergency
+8 Response Team at the State Emergency Operations Center upon activation.
+9 (c) Emergency Coordination Officer (ECO). – The State Fire Marshal is designated as
+10 the Emergency Coordination Officer for the ESFs pertaining to firefighting, search and rescue,
+11 and hazardous materials response. The Emergency Coordination Officer shall coordinate
+12 requests for mutual aid from local emergency management agencies or other units of local
+13 government if requested pursuant to G.S. 166A-19.48 or other contract or agreement entered
+14 into.
+15 (d) EMAC Limitation. – Nothing in this Part shall be construed to limit the Emergency
+16 Management Assistance Compact entered into under Article 4 of this Chapter or the established
+17 EMAC Assistance Team under the command and control of the Division. If the Emergency
+18 Coordinator Officer requests EMAC resources, the request shall be directed to the EMAC
+19 Assistance Team and Division EMAC Coordinator following a verification of a state of
+20 emergency declaration by the Governor under this Chapter.
+21 (e) Mutual Aid Between Fire Departments. – Nothing in this Part shall be construed to
+22 limit the authorities of local fire departments to send firemen and apparatus beyond territorial
+23 limits as provided in Article 83 of Chapter 58 of the General Statutes.
+24 (f) Incident Command System and National Incident Management System Application.
+25 – All ESF responsibilities, organizational structure, response, and other associated functions
+26 executed by the Office and Emergency Coordinator Officer under this Part shall be consistent
+27 with Incident Command System- and National Incident Management System-compliant
+28 functions and best practices, consistent with federal law and policies, including Presidential
+29 Policy Directive/PPD-8.
+30 "§ 166A-19.47. Emergency Support Function responsibilities of the Office.
+31 (a) Emergency Support Function #4 (Firefighting). – Under ESF#4, the Office has the
+32 following responsibilities as the Lead State Agency and the Lead Technical Agency:
+33 (1) Provide guidelines for those agencies directly or indirectly involved in
+34 providing firefighting support or fire resources in response to emergencies
+35 requiring State assistance.
+36 (2) Manage and coordinate State firefighting activities, including all of the
+37 following:
+38 a. The detection and suppression of fires.
+39 b. Providing personnel, equipment, and supplies.
+40 c. Support local agencies involved in rural and urban firefighting
+41 operations.
+42 d. Mobilizing resources in support of local wildland, rural, and urban
+43 firefighting activities.
+44 e. Using established firefighting organizations, processes, and
+45 procedures.
+46 (3) Manage mutual aid among the various federal, State, and local fire agencies,
+47 using the Incident Command System, while combining the compatible
+48 firefighting equipment and communications.
+49 (4) Assist the Division and the North Carolina Forest Service with fire
+50 suppression through resource allocation and coordination.
+Senate Bill 1050-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (5) Ensure coordination among all the resource providers and the supporting
+2 agencies.
+3 (6) Provide search and rescue resources as may be required by the particular fire
+4 suppression scenario.
+5 (7) Provide all essential coordination for the dispatch, arrival, entry, and reporting
+6 of necessary personnel into the fire suppression area.
+7 (8) Upon recommendation of the North Carolina Forest Service, prepare the Fire
+8 Management Assistance Grant request for the Governor's signature,
+9 specifying the facts supporting the request.
+10 (9) The authority derived under Article 78A of Chapter 58 of the General Statutes
+11 to use any available resources to fulfill its mission in support of fire
+12 suppression, including the assignment of volunteer fire resources to locations
+13 throughout the State.
+14 (10) Exercise the primary support function for forest fire suppression in support of
+15 the North Carolina Forest Service.
+16 (11) Oversee statewide fire training, providing standards and qualification levels
+17 for individuals functioning in the rescue specialty.
+18 (12) Exercise control during major fire suppression over the coordination required
+19 through the local fire marshal and emergency manager to temporarily
+20 reallocate resources, personnel, and equipment to other areas where those are
+21 needed, including staging, security, and refueling.
+22 (13) Assume responsibility for loaned equipment and personnel, including
+23 accountability, maintenance and repair, and a provision for the return of the
+24 equipment to the original jurisdiction when it is no longer needed.
+25 (14) Provide engineers to assist with damage assessment.
+26 (15) Implement the North Carolina Association of Fire Chief's Emergency
+27 Response Plan, as necessary, through a predetermined process for resource
+28 rostering and deployment that coordinates efforts through the Office,
+29 Division, Association, local fire chief, local fire marshal, and local emergency
+30 manager.
+31 (b) Emergency Support Function #9 (Search and Rescue). – Under ESF#9, the Office has
+32 the following responsibilities as the Lead State Agency:
+33 (1) Provide State support to local governments by using State resources in search
+34 and rescue activities during daily events as well as actual or potential disasters.
+35 (2) Manage and coordinate search and rescue activities, including all of the
+36 following:
+37 a. USAR.
+38 b. Swift water rescue.
+39 c. Helicopter-aquatic search and rescue.
+40 d. Wilderness search and rescue.
+41 e. Mountain search and rescue.
+42 f, Provide daily situation reports to all specialized State teams listed in
+43 this subdivision.
+44 (3) Coordination and direction of local search and rescue efforts, including
+45 volunteers.
+46 (4) Coordinate with local emergency managers and governments for search
+47 operations.
+48 (5) Coordinate the deployment of necessary USAR teams within the State in the
+49 event of a catastrophic disaster with widespread building collapse or other
+50 qualifying incident with the Emergency Services Branch under the control of
+51 the Division.
+Page 4 Senate Bill 1050-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (6) Request federal USAR assistance if the incident exceed State capabilities
+2 through the SERT and Emergency Services Branch.
+3 (7) Coordinate with the Emergency Services Branch for typed resource database
+4 of specialized resources maintained outside of ESF#9 scope.
+5 (8) Maintain a typed resources database for search and rescue operations.
+6 (9) Provide a liaison to units of local government and coordinate assistance or
+7 response from State and federal governments and private search and rescue
+8 organizations.
+9 (10) Organize and appropriately train emergency management personnel for
+10 participation in all aspects of search and rescue operations.
+11 (11) Coordinate additional training for State and units of local government
+12 agencies and volunteer organizations to ensure an acceptable level of search
+13 and rescue preparedness.
+14 (12) Ensure specialized resources are capable by maintaining training records,
+15 applications, and typing criteria.
+16 (13) Maintain a current directory of qualified resources for search and rescue,
+17 through fire and rescue services statewide through the North Carolina
+18 Association of Rescue and Emergency Medical Services, the North Carolina
+19 Firefighters' Association, and the North Carolina Association of Fire Chiefs.
+20 (14) Coordinate air assets to transport specialized resources in a timely fashion.
+21 (c) Emergency Support Function #10 (Hazardous Materials). – Under ESF#9, the Office
+22 has the following responsibilities as the Lead State Agency:
+23 (1) Manage the procedures for the mobilization and coordination of a
+24 multi-organizational response that will contain, control, and manage a
+25 discharge or release of a hazardous material that threatens coastal
+26 communities, offshore waters, and inland communities of the State.
+27 (2) Respond to oil discharges and hazardous substance releases in accordance
+28 with the North Carolina Area Contingency Plan, as required under the federal
+29 Comprehensive Environmental Response, Compensation, and Liability Act
+30 (P. L. 96-510, as amended), section 311 of the federal Clean Water Act (33
+31 U.S.C. § 1321, as amended), and the federal Oil Pollution Act (P. L. 101-380)
+32 (3) If a large scale ESF#10 response, submit a federal resource request or
+33 appropriate request for assistance to the State Emergency Response Team for
+34 any of the following federal resources or assistance:
+35 a. National Response Team.
+36 b. Regional Response Team.
+37 c. United States Environmental Protection Agency Region IV, including
+38 the assistance of a federal on-scene coordinator.
+39 d. United States Coast Guard.
+40 e. Any other federal agency necessary.
+41 (4) Coordinate efforts to identify responsible party, and once identified,
+42 collaborate with the State Emergency Response Team to communicate with
+43 the responsible party for consultation, advice, and decisions regarding the
+44 State's position on actions necessary to response to the discharge or release.
+45 (5) Coordinate the deployment of State resources within the designated
+46 boundaries between coastal and inland zones for the purpose of providing
+47 federal on-scene coordinators response operations in accordance with 14
+48 U.S.C. § 501 (Coast Guard Areas, Districts, Sectors, Marine Inspection Zones,
+49 and Captain of the Port Zones), as amended.
+50 (6) Coordinate the unified command for an ESF#10 activation and response in
+51 conjunction with the Department of Environmental Quality, State Emergency
+Senate Bill 1050-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 Response Team, Division, and other State agencies, United States Coast
+2 Guard, and United States Environmental Protection Agency, subject to federal
+3 command and control as required by federal law.
+4 (7) Coordinate with the federal on-scene coordinator for the location of a
+5 command post.
+6 (8) Ensure the State Emergency Response Team notifies the National Response
+7 Center.
+8 (9) Activation of the Environmental Technical Advisory Group, as necessary.
+9 (10) Obtain and provide data and information regarding the population, industry,
+10 commercial, and natural resources within the State which may be endangered
+11 by the discharge or release.
+12 (11) Coordinate with other State agencies with responsibility and authority of
+13 coastal waterways.
+14 (d) Limitation on Remediation of Underwater Legacy Environmental Threat. – In the
+15 event of a release or discharge from an underwater legacy environmental threat, including vessels
+16 casualties from World War II in the Western Atlantic Ocean, the United States Coast Guard shall
+17 assume command and control of the disaster or incident response efforts if within the coastal
+18 waters of this State or could impact the State in any way.
+19 (e) Limitation on Regional Response Team. – The Division shall maintain a
+20 representative to the Regional Response Team and a representative to another state's emergency
+21 operations center if the incident involves at least two states.
+22 (d) Local Incident Commander Responsibilities. – Under this section and as applied to
+23 the specific responsibilities, powers, and duties of the Office and other State agencies enumerated
+24 in this Part, the responsibility for situation assessment and determination of resource needs is
+25 under the local Incident Commander for the emergency, supporting the Incident Command
+26 System and National Incident Management System structure.
+27 "§ 166A-19.48. Requests from units of local government for assistance.
+28 Incident Commander Responsibilities. – Consistent with Incident Command System and
+29 National Incident Management System structures, the local Incident Commander is responsible
+30 for situation assessment and determination of resource needs for an incident in their jurisdiction.
+31 Requests for firefighting assistance and resources will be handled in accordance with mutual aid
+32 agreements or from the local emergency management agency to the Emergency Coordinator
+33 Officer, if those requests are under the emergency support functions enumerated in
+34 G.S. 166A-19.47.
+35 "§ 166A-19.49. Reporting requirements.
+36 The Office shall report to the Joint Legislative Commission on Governmental Operations and
+37 the Governor on a monthly basis during the pendency of the state of emergency declared by the
+38 Governor or General Assembly under this Chapter. The report shall include all pertinent
+39 operations information, resources used in the response, and any other data requested by the
+40 Governor or Commission."
+41 SECTION 1.(b) G.S. 166A-19.3 reads as rewritten:
+42 "§ 166A-19.3. Definitions.
+43 The following definitions apply in this Article:
+44 …
+45 (18) State Emergency Response Team. – The representative group of State agency
+46 personnel designated to carry out the emergency management support
+47 functions identified in the North Carolina Emergency Operations Plan. The
+48 State Emergency Response Team leader shall be the Director of the Division,
+49 who shall have authority to manage the Team pursuant to G.S. 166A-19.12(1),
+50 as delegated by the Governor. The Team shall consist of the following State
+51 agencies:
+Page 6 Senate Bill 1050-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 a. Department of Public Safety.
+2 b. Department of Transportation.
+3 c. Department of Health and Human Services.
+4 d. Department of Environmental Quality.
+5 e. Department of Agriculture and Consumer Services.
+6 e1. Office of State Fire Marshal.
+7 f. Any other agency identified in the North Carolina Emergency
+8 Operations Plan.
+9 …."
+10 SECTION 1.(c) G.S. 166A-19.12 reads as rewritten:
+11 § 166A-19.12. Powers of the Division of Emergency Management.
+12 TheWith the exception of and subject to the provisions of G.S. 166A-19.46, the Division of
+13 Emergency Management shall have the following powers and duties as delegated by the
+14 Governor and Secretary of Public Safety:
+15 ..."
+16 SECTION 1.(d) G.S. 58-6-25 reads as rewritten:
+17 "§ 58-6-25. Insurance regulatory charge.
+18 …
+19 (d) Use of Proceeds. – The Insurance Regulatory Fund is created as an interest-bearing
+20 special fund to which the proceeds of the charge levied in this section and all fees collected under
+21 Articles 69 through 71 of this Chapter and under Articles 9 and 9C of Chapter 143 of the General
+22 Statutes shall be credited. Moneys in the Fund may be spent only pursuant to appropriation by
+23 the General Assembly, and the Fund is subject to the provisions of the State Budget Act. All
+24 money credited to the Fund shall be used to reimburse the General Fund for the following:
+25 …
+26 (12) Money appropriated to the Department of Insurance to pay its expenses
+27 incurred in connection with emergency services and emergency support
+28 functions pursuant to Part 6A of Article 1A of Chapter 166A of the General
+29 Statutes during any state of emergency declared under Chapter 166A of the
+30 General Statutes or major disaster declaration under the Robert T. Stafford
+31 Act ."
+32 SECTION 1.(e) G.S. 58-78A-1 reads as rewritten:
+33 "§ 58-78A-1. Office of the State Fire Marshal.
+34 …
+35 (b) The Office of the State Fire Marshal shall be responsible for all of the following:
+36 …
+37 (22) The exercise, command, and control of the emergency support functions and
+38 associated provisions of Part 6A of Article 1A of Chapter 166A of the General
+39 Statutes.
+40 (23) Associated duties of membership on the State Emergency Response Team in
+41 accordance with G.S. 166A-19.3.
+42 (24) Associated duties of assisting the Division of Emergency Management of the
+43 Department of Public Safety in updating and maintaining pertinent emergency
+44 support functions within the North Carolina Emergency Operations Plan."
+45 SECTION 1.(f) Transfer of Certain Authority. – Pursuant to Part 6A of Article 1A
+46 of Chapter 166A of the General Statutes, as enacted by this act, the Governor, Department of
+47 Public Safety, Division of Emergency Management (NCEM), and Office of State Fire Marshal
+48 shall revise the North Carolina Emergency Operations Plan to reflect the provisions of this Part.
+49 This update shall occur by October 1, 2026. All lead technical agencies and support agencies
+50 under emergency support functions #4, 9, and 10, shall remain in their current role. NCEM shall
+Senate Bill 1050-First Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 become a support agency under emergency support function #4 in which is was previously the
+2 lead state agency.
+3 SECTION 1.(g) Transfer of Personnel and Resources. – Pursuant to Part 6A of
+4 Article 1A of Chapter 166A of the General Statutes, as enacted by this act, NCEM and any other
+5 State agency which transfers lead state agency powers under that Part, shall transfer all
+6 employees, associated functions, powers, duties, records, equipment, offices, and unexpended,
+7 unencumbered, and otherwise available State or federal funds to the Office of State Fire Marshal,
+8 necessary for the Office of the State Fire Marshal to execute the emergency support functions of
+9 firefighting, search and rescue, and hazardous materials response in accordance with that Part.
+10 All memoranda of understanding, contracts, and agreement in which the lead state agency in an
+11 emergency support function affected by this Part shall be transferred to the Office of State Fire
+12 Marshal as soon as practicable.
+13
+14 PART II. REPURPOSING OF UNEXPENDED FUNDS FROM HURRICANE HELENE
+15 FIRE DEPARTMENT AND RESCUE SQUAD GRANTS
+16 SECTION 2.(a) Any funds remaining unspent or unencumbered under Section
+17 2A.3(a)(10) of S.L. 2025-26, consisting of approximately four million nine hundred thousand
+18 dollars ($4,900,000) shall be reallocated the Office of State Fire Marshal Disaster Response
+19 Fund, as enacted by this Part.
+20 SECTION 2.(b) Part 6A of Article 1A of Chapter 166A of the General Statutes, as
+21 enacted by Part I of this act, is amended by adding a new section to read:
+22 "§ 166A-19.50. Office of State Fire Marshal Disaster Response Fund.
+23 (a) Establishment. – There is established the Office of State Fire Marshal Disaster
+24 Response Fund within the Office a nonreverting special fund within the Office of State Fire
+25 Marshall of the Department of Insurance. The Office shall administer the Fund consistent with
+26 this section.
+27 (b) Purpose; Uses. – The funds shall be used by the Office for all of the following:
+28 (1) Provide immediate emergency grants to fire departments and rescue squads to
+29 restore or maintain operational needs and capabilities following a disaster.
+30 (2) For disaster readiness, preparedness, and response activities, including the
+31 purchase of equipment, supplies, and contracted services necessary to support
+32 emergency operations.
+33 (c) Administration. – The Office may use up to five percent (5%) of the Fund to
+34 administer the Fund each fiscal year.
+35 (d) Procurement Exception. – Notwithstanding Articles 3, 3C, or 8 of Chapter 143 of the
+36 General Statutes Article 15 of Chapter 143B of the General Statutes, or any other provision of
+37 law to the contrary, the Office may use the funds in the Fund if, in the determination of the State
+38 Fire Marshal, a large scale emergency or disaster warrants the use or procurement of resources
+39 or services listed in subsection (b) of this section. To the extent practicable, the Office shall seek
+40 competitive pricing and shall maintain documentation of the actions taken under this subsection.
+41 (e) Reporting Requirement. – On October 1 of each year, the Office shall submit a report
+42 on the uses, balance, and other significant information of the Fund to the Joint Legislative
+43 Emergency Management Oversight Committee, the Joint Legislative Oversight Committee on
+44 General Government, and the Fiscal Research Division."
+45
+46 PART III. RULEMAKING AND EFFECTIVE DATE
+47 SECTION 3.(a) The Office of State Fire Marshal may adopt rules to implement the
+48 provisions of this act.
+49 SECTION 3.(b) Section 1(f) and (g) of this act is effective when it becomes law.
+50 Section 2 of this act becomes effective July 1, 2026. The remainder of this act becomes effective
+51 October 1, 2026.
+Page 8 Senate Bill 1050-First Edition

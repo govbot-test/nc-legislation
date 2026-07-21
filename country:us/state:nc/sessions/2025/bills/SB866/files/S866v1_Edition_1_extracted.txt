@@ -1,0 +1,255 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 866
+Short Title: Add Home Schools to Opportunity Scholarships. (Public)
+Sponsors: Senator Burgin (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+April 29, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PERMIT OPPORTUNITY SCHOLARSHIPS TO BE AWARDED TO
+3 STUDENTS IN HOME SCHOOLS AND TO APPROPRIATE FUNDS FOR THAT
+4 PURPOSE.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1.(a) G.S. 115C-562.1 reads as rewritten:
+7 "§ 115C-562.1. Definitions.
+8 The following definitions apply in this Part:
+9 (1) Authority. – The State Education Assistance Authority.
+10 (2) Division. – The Division of Nonpublic Education, Department of
+11 Administration.
+12 (3) Repealed by Session Laws 2023-134, s. 8A.6(a), effective July 1, 2023.
+13 (3a) Eligible student. – A student residing in North Carolina who has not yet
+14 received a high school diploma and who meets all of the following
+15 requirements:
+16 a. Is eligible to attend a North Carolina public school pursuant to Article
+17 25 of this Chapter. A child who is the age of 4 on or before April 16 is
+18 eligible to attend the following school year if the principal, or
+19 equivalent, of the school in which the child seeks to enroll finds that
+20 the student meets the requirements established by the Authority
+21 pursuant to G.S. 115C-562.2(d) and those findings are submitted to the
+22 Authority.
+23 b. Has not been enrolled in a postsecondary institution as a full-time
+24 student taking at least 12 hours of academic credit.
+25 c. Has not been placed in a nonpublic school or facility by a public
+26 agency at public expense.
+27 (3c) Repealed by Session Laws 2023-134, s. 8A.6(a), effective July 1, 2023.
+28 (3d) Home school. – A nonpublic school that meets the requirements of Part 3 of
+29 Article 39 of this Chapter as identified by the Division.
+30 (4) Local school administrative unit. – A local school administrative unit, charter
+31 school, or regional school.
+32 (5) Nonpublic school. – A school that meets the requirements of Part 1 or Part 2
+33 Part 1, Part 2, or Part 3 of this Article as identified by the Division.
+34 (5c) Repealed by Session Laws 2023-134, s. 8A.6(a), effective July 1, 2023.
+35 (5d) Private school. – A school that meets the requirements of Part 1 or Part 2 of
+36 this Article as identified by the Division.
+*S866-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (5e) Reserve. – The Opportunity Scholarship Grant Fund Reserve established
+2 under G.S. 115C-562.8.
+3 (6) Scholarship grants. – Grants awarded annually by the Authority to eligible
+4 students."
+5 SECTION 1.(b) G.S. 115C-562.2 reads as rewritten:
+6 "§ 115C-562.2. Scholarship grants.
+7 (a) The Authority shall make available no later than February 1 annually applications to
+8 eligible students for the award of scholarship grants to attend any nonpublic school on a full- or
+9 part-time basis. Information about scholarship grants and the application process shall be made
+10 available on the Authority's website. Beginning March 15, the Authority shall begin awarding
+11 scholarship grants to students who have applied by March 1 in the following order:
+12 (1) Eligible students who received a scholarship grant for the school year prior to
+13 the school year for which the students are applying.
+14 (2) Eligible students qualifying for a scholarship grant in the amount provided
+15 under subdivision (1) of subsection (b2) of this section.residing in households
+16 with an income level not in excess of the amount required for the student to
+17 qualify for the federal free or reduced-price lunch program.
+18 (3) Eligible students qualifying for a scholarship grant in the amount provided
+19 under subdivision (2) of subsection (b2) of this section.residing in households
+20 with an income level between the amount required for the student to qualify
+21 for the federal free or reduced-price lunch program and not in excess of two
+22 hundred percent (200%) of that amount.
+23 (4) Eligible students qualifying for a scholarship grant in the amount provided
+24 under subdivision (3) of subsection (b2) of this section.residing in households
+25 with an income level of between two hundred percent (200%) of the amount
+26 required for the student to qualify for the federal free or reduced-price lunch
+27 program and not in excess of four hundred fifty percent (450%) of that
+28 amount.
+29 (5) All other students.
+30 …
+31 (b2) Scholarship grants shall be awarded to eligible students as follows:
+32 (1) For students enrolled in private schools:
+33 (1)a. For students residing in households with an income level not in excess
+34 of the amount required for the student to qualify for the federal free or
+35 reduced-price lunch program, per year per eligible student, an amount
+36 of up to one hundred percent (100%) of the average State per pupil
+37 allocation for average daily membership in the prior fiscal year.
+38 (2)b. For students residing in households with an income level between the
+39 amount required for the student to qualify for the federal free or
+40 reduced-price lunch program and not in excess of two hundred percent
+41 (200%) of that amount, per year per eligible student, an amount of up
+42 to ninety percent (90%) of the average State per pupil allocation for
+43 average daily membership in the prior fiscal year.
+44 (3)c. For students residing in households with an income level of between
+45 two hundred percent (200%) of the amount required for the student to
+46 qualify for the federal free or reduced-price lunch program and not in
+47 excess of four hundred fifty percent (450%) of that amount, per year
+48 per eligible student, an amount of up to sixty percent (60%) of the
+49 average State per pupil allocation for average daily membership in the
+50 prior fiscal year.
+Page 2 Senate Bill 866-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (4)d. For all students, per year per eligible student, an amount of up to
+2 forty-five percent (45%) of the average State per pupil allocation for
+3 average daily membership in the prior fiscal year, unless the student
+4 qualifies for a higher amount under this subsection.
+5 (2) For students enrolled in home schools, per year per eligible student, the sum
+6 of one thousand five hundred dollars ($1,500).
+7 (b3) Tuition Scholarship grant funds may be used for tuition and fees for a nonpublic
+8 school of a private school and required costs of a home school. Tuition and fees of a private
+9 school may include tuition and fees for books, transportation, equipment, or other items required
+10 by the nonpublic private school. Required costs of a home school include costs for books,
+11 equipment, and other required items but do not include tuition, fees, or transportation.
+12 (b4) No scholarship grant shall exceed, per year per eligible student, an amount equal to
+13 one hundred percent (100%) of the average State per pupil allocation for average daily
+14 membership in the prior fiscal year, and year. For students in private school, no scholarship grant
+15 shall exceed the required tuition and fees for the nonpublic school the eligible student will attend.
+16 …."
+17 SECTION 1.(c) G.S. 115C-562.4 reads as rewritten:
+18 "§ 115C-562.4. Identification of nonpublic schools and distribution of scholarship grant
+19 information.
+20 (a) The Division shall provide annually by December 31 to the Authority a list of all
+21 nonpublic schools operating in the State that meet both of the requirements of Part 1 or Part 2 of
+22 this Article and State and all nonpublic schools operating in the State that meet the requirements
+23 of G.S. 115C-562.5(a)(8). The Division shall notify the Authority of any schools included in the
+24 list that the Division has determined to be ineligible within five business days of the
+25 determination of ineligibility. The Division shall create, in collaboration with the Authority, a
+26 unique identifier for each nonpublic school and provide the unique identifiers to the Authority
+27 for all nonpublic schools that are registered with the Division.
+28 …."
+29 SECTION 1.(d) G.S. 115C-562.5 reads as rewritten:
+30 "§ 115C-562.5. Obligations of nonpublic schools accepting eligible students receiving
+31 scholarship grants.
+32 (a) A nonpublic private school that accepts eligible students receiving scholarship grants
+33 shall comply with the following:
+34 …
+35 (4) Administer, at least once in each school year, tests as provided in this
+36 subdivision. Test performance data shall be submitted to the Authority by July
+37 15 of each year. Test performance data reported to the Authority under this
+38 subdivision is not a public record under Chapter 132 of the General Statutes.
+39 Tests shall be administered to all eligible students enrolled in grades three and
+40 higher whose tuition and fees are paid in whole or in part with a scholarship
+41 grant as follows:
+42 a. The nationally standardized test designated by the Authority in grades
+43 three and eight.
+44 b. The ACT in grade 11.
+45 c. A nationally standardized test or other nationally standardized
+46 equivalent measurement selected by the chief administrative officer of
+47 the nonpublic school private school in all other grades four and higher.
+48 For grades four through seven, the nationally standardized test or other
+49 equivalent measurement selected must measure achievement in the
+50 areas of English grammar, reading, spelling, and mathematics. For
+51 grades nine, 10, and 12, the nationally standardized test or other
+Senate Bill 866-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 equivalent measurement selected must measure either (i) achievement
+2 in the areas of English grammar, reading, spelling, and mathematics
+3 or (ii) competencies in the verbal and quantitative areas.
+4 …
+5 (b) A nonpublic private school that accepts students receiving scholarship grants shall
+6 not require any additional fees based on the status of the student as a scholarship grant recipient.
+7 (c) A nonpublic private school enrolling more than 25 students in any grade whose tuition
+8 and fees are paid in whole or in part with a scholarship grant shall provide and retain information
+9 on student test performance in each grade with more than 25 students, as follows:
+10 (1) Report to the Authority on the aggregate standardized test performance of
+11 eligible students in grades three, eight, and 11. Aggregate test performance
+12 data reported to the Authority which does not contain personally identifiable
+13 student data shall be a public record under Chapter 132 of the General Statutes.
+14 Test performance data may be shared with public or private institutions of
+15 higher education located in North Carolina and shall be provided to an
+16 independent research organization selected by the Authority for research
+17 purposes as permitted by the Federal Education Rights and Privacy Act, 20
+18 U.S.C. § 1232g.
+19 (2) Retain standardized test performance data for eligible students in all other
+20 grades and annually certify to the Authority compliance with the requirements
+21 of subdivision (4) of subsection (a) of this section.
+22 (c1) A nonpublic private school shall not discriminate with respect to the categories listed
+23 in 42 U.S.C. § 2000d, as that statute read on January 1, 2014.
+24 (c2) A home school that accepts students receiving scholarship grants shall comply with
+25 the requirements of Part 3 of this Article.
+26 (d) If the Authority determines that a nonpublic school is not in compliance with the
+27 requirements of this section, the nonpublic school shall be ineligible to receive future scholarship
+28 funds. The nonpublic A private school shall notify the parent or guardian of any enrolled student
+29 receiving a scholarship grant that the nonpublic private school is no longer eligible to receive
+30 future scholarship grants. The Authority shall establish by rule a process for a nonpublic school
+31 to appeal for reconsideration of eligibility after one year. To ensure compliance, the Board of
+32 Directors of the Authority shall review the criminal history provided under subdivision (2) of
+33 subsection (a) of this section to ensure that the person has not been convicted of any crime listed
+34 in G.S. 115C-332. The Board shall determine through this review whether the nonpublic private
+35 school is noncompliant with this section. The Board shall make written findings with regard to
+36 how the criminal history information was used when making the compliance determination. The
+37 Board of Directors may delegate any of the duties in this subsection to the Executive Director of
+38 the Authority. As part of its review, the Board shall determine whether the results indicate that
+39 the staff member has any of the following disqualifying characteristics:
+40 (1) Poses a threat to the physical safety of students or personnel.
+41 (2) Demonstrates that he or she does not have the integrity or honesty to fulfill his
+42 or her duties in overseeing State funds and the requirements of the scholarship
+43 grant program.
+44 (3) Has not fully satisfied the criminal sentencing obligations imposed following
+45 his or her conviction by a court of competent jurisdiction.
+46 (e) If a nonpublic school terminates operation during the school's regular schedule and
+47 fails to (i) report the date of the closure to the Division within 14 days and (ii) return funds owed
+48 to the Authority in a timely manner for students who received scholarship grants, any other
+49 nonpublic school opened during that school year or subsequent school years by an owner or chief
+50 administrator owner, chief administrator, or parent listed in the report submitted to the Division
+51 under subdivision (8) of subsection (a) of this section for that closed school shall be ineligible to
+Page 4 Senate Bill 866-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 receive scholarship grants until such time the Authority determines the obligation to return those
+2 funds has been satisfied."
+3 SECTION 1.(e) G.S. 115C-562.6 reads as rewritten:
+4 "§ 115C-562.6. Scholarship endorsement.
+5 The Authority shall remit, at least two times each school year, scholarship grant funds
+6 awarded to eligible students to the nonpublic school school. Scholarship grant funds awarded to
+7 eligible students to a private school shall be remitted for endorsement by at least one of the
+8 student's parents or guardians. The parent or guardian shall restrictively endorse the scholarship
+9 grant funds awarded to the eligible student for deposit into the account of the nonpublic private
+10 school to the credit of the eligible student. The parent or guardian shall not designate any entity
+11 or individual associated with the nonpublic private school as the parent's attorney-in-fact to
+12 endorse the scholarship grant funds. A parent's or guardian's failure to comply with this section
+13 shall result in forfeit of the scholarship grant. A scholarship grant forfeited for failure to comply
+14 with this section shall be returned to the Authority to be awarded to another student."
+15 SECTION 2.(a) There is appropriated from the General Fund to the Opportunity
+16 Scholarship Grant Fund Reserve the sum of two hundred fifty million dollars ($250,000,000) in
+17 additional recurring funds for the 2026-2027 fiscal year.
+18 SECTION 2.(b) G.S. 115C-562.8(b) reads as rewritten:
+19 "(b) The General Assembly finds that, due to the critical need in this State to provide
+20 opportunity for school choice for North Carolina students, it is imperative that the State provide
+21 an increase of funds for 15 years to the Opportunity Scholarship Grant Fund Reserve. Therefore,
+22 there is appropriated from the General Fund to the Reserve the following amounts for each fiscal
+23 year to be used for the purposes set forth in this section:
+24 Fiscal Year Appropriation
+25 …
+26 2027-2028 $700,000,000$950,000,000
+27 2028-2029 $725,000,000$975,000,000
+28 2029-2030 $750,000,000$1,000,000,000
+29 2030-2031 $775,000,000$1,025,000,000
+30 2031-2032 $800,000,000$1,050,000,000
+31 For the 2032-2033 fiscal year and each fiscal year thereafter, there is appropriated from the
+32 General Fund to the Reserve the sum of eight hundred twenty-five million dollars ($825,000,000)
+33 one billion seventy-five million dollars ($1,075,000,000) to be used for the purposes set forth in
+34 this section. When developing the base budget, as defined by G.S. 143C-1-1, for each fiscal year
+35 specified in this subsection, the Director of the Budget shall include the appropriated amount
+36 specified in this subsection for that fiscal year."
+37 SECTION 3. This act becomes effective July 1, 2026, and applies to applications
+38 for scholarship grants beginning with the 2027-2028 school year.
+Senate Bill 866-First Edition Page 5

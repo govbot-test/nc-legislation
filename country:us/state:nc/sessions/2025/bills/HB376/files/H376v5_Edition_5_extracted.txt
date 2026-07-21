@@ -1,0 +1,589 @@
+Title: 
+Official Title: 
+Source: versions - Edition 5
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 5
+HOUSE BILL 376
+Committee Substitute Favorable 4/2/25
+Committee Substitute #2 Favorable 4/16/25
+Fourth Edition Engrossed 4/30/25
+Senate Agriculture, Energy, and Environment Committee Substitute Adopted 6/10/26
+Short Title: Water/Wastewater Affordability & Capacity Act. (Public)
+Sponsors:
+Referred to:
+March 13, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ADDRESS WATER AND WASTEWATER AFFORDABILITY AND
+3 CAPACITY AND TO MAKE VARIOUS CHANGES TO THE STATUTES GOVERNING
+4 ON-SITE WASTEWATER SYSTEMS AND PRIVATE WELLS.
+5 The General Assembly of North Carolina enacts:
+6
+7 AMEND PROCEDURES REGARDING THE SALE OF A PUBLIC WATER SYSTEM
+8 SECTION 1. G.S. 62-133.1B(e) reads as rewritten:
+9 "(e) The Commission shall, after notice and an opportunity for interested parties to be
+10 heard, issue an order ruling on the water or sewer utility's request to adjust base rates under
+11 G.S. 62-133, denying or approving, with or without modifications, a water or sewer utility's
+12 proposed Water and Sewer Investment Plan. The Commission may suspend the effect of the
+13 proposed base rates and the Water and Sewer Investment Plan implementation pending
+14 investigation in the same manner as provided in G.S. 62-134(b), provided that the Commission
+15 may suspend the implementation of the proposed base rates for no longer than 300 days. An
+16 approved plan shall be effective no later than the end of the maximum suspension period pursuant
+17 to G.S. 62-134(b).period."
+18 SECTION 2. Article 1 of Chapter 162A of the General Statutes is amended by
+19 adding a new section to read:
+20 "§ 162A-19.1. Sale of a public water or sewer system.
+21 (a) For purposes of this section, "local government service provider" means any of the
+22 following:
+23 (1) A county.
+24 (2) A city.
+25 (3) A water and sewer authority created under Article 1 of Chapter 162A of the
+26 General Statutes.
+27 (4) A metropolitan sewerage district created under Article 5 of Chapter 162A of
+28 the General Statutes.
+29 (5) A sanitary district created under Part 2 of Article 2 of Chapter 130A of the
+30 General Statutes.
+31 (6) A county water and sewer district created under Article 6 of Chapter 162A of
+32 the General Statutes.
+*H376-v-5*
+
+General Assembly Of North Carolina Session 2025
+1 (7) A metropolitan water district created under Article 4 of Chapter 162A of the
+2 General Statutes.
+3 (8) A metropolitan water and sewerage district created under Article 5A of
+4 Chapter 162A of the General Statutes.
+5 (b) No local government service provider may sell to a private company a water or sewer
+6 system that provides service to the public until the governing body of the local government
+7 service provider has held a public hearing on the sale and made a determination that the sale is
+8 in the public interest. In determining if the sale is in the public interest, the local government
+9 service provider shall consider, at a minimum, all of the following:
+10 (1) The physical condition of the water or sewer system being sold.
+11 (2) The capital replacements, additions, expansions, and repairs needed to provide
+12 reliable service and meet all applicable federal standards.
+13 (3) The availability of federal and State grants and loans for system upgrades and
+14 repairs.
+15 (4) The willingness and the ability of the purchaser to make system upgrades and
+16 repairs and provide high-quality and cost-effective service.
+17 (5) The reasonableness of the contract sale price and terms.
+18 (6) The most recent income and expense statement and asset and liabilities
+19 balance sheet of the purchaser.
+20 (7) The purchaser's existing rate base and projected rates over the next three years.
+21 (8) The affordability of the projected rates for the next three years for customers
+22 serviced by the system, based on the income levels of the customer base.
+23 (9) The alternatives to the sale and the potential impact on utility customers if the
+24 sale is not made.
+25 (c) The local government service provider shall prepare a statement showing that the sale
+26 is in the public interest, including a summary of the purchaser's experience in water or sewer
+27 utility operation and a showing of financial ability to provide the service.
+28 (d) All moneys paid by a private company to a local government service provider for the
+29 purchase of a water system or sewer system shall be used for the purpose of debt reduction for
+30 the system, if applicable, and repayment of federal grant awards associated with the system as
+31 may be required by federal law or regulation. Any unspent funds remaining after debts and
+32 federal grant awards have been repaid shall be deposited in the general fund of the local
+33 government service provider."
+34 SECTION 3. Article 1 of Chapter 162A of the General Statutes is amended by
+35 adding a new section to read:
+36 "§ 162A-19.2. Limitation on water and sewer rates charged to customers outside the
+37 jurisdictional boundaries of the provider.
+38 (a) For purposes of this section, "local government service provider" means any of the
+39 following:
+40 (1) A county.
+41 (2) A city.
+42 (3) A water and sewer authority created under Article 1 of Chapter 162A of the
+43 General Statutes.
+44 (4) A metropolitan sewerage district created under Article 5 of Chapter 162A of
+45 the General Statutes.
+46 (5) A sanitary district created under Part 2 of Article 2 of Chapter 130A of the
+47 General Statutes.
+48 (6) A county water and sewer district created under Article 6 of Chapter 162A of
+49 the General Statutes.
+50 (7) A metropolitan water district created under Article 4 of Chapter 162A of the
+51 General Statutes.
+Page 2 House Bill 376-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (8) A metropolitan water and sewerage district created under Article 5A of
+2 Chapter 162A of the General Statutes.
+3 (b) Any local government service provider establishing an increase in the rates, fees, or
+4 charges for water or sewer system customers outside of the local government service provider's
+5 jurisdictional boundaries may impose rates, fees, and charges that exceed the charges to
+6 customers inside its boundaries. Notwithstanding G.S. 130A-64.1, 153A-277(a1)(1),
+7 160A-314(a1)(1), and 162A-9(a), if the total of all rates, fees, and charges, excluding tap fees
+8 and impact fees, does not exceed the rates, fees, and charges to customers inside its boundaries
+9 by more than twenty-five percent (25%), the local government service provider shall not be
+10 required to hold a public hearing except as may be provided for service to customers inside the
+11 boundaries of the local government service provider. If the total of all rates, fees, and charges,
+12 excluding tap fees and impact fees, exceeds the rates, fees, and charges to customers inside its
+13 boundaries by more than twenty-five percent (25%), the local government service provider shall
+14 hold a public hearing and explain how the rates, fees, and charges for customers outside its
+15 boundaries were determined. This section shall not be construed to prohibit a local government
+16 service provider from charging a tap fee or impact fee separate from the provisions of this
+17 subsection."
+18 SECTION 4. Section 1 is effective when it becomes law and applies to rate schedules
+19 filed on or after that date. Section 2 is effective when it becomes law and applies to contracts for
+20 sales of water systems executed on or after that date. Section 3 is effective when it becomes law
+21 and applies to rates established on or after that date.
+22
+23 COMMERCIAL WASTEWATER DESIGN FLOW RATE STUDY
+24 SECTION 5.(a) The Environmental Management Commission shall study whether
+25 the wastewater design flow rates established pursuant to 15A NCAC 02T .0114(c) and (d)
+26 (Wastewater Design Flow Rates) as those rates apply to commercial and industrial water users
+27 accurately measure the actual flow rates used by those water users. In conducting the study, the
+28 Commission shall consider all of the following:
+29 (1) Reduced water consumption associated with new plumbing fixtures, fittings,
+30 and appliances, including any reductions attributable to standards adopted
+31 under the North Carolina Building Code or federal efficiency standards since
+32 the flow rates in the rule were last established.
+33 (2) Actual metered water use and measured wastewater flows from commercial
+34 and industrial water users in the State.
+35 (3) Wastewater design flow rates used by other states for comparable commercial
+36 and industrial water users.
+37 SECTION 5.(b) The Environmental Management Commission shall report its
+38 findings to the Environmental Review Commission no later than January 1, 2027.
+39
+40 MODIFY THE AUTHORITY OF CERTAIN LOCAL GOVERNMENTS TO REQUIRE
+41 STORMWATER CONTROL FOR REDEVELOPED PROPERTY
+42 SECTION 5.5.(a) G.S. 143-214.7 reads as rewritten:
+43 "§ 143-214.7. Stormwater runoff rules and programs.
+44 …
+45 (a1) Definitions. – The following definitions apply in this section:
+46 (1) Built-upon area. – As defined in G.S. 143-214.7D.
+47 (2) Development. – Any land-disturbing activity that increases the amount of
+48 built-upon area or that otherwise decreases the infiltration of precipitation into
+49 the subsoil. When additional development occurs at a site that has existing
+50 development, the built-upon area of the existing development shall not be
+51 included in the density calculations for additional stormwater control
+House Bill 376-Fifth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 requirements, and stormwater control requirements cannot be applied
+2 retroactively to existing development, unless otherwise required by federal
+3 law.
+4 (2)(3) Redevelopment. – Any land-disturbing activity that does not result in a net
+5 increase in built-upon area and that provides greater or equal stormwater
+6 control to that of the previous development.
+7 …
+8 (b3) Stormwater runoff rules and programs shall not require private property owners to
+9 install new or increased stormwater controls for (i) preexisting development existing built-upon
+10 area or (ii) redevelopment activities that do not remove or decrease existing stormwater controls.
+11 When a preexisting development is redeveloped, either in whole or in part, increased stormwater
+12 controls shall only be required for the amount of impervious surface being created that exceeds
+13 the amount of impervious surface that existed before the redevelopment, irrespective of whether
+14 the impervious surface that existed before the redevelopment is to be demolished or relocated
+15 during the development activity. When development or redevelopment occurs at a site that has
+16 existing built-upon area: (i) the existing built-upon area shall not be included in the density
+17 calculations for additional stormwater control requirements, irrespective of whether the existing
+18 built-upon area is to be demolished, relocated, replaced, or remains in place during development
+19 activity; (ii) the existing built-upon area at the site is not subject to additional stormwater control
+20 requirements under this section, regardless of whether the existing built-upon area is demolished,
+21 relocated, replaced, or remains in place during the development activity; (iii) for purposes of
+22 determining the size of the area for which stormwater control measures are required for a
+23 development or redevelopment, built-upon area that existed before the development or
+24 redevelopment shall be applied on a square-foot-for-square-foot basis to reduce the built-upon
+25 area for which stormwater control measures are required; and (iv) stormwater control
+26 requirements cannot be applied retroactively to existing built-upon area, unless otherwise
+27 required by federal law. A property owner may elect to treat the stormwater resulting from the
+28 net increase in built-upon area above the preexisting existing built-upon area at the development
+29 or redevelopment for the purpose of exceeding allowable density under the applicable water
+30 supply watershed rules as provided in G.S. 143-214.5(d3). This subsection applies to all local
+31 governments regardless of the source of their regulatory authority. Local governments shall
+32 include the requirements of this subsection in their stormwater ordinances.
+33 …
+34 (b8) A local government may offer nonmandatory incentives that waive building, zoning,
+35 connection, or other regulations or fees, provide additional tax and financial benefits, or institute
+36 other incentives for development or redevelopment that implement additional stormwater control
+37 measures beyond those required by this section and rules adopted thereunder.
+38 …."
+39 SECTION 5.5.(b) Each local government that implements a stormwater
+40 management program shall amend its stormwater ordinance to conform to G.S. 143-214.7(b3),
+41 as amended by subsection (a) of this section, within 12 months of the effective date of this section.
+42 Any local stormwater ordinance that is inconsistent with G.S. 143-214.7(b3), as amended by
+43 subsection (a) of this section, is void and unenforceable on and after that date. A local government
+44 may adopt, amend, or repeal ordinance provisions implementing G.S. 143-214.7(b8) at any time
+45 after the effective date of this section.
+46 SECTION 5.5.(c) This section is effective when it becomes law and applies to
+47 stormwater rules and stormwater program amendments adopted on or after that date.
+48
+49 ON-SITE WASTEWATER BOARD CHANGES
+50 SECTION 6.(a) G.S. 90A-72(a) reads as rewritten:
+Page 4 House Bill 376-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 "(a) Certification Required. – No person shall construct, install, or repair or offer to
+2 construct, install, or repair an on-site wastewater system permitted under Article 11 of Chapter
+3 130A of the General Statutes without being certified as a contractor at the required level of
+4 certification for the specified system. No person shall conduct an inspection or offer to conduct
+5 an inspection of an on-site wastewater system as permitted under Article 11 of Chapter 130A of
+6 the General Statutes without being certified in accordance with the provisions of this Article. No
+7 person shall conduct an evaluation or offer to conduct the services authorized in
+8 G.S. 130A-336.2(a) without being certified as an Authorized On-Site Wastewater Evaluator. No
+9 person shall conduct or offer to conduct a private compliance inspection of an on-site wastewater
+10 system for compliance with the designs of a Construction Authorization issued pursuant to
+11 G.S. 130A-335(a5) or a Notice of Intent to Construct issued pursuant to G.S. 130A-336.1 or
+12 G.S. 130A-336.2 unless certified as a Private Compliance Inspector or pursuant to
+13 G.S. 130A-337(a1). The Private Compliance Inspector shall obtain written consent from the
+14 professional engineer pursuant to G.S. 130A-336.1 or the Authorized On-Site Wastewater
+15 Evaluator pursuant to G.S. 130A-336.2 prior to conducting the compliance inspection. No person
+16 conducting any project requiring certification pursuant to this Article shall do so without holding
+17 sufficient general liability coverage for the project, as well as any additional liability coverage
+18 that may be required for systems completed pursuant to G.S. 130A-336.1 or G.S. 130A-336.2."
+19 SECTION 6.(b) G.S. 90A-77, as amended by S.L. 2024-49, reads as rewritten:
+20 "§ 90A-77. Certification requirements.
+21 (a) Certification. – The Board shall issue a certificate to an applicant who satisfies all of
+22 the following conditions:
+23 (1) Is at least 18 years of age.
+24 (2) Submits a properly completed application with all required supporting
+25 documents for the certification being applied for to the Board.
+26 (3) For grade level II contractor certification, applicant shall satisfy the following
+27 conditions:
+28 a. Complete the basic on-site wastewater education approved by the
+29 Board for any level.
+30 b. Complete any additional class hours required for grade level II.
+31 (3a) For grade level IV contractor certification, applicant shall satisfy the following
+32 conditions:
+33 a. Hold current and satisfactory certification of grade level II for a
+34 minimum of two years prior to application for grade level IV.
+35 b. Complete any additional class hours required for grade level IV.
+36 (3b) For inspector certification, applicant shall satisfy the following conditions:
+37 a. Complete the point-of-sale inspector education approved by the
+38 Board.
+39 b. Complete any additional class hours required for point-of-sale
+40 inspector certification.
+41 c. Hold current and satisfactory certification of grade level IV contractor,
+42 or Authorized On-Site Wastewater Evaluator or subsurface operator
+43 certification for a minimum of two years.
+44 d. In lieu of the experience requirements in this subdivision, an applicant
+45 may instead complete the approved education requirements for the
+46 grade IV contractor certification as required by the Board. This
+47 sub-subdivision shall not apply to a person certified as a grade II
+48 contractor.
+49 …."
+50 SECTION 6.(c) G.S. 90A-78 reads as rewritten:
+51 "§ 90A-78. Certification renewal.
+House Bill 376-Fifth Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (a) Renewal. – All certifications shall expire on December 31 of each year unless they
+2 are renewed. To renew a certification, a contractor, inspector, Authorized On-Site Wastewater
+3 Evaluator, or Private Compliance Inspector must meet all of the following conditions:
+4 (1) Submit an application for renewal on the form prescribed by the Board, which
+5 includes all supporting documents requested on the renewal form.
+6 (2) Meet the following continuing education requirements:
+7 a. Grade level II contractor: 3 hours per year.
+8 b. Grade level IV contractor: 6 hours per year.
+9 c. Point-of-sale inspector: 6 hours per year.
+10 d. Authorized on-site wastewater evaluator: 12 hours per year.
+11 e. Private compliance inspector: 12 hours per year.
+12 f. For persons holding more than one certification issued by the Board,
+13 the higher annual hours continuing education requirement of all
+14 certificates held.
+15 (3) Pay the certification renewal fee.
+16 (4) Submit the renewal completed renewal package by November 15 annually.
+17 …."
+18 SECTION 6.(d) This section becomes effective January 1, 2027, and applies to
+19 applications for certification or certificate renewal on or after that date.
+20
+21 ON-SITE WASTEWATER SYSTEM CHANGES
+22 SECTION 7.(a) G.S. 130A-335 reads as rewritten:
+23 "§ 130A-335. Wastewater collection, treatment and disposal; rules.
+24 …
+25 (c) A wastewater system subject to approval under rules of the Commission shall be
+26 reviewed and approved under rules of a local board of health in the following circumstances:
+27 (1) The local board of health, on its own motion, has requested the Department to
+28 review its proposed rules concerning wastewater systems; and
+29 (2) The local board of health has adopted by reference the wastewater system
+30 rules adopted by the Commission, with any more stringent modifications or
+31 additions deemed necessary by the local board of health to protect the public
+32 health. Local boards of health shall use historical experience to establish
+33 modifications or additions to rules established by the Commission; andhealth;
+34 and
+35 (3) The Department has has, consistent with subsection (c3) of this section, found
+36 that the rules, including modifications or additions to the Commission's rules,
+37 of the local board of health concerning wastewater collection, treatment and
+38 disposal systems are at least as stringent as rules adopted by the Commission
+39 and are sufficient and necessary to safeguard the public health.
+40 …
+41 (c3) The Department shall determine the validity of proposals from local boards of health
+42 seeking modifications or additions to rules established by the Commission based on whether the
+43 rules are at least as stringent as rules adopted by the Commission and necessary to protect the
+44 public health. The Department shall hold public hearings and notice those hearings on the
+45 Department's webpage upon application for modification or addition of Commission rules by the
+46 local health department. The Department shall make its findings available to the public before
+47 approving or denying a proposed modification or addition.
+48 …."
+49 SECTION 7.(b) G.S. 130A-336 reads as rewritten:
+50 "§ 130A-336. Improvement permit and construction authorization required.
+51 …
+Page 6 House Bill 376-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (b) The local health department shall issue a construction authorization Construction
+2 Authorization authorizing work to proceed and the installation or repair of a wastewater system
+3 when it has determined after a field investigation that the system can be installed and operated in
+4 compliance with this Article and rules adopted pursuant to this Article. This construction
+5 authorization Construction Authorization shall be valid for a period equal to the period of validity
+6 of the improvement permit and may be issued at the same time the improvement permit is issued.
+7 Improvement Permit. No person shall commence or assist in the installation, construction, or
+8 repair of a wastewater system unless an improvement permit Improvement Permit and a
+9 construction authorization Construction Authorization have been obtained from the Department
+10 or the local health department unless that person is acting in accordance with the conditions and
+11 criteria of an engineered option permit pursuant to G.S. 130A-336.1 or the Authorized On-Site
+12 Wastewater Evaluator permit option pursuant to G.S. 130A-336.2. No improvement permit
+13 Improvement Permit or construction authorization Construction Authorization shall be required
+14 for maintenance of a wastewater system. The Department and the local health department may
+15 impose conditions on the issuance of an improvement permit Improvement Permit and a
+16 construction authorization.Construction Authorization.
+17 …."
+18 SECTION 7.(c) G.S. 130A-337 reads as rewritten:
+19 "§ 130A-337. Inspection; operation permit required.
+20 (a) No system of wastewater collection, treatment and disposal shall be covered or placed
+21 into use by any person until an inspection by the local health department has determined that the
+22 system has been installed or repaired in accordance with any conditions of the Improvement
+23 Permit, the Construction Authorization, the rules, and this Article.
+24 (a1) Notwithstanding subsection (a) of this section, an applicant may contract with an
+25 Authorized On-Site Wastewater Evaluator certified pursuant to Article 5 of Chapter 90A of the
+26 General Statutes or an engineer licensed pursuant to Chapter 89C of the General Statutes to
+27 conduct any required verifications or inspections. The evaluator or engineer shall provide the
+28 applicant with written verification that all conditions of the Improvement Permit and
+29 Construction Authorization have been met, including an as-built drawing meeting the standards
+30 and scale of the local health department issuing the Construction Authorization as certified by
+31 the evaluator. evaluator or engineer. The applicant may cover the system and place it into
+32 operation upon receipt of the evaluator's written verification and shall submit the verification to
+33 the local health department within two business days of receipt of the verification. The
+34 Department, the Department's authorized agents, and the local health department shall be
+35 discharged and released from any liabilities, duties, and responsibilities imposed by statute or
+36 common law from any claim arising out of or attributed to the on-site wastewater system
+37 installation.
+38 …
+39 (b) Upon determining that the system is properly installed or repaired and that the system
+40 is capable of being operated in installation or repair of a wastewater system in accordance with
+41 the conditions of the Improvement Permit, the rules, this Article and any conditions to be imposed
+42 in the operation permit, Permit and the Construction Authorization, including any site
+43 modification conditions noted in the Improvement Permit or Construction Authorization, as
+44 applicable, applicable, or upon receipt of written verification submitted pursuant to subsection
+45 (a1) or (a2) of this section, the local health department shall issue an operation permit authorizing
+46 the residence, place of business or place of public assembly to be occupied and for the system to
+47 be placed into use or reuse. A local health department shall not withhold issuance of an Operation
+48 Permit if all conditions specified in the Improvement Permit and Construction Authorization
+49 have been met, and the installation complies with all applicable laws and rules. Conditions added
+50 to the Operation Permit shall be consistent with the applicable rules and are enforceable as
+51 requirements of the permit.
+House Bill 376-Fifth Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 7.(d) This section is effective when it becomes law and applies to permits
+3 applied for on or after that date.
+4
+5 PRIVATE DRINKING WATER WELL PROGRAM CHANGES
+6 SECTION 8.(a) G.S. 87-96 reads as rewritten:
+7 "§ 87-96. Conflict with other laws.
+8 (a) The provisions of any law, rule, or local ordinance which establish standards
+9 affording greater protection to for testing of groundwater resources or public health, safety, or
+10 welfare shall prevail, within the jurisdiction to which they apply, over the provisions of this
+11 Article and rules adopted pursuant to this Article.
+12 (b) Rules relating to public health, wells, or groundwater adopted by the Commission for
+13 Public Health shall prevail over this Article, Article and rules adopted pursuant to this Article,
+14 and rules adopted by a local board of health pursuant to subsection (c) of this section. Article.
+15 This Article shall not be construed to repeal any law or rule in effect as of July 1, 1989.
+16 (c) A local board of health may adopt by reference rules adopted by the Environmental
+17 Management Commission pursuant to this Article, and may adopt more stringent rules for testing
+18 of water resources when necessary to protect the public health."
+19 SECTION 8.(b) G.S. 87-97 reads as rewritten:
+20 "§ 87-97. Permitting and testing of private drinking water wells.
+21 (a) Mandatory Local Well Programs. Authority. – Each county, through the local health
+22 department that serves the county, shall implement a the private drinking water well permitting,
+23 inspection, and testing program. and inspection program established and adopted by the
+24 Environmental Management Commission. The local health department shall be the exclusive
+25 authority for the permitting of wells and well systems as described in G.S. 143-138(b17)(2).
+26 Local health departments shall administer the program and enforce the minimum well
+27 construction, permitting, inspection, repair, and testing requirements set out in this Article and
+28 rules adopted pursuant to this Article. No person shall unduly delay or refuse to permit a well
+29 that can be constructed or repaired and operated in compliance with the requirements set out in
+30 this Article and rules adopted pursuant to this Article.
+31 …."
+32 SECTION 8.(c) G.S. 130A-39 reads as rewritten:
+33 "§ 130A-39. Powers and duties of a local board of health.
+34 …
+35 (b) A local board of health may adopt a more stringent rule in an area regulated by the
+36 Commission for Public Health or the Environmental Management Commission where, in the
+37 opinion of the local board of health, a more stringent rule is required to protect the public health;
+38 otherwise, the rules of the Commission for Public Health or the rules of the Environmental
+39 Management Commission shall prevail over local board of health rules. However, a local board
+40 of health may not adopt a rule concerning the grading, operating, and permitting of food and
+41 lodging facilities as listed in Part 6 of Article 8 of this Chapter and as defined in
+42 G.S. 130A-247(1), or a rule concerning the permitting of private drinking water wells, as defined
+43 in G.S. 87-85, except for testing standards as set out in G.S. 87-96, and a local board of health
+44 may adopt rules concerning wastewater collection, treatment and disposal systems which are not
+45 designed to discharge effluent to the land surface or surface waters only in accordance with
+46 G.S. 130A-335(c).
+47 …."
+48 SECTION 8.(d) All local boards of health rules concerning the permitting of private
+49 drinking water wells, as defined in G.S. 87-85, except for testing standards as set out in
+50 G.S. 87-96 and fees adopted pursuant to G.S. 130A-39, in effect when this section becomes law
+51 are repealed.
+Page 8 House Bill 376-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1
+2 APPROVE CERTAIN ADVANCED PRETREATMENT SYSTEMS AS INNOVATIVE
+3 WASTEWATER SYSTEMS
+4 SECTION 9.(a) G.S. 130A-334 reads as rewritten:
+5 "§ 130A-334. Definitions.
+6 The following definitions shall apply throughout this Article:
+7 (1) "Accepted wastewater system" has the same meaning as in G.S. 130A-343.
+8 (1a) "Advanced pretreatment" means any biological, chemical, or physical process
+9 or system used in addition to or in place of a septic tank. Advanced
+10 pretreatment includes, but is not limited to, aeration, clarification, digestion,
+11 disinfection, filtration, separation, and settling. Advanced pretreatment
+12 effluent shall meet the treatment standards adopted by the Commission for
+13 better than septic tank effluent quality. Advanced pretreatment shall be part of
+14 a ground absorption system.
+15 (1b) "Approved agency for special inspection" means an individual, corporation,
+16 company, association, or partnership that is objective, competent, and
+17 independent from the contractor who is responsible for the work that is
+18 inspected. The agency shall disclose possible conflicts of interest in a manner
+19 such that objectivity can be confirmed.
+20 (1b)(1c) "Approved special inspector" means a person who demonstrates
+21 competence to the satisfaction of the professional engineer who designed the
+22 wastewater system for the inspection of the construction or operation subject
+23 to special inspection.
+24 (1c)(1d) "Construction" means any work at the site of placement done for the
+25 purpose of preparing a residence, place of business or place of public assembly
+26 for initial occupancy, or subsequent additions or modifications which increase
+27 sewage flow.
+28 (1d)(1e) "Construction observation" means the visual observation of the
+29 construction and installation of the wastewater system for general
+30 conformance with the construction documents prepared by the professional
+31 engineer who designed the wastewater system. Construction observation that
+32 is conducted by the professional engineer who designed the wastewater
+33 system does not include or waive the requirement to conduct special
+34 inspections.
+35 (1e)(1f) "Conventional wastewater system" has the same meaning as in
+36 G.S. 130A-343.
+37 (1f)(1g) "Department" means the Department of Health and Human Services.
+38 (1g)(1h) "Engineered option permit" means an on-site wastewater system that is
+39 permitted pursuant to the rules adopted by the Commission in accordance with
+40 this Article, meets the criteria established by G.S. 130A-336.1, and is
+41 designed by a professional engineer who is licensed under Chapter 89C of the
+42 General Statutes who has expertise in the design of on-site wastewater
+43 systems.
+44 (1h)(1i) "Ground absorption system" means a system of tanks, treatment units,
+45 nitrification fields, and appurtenances for wastewater collection, treatment,
+46 and subsurface disposal.
+47 …
+48 (7b) "Pretreatment" means any biological, chemical, or physical process or system
+49 for improving wastewater quality and reducing wastewater constituents prior
+50 to final treatment and disposal in a subsurface wastewater system and
+House Bill 376-Fifth Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 includes, but is not limited to aeration, clarification, digestion, disinfection,
+2 filtration, separation, and settling.
+3 …."
+4 SECTION 9.(b) G.S. 130A-335(f) reads as rewritten:
+5 "(f) The rules of the Commission and the rules of the local board of health shall classify
+6 systems of wastewater collection, treatment and disposal according to size, type of treatment and
+7 any other appropriate factors. The rules shall provide construction requirements, including
+8 advanced pretreatment and system control requirements, standards for operation, maintenance,
+9 monitoring, reporting, and ownership requirements for each classification of systems of
+10 wastewater collection, treatment and disposal in order to prevent, as far as reasonably possible,
+11 any contamination of the land, groundwater and surface waters. The Department and local health
+12 departments may impose conditions on the issuance of permits and may revoke the permits for
+13 failure of the system to satisfy the conditions, the rules, or this Article. Permits other than
+14 improvement permits shall be valid for a period prescribed by rule. Improvement permits shall
+15 be valid upon a showing satisfactory to the Department or the local health department that the
+16 site and soil conditions are unaltered, that the facility, design wastewater flow, and wastewater
+17 characteristics are not increased, and that a wastewater system can be installed that meets the
+18 permitting requirements in effect on the date the Improvement Permit was issued. Improvement
+19 permits for which a plat is provided shall be valid without expiration. Improvement permits for
+20 which a site plan is provided shall be valid for five years. The period of time for which the permit
+21 is valid and a statement that the permit is subject to revocation if the site plan or plat, whichever
+22 is applicable, or the intended use changes shall be displayed prominently on both the application
+23 form for the permit and the permit."
+24 SECTION 9.(c) G.S. 130A-336.1(e)(1) reads as rewritten:
+25 "(1) The professional engineer designing the proposed wastewater system shall use
+26 recognized principles and practices of engineering and applicable rules of the
+27 Commission in the calculations and design of the wastewater system. The
+28 investigations and findings of the professional engineer shall include, at a
+29 minimum, the information required in rules adopted by the Commission
+30 pursuant to G.S. 130A-335(e). The professional engineer may, at the
+31 engineer's discretion, employ advanced pretreatment technologies not yet
+32 approved in this State."
+33 SECTION 9.(d) This section is effective when it becomes law and applies to
+34 applications for innovative wastewater system approval filed with the Commission on or after
+35 that date.
+36 SECTION 10.(a) G.S. 130A-343(g) reads as rewritten:
+37 "(g) Innovative Systems. – A manufacturer of a wastewater system for on-site subsurface
+38 use may apply for and be considered for innovative system status by the Department in one of
+39 the following ways:
+40 (1) If the wastewater system has been approved as a provisional wastewater
+41 system pursuant to subsection (f) of this section, the manufacturer may apply
+42 to have the system approved as an innovative wastewater system based on
+43 successful completion of the evaluation protocols established pursuant to
+44 subsection (d) of this section.
+45 (2) If the wastewater system has not been evaluated or approved as a provisional
+46 wastewater system pursuant to subsection (f) of this section, the manufacturer
+47 may apply to the Department to have the system approved as an innovative
+48 wastewater system on the basis of comparable research and testing conducted
+49 in other states. The manufacturer shall provide the Department with the data
+50 and findings of all evaluations of the performance of the system that have been
+51 conducted in any state by or on behalf of the manufacturer. The manufacturer
+Page 10 House Bill 376-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 shall also provide the Department with a summary of the data and findings of
+2 all other evaluations of the performance of the system that are known to the
+3 manufacturer.
+4 (3) If the wastewater system advanced pretreatment system has not been
+5 evaluated or approved as a provisional system pursuant to subsection (f) of
+6 this section, but has been evaluated approved under protocol established by a
+7 nationally recognized certification body for at least two consecutive years,
+8 body, has been found to perform acceptably based on the criteria of the
+9 protocol, and is designed and will be installed in a manner consistent with the
+10 system evaluated and approved by the nationally recognized certification
+11 body, the manufacturer may apply to have the system approved as an
+12 innovative wastewater system.system, and the Department shall approve the
+13 application and issue an innovative wastewater system approval in accordance
+14 with rules adopted by the Commission upon verifying (i) the protocol testing
+15 dataset includes a minimum of 55 influent and effluent datasets that include
+16 the applicable constituents identified in rules adopted by the Commission and
+17 obtained from testing for a minimum of 26 weeks, with protocol sampling
+18 conducted during all weeks of the testing period, (ii) the protocol testing data
+19 complies with the applicable effluent standards identified in rules adopted by
+20 the Commission, (iii) the nationally recognized certification body's approval,
+21 and (iv) that the design and installation plans are consistent with that approval.
+22 When a separate disinfection process or system is proposed, fecal coliform
+23 datasets are not required if the disinfection technology is approved by a
+24 nationally recognized certified body. This subdivision shall not apply to a
+25 manufacturer requesting innovative approval as both an advanced
+26 pretreatment and dispersal system.
+27 …."
+28 SECTION 10.(b) The Commission for Public Health may adopt temporary and
+29 permanent rules to implement this section.
+30 SECTION 10.(c) This section is effective when it becomes law and applies to
+31 applications for innovative wastewater system approval filed with the Commission on or after
+32 that date.
+33
+34 DEQ/DHHS PRIVATE WELL RULEMAKING TECHNICAL CORRECTION
+35 SECTION 11. G.S. 130A-4(d) reads as rewritten:
+36 "(d) When requested by the Secretary of Environmental Quality,Secretary, a local health
+37 department shall enforce the rules of the Commission and the rules adopted by the Environmental
+38 Management Commission pursuant to G.S. 87-87 G.S. 87-87(6) and (7) under the supervision of
+39 the Department of Environmental Quality.Quality and the Department of Health and Human
+40 Services. The local health department shall utilize local staff authorized by the Department of
+41 Environmental QualityHealth and Human Services to enforce the specific rules."
+42
+43 SEVERABILITY & EFFECTIVE DATE
+44 SECTION 12.(a) If any provision of this act or its application is held invalid, the
+45 invalidity does not affect other provisions or applications of this act that can be given effect
+46 without the invalid provisions or application and, to this end, the provisions of this act are
+47 severable.
+48 SECTION 12.(b) Except as otherwise provided, this act is effective when it becomes
+49 law.
+House Bill 376-Fifth Edition Page 11

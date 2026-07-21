@@ -1,0 +1,224 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 850
+Short Title: Pay Teachers What They're Worth Act. (Public)
+Sponsors: Senator Bradley (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+April 29, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO INCREASE EDUCATOR SALARIES, TO REINSTATE EDUCATION-BASED
+3 SALARY SUPPLEMENTS FOR EDUCATORS, TO ESTABLISH THE PAID STUDENT
+4 TEACHING GRANT PROGRAM, AND TO REQUIRE THE NORTH CAROLINA
+5 COLLABORATORY TO STUDY IMPROVING EDUCATOR COMPENSATION.
+6 Whereas, North Carolina continues to experience teacher shortages in multiple
+7 subject areas and geographic regions; and
+8 Whereas, student teaching is a full-time professional requirement that often prevents
+9 teacher candidates from maintaining outside employment; and
+10 Whereas, financial barriers during clinical preparation discourage many prospective
+11 educators from entering the profession; and
+12 Whereas, competitive salaries and stronger teacher preparation pipelines are essential
+13 to ensuring that North Carolina students have access to qualified teachers; and
+14 Whereas, the purpose of the following enactment is to strengthen recruitment and
+15 retention of educators by improving compensation and supporting teacher candidates entering
+16 the profession; Now, therefore,
+17 The General Assembly of North Carolina enacts:
+18
+19 PART I. RAISE SALARIES FOR TEACHERS AND INSTRUCTIONAL SUPPORT
+20 PERSONNEL
+21 SECTION 1.(a) The following monthly teacher salary schedule shall apply for the
+22 2026-2027 fiscal year to licensed personnel of the public schools who are classified as teachers.
+23 The salary schedule is based on years of teaching experience.
+24 2026-2027 Teacher Monthly Salary Schedule
+25 Years of Experience "A" Teachers
+26 0 $5,000
+27 1 $5,091
+28 2 $5,183
+29 3 $5,274
+30 4 $5,366
+31 5 $5,457
+32 6 $5,576
+33 7 $5,687
+34 8 $5,796
+35 9 $5,907
+36 10 $6,018
+*S850-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 11 $6,128
+2 12 $6,239
+3 13 $6,349
+4 14 $6,460
+5 15-24 $6,571
+6 25+ $6,823
+7 SECTION 1.(b) Salary Supplements for Teachers Paid on This Salary Schedule. –
+8 (1) Licensed teachers who have NBPTS certification shall receive a salary
+9 supplement each month of twelve percent (12%) of their monthly salary on
+10 the "A" salary schedule.
+11 (2) Licensed teachers who are classified as "M" teachers shall receive a salary
+12 supplement each month of ten percent (10%) of their monthly salary on the
+13 "A" salary schedule.
+14 (3) Licensed teachers with licensure based on academic preparation at the
+15 six-year degree level shall receive a salary supplement of one hundred
+16 twenty-six dollars ($126.00) per month in addition to the supplement provided
+17 to them as "M" teachers.
+18 (4) Licensed teachers with licensure based on academic preparation at the
+19 doctoral degree level shall receive a salary supplement of two hundred
+20 fifty-three dollars ($253.00) per month in addition to the supplement provided
+21 to them as "M" teachers.
+22 (5) Certified school nurses shall receive a salary supplement each month of ten
+23 percent (10%) of their monthly salary on the "A" salary schedule.
+24 (6) School counselors who are licensed as counselors at the master's degree level
+25 or higher shall receive a salary supplement each month of one hundred dollars
+26 ($100.00).
+27 SECTION 1.(c) For school psychologists, school speech pathologists who are
+28 licensed as speech pathologists at the master's degree level or higher, and school audiologists
+29 who are licensed as audiologists at the master's degree level or higher, the following shall apply:
+30 (1) The first step of the salary schedule shall be equivalent to the sixth step of the
+31 "A" salary schedule.
+32 (2) These employees shall receive the following salary supplements each month:
+33 a. Ten percent (10%) of their monthly salary, excluding the supplement
+34 provided pursuant to sub-subdivision b. of this subdivision.
+35 b. Three hundred fifty dollars ($350.00).
+36 (3) These employees are eligible to receive salary supplements equivalent to those
+37 of teachers for academic preparation at the six-year degree level or the
+38 doctoral degree level.
+39 (4) The twenty-sixth step of the salary schedule shall be seven and one-half
+40 percent (7.5%) higher than the salary received by these same employees on
+41 the twenty-fifth step of the salary schedule.
+42 SECTION 1.(d) Beginning with the 2014-2015 fiscal year, in lieu of providing
+43 annual longevity payments to teachers paid on the teacher salary schedule, the amounts of those
+44 longevity payments are included in the monthly amounts under the teacher salary schedule.
+45 SECTION 1.(e) A teacher compensated in accordance with this salary schedule for
+46 the 2026-2027 school year shall receive an amount equal to the greater of the following:
+47 (1) The applicable amount on the salary schedule for the applicable school year.
+48 (2) For teachers who were eligible for longevity for the 2013-2014 school year,
+49 the sum of the following:
+50 a. The salary the teacher received in the 2013-2014 school year pursuant
+51 to Section 35.11 of S.L. 2013-360.
+Page 2 Senate Bill 850-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 b. The longevity that the teacher would have received under the longevity
+2 system in effect for the 2013-2014 school year provided in Section
+3 35.11 of S.L. 2013-360 based on the teacher's current years of service.
+4 c. The annual bonus provided in Section 9.1(e) of S.L. 2014-100.
+5 (3) For teachers who were not eligible for longevity for the 2013-2014 school
+6 year, the sum of the salary and annual bonus the teacher received in the
+7 2014-2015 school year pursuant to Section 9.1 of S.L. 2014-100.
+8 SECTION 1.(f) As used in this section, the term "teacher" shall also include
+9 instructional support personnel.
+10 SECTION 1.(g) There is appropriated from the General Fund to the Department of
+11 Public Instruction the sum of one billion six hundred seventy-five million dollars
+12 ($1,675,000,000) in recurring funds beginning in the 2026-2027 fiscal year to increase teacher
+13 salaries in accordance with this section.
+14
+15 PART II. REINSTATE EDUCATION-BASED SALARY SUPPLEMENTS FOR
+16 TEACHERS AND INSTRUCTIONAL SUPPORT PERSONNEL
+17 SECTION 2.(a) G.S. 115C-302.10 is repealed.
+18 SECTION 2.(b) Notwithstanding any other provision of law, for the 2026-2027
+19 fiscal year, State Board of Education policy TCP-A-006, as it was in effect on June 30, 2013,
+20 shall be used to determine (i) whether teachers and instructional support personnel are paid on
+21 the "M" salary schedule and (ii) whether they receive a salary supplement for academic
+22 preparation at the six-year or doctoral degree level.
+23 SECTION 2.(c) There is appropriated from the General Fund to the Department of
+24 Public Instruction the sum of eight million dollars ($8,000,000) in recurring funds beginning in
+25 the 2026-2027 fiscal year to reinstate education-based salary supplements for teachers and
+26 instructional support personnel in accordance with this section.
+27
+28 PART III. NORTH CAROLINA PAID STUDENT TEACHING GRANT PROGRAM
+29 SECTION 3.(a) Article 17D of Chapter 115C of the General Statutes is amended by
+30 adding the following new section to read:
+31 "§ 115C-269.33. Paid Student Teaching Grant Program.
+32 (a) Program; Purpose. – The State Board of Education, in coordination with approved
+33 educator preparation programs, shall establish the Paid Student Teaching Grant Program
+34 (Program). The purpose of the Program is to support teacher recruitment by providing financial
+35 assistance to eligible student teachers during the student teaching portion of their enrollment in
+36 an educator preparation program.
+37 (b) Definitions. – For purposes of this section, the following definitions apply:
+38 (1) Eligible student teacher. – A student teacher who meets all of the following
+39 requirements:
+40 a. Is enrolled in an approved educator preparation program.
+41 b. Is fulfilling the student teaching requirement of an educator
+42 preparation program in a public school unit.
+43 c. Has a demonstrated financial need according to criteria developed by
+44 the Department of Public Instruction, including eligibility for the
+45 federal Pell Grant.
+46 d. Has not already received a grant under the Program.
+47 (2) Recruitment public school unit. – A public school unit that employs a grant
+48 recipient under the Program as a teacher.
+49 (c) Selection. – The Department of Public Instruction, in coordination with approved
+50 educator preparation programs, shall develop a process to accept applications from eligible
+51 student teachers for the award grants under the Program. As part of the process, the Department
+Senate Bill 850-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 shall verify the status of each applicant as a student teacher in a public school unit. To the extent
+2 funds provided for grants pursuant to this section are insufficient to award grants to all eligible
+3 student teachers, the Department may establish a lottery process for selection of grant recipients
+4 in accordance with the requirements established by this section.
+5 (d) Grant. – The Department shall award grants of up to five thousand dollars ($5,000)
+6 per year to eligible student teachers who meet the selection requirements established by the
+7 Department pursuant to subsection (c) of this section. The Department shall allocate these funds
+8 to student teachers on a monthly basis during their student teaching assignment.
+9 (e) Recruitment Bonus. – The Department shall allocate funds to recruit public school
+10 units each year to provide a one-time recruitment bonus of two thousand five hundred dollars
+11 ($2,500) to grant recipients who accept employment in public school units. Notwithstanding
+12 G.S. 135-1(7a), these bonuses are not compensation under Article 1 of Chapter 135 of the
+13 General Statutes, Retirement System for Teachers and State Employees. Bonuses shall be
+14 provided to persons who meet all of the following criteria:
+15 (1) Received a grant under the Program.
+16 (2) Graduated from an approved educator preparation program.
+17 (3) Has been employed by the recruitment public school unit for at least 30 days.
+18 (4) Has not previously received a recruitment bonus under this subsection.
+19 (f) Report. – No later than April 15 of each year, the Department shall report to the Joint
+20 Legislative Education Oversight Committee on the impact of the Program on teacher recruitment,
+21 including at least the following information:
+22 (1) The number of eligible student teachers receiving grants and the public school
+23 units where they are completing their student teaching assignment.
+24 (2) The eligible student teachers that did not receive grants because of insufficient
+25 funding.
+26 (3) Placement rates in public school units of eligible student teachers receiving
+27 grants versus eligible student teachers who did not receive grants.
+28 (4) Any other information the Department deems relevant to evaluation of the
+29 effectiveness of the Program on teacher recruitment."
+30 SECTION 3.(b) There is appropriated from the General Fund to the Department of
+31 Public Instruction beginning in the 2026-2027 fiscal year the sum of ten million dollars
+32 ($10,000,000) in recurring funds to provide student teaching grants and recruitment bonuses for
+33 teachers in accordance with the Paid Student Teaching Grant Program established under
+34 G.S. 115C-269.33, as enacted by subsection (a) of this section.
+35
+36 PART IV. NORTH CAROLINA COLLABORATORY TO STUDY EDUCATOR
+37 COMPENSATION
+38 SECTION 4. No later than March 15, 2027, the North Carolina Collaboratory, in
+39 consultation with the Department of Public Instruction, the Fiscal Research Division, and any
+40 other relevant stakeholders, shall study and report on strategies to meaningfully increase educator
+41 compensation in North Carolina over the next 10 years. The study shall evaluate policy options
+42 for strengthening the educator workforce in North Carolina through competitive and sustainable
+43 compensation structures and report on at least the following information:
+44 (1) The competitiveness of educator salary schedules in North Carolina in
+45 comparison to regional and national educator salary schedules.
+46 (2) Strategies for long-term growth of educator salaries under the teacher salary
+47 schedule.
+48 (3) Compensation models recognizing career advancement, mentorship, and
+49 instructional leadership.
+50 (4) Incentives for high-need subject areas and high-need schools.
+51 (5) Compensation strategies that improve educator retention.
+Page 4 Senate Bill 850-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (6) Sustainable funding approaches for strengthening educator compensation.
+2 (7) Best practices from other states that have successfully and meaningfully
+3 increased educator pay.
+4
+5 PART V. EFFECTIVE DATE
+6 SECTION 5. This act becomes effective July 1, 2026.
+Senate Bill 850-First Edition Page 5

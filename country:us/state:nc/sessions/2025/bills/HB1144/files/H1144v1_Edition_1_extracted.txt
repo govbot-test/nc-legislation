@@ -1,0 +1,228 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1144
+Short Title: Dominique Moody Safety Act. (Public)
+Sponsors: Representatives Cunningham, Chesser, Colvin, and Lambeth (Primary
+Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Judiciary 2, if favorable, Appropriations, if favorable, Rules, Calendar, and
+Operations of the House
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO THE LAWS REGARDING ABUSE,
+3 NEGLECT, AND DEPENDENCY CASES FOR JUVENILES.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. CHILD WELFARE CASE ESCALATION TEAM
+7 SECTION 1.(a) Article 1 of Chapter 108A of the General Statutes is amended by
+8 adding a new Part to read:
+9 "Part 2C. Child Welfare Case Escalation Team.
+10 "§ 108A-15.25. Child Welfare Case Escalation Team.
+11 (a) Child Welfare Case Escalation Team. – The Division shall maintain a team of
+12 representatives for each regional social services department that conducts escalation assessments,
+13 consistent with this section, of juveniles that have a history of child protective services attention
+14 due to a combination of safety and risk factors. The purpose of the team is to do all of the
+15 following:
+16 (1) Support county departments of social services.
+17 (2) Provide an additional level of review to ensure child safety statewide.
+18 (3) Provide quality assurance of the child protective services history of a family
+19 who has returned to the attention of child protective services, including
+20 assessing the quality of prior service intervention and further decisions of
+21 services provided to ensure the safety and well-being of juveniles moving
+22 forward with the family.
+23 (b) Staff. – The team is staffed by the Division, including the assigned manager and
+24 escalation specialists. The team shall collaborate and coordinate with (i) the director of the
+25 regional social services department, (ii) the director of the county department of social services
+26 where the juvenile subject to the escalation notification form resides, and (iii) local law
+27 enforcement.
+28 "§ 108A-15.26. Definitions.
+29 The following definitions apply in this Part:
+30 (1) Caretaker. – As defined in G.S. 7B-101.
+31 (2) Division. – The Division of Social Services of the Department of Health and
+32 Human Services.
+33 (3) Extensive child welfare history. – Any one or more of the following:
+*H1144-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 a. Involvement of a medically complex juvenile who requires
+2 subspecialty care by two or more specialties.
+3 b. Receipt of a second report for medical neglect within six months of
+4 the current report.
+5 c. Involvement of a juvenile that requires devices to sustain their
+6 function, such as a tracheostomy or gastric tube, who has had three or
+7 more prior cases for concerns of medical neglect.
+8 d. Families with five or more child protective services cases with
+9 concerns for neglect regardless of case decision or families that have
+10 three or more cases, if any of those cases involved concerns for abuse.
+11 e. Families that have three or more prior child protective services reports
+12 with concerns for domestic violence or active or current drug activity.
+13 f. Any report on an active temporary safety provider or kinship care
+14 provider.
+15 g. Cases in which there exists a previous child protective services history
+16 with the family and involves a near fatality of a juvenile.
+17 h. Any case that has had a prior history involving a child fatality as a
+18 result of concerns for abuse or neglect and there is a new child in the
+19 residence.
+20 i. Multiple prior involvements with child welfare services, including
+21 in-home services or permanency planning.
+22 (4) Juvenile. – As defined in G.S. 7B-101.
+23 (5) Near fatality. – As defined in G.S. 7B-2902.
+24 (6) Team. – The Child Welfare Case Escalation Team.
+25 "§ 108A-15.27. Criteria for team involvement.
+26 (a) Criteria. – The director of the county department of social services shall proceed
+27 through the process for notification of the Child Welfare Case Escalation Team under subsection
+28 (b) of this section if a county department of social services receives a report of abuse or neglect
+29 to screen under Article 3 of Subchapter I of Chapter 7B of the General Statutes that meets any of
+30 the following criteria:
+31 (1) Extensive child welfare history.
+32 (2) Three or more reports within a 12-month period involving the same or similar
+33 allegations that were screened out that indicate a pattern of concern despite
+34 prior screening decisions.
+35 (3) History of prior removal and placement into foster care, such as previous
+36 removal of juveniles from the home due to similar or identical allegations.
+37 (4) Three or more substantiated findings involving the family that demonstrate a
+38 pattern consistent with chronic or habitual neglect.
+39 (5) Ongoing medical or mental health neglect, such as repeated reports indicating
+40 failure to address juveniles' medical or mental health needs with allegations
+41 consistent across multiple reports and time frames.
+42 (b) Notification. – If a child welfare case meets the criteria of subsection (a) of this
+43 section, the receiving county department of social services shall complete an escalation
+44 notification form within two business days and return via email or automated process to the
+45 escalation team.
+46 (c) Information Sharing. – The assigned escalation specialist shall coordinate with the
+47 county department of social services to obtain access to the entirety of the case record to address
+48 immediate safety of the juvenile. Upon request, the county department of social services shall
+49 provide any records in their possession related to the juvenile's case and identified in the
+50 escalation notification form. Pursuant to G.S. 7B-302, the escalation specialist may also demand,
+51 in writing, records in possession of State or local law enforcement.
+Page 2 House Bill 1144-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 "§ 108A-15.28. Team assessment.
+2 (a) Assessment. – Once the escalation specialist receives all pertinent information and
+3 records from the county department of social services under G.S. 108A-15.27, the escalation
+4 specialist shall do all of the following:
+5 (1) Assess child welfare history, including all reports and findings, interviews
+6 conducted and collateral interviews, safety plans developed for the juvenile,
+7 and services provided to the family.
+8 (2) Identify gaps in services and other areas that impact safety of the juvenile.
+9 (3) Review the overall safety planning for the juvenile in the current assessment
+10 to determine if there are additional steps required to ensure safety.
+11 (4) Create a chronological time line of child protective services intervention to
+12 understand the maltreatment factors of concern related to the family to aid in
+13 decision making.
+14 (b) Collaboration. – The escalation specialist assigned to the case and other team
+15 members shall provide necessary technical assistance to the county department of social services
+16 throughout the assessment phase of the child protective services case to identify any patterns or
+17 contributory factors from past history that may impact a caretaker's ability to assess and control
+18 for present danger threats. The escalation specialist shall do all of the following in collaboration
+19 with the county department of social services:
+20 (1) Be involved in determining the case decision and in identifying services
+21 needed for incorporation into the family case plan, taking into account the
+22 family's history and interventions identified in the chronological time line.
+23 (2) Guide current intervention steps and improve practice, any practice concerns
+24 from child protective services involvement, and discuss that involvement with
+25 the county director of social services.
+26 (c) Response. – The county department of social services shall respond to all unaddressed
+27 safety concerns identified through the team's review process immediately or within the same day
+28 of notification.
+29 (d) Review. – The team and other assigned and Division and Department of Health and
+30 Human Services staff shall review records to ensure that practices that have deficiencies are
+31 corrected and there is communication with county department staff and others to improve child
+32 welfare practice at all levels across the county departments of social services."
+33 SECTION 1.(b) There is appropriated from the General Fund to the Department of
+34 Health and Human Services, Division of Social Services (Division), the sum of five hundred fifty
+35 thousand dollars ($550,000) in recurring funds beginning in the 2026-2027 fiscal year, in addition
+36 to one hundred fifty-seven thousand dollars ($157,000) in federal receipts beginning in the
+37 2026-2027 fiscal year, for six full-time equivalent positions to staff and implement the Child
+38 Welfare Case Escalation Team, as established in this section. These full-time equivalent positions
+39 shall include human services program consultants and one human services program manager.
+40 SECTION 1.(c) The Department of Health and Human Services, Division of Social
+41 Services, shall explore means and resources needed to automate and reduce the burden on the
+42 county workforce to alert the Division of escalation reviews as established under this section.
+43 When exploring these options, the Division shall consider using the Partnership and Technology
+44 Hub for North Carolina to make an automated process for those reviews.
+45 SECTION 1.(d) The Division shall amend protocols and rules as necessary to
+46 integrate Child Welfare Case Escalation Team involvement into the entry of a private residence,
+47 as provided for under G.S. 7B-302(h), as amended by this act, to ensure seamless and coordinated
+48 assistance for high-risk juveniles at risk of abuse or neglect.
+49
+50 PART II. CPS EMPLOYEE ASSESSMENT HOME VISIT AND RECORD
+51 MODIFICATIONS
+House Bill 1144-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.(a) The Department of Health and Human Services, Division of Social
+2 Services, shall adopt rules to amend Subchapter 70A of the North Carolina Administrative Code
+3 and update associated Division policies, Child Protective Services Assessments Policy, Protocol,
+4 and Guidance, and the Partnership and Technology Hub for North Carolina to require directors
+5 of departments of social services to require photographs or video evidence be gathered during an
+6 initial investigative assessment response or initial family assessment response if evidence tends
+7 to show a juvenile subject to the assessment has been alleged to be abused or neglected, consistent
+8 with the requirements of Article 3 of Subchapter I of Chapter 7B of the General Statutes.
+9 SECTION 2.(b) G.S. 7B-302 reads as rewritten:
+10 "§ 7B-302. Assessment by director; military affiliation; access to confidential information;
+11 notification of person making the report.
+12 …
+13 (e) In performing any duties related to the assessment of the report or the provision or
+14 arrangement for protective services, the director may consult with any public or private agencies
+15 or individuals, including the available State or local law enforcement officers who shall assist in
+16 the assessment and evaluation of the seriousness of any report of abuse, neglect, or dependency
+17 when requested by the director. The director or the director's representative may make a written
+18 demand for any information or reports, whether or not confidential, that may in the director's
+19 opinion be relevant to the assessment or provision of protective services. Upon the director's or
+20 the director's representative's request and unless protected by the attorney-client privilege, any
+21 public or private agency or individual shall provide access to and copies of this confidential
+22 information and these records to the extent permitted by federal law and regulations. If a
+23 custodian of criminal investigative information or records believes that release of the information
+24 will jeopardize the right of the State to prosecute a defendant or the right of a defendant to receive
+25 a fair trial or will undermine an ongoing or future investigation, it may seek an order from a court
+26 of competent jurisdiction to prevent disclosure of the information. In such an action, the custodian
+27 of the records shall have the burden of showing by a preponderance of the evidence evidence, or
+28 clear and convincing evidence if the request is from the Child Welfare Case Escalation Team
+29 pursuant to a written demand under G.S. 108A-15.27(c), that disclosure of the information in
+30 question will jeopardize the right of the State to prosecute a defendant or the right of a defendant
+31 to receive a fair trial or will undermine an ongoing or future investigation. Actions brought
+32 pursuant to this paragraph shall be set down for immediate hearing, and subsequent proceedings
+33 in the actions shall be accorded priority by the trial and appellate courts.
+34 …
+35 (h) The director or the director's representative may not enter a private residence for
+36 assessment purposes without at least one of the following:
+37 (1) The reasonable belief that a juvenile is in imminent danger of death or serious
+38 physical injury.
+39 (2) The permission of the parent or person responsible for the juvenile's care.
+40 (3) The accompaniment of a law enforcement officer who has legal authority to
+41 enter the residence.
+42 (4) An order from a court of competent jurisdiction.
+43 (5) If the report alleges suspected abuse or neglect of a high-risk juvenile and the
+44 Child Welfare Case Escalation Team has been activated and is assisting the
+45 county department of social services conducting the assessment at the
+46 juvenile's residence."
+47
+48 PART III. RECOGNITION OF CHILD ABUSE AND NEGLECT TRAINING
+49 SECTION 3. There is appropriated from the General Fund to the Department of
+50 Health and Human Services, Division of Social Services, the sum of one hundred thousand
+51 dollars ($100,000) in nonrecurring funds for the 2026-2027 fiscal year for training for child
+Page 4 House Bill 1144-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 protective services employees and social workers employed by county departments of social
+2 services to recognize abuse and neglect. Once developed, the Division shall ensure that this
+3 training is virtually available for future trainings and continuing education for those employees
+4 that need it. The Division shall prioritize training specialists, prior to dissemination to the entirety
+5 of social workers statewide.
+6
+7 PART IV. EFFECTIVE DATE
+8 SECTION 4. Sections 1(b) and 3 of this act become effective July 1, 2026. Section
+9 1(c) of this act is effective when it becomes law. The remainder of this act becomes effective
+10 October 1, 2026.
+House Bill 1144-First Edition Page 5

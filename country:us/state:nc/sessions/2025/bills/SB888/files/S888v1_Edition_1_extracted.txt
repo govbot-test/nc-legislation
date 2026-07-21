@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 888
+Short Title: Immigration Data Privacy. (Public)
+Sponsors: Senators Murdock and Theodros (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+April 29, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT PROHIBITING THE DISSEMINATION OF IMMIGRATION DATA FOR
+3 IMMIGRATION ENFORCEMENT UNLESS CERTAIN CONDITIONS ARE
+4 SATISFIED.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. IMMIGRATION DATA PRIVACY
+8 SECTION 1.1. Chapter 64 of the General Statutes is amended by adding a new
+9 Article to read:
+10 "Article 4.
+11 "Immigration Data Privacy.
+12 "§ 64-70. Release of immigration data.
+13 (a) Notwithstanding any other provision of law, no department, agency, or institution of
+14 this State shall disseminate to any federal, state, or local government entity, law enforcement
+15 officer, or law enforcement agency any immigration-related data for any purposes related to civil
+16 immigration enforcement unless one of the following is satisfied:
+17 (1) The subject of the information provides consent.
+18 (2) The requesting agency presents a lawful judicial order, judicial subpoena, or
+19 judicial warrant.
+20 (b) When responding to a lawful judicial order, judicial subpoena, or judicial warrant, the
+21 department providing the information shall disclose only those records or information
+22 specifically requested.
+23 (c) Within three business days of receiving a request for information, the department
+24 providing the information shall send a notification to the individual about whom such information
+25 was requested that such a request was made and the identity of the entity that made such request.
+26 "§ 64-71. Reporting requirements.
+27 Any department, agency, or institution of this State that receives a request for immigration
+28 data shall document and retain information regarding the request. Information related to the
+29 requests shall be reported to the Office of the Attorney General on an annual basis. The report
+30 shall include all of the following information:
+31 (1) The total number of immigration data requests.
+32 (2) The name of the requesting agency or department.
+33 (3) The resolution of the request.
+34 (4) The type of legal authority presented by the requesting agency or department."
+35
+36 PART II. APPROPRIATION
+*S888-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.1. Appropriation. – There is appropriated from the General Fund to the
+2 Office of State Budget and Management the sum of one million five hundred thousand dollars
+3 ($1,500,000) in recurring funds beginning in the 2026-2027 fiscal year to be allocated to State
+4 departments and agencies for implementation of this act.
+5 SECTION 2.2. Allowable Uses of Funds. – The funds appropriated in Section 2.1
+6 of this act may be used for any of the following:
+7 (1) Information technology updates to restrict, track, and audit access to
+8 identifying information.
+9 (2) Development of data governance and privacy compliance systems, including
+10 logging and reporting mechanisms.
+11 (3) Training of State agency personnel on requirements enacted by this act.
+12 (4) Staffing and administrative costs associated with compliance, oversight, and
+13 reporting requirements.
+14 (5) Preparation and publication of annual reports required under this act.
+15 SECTION 2.3. Reporting. – State agencies receiving funds under Section 2.1 of this
+16 act shall report to the Joint Legislative Oversight Committee on General Government no later
+17 than April 1, 2027, on the use of funds and implementation progress.
+18
+19 PART III. SEVERABILITY
+20 SECTION 3.1. If any provision of this act or its application is held invalid, the
+21 invalidity does not affect other provisions or applications of this act that can be given effect
+22 without the invalid provisions or application and, to this end, the provisions of this act are
+23 severable.
+24
+25 PART IV. EFFECTIVE DATE
+26 SECTION 4.1. This act is effective when it becomes law.
+Page 2 Senate Bill 888-First Edition

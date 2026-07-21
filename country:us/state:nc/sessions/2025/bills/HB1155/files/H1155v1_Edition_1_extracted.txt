@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1155
+Short Title: The People's Right to Amend Act. (Public)
+Sponsors: Representatives Helfrich, Rubin, Lopez, and Cook (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AMEND THE CONSTITUTION OF NORTH CAROLINA TO PROVIDE TO
+3 THE PEOPLE THE POWER OF INITIATIVE.
+4 Whereas, unlike in many other states, the Constitution of North Carolina limits the
+5 proposal of constitutional amendments to those initiated by the House of Representatives and the
+6 Senate; and
+7 Whereas, the exclusive reliance on the legislative branch to propose amendments can
+8 serve as a barrier to vital structural reforms when the General Assembly itself stands in the way
+9 of reforms desired by strong majorities of voters; and
+10 Whereas, empowering citizens with a direct initiative process provides a necessary
+11 democratic recourse, but the experiences of other states demonstrate that such a process must
+12 include robust safeguards to prevent abuse; and
+13 Whereas, requiring a high bar for placing initiatives on the ballot and a supermajority
+14 requirement to approve them will guarantee that only measures with extensive,
+15 cross-constituency public support can successfully amend the State's foundational document;
+16 Now, therefore,
+17 The General Assembly of North Carolina enacts:
+18 SECTION 1. Article XIII of the Constitution of North Carolina is amended by
+19 adding a new section to read:
+20 "Sec. 5. Initiative.
+21 (1) Procedure for proposal. The people may initiate a referendum on a proposed
+22 amendment to the Constitution by presenting to the State Board of Elections a petition that sets
+23 forth the text of the proposed amendment to the Constitution and is certified to have been signed
+24 by qualified voters not less in number than eight percent (8%) of the votes for all candidates for
+25 Governor at the last gubernatorial election with no less than three percent (3%) of such signatures
+26 from each congressional district. The petition shall ask that it be submitted to the qualified voters
+27 and shall make clear to anyone signing the petition the effect of the proposed amendments.
+28 (2) Registration. A petition must be registered with the State Board of Elections prior to
+29 circulation, and no signature shall be valid unless submitted to the State Board of Elections within
+30 one year after the date of registration.
+31 (3) Submission to voters. The State Board of Elections shall submit the proposed
+32 constitutional amendment to the qualified voters of the State at the next statewide general election
+33 held not less than 180 days from the date of certification by the State Board of Elections that the
+34 petition is valid. The submission shall accurately reflect the effect of the proposed amendments
+*H1155-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 as set forth in the petition and the full text of the amendment shall be provided with any ballot
+2 by which a vote may be cast.
+3 (4) Restricted subjects. No initiative measure may change the provisions of this
+4 subsection. No initiative measure defeated under this Section may be considered again under this
+5 Section until five years from the date of the election have elapsed.
+6 (5) Effectiveness; effective date. An initiative to be effective must be approved by sixty
+7 percent (60%) of the qualified voters voting in the election thereon. An initiative takes effect on
+8 the first day of January after the election, unless the proposed amendment provides a different
+9 effective date.
+10 (6) Implementation. The General Assembly shall provide by general law the manner and
+11 timing for which petitions shall be circulated, verified, presented, and certified and the manner
+12 in which measures are submitted to the qualified voters. The State Board of Elections shall make
+13 all necessary determinations regarding the petition within 30 working days of submission of the
+14 signatures required by this Section, which shall be tolled for any period of time that is within 10
+15 working days before or after an election. A determination of the State Board of Elections may be
+16 appealed as of right to the Court of Appeals. Written appeal shall be taken within two business
+17 days after the determination of the State Board of Elections.
+18 (7) Unseverability. If any part of this Section is held invalid or unenforceable by any
+19 court of competent jurisdiction, this entire Section is repealed."
+20 SECTION 2. The amendment set out in Section 1 of this act shall be submitted to
+21 the qualified voters of the State at the statewide general election to be held on November 3, 2026,
+22 which election shall be conducted in accordance with the laws governing elections at that time.
+23 The question to be used in the voting systems and ballots shall be:
+24 "[ ] FOR [ ] AGAINST
+25 Constitutional amendment giving the people the power of initiative to adopt or reject
+26 amendments to the Constitution."
+27 SECTION 3. The State Board of Elections shall certify the results of the referendum
+28 conducted under Section 2 of this act. If a majority of votes cast on the question are in favor of
+29 the amendment set out in Section 1 of this act, the Secretary of State shall enroll the amendment
+30 among the permanent records of that office. If a majority of votes cast on the question are against
+31 the amendment set out in Section 1 of this act, the amendment shall have no effect.
+32 SECTION 4. If the certification from the State Board of Elections under Section 3
+33 of this act reflects that a majority of votes cast on the question are in favor of the amendment set
+34 out in Section 1 of this act, the amendment set out in Section 1 of this act is effective upon
+35 certification.
+36 SECTION 5. This act is effective when it becomes law.
+Page 2 House Bill 1155-First Edition
