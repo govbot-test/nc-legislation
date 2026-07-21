@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Edition 5
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 5
+SENATE BILL 474
+Regulatory Reform Committee Substitute Adopted 4/2/25
+Third Edition Engrossed 4/8/25
+House Committee Substitute Favorable 6/9/26
+Fifth Edition Engrossed 6/17/26
+Short Title: Adjust Counties/Reappraisal Moratorium. (Public)
+Sponsors:
+Referred to:
+March 25, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ADJUST THE COUNTIES SUBJECT TO THE PROPERTY TAX
+3 REAPPRAISAL MORATORIUM AND PREVENTING A REDUCTION IN PUBLIC
+4 SERVICE COMPANY VALUES FOR COUNTIES SUBJECT TO THE MORATORIUM.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. If Senate Bill 889, 2025 Regular Session, becomes law, Section 1 of
+7 that act reads as rewritten:
+8 "SECTION 1.(a) 2026 Taxable Year. – Notwithstanding any provision of law to the contrary
+9 and effective only for the taxable year beginning July 1, 2026, every a county (i) with a population
+10 of 15,000 or greater according to the latest federal decennial census and (ii) in which a reappraisal
+11 of real property became effective as of January 1, 2026, shall not use the schedule of values
+12 adopted by the board of county commissioners in accordance with that reappraisal that became
+13 effective as of January 1, 2026, but shall instead use the schedule of values adopted in accordance
+14 with the county's most recent previous reappraisal effective prior to January 1, 2026.
+15 "SECTION 1.(b) 2027 and Future Taxable Years. – Notwithstanding any provision of law
+16 to the contrary, effective for the taxable year beginning July 1, 2027, every a county (i) with a
+17 population of 15,000 or greater according to the latest federal decennial census and (ii) in which
+18 a reappraisal of real property became effective as of January 1, 2026, shall use the schedule of
+19 values adopted by the board of county commissioners in accordance with the January 1, 2026,
+20 reappraisal until the adoption of a new schedule of values pursuant to a future reappraisal by the
+21 county in accordance with G.S. 105-286 and subsection (c) of this section.
+22 "SECTION 1.(c) Base Year Calculation. – Every A county to which this section applies
+23 shall be deemed to have conducted its most recent reappraisal effective January 1, 2027, for
+24 purposes of calculating the time for its next general reappraisal of real property under
+25 G.S. 105-286.
+26 "SECTION 1.(d) Property Tax Appeals. – Notwithstanding any provision of law to the
+27 contrary, a taxpayer may appeal the listing or appraisal of real property in accordance with
+28 Subchapter II of Chapter 105 of the General Statutes during the 2026 calendar year for an
+29 appraisal of real property that became effective as of January 1, 2026. A taxpayer that fails to
+30 appeal an appraisal of real property subject to this section during the 2026 calendar year may
+31 appeal the appraisal during the 2027 calendar year as if the appraisal became effective January
+32 1, 2027 2027, provided that the real property is located in a county with a population of 15,000
+33 or greater according to the latest federal decennial census. to which this section applies. A county
+*S474-v-5*
+
+General Assembly Of North Carolina Session 2025
+1 shall accept an appeal from a taxpayer subject to this section during the 2027 calendar year,
+2 provided that the appeal is submitted in timely manner for an appraisal that became effective
+3 January 1, 2027. Any adjustment made during the appeal process provided for under this section
+4 is effective for the taxable year beginning July 1, 2027.
+5 "SECTION 1.(e) Applicability. – This section applies only to counties with a reappraisal of
+6 real property that became effective as of January 1, 2026, that do not meet any of the following
+7 criteria:
+8 (1) Have a population of less than 12,000 according to the latest federal decennial
+9 census.
+10 (2) Are in the year designated in G.S. 105-286(a)(2)a. and have a population of
+11 less than 150,000, according to the latest federal decennial census.
+12 (3) Have levied a property tax rate in excess of ninety-five cents (95¢) per one
+13 hundred dollars ($100.00) of appraised value of property subject to taxation
+14 at any point in the prior four years.
+15 (4) Are an affected area, as defined in Section 1.4 of S.L. 2025-2."
+16 SECTION 1.5.(a) This section applies only to public service company system
+17 property that is located in a county subject to the property tax reappraisal moratorium under
+18 Section 1 of this act.
+19 SECTION 1.5.(b) Property described in subsection (a) of this section is designated
+20 a special class of property under Article V, Sec. 2(2) of the North Carolina Constitution and shall
+21 be assessed for taxation in accordance with this section. G.S. 105-284(b) is repealed.
+22 SECTION 1.5.(c) This section is effective for taxes imposed for taxable years
+23 beginning on or after July 1, 2026, and expires for taxes imposed for taxable years beginning on
+24 or after July 1, 2027.
+25 SECTION 2. Except as otherwise provided, this act is effective when it becomes
+26 law.
+Page 2 Senate Bill 474-Fifth Edition

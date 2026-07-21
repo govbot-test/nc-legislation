@@ -1,0 +1,267 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1181
+Short Title: Property Tax Modifications. (Public)
+Sponsors: Representatives Cervania and Rubin (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MODIFY THE INCOME ELIGIBILITY LIMIT FOR THE ELDERLY OR
+3 DISABLED PROPERTY TAX HOMESTEAD EXCLUSION FOR MARRIED COUPLES,
+4 TO ELIMINATE THE DEFERRED TAX LIABILITY UNDER THE PROPERTY TAX
+5 HOMESTEAD CIRCUIT BREAKER, TO EXPAND THE PROPERTY TAX
+6 HOMESTEAD CIRCUIT BREAKER BY PROVIDING AN ALTERNATE MEANS TO
+7 QUALIFY BASED ON AREA MEDIAN INCOME, TO APPROPRIATE MONEY TO
+8 THE NORTH CAROLINA ASSOCIATION OF COUNTY COMMISSIONERS TO
+9 ASSIST COUNTIES WITH PROPERTY REAPPRAISALS, AND TO IMPOSE AN
+10 EXCISE TAX ON THE TRANSFER OF CONTROLLING INTERESTS IN ENTITIES
+11 THAT HOLD AN INTEREST IN REAL PROPERTY.
+12 The General Assembly of North Carolina enacts:
+13 SECTION 1.(a) G.S. 105-277.1 is amended by adding a new subsection to read:
+14 "(a3) Spousal Income Limitation. – Married applicants residing with their spouses may
+15 qualify for the property tax homestead exclusion provided in this section if their income does not
+16 exceed one hundred fifteen percent (115%) of the income eligibility limit determined under
+17 subsection (a2) of this section."
+18 SECTION 1.(b) G.S. 105-277.1B reads as rewritten:
+19 "§ 105-277.1B. Property tax homestead circuit breaker.
+20 (a) Classification. – A permanent residence owned and occupied by a qualifying owner
+21 is designated a special class of property under Article V, Section 2(2) of the North Carolina
+22 Constitution and is taxable in accordance with this section.
+23 (b) Definitions. – The definitions provided in G.S. 105-277.1 apply to this section.
+24 (c) Income Eligibility Limit. – The income eligibility limit provided in
+25 G.S. 105-277.1(a2) applies to this section.
+26 (c1) AMI Limit. – Seventy percent (70%) of the area median income for a household of
+27 two persons in the county in which the property is located, as determined by the most recent
+28 figure reported by the United States Department of Housing and Urban Development as of
+29 January 1 preceding the taxable year for which the benefit is claimed.
+30 (d) Qualifying Owner. – For the purpose of qualifying for the property tax homestead
+31 circuit breaker under this section, a qualifying owner is an owner who meets all of the following
+32 requirements as of January 1 preceding the taxable year for which the benefit is claimed:
+33 (1) The owner has an income for the preceding calendar year of not more than
+34 one hundred fifty percent (150%) of the income eligibility limit specified
+*H1181-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 maximum amount authorized in subsection (c) subsection (f) or (f1) of this
+2 section.section, as applicable.
+3 (2) The owner has owned and occupied the property as a permanent residence for
+4 at least five consecutive years and has occupied the property as a permanent
+5 residence for at least five years.the required amount of time under subsection
+6 (f) or (f1) of this section, as applicable.
+7 (3) The owner is at least 65 years of age or totally and permanently disabled.
+8 (4) The owner is a North Carolina resident.
+9 (e) Multiple Owners. – A permanent residence owned and occupied by husband and wife
+10 is entitled to the full benefit of the property tax homestead circuit breaker notwithstanding that
+11 only one of them meets the length of occupancy and ownership requirements and the age or
+12 disability requirement of this section. When a permanent residence is owned and occupied by
+13 two or more persons other than husband and wife, no property tax homestead circuit breaker is
+14 allowed unless all of the owners qualify and elect to defer taxes under this section.qualify.
+15 (f) General Tax Limitation. – A qualifying owner may defer that has owned the property
+16 as a permanent residence for at least five consecutive years and has occupied the property as a
+17 permanent residence for at least five years is relieved of the portion of the principal amount of
+18 tax that is imposed for the current tax year on his or her permanent residence and exceeds the
+19 percentage of the qualifying owner's income set out in the table in this subsection. If a permanent
+20 residence is subject to tax by more than one taxing unit and the total tax liability exceeds the tax
+21 limit imposed by this section, then both the taxes due under this section and the taxes deferred
+22 under this section must be apportioned among the taxing units based upon the ratio each taxing
+23 unit's tax rate bears to the total tax rate of all units.
+24 Income Over Income Up To Percentage
+25 -0- Income Eligibility Limit 4.0%
+26 Income Eligibility Limit 150% of Income Eligibility Limit 5.0%
+27 (f1) Alternate Tax Limitation. – A qualifying owner that has owned the property as a
+28 permanent residence for at least 10 consecutive years and has occupied the property as a
+29 permanent residence for at least 10 years is relieved of the portion of the principal amount of tax
+30 that is imposed for the current tax year on his or her permanent residence and exceeds the
+31 percentage of the qualifying owner's income set out in the table in this subsection. If a permanent
+32 residence is subject to tax by more than one taxing unit and the total tax liability exceeds the tax
+33 limit imposed by this section, then the taxes due under this section must be apportioned among
+34 the taxing units based upon the ratio each taxing unit's tax rate bears to the total tax rate of all
+35 units. If the AMI Limit is less than or equal to one hundred fifty percent (150%) of the Income
+36 Eligibility Limit, a qualifying owner shall receive the benefit under subsection (f) of this section.
+37 Income Over Income Up To Percentage
+38 150% of Income Eligibility Limit AMI Limit 6.0%
+39 (g) Temporary Absence. – An otherwise qualifying owner does not lose the benefit of
+40 this circuit breaker because of a temporary absence from his or her permanent residence for
+41 reasons of health, or because of an extended absence while confined to a rest home or nursing
+42 home, so long as the residence is unoccupied or occupied by the owner's spouse or other
+43 dependent.
+44 (h) Deferred Taxes. – The difference between the taxes due under this section and the
+45 taxes that would have been payable in the absence of this section are a lien on the real property
+46 of the taxpayer as provided in G.S. 105-355(a). The difference in taxes must be carried forward
+47 in the records of each taxing unit as deferred taxes. The deferred taxes for the preceding three
+48 fiscal years are due and payable in accordance with G.S. 105-277.1F when the property loses its
+49 eligibility for deferral as a result of a disqualifying event described in subsection (i) of this
+50 section. On or before September 1 of each year, the collector must send to the mailing address of
+Page 2 House Bill 1181-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 a residence on which taxes have been deferred a notice stating the amount of deferred taxes and
+2 interest that would be due and payable upon the occurrence of a disqualifying event.
+3 (i) Disqualifying Events. – A property receiving the benefit under this section loses its
+4 eligibility for the benefit as a result of a disqualifying event. The tax for the fiscal year that begins
+5 in the calendar year in which the disqualifying event occurs is computed as if the property had
+6 not been classified for the property tax benefit under this section for that year. Each of the
+7 following constitutes a disqualifying event:
+8 (1) The owner transfers the residence. Transfer of the residence is not a
+9 disqualifying event if (i) the owner transfers the residence to a co-owner of
+10 the residence or, as part of a divorce proceeding, to his or her spouse and (ii)
+11 that individual occupies or continues to occupy the property as his or her
+12 permanent residence.
+13 (2) The owner dies. Death of the owner is not a disqualifying event if (i) the
+14 owner's share passes to a co-owner of the residence or to his or her spouse and
+15 (ii) that individual occupies or continues to occupy the property as his or her
+16 permanent residence.
+17 (3) The owner ceases to use the property as a permanent residence.
+18 (j) Gap in Deferral. – If an owner of a residence on which taxes have been deferred under
+19 this section is not eligible for continued deferral for a tax year, the deferred taxes are carried
+20 forward and are not due and payable until a disqualifying event occurs. If the owner of the
+21 residence qualifies for deferral after one or more years in which he or she did not qualify for
+22 deferral and a disqualifying event occurs, the years in which the owner did not qualify are
+23 disregarded in determining the preceding three years for which the deferred taxes are due and
+24 payable.
+25 (k) Repealed by Session Laws 2008-35, s. 1.2, effective July 1, 2008.
+26 (l) Creditor Limitations. – A mortgagee or trustee that elects to pay any tax deferred by
+27 the owner of a residence subject to a mortgage or deed of trust does not acquire a right to foreclose
+28 as a result of the election. Except for requirements dictated by federal law or regulation, any
+29 provision in a mortgage, deed of trust, or other agreement that prohibits the owner from deferring
+30 taxes on property under this section is void.
+31 (m) Construction. – This section does not affect the attachment of a lien for personal
+32 property taxes against a tax-deferred residence.
+33 (n) Application. – An application for property tax relief provided by this section should
+34 be filed during the regular listing period, but may be filed and must be accepted at any time up
+35 to and through June 1 preceding the tax year for which the relief is claimed. Persons may apply
+36 for this property tax relief by entering the appropriate information on a form made available by
+37 the assessor under G.S. 105-282.1."
+38 SECTION 1.(c) G.S. 105-282.1(a) is amended by adding a new subdivision to read:
+39 "(3) Triennial application required. – An owner of a property eligible for the
+40 property tax homestead circuit breaker under G.S. 105-277.1B must file an
+41 application for the benefit to receive it. Once the application has been
+42 approved, the owner is entitled to the benefit for the current tax year and the
+43 two subsequent tax years thereafter unless the property loses its eligibility for
+44 the benefit as a result of a disqualifying event under G.S. 105-277.1B(i)."
+45 SECTION 1.(d) G.S. 105-277.1F(a)(2) is repealed.
+46 SECTION 1.(e) G.S. 105-365.1(a)(3) is repealed.
+47 SECTION 1.(f) G.S. 153A-148.1 reads as rewritten:
+48 "§ 153A-148.1. Disclosure of certain information prohibited.
+49 (a) Disclosure Prohibited. – Notwithstanding Chapter 132 of the General Statutes or any
+50 other law regarding access to public records, local tax records that contain information about a
+51 taxpayer's income or receipts are not public records. A current or former officer, employee, or
+House Bill 1181-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 agent of a county who in the course of service to or employment by the county has access to
+2 information about the amount of a taxpayer's income or receipts may not disclose the information
+3 to any other person unless the disclosure is made for one of the following purposes:
+4 …
+5 (6) To include on a property tax receipt the amount of property taxes due and the
+6 amount of property taxes deferred on a residence classified under
+7 G.S. 105-277.1B, the property tax homestead circuit breaker.
+8 …."
+9 SECTION 1.(g) G.S. 160A-208.1 reads as rewritten:
+10 "§ 160A-208.1. Disclosure of certain information prohibited.
+11 (a) Disclosure Prohibited. – Notwithstanding Chapter 132 of the General Statutes or any
+12 other law regarding access to public records, local tax records that contain information about a
+13 taxpayer's income or receipts are not public records. A current or former officer, employee, or
+14 agent of a city who in the course of service to or employment by the city has access to information
+15 about the amount of a taxpayer's income or receipts may not disclose the information to any other
+16 person unless the disclosure is made for one of the following purposes:
+17 …
+18 (4) To include on a property tax receipt the amount of property taxes due and the
+19 amount of property taxes deferred on a residence classified under
+20 G.S. 105-277.1B, the property tax homestead circuit breaker.
+21 …."
+22 SECTION 2. Notwithstanding G.S. 105-380 and G.S. 105-381, the governing body
+23 of a taxing unit shall release the unpaid deferred taxes under G.S. 105-277.1B on any property
+24 for which a disqualifying event has not occurred. Any lien under G.S. 105-355(a) corresponding
+25 to the released deferred taxes is also extinguished.
+26 SECTION 3.(a) There is appropriated from the General Fund to the North Carolina
+27 Association of County Commissioners (Association) the nonrecurring sum of twenty million
+28 dollars ($20,000,000) for the 2026-2027 fiscal year to be used by the Association to provide
+29 grants to local governments for the purpose of transitioning those governments to shortened
+30 reappraisal cycles and thereby ensuring more frequent and accurate property valuations and to
+31 educate the general public on property taxes and property tax relief programs offered by the State.
+32 Grant funds provided under this section shall be used by local governments for (i) technical
+33 assistance, (ii) public education regarding the property tax system and property tax relief
+34 programs, and (iii) one-time capital investments in technological infrastructure that improve local
+35 capacity and efficiency in conducting reappraisals, including the acquisition of specialized
+36 software, data migration, and the implementation of digital systems. In awarding grants under
+37 this section, the Association shall prioritize awarding grants to local governments operating on a
+38 reappraisal cycle of more than four years. For purposes of this section, "local governments"
+39 means counties, cities, or towns conducting reappraisals of property under Subchapter II of
+40 Chapter 105 of the General Statutes as of the effective date of this section.
+41 SECTION 3.(b) This section becomes effective July 1, 2026.
+42 SECTION 4.(a) Subchapter I of Chapter 105 of the General Statutes is amended by
+43 adding a new Article to read:
+44 "Article 8F.
+45 "Excise Tax on Controlling Interest Transfers.
+46 "§ 105-228.40. Purpose and scope.
+47 The tax imposed by this Article is intended to ensure parity in the taxation of real property
+48 transfers, whether such transfer is accomplished by the recordation of a deed or by the transfer
+49 of a controlling interest in an entity that owns an interest in real property in this State.
+50 "§ 105-228.41. Definitions.
+51 The following definitions apply in this Article:
+Page 4 House Bill 1181-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (1) Controlling interest. – Either of the following:
+2 a. In the case of a corporation, either more than fifty percent (50%) of
+3 the total combined voting power of all classes of stock of such
+4 corporation, or more than fifty percent (50%) of the capital, profits, or
+5 beneficial interest in the voting stock of such corporation.
+6 b. In the case of a partnership, association, trust, or other entity, more
+7 than fifty percent (50%) of the capital, profits, or beneficial interest in
+8 such partnership, association, trust, or other entity.
+9 (2) Entity. – A corporation, partnership, association, trust, limited liability
+10 company, or other organization.
+11 (3) Real property interest. – Any interest in real property located in this State.
+12 (4) Value. – The fair market value, including any stated consideration
+13 corresponding to thereto, of the real property interest owned by the entity.
+14 There is a rebuttable presumption that the value is the higher of (i) the total
+15 assessed ad valorem tax value of the property at the time of the transfer or (ii)
+16 the prior purchasing price of the property if the purchase occurred within five
+17 years of the transfer.
+18 "§ 105-228.42. Imposition of excise tax; rate.
+19 (a) Imposition. – An excise tax is levied on the sale or transfer, by one or more persons
+20 or by one or more transactions, within any 36-month period, of a controlling interest in an entity
+21 that possesses, directly or indirectly, a real property interest in the State. This tax applies if the
+22 value of the real property interest exceeds one hundred dollars ($100.00).
+23 (b) Rate. – The tax rate is one dollar ($1.00) on each five hundred dollars ($500.00), or
+24 fractional part thereof, of the value of the real property interest.
+25 "§ 105-228.43. Reporting and payment; duties of Register of Deeds.
+26 (a) Report and Payment. – Every person who acquires a controlling interest in an entity
+27 subject to this Article shall, within 30 days of the transfer, file a return with the Register of Deeds
+28 in each county where the entity holds a real property interest. The tax must be paid at the time
+29 the return is filed.
+30 (b) Recording. – Upon payment of the tax, the Register of Deeds shall record a "Notice
+31 of Controlling Interest Transfer" in the consolidated real property index. This notice shall not be
+32 required to be a deed but shall serve as public notice of the satisfaction of the tax liability under
+33 this Article.
+34 "§ 105-228.44. Exemptions.
+35 The tax imposed by this Article does not apply to the following:
+36 (1) Transfers of an interest in an entity that is traded on a public stock exchange.
+37 (2) Transfers resulting from death, whether by will or statutory succession.
+38 (3) Transfers between spouses.
+39 (4) Transfers that are exempt under G.S. 105-228.29 except transfers by "merger"
+40 under subdivision (7) of that section.
+41 "§ 105-228.45. Penalties.
+42 (a) Failure to File. – Any person required to file a return under this Article who fails to
+43 do so within the time required shall be subject to a penalty equal to twenty-five percent (25%) of
+44 the tax due.
+45 (b) Fraud. – Any person who willfully provides false information regarding the value of
+46 the property or the percentage of interest transferred is guilty of a Class 1 misdemeanor."
+47 SECTION 4.(b) This section becomes effective January 1, 2027, and applies to
+48 transfers occurring on or after that date.
+49 SECTION 5. Section 1 of this act is effective for taxable years beginning on or after
+50 July 1, 2027. Section 3 of this act becomes effective July 1, 2026. Except as otherwise provided,
+51 the remainder of this act becomes effective July 1, 2027.
+House Bill 1181-First Edition Page 5

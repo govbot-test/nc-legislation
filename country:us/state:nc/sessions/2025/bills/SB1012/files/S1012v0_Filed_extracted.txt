@@ -1,0 +1,94 @@
+Title: 
+Official Title: 
+Source: versions - Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+FILED SENATE
+Apr 30, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 1012
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS15435-NHa-218
+Short Title: Ban Online For-Profit Charters. (Public)
+Sponsors: Senators Chitlik and Applewhite (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROHIBIT THE USE OF FOR-PROFIT CHARTER MANAGEMENT
+3 COMPANIES, TO REQUIRE STUDENTS THAT ATTEND REMOTE CHARTER
+4 ACADEMIES TO COMPLETE STATE-MANDATED ASSESSMENTS IN-PERSON IN
+5 THE PRESENCE OF A SOCIAL WORKER, TO LIMIT REMOTE CHARTER
+6 ACADEMY CHARTER RENEWAL TERMS TO ONE YEAR, TO REQUIRE YEARLY
+7 FINANCIAL AUDITS OF REMOTE CHARTER ACADEMIES, AND TO PROHIBIT
+8 THE RENEWAL OF A CHARTER FOR LOW-PERFORMING REMOTE CHARTER
+9 ACADEMIES.
+10 The General Assembly of North Carolina enacts:
+11 SECTION 1.(a) Part 2 of Article 14A of Chapter 115C of the General Statutes is
+12 amended by adding a new section to read:
+13 "§ 115C-218.92. Nonprofit management organizations.
+14 A charter school shall not be managed by or obtain services from for-profit education
+15 management organizations or charter management organizations. Charter schools may be
+16 managed by or obtain services from nonprofit education management organizations or charter
+17 management organizations."
+18 SECTION 1.(b) G.S. 115C-218.122(c) reads as rewritten:
+19 "(c) A remote charter academy may shall require students to attend in person to fulfill
+20 State-mandated student assessments.assessments in accordance with G.S. 115C-174.17.
+21 (c1) A remote charter academy may conduct optional in-person meetings between students
+22 and instructors or parents and instructors at a charter school facility."
+23 SECTION 1.(c) Part 2 of Article 10A of Chapter 115C of the General Statutes is
+24 amended by adding a new section to read:
+25 "§ 115C-174.17. In-person testing for remote charter students.
+26 The Department of Public Instruction shall develop an in-person testing program to enable
+27 all students that attend a fully remote charter school to complete all State-mandated assessments
+28 in person. As part of the assessment program for remote charter students, the Department shall:
+29 (1) Establish at least 10 regional testing centers, spread across the State to ensure
+30 all students can report for assessments with minimal travel burdens.
+31 (2) Contract for personnel to administer and proctor the assessments. Contract
+32 administrators and proctors may be other public school unit employees but
+33 shall not be employees of the remote charter school that the students being
+34 assessed attend.
+*DRS15435-NHa-218*
+
+General Assembly Of North Carolina Session 2025
+1 (3) Hire or contract for a minimum of one social worker to be present at every
+2 assessment. Students shall be informed of the availability of social workers at
+3 the assessments."
+4 SECTION 1.(d) G.S. 115C-218.123(b) reads as rewritten:
+5 "(b) The Review Board shall review and approve a charter or charter modification for the
+6 creation of a remote charter academy that meets the requirements established in this Part for a
+7 term of five years. one year. The Review Board shall approve a minimum of two statewide remote
+8 charter academies that meet the qualifications of this Part for operation beginning with the
+9 2026-2027 school year and thereafter."
+10 SECTION 1.(e) G.S. 115C-218.124 reads as rewritten:
+11 "§ 115C-218.124. Operation and renewal of remote charter academies.
+12 …
+13 (b) Each approved remote charter academy shall receive a school code. A nonprofit that
+14 has a school code for in-person instruction in addition to a school code for a remote charter
+15 academy may provide all financial reporting for both school codes jointly in a form directed by
+16 the Department of Public Instruction.shall provide separate financial reports for each school
+17 code. As a condition of renewal, a remote charter academy shall submit with its renewal
+18 application a financial audit for the previous year.
+19 (c) A nonprofit may apply for renewal of the remote charter academy for additional terms
+20 of five years. one year. The Review Board shall consider compliance with the requirements of
+21 this Part and success of the remote charter academy in the prior five years in determining whether
+22 to approve a request for renewal of a remote charter academy.
+23 (d) A remote charter academy that is identified as low-performing is not eligible for
+24 charter renewal."
+25 SECTION 2.(a) There is appropriated from the General Fund to the Department of
+26 Public Instruction the sum of one hundred thousand dollars ($100,000) in recurring funds
+27 beginning with the 2026-2027 fiscal year for the Department to hire one or more
+28 High-Performing Placement Coaches. The purpose of the High-Performing Placement Coaches
+29 shall be to counsel and guide families through school transition when a student is attending a
+30 remote charter academy that is not renewed as a result of being low-performing.
+31 SECTION 2.(b) There is appropriated from the General Fund to the Department of
+32 Public Instruction the sum of sixty-two thousand dollars ($62,000) in recurring funds beginning
+33 with the 2026-2027 fiscal year for the Department to establish the in-person assessment program
+34 as required under G.S. 15C-174.17, as enacted by this act.
+35 SECTION 3. This act becomes effective July 1, 2026. Section 1(a) of this act applies
+36 to contracts entered into on or after July 1, 2026. Sections 1(b) through (e) of this act apply to
+37 applications for new charters or renewals submitted on or after July 1, 2026.
+Page 2 DRS15435-NHa-218

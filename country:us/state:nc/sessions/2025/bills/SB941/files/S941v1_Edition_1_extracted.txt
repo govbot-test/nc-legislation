@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 941
+Short Title: Exempt Treasurer from DHHS Review. (Public)
+Sponsors: Senator Burgin (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO EXEMPT THE DEPARTMENT OF STATE TREASURER FROM
+3 DEPARTMENT OF HEALTH AND HUMAN SERVICES REVIEW.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1.(a) G.S. 131E-184 is amended by adding a new subsection to read:
+6 "(i) The Department shall exempt from review any new institutional health service
+7 established, developed, or acquired by any entity working in partnership or conjunction with the
+8 Department of State Treasurer."
+9 SECTION 1.(b) There is appropriated from the General Fund to the Department of
+10 State Treasurer the sum of fifty thousand dollars ($50,000) in nonrecurring funds for the
+11 2026-2027 fiscal year to take any actions permitted by the changes implemented in this act.
+12 SECTION 2. This act is effective July 1, 2026.
+*S941-v-1*

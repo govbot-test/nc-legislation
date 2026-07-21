@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1072
+Short Title: Affordable Housing Infrastructure Development. (Public)
+Sponsors: Representatives Bell, Reives, Humphrey, and Cunningham (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Housing and Development, if favorable, Appropriations, if favorable, Rules,
+Calendar, and Operations of the House
+April 29, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO CREATE THE AFFORDABLE HOUSING INFRASTRUCTURE
+3 DEVELOPMENT LOAN PROGRAM TO PROVIDE BELOW-MARKET INTEREST
+4 RATE LOANS FOR THE PURPOSE OF DEVELOPING AND IMPROVING SITES TO
+5 BE USED FOR AFFORDABLE HOUSING.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. Chapter 122A of the General Statutes is amended by adding a new
+8 section to read:
+9 "§ 122A-5.16. Affordable Housing Infrastructure Development Loan Program.
+10 (a) The North Carolina Housing Finance Agency (the "Agency") shall establish and
+11 administer the Affordable Housing Infrastructure Development Loan Program for the purpose of
+12 making revolving below-market interest rate loans to eligible borrowers for the purpose of
+13 developing and improving sites to be used for affordable housing for persons and families of low
+14 and moderate income. The Agency shall do all of the following:
+15 (1) Develop and administer the Affordable Housing Infrastructure Development
+16 Loan Fund (Fund). The Fund shall operate as a revolving fund.
+17 (2) Develop and administer a competitive application process by which eligible
+18 borrowers may apply for assistance in the form of loans from the Fund.
+19 (3) Make loans from the Fund secured by liens on real property located in North
+20 Carolina to eligible borrowers.
+21 (b) The following definitions apply in this section:
+22 (1) Affordable housing. – Residential housing that is deemed by the Agency to be
+23 affordable to persons and families of low and moderate income.
+24 (2) Area median income. – The annual median household income of an area
+25 determined by the U.S. Department of Housing and Urban Development.
+26 (3) Below-market interest rate. – Interest rate that is below the market value at the
+27 time of establishment and is established and published annually, fixed at
+28 closing.
+29 (4) Eligible borrower. – A tax-exempt nonprofit 501(c)(3) organization that the
+30 Agency determines to meet all of the following requirements:
+31 a. Borrower develops affordable housing using sweat equity of the home
+32 buyer(s), volunteer labor, and donated materials, services, and funds.
+33 b. Borrower must have at least one year of experience providing homes
+34 for sale to low- and moderate-income households in their service area.
+*H1072-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 c. Borrower must not have any unresolved audit or monitoring findings
+2 or legal proceedings.
+3 d. Borrower must provide first or second mortgage financing to eligible
+4 home buyers at zero percent (0%).
+5 e. If a borrower is using the requested funds to develop a mixed-income
+6 development, the development must have at least forty percent (40%)
+7 of the units reserved exclusively for persons of low and moderate
+8 income.
+9 (5) Infrastructure costs. – Costs for the development or improvement of sites,
+10 including installation of water, sewer, utility, stormwater, or road
+11 infrastructure, and site clearing and grading.
+12 (6) Persons of low and moderate income. – Persons in households the annual
+13 income of which, adjusted for family size, is not more than eighty percent
+14 (80%) of the local area median family income as defined by the most recent
+15 figures published by the U.S. Department of Housing and Urban
+16 Development.
+17 (7) Predevelopment costs. – Costs for development or improvement of sites that
+18 include, but are not limited to, permit fees, land surveys, environmental due
+19 diligence and soil testing, and engineering and site planning.
+20 (c) Permitted Uses. – Funds loaned to eligible borrowers under this section shall be used
+21 only for the following costs incurred for the provision of affordable housing:
+22 (1) Acquisition of land.
+23 (2) Predevelopment costs.
+24 (3) Infrastructure costs.
+25 (d) Prohibited Uses. – Funds loaned to eligible borrowers under this section shall not be
+26 used for the vertical construction of housing units or for the rehabilitation of existing housing
+27 units.
+28 (e) Distribution of Funds. – Funds loaned to eligible borrowers must be directly
+29 administered to the benefit of the persons of low and moderate income in a project and cannot be
+30 placed in the general accounts of the borrower. If the eligible borrower sells or confers land
+31 improved with a loan provided by the Fund to a market rate developer, the land must be sold for
+32 no less than its fair market value or appraised value, whichever is less, as improved, and the
+33 proceeds received from the sale must be applied directly to the project which will directly benefit
+34 persons of low and moderate income.
+35 (f) Rulemaking. – Solely with respect to the adoption of procedures for the program by
+36 which eligible borrowers may apply for assistance, the Agency is exempt from the requirements
+37 of Article 2A of Chapter 150B of the General Statutes. Prior to adoption or amendment of
+38 procedures, the Agency shall:
+39 (1) Publish the proposed procedures in the North Carolina Register at least 30
+40 days prior to the adoption of the final procedures.
+41 (2) Accept oral and written comments on the proposed procedures.
+42 (3) Hold at least one public hearing on the proposed procedures.
+43 (g) As part of the report required under G.S. 122A-16, the Agency shall report on the
+44 number of loans made under this section, the amount of each loan, and whether the development
+45 or improvement of real property for affordable housing under this section is located in a low-,
+46 moderate-, or high-income county, as designated by the Agency."
+47 SECTION 2. There is appropriated from the General Fund to the North Carolina
+48 Housing Finance Agency the sum of fifty million dollars ($50,000,000) in nonrecurring funds
+49 for the 2026-2027 fiscal year to be used for the Affordable Housing Infrastructure Development
+50 Loan Program and Fund as established in Section 1 of this act.
+51 SECTION 3. This act becomes effective July 1, 2026.
+Page 2 House Bill 1072-First Edition

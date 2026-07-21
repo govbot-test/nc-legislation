@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1212
+Short Title: HOA Accessory Limitation Ban. (Public)
+Sponsors: Representatives Liu and Johnson-Hostler (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+May 5, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO BAN HOMEOWNERS' ASSOCIATIONS FROM REGULATING GARDENS,
+3 ACCESSORY DWELLING UNITS, AND SOLAR PANELS AND TO BAN UNIT
+4 OWNERS' ASSOCIATIONS FROM REGULATING SOLAR PANELS.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 47C-3-102 reads as rewritten:
+7 "§ 47C-3-102. Powers of unit owners' association.
+8 …
+9 (c) Notwithstanding subsection (a), the association may not impose limitations on unit
+10 owners' ability to install, maintain, and use solar panels as a power source."
+11 SECTION 2. G.S. 47F-3-102 reads as rewritten:
+12 "§ 47F-3-102. Powers of owners' association.
+13 (a) Unless the articles of incorporation or the declaration expressly provides to the
+14 contrary, the association may do all of the following:
+15 …
+16 (b) Notwithstanding subsection (a), the association may not impose limitations on lot
+17 owners' ability to install, maintain, and use the following:
+18 (1) Solar panels as a power source.
+19 (2) Edible or pollinator gardens located within a lot owners' boundaries.
+20 (3) Accessory dwelling units that meet applicable building and environmental
+21 codes that are also allowed by zoning restrictions."
+22 SECTION 3. There is appropriated from the General Fund to the Department of
+23 Justice the sum of one hundred thousand dollars ($100,000) in nonrecurring funds for the
+24 2026-2027 fiscal year for education on these provisions.
+25 SECTION 4. This act is effective when it becomes law.
+*H1212-v-1*

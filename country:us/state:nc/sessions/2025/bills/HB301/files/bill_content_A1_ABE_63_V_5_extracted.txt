@@ -1,0 +1,80 @@
+Title: 
+Official Title: 
+Source: versions - A1: ABE-63-V-5
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AADDOOPPTTEEDD
+NORTH CAROLINA GENERAL ASSEMBLY
+AMENDMENT
+House Bill 301
+AAAA111
+AMENDMENT NO. __________
+(to be filled in by
+H301-ABE-63 [v.5] Principal Clerk)
+Page 1 of 2
+Amends Title [NO] Date ,2026
+Fifth Edition
+Senator Overcash
+1 moves to amend the bill on page 2, lines 36-38, by rewriting the lines to read:
+2
+3 "2. Is not owned or controlled by an entity formed in a foreign
+4 country or by a government of a foreign country, unless the
+5 entity meets at least one of the following criteria:
+6 I. The entity has received a determination from the
+7 Committee of Foreign Investment in the United States
+8 (CFIUS) that there are no unresolved national security
+9 concerns with respect to the entity in connection to a
+10 matter submitted to CFIUS and which CFIUS
+11 concluded all action pursuant to Section 721 of the
+12 Defense Production Act of 1950, as amended.
+13 II. The entity has a national security agreement with
+14 CFIUS and maintains the validity of the national
+15 security agreement.
+16 III. The entity is a United States domiciled subsidiary of an
+17 entity that meets the criteria of sub-sub-subdivisions I.
+18 or II. of this sub-sub-subdivision.";
+19
+20 on page 3, lines 32-33, by rewriting the lines to read:
+21
+22 "(1) Terminate an account held by an account holder who is 14 or 15 years of age
+23 and who does not have a parent or guardian's consent after providing the
+24 account holder 30 days to dispute the termination.";
+25
+26 on page 5, lines 37-41, by rewriting the lines to read:
+27
+28 "(c) An internet service provider or its affiliates or subsidiaries, a search engine, a cloud
+29 service provider, a connected-device manufacturer or seller, or an operating-system developer or
+30 provider, does not violate this Chapter solely for manufacturing, selling, configuring, preloading,
+31 updating, securing, or providing access or connection to or from an addictive social media
+32 platform not under the provider's control, including transmission, downloading, intermediate
+*H301-ABE-63-v-5*
+
+NORTH CAROLINA GENERAL ASSEMBLY
+AMENDMENT
+AADDOOPPTTEEDD
+House Bill 301
+AAAA111
+AMENDMENT NO. __________
+(to be filled in by
+H301-ABE-63 [v.5] Principal Clerk)
+Page 2 of 2
+1 storage, or access software, to the extent the provider is not otherwise an addictive social media
+2 platform.";
+3
+4 and on page 5, line 46, by rewriting the line to read:
+5
+6 "SECTION 1.(b) This section becomes effective January 1, 2027, and applies to
+7 causes of action arising on or after that date.".
+8
+9
+SIGNED ______________________________________________
+Amendment Sponsor
+SIGNED ______________________________________________
+Committee Chair if Senate Committee Amendment
+ADOPTED ______________ FAILED ________________ TABLED _____________
+TThhee ooffffiicciiaall ccooppyy ooff tthhiiss ddooccuummeenntt,, wwiitthh ssiiggnnaattuurreess
+aanndd vvoottee iinnffoorrmmaattiioonn,, iiss aavvaaiillaabbllee iinn tthhee
+SSeennaattee PPrriinncciippaall CClleerrkk''ss OOffffiiccee

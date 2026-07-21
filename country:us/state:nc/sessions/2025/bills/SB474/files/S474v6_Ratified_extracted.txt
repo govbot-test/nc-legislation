@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Ratified
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+SENATE BILL 474
+RATIFIED BILL
+AN ACT TO ADJUST THE COUNTIES SUBJECT TO THE PROPERTY TAX
+REAPPRAISAL MORATORIUM IN SESSION LAW 2026-8.
+The General Assembly of North Carolina enacts:
+SECTION 1. Section 1 of S.L. 2026-8 reads as rewritten:
+"SECTION 1.(a) 2026 Taxable Year. – Notwithstanding any provision of law to the contrary
+and effective only for the taxable year beginning July 1, 2026, every a county (i) with a population
+of 15,000 or greater according to the latest federal decennial census and (ii) in which a reappraisal
+of real property became effective as of January 1, 2026, shall not use the schedule of values
+adopted by the board of county commissioners in accordance with that reappraisal that became
+effective as of January 1, 2026, but shall instead use the schedule of values adopted in accordance
+with the county's most recent previous reappraisal effective prior to January 1, 2026.
+"SECTION 1.(b) 2027 and Future Taxable Years. – Notwithstanding any provision of law
+to the contrary, effective for the taxable year beginning July 1, 2027, every a county (i) with a
+population of 15,000 or greater according to the latest federal decennial census and (ii) in which
+a reappraisal of real property became effective as of January 1, 2026, shall use the schedule of
+values adopted by the board of county commissioners in accordance with the January 1, 2026,
+reappraisal until the adoption of a new schedule of values pursuant to a future reappraisal by the
+county in accordance with G.S. 105-286 and subsection (c) of this section.
+"SECTION 1.(c) Base Year Calculation. – Every A county to which this section applies
+shall be deemed to have conducted its most recent reappraisal effective January 1, 2027, for
+purposes of calculating the time for its next general reappraisal of real property under
+G.S. 105-286.
+"SECTION 1.(d) Property Tax Appeals. – Notwithstanding any provision of law to the
+contrary, a taxpayer may appeal the listing or appraisal of real property in accordance with
+Subchapter II of Chapter 105 of the General Statutes during the 2026 calendar year for an
+appraisal of real property that became effective as of January 1, 2026. A taxpayer that fails to
+appeal an appraisal of real property subject to this section during the 2026 calendar year may
+appeal the appraisal during the 2027 calendar year as if the appraisal became effective January
+1, 2027 2027, provided that the real property is located in a county with a population of 15,000
+or greater according to the latest federal decennial census. to which this section applies. A county
+shall accept an appeal from a taxpayer subject to this section during the 2027 calendar year,
+provided that the appeal is submitted in timely manner for an appraisal that became effective
+January 1, 2027. Any adjustment made during the appeal process provided for under this section
+is effective for the taxable year beginning July 1, 2027.
+"SECTION 1.(e) Applicability. – This section applies to any county with a reappraisal of
+real property that became effective as of January 1, 2026, unless the county is exempt as follows:
+(1) General exemption. – A county that meets any of the following criteria is not
+subject to this section:
+a. Has a population of less than 12,000 according to the latest federal
+decennial census.
+*S474-v-6*
+
+b. Is in the year designated in G.S. 105-286(a)(2)a. and has a population
+of less than 150,000, according to the latest federal decennial census.
+c. Has levied a property tax rate, exclusive of any special tax area, in
+excess of ninety-five cents (95¢) per one hundred dollars ($100.00) of
+appraised value of property subject to taxation at any point in the prior
+four taxable years.
+(2) Revenue-neutral property tax rate exemption. – A county that meets all of the
+following criteria is not subject to this section:
+a. Is in an affected area, as defined in Section 1.4 of S.L. 2025-2.
+b. Is not otherwise exempt under subdivision (1) of this subsection.
+c. For the taxable year beginning July 1, 2026, adopts a property tax rate
+at or below the rate equal to its revenue-neutral property tax rate
+established under G.S. 159-11(e) rounded up to the next whole cent."
+SECTION 2. The governing body of a unit of local government affected by
+subsection 1(e) of S.L. 2026-8, as amended by Section 1 of this act, after passing its budget
+ordinance for the 2026-2027 fiscal year shall, unless subject to subdivision (2) of that subsection
+in which the governing body may, amend that budget ordinance pursuant to G.S. 159-15 as if,
+after July 1, the local government had received revenues substantially different than the amount
+anticipated.
+SECTION 3. This act is effective when it becomes law.
+In the General Assembly read three times and ratified this the 2nd day of July, 2026.
+s/ Rachel Hunt
+President of the Senate
+s/ Destin Hall
+Speaker of the House of Representatives
+_____________________________________
+Josh Stein
+Governor
+Approved __________.m. this ______________ day of ___________________, 2026
+Page 2 Senate Bill 474-Ratified
