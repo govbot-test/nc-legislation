@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+H.B. 1065
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 27, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH10590-NIf-176
+Short Title: Prepared Foods Sales Tax Modification. (Public)
+Sponsors: Representative Alston.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO EXEMPT CERTAIN PREPARED FOODS FROM THE STATE SALES TAX.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1.(a) G.S. 105-164.4L reads as rewritten:
+5 "§ 105-164.4L. Prepared food.
+6 (a) Prepared Food Definition. – The term "prepared food" means food that meets at least
+7 one of the following conditions:
+8 (1) It is sold in a heated state, or it is heated by the retailer.
+9 (2) It consists of two or more foods mixed or combined by the retailer for sale as
+10 a single item. This does not include:
+11 a. Food containing raw eggs, fish, meat, or poultry that requires cooking
+12 by the consumer as recommended by the Food and Drug
+13 Administration in chapter 3, part 401.11 of its Food Code so as to
+14 prevent foodborne illnesses.
+15 b. Food that is only sliced, repackaged, or pasteurized by the retailer.
+16 c. Food sold without eating utensils by a retailer whose primary business
+17 is food manufacturing as classified in NAICS Sector 311, provided the
+18 food is sold in a sealed, shelf-stable container that includes a "Nutrition
+19 Facts" panel as required by the federal Food, Drug and Cosmetic Act,
+20 21 U.S.C. § 301, et seq.
+21 …."
+22 SECTION 1.(b) G.S. 105-164.13B reads as rewritten:
+23 "§ 105-164.13B. Food exempt from tax.
+24 (a) State Exemption. – Food is exempt from the taxes imposed by this Article unless the
+25 food is included in one of the subdivisions in this subsection. The following food items are
+26 subject to tax:
+27 (1) Repealed by Session Laws 2005-276, s. 33.10, effective October 1, 2005.
+28 (2) Dietary supplements.
+29 (3) Food sold through a vending machine.
+30 (4) Prepared food, other than (i) bakery items sold without eating utensils by an
+31 artisan bakery. bakery and (ii) food excluded from the definition of prepared
+32 food under G.S. 105-164.4L(a)(2)c. The term "bakery item" includes bread,
+33 rolls, buns, biscuits, bagels, croissants, pastries, donuts, danish, cakes, tortes,
+34 pies, tarts, muffins, bars, cookies, and tortillas. An artisan bakery is a bakery
+35 that meets all of the following requirements:
+*DRH10590-NIf-176*
+
+General Assembly Of North Carolina Session 2025
+1 a. It derives over eighty percent (80%) of its gross receipts from bakery
+2 items.
+3 b. Its annual gross receipts, combined with the gross receipts of all
+4 related persons, do not exceed one million eight hundred thousand
+5 dollars ($1,800,000). For purposes of this subdivision, the term
+6 "related person" means a person described in one of the relationships
+7 set forth in section 267(b) or 707(b) of the Code.
+8 (5) Soft drinks.
+9 (6) Repealed by Session Laws 2003-284, s. 45.6B, effective January 1, 2004.
+10 (7) Candy.
+11 …."
+12 SECTION 2. This act becomes effective October 1, 2026, and applies to sales made
+13 on or after that date.
+Page 2 DRH10590-NIf-176

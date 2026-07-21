@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+FILED SENATE
+Apr 21, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 779
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS15380-NLa-128
+Short Title: Medicaid Rebase. (Public)
+Sponsors: Senators Adcock, Blue, and Smith (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ADJUST MEDICAID FUNDING TO ACCOUNT FOR PROJECTED HEALTH
+3 CARE CHANGES.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. There is appropriated from the General Fund to the Department of
+6 Health and Human Services, Division of Health Benefits, the sum of three hundred nineteen
+7 million dollars ($319,000,000) in recurring funds and associated receipts, beginning with each
+8 year of the 2025-2027 fiscal biennium. These funds shall be used for projected changes in
+9 Medicaid enrollment, enrollment mix, service and capitation costs, and federal match rates.
+10 SECTION 2. This act is effective retroactively to July 1, 2025.
+*DRS15380-NLa-128*
