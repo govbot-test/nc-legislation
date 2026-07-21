@@ -1,0 +1,177 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 1051
+Short Title: Don't Zone Out Child Care. (Public)
+Sponsors: Senators Chaudhuri and Burgin (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROTECT THE RIGHTS OF HOMEOWNERS AND TENANTS TO OPERATE
+3 LICENSED FAMILY CHILD CARE HOMES BY LIMITING RESTRICTIONS BY
+4 HOMEOWNERS ASSOCIATIONS, LANDLORDS, AND LOCAL GOVERNMENTS.
+5 Whereas, licensed family child care homes are a vital component of North Carolina's
+6 child care infrastructure, providing care for small groups of children in residential settings and
+7 serving families who depend on accessible, community-based care; and
+8 Whereas, homeowners associations, landlords, and local government zoning
+9 regulations may impose restrictions that prevent qualified individuals who are homeowners or
+10 tenants from opening or operating licensed family child care homes, thereby reducing the
+11 availability of child care; and
+12 Whereas, the State has a compelling interest in expanding child care access, and that
+13 interest is served by ensuring that residential property owners and tenants can operate licensed
+14 family child care homes without unreasonable interference from private covenants or restrictive
+15 local zoning requirements; and
+16 Whereas, licensed family child care homes are consistent with residential use and
+17 shall be treated in zoning law as residential uses of property for purposes of land use regulation;
+18 Now, therefore,
+19 The General Assembly of North Carolina enacts:
+20 SECTION 1. Chapter 110 of the General Statutes is amended by adding a new
+21 Article to read:
+22 "Article 7A.
+23 "Protection of Family Child Care Home Operations.
+24 "§ 110-107.25. Definitions.
+25 The following definitions apply in this Article:
+26 (1) Family child care home. – The same meaning as set forth in G.S. 110-86(3)b.,
+27 limited to facilities licensed under G.S. 110-88.
+28 (2) HOA governing document. – Any declaration, covenant, condition,
+29 restriction, bylaw, rule, or regulation of a homeowners association,
+30 condominium association, planned community, or similar entity that governs
+31 the use of residential property.
+32 (3) Landlord. – The same meaning as set forth in G.S. 42-40(3).
+33 (4) Licensed operator – Any person holding a valid license to operate a family
+34 child care home issued by the Secretary pursuant to G.S. 110-88, whether the
+35 person is a homeowner or a tenant residing at the licensed premises.
+36 "§ 110-107.26. HOA restrictions prohibited.
+*S1051-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (a) Any provision of an HOA governing document that prohibits, restricts, conditions, or
+2 penalizes the operation of a licensed family child care home by a member or resident who holds
+3 a valid license issued pursuant to G.S. 110-88 is void and unenforceable as contrary to the public
+4 policy of this State.
+5 (b) A homeowners association or condominium association shall not do any of the
+6 following:
+7 (1) Deny, suspend, revoke, or condition membership rights or community
+8 privileges solely on account of a member's operation of a licensed family child
+9 care home.
+10 (2) Impose fees, assessments, fines, or penalties on a member solely on account
+11 of the member's operation of a licensed family child care home.
+12 (3) Require approval or consent of the association as a condition of operating a
+13 licensed family child care home.
+14 (c) Nothing in this section prohibits an association from enforcing rules of general
+15 applicability relating to parking, noise, exterior modifications, or use of common areas to the
+16 extent such rules do not impose requirements more burdensome on licensed family child care
+17 homes than on other residential uses.
+18 "§ 110-107.27. Landlord restrictions prohibited.
+19 (a) A landlord shall not include in any lease, rental agreement, or tenancy arrangement a
+20 provision that prohibits, restricts, or penalizes a tenant from operating a licensed family child
+21 care home at the leased premises.
+22 (b) Any lease provision in violation of subsection (a) of this section is void and
+23 unenforceable as against public policy.
+24 (c) A landlord shall not terminate a tenancy, refuse to renew a lease, or take any adverse
+25 action against a tenant solely because the tenant operates or intends to operate a licensed family
+26 child care home.
+27 (d) A tenant operating a licensed family child care home remains responsible for
+28 compliance with all other applicable lease terms, including obligations regarding maintenance of
+29 the premises, liability, and insurance, and shall carry liability insurance in amounts sufficient to
+30 cover the operation of the child care home.
+31 (e) A landlord may require a tenant to do the following:
+32 (1) Provide written notice of the intent to operate a licensed family child care
+33 home.
+34 (2) Provide a copy of any license issued pursuant to G.S. 110-88.
+35 (3) Require the tenant to maintain adequate liability insurance coverage.
+36 "§ 110-107.28. Local government zoning; limitations.
+37 (a) For purposes of local land use and zoning regulation, a licensed family child care
+38 home shall be deemed a residential use of property and shall be permitted as a matter of right in
+39 any zoning district in which single-family or multi-family residential uses are permitted,
+40 including residential zones, mixed-use zones, or any other district that allows residential
+41 dwellings.
+42 (b) A local government shall not adopt or enforce any zoning ordinance, development
+43 regulation, or land use restriction that does any of the following:
+44 (1) Subjects a licensed family child care home to requirements, conditions, or
+45 standards more burdensome than those applicable to other single-family or
+46 multi-family residential dwellings in the same zoning district.
+47 (2) Imposes special use permit requirements, conditional use permit
+48 requirements, or other discretionary approval processes applicable to licensed
+49 family child care homes but not to other residential uses.
+50 (3) Limits the number of licensed family child care homes permitted within a
+51 zoning district based solely on the child care use.
+Page 2 Senate Bill 1051-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (4) Requires a licensed family child care home to comply with commercial or
+2 institutional zoning standards, including but not limited to commercial
+3 parking minimums, commercial signage requirements, or non-residential
+4 setback requirements.
+5 (c) A local government may impose on a licensed family child care home only those
+6 development standards that would apply to the residential use of the property generally, including
+7 applicable building codes, fire codes, and health and sanitation requirements.
+8 (d) Nothing in this section shall be construed to preempt or limit the application of
+9 standards adopted by the Child Care Commission or the Department of Health and Human
+10 Services governing the health, safety, and physical environment of licensed child care facilities.
+11 "§ 110-107.29. Remedies.
+12 (a) Any licensed operator whose rights under this Article are violated may bring a civil
+13 action in superior court for any of the following:
+14 (1) Declaratory and injunctive relief.
+15 (2) Actual damages.
+16 (3) Reasonable attorney's fees and costs if the licensed operator is the prevailing
+17 party.
+18 (b) The Attorney General may bring an action on behalf of the State to enforce the
+19 provisions of this Article.
+20 "§ 110-107.30. Application.
+21 This Article applies to all HOA governing documents, lease agreements, and local zoning
+22 ordinances adopted before, on, or after the effective date of this act. Any provision of a governing
+23 document, lease, or ordinance that conflicts with this Article is void and unenforceable to the
+24 extent of the conflict."
+25 SECTION 2. Article 3 of Chapter 47F is amended by adding a new section to read:
+26 "§ 47F-3-123. Operation of a licensed family child care home.
+27 A homeowners association shall not prohibit, restrict, or penalize the operation of a licensed
+28 family child care home, as defined in G.S. 110-86(3)b., by a lot owner or tenant who holds a
+29 valid license issued pursuant to G.S. 110-88. Any provision of a declaration, covenant, bylaw, or
+30 rule of the association to the contrary is void and unenforceable. This subsection shall not be
+31 construed to prevent the association from enforcing rules of general applicability as provided in
+32 G.S. 110-107.26(c)."
+33 SECTION 3. Nothing in this act is intended to abrogate reasonable health, safety,
+34 building code, or fire code requirements applicable to child care facilities.
+35 SECTION 4.(a) There is appropriated from the General Fund to the Department of
+36 Health and Human Services, Division of Child Development and Early Education (Division), the
+37 sum of seventy-five thousand dollars ($75,000) in nonrecurring funds for the 2025-2026 fiscal
+38 year to be used as follows:
+39 (1) Develop and disseminate plain-language guidance for licensed family child
+40 care home operators regarding their rights under Article 7A of Chapter 110 of
+41 the General Statutes, as enacted by Section 1 of this act.
+42 (2) Create model response templates and informational materials for use by
+43 licensed operators in disputes with homeowners associations, landlords, and
+44 local governments.
+45 (3) Update the Department of Health and Human Services' public website,
+46 licensing portal, and printed materials to inform current and prospective
+47 licensees of the protections established by this act.
+48 SECTION 4.(b) There is appropriated from the General Fund to the Department of
+49 Justice, Office of the Attorney General, the sum of one hundred thousand dollars ($100,000) in
+50 nonrecurring funds for the 2025-2026 fiscal year to do each of the following:
+Senate Bill 1051-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (1) Train attorneys and staff within the Consumer Protection Division or other
+2 appropriate division on the enforcement provisions of Article 7A of Chapter
+3 110 of the General Statutes, as enacted by Section 1 of this act.
+4 (2) Establish a complaint intake process for licensed family child care home
+5 operators alleging violations of G.S. 110-107.26, G.S. 110-107.27, or
+6 G.S. 110-107.28, as enacted by Section 1 of this act.
+7 (3) Prepare and publish an annual summary of complaints received and
+8 enforcement actions taken under this act, to be submitted to the Joint
+9 Legislative Oversight Committee on Health and Human Services no later than
+10 October 1 of each year.
+11 SECTION 5. This act is effective when it becomes law and applies to all acts,
+12 ordinances, and agreements entered into on or after that date. For HOA governing documents
+13 and lease agreements existing before the effective date of this act, provisions contrary to this act
+14 are void and unenforceable as of the effective date.
+Page 4 Senate Bill 1051-First Edition

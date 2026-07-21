@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1104
+Short Title: IVC and Public Safety Committee. (Public)
+Sponsors: Representatives Reeder, Blackwell, Miller, and Cotham (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Judiciary 2, if favorable, Rules, Calendar, and Operations of the House
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE NORTH CAROLINA DEPARTMENT OF HEALTH AND
+3 HUMAN SERVICES, THE NORTH CAROLINA DEPARTMENT OF INFORMATION
+4 TECHNOLOGY, AND THE ADMINISTRATIVE OFFICE OF THE COURTS TO STUDY
+5 AND RECOMMEND SYSTEMIC IMPROVEMENTS TO THE INVOLUNTARY
+6 COMMITMENT PROCESS, AS RECOMMENDED BY THE HOUSE SELECT
+7 COMMITTEE ON INVOLUNTARY COMMITMENT AND PUBLIC SAFETY.
+8 The General Assembly of North Carolina enacts:
+9 SECTION 1. The North Carolina Department of Health and Human Services
+10 (DHHS), the North Carolina Department of Information Technology (DIT), and the
+11 Administrative Office of the Courts (AOC) shall study relevant statutes, judicial and clinical
+12 practices, and available technological resources to identify areas for systemic improvement in
+13 the involuntary commitment (IVC) process in the State. This study shall identify existing gaps in
+14 the State's current IVC process and shall provide specific recommendations to address or
+15 eliminate those gaps and ensure that individuals subject to involuntary commitment receive
+16 timely, data-driven, and accessible support. On or before February 1, 2027, DHHS, DIT, and
+17 AOC shall report to the Joint Legislative Committee on Health and Human Services on the results
+18 of the study, which shall include, at a minimum, all of the following:
+19 (1) A comprehensive evaluation of the legal and operational frameworks
+20 governing involuntary commitment in the State to provide formal
+21 recommendations for systemic improvement. This evaluation shall focus on
+22 (i) ensuring that judicial officers receive timely clinical data from examiners
+23 to make informed, legally sound decisions regarding an individual's safety and
+24 treatment needs and (ii) establishing a foundation for more effective legal and
+25 clinical outcomes, including:
+26 a. Parameters for training judges and magistrates on community-based
+27 services, such as Treatment Accountability for Safer Communities
+28 (TASC), "Community Treatment" teams, and Forensic Assertive
+29 Community Treatment (FACT) teams, to bolster treatment compliance
+30 and reduce recidivism.
+31 b. Collaborating with the University of North Carolina School of
+32 Government to develop clinical workflows, transport guidance, and
+33 bench cards that ensure successful referrals across all agencies.
+34 c. The update of electronic examination forms, affidavits, and petitions
+35 to capture consistent, high-quality data statewide.
+*H1104-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 d. Strategies to increase data sharing between DHHS and the E-Courts
+2 system regarding IVC exams and court proceedings, including the
+3 feasibility of a public-facing dashboard.
+4 (2) Any additional information deemed relevant by DHHS, DIT, and AOC to
+5 ensure high-quality data collection and data-driven decision making across the
+6 involuntary commitment system.
+7 SECTION 2. This act is effective when it becomes law.
+Page 2 House Bill 1104-First Edition

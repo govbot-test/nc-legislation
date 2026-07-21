@@ -1,0 +1,1581 @@
+Title: 
+Official Title: 
+Source: versions - Edition 5
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 5
+HOUSE BILL 1104
+Committee Substitute Favorable 6/2/26
+Senate Health Care Committee Substitute Adopted 6/17/26
+Senate Judiciary Committee Substitute Adopted 6/23/26
+Fifth Edition Engrossed 6/30/26
+Short Title: Improve IVC Process and Enhance Public Safety. (Public)
+Sponsors:
+Referred to:
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO IMPROVE THE INVOLUNTARY COMMITMENT PROCESS AND
+3 INCREASE PUBLIC SAFETY AND TO IMPLEMENT AN INPATIENT CAPACITY
+4 RESTORATION PROGRAM.
+5 Whereas, the House Select Committee on Involuntary Commitment and Public Safety
+6 met six times during the 2025 to 2026 biennium, conducted meaningful work and engaged in
+7 productive discussion; and
+8 Whereas, the House Select Committee on Involuntary Commitment and Public Safety
+9 identified several areas needing further study and has made recommendations; Now, therefore,
+10 The General Assembly of North Carolina enacts:
+11
+12 IMPROVE DATA COLLECTION AND FURTHER STUDY
+13 SECTION 1.(a) The North Carolina Collaboratory (Collaboratory) shall study
+14 relevant statutes, judicial and clinical practices, and available technological resources to identify
+15 areas for systemic improvement in the involuntary commitment (IVC) process in the State. This
+16 study shall identify existing gaps in the State's current IVC process and shall provide specific
+17 recommendations to address or eliminate those gaps and ensure that individuals subject to
+18 involuntary commitment receive timely, data-driven, and accessible support. No later than
+19 December 1, 2026, the Collaboratory shall submit a progress report on the study, and no later
+20 than March 1, 2027, the Collaboratory shall submit a final report on the study, to the Joint
+21 Legislative Committee on Health and Human Services on the results of the study, which shall
+22 include, at a minimum, all of the following:
+23 (1) A comprehensive evaluation of the legal and operational frameworks
+24 governing involuntary commitment in the State to provide formal
+25 recommendations for systemic improvement. This evaluation shall focus on
+26 the following:
+27 a. Ensuring that judicial officers receive timely clinical data from
+28 examiners to make informed, legally sound decisions regarding an
+29 individual's safety and treatment needs.
+30 b. Parameters for training judges and magistrates on community-based
+31 services, such as Treatment Accountability for Safer Communities
+32 (TASC), "Community Treatment" teams, and Forensic Assertive
+*H1104-v-5*
+
+General Assembly Of North Carolina Session 2025
+1 Community Treatment (FACT) teams, to bolster treatment compliance
+2 and reduce recidivism.
+3 c. Collaborating with the University of North Carolina School of
+4 Government to develop proposed clinical workflows, transport
+5 guidance, and bench cards that ensure successful referrals across all
+6 agencies.
+7 d. The update of electronic examination forms, affidavits, and petitions
+8 to capture consistent, high-quality data statewide.
+9 e. Strategies to increase data sharing between DHHS and the eCourts
+10 system regarding IVC exams and court proceedings, including the
+11 feasibility of a public-facing dashboard and necessary State statutory
+12 changes.
+13 f. The feasibility and potential benefits of granting law enforcement
+14 access to IVC court records for the purpose of better informing law
+15 enforcement procedures and operations.
+16 (2) Any additional information deemed relevant by the Collaboratory to ensure
+17 high-quality data collection and data-driven decision making across the
+18 involuntary commitment system.
+19 SECTION 1.(b) This section is effective when it becomes law.
+20
+21 PILOT PROGRAM TO USE TELEHEALTH IN JAILS TO COMPLETE IVC FIRST
+22 EXAMINATION
+23 SECTION 2.(a) The North Carolina Sheriffs' Association, Inc. (Sheriffs'
+24 Association) shall create a proposal for the implementation of a pilot program to utilize telehealth
+25 services to conduct first examinations for individuals in custody of county jails. The proposal
+26 shall identify jails willing to participate in the program and determine any State funding needed
+27 to operate the program.
+28 SECTION 2.(b) No later than March 1, 2027, the Sheriffs' Association shall submit
+29 the proposal required by subsection (a) of this section to the Joint Legislative Oversight
+30 Committee on Justice and Public Safety and the Joint Legislative Oversight Committee on Health
+31 and Human Services.
+32
+33 PLAN TO UTILIZE MOBILE CRISIS UNITS TO COMPLETE IVC FIRST
+34 EXAMINATIONS
+35 SECTION 3.(a) The Local Management Entities/Managed Care Organizations
+36 (LME/MCOs) and the Department of Health and Human Services (DHHS) are directed to
+37 develop a plan to use mobile crisis units to enhance the efficiency of the involuntary commitment
+38 process. In developing this plan, the LME/MCOs and DHHS shall consult with relevant
+39 stakeholders. The plan shall include at least all of the following:
+40 (1) The development of a statewide coverage model that uses in-person clinicians
+41 or on-call licensed clinicians in mobile crisis units to complete the first
+42 examination for involuntary commitment.
+43 (2) Recommendations to improve mobile crisis response.
+44 (3) An analysis of the funding necessary to implement the plan, including costs
+45 associated with training and technology.
+46 (4) Any additional information that the LME/MCOs and DHHS deem relevant to
+47 improving mobile crisis units.
+48 SECTION 3.(b) No later than October 1, 2026, the LME/MCOs and DHHS shall
+49 submit a report on the plan as required in subsection (a) of this section to the Joint Legislative
+50 Oversight Committee on Health and Human Services and the Fiscal Research Division.
+51
+Page 2 House Bill 1104-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 INCREASED TRAINING FOR INVOLUNTARY COMMITMENT EXAMINERS
+2 SECTION 4.(a) The Department of Health and Human Services (DHHS) is directed
+3 to evaluate the standardized training program for involuntary commitment examiners for
+4 necessary improvements, and to incorporate additional training into the standardized training
+5 program for providers who conduct first examinations of individuals in custody of county jails.
+6 SECTION 4.(b) No later than December 1, 2026, DHHS shall submit a report on
+7 the standardized training program as required in subsection (a) of this section to the Joint
+8 Legislative Oversight Committee on Health and Human Services and the Fiscal Research
+9 Division.
+10
+11 PLAN TO ADDRESS STAFFING AND BED SHORTAGES IN STATE-OPERATED
+12 FACILITIES
+13 SECTION 5.(a) The Department of Health and Human Services (DHHS) is directed
+14 to develop a plan to address (i) the ongoing shortage of staffed and available behavioral health
+15 beds in State-operated facilities for individuals in crisis, (ii) the staffing deficiencies that limit
+16 the use of existing behavioral health bed capacity, (iii) potential use of non-State-operated entities
+17 or facilities to provide staffing for or leasing to State-operated facilities, and (iv) contracting for
+18 behavioral health beds or staffing as supplementary or alternative to State-operated or staffed
+19 beds. In developing this plan, DHHS shall consult with interested parties. The plan shall include
+20 at least all of the following:
+21 (1) An evaluation of current staffing models, hiring and recruitment practices,
+22 employee retention strategies, and the use of incentive pools.
+23 (2) A review of staffing requirements required by State statute and Joint
+24 Commission standards.
+25 (3) Any grant opportunities and other funding mechanisms to support behavioral
+26 health bed capacity.
+27 (4) An assessment of opportunities to utilize nongovernmental facilities or
+28 entities, whether nonprofit or for-profit.
+29 (5) Any additional information, suggestion, or initiative, DHHS deems relevant
+30 to address staffing shortages and the ongoing shortage of available behavioral
+31 health beds.
+32 SECTION 5.(b) No later than December 1, 2026, DHHS shall submit a report on
+33 the plan as required in subsection (a) of this section to the Joint Legislative Oversight Committee
+34 on Health and Human Services and the Fiscal Research Division.
+35
+36 STUDY LACK OF USE OF OUTPATIENT COMMITMENT
+37 SECTION 6.(a) The North Carolina Collaboratory (Collaboratory) shall conduct a
+38 study on how outpatient commitment may be more effectively used and implemented in the State.
+39 In developing this study, the Collaboratory shall consult with relevant stakeholders. The study
+40 shall include at least all of the following:
+41 (1) A review of State statutes governing outpatient commitment and the
+42 identification of any statutory revisions needed to align the State with best
+43 practices in other states.
+44 (2) An examination of barriers that limit the use or effectiveness of outpatient
+45 commitment, including the availability of outpatient commitment services
+46 statewide.
+47 (3) An assessment of mechanisms currently available to track adherence and
+48 monitor compliance, along with proposed methods to strengthen and enhance
+49 tracking and monitoring processes.
+50 (4) Any additional issues the Collaboratory determines to be relevant to
+51 improving the use and effectiveness of outpatient commitment.
+House Bill 1104-Fifth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 6.(b) No later than December 1, 2026, the Collaboratory shall submit a
+2 progress report on the study as required in subsection (a) of this section to the Joint Legislative
+3 Oversight Committee on Health and Human Services. No later than March 1, 2027, the
+4 Collaboratory shall submit a final report on the study as required in subsection (a) of this section
+5 to the Joint Legislative Oversight Committee on Health and Human Services.
+6
+7 BEHAVIORAL HEALTH STATEWIDE CENTRAL AVAILABILITY NAVIGATOR
+8 UPDATES (BH SCAN)
+9 SECTION 6.5.(a) The Department of Health and Human Services (DHHS), in
+10 consultation with the NC Healthcare Association and the North Carolina Sheriffs' Association,
+11 Inc. (Sheriffs' Association), is directed to study the practicality of granting law enforcement
+12 access to BH SCAN. DHHS shall report to the Joint Legislative Oversight Committee on Health
+13 and Human Services when the study is complete.
+14 SECTION 6.5.(b) DHHS is directed to study the practicality of development and
+15 implementation of real-time data availability within BH SCAN.
+16 SECTION 6.5.(c) DHHS shall study the development of a functionality within BH
+17 SCAN that would allow authorized users to reserve an available behavioral health bed in real
+18 time.
+19 SECTION 6.5.(d) No later than March 1, 2027, DHHS shall submit a report on the
+20 study as required in this section to the Joint Legislative Oversight Committee on Health and
+21 Human Services.
+22
+23 STUDY LEGAL STANDARDS FOR INVOLUNTARY COMMITMENT AND
+24 INCAPACITY TO PROCEED
+25 SECTION 7.(a) The North Carolina Collaboratory (Collaboratory) shall conduct a
+26 comprehensive study of the differing legal standards governing involuntary commitment and
+27 incapacity to proceed to identify statutory revisions that would enhance each system's
+28 effectiveness and advance public safety for all individuals involved. In developing this study, the
+29 Collaboratory shall consult with relevant stakeholders. This study shall include recommendations
+30 for statutory changes to address inconsistent terminology in the governing statutes and clarify
+31 procedures for the transition of individuals between systems.
+32 SECTION 7.(b) No later than December 1, 2026, the Collaboratory shall submit a
+33 progress report on the study as required in subsection (a) of this section to the Joint Legislative
+34 Oversight Committee on Health and Human Services. No later than March 1, 2027, the
+35 Collaboratory shall submit a final report on the study as required in subsection (a) of this section
+36 to the Joint Legislative Oversight Committee on Health and Human Services.
+37
+38 WORKING GROUP TO ADDRESS MENTAL HEALTH AND CRIMINAL JUSTICE
+39 SYSTEMS OPERATING AS A "REVOLVING DOOR"
+40 SECTION 8.(a) The North Carolina Department of Health and Human Services
+41 (DHHS) shall establish a working group composed of representatives from the Administrative
+42 Office of the Courts (AOC), and other stakeholders, to examine the systemic factors contributing
+43 to the prevalent "revolving door" pattern in which individuals cycle repeatedly through arrest,
+44 detention, or involuntary commitment, only to be released back into the community without
+45 sustained stabilization or support. The purpose of the working group is to identify gaps, evaluate
+46 current practices, and recommend strategies to interrupt repeated crises and reduce avoidable
+47 recidivism, in addition to what has previously been examined and reported pursuant to Section
+48 6.1 of S.L. 2025-27.
+49 SECTION 8.(b) Beginning on January 1, 2027, and quarterly thereafter, DHHS shall
+50 report on the findings and recommendations of the working group to the Joint Legislative
+51 Oversight Committee on Health and Human Services and the Fiscal Research Division.
+Page 4 House Bill 1104-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1
+2 STUDY THE PROVISION OF MEDICAL AND BEHAVIORAL HEALTH CARE IN
+3 JAILS
+4 SECTION 9.(a) The North Carolina Collaboratory (Collaboratory) shall study the
+5 provision of medical and behavioral health care delivered in county jails in the State and make
+6 recommendations to improve the health care provided to individuals in custody. The
+7 Collaboratory shall consult with relevant stakeholders, including local partners, the North
+8 Carolina Sheriffs' Association, Inc., and the Department of Health and Human Services. The
+9 study shall include at least all of the following:
+10 (1) A review of intake screening procedures used in county jails for identifying
+11 medical and behavioral health conditions.
+12 (2) An examination of current health care provider arrangements, including
+13 in-house services, contracted services, hybrid models, or other recommended
+14 approaches for delivering care in county jails.
+15 (3) An assessment of policies and practices for responding to behavioral health
+16 crises within jail settings.
+17 (4) An evaluation of existing staffing models for medical and behavioral health
+18 services in county jails.
+19 (5) The development of recommendations for potential expansion of the North
+20 Carolina Safekeeper Program.
+21 (6) Any other information deemed relevant by the Collaboratory to improve the
+22 provision of medical and behavioral health care in jails.
+23 SECTION 9.(b) No later than December 1, 2026, the Collaboratory shall submit a
+24 progress report on the study as required in subsection (a) of this section to the Joint Legislative
+25 Oversight Committee on Health and Human Services. No later than March 1, 2027, the
+26 Collaboratory shall submit a final report on the study as required in subsection (a) of this section
+27 to the Joint Legislative Oversight Committee on Health and Human Services.
+28
+29 THE NORTH CAROLINA COLLABORATORY TO STUDY FEASIBILITY OF THE
+30 CHANGE OF OPERATION OR ADMINISTRATION OF STATE-OPERATED
+31 PSYCHIATRIC HOSPITALS
+32 SECTION 10.(a) The North Carolina Collaboratory (Collaboratory) is directed to
+33 explore the feasibility of improving the provision of services at Broughton Hospital, Central
+34 Regional Hospital, and Cherry Hospital (collectively, the Hospitals). The Collaboratory is
+35 directed to study and offer recommendations about the following:
+36 (1) The feasibility of transferring full operation of the Hospitals from DHHS to
+37 another entity.
+38 (2) The feasibility of transferring certain operations of the Hospitals from DHHS
+39 to another entity.
+40 (3) Any services that another entity could provide to DHHS to assist DHHS in the
+41 provision of services at the Hospitals.
+42 (4) Any other operational or administrative initiatives relating to the provision of
+43 services at the Hospitals.
+44 (5) Reviewing and updating any previous studies or recommendations that may
+45 be relevant or informative.
+46 (6) Any financial impact (savings or additional costs), any impact on patient
+47 outcomes, and any improvement in staffing to result from the implementation
+48 of the recommendations provided according to this section.
+49 SECTION 10.(b) The Department of Health and Human Services shall cooperate
+50 fully with the Collaboratory in providing any data or assistance necessary for the Collaboratory
+51 to complete the research required by subsection (a) of this section.
+House Bill 1104-Fifth Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 10.(c) The Collaboratory shall seek the assistance of the University of
+2 North Carolina Health Care System (UNC Health) in conducting the studies required by
+3 subsection (a) of this section. UNC Health shall offer any assistance requested by the
+4 Collaboratory and shall make recommendations for the Collaboratory to include in the
+5 Collaboratory's reports.
+6 SECTION 10.(d) No later than December 1, 2026, the Collaboratory shall submit a
+7 progress report on the study as required in subsection (a) of this section to the Joint Legislative
+8 Oversight Committee on Health and Human Services. No later than March 1, 2027, the
+9 Collaboratory shall submit a final report on the study as required in subsection (a) of this section
+10 to the Joint Legislative Oversight Committee on Health and Human Services.
+11
+12 MODIFY OUTPATIENT COMMITMENT
+13 SECTION 11.(a) G.S. 122C-261(d) reads as rewritten:
+14 "(d) If the affiant is a commitment examiner, who is filing a petition and affidavit for an
+15 involuntary commitment in a county that has not implemented an electronic filing system
+16 approved by the Director of the Administrative Office of the Courts, all of the following apply:
+17 …
+18 (3) If the commitment examiner recommends outpatient commitment according
+19 to the criteria for outpatient commitment set forth in G.S. 122C-263(d)(1) and
+20 the clerk or magistrate finds probable cause to believe that the respondent
+21 meets the criteria for outpatient commitment, the clerk or magistrate shall
+22 issue an order that a hearing before a district court judge be held to determine
+23 whether the respondent will be involuntarily committed. The commitment
+24 examiner shall contact the LME/MCO that serves the county where the
+25 respondent resides or the LME/MCO that coordinated services for the
+26 respondent to inform the LME/MCO that the respondent has been scheduled
+27 for an appointment with an outpatient treatment physician or center. provider.
+28 The commitment examiner shall provide the respondent with written notice of
+29 any scheduled appointment and the name, address, and telephone number of
+30 the proposed outpatient treatment physician or center.provider.
+31 …."
+32 SECTION 11.(b) G.S. 122C-263 reads as rewritten:
+33 "§ 122C-263. Duties of law enforcement officer; first examination.
+34 …
+35 (d) After the conclusion of the examination the commitment examiner shall make the
+36 following determinations:
+37 (1) If the commitment examiner finds all of the following, the commitment
+38 examiner shall so show on the examination report and shall recommend
+39 outpatient commitment:
+40 a. The respondent has a mental illness.
+41 b. The respondent is reasonably determined to be capable of surviving
+42 safely in the community with available supervision from family,
+43 friends, or others.community, without posing a danger to others, when
+44 engaged in treatment for the respondent's mental illness.
+45 c. Based on the respondent's psychiatric history, the respondent is in need
+46 of treatment in order to prevent further disability or deterioration that
+47 would predictably result in dangerousness as defined by
+48 G.S. 122C-3(11).
+49 d. The respondent's current mental status or the nature of the respondent's
+50 illness limits or negates the respondent's ability to make an informed
+51 decision to seek voluntarily or comply with recommended treatment.
+Page 6 House Bill 1104-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 e. The respondent has a history of declining or nonadherence to
+2 prescribed treatment by a licensed treatment provider and one or more
+3 of the following, occurring within the relevant past:
+4 1. A demonstrated history of prior violent convictions.
+5 2. Repeated violations of a civil protective order.
+6 3. Repeated incarcerations.
+7 4. Repeated involuntary inpatient psychiatric hospitalizations.
+8 f. The respondent is scheduled to be discharged from an inpatient
+9 hospital setting or released from a county jail or state prison. An
+10 individual residing in a noninstitutional setting that meets all other
+11 criteria set forth in sub-subdivisions a. through e. of this subdivision
+12 may be subject to outpatient commitment within the court's discretion.
+13 In addition, the commitment examiner shall show the name, address, and
+14 telephone number of the proposed outpatient treatment physician or center
+15 provider in accordance with subsection (f) of this section. The person
+16 designated in the order to provide transportation shall return the respondent to
+17 the respondent's regular residence or, with the respondent's consent, to the
+18 home of a consenting individual located in the originating county, and the
+19 respondent shall be released from custody.
+20 …
+21 (e) The findings of the commitment examiner and the facts on which they are based shall
+22 be in writing in all cases. The commitment examiner shall send a copy of the findings to the clerk
+23 of superior court by the most reliable and expeditious means. If it cannot be reasonably
+24 anticipated that the clerk will receive the copy within 48 hours of the time that it was signed, the
+25 physician or eligible psychologist shall also communicate his findings to the clerk by telephone.
+26 (f) When outpatient commitment is recommended, the commitment examiner, if
+27 different from the proposed outpatient treatment physician or center, provider, shall contact the
+28 LME/MCO that serves the county where the respondent resides or the LME/MCO that
+29 coordinated services for the respondent to inform the LME/MCO that the respondent is being
+30 recommended for outpatient commitment. The commitment examiner shall give the respondent
+31 a written notice listing the name, address, and telephone number of the proposed outpatient
+32 treatment physician or center.provider.
+33 (g) The commitment examiner, at the completion of the examination, shall provide the
+34 respondent with specific information regarding the next steps that will occur."
+35 SECTION 11.(c) G.S. 122C-265 reads as rewritten:
+36 "§ 122C-265. Outpatient commitment; examination and treatment pending hearing.
+37 (a) If a respondent, who has been recommended for outpatient commitment by [a]
+38 commitment examiner different from the proposed outpatient treatment physician or center, fails
+39 to appear for examination by the proposed outpatient treatment physician or center at the
+40 designated time, the physician or center shall notify the clerk of superior court who shall issue
+41 an order to a law enforcement officer to take the respondent into custody and take him
+42 immediately to the outpatient treatment physician or center for evaluation. The custody order is
+43 valid throughout the State. The law-enforcement officer may wait during the examination and
+44 return the respondent to his home after the examination.
+45 (b) The examining commitment examiner or the proposed outpatient treatment physician
+46 or center provider may prescribe to the respondent reasonable and appropriate medication and
+47 treatment that are consistent with accepted medical standards pending the district court hearing.
+48 (c) In no event may a respondent released on a recommendation that he or she meets the
+49 outpatient commitment criteria be physically forced to take medication or forcibly detained for
+50 treatment pending a district court hearing.
+House Bill 1104-Fifth Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (c1) The outpatient treatment provider shall examine the respondent and develop an initial
+2 outpatient treatment plan. The plan shall include, at a minimum, the specific services to be
+3 provided, including medications as indicated, the recommended frequency of participation in
+4 services, the name of the provider who has agreed to provide the services, the arrangements made
+5 for the initial contact with each service provider, and any other relevant information.
+6 (d) If at any time pending the district court hearing the outpatient treatment physician or
+7 center provider determines that the respondent does not meet the criteria of G.S. 122C-263(d)(1),
+8 the physician shall release the respondent and notify the clerk of court and the proceedings shall
+9 be terminated.
+10 …."
+11 SECTION 11.(d) G.S. 122C-267 reads as rewritten:
+12 "§ 122C-267. Outpatient commitment; district court hearing.
+13 (a) A hearing shall be held in district court within 10 days of the day the respondent is
+14 taken into custody pursuant to G.S. 122C-261(e). Upon its own motion or upon motion of the
+15 proposed outpatient treatment physician or the respondent, the court may grant a continuance of
+16 not more than five days.
+17 (b) The respondent shall be present at the hearing. A subpoena may be issued to compel
+18 the respondent's presence at a hearing. The petitioner and the proposed outpatient treatment
+19 physician or his designee may be present and may provide testimony.
+20 (c) Certified copies of reports and findings of commitment examiners and medical
+21 records of previous and current treatment are admissible in evidence. The initial treatment plan
+22 required by G.S. 122C-265(c1) shall be admitted into evidence and incorporated into any order
+23 for outpatient commitment.
+24 (d) At the hearing to determine the necessity and appropriateness of outpatient
+25 commitment, the respondent need not, but may, be represented by counsel. However, if the court
+26 determines that the legal or factual issues raised are of such complexity that the assistance of
+27 counsel is necessary for an adequate presentation of the merits or that the respondent is unable
+28 to speak for himself, the court may continue the case for not more than five days and order the
+29 appointment of counsel for an indigent respondent. Appointment of counsel shall be in
+30 accordance with rules adopted by the Office of Indigent Defense Services.
+31 (e) Hearings may be held at the area facility in which the respondent is being treated, if
+32 it is located within the judge's district court district as defined in G.S. 7A-133, or in the judge's
+33 chambers. A hearing may not be held in a regular courtroom, over objection of the respondent,
+34 if in the discretion of a judge a more suitable place is available.
+35 (f) The hearing shall be closed to the public unless the respondent requests otherwise.
+36 (g) A copy of all documents admitted into evidence and a transcript of the proceedings
+37 shall be furnished to the respondent on request by the clerk upon the direction of a district court
+38 judge. If the client is indigent, the copies shall be provided at State expense.
+39 (h) To support an outpatient commitment order, the court is required to find by clear,
+40 cogent, and convincing evidence that the respondent meets the criteria specified in
+41 G.S. 122C-263(d)(1). The court shall record the facts which support its findings and shall show
+42 on the order the center or physician outpatient treatment provider who is responsible for the care
+43 and treatment of the respondent as well as the LME/MCO, or an alternative as determined by the
+44 Department, responsible for the management and supervision of the respondent's outpatient
+45 commitment."
+46 SECTION 11.(e) G.S. 122C-271 reads as rewritten:
+47 "§ 122C-271. Disposition.
+48 (a) If a commitment examiner has recommended outpatient commitment and the
+49 respondent has been released pending the district court hearing, the court may make one of the
+50 following dispositions:
+Page 8 House Bill 1104-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (1) If the court finds by clear, cogent, and convincing evidence that the respondent
+2 has a mental illness; that the respondent is capable of surviving safely in the
+3 community with available supervision from family, friends, or others; that
+4 based on respondent's treatment history, the respondent is in need of treatment
+5 in order to prevent further disability or deterioration that would predictably
+6 result in dangerousness as defined in G.S. 122C-3(11); and that the
+7 respondent's current mental status or the nature of the respondent's illness
+8 limits or negates the respondent's ability to make an informed decision to seek
+9 voluntarily or comply with recommended treatment, meets the criteria set
+10 forth in G.S. 122C-263(d)(1), it may order outpatient commitment for a period
+11 not in excess of 90 180 days. The initial treatment plan shall be incorporated
+12 into the court's order. The order shall state that the respondent must comply
+13 with the treatment plan, including any subsequent updates made to the plan
+14 by the outpatient provider in consultation with the patient, family members or
+15 other natural supports with client consent, and any other relevant treatment
+16 providers. The order shall include instructions to the responsible outpatient
+17 treatment provider and the LME/MCO, or an alternative as determined by the
+18 Department, regarding their monitoring and supervision duties under
+19 G.S. 122C-273.
+20 (2) If the court does not find that the respondent meets the criteria of commitment
+21 set out in subdivision (1) of this subsection, the respondent shall be discharged
+22 and the proposed outpatient physician center treatment provider shall be so
+23 notified.
+24 (3) Before ordering any outpatient commitment under this subsection, the court
+25 shall make findings of fact as to the availability of outpatient treatment from
+26 an outpatient treatment physician or center provider that has agreed to accept
+27 the respondent as a client of outpatient treatment services. services, and the
+28 availability and consent to accept the respondent as a client by all providers
+29 of the services listed in the initial treatment plan. The court shall show on the
+30 order the outpatient treatment physician or center provider and the
+31 LME/MCO, or an alternative as determined by the Department, that is to be
+32 responsible for the management and supervision of the respondent's outpatient
+33 commitment. commitment, and provide instructions regarding their duties for
+34 such monitoring and supervision under G.S. 122C-273. If the designated
+35 outpatient treatment physician or center provider will be monitoring and
+36 supervising the respondent's outpatient commitment working pursuant to a
+37 contract for services with an LME/MCO, the court shall show on the order the
+38 identity of the LME/MCO. The clerk of court shall send a copy of the
+39 outpatient commitment order to the designated outpatient treatment physician
+40 or center provider and to the respondent client or the legally responsible
+41 person. The clerk of court shall also send a copy of the order to that
+42 LME/MCO. Copies of outpatient commitment orders sent by the clerk of court
+43 to an outpatient treatment center or physician provider under this section,
+44 including orders sent to an LME/MCO, shall be sent by the most reliable and
+45 expeditious means, within 48 hours of the hearing.
+46 (b) If the respondent has been held in a 24-hour facility pending the district court hearing
+47 pursuant to G.S. 122C-268, the court may make one of the following dispositions:
+48 (1) If the court finds by clear, cogent, and convincing evidence that the respondent
+49 has a mental illness; that the respondent is capable of surviving safely in the
+50 community with available supervision from family, friends, or others; that
+51 based on respondent's psychiatric history, the respondent is in need of
+House Bill 1104-Fifth Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 treatment in order to prevent further disability or deterioration that would
+2 predictably result in dangerousness as defined by G.S. 122C-3(11); and that
+3 the respondent's current mental status or the nature of the respondent's illness
+4 limits or negates the respondent's ability to make an informed decision
+5 voluntarily to seek or comply with recommended treatment, meets the criteria
+6 set forth in G.S. 122C-263(d)(1), it may order outpatient commitment for a
+7 period not in excess of 90 180 days. If the commitment proceedings were
+8 initiated as the result of the respondent's being charged with a violent crime,
+9 including a crime involving an assault with a deadly weapon, and the
+10 respondent was found incapable of proceeding, the commitment order shall so
+11 show. The initial treatment plan required by G.S. 122C-265(c1) shall be
+12 prepared by staff at the 24-hour facility in cooperation with the outpatient
+13 treatment providers who will serve the respondent. The initial treatment plan
+14 shall be admitted into evidence and shall be incorporated into the court's order.
+15 The order shall state that the respondent is required to cooperate and comply
+16 with the treatment plan including any subsequent updates made to the plan by
+17 the outpatient provider in consultation with the patient, family members or
+18 other natural supports with client consent, and any other relevant treatment
+19 providers. The order shall include instructions to the responsible outpatient
+20 treatment provider and the LME/MCO, or an alternative as determined by the
+21 Department, regarding their monitoring and supervision duties under
+22 G.S. 122C-273.
+23 (2) If the court finds by clear, cogent, and convincing evidence that the respondent
+24 has a mental illness and is dangerous to self, as defined in G.S. 122C-3(11)a.,
+25 or others, as defined in G.S. 122C-3(11)b., it may order inpatient commitment
+26 at a 24-hour facility described in G.S. 122C-252 for a period not in excess of
+27 90 days. However, no respondent found to have both an intellectual disability
+28 and a mental illness may be committed to a State, area, or private facility for
+29 individuals with intellectual disabilities. An individual who has a mental
+30 illness and is dangerous to self, as defined in G.S. 122C-3(11)a., or others, as
+31 defined in G.S. 122C-3(11)b., may also be committed to a combination of
+32 inpatient and outpatient commitment at both a 24-hour facility and an
+33 outpatient treatment physician or center provider for a period not in excess of
+34 90 days. 180 days, however the inpatient stay cannot exceed 90 days. If the
+35 commitment proceedings were initiated as the result of the respondent's being
+36 charged with a violent crime, including a crime involving an assault with a
+37 deadly weapon, and the respondent was found incapable of proceeding, the
+38 commitment order shall so show. If the court orders inpatient commitment for
+39 a respondent who is under an outpatient commitment order, the outpatient
+40 commitment is terminated; and the clerk of the superior court of the county
+41 where the district court hearing is held shall send a notice of the inpatient
+42 commitment to the clerk of superior court where the outpatient commitment
+43 was being supervised. The clerk of court shall send a copy of the inpatient
+44 commitment order to the designated inpatient treatment physician or center
+45 and to the respondent client or the legally responsible person. The clerk of
+46 court shall also send a copy of the order to that LME/MCO. Copies of inpatient
+47 commitment orders sent by the clerk of court to an inpatient treatment center
+48 or physician under this section, including orders sent to an LME/MCO, shall
+49 be sent by the most reliable and expeditious means, within 48 hours of the
+50 hearing.
+Page 10 House Bill 1104-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (3) If the court does not find that the respondent meets either of the commitment
+2 criteria set out in subdivisions (1) and (2) of this subsection, the respondent
+3 shall be discharged, and the facility in which the respondent was last a client
+4 shall be so notified.
+5 (4) Before ordering any outpatient commitment, the court shall make findings of
+6 fact as to the availability of outpatient treatment from an outpatient treatment
+7 physician or center provider that has agreed to accept the respondent as a client
+8 of outpatient treatment services. The court shall also show on the order the
+9 outpatient treatment physician or center provider who is to be responsible for
+10 the care of the respondent and the LME/MCO, or an alternative as determined
+11 by the Department, responsible for the management and supervision of the
+12 respondent's outpatient commitment. commitment, and provide instructions
+13 regarding duties for such monitoring and supervision under G.S. 122C-273.
+14 When an outpatient commitment order is issued for a respondent held in a
+15 24-hour facility, the court may order the respondent held at the facility for no
+16 more than 72 hours in order for the facility to notify the designated outpatient
+17 treatment physician or center provider of the treatment needs of the
+18 respondent. The clerk of court in the county where the facility is located shall
+19 send a copy of the outpatient commitment order to the designated outpatient
+20 treatment physician or center provider and to the respondent or the legally
+21 responsible person. If the designated outpatient treatment physician or center
+22 shall be monitoring and supervising the respondent's outpatient commitment
+23 pursuant to a contract for services with an LME/MCO, the clerk of court shall
+24 show on the order the identity of the LME/MCO. The clerk of court shall show
+25 on the order the identity of the LME/MCO, or an alternative as determined by
+26 the Department, responsible for the monitoring and supervising of the
+27 respondent's outpatient commitment and send a copy of the order to the
+28 LME/MCO. Copies of outpatient commitment orders sent by the clerk of court
+29 to an outpatient treatment center or physician provider pursuant to this
+30 subdivision, including orders sent to an LME/MCO, shall be sent by the most
+31 reliable and expeditious means, within 48 hours of the hearing. If the
+32 outpatient commitment will be supervised in a county other than the county
+33 where the commitment originated, the court shall order venue for further court
+34 proceedings to be transferred to the county where the outpatient commitment
+35 will be supervised. Upon an order changing venue, the clerk of superior court
+36 in the county where the commitment originated shall transfer the file to the
+37 clerk of superior court in the county where the outpatient commitment is to be
+38 supervised.
+39 (c) If the respondent was found not guilty by reason of insanity and has been held in a
+40 24-hour facility pending the court hearing held pursuant to G.S. 122C-268.1, the court may make
+41 one of the following dispositions:
+42 (1) If the court finds that the respondent has not proved by a preponderance of the
+43 evidence that the respondent no longer has a mental illness or that the
+44 respondent is no longer dangerous to others, it shall order inpatient treatment
+45 at a 24-hour facility for a period not to exceed 90 days.
+46 (2) If the court finds that the respondent has proven by a preponderance of the
+47 evidence that the respondent no longer has a mental illness or that the
+48 respondent is no longer dangerous to others, the court shall order the
+49 respondent discharged and released."
+50 SECTION 11.(f) G.S. 122C-273 reads as rewritten:
+51 "§ 122C-273. Duties for follow-up on commitment order.
+House Bill 1104-Fifth Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 (a) Unless prohibited by Chapter 90 of the General Statutes, if the commitment order
+2 directs outpatient treatment, the outpatient treatment physician provider may prescribe or
+3 administer, or the center may administer, administer to the respondent reasonable and appropriate
+4 medication and treatment that are consistent with accepted medical standards.
+5 (1) If the respondent fails to comply or clearly refuses to comply with all or part
+6 of the prescribed treatment, treatment plan, the physician, the physician's
+7 designee, or the center outpatient treatment provider shall make all reasonable
+8 effort to solicit the respondent's compliance. These efforts shall be
+9 documented and reported to the LME/MCO, or an alternative as determined
+10 by the Department, responsible for the monitoring and supervising of the
+11 respondent's outpatient commitment. The LME/MCO, or an alternative as
+12 determined by the Department, shall then report to the court with a request for
+13 a supplemental hearing.
+14 (1a) The LME/MCO shall maintain a list of all individuals on outpatient
+15 commitment and ensure the individual's care manager, as applicable, is aware
+16 of the treatment plan. The Department shall have access to the lists of
+17 individuals subject to outpatient commitment orders. The Department shall
+18 keep all information pursuant to this subsection privileged, in accordance with
+19 applicable State law and federal guidelines, and the information shall be
+20 confidential and shall not be a public record under Chapter 132 of the General
+21 Statutes.
+22 (2) If the respondent fails to comply, but does not clearly refuse to comply, with
+23 all or part of the prescribed treatment after reasonable effort to solicit the
+24 respondent's compliance, the physician, the physician's designee, or the center
+25 the outpatient treatment provider or its designee or the LME/MCO, or an
+26 alternative as determined by the Department, responsible for the monitoring
+27 and supervising of the respondent's outpatient commitment may request the
+28 court to order the respondent taken into custody for the purpose of
+29 examination. Upon receipt of this request, the clerk shall issue an order to a
+30 law-enforcement officer to take the respondent into custody and to take him
+31 immediately to the designated outpatient treatment physician or center
+32 provider for examination. The custody order is valid throughout the State. The
+33 law-enforcement officer shall turn the respondent over to the custody of the
+34 physician or center provider who shall conduct the examination and then
+35 release the respondent. The law-enforcement officer may wait during the
+36 examination and return the respondent to his home after the examination. An
+37 examination conducted under this subsection in which a physician or eligible
+38 psychologist determines that the respondent meets the criteria for inpatient
+39 commitment may be substituted for the first examination required by
+40 G.S. 122C-263 if the clerk or magistrate issues a custody order within six
+41 hours after the examination was performed.
+42 (3) In no case may the respondent be physically forced to take medication or
+43 forcibly detained for treatment unless he poses an immediate danger to himself
+44 or others. In such cases inpatient commitment proceedings shall be initiated.
+45 (4) At any time that the outpatient treatment physician or center provider finds
+46 that the respondent no longer meets the criteria set out in G.S. 122C-263(d)(1),
+47 the physician or center provider shall so notify the court and the case shall be
+48 terminated; provided, however, if the respondent was initially committed as a
+49 result of conduct resulting in his being charged with a violent crime, including
+50 a crime involving an assault with a deadly weapon, and the respondent was
+51 found incapable of proceeding, the designated outpatient treatment physician
+Page 12 House Bill 1104-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 or center provider shall notify the clerk that discharge is recommended. The
+2 clerk shall calendar a supplemental hearing as provided in G.S. 122C-274 to
+3 determine whether the respondent meets the criteria for outpatient
+4 commitment.
+5 (5) Any individual who has knowledge that a respondent on outpatient
+6 commitment has become dangerous to himself, as defined by
+7 G.S. 122C-3(11)a., and others, as defined in G.S. 122C-3(11)b., may initiate
+8 a new petition for inpatient commitment as provided in this Part. If the
+9 respondent is committed as an inpatient, the outpatient commitment shall be
+10 terminated and notice sent by the clerk of court in the county where the
+11 respondent is committed as an inpatient to the clerk of court of the county
+12 where the outpatient commitment is being supervised.
+13 (b) If the respondent on outpatient commitment intends to move or moves to another
+14 county within the State, the designated outpatient treatment physician or center LME/MCO shall
+15 request that the clerk of court in the county where the outpatient commitment is being supervised
+16 calendar a supplemental hearing.
+17 (c) If the respondent moves to another state or to an unknown location, the designated
+18 outpatient treatment physician or center provider or the LME/MCO, or an alternative as
+19 determined by the Department, shall notify the clerk of superior court of the county where the
+20 outpatient commitment is supervised and the outpatient commitment shall be terminated.
+21 (d) If the commitment order directs inpatient treatment, the physician attending the
+22 respondent may administer to the respondent reasonable and appropriate medication and
+23 treatment that are consistent with accepted medical standards. The attending physician shall
+24 release or discharge the respondent in accordance with G.S. 122C-277."
+25 SECTION 11.(g) G.S. 122C-274 reads as rewritten:
+26 "§ 122C-274. Supplemental hearings.
+27 (a) Upon receipt of a request for a supplemental hearing, the clerk shall calendar a hearing
+28 to be held within 14 days and notify, at least 72 hours before the hearing, the petitioner, the
+29 respondent, his the respondent's attorney, if any, and the designated outpatient treatment
+30 physician or center. provider and LME/MCO. The respondent shall be notified at least 72 hours
+31 before the hearing by personally serving on him an order to appear. Other persons shall be
+32 notified as provided in G.S. 122C-264(c).
+33 (b) The procedures for the hearing shall follow G.S. 122C-267.
+34 (c) In supplemental hearings for alleged noncompliance, the court shall determine
+35 whether the respondent has failed to comply and, if so, the causes for noncompliance. If the court
+36 determines that the respondent has failed or refused to comply it may:
+37 (1) Upon finding probable cause to believe that the respondent is mentally ill and
+38 dangerous to himself, as defined in G.S. 122C-3(11)a., or others, as defined
+39 in G.S. 122C-3(11)b., order an examination by the same or different physician
+40 or eligible psychologist commitment examiner as provided in
+41 G.S. 122C-263(c) in order to determine the necessity for continued outpatient
+42 or inpatient commitment;
+43 (2) Reissue or change the outpatient commitment order in accordance with G.S.
+44 122C-271; orG.S. 122C-271.
+45 (3) Discharge the respondent from the order and dismiss the case.
+46 (4) Issue an order for inpatient commitment upon finding by clear, cogent, and
+47 convincing evidence that the respondent is mentally ill and dangerous to
+48 himself, as defined in G.S. 122C-3(11)a., or others, as defined in
+49 G.S. 122C-3(11)b. A finding of noncompliance with an outpatient
+50 commitment order pursuant to this section shall create a rebuttable
+House Bill 1104-Fifth Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 presumption that the respondent is dangerous to himself, as defined in
+2 G.S. 122C-3(11)a., or others, as defined in G.S. 122C-3(11)b.
+3 (d) At the supplemental hearing for a respondent who has moved or intends to move to
+4 another county, the court shall determine if the respondent meets the criteria for outpatient
+5 commitment set out in G.S. 122C-263(d)(1). If the court determines that the respondent no longer
+6 meets the criteria for outpatient commitment, it shall discharge the respondent from the order and
+7 dismiss the case. If the court determines that the respondent continues to meet the criteria for
+8 outpatient commitment, it shall continue the outpatient commitment but shall designate a
+9 physician or center an outpatient treatment provider at the respondent's new residence to be
+10 responsible for the management or supervision care and treatment of the respondent's outpatient
+11 commitment. commitment and shall also designate the LME/MCO, or an alternative as
+12 determined by the Department, responsible for monitoring and supervision. The court shall order
+13 the respondent to appear for treatment at the address of the newly designated outpatient treatment
+14 physician or center provider and shall order venue for further court proceedings under the
+15 outpatient commitment to be transferred to the new county of supervision. Upon an order
+16 changing venue, the clerk of court in the county where the outpatient commitment has been
+17 supervised shall transfer the records regarding the outpatient commitment to the clerk of court in
+18 the county where the commitment will be supervised. Also, the clerk of court in the county where
+19 the outpatient commitment has been supervised shall send a copy of the court's order directing
+20 the continuation of outpatient treatment under new supervision to the newly designated outpatient
+21 treatment physician or center.provider and the LME/MCO, or an alternative as determined by the
+22 Department.
+23 (e) At any time during the term of an outpatient commitment order, a respondent may
+24 apply to the court for a supplemental hearing for the purpose of discharge from the order. The
+25 application shall be made in writing by the respondent to the clerk of superior court of the county
+26 where the outpatient commitment is being supervised. At the supplemental hearing the court shall
+27 determine whether the respondent continues to meet the criteria specified in
+28 G.S. 122C-263(d)(1). The court may either reissue or change the commitment order or discharge
+29 the respondent and dismiss the case.
+30 (f) At supplemental hearings requested pursuant to G.S. 122C-277(a) for transfer from
+31 inpatient to outpatient commitment, the court shall determine whether the respondent meets the
+32 criteria for either inpatient or outpatient commitment. If the court determines that the respondent
+33 continues to meet the criteria for inpatient commitment, it shall order the continuation of the
+34 original commitment order. If the court determines that the respondent meets the criteria for
+35 outpatient commitment, it shall order outpatient commitment for a period of time not in excess
+36 of 90 180 days. If the court finds that the respondent does not meet either criteria, the respondent
+37 shall be discharged and the case dismissed."
+38 SECTION 11.(h) G.S. 122C-275 reads as rewritten:
+39 "§ 122C-275. Outpatient commitment; rehearings.
+40 (a) Fifteen days before the end of the initial or subsequent periods of outpatient
+41 commitment if the outpatient treatment physician or center provider determines that the
+42 respondent continues to meet the criteria specified in G.S. 122C-263(d)(1), he the outpatient
+43 treatment provider shall so notify the clerk of superior court of the county where the outpatient
+44 commitment is supervised. If the respondent no longer meets the criteria, the physician outpatient
+45 treatment provider shall so notify the clerk who shall dismiss the case; provided, however, if the
+46 respondent was initially committed as a result of conduct resulting in his being charged with a
+47 violent crime, including a crime involving an assault with a deadly weapon, and the respondent
+48 was found incapable of proceeding, the physician or center outpatient treatment provider shall
+49 notify the clerk that discharge is recommended. The clerk, at least 10 days before the end of the
+50 commitment period, on order of the district court, shall calendar the rehearing.
+Page 14 House Bill 1104-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (b) Notice and procedures of rehearings are governed by the same procedures as initial
+2 hearings, and the respondent has the same rights he had at the initial hearing including the right
+3 to appeal.
+4 (c) If the court finds that the respondent no longer meets the criteria of
+5 G.S. 122C-263(d)(1), it shall unconditionally discharge him. the respondent. A copy of the
+6 discharge order shall be furnished by the clerk to the designated outpatient treatment physician
+7 or center. provider and the LME/MCO. If the respondent continues to meet the criteria of
+8 G.S. 122C-263(d)(1), the court may order outpatient commitment for an additional period not in
+9 excess of 180 days. The court order shall comply with the requirements of G.S. 122C-271."
+10 SECTION 11.(i) G.S. 122C-276 reads as rewritten:
+11 "§ 122C-276. Inpatient commitment; rehearings for respondents other than insanity
+12 acquittees.
+13 (a) Fifteen days before the end of the initial inpatient commitment period if the attending
+14 physician determines that commitment of a respondent beyond the initial period will be
+15 necessary, he shall so notify the clerk of superior court of the county in which the facility is
+16 located. The clerk, at least 10 days before the end of the initial period, on order of a district court
+17 judge of the district court district as defined in G.S. 7A-133 in which the facility is located, shall
+18 calendar the rehearing. If the respondent was initially committed as the result of conduct resulting
+19 in his being charged with a violent crime, including a crime involving an assault with a deadly
+20 weapon, and respondent was found incapable of proceeding, the clerk shall also notify the chief
+21 district court judge, the clerk of superior court, and the district attorney in the county in which
+22 the respondent was found incapable of proceeding of the time and place of the hearing.
+23 (b) Fifteen days before the end of the initial treatment period of a respondent who was
+24 initially committed as a result of conduct resulting in his being charged with a violent crime,
+25 including a crime involving an assault with a deadly weapon, having been found incapable of
+26 proceeding, if the attending physician determines that commitment of the respondent beyond the
+27 initial period will not be necessary, he shall so notify the clerk of superior court who shall
+28 schedule a rehearing as provided in subsection (a) of this section.
+29 (c) Subject to the provisions of G.S. 122C-269(c), rehearings shall be held as authorized
+30 in G.S. 122C-268(g). The judge is a judge of the district court district court judge of the district
+31 court district as defined in G.S. 7A-133 in which the facility is located or a district court judge
+32 temporarily assigned to that district.
+33 (d) Notice and proceedings of rehearings are governed by the same procedures as initial
+34 hearings and the respondent has the same rights he had at the initial hearing including the right
+35 to appeal.
+36 (e) At rehearings the court may make the same dispositions authorized in
+37 G.S. 122C-271(b) except a second commitment order may be for an additional period not in
+38 excess of 180 days.
+39 (f) Fifteen days before the end of the second commitment period and annually thereafter,
+40 the attending physician shall review and evaluate the condition of each respondent; and if he
+41 determines that a respondent is in continued need of inpatient commitment or, in the alternative,
+42 in need of outpatient commitment, or a combination of both, he shall so notify the respondent,
+43 his counsel, and the clerk of superior court of the county, in which the facility is located. Unless
+44 the respondent through his counsel files with the clerk a written waiver of his right to a rehearing,
+45 the clerk, on order of a district court judge of the district in which the facility is located, shall
+46 calendar a rehearing for not later than the end of the current commitment period. The procedures
+47 and standards for the rehearing are the same as for the first rehearing. No third or subsequent
+48 inpatient recommitment order shall be for a period longer than one year.
+49 (g) At any rehearings the court has the option to order outpatient commitment for a period
+50 not in excess of 180 days in accordance with the criteria specified in G.S. 122C-263(d)(1) and
+House Bill 1104-Fifth Edition Page 15
+
+General Assembly Of North Carolina Session 2025
+1 following the procedures as specified in this Article. The court order shall comply with the
+2 requirements of G.S. 122C-271."
+3 SECTION 11.(j) G.S. 122C-54(d) reads as rewritten:
+4 "(d) Except as otherwise provided in this section, any individual seeking confidential
+5 information contained in the court files or the court records of a proceeding made pursuant to
+6 Article 5 of this Chapter may file a written motion in the cause setting out why the information
+7 is needed. A district court judge may issue an order to disclose the confidential information
+8 sought if he finds the order is appropriate under the circumstances and if he finds that it is in the
+9 best interest of the individual admitted or committed or of the public to have the information
+10 disclosed.
+11 Counsel for the respondent and counsel for the State in the commitment hearing may receive
+12 access to the court file without filing a motion or obtaining a court order. A judge presiding over
+13 a criminal case that initiated the Article 5 proceeding may have access to the file without filing a
+14 motion.
+15 The Department shall be granted access to all relevant data, court orders, records, or other
+16 relevant information, including any confidential information, related to its duties and
+17 responsibilities pursuant to Article 5 of this Chapter. The Department shall keep all information
+18 collected under this subsection privileged, in accordance with applicable State law and federal
+19 guidelines, and the information shall be confidential and shall not be a public record under
+20 Chapter 132 of the General Statutes. The Administrative Office of the Courts Director shall set
+21 parameters for sharing information with the Department.
+22 Judicial officials determining whether a criminal defendant may be released before trial
+23 pursuant to G.S. 15A-533 may have access to the defendant's records of proceedings made
+24 pursuant to Article 5 of this Chapter for the purposes of determining whether a criminal defendant
+25 has been involuntarily committed within the previous three years."
+26 SECTION 11.(k) This section becomes effective December 1, 2026, and applies to
+27 proceedings that occur on or after that date.
+28
+29 DEPARTMENT OF INFORMATION TECHNOLOGY
+30 SECTION 12.(a) G.S. 90-414.4 reads as rewritten:
+31 "§ 90-414.4. Required participation in HIE Network for some providers.
+32 …
+33 (c) Exemption for Certain Records. – Providers Until the Authority provides written
+34 notice as required by subsection (c2) of this section, providers with patient records that are subject
+35 to the disclosure restrictions of 42 C.F.R. § 2 are exempt from the requirements of subsection
+36 (b) of this section but only with respect to the patient records subject to these disclosure
+37 restrictions. Providers shall comply with the requirements of subsection (b) of this section with
+38 respect to all other patient records. A pharmacy shall only be required to submit claims data
+39 pertaining to services rendered to Medicaid and other State-funded health care program
+40 beneficiaries and paid for with Medicaid or other State-funded health care funds.
+41 (c1) Exemption from Twice Daily Submission. – A pharmacy shall only be required to
+42 submit claims data once daily through the HIE Network using pharmacy industry standardized
+43 formats.
+44 (c2) 42 C.F.R. Records. – Notwithstanding subsection (b) of this section, patient records
+45 protected by 42 C.F.R. § 2 shall be disclosed through the HIE Network when the Authority has
+46 provided written notice to participating entities that data protected by 42 C.F.R. § 2 can be
+47 disclosed consistent with the HIE's statutory authority.
+48 …
+49 (f) Confidentiality of Data. – All data submitted to or through the HIE Network
+50 containing protected health information, personally identifying information, or a combination of
+51 these, that are in the possession of the Department of Information Technology or any other
+Page 16 House Bill 1104-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 agency of the State are confidential and shall not be defined as public records under G.S. 132-1.
+2 This subsection shall not be construed to prohibit the disclosure of any such data as otherwise
+3 permitted under federal law."
+4 SECTION 12.(b) G.S. 90-414.8 reads as rewritten:
+5 "§ 90-414.8. North Carolina Health Information Exchange Advisory Board.
+6 (a) Creation and Membership. – There is hereby established the North Carolina Health
+7 Information Exchange Advisory Board within the Department of Information Technology. The
+8 Advisory Board shall consist of the following 12 13 members:
+9 (1) The following four members appointed by the President Pro Tempore of the
+10 Senate:
+11 a. A licensed physician in good standing and actively practicing in this
+12 State.
+13 b. A patient representative.
+14 c. An individual with technical expertise in health data analytics.
+15 d. A representative of a behavioral health provider.
+16 (2) The following four members appointed by the Speaker of the House of
+17 Representatives:
+18 a. A representative of a critical access hospital.
+19 b. A representative of a federally qualified health center.
+20 c. An individual with technical expertise in health information
+21 technology.
+22 d. A representative of a health system or integrated delivery network.
+23 (3) The following three ex officio, nonvoting members:
+24 a. The State Chief Information Officer or a designee.
+25 b. The Director of GDAC or a designee.
+26 c. The Secretary of Health and Human Services, or a designee.
+27 (4) The following two ex officio, voting member:members:
+28 a. The Executive Administrator of the State Health Plan for Teachers and
+29 State Employees, or a designee.
+30 b. The Deputy Secretary for the State's Medicaid program, or a designee.
+31 …."
+32
+33 IMPLEMENT INPATIENT CAPACITY RESTORATION PROGRAM
+34 SECTION 13.(a) G.S. 15A-532 reads as rewritten:
+35 "§ 15A-532. Persons authorized to determine conditions for release.
+36 Judicial officials may determine conditions for release of persons in proceedings over which
+37 they are presiding, in accordance with this Article. Pretrial release of a defendant found to be
+38 incapable to proceed is governed by this Article as well as Article 56 of this Chapter."
+39 SECTION 13.(b) G.S. 15A-1001 reads as rewritten:
+40 "§ 15A-1001. No proceedings when defendant mentally incapacitated; exception.exception;
+41 State policy; capacity restoration services; immunity from liability.
+42 (a) No person may be tried, convicted, sentenced, or punished for a crime when by reason
+43 of mental illness or defect he or she is unable to understand the nature and object of the
+44 proceedings against him, him or her, to comprehend his or her own situation in reference to the
+45 proceedings, or to assist in his or her defense in a rational or reasonable manner. This condition
+46 is hereinafter referred to as "incapacity to proceed."
+47 (b) This section does not prevent the court from going forward with any motions which
+48 can be handled by counsel without the assistance of the defendant.
+49 (c) It is State policy that persons found incapable to proceed should be provided with
+50 capacity restoration services whenever feasible and appropriate and that such services should be
+House Bill 1104-Fifth Edition Page 17
+
+General Assembly Of North Carolina Session 2025
+1 carried out in as efficient and timely a manner as possible in order to meet the ends of justice for
+2 victims, for the public, and for those persons who stand accused of crimes.
+3 (d) Unless otherwise specified in this Article, capacity restoration services are directed
+4 toward a defendant gaining capacity to stand trial and may include any or all of the following, as
+5 applicable and based upon available resources:
+6 (1) Educational instruction regarding the criminal justice system, to include
+7 assisting the defendant in understanding his or her role in the proceedings.
+8 (2) Psychoeducational instruction regarding the nature of a defendant's diagnosed
+9 condition and the resources and coping skills necessary to mitigate capacity
+10 deficits caused by the condition.
+11 (3) Except as prohibited by G.S. 15A-1010, other mental health treatment or
+12 counseling which is medically reasonable and appropriate.
+13 (e) No individual, facility, agency, or entity, or officials, staff, and employees of these
+14 individuals and entities, responsible for the custody, transportation, examination, admission,
+15 management, supervision, instruction, treatment, or release of a defendant under this Article and
+16 who is not grossly negligent, is civilly liable, personally or otherwise, for actions or omissions
+17 arising from these responsibilities or for the actions or omissions of a defendant. This immunity
+18 is in addition to any other legal immunity from liability to which these individuals, facilities,
+19 agencies, or entities may be entitled and applies to actions performed in connection with, or
+20 arising out of, the custody, transportation, examination, commitment, admission, management,
+21 supervision, instruction, treatment, or release of any defendant pursuant to or under the authority
+22 of this Article or otherwise."
+23 SECTION 13.(c) G.S. 15A-1002 reads as rewritten:
+24 "§ 15A-1002. Determination of incapacity to proceed; evidence; temporary commitment;
+25 temporary orders.
+26 (a) The question of the capacity of the defendant to proceed may be raised at any time on
+27 motion by the prosecutor, the defendant, the defense counsel, or the court. The motion shall detail
+28 the specific conduct that leads the moving party to question the defendant's capacity to proceed.
+29 (b) (1) When the capacity of the defendant to proceed is questioned, the court shall
+30 hold a hearing to determine the defendant's capacity to proceed. If an
+31 examination is ordered pursuant to subdivision (1a) or (2) of this subsection,
+32 the hearing shall be held after the examination. Reasonable notice shall be
+33 given to the defendant and prosecutor, and the State and the defendant may
+34 introduce evidence.
+35 (1a) In the case of a defendant charged with a misdemeanor or felony, the court
+36 may appoint one or more impartial medical experts, including forensic
+37 evaluators approved under rules of the Commission for Mental Health,
+38 Developmental Disabilities, and Substance Abuse Services, to examine the
+39 defendant and return a written report describing the present state of the
+40 defendant's mental health. Reports so prepared are admissible at the hearing.
+41 The court may call any expert so appointed to testify at the hearing with or
+42 without the request of either party.
+43 (2) At any time in the case of a defendant charged with a felony, the court may
+44 order the defendant to a State facility for the mentally ill for observation and
+45 treatment for the period, not to exceed 60 days, necessary to determine the
+46 defendant's capacity to proceed. If a defendant is ordered to a State facility
+47 without first having an examination pursuant to subsection (b)(1a) of this
+48 section, the judge shall make a finding that an examination pursuant to this
+49 subsection would be more appropriate to determine the defendant's capacity.
+50 The sheriff shall return the defendant to the county when notified that the
+51 evaluation has been completed. The director of the facility shall direct his
+Page 18 House Bill 1104-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 report on defendant's condition to the defense attorney and to the clerk of
+2 superior court, who shall bring it to the attention of the court. The report is
+3 admissible at the hearing.
+4 (3) Repealed by Session Laws 1989, c. 486, s. 1.
+5 (4) A presiding district or superior court judge of this State who orders an
+6 examination pursuant to subdivision (1a) or (2) of this subsection shall order
+7 the release of relevant confidential information to the examiner, including, but
+8 not limited to, the warrant or indictment, arrest records, the law enforcement
+9 incident report, the defendant's criminal record, jail records, any prior medical
+10 and mental health records of the defendant, and any school records of the
+11 defendant after providing the defendant with reasonable notice and an
+12 opportunity to be heard and then determining that the information is relevant
+13 and necessary to the hearing of the matter before the court and unavailable
+14 from any other source. This subdivision shall not be construed to relieve any
+15 court of its duty to conduct hearings and make findings required under
+16 relevant federal law before ordering the release of any private medical or
+17 mental health information or records related to substance abuse or HIV status
+18 or treatment. The records may be surrendered to the court for in camera review
+19 if surrender is necessary to make the required determinations. The records
+20 shall be withheld from public inspection and, except as provided in this
+21 subdivision, may be examined only by order of the court.
+22 (b1) The order of the court shall contain findings of fact to support its determination of the
+23 defendant's capacity to proceed. The parties may stipulate that the defendant is capable of
+24 proceeding capable to proceed but shall not be allowed to stipulate that the defendant lacks
+25 capacity to proceed. If the court concludes that the defendant lacks capacity to proceed,
+26 proceedings for involuntary civil commitment under Chapter 122C of the General Statutes may
+27 be instituted on the basis of the report in either the county where the criminal proceedings are
+28 pending or, if the defendant is hospitalized, in the county in which the defendant is
+29 hospitalized.proceed, the court shall ensure a record of the determination is transmitted to the
+30 National Instant Criminal Background Check System, pursuant to G.S. 14-409.43(a)(5), and
+31 further proceed pursuant to G.S. 15A-1003.
+32 (b2) Reports made to the court pursuant to this section shall be completed and provided to
+33 the court as follows:
+34 (1) The report in a case of a defendant charged with a misdemeanor shall be
+35 completed and provided to the court no later than 10 days following the
+36 completion of the examination for a defendant who was in custody at the time
+37 the examination order was entered and no later than 20 days following the
+38 completion of the examination for a defendant who was not in custody at the
+39 time the examination order was entered.
+40 (2) The report in the case of a defendant charged with a felony shall be completed
+41 and provided to the court no later than 30 days following the completion of
+42 the examination.
+43 (3) In cases where the defendant challenges the determination made by the
+44 court-ordered examiner or the State facility and the court orders an
+45 independent psychiatric examination, that examination and report to the court
+46 must be completed within 60 days of the entry of the order by the court.
+47 The court may, for good cause shown, extend the time for the provision of the report to the
+48 court for up to 30 additional days. The court may renew an extension of time for an additional
+49 30 days upon request of the State or the defendant prior to the expiration of the previous
+50 extension. In no case shall the court grant extensions totaling more than 120 days beyond the
+51 time periods otherwise provided in this subsection.
+House Bill 1104-Fifth Edition Page 19
+
+General Assembly Of North Carolina Session 2025
+1 (b3) Any report prepared pursuant to this Article shall include the examiner's opinion
+2 whether the defendant is capable or incapable to proceed, to include all relevant observations and
+3 findings. If the examiner believes the defendant is not capable to proceed, the report shall further
+4 include the following, along with supporting observations and findings:
+5 (1) An opinion concerning the causes of the defendant's mental illness or defect.
+6 (2) An opinion whether the defendant is able to gain capacity in the foreseeable
+7 future and whether capacity restoration services would likely aid in the
+8 defendant gaining capacity. Local evaluators may not make a
+9 recommendation of non-restorability.
+10 (3) Any recommended treatment or education necessary for the defendant to gain
+11 capacity, and the availability of such services, if known.
+12 (4) A recommendation of the appropriate clinical setting in which the capacity
+13 restoration services may be safely provided to the defendant and any specific
+14 treatment needs of the defendant or other factors supporting this
+15 recommendation.
+16 (5) Any other opinions or recommendations specifically ordered by the court or
+17 which the examiner believes necessary for the court's consideration of the
+18 defendant's capacity or potential to gain capacity.
+19 If the examiner is unable to provide any of the required opinions, recommendations, or
+20 findings, the reasons therefore shall be clearly stated in the report. The forensic evaluation may
+21 be conducted remotely using video-teleconference which permits two-way audio and video
+22 transmission between the defendant and the evaluator, unless the evaluator determines there is a
+23 clinical need for an in-person evaluation.
+24 (c) The court may make appropriate temporary orders for the confinement or security of
+25 the defendant pending the hearing or ruling of the court on the question of the capacity of the
+26 defendant to proceed.
+27 (d) Any report made to the court pursuant to this section shall be forwarded to the clerk
+28 of superior court in a sealed envelope addressed to the attention of a presiding judge, with a
+29 covering statement to the clerk of the fact of the examination of the defendant and any conclusion
+30 as to whether the defendant has or lacks capacity to proceed. If the defendant is being held in the
+31 custody of the sheriff, the clerk shall send a copy of the covering statement to the sheriff. The
+32 sheriff and any persons employed by the sheriff shall maintain the copy of the covering statement
+33 as a confidential record. A copy of the full report shall be forwarded to defense counsel or to the
+34 defendant if he is not represented by counsel. If the question of the defendant's capacity to
+35 proceed is raised at any time, a copy of the full report must be forwarded to the district attorney,
+36 as provided in G.S. 122C-54(b). Until such report becomes a public record, the full report to the
+37 court shall be kept under such conditions as are directed by the court, and its contents shall not
+38 be revealed except the report and the relevant confidential information previously ordered
+39 released under subdivision (b)(4) of this section shall be released as follows: (i) to clinicians at
+40 the program where the defendant is receiving capacity restoration; (ii) to clinicians designated
+41 by the Secretary of Health and Human Services, and (iii) as directed by the court. Any report
+42 made to the court pursuant to this section shall not be a public record unless introduced into
+43 evidence."
+44 SECTION 13.(d) G.S. 15A-1003 reads as rewritten:
+45 "§ 15A-1003. Referral of incapable defendant for civil commitment proceedings.Procedure
+46 upon finding a defendant incapable to proceed.
+47 (a) When a defendant is found to be incapable of proceeding, the presiding judge, upon
+48 such additional hearing, if any, as he determines to be necessary, shall determine whether there
+49 are reasonable grounds to believe the defendant meets the criteria for involuntary commitment
+50 under Part 7 of Article 5 of Chapter 122C of the General Statutes. If the presiding judge finds
+51 reasonable grounds to believe that the defendant meets the criteria, he shall make findings of fact
+Page 20 House Bill 1104-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 and issue a custody order in the same manner, upon the same grounds and with the same effect
+2 as an order issued by a clerk or magistrate pursuant to G.S. 122C-261. Proceedings thereafter are
+3 in accordance with Part 7 of Article 5 of Chapter 122C of the General Statutes. If the defendant
+4 was charged with a violent crime, including a crime involving assault with a deadly weapon, the
+5 judge's custody order shall require a law-enforcement officer to take the defendant directly to a
+6 24-hour facility as described in G.S. 122C-252; G.S. 122C-252, as space is available; and the
+7 order must indicate that the defendant was charged with a violent crime and that he was found
+8 incapable of proceeding.
+9 (a1) Prior to the dismissal of any charges pursuant to G.S. 15A-1008, if the defendant is
+10 not subject to an involuntary commitment order issued pursuant to Part 7 of Article 5 of Chapter
+11 122C of the General Statutes, the court shall make the determinations and findings required by
+12 subsection (a) of this section upon motion of the district attorney.
+13 (b) The court may make appropriate orders for the temporary detention of the defendant
+14 pending that proceeding.
+15 (c) Evidence used at the hearing with regard to capacity to proceed is admissible in the
+16 involuntary civil commitment proceedings.
+17 (b) When the court finds, pursuant to G.S. 15A-1002, that a defendant is incapable to
+18 proceed to trial and that the defendant is reasonably likely to gain capacity to proceed within the
+19 foreseeable future, the court shall order the defendant to enroll and participate in a capacity
+20 restoration program, as defined in G.S. 122C-256, subject to the following conditions:
+21 (1) If the defendant is eligible for pretrial release, enrollment and participation in
+22 a community-based capacity restoration program shall be imposed as an
+23 additional condition of release, so long as such program is reasonably
+24 available based on geographic location, program capacity, and any other
+25 relevant factor. Additional conditions may be imposed in the court's discretion
+26 pursuant to Article 26 of this Chapter, specifically including the power to
+27 place the defendant in the custody of a designated person or organization
+28 agreeing to supervise the defendant.
+29 (2) If the defendant is held in pretrial custody, the defendant shall be required to
+30 enroll and participate in a detention center capacity restoration program, as
+31 defined in G.S. 122C-256, if such program is reasonably available.
+32 (3) If the court determines that the most clinically appropriate setting for a
+33 defendant to receive capacity restoration services is an inpatient setting other
+34 than through civil involuntary commitment, then the court may instead order
+35 the defendant to enroll in an inpatient-based capacity restoration program, if
+36 such program is reasonably available.
+37 (4) The court shall specify in its order the duration of the defendant's enrollment,
+38 up to a maximum initial term of four months, taking into account the
+39 defendant's mental condition, the prognosis for the defendant's ability to gain
+40 capacity, the nature of the criminal charges, the nature of the capacity
+41 restoration program, and any other relevant factor. The term of a defendant's
+42 enrollment period does not include wait times for program entry. The initial
+43 term of four months may be extended per G.S. 15A-1007(e).
+44 (5) The court shall issue any other orders deemed appropriate to safeguard the
+45 defendant and to protect the public, including orders to ensure and provide for
+46 the defendant's return for trial in the event the defendant subsequently gains
+47 capacity. The court may amend or supplement its orders from time to time as
+48 changed conditions require.
+49 (c) If no capacity restoration program is reasonably available to the defendant, or if the
+50 court finds that the defendant is expected to gain capacity in the foreseeable future without the
+51 need for capacity restoration services, or for other good cause shown, the requirement for referral
+House Bill 1104-Fifth Edition Page 21
+
+General Assembly Of North Carolina Session 2025
+1 to such program may be waived, but the court shall issue any further orders as appropriate to
+2 safeguard the defendant and to protect the public, including orders to ensure and provide for the
+3 defendant's return for trial in the event the defendant subsequently gains capacity. The court may
+4 review and modify the defendant's conditions of release. The court may also determine when a
+5 supplemental hearing under G.S. 15A-1007 should be held.
+6 (d) If the court finds that the defendant is not reasonably likely to gain capacity to proceed
+7 in the foreseeable future, the court shall not order the defendant to receive capacity restoration
+8 services but shall instead consider whether dismissal of the charges is required pursuant to
+9 G.S. 15A-1008. The court may further determine when a supplemental hearing under
+10 G.S. 15A-1007 should be held to review the defendant's condition. The court may review and
+11 modify the defendant's conditions of release as appropriate pending further determination
+12 pursuant to G.S. 15A-1008 or supplemental hearing.
+13 (e) In addition to the requirement provided in subsection (b) of this section, the court at
+14 any time after the defendant is found incapable to proceed may determine whether there are
+15 reasonable grounds to believe the defendant probably has a mental illness and is either (i)
+16 dangerous to self or others as defined under G.S. 122C-3 or (ii) in need of treatment in order to
+17 prevent further disability or deterioration that would predictably result in dangerousness and
+18 therefore meets the criteria for involuntary civil commitment. Based upon such findings, the court
+19 may issue a custody order in the same manner and with the same effect as an order issued by a
+20 clerk or magistrate pursuant to G.S. 122C-261. Proceedings thereafter are in accordance with
+21 Part 7 of Article 5 of Chapter 122C of the General Statutes and subject to the following
+22 requirements:
+23 (1) Proceedings for involuntary commitment may be initiated on the basis of the
+24 report in either the county where the criminal proceedings are pending or, if
+25 the defendant is hospitalized, in the county in which the defendant is
+26 hospitalized.
+27 (2) If the defendant was charged with a violent crime, including a crime involving
+28 assault with a deadly weapon, the custody order shall require a law
+29 enforcement officer to take the defendant directly to a 24-hour facility as
+30 described in G.S. 122C-252 as soon as space is available, and the order must
+31 indicate that the defendant was charged with a violent crime and that he or she
+32 was found incapable to proceed.
+33 (3) The court may make appropriate orders for the temporary detention of the
+34 defendant pending the commitment proceedings.
+35 (4) The court may set or modify conditions of pretrial release in the event that the
+36 defendant is not involuntarily committed, is discharged or released from
+37 involuntary commitment, or is involuntarily committed on an outpatient basis.
+38 (5) Evidence used at the hearing with regard to capacity to proceed is admissible
+39 in the involuntary civil commitment proceedings.
+40 (6) Pursuant to G.S. 143B-147, the treatment plan for any defendant involuntarily
+41 committed after a finding of incapacity to proceed under this Article shall
+42 incorporate methods designed in accordance with best practices to restore the
+43 defendant's capacity to proceed for so long as the defendant remains
+44 committed pursuant to Chapter 122C of the General Statutes, whether on an
+45 inpatient or outpatient basis. However, a defendant's lack of capacity to
+46 proceed, standing alone, does not constitute an independent basis for
+47 continued civil involuntary commitment."
+48 SECTION 13.(e) G.S. 15A-1004 reads as rewritten:
+49 "§ 15A-1004. Orders for safeguarding of defendant and return for trial.
+Page 22 House Bill 1104-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (a) When a defendant is found to be incapable of proceeding, the trial court must make
+2 appropriate orders to safeguard the defendant and to ensure his return for trial in the event that
+3 he subsequently becomes capable of proceeding.
+4 (b) If the defendant is not placed in the custody of a hospital or other institution in a
+5 proceeding for involuntary civil commitment, appropriate orders may include any of the
+6 procedures, orders, and conditions provided in Article 26 of this Chapter, Bail, specifically
+7 including the power to place the defendant in the custody of a designated person or organization
+8 agreeing to supervise him.
+9 (c) If the defendant is placed in the custody of a hospital or other institution in a
+10 proceeding for involuntary civil commitment, the orders must provide for reporting to the clerk
+11 if the defendant is to be released from the custody of the hospital or institution. The original or
+12 supplemental orders may make provisions as in subsection (b) in the event that the defendant is
+13 released. The court shall also order that the defendant shall be examined to determine whether
+14 the defendant has the capacity to proceed prior to release from custody. A report of the
+15 examination shall be provided pursuant to G.S. 15A-1002. If the defendant was charged with a
+16 violent crime, including a crime involving assault with a deadly weapon, and that charge has not
+17 been dismissed, the order must require that if the defendant is to be released from the custody of
+18 the hospital or other institution, he is to be released only to the custody of a specified law
+19 enforcement agency. If the original or supplemental orders do not specify to whom the
+20 respondent shall be released, the hospital or other institution may release the defendant to
+21 whomever it thinks appropriate.
+22 (d) If the defendant is placed in the custody of a hospital or institution pursuant to
+23 proceedings for involuntary civil commitment, or if the defendant is placed in the custody of
+24 another person pursuant to subsection (b), the orders of the trial court must require that the
+25 hospital, institution, or individual report the condition of the defendant to the clerk at the same
+26 times that reports on the condition of the defendant-respondent are required under Part 7 of
+27 Article 5 of Chapter 122C of the General Statutes, or more frequently if the court requires, and
+28 immediately if the defendant gains capacity to proceed. The order must also require the report to
+29 state the likelihood of the defendant's gaining capacity to proceed, to the extent that the hospital,
+30 institution, or individual is capable of making such a judgment.
+31 (e) The orders must require and provide for the return of the defendant to stand trial in
+32 the event that he gains capacity to proceed, unless the charges have been dismissed pursuant to
+33 G.S. 15A-1008, and may also provide for the confinement or pretrial release of the defendant in
+34 that event.
+35 (f) The orders of the court may be amended or supplemented from time to time as
+36 changed conditions require.
+37 "§ 15A-1004. Examinations and reports required for defendants lacking capacity.
+38 (a) When a defendant is enrolled in a capacity restoration program pursuant to
+39 G.S. 15A-1003(b), the court shall order the program to do all of the following:
+40 (1) To report to the clerk on the condition of the defendant every 60 days
+41 following program entry, and immediately if the defendant gains capacity to
+42 proceed, and to include in its report a statement of the likelihood of the
+43 defendant's gaining capacity to proceed within the remaining time period of
+44 the defendant's enrollment or within a subsequent period of enrollment, if
+45 ordered.
+46 (2) To report to the clerk immediately if at any time it appears the defendant is
+47 not a suitable candidate for capacity restoration services, requires capacity
+48 restoration in a different setting, or poses an unnecessary risk of danger to
+49 program personnel.
+50 (b) When a defendant is found incapable to proceed and is placed in the custody or care
+51 of a hospital, institution, or provider through a proceeding for involuntary civil commitment,
+House Bill 1104-Fifth Edition Page 23
+
+General Assembly Of North Carolina Session 2025
+1 whether on an inpatient or outpatient basis, the trial court's orders shall include all of the
+2 following requirements of the hospital, institution, or provider:
+3 (1) A requirement to report to the clerk whenever the defendant will not be
+4 involuntarily committed, is to be discharged or released from involuntary
+5 commitment, or upon a change in status from involuntary commitment on an
+6 inpatient basis to involuntary commitment on an outpatient basis.
+7 (2) A requirement to determine, prior to the defendant's discharge or release from
+8 involuntary commitment, whether the defendant has the capacity to proceed
+9 to trial and to provide a report of examination in compliance with the reporting
+10 requirements under G.S. 15A-1002 to the extent that the hospital, institution,
+11 or individual is capable of making such a judgment.
+12 (3) A requirement to report the condition of the defendant to the clerk at the same
+13 times that reports on the condition of the defendant-respondent are required
+14 under Part 7 of Article 5 of Chapter 122C of the General Statutes, or more
+15 frequently if the court requires, and immediately if the defendant gains
+16 capacity to proceed, and to include in the report a statement of the likelihood
+17 of the defendant's gaining capacity to proceed.
+18 (4) If the defendant was charged with a violent crime, including a crime involving
+19 assault with a deadly weapon, a requirement that if the defendant is to be
+20 released from the custody or care of the hospital, institution, or provider, the
+21 defendant is to be released only to the custody of a specified law enforcement
+22 agency. If the original or supplemental orders do not specify to whom the
+23 respondent shall be released, the hospital, institution, or provider may release
+24 the defendant to whomever is determined appropriate.
+25 (c) When a defendant found incapable to proceed is placed in the secure custody of a
+26 designated person or organization as a condition of release, the court shall require the supervising
+27 person or organization to report to the clerk immediately if it appears that the defendant has
+28 gained capacity to proceed. The court may also require a periodic report to the clerk from the
+29 supervising person or organization as to the condition of the defendant and the defendant's
+30 likelihood of gaining capacity to proceed, to the extent the person or organization is qualified to
+31 do so."
+32 SECTION 13.(f) G.S. 15A-1006 reads as rewritten:
+33 "§ 15A-1006. Return of defendant for trial upon gaining capacity.
+34 If a defendant who has been determined to be incapable of proceeding, and who is in the
+35 custody of an institution or an individual, has been determined by the institution or individual
+36 having custody to have gained capacity to proceed, the individual or institution shall provide
+37 written notification to the clerk in the county in which the criminal proceeding is pending. The
+38 clerk shall provide written notification to the district attorney, the defendant's attorney, and the
+39 sheriff. The sheriff shall return the defendant to the county for a supplemental hearing pursuant
+40 to G.S. 15A-1007, if conducted, and trial and hold the defendant for a supplemental hearing and
+41 trial, subject to the orders of the court entered pursuant to G.S. 15A-1004.
+42 "§ 15A-1006. Return of defendant for supplemental hearing and trial upon gaining
+43 capacity; discharge and return of defendant from involuntary commitment.
+44 (a) When the clerk is notified that a defendant has likely gained capacity to proceed to
+45 trial, the clerk shall provide written notification to the district attorney and the defendant's
+46 attorney within 72 hours, and the matter shall proceed to a supplemental hearing pursuant to
+47 G.S. 15A-1007, if conducted, and trial upon the court's determination that the defendant has
+48 gained capacity to proceed. If the defendant is currently enrolled in any court-ordered capacity
+49 restoration program pursuant to G.S. 15A-1003(b), this requirement shall remain in effect
+50 pending the supplemental hearing.
+Page 24 House Bill 1104-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (b) When a defendant who is charged with a violent crime, including a crime involving
+2 assault with a deadly weapon, has likely gained capacity to proceed while involuntarily
+3 committed, the clerk shall provide further written notification to the sheriff, who shall return the
+4 defendant to the county for a supplemental hearing pursuant to G.S. 15A-1007, if conducted, and
+5 trial and hold the defendant for a supplemental hearing and trial, subject to orders of the court
+6 entered pursuant to G.S. 15A-1003. Any defendant held in custody under this subsection may be
+7 required to participate in capacity restoration services pending the supplemental hearing, if
+8 reasonably available."
+9 SECTION 13.(g) G.S. 15A-1007 reads as rewritten:
+10 "§ 15A-1007. Supplemental capacity hearings.
+11 (a) When it has been reported to the court that a defendant has gained capacity to proceed,
+12 or when the defendant has been determined by the individual or institution having custody of him
+13 to have gained capacity and has been returned for trial, in accordance with G.S. 15A-1004(e) and
+14 G.S. 15A-1006, the clerk shall notify the district attorney. Upon receiving the notification, the
+15 district attorney shall calendar the matter for hearing at the next available term of court but no
+16 later than 30 days after receiving the notification. The court may hold a supplemental hearing to
+17 determine whether the defendant has capacity to proceed. The court may take any action at the
+18 supplemental hearing that it could have taken at an original hearing to determine the capacity of
+19 the defendant to proceed.
+20 (b) The court may hold a supplemental hearing any time upon its own determination that
+21 a hearing is appropriate or necessary to inquire into the condition of the defendant.
+22 (c) The court must hold a supplemental hearing if it appears that any of the conditions
+23 for dismissal of the charges have been met.
+24 (d) If the court determines in a supplemental hearing that a defendant has gained the
+25 capacity to proceed, the case shall be calendared for trial at the earliest practicable time.
+26 Continuances that extend beyond 60 days after initial calendaring of the trial shall be granted
+27 only in extraordinary circumstances when necessary for the proper administration of justice, and
+28 the court shall issue a written order stating the grounds for granting the continuance.
+29 (a) Upon receiving notification from the clerk under G.S. 15A-1006 that a defendant has
+30 likely gained capacity to proceed, the district attorney shall calendar the matter for hearing within
+31 30 days of receiving the notification or at the next available term of court. The court may hold a
+32 supplemental hearing to determine whether the defendant has capacity to proceed. The parties
+33 may stipulate to the defendant's capacity but not to the defendant's lack of capacity. If the parties
+34 stipulate to a finding of capacity, the judge may review new evidence, including new evaluations,
+35 and make a determination of capacity without holding a hearing.
+36 (b) If the court determines that a defendant has gained the capacity to proceed, the case
+37 shall be calendared for trial at the earliest practicable time. Continuances that extend beyond 60
+38 days after initial calendaring of the trial shall be granted only in extraordinary circumstances
+39 when necessary for the proper administration of justice, and the court shall issue a written order
+40 stating the grounds for granting the continuance. The court may order the defendant to receive
+41 capacity restoration services pending further criminal proceedings if the court finds that such
+42 services are reasonably available and reasonably necessary to ensure the defendant's capacity
+43 does not deteriorate.
+44 (c) The court shall hold a supplemental capacity hearing within a reasonable time after
+45 any of the following:
+46 (1) When the defendant has been ordered to participate in a capacity restoration
+47 program pursuant to G.S. 15A-1003(b) and the program has not reported to
+48 the clerk that the defendant has gained capacity to proceed prior to the end of
+49 the defendant's enrollment period.
+50 (2) Every four months if, pursuant to G.S. 15A-1003(b), the court has previously
+51 waived the requirement for capacity restoration services.
+House Bill 1104-Fifth Edition Page 25
+
+General Assembly Of North Carolina Session 2025
+1 (3) Every four months if, pursuant to G.S. 15A-1003(c), the defendant has been
+2 found not likely to gain capacity within the foreseeable future and the charges
+3 have not already been disposed.
+4 (4) When it appears to the court that any of the conditions for disposition under
+5 G.S. 15A-1008 have been met.
+6 (d) Upon motion of the district attorney, the defendant's attorney, or the court's own
+7 motion, the court may hold a supplemental hearing any time the court determines it appropriate
+8 or necessary to inquire into the condition of the defendant or to consider matters relevant to
+9 disposition under G.S. 15A-1008.
+10 (e) The court may take any action upon supplemental hearing that the court could have
+11 taken at the initial hearing on a defendant's capacity to proceed.
+12 (1) A defendant may be ordered to participate in a capacity restoration program
+13 pursuant to G.S. 15A-1003(b) whenever the court finds upon supplemental
+14 hearing that it is reasonably likely the defendant will gain capacity to proceed
+15 within the foreseeable future. The court may also extend the time for capacity
+16 restoration services in further increments of no more than four months per
+17 extension, not counting wait times for program entry, upon a finding that the
+18 defendant's continued participation in a capacity restoration program is
+19 reasonably likely to restore the defendant's capacity. A defendant who is not
+20 charged with a felony offense may not be required to participate in a capacity
+21 restoration program under G.S. 15A-1003(b) with respect to the same charges
+22 for a total period exceeding 12 months, not inclusive of wait times for program
+23 entry. Additionally, a defendant's enrollment in a capacity restoration program
+24 will not operate to preclude dismissal of the charges when any condition of
+25 G.S. 15A-1008 is found to be met.
+26 (2) At any supplemental hearing when the court finds reasonable grounds that a
+27 defendant who lacks capacity to proceed probably has a mental illness and is
+28 either (i) dangerous to self or others as defined under G.S. 122C-3 or (ii) in
+29 need of treatment in order to prevent further disability or deterioration that
+30 would predictably result in dangerousness, the court may proceed with a
+31 referral for civil commitment pursuant to G.S. 15A-1003(a).
+32 (3) A defendant released or discharged from involuntary civil commitment but
+33 who is found to still lack capacity to proceed is subject to appropriate
+34 supplemental court orders pursuant to G.S. 15A-1003 if the charges are not
+35 dismissed pursuant to G.S. 15A-1008, including orders to participate in a
+36 capacity restoration program pursuant to G.S. 15A-1003(b)."
+37 SECTION 13.(h) G.S. 15A-1008 reads as rewritten:
+38 "§ 15A-1008. Dismissal of charges.charges; referral of defendant for civil commitment
+39 proceedings upon dismissal.
+40 (a) When a defendant lacks capacity to proceed, the court shall dismiss the charges upon
+41 the earliest of the following occurrences:
+42 (1) When it appears to the satisfaction of the court that the defendant will not gain
+43 capacity to proceed.
+44 (2) When as a result of incarceration, involuntary commitment to an inpatient
+45 facility, or other court-ordered confinement, the defendant has been
+46 substantially deprived of his liberty for a period of time equal to or in excess
+47 of the maximum term of imprisonment permissible for prior record Level VI
+48 for felonies or prior conviction Level III for misdemeanors for the most
+49 serious offense charged.
+Page 26 House Bill 1104-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (3) Upon the expiration of a period of five years from the date of determination
+2 of incapacity to proceed in the case of misdemeanor charges and a period of
+3 10 years in the case of felony charges.
+4 (b) A dismissal entered pursuant to subdivision (2) of subsection (a) of this section shall
+5 be without leave.
+6 (c) A dismissal entered pursuant to subdivision (1) or (3) of subsection (a) of this section
+7 shall be issued without prejudice to the refiling of the charges.
+8 (d) Dismissal of criminal charges pursuant to this section shall be upon motion of the
+9 prosecutor or the defendant or upon the court's own motion and shall not be expunged pursuant
+10 to G.S. 15A-146.
+11 (e) Upon motion of the district attorney prior to dismissal of the charges under this
+12 section, the court shall determine whether there are reasonable grounds to believe the defendant
+13 meets the criteria for involuntary commitment under Part 7 of Article 5 of Chapter 122C of the
+14 General Statutes. If the court finds reasonable grounds to believe that the defendant meets the
+15 criteria, the court shall make findings of fact and issue a custody order in the same manner, upon
+16 the same grounds and with the same effect as an order issued by a clerk or magistrate pursuant
+17 to G.S. 122C-261. Proceedings thereafter, upon dismissal of the criminal charges, are in
+18 accordance with Part 7 of Article 5 of Chapter 122C of the General Statutes and with
+19 G.S. 15A-1003(e)(1), (2), (3), and (5). If the defendant was charged with a violent crime,
+20 including a crime involving assault with a deadly weapon, the judge's custody order shall require
+21 a law enforcement officer to take the defendant directly to a 24-hour facility as described in
+22 G.S. 122C-252, and the order must indicate that the defendant was charged with a violent crime
+23 and that he was found incapable of proceeding. The court may make appropriate orders for the
+24 temporary detention of the defendant pending that proceeding. Evidence used at the hearing with
+25 regard to capacity to proceed is admissible in the involuntary civil commitment proceedings."
+26 SECTION 13.(i) Article 56 of Chapter 15A of the General Statutes is amended by
+27 adding a new section to read:
+28 "§ 15A-1010. Compelled medication for capacity restoration generally prohibited; limited
+29 conditions when court may order compelled medication of certain defendants
+30 charged with serious felony offenses.
+31 (a) Except as authorized under subsection (b) of this section, a defendant found incapable
+32 to proceed to trial may not be compelled to take any medication for the purpose of gaining or
+33 maintaining capacity.
+34 (b) Upon the State's motion or upon the court's own motion, the court may order
+35 compelled medication of an uncooperative defendant for purposes of gaining or maintaining
+36 capacity to proceed if the court affirmatively finds by clear and convincing evidence all of the
+37 following, in writing, based on the particular circumstances presented and specific to the
+38 defendant in question:
+39 (1) The defendant is charged with a serious offense against the person or property,
+40 and there are no apparent special circumstances which lessen the importance
+41 of the government's interest in bringing the defendant to trial.
+42 (2) The proposed treatment is reasonable and appropriate for the mental health
+43 condition of the defendant and its proposed use is consistent with accepted
+44 medical standards.
+45 (3) The proposed treatment will not cause an unnecessary risk to the defendant's
+46 physical or mental health.
+47 (4) The proposed treatment is necessary insofar as it is substantially likely to
+48 render the defendant competent for trial and less intrusive means would not
+49 further this interest.
+50 (5) The proposed treatment is substantially unlikely to have side effects that
+51 undermine the fairness of the defendant's trial.
+House Bill 1104-Fifth Edition Page 27
+
+General Assembly Of North Carolina Session 2025
+1 (c) The administration of any treatment ordered pursuant to this section must be at the
+2 direction and under the supervision of a licensed medical professional. However, the proposed
+3 course of treatment shall be reviewed and authorized by the court prior to implementation, and
+4 the court may impose any other conditions necessary to protect the rights of the defendant and to
+5 ensure the safety of others, not inconsistent with accepted medical standards.
+6 (d) The court's treatment order may provide for multiple alternative courses of treatment
+7 in the discretion of the licensed medical professional treating the defendant, so long as each such
+8 alternative course of treatment is reviewed by the court and found to meet the requirements of
+9 subsection (b) of this section.
+10 (e) The court may review and amend previous compelled medication orders upon motion
+11 of the district attorney, the defendant's attorney, the court's own motion, or upon notice by the
+12 treatment provider to the clerk that a change in the approved course or alternative courses of
+13 treatment is warranted.
+14 (f) This section does not preclude medical treatment of persons involuntarily committed
+15 as authorized under Chapter 122C of the General Statutes or medical treatment authorized under
+16 any other provision of law.
+17 (g) Treatment ordered pursuant to this section is subject to G.S. 15A-1001(e)."
+18 SECTION 13.(j) G.S. 122C-54(b) reads as rewritten:
+19 "(b) If an individual is a defendant in a criminal case and a mental examination of the
+20 defendant has been ordered by the court as provided in G.S. 15A-1002, the facility shall send the
+21 results or the report of the mental examination to the clerk of court, to the district attorney or
+22 prosecuting officer, and to the attorney of record for the defendant as provided in
+23 G.S. 15A-1002(d). The report shall contain a treatment recommendation, if any, and an opinion
+24 as to whether there is a likelihood that the defendant will gain the capacity to proceed.all matters
+25 required under G.S. 15A-1002(b3)."
+26 SECTION 13.(k) G.S. 122C-256 reads as rewritten:
+27 "§ 122C-256. Capacity restoration pilot programs.
+28 (a) The following definitions apply in this section:
+29 (1) CBCRP. – Community-based capacity restoration program.
+30 (2) DCCRP. – Detention center capacity restoration program.
+31 (3) IBCRP. – Inpatient-based capacity restoration program.
+32 (b) Community-Based Capacity Restoration Program. – The Department or an
+33 LME/MCO may contract for three or more CBCRPs. CBCRPs may be county-based or
+34 regionally based. If regionally based, a CBCRP shall align with the State-operated psychiatric
+35 hospital within closest proximity. The Department may consult with one or more LME/MCOs
+36 for the purposes of contracting for CBCRPs under this subsection.
+37 (c) Detention Center Capacity Restoration Program. – The Department or an LME/MCO,
+38 in consultation and with the consent of relevant sheriffs, may contract for up to three or more
+39 DCCRPs. DCCRPs may be county-based or regionally based. All county sheriffs choosing to
+40 participate in a regional program must enter into an operational agreement with the sheriff hosting
+41 the regional program prior to referring defendants to the program. A regionally based DCCRP
+42 shall align with the State-operated psychiatric hospital within closest proximity. The Department
+43 may consult with one or more LME/MCOs for the purposes of contracting for DCCRPs under
+44 this subsection.
+45 (d) Inpatient-Based Capacity Restoration Program. – IBCRPs are programs offered by
+46 inpatient psychiatric facilities with the expertise to provide capacity restoration programming.
+47 These programs shall be available within the State psychiatric hospital system. Inpatient
+48 treatment is intended for defendants that are likely to benefit from inpatient level of care but who
+49 may or may not meet involuntary commitment criteria."
+50 SECTION 13.(l) The Department of Health and Human Services shall by December
+51 1, 2026, adopt guidelines for treatment of individuals who are referred pursuant to
+Page 28 House Bill 1104-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 G.S. 15A-1003 to a detention center capacity restoration program, community-based capacity
+2 restoration program, or inpatient-based capacity restoration program, as defined in
+3 G.S. 122C-256, as amended by this act, incorporating best practices to restore the individual's
+4 capacity to proceed to trial in criminal court. The adopted guidelines shall be published to the
+5 official website of the Department of Health and Human Services.
+6 SECTION 13.(m) G.S. 122C-273(a) reads as rewritten:
+7 "(a) Unless prohibited by Chapter 90 of the General Statutes, if the commitment order
+8 directs outpatient treatment, the outpatient treatment physician may prescribe or administer, or
+9 the center may administer, to the respondent reasonable and appropriate medication and
+10 treatment that are consistent with accepted medical standards.
+11 (1) If the respondent fails to comply or clearly refuses to comply with all or part
+12 of the prescribed treatment, the physician, the physician's designee, or the
+13 center shall make all reasonable effort to solicit the respondent's compliance.
+14 These efforts shall be documented and reported to the court with a request for
+15 a supplemental hearing.
+16 (2) If the respondent fails to comply, but does not clearly refuse to comply, with
+17 all or part of the prescribed treatment after reasonable effort to solicit the
+18 respondent's compliance, the physician, the physician's designee, or the center
+19 may request the court to order the respondent taken into custody for the
+20 purpose of examination. Upon receipt of this request, the clerk shall issue an
+21 order to a law-enforcement officer to take the respondent into custody and to
+22 take him immediately to the designated outpatient treatment physician or
+23 center for examination. The custody order is valid throughout the State. The
+24 law-enforcement officer shall turn the respondent over to the custody of the
+25 physician or center who shall conduct the examination and then release the
+26 respondent. The law-enforcement officer may wait during the examination
+27 and return the respondent to his home after the examination. An examination
+28 conducted under this subsection in which a physician or eligible psychologist
+29 determines that the respondent meets the criteria for inpatient commitment
+30 may be substituted for the first examination required by G.S. 122C-263 if the
+31 clerk or magistrate issues a custody order within six hours after the
+32 examination was performed.
+33 (3) In no case may the respondent be physically forced to take medication or
+34 forcibly detained for treatment unless he poses an immediate danger to himself
+35 or others. In such cases inpatient commitment proceedings shall be initiated.
+36 The administration of medication pursuant to court order for a criminal
+37 defendant found incapable to proceed to trial is governed by the provisions of
+38 G.S. 15A-1010 and not by this section.
+39 (4) At any time that the outpatient treatment physician or center finds that the
+40 respondent no longer meets the criteria set out in G.S. 122C-263(d)(1), the
+41 physician or center shall so notify the court and the case shall be terminated;
+42 provided, however, if the respondent was initially committed as a result of
+43 conduct resulting in his being charged with a violent crime, including a crime
+44 involving an assault with a deadly weapon, and the respondent was found
+45 incapable of proceeding, the designated outpatient treatment physician or
+46 center shall notify the clerk that discharge is recommended. The clerk shall
+47 calendar a supplemental hearing as provided in G.S. 122C-274 to determine
+48 whether the respondent meets the criteria for outpatient commitment.
+49 (5) Any individual who has knowledge that a respondent on outpatient
+50 commitment has become dangerous to himself, as defined by
+51 G.S. 122C-3(11)a., and others, as defined in G.S. 122C-3(11)b., may initiate
+House Bill 1104-Fifth Edition Page 29
+
+General Assembly Of North Carolina Session 2025
+1 a new petition for inpatient commitment as provided in this Part. If the
+2 respondent is committed as an inpatient, the outpatient commitment shall be
+3 terminated and notice sent by the clerk of court in the county where the
+4 respondent is committed as an inpatient to the clerk of court of the county
+5 where the outpatient commitment is being supervised."
+6 SECTION 13.(n) This section becomes effective December 1, 2026, and applies to
+7 any initial or supplemental capacity hearing conducted on or after that date.
+8
+9 MODIFY IRYNA'S LAW EFFECTIVE DATE
+10 SECTION 14.(a) Subsection (j) of Section 1 of S.L. 2025-93, as amended by
+11 subsection (b) of Section 5.3 of S.L. 2025-97, reads as rewritten:
+12 "SECTION 1.(j) Subsections (a), (b), (d), and (e) of this section, and subsection (b) of
+13 G.S. 15A-533, as amended in subsection (c) of this section, become effective December 1, 2025,
+14 and apply to persons appearing before a judicial official for the determination of pretrial release
+15 conditions on or after that date. Subsection (b1) of G.S. 15A-533, as enacted by subsection (c) of
+16 this section, becomes effective December 1, 2026, July 1, 2028, and applies to persons appearing
+17 before a judicial official for the determination of pretrial release conditions on or after that date.
+18 The remainder of this section is effective when it becomes law."
+19 SECTION 14.(b) Subsection (b) of Section 9.5 of S.L. 2025-93 reads as rewritten:
+20 "SECTION 9.5.(b) This section becomes effective December 1, 2027, July 1, 2028, and
+21 applies to custody orders issued on or after that date."
+22
+23 EFFECTIVE DATE
+24 SECTION 15. Except as otherwise provided, this act is effective when it becomes
+25 law.
+Page 30 House Bill 1104-Fifth Edition

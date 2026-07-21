@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1060
+Short Title: AG Investigations/Certain ICE & CBP Incidents. (Public)
+Sponsors: Representatives Greenfield, Morey, Rubin, and Budd (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 28, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT REQUIRING THE ATTORNEY GENERAL TO INVESTIGATE INCIDENTS
+3 INVOLVING FEDERAL IMMIGRATION ENFORCEMENT THAT RESULT IN
+4 SERIOUS BODILY INJURY OR DEATH.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Article 1 of Chapter 114 of the General Statutes is amended by adding
+7 a new section to read:
+8 "§ 114-8.8. Investigations into incidents involving federal law enforcement.
+9 (a) Definitions. – For purposes of this section, the following definitions apply:
+10 (1) CBP. – Customs and Border Protection of the United States Department of
+11 Homeland Security.
+12 (2) Federal immigration enforcement. – Officers, agents, or other personnel
+13 employed by CBP or ICE, or any State or local law enforcement officers or
+14 employees authorized to perform immigration officer functions pursuant to
+15 section 287(g) of the Immigration and Nationality Act, 8 U.S.C. § 1357.
+16 (3) ICE. – Immigration and Customs Enforcement of the United States
+17 Department of Homeland Security.
+18 (b) Investigations. – The Attorney General shall investigate all incidents occurring in this
+19 State that involve federal immigration enforcement and result in serious bodily injury or death to
+20 any party. The investigation shall determine the cause and circumstances of the incident.
+21 (c) Reports. – The Attorney General shall publicly release all findings and
+22 recommendations from any investigation described in subsection (b) of this section and deliver
+23 copies of such findings to the Speaker of the House of Representatives and the President Pro
+24 Tempore of the Senate within seven days of completing an investigation. The Attorney General
+25 may redact the names and personally identifying information of any victims and minors
+26 mentioned in such findings."
+27 SECTION 2. There is appropriated from the General Fund to the Department of
+28 Justice the sum of four hundred fifty thousand dollars ($450,000) in nonrecurring funds for the
+29 2026-2027 fiscal year to be used to implement the requirements of this act.
+30 SECTION 3. This act is effective when it becomes law and applies to incidents
+31 occurring on or after that date.
+*H1060-v-1*

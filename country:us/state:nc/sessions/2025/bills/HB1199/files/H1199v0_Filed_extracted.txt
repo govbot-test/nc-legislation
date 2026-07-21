@@ -1,0 +1,558 @@
+Title: 
+Official Title: 
+Source: versions - Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+H.B. 1199
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 30, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH10634-NEfa-119
+Short Title: The Seatbelt Act. (Public)
+Sponsors: Representative Schietzelt.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENACT THE STRONGER ENFORCEMENT AND ACCOUNTABILITY FOR
+3 TRANSPORTATION BEHAVIOR AND EMERGING LIVE-SAVING TECHNOLOGY
+4 (SEATBELT) ACT.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. TITLE
+8 SECTION 1.1. This act shall be known as "The Stronger Enforcement and
+9 Accountability for Transportation Behavior and Emerging Live-saving Technology
+10 (SEATBELT) Act."
+11
+12 PART II. INTELLIGENT SPEED ASSISTANCE SYSTEMS
+13 SECTION 2.1. Article 2 of Chapter 20 of the General Statutes is amended by adding
+14 the following new sections to read:
+15 "§ 20-17.10. Restriction of a license after certain speeding convictions; Intelligent Speed
+16 Assistance system.
+17 (a) Definition. – For purposes of this section, the term Intelligent Speed Assistance (ISA)
+18 system means an aftermarket system that uses location-based technology to automatically
+19 regulate vehicle acceleration or speed in accordance with the applicable speed limit.
+20 (b) Scope. – This section applies to applies to a person whose drivers license was revoked,
+21 or whose driving privilege was limited, pursuant to either (i) G.S. 20-16.1 or (ii) a violation of
+22 any of the following:
+23 (1) G.S. 20-140.
+24 (2) G.S. 20-141.
+25 (3) G.S. 20-141.1.
+26 (4) G.S 20-141.3.
+27 (5) G.S. 20-141.4.
+28 (6) G.S. 20-141.5.
+29 (7) G.S. 20-141.6.
+30 (8) G.S. 20-141.10.
+31 (c) ISA System Required. – When the Division restores the license of, or grants a limited
+32 driving privilege to, a person who is subject to this section, in addition to any other restriction or
+33 condition, it shall require the person to agree to and shall indicate on the person's drivers license
+34 that the person may only operate a vehicle equipped with a functioning ISA system approved by
+35 the Commissioner.
+*DRH10634-NEfa-119*
+
+General Assembly Of North Carolina Session 2025
+1 (d) Length of Requirement. – The requirements of subsection (c) shall remain in effect
+2 for one year from the date of restoration..
+3 (e) Vehicles Subject to Requirement. – A person subject to this section shall designate in
+4 accordance with the policies of the Division any registered vehicles owned by that person that
+5 the person operates or intends to operate and have the designated vehicles equipped with a
+6 functioning ISA system of a type approved by the Commissioner. The Commissioner shall not
+7 issue a license to a person subject to this section until presented with proof of the installation of
+8 an ISA system in at least one of the person's designated vehicles. The Commissioner shall cancel
+9 the drivers license of any person subject to this section for operating a vehicle that has not been
+10 designated and equipped with a functioning ISA system in accordance with this subsection, or
+11 removal of the ignition interlock system from any designated motor vehicle owned by the person,
+12 other than when changing ISA system providers or upon sale of the designated vehicle.
+13 (f) Notice of Requirement. – When a court reports to the Division a conviction of a
+14 person who is subject to this section, the Division must send the person written notice of the
+15 requirements of this section and of the consequences of failing to comply with these
+16 requirements. The notification must include a statement that the person may contact the Division
+17 for information on obtaining and having installed an ISA system of a type approved by the
+18 Commissioner.
+19 (g) Effect of Violation of Restriction. – A person subject to this section who violates any
+20 of the restrictions of this section commits the offense of driving while license revoked under
+21 G.S. 20-28 and is subject to punishment as provided in that section.
+22 (h) Notification of Revocation. – If the person's license has not already been surrendered
+23 to the court, the Division must expeditiously notify the person that the person's license to drive
+24 is revoked pursuant to subsection (g) of this section effective on the thirtieth calendar day after
+25 the mailing of the revocation order.
+26 (i) Restoration After Violation. – When the Division restores the license of a person
+27 whose license was revoked pursuant to subsection (g) of this section and the revocation occurred
+28 prior to completion of time period required by subsection (d) of this section, in addition to any
+29 other restriction or condition, it shall require the person to comply with the conditions of
+30 subsection (c) of this section until the person has complied with those conditions for the
+31 cumulative period of time as set forth in subsection (d) of this section. The period of time for
+32 which the person successfully complied with subsection (c) of this section prior to revocation
+33 pursuant to subsection (g) of this section shall be applied towards the requirements of subsection
+34 (d) of this section.
+35 (j) Data collection. – All data collected by ISA systems pursuant to this section shall be
+36 subject to the following restrictions:
+37 (1) An ISA system shall only collect the data necessary to support key functions
+38 such as confirming compliance, evaluating program performance, and
+39 improving system accuracy and effectiveness.
+40 (2) Data collected through an ISA system shall not be disclosed unless: (i) the
+41 disclosure is required by law or regulation or (ii) the disclosed data is
+42 depersonalized and aggregated for research or evaluation purposes.
+43 (3) Data collected through an ISA system shall not be sold, licensed, or used for
+44 commercial purposes.
+45 (k) Tampering. – Any person who tampers with, circumvents, or attempts to circumvent
+46 an ISA system required to be installed on a motor vehicle pursuant to judicial order, statute, or
+47 as may be otherwise required as a condition for an individual to operate a motor vehicle, for the
+48 purpose of avoiding or altering the ISA system's speed or acceleration controls in the operation
+49 or attempted operation of a vehicle is guilty of a Class 1 misdemeanor. Each act of tampering,
+50 circumvention, or attempted circumvention under this statute shall constitute a separate violation.
+Page 2 DRH10634-NEfa-119
+
+General Assembly Of North Carolina Session 2025
+1 (l) Report to General Assembly. – Beginning on January 1, 2028, and annually
+2 thereafter, the Division shall submit to shall submit to the Chairs of the House and Senate
+3 Transportation Committees of the General Assembly, and post on the Division's website, a report
+4 that summarizes the effectiveness of ISA system usage. The report shall include the number of
+5 program participants, recidivism rates, and user compliance."
+6 SECTION 2.2. G.S. 20-179.5 reads as rewritten:
+7 "§ 20-179.5. Affordability of ignition interlock system.and Intelligent Speed Assistance
+8 systems.
+9 (a) Payment of Costs. – The costs incurred in order to comply with the ignition interlock
+10 or Intelligent Speed Assistance (ISA) requirements imposed by the court or the Division pursuant
+11 to this Chapter, including costs for installation and monitoring of the ignition interlock or ISA
+12 system, shall be paid by the person ordered to install the system. The costs incurred from
+13 voluntarily installing an ignition interlock or ISA system, including costs for monitoring the
+14 ignition interlock or ISA system, shall be paid by the person voluntarily installing the system.
+15 Costs for installation and monitoring of the ignition interlock or ISA system shall be collected
+16 under terms agreed upon by the ignition interlock or ISA system vendor and the person required
+17 to install, or voluntarily installing, the ignition interlock or ISA system.
+18 (b) Waiver. – A person who is ordered by a court, or required by statute, to install an
+19 ignition interlock or ISA system in order to lawfully operate a motor vehicle, but who is unable
+20 to afford the cost of an ignition interlock or ISA system, may apply to an authorized vendor for
+21 a waiver of a portion of the costs of an ignition interlock or ISA system. Additionally, a person
+22 meeting the requirements set forth in sub-subdivisions a. through f. of subdivision (6b) of
+23 subsection (e) of G.S. 20-179 who is unable to afford the cost of an ignition interlock system may
+24 apply to an authorized vendor for a waiver of a portion of the costs of an ignition interlock system.
+25 (c) Affidavit. – A person who applies for a waiver of a portion of the costs of an ignition
+26 interlock or ISA system under subsection (b) of this section shall provide to the vendor on a form
+27 affidavit created by the Division a statement (i) that the person's income is at or below one
+28 hundred fifty percent (150%) of the federal poverty line or (ii) that the person is enrolled in any
+29 of the following public assistance programs:
+30 (1) Temporary Assistance for Needy Families (TANF).
+31 (2) Supplemental Security Income (SSI).
+32 (3) Supplemental Nutrition Assistance Program (SNAP).
+33 (4) Low Income Home Energy Assistance Program (LIHEAP).
+34 (5) Medicaid.
+35 (d) Supporting Documentation. – A person who submits an affidavit under subsection (c)
+36 of this section shall provide to the vendor documentation confirming the statement set out in the
+37 affidavit. A person may establish the person's income for purposes of this subsection by providing
+38 any of the following:
+39 (1) A copy of the person's federal tax return for the previous year.
+40 (2) A copy of the person's IRS Form W-2 for the previous year.
+41 (3) A copy of the person's pay stubs or monthly income statements for the three
+42 months immediately preceding the date of application under subsection (b) of
+43 this section.
+44 (4) A verification of unemployment benefits paid to the person for the three
+45 months immediately preceding the date of application under subsection (b) of
+46 this section.
+47 (e) Reduction of Costs. – A vendor who receives a waiver under subsection (b) of this
+48 section that complies with the requirements of subsections (c) and (d) of this section shall install
+49 the ignition interlock or ISA system in accordance with both of the following terms:
+50 (1) The applicant shall not be required to pay for installation or removal of the
+51 ignition interlock or ISA system or systems.
+DRH10634-NEfa-119 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (2) The applicant shall receive a fifty percent (50%) discount on the monthly
+2 service rate charged to persons who are not granted a waiver under this
+3 section.
+4 (f) Review of Denial. – An applicant denied a waiver of ignition interlock or ISA system
+5 costs under this section may seek review by the Division of the vendor's determination. The
+6 Division shall adopt rules to govern its review under this subsection."
+7 SECTION 2.3. No later than December 1, 2026, the Department of Transportation,
+8 Division of Motor Vehicles, shall contract with at least two qualified vendors to implement the
+9 requirements of this Part.
+10 SECTION 2.4. The Division of Motor Vehicles of the Department of Transportation
+11 shall adopt rules to implement this Part.
+12 SECTION 2.5. Sections 2.1 and 2.2 of this act become effective December 1, 2027,
+13 and applies to offenses committed on or after that date.
+14
+15 PART III. MODIFY IGNITION INTERLOCK REQUIREMENTS
+16 SECTION 3.1. G.S. 20-16.2(c1) reads as rewritten:
+17 "(c1) Procedure for Reporting Results and Refusal to Division. – Whenever a person
+18 refuses to submit to a chemical analysis, a person has an alcohol concentration of 0.15 0.08 or
+19 more, or a person's drivers license has an alcohol concentration restriction and the results of the
+20 chemical analysis establish a violation of the restriction, the law enforcement officer and the
+21 chemical analyst shall without unnecessary delay go before an official authorized to administer
+22 oaths and execute an affidavit(s) stating that:all of the following:
+23 (1) The person was charged with an implied-consent offense or had an alcohol
+24 concentration restriction on the drivers license;license.
+25 (2) A law enforcement officer had reasonable grounds to believe that the person
+26 had committed an implied-consent offense or violated the alcohol
+27 concentration restriction on the drivers license;license.
+28 (3) Whether the implied-consent offense charged involved death or critical injury
+29 to another person, if the person willfully refused to submit to chemical
+30 analysis;analysis.
+31 (4) The person was notified of the rights in subsection (a); and(a).
+32 (5) The results of any tests given or that the person willfully refused to submit to
+33 a chemical analysis.
+34 If the person's drivers license has an alcohol concentration restriction, pursuant to G.S. 20-19(c3),
+35 and an officer has reasonable grounds to believe the person has violated a provision of that
+36 restriction other than violation of the alcohol concentration level, the officer and chemical analyst
+37 shall complete the applicable sections of the affidavit and indicate the restriction which was
+38 violated. The officer shall immediately mail the affidavit(s) to the Division. If the officer is also
+39 the chemical analyst who has notified the person of the rights under subsection (a),(a) of this
+40 section, the officer may perform alone the duties of this subsection."
+41 SECTION 3.2. G.S. 20-16.2(e1) reads as rewritten:
+42 "(e1) Limited Driving Privilege after Six Months in Certain Instances. – A person whose
+43 driver's license has been revoked under this section may apply for and a judge authorized to do
+44 so by this subsection may issue a limited driving privilege if:if all of the following requirements
+45 are met:
+46 (1) At the time of the refusal the person held either a valid drivers license or a
+47 license that had been expired for less than one year;year.
+48 (2) At the time of the refusal, the person had not within the preceding seven years
+49 been convicted of an offense involving impaired driving;driving.
+50 (3) At the time of the refusal, the person had not in the preceding seven years
+51 willfully refused to submit to a chemical analysis under this section;section.
+Page 4 DRH10634-NEfa-119
+
+General Assembly Of North Carolina Session 2025
+1 (4) The implied consent offense charged did not involve death or critical injury
+2 to another person;person.
+3 (5) The underlying charge for which the defendant was requested to submit to a
+4 chemical analysis has been finally disposed of:
+5 a. Other than by conviction; or
+6 b. By a conviction of impaired driving under G.S. 20-138.1, at a
+7 punishment level authorizing issuance of a limited driving privilege
+8 under G.S. 20-179.3(b), and the defendant has complied with at least
+9 one of the mandatory conditions of probation listed for the punishment
+10 level under which the defendant was sentenced;sentenced.
+11 (6) Subsequent to the refusal the person has had no unresolved pending charges
+12 for or additional convictions of an offense involving impaired driving;driving.
+13 (7) The person's license has been revoked for at least six months for the refusal;
+14 andrefusal.
+15 (8) The person has obtained a substance abuse assessment from a mental health
+16 facility and successfully completed any recommended training or treatment
+17 program.
+18 (9) All vehicles that the person will be authorized to drive have been equipped
+19 with a type of ignition interlock system approved by the Commissioner.
+20 Except as modified in this subsection, the provisions of G.S. 20-179.3 relating to the procedure
+21 for application and conduct of the hearing and the restrictions required or authorized to be
+22 included in the limited driving privilege apply to applications under this subsection. If the case
+23 was finally disposed of in the district court, the hearing shall be conducted in the district court
+24 district as defined in G.S. 7A-133 in which the refusal occurred by a district court judge. If the
+25 case was finally disposed of in the superior court, the hearing shall be conducted in the superior
+26 court district or set of districts as defined in G.S. 7A-41.1 in which the refusal occurred by a
+27 superior court judge. A limited driving privilege issued under this section authorizes a person to
+28 drive if the person's license is revoked solely under this section or solely under this section and
+29 G.S. 20-17(2). If the person's license is revoked for any other reason, the limited driving privilege
+30 is invalid."
+31 SECTION 3.3. G.S. 20-16.5(p) reads as rewritten:
+32 "(p) Limited Driving Privilege. – A person whose drivers license has been revoked for a
+33 specified period of 30 or 45 days under this section may apply for a limited driving privilege if:if
+34 all of the following requirements are met:
+35 (1) At the time of the alleged offense the person held either a valid drivers license
+36 or a license that had been expired for less than one year;year.
+37 (2) Does not have an unresolved pending charge involving impaired driving
+38 except the charge for which the license is currently revoked under this section
+39 or additional convictions of an offense involving impaired driving since being
+40 charged for the violation for which the license is currently revoked under this
+41 section;section.
+42 (3) The person's license has been revoked for at least 10 days if the revocation is
+43 for 30 days or 30 days if the revocation is for 45 days; anddays.
+44 (4) The person has obtained a substance abuse assessment from a mental health
+45 facility and registers for and agrees to participate in any recommended training
+46 or treatment program.
+47 (5) All vehicles that the person will be authorized to drive have been equipped
+48 with a type of ignition interlock system approved by the Commissioner.
+49 A person whose license has been indefinitely revoked under this section may, after
+50 completion of 30 days under subsection (e) or the applicable period of time under subdivision
+51 (1), (2), or (3) of subsection (f), apply for a limited driving privilege. In the case of an indefinite
+DRH10634-NEfa-119 Page 5
+
+General Assembly Of North Carolina Session 2025
+1 revocation, a judge of the division in which the current offense is pending may issue the limited
+2 driving privilege only if the privilege is necessary to overcome undue hardship and the person
+3 meets the eligibility requirements of G.S. 20-179.3, except that the requirements in
+4 G.S. 20-179.3(b)(1)c. and G.S. 20-179.3(e) shall not apply. Except as modified in this
+5 subsection, the provisions of G.S. 20-179.3 relating to the procedure for application and conduct
+6 of the hearing and the restrictions required or authorized to be included in the limited driving
+7 privilege apply to applications under this subsection. Any district court judge authorized to hold
+8 court in the judicial district is authorized to issue such a limited driving privilege. A limited
+9 driving privilege issued under this section authorizes a person to drive if the person's license is
+10 revoked solely under this section. If the person's license is revoked for any other reason, the
+11 limited driving privilege is invalid."
+12 SECTION 3.4. G.S. 20-17.8 reads as rewritten:
+13 "§ 20-17.8. Restoration of a license after certain driving while impaired convictions;
+14 ignition interlock.
+15 (a) Scope. – This section applies to a person whose license was revoked as a result of a
+16 conviction of driving while impaired, G.S. 20-138.1, and any of the following conditions is met:
+17 (1) The person had an alcohol concentration of 0.150.08 or more.more or refused
+18 to submit to a chemical analysis.
+19 (2) The person has been convicted of another offense involving impaired driving,
+20 which offense occurred within seven years immediately preceding the date of
+21 the offense for which the person's license has been revoked.
+22 (3) The person was sentenced pursuant to G.S. 20-179(f3).
+23 For purposes of subdivision (1) of this subsection, the results of a chemical analysis, as shown
+24 by an affidavit or affidavits executed pursuant to G.S. 20-16.2(c1), shall be used by the Division
+25 to determine that person's alcohol concentration.
+26 (a1) Additional Scope. – This section applies to a person whose license was revoked as a
+27 result of a conviction of habitual impaired driving, G.S. 20-138.5. Except for a conviction under
+28 G.S. 20-141.4(a2), this section also applies to a person whose license was revoked as a result of
+29 a conviction under G.S. 20-141.4.
+30 (a2) Under Age 21. – The provisions of this section apply to a person whose license was
+31 revoked as the result of a conviction of driving by a person less than 21 years old after consuming
+32 alcohol pursuant to G.S. 20-138.3.
+33 (b) Ignition Interlock Required. – Except as provided in subsection (l) of this section,
+34 when the Division restores the license of a person who is subject to this section, in addition to
+35 any other restriction or condition, it shall require the person to agree to and shall indicate on the
+36 person's drivers license all of the following restrictions for the period designated in subsection
+37 (c):(c) of this section:
+38 (1) A restriction that the person may operate only a vehicle that is equipped with
+39 a functioning ignition interlock system of a type approved by the
+40 Commissioner. The Commissioner shall not unreasonably withhold approval
+41 of an ignition interlock system and shall consult with the Division of Purchase
+42 and Contract in the Department of Administration to ensure that potential
+43 vendors are not discriminated against. All approved vendors shall report all
+44 attempts to start the vehicle with an alcohol concentration greater than 0.02 or
+45 any other violations of the interlock policies established by the Division for
+46 use of an ignition interlock system or a violation of G.S. 20-17.8A to the
+47 Commissioner in accordance with Division requirements.
+48 (2) A requirement that the person personally activate the ignition interlock system
+49 before driving the motor vehicle.
+50 (3) A requirement that the person not drive with an alcohol concentration of 0.02
+51 or greater.
+Page 6 DRH10634-NEfa-119
+
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 3.5. G.S. 20-138.3(d) reads as rewritten:
+3 "(d) Limited Driving Privilege. – A person who is convicted of violating subsection (a) of
+4 this section and whose drivers license is revoked solely based on that conviction may apply for
+5 a limited driving privilege as provided in G.S. 20-179.3. This subsection shall apply only if the
+6 person meets both each of the following requirements:
+7 (1) Is 18, 19, or 20 years old on the date of the offense.
+8 (2) Has not previously been convicted of a violation of this section.
+9 (3) Has equipped all vehicles to be operated under a limited driving privilege with
+10 approved ignition interlock systems.
+11 The judge may issue the limited driving privilege only if the person meets the eligibility
+12 requirements of G.S. 20-179.3, other than the requirement in G.S. 20-179.3(b)(1)c.
+13 G.S. 20-179.3(e) shall not apply. All other terms, conditions, and restrictions provided for in
+14 G.S. 20-179.3 shall apply. G.S. 20-179.3, rather than this subsection, governs the issuance of a
+15 limited driving privilege to a person who is convicted of violating subsection (a) of this section
+16 and of driving while impaired as a result of the same transaction."
+17 SECTION 3.6. G.S. 20-179.3(b) reads as rewritten:
+18 "(b) Eligibility. –
+19 (1) Except as otherwise provided in subdivision (3) of this subsection, a person
+20 convicted of the offense of impaired driving under G.S. 20-138.1 is eligible
+21 for a limited driving privilege if all of the following requirements are met:
+22 a. At the time of the offense the person held either a valid driver's license
+23 or a license that had been expired for less than one year.
+24 b. At the time of the offense the person had not within the preceding
+25 seven years been convicted of an offense involving impaired driving.
+26 c. Punishment Level Three, Four, or Five was imposed for the offense of
+27 impaired driving.
+28 d. Subsequent to the offense the person has not been convicted of, or had
+29 an unresolved charge lodged against the person for, an offense
+30 involving impaired driving.
+31 e. The person has obtained and filed with the court a substance abuse
+32 assessment of the type required by G.S. 20-17.6 for the restoration of
+33 a drivers license.
+34 f. The person has installed an approved ignition interlock system on all
+35 vehicles subject to ignition interlock requirements to be operated by
+36 the applicant under a limited driving privilege
+37 …
+38 (3) A person convicted of the offense of impaired driving under G.S. 20-138.1
+39 that has been convicted of not more than one offense involving impaired
+40 driving within the preceding seven years is eligible for a limited driving
+41 privilege if all of the following requirements are met:
+42 a. At the time of the offense the person held either a valid driver's license
+43 or a license that had been expired for less than one year.
+44 b. At the time of the offense the person did not have an alcohol
+45 concentration of 0.15 or more.
+46 c. One of the following punishment levels was imposed for the offense
+47 of impaired driving:
+48 1. Punishment Level Three, Four, or Five.
+49 2. Punishment Level Two, but only if the Grossly Aggravating
+50 Factor determined to impose Punishment Level Two was the
+51 Grossly Aggravating Factor provided in G.S. 20-179(c)(1).
+DRH10634-NEfa-119 Page 7
+
+General Assembly Of North Carolina Session 2025
+1 d. Subsequent to the offense the person has not been convicted of, or had
+2 an unresolved charge lodged against the person for, an offense
+3 involving impaired driving.
+4 e. The person has obtained and filed with the court a substance abuse
+5 assessment of the type required by G.S. 20-17.6 for the restoration of
+6 a drivers license.
+7 f. The person has installed an approved ignition interlock system on all
+8 vehicles subject to ignition interlock requirements to be operated by
+9 the applicant under a limited driving privilege
+10 A person whose North Carolina driver's license is revoked because
+11 of a conviction in another jurisdiction substantially similar to impaired
+12 driving under G.S. 20-138.1 is eligible for a limited driving privilege
+13 if the person would be eligible for it had the conviction occurred in
+14 North Carolina. Eligibility for a limited driving privilege following a
+15 revocation under G.S. 20-16.2(d) is governed by G.S. 20-16.2(e1)."
+16 SECTION 3.7. G.S. 20-179.3(g5) reads as rewritten:
+17 "(g5) Ignition Interlock Required. – If a person's drivers license is revoked for a conviction
+18 of G.S. 20-138.1, and the person had an alcohol concentration of 0.150.08 or more ormore, is
+19 eligible for a limited driving privilege pursuant to subdivision (b)(3) of this section, or refused to
+20 submit to a chemical analysis, a judge shall include all of the following in a limited driving
+21 privilege order:
+22 If the limited driving privilege order includes the restrictions set forth in this subsection, then
+23 the limitations set forth in subsections (a), (f), (g), (g1), and (g2) of this section do not apply
+24 when the person is operating the designated motor vehicle with a functioning ignition interlock
+25 system. For purposes of this subsection, the results of a chemical analysis presented at trial or
+26 sentencing shall be sufficient to prove a person's alcohol concentration, shall be conclusive, and
+27 shall not be subject to modification by any party, with or without approval by the court. The
+28 removal of the ignition interlock system prior to the end of the revocation period or any extension
+29 shall void the limited driving privilege and the Division shall remove the limited driving privilege
+30 from the person's driving record. The interlock provider shall notify the holder of the limited
+31 driving privilege that removal voids the limited driving privilege in accordance with Division
+32 policy. The Division shall notify the person by first class mail at the address on file with the
+33 Division that the limited driving privilege is void and does not authorize driving due to removal
+34 of the ignition interlock system.
+35 (1) A restriction that the applicant may operate only a designated motor vehicle.
+36 (2) A requirement that the designated motor vehicle be equipped with a
+37 functioning ignition interlock system of a type approved by the
+38 Commissioner, which is set to prohibit driving with an alcohol concentration
+39 of greater than 0.02. The Commissioner shall not unreasonably withhold
+40 approval of an ignition interlock system and shall consult with the Division of
+41 Purchase and Contract in the Department of Administration to ensure that
+42 potential vendors are not discriminated against. All approved vendors shall
+43 report all attempts to start the vehicle with an alcohol concentration greater
+44 than 0.02 or any other violations of the interlock policies established by the
+45 Division for use of an ignition interlock system or a violation of
+46 G.S. 20-17.8A to the Commissioner in accordance with Division
+47 requirements.
+48 (3) A requirement that the applicant personally activate the ignition interlock
+49 system before driving the motor vehicle.
+50 SECTION 3.8. This Part becomes effective December 1, 2027, and applies to
+51 offenses committed on or after that date.
+Page 8 DRH10634-NEfa-119
+
+General Assembly Of North Carolina Session 2025
+1
+2 PART IV. SCHOOL ZONE TRAFFIC CAMERAS
+3 SECTION 4.1. G.S. 8-50.4 reads as rewritten:
+4 "§ 8-50.4. Results of electronic speed-measuring instruments speed and traffic safety
+5 monitoring systems to enforce speed limits traffic laws in school zones;
+6 admissibility.
+7 (a) The results of the use of an electronic speed-measuring speed and traffic safety
+8 monitoring system as described in G.S. 160A-300.4 and G.S. 153A-246.1 shall be admissible as
+9 evidence in nonjudicial administrative hearings held pursuant to G.S. 160A-300.4(d)(5) or
+10 G.S. 153A-246.1(d)(5).
+11 (b) Notwithstanding the provisions of subsection (a) of this section, the results of an
+12 electronic speed-measuring speed and traffic safety monitoring system are not admissible unless
+13 all of the following are established:
+14 (1) The electronic speed-measuring speed and traffic safety monitoring system
+15 employed was approved for use by the North Carolina Criminal Justice
+16 Education and Training Standards Commission and the Secretary of Public
+17 Safety pursuant to G.S. 17C-6.
+18 (2) The electronic speed-measuring speed and traffic safety monitoring system
+19 was calibrated and tested for accuracy in accordance with the standards
+20 established by the North Carolina Criminal Justice Education and Training
+21 Standards Commission and the Secretary of Public Safety for that particular
+22 system.
+23 (c) All electronic speed-measuring speed and traffic safety monitoring systems shall be
+24 calibrated and tested in accordance with standards established by the North Carolina Criminal
+25 Justice Education and Training Standards Commission and the Secretary of Public Safety. A
+26 written certificate by a technician certified by the North Carolina Criminal Justice Education and
+27 Training Standards Commission showing that a test was made within the required testing period
+28 and that the system was accurate shall be competent and prima facie evidence of those facts in a
+29 nonjudicial administrative hearing held pursuant to G.S. 160A-300.4(d)(5) or
+30 G.S. 153A-246.1(d)(5).
+31 (d) In every nonjudicial administrative hearing held pursuant to G.S. 160A-300.4(d)(5)
+32 or G.S. 153A-246.1(d)(5), where the results of an electronic speed-measuring speed and traffic
+33 safety monitoring system are sought to be admitted, notice shall be taken of the rules approving
+34 the electronic speed-measuring speed and traffic safety monitoring system and the procedures
+35 for calibration or testing for accuracy of the system. "
+36 SECTION 4.2. G.S. 17C-6 reads as rewritten:
+37 "§ 17C-6. Powers of Commission.
+38 (a) In addition to powers conferred upon the Commission elsewhere in this Article, the
+39 Commission shall have the following powers, which shall be enforceable through its rules and
+40 regulations, certification procedures, or the provisions of G.S. 17C-10:
+41 …
+42 (13b) In conjunction with the Secretary of Public Safety, approve use of specific
+43 models and types of electronic speed-measuring speed and traffic safety
+44 monitoring systems as described in G.S. 160A-300.4(a) and
+45 G.S. 153A-246.1(a) and establish standards for calibration and testing for
+46 accuracy of each approved system.
+47 …."
+48 SECTION 4.3. G.S. 153A-246.1 reads as rewritten:
+49 "§ 153A-246.1. Use of electronic speed-measuring speed and traffic safety monitoring
+50 systems to enforce speed limits in school zones.
+51 (a) The following definitions apply in this section:
+DRH10634-NEfa-119 Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (1) An electronic speed-measuring system is a Electronic speed and traffic safety
+2 monitoring system.—A mobile or fixed device consisting of an automated
+3 traffic camera and sensor capable of of: (i) measuring speed a vehicle's speed,
+4 positioning, or both and (ii) producing one or more digital photographs or
+5 videos of a motor vehicle violating any of the following: (i) a posted speed
+6 limit.limit, (ii) G.S. 20-158, or (iii) G.S. 20-173.
+7 (2) School zone. – An area near a public, private or parochial school where,
+8 pursuant to G.S. 20-141.1, the Board of Transportation or local authorities
+9 have set speed limits lower than those designated by G.S. 20-141.
+10 …
+11 (d) A county may adopt ordinances for the civil enforcement of G.S. 20-141.1 of: (i)
+12 G.S. 20-141.1, (ii) a violation of G.S. 20-158 within a school zone, or (iii) a violation of
+13 G.S. 20-173 within a school zone by means of an electronic speed-measuring speed and traffic
+14 safety monitoring system. Notwithstanding the provisions of G.S. 20-141.1 G.S. 20-141.1,
+15 G.S. 20-158, G.S. 20-173, and G.S. 20-176, in the event that a county adopts an ordinance
+16 pursuant to this section, a violation of G.S. 20-141.1 G.S. 20-141.1, G.S. 20-158, or G.S. 20-173
+17 detected by an electronic speed-measuring speed and traffic safety monitoring system shall not
+18 be an infraction if a citation is issued in accordance with this subsection. An ordinance authorized
+19 by this subsection shall provide that:
+20 …
+21 (3) The citation shall contain all of the following:
+22 a. The recorded image or video of the vehicle speeding.vehicle: (i)
+23 speeding, (ii) violating G.S. 20-158, or (iii) violating G.S. 20-173.
+24 …
+25 d. TheFor violations of G.S. 20-141.1, the recorded speed.
+26 …."
+27 SECTION 4.4. G.S. 160A-300.4 reads as rewritten:
+28 "§ 160A-300.4. Use of electronic speed-measuring speed and traffic safety monitoring
+29 systems to enforce speed limits in school zones.
+30 (a) The following definitions apply in this section:
+31 (1) An electronic speed-measuring system is a Electronic speed and traffic safety
+32 monitoring system. – A mobile or fixed device consisting of an automated
+33 traffic camera and sensor capable of of (i) measuring speed a vehicle's speed,
+34 positioning, or both and (ii) producing one or more digital photographs or
+35 videos of a motor vehicle violating any of the following: (i) a posted speed
+36 limit. limit, (ii) G.S. 20-158, or (iii) G.S. 20-173.
+37 …
+38 (d) A municipality may adopt ordinances for the civil enforcement of G.S. 20-141.1 of:
+39 (i) G.S. 20-141.1, (ii) a violation of G.S. 20-158 within a school zone, or (iii) a violation of
+40 G.S. 20-173 within a school zone by means of an electronic speed-measuring speed and traffic
+41 safety monitoring system. Notwithstanding the provisions of G.S. 20-141.1 G.S. 20-141.1,
+42 G.S. 20-158, G.S. 20-173, and G.S. 20-176, in the event that a municipality adopts an ordinance
+43 pursuant to this section, a violation of G.S. 20-141.1 G.S. 20-141.1, G.S. 20-158, or G.S. 20-173
+44 detected by an electronic speed-measuring speed and traffic safety monitoring system shall not
+45 be an infraction if a citation is issued in accordance with this subsection. An ordinance authorized
+46 by this subsection shall provide that:
+47 …
+48 (3) The citation shall contain all of the following:
+49 a. The recorded image or video of the vehicle speeding. vehicle: (i)
+50 speeding, (ii) violating G.S. 20-158, or (iii) violating G.S. 20-173.
+51 …
+Page 10 DRH10634-NEfa-119
+
+General Assembly Of North Carolina Session 2025
+1 d. The For violations of G.S. 20-141.1, the recorded speed.
+2 …."
+3 SECTION 4.5. This Part becomes effective October 1, 2026.
+4
+5 PART V. APPROPRIATION OF FUNDS
+6 SECTION 5.1. There is appropriated from the General Fund to the Administrative
+7 Office of the Courts the sum of nine million dollars ($9,000,000) in nonrecurring funds in the
+8 2026-2026 fiscal year to be used for the recordation of district court proceedings.
+9 SECTION 5.2. This Part becomes effective July 1, 2026.
+10
+11 PART VI. SAVINGS CLAUSE AND EFFECTIVE DATE
+12 SECTION 6.1. Prosecutions for offenses committed before the effective date of this
+13 act are not abated or affected by this act, and the statutes that would be applicable but for this act
+14 remain applicable to those prosecutions.
+15 SECTION 6.2. Except as otherwise provided, this act is effective when it becomes
+16 law.
+DRH10634-NEfa-119 Page 11

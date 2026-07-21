@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 991
+Short Title: Community College Workforce Readiness Act. (Public)
+Sponsors: Senators Lee, Overcash, and Barnes (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO APPROPRIATE FUNDS TO SUPPORT NORTH CAROLINA COMMUNITY
+3 COLLEGES AND TO MAKE VARIOUS CHANGES TO THE LAWS AFFECTING
+4 NORTH CAROLINA COMMUNITY COLLEGES.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. NCCCS IDD WORKFORCE TRAINING EXPANSION
+8 SECTION 1.(a) G.S. 115D-10.21(a) reads as rewritten:
+9 "(a) The State Board of Community Colleges shall establish a community college training
+10 program for up to 15 25 community colleges. The program shall provide opportunities for
+11 micro-credentials or other credentials that lead to increased employment outcomes for
+12 individuals with intellectual and developmental disabilities (IDD). To the extent funds are
+13 appropriated for this purpose, the program shall improve the ability of participating community
+14 colleges to offer training and educational components that include improving employability skills
+15 and providing on-the-job training and apprenticeships with business and industry for individuals
+16 with IDD. The goal of the program shall be to inform community colleges and address
+17 cross-departmental supports within the individual community colleges on programs for
+18 individuals with IDD related to at least the following:
+19 (1) Establishing best practices for providing vocational training for individuals
+20 with IDD.
+21 (2) Providing financial and benefits counseling.
+22 (3) Developing strategies on integrating assistive technology.
+23 (4) Maximizing access, with supports, to credential and degree programs,
+24 including micro-credentials that are established by the State Board.
+25 (5) Identifying methods to increase orientation and integration of individuals with
+26 IDD into the college community to the greatest extent possible.
+27 (6) Determining a needs assessment, marketing, and evaluation to serve a broad
+28 array of individuals with developmental and other similar disabilities or
+29 learning challenges to assure adequate demand for new or existing programs."
+30 SECTION 1.(b) Of the funds appropriated for North Carolina Community Colleges
+31 System IDD Workforce Training Expansion in this section, the Community Colleges System
+32 Office shall use the funds as follows:
+33 (1) The sum of six hundred forty thousand dollars ($640,000) in recurring funds
+34 shall be used to create two positions to facilitate the creation of work-based
+35 learning opportunities and be dedicated to engagement with business and
+36 industry partners statewide. These funds shall also be used for the expansion
+*S991-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 of Career and College Promise high school pathways and pre-apprenticeships
+2 and work-based learning for individuals with intellectual and developmental
+3 disabilities.
+4 (2) The sum of eight hundred ten thousand dollars ($810,000) in recurring funds
+5 may be used for marketing evaluation, online resources, professional
+6 development, and infrastructure support.
+7 (3) The remaining funds shall be used to expand the program developed pursuant
+8 to G.S. 115D-10.21, as amended by this section.
+9 SECTION 1.(c) The Community Colleges System Office shall continue to provide
+10 funds to community colleges participating in the program developed pursuant to
+11 G.S. 115D-10.21, as amended by this section, at the rate of one hundred ninety-four thousand
+12 dollars ($194,000) per participating community college.
+13 SECTION 1.(d) There is appropriated from the General Fund to the Community
+14 Colleges System Office the sum of three million eight hundred fifty thousand dollars
+15 ($3,850,000) in recurring funds beginning with the 2026-2027 fiscal year to implement the
+16 provisions of this section.
+17
+18 PART II. EXPEDITED TEACHER PIPELINE PATHWAY STUDY
+19 SECTION 2. No later than March 15, 2027, ApprenticeshipNC shall report to the
+20 Joint Legislative Education Oversight Committee on a plan to facilitate one or more expedited
+21 pathways for apprenticeship candidates to enter the teaching profession. ApprenticeshipNC shall
+22 develop the plan in collaboration with the Board of Governors of The University of North
+23 Carolina, the State Board of Community Colleges, the Department of Public Instruction, and
+24 Teach NC. In addition, ApprenticeshipNC may, in its discretion, collaborate with representatives
+25 of approved educator preparation programs, local school administrative units, and existing
+26 apprenticeship programs. The plan shall include at least the following components:
+27 (1) Options for an accelerated transition pathway that allows high school students
+28 to earn college credits leading to a teaching license while participating in
+29 structured, paid, or other experiential learning in the classroom, including
+30 applicable program design and sequencing components needed to achieve that
+31 goal.
+32 (2) Maximize usage and transferability of at least the following coursework
+33 completion opportunities:
+34 a. College transfer pathways provided through the Career and College
+35 Promise Program that support entry into a recognized educator
+36 preparation program.
+37 b. Community college coursework leading to completion of an associate
+38 degree related to teacher preparation.
+39 c. Online or asynchronous coursework provided at a constituent
+40 institution of The University of North Carolina leading to a bachelor's
+41 degree.
+42 d. Enrollment in an associate degree program or a bachelor's degree
+43 program while serving (i) as a full-time employee in a public school
+44 unit and (ii) as a teacher assistant or apprentice.
+45 (3) Any legislative changes or appropriations needed to implement the plan.
+46
+47 PART III. DIGITAL WALLET EXPANSION
+48 SECTION 3.(a) There is appropriated from the General Fund to the Community
+49 Colleges System Office (System Office) the sum of four million nine hundred thirteen thousand
+50 one hundred dollars ($4,913,100) in nonrecurring funds for the 2026-2027 fiscal year to be used
+51 to expand access to digital credentials in all community colleges in the State. Funds appropriated
+Page 2 Senate Bill 991-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 in this section shall be used (i) to select a single CrMS vendor consistent with the requirements
+2 of subsection (b) of this section and (ii) to pay for deployment costs and other costs associated
+3 with implementing the CrMS, including developing and supporting digital infrastructure to be
+4 used by the vendor and community colleges. Funds appropriated in this section shall not revert
+5 but shall remain available until the end of the 2027-2028 fiscal year.
+6 SECTION 3.(b) Funds appropriated in this section shall be used to contract with a
+7 vendor to provide a Credential Management System (CrMS) that meets the following criteria:
+8 (1) Provides the capability to issue, manage, and verify digital credentials across
+9 multiple widely adopted open standards, including World Wide Web
+10 Consortium (W3C) Verifiable Credentials, OpenBadges, and AnonCreds,
+11 within a single platform.
+12 (2) Supports secure, persistent communication channels that enable
+13 authenticated, peer-to-peer interactions between parties.
+14 (3) Meets or exceeds National Institute of Standards and Technology (NIST)
+15 Identity Assurance Level (IAL) 3 standards for identity proofing to ensure
+16 high-confidence identity verification.
+17 (4) Is designed as a decentralized deployment operating as a network appliance
+18 within the State's controlled cloud environment rather than as a multi-tenant
+19 Software as a Service (SaaS) offering in order to ensure data sovereignty,
+20 reduce long-term operational costs, and eliminate dependency on third-party
+21 hosted infrastructure.
+22 (5) Includes a noncustodial mobile digital wallet that enables individuals to
+23 maintain sole control of their credentials.
+24 (6) Includes configurable, standards-based workflows that extend agency
+25 processes directly to credential holders.
+26 (7) Incorporates advanced capabilities for workforce matching, including
+27 artificial intelligence driven analysis that aligns verified credentials with
+28 employment opportunities.
+29 (8) Includes trust and verification systems anchored using blockchain-based
+30 mechanisms solely for publishing tamper-resistant public keys and service
+31 endpoints, without storing any personally identifiable information or
+32 credential data on-chain.
+33
+34 PART IV. EFFECTIVE DATE
+35 SECTION 4. Except as otherwise provided, this act becomes effective July 1, 2026.
+Senate Bill 991-First Edition Page 3

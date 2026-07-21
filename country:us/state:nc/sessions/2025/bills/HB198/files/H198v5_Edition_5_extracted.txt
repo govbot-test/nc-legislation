@@ -1,0 +1,1903 @@
+Title: 
+Official Title: 
+Source: versions - Edition 5
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 5
+HOUSE BILL 198
+Committee Substitute Favorable 3/5/25
+Senate Commerce and Insurance Committee Substitute Adopted 5/22/26
+Senate Finance Committee Substitute Adopted 6/16/26
+Fifth Edition Engrossed 6/18/26
+Short Title: ABC Omnibus of 2026. (Public)
+Sponsors:
+Referred to:
+February 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AMEND THE LAWS OF THIS STATE RELATED TO ALCOHOLIC
+3 BEVERAGES AND RAFFLES.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. ABC WAREHOUSE LOAN
+7
+8 ALLOW ABC COMMISSION TO OBTAIN A LOAN FOR A NEW STATE
+9 WAREHOUSE
+10 SECTION 1.(a) Notwithstanding G.S. 18B-208, the Alcoholic Beverage Control
+11 Commission may, with the approval of the Governor, obtain a one-time loan of up to three
+12 hundred ten million dollars ($310,000,000) from a financial institution to be used for planning,
+13 design, construction, and equipping of a new automated warehouse and associated offices for the
+14 Commission, as well as purchasing any real property for the new automated warehouse and
+15 associated offices for the Commission, provided that the Commission may not pledge real
+16 property owned by the State of North Carolina as collateral. The Commission's obtaining of a
+17 loan shall not directly or indirectly or contingently obligate the State to levy or to pledge any
+18 form of taxation or to make any appropriation for repayment of the loan. Notwithstanding
+19 G.S. 18B-902(g), the Commission shall repay the loan, including interest, from the proceeds of
+20 permit fees collected by the Commission. The Commission may prepay any obligation under this
+21 section, in whole or in part, without penalty unless the loan agreement expressly provides
+22 otherwise. To the extent the proceeds from the fees referenced in this subsection are deemed
+23 unappropriated, they are hereby appropriated for the purpose of repaying the loan described in
+24 this subsection. For purposes of this section, the term "financial institution" means any banking
+25 corporation or trust company, savings and loan association, credit union, insurance company, or
+26 related corporation, partnership, foundation, or other institution engaged primarily in lending or
+27 investing funds.
+28 SECTION 1.(b) This section becomes effective July 1, 2026.
+29
+30 PART II. ABC TECHNICAL AND CLARIFYING CHANGES
+31
+32 BROWN-BAGGING TECHNICAL CORRECTION
+33 SECTION 2. G.S. 18B-603(d) reads as rewritten:
+*H198-v-5*
+
+General Assembly Of North Carolina Session 2025
+1 "(d) Mixed Beverage Elections. – If a mixed beverage election is held under
+2 G.S. 18B-602(h) and the sale of mixed beverages is approved, the Commission may issue permits
+3 to qualified persons and establishments in the jurisdiction that held the election as follows:
+4 …
+5 (4) The Commission may issue brown-bagging permits for bars, private clubs
+6 clubs, and congressionally chartered veterans organizations but may no longer
+7 issue and may not renew brown-bagging permits for restaurants, hotels, and
+8 community theatres. A restaurant, hotel, or community theatre may not be
+9 issued a mixed beverage permit under subdivision (1) until it surrenders its
+10 brown-bagging permit.
+11 …."
+12
+13 AIRPORT TECHNICAL CORRECTION
+14 SECTION 3. G.S. 18B-300.3 reads as rewritten:
+15 "§ 18B-300.3. Possession and consumption of alcoholic beverages in the security-screened
+16 area of airports.
+17 (a) During the hours of airport operation, any establishment permitted under subdivision
+18 (1), (3), (5), or (10) of G.S. 18B-1000 G.S. 18B-1001 and operating in the Transportation
+19 Security Administration-screened portion of an airport may, with the written approval of the
+20 airport authority, sell the alcoholic beverages it is permitted to sell for consumption throughout
+21 the Transportation Security Administration-screened portion of the establishment's respective
+22 airport terminal.
+23 (b) An alcoholic beverage served for consumption throughout an establishment's airport
+24 terminal shall be served in a container that meets all of the following requirements:
+25 (1) The container is not comprised of glass.
+26 (2) The container displays, in no less than 12-point font, the statement, "Drink
+27 Responsibly – Be 21."
+28 (3) The container shall not hold more than 16 fluid ounces.
+29 (c) A customer may purchase and consume alcoholic beverages throughout the interior
+30 of the Transportation Security Administration-screened portion of the respective airport terminal,
+31 provided that the purchase is from an approved establishment permitted under subdivision (1),
+32 (3), (5), or (10) of G.S. 18B-1000.G.S. 18B-1001.
+33 (d) This section applies only to airports that service airplanes boarding at least 150,000
+34 passengers annually."
+35
+36 CLARIFY PERMISSION TO TAKE MIXED BEVERAGES ONTO PERMITTED
+37 PREMISES IN A SOCIAL DISTRICT
+38 SECTION 4. G.S. 18B-300.1(f) reads as rewritten:
+39 "(f) Limitations on Open Containers. – Except where otherwise allowed by local
+40 ordinance, the possession and consumption of an open container of an alcoholic beverage in a
+41 social district is subject to all of the following requirements:
+42 …
+43 (6) Notwithstanding G.S. 18B-300 and G.S. 18B-301, a permittee or
+44 non-permittee business may allow a customer to possess and consume on the
+45 business's premises alcoholic beverages purchased from a permittee in the
+46 social district. A permittee business that is not permitted to sell mixed
+47 beverages may allow a customer to possess and consume on the business's
+48 premises mixed beverages purchased from a mixed beverages permittee in the
+49 social district."
+50
+51 DELIVERY SERVICES PERMIT TECHNICAL CORRECTIONS
+Page 2 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 5. G.S. 18B-1001.4 reads as rewritten:
+2 "§ 18B-1001.4. Authorization of delivery service permit.
+3 (a) Authorization. – The holder of a delivery service permit, or the permit holder's
+4 employee or independent contractor, may deliver malt beverages, unfortified wine, or fortified
+5 wine on behalf of a retailer holding a permit issued pursuant to subdivisions (1) through (6) and
+6 (16) of G.S. 18B-1001, and single-serving wine drinks or mixed beverages on behalf of a retailer
+7 holding a permit issued pursuant to subdivision (3), (5), or (10) of G.S. 18B-1001 when delivered
+8 in accordance with the requirements of those subdivisions, to a location designated by the
+9 purchaser. A delivery service permittee may also facilitate delivery through technology services
+10 that connect consumers and licensed retailers through the use of the Internet, mobile applications,
+11 and other similar technology.
+12 …
+13 (e) Scope and Construction. – A delivery service permit is not required for a common
+14 carrier lawfully transporting or shipping alcoholic beverages. Nothing in this section shall be
+15 construed as exempting the delivery of alcoholic beverages pursuant to a delivery service permit
+16 from the requirements set forth in Article 4 of Chapter 18B of the General Statutes. Nothing in
+17 this section shall be construed to require a technology services company to obtain a delivery
+18 service permit if the company does not employ or contract with delivery drivers, but rather
+19 provides software or an application that connects consumers and licensed retailers for the
+20 delivery of alcoholic beverages from the licensed retailer. Nothing in this section shall be
+21 construed to require a retailer that holds a permit issued pursuant to subdivisions (1) through (6),
+22 (10), and (16) of G.S. 18B-1001 to obtain a delivery service permit in order for employees of the
+23 retail permittee to deliver malt beverages, unfortified wine, or fortified wine to a location
+24 designated by the purchaser, purchaser; however, the other provisions of this section apply to the
+25 retailer.
+26 …."
+27
+28 CLARIFY SAFE HARBOR FOR LATE ABC PERMIT RENEWALS
+29 SECTION 6.(a) G.S. 18B-903 reads as rewritten:
+30 "§ 18B-903. Duration of permit; renewal and transfer.
+31 (a) Duration. – Once issued, ABC permits shall be valid for the following periods, unless
+32 earlier surrendered, suspended or revoked:
+33 …
+34 (5) All other ABC permits shall be valid for one year, from May 1 to April 30.May
+35 31 of the following year, as provided in subsection (b3) of this section.
+36 (b) Renewal. – Application for renewal of an ABC permit shall be on a form provided
+37 by the Commission. An application for renewal shall be accompanied by an application fee. The
+38 application fee shall be the same amount as the initial fee set in G.S. 18B-902, except that the
+39 renewal application fee for each wine shop permit or malt beverage shop permit shall be five
+40 hundred dollars ($500.00), and the renewal application fee for each mixed beverages permit and
+41 each guest room cabinet permit shall be one thousand dollars ($1,000). The fee shall be paid by
+42 May 1 of each year. A renewal fee shall not be refundable.
+43 (b1) Registration. – Each person holding a malt beverage, fortified wine, or unfortified
+44 wine permit issued pursuant to G.S. 18B-902(d)(1) through G.S. 18B-902(d)(6) shall register by
+45 May 1 of each year on a form provided by the Commission, in order to provide information
+46 needed by the State in enforcing this Chapter and to support the costs of that enforcement. The
+47 registration required by this subsection shall be accompanied by an annual registration and
+48 inspection fee of four hundred dollars ($400.00) for each permit held. The fee shall be paid by
+49 May 1 of each year. A registration fee shall not be refundable. Failure to pay the annual
+50 registration and inspection fee shall result in revocation of the permit.
+51 …
+House Bill 198-Fifth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (b3) Safe Harbor; Late Fees. – Notwithstanding subsection (a) of this section, no permit
+2 issued under Article 10 of this Chapter, other than a special occasion permit, limited special
+3 occasion permit, or special one-time permit, shall expire or be revoked or canceled by the
+4 Commission shall not revoke a permit for failure to pay a renewal application fee or an annual
+5 registration and inspection fee until June 1 of each year. year, and the permittee shall be allowed
+6 to operate under the permit until that date. No later than five business days after April 30 of each
+7 year, the Commission shall notify permittees who have not paid any required renewal application
+8 fees or annual registration and inspection fees as of April 30. April 30 by email or first-class mail.
+9 The Commission shall charge a late fee of twenty-five percent (25%) of the renewal application
+10 fee or registration and inspection fee for a permit for which the renewal application fee or
+11 registration and inspection fee is submitted after April 30.
+12 …."
+13 SECTION 6.(b) G.S. 18B-900, as amended by Section 17(e) of this act, reads as
+14 rewritten:
+15 "§ 18B-900. Qualifications for permit.
+16 (a) Requirements. – To be eligible to receive and to hold an ABC permit, a person must
+17 satisfy all of the following requirements:
+18 …
+19 (6) Not have had an alcoholic beverage permit revoked within three years, except
+20 where the revocation was based solely on a permittee's failure to pay the
+21 annual registration and inspection fee required in G.S. 18B-903(b1).
+22 …
+23 (8) Be current in filing all applicable tax returns to the State and in payment of all
+24 taxes, interest, and penalties that are collectible under G.S. 105-241.22. This
+25 subdivision does not apply to the following ABC permits:
+26 a. Special occasion permit under G.S. 18B-1001(8).
+27 b. Limited special occasion permit under G.S. 18B-1001(9).
+28 c. Special one-time permit under G.S. 18B-1002.
+29 d. Salesman permit under G.S. 18B-1111.
+30 e. Special multiple event permit under G.S. 18B-1002.2.
+31 To avoid undue hardship, however, the Commission may decline to take action under
+32 G.S. 18B-104 against a permittee who is in violation of subdivisions (3), (4), or (5) of this
+33 subsection. Additionally, to avoid undue hardship, the Commission may, in its discretion, allow
+34 the renewal of a permit for a permittee who is in violation of subdivision (8) of this subsection.
+35 …
+36 (f) Procedure to Confirm State Tax Compliance. – Upon request of the Commission, the
+37 Department of Revenue must provide information to the Commission to confirm a person's
+38 compliance with subdivision (a)(8) of this section. If the Department of Revenue notifies the
+39 Commission that a person is not in compliance, then the Commission shall not issue or renew the
+40 person's permit until the Commission receives notice from the Department of Revenue that the
+41 person is in compliance. compliance; however, the Commission may, in its discretion, allow the
+42 renewal of a permit notwithstanding a person's lack of compliance with subdivision (a)(8) of this
+43 section. The requirement to pay all taxes, interest, and penalties may be satisfied by an operative
+44 agreement under G.S. 105-237 covering any amounts that are collectible under G.S. 105-241.22.
+45 Chapter 150B of the General Statutes does not apply to a Commission action on issuance,
+46 suspension, or revocation of an ABC permit under subdivision (a)(8) of this section."
+47 SECTION 6.(c) G.S. 105-113.83A(d) reads as rewritten:
+48 "(d) Penalty. – The Secretary must notify the ABC Commission when a permittee required
+49 to register is not eligible to hold an ABC permit for failure to satisfy in violation of
+50 G.S. 18B-900(a)(8). Upon notification, the ABC Commission must may impose any penalty
+51 permitted under G.S. 18B-104."
+Page 4 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 6.(d) Notwithstanding any other provision of law, if (i) a permit holder
+2 was charged a late fee by the Alcoholic Beverage Control Commission pursuant to
+3 G.S. 18B-903(b3) as a result of a notification from the Department of Revenue to the
+4 Commission pursuant to G.S. 18B-900(f) and (ii) the permit holder complied with
+5 G.S. 18B-900(a)(8) before June 1 of the year in which the permit was renewed, in accordance
+6 with the safe harbor provision in G.S. 18B-903(b3), then the permit holder may request a refund
+7 of the late fee from the Commission. A permit holder must submit to the Commission evidence
+8 of compliance with G.S. 18B-900(a)(8) before June 1 of the year in which the permit was
+9 renewed to receive a refund pursuant to this subsection. The Commission shall refund late fees
+10 to any permit holder who meets the requirements of this subsection and requests a refund. All
+11 refund requests pursuant to this subsection must be submitted to the Commission by May 31,
+12 2027.
+13 SECTION 6.(e) Subsection (a) of this section is retroactively effective June 28,
+14 2024. The remainder of this section is effective when it becomes law.
+15
+16 CLARIFY MOBILE BAR SERVICE PERMIT AND INTERACTION WITH CERTAIN
+17 ON-PREMISES PERMITS
+18 SECTION 7. G.S. 18B-1001(12a) reads as rewritten:
+19 "(12a) Mobile Bar Services Permit. –
+20 a. A mobile bar services permit may be issued to a business that provides
+21 bartending services for events. The permit authorizes the permittee to
+22 bring malt beverages, unfortified wine, fortified wine, and spirituous
+23 liquor onto the premises of a business that is not an ABC permittee
+24 and to serve the alcoholic beverages to guests at the event. The Except
+25 as provided in sub-subdivision b. of this subdivision, the permittee
+26 may purchase malt beverages and unfortified wine from either a
+27 retailer or a wholesaler. only from a retailer. The permittee may
+28 purchase fortified wine from either an ABC store or a wholesaler. The
+29 permittee shall purchase and spirituous liquor only from an ABC store
+30 that is designated as a mixed beverage ABC store operated by any
+31 local board operating in the same county where the permittee's
+32 principal office is located. If the permittee's premises for storage of
+33 inventory is a residential address, the permittee may designate an area
+34 of the premises to be used for storage of inventory pursuant to the
+35 permit. An inspection of the premises pursuant to G.S. 18B-502 shall
+36 extend only to the area that the permittee has designated for storage of
+37 inventory unless the law enforcement officer conducting the
+38 inspection has (i) a warrant to search the residence or (ii) probable
+39 cause to search the residence and exigent circumstances exist.
+40 b. The holder of a permit issued pursuant to G.S. 18B-1001(1), (3), (5),
+41 (16), or (16a) may also hold a mobile bar services permit at the same
+42 permitted premises. Notwithstanding sub-subdivision a. of this
+43 subdivision, a permittee who holds both a mobile bar services permit
+44 and a permit issued pursuant to G.S. 18B-1001(1), (3), (5), (16), or
+45 (16a) may not obtain or serve alcoholic beverages that the permittee is
+46 not allowed to sell under the permit or permits that the permittee holds
+47 that are issued pursuant to G.S. 18B-1001(1), (3), (5), (16), or (16a).
+48 The permittee shall only use as inventory for the mobile bar services
+49 permit the permittee's inventory of alcoholic beverages lawfully
+50 purchased from a wholesaler pursuant to the permit or permits that the
+51 permittee holds under G.S. 18B-1001(1), (3), (5), (16), or (16a). The
+House Bill 198-Fifth Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 mobile bar services permit shall authorize such a permittee to bring
+2 those alcoholic beverages onto the premises of a business that is not
+3 an ABC permittee and serve the alcoholic beverages to guests at the
+4 event. Alcoholic beverages that are taken from the permittee's
+5 inventory to an event at another premises under a mobile bar services
+6 permit may be restored to inventory after the event if the alcoholic
+7 beverages are still in the manufacturer's original unopened container.
+8 c. The A mobile bar services permittee may not serve alcoholic
+9 beverages pursuant to a mobile bar services permit on the premises of
+10 any location owned or possessed by the permittee. The permittee shall
+11 notify the Commission, in writing, of the location of any event where
+12 the permittee will serve alcoholic beverages not less than one week
+13 before the event and shall have the permission of the owner or
+14 possessor of the property on which the event is to be held. Any person
+15 serving alcoholic beverages at the event shall be at least 21 years of
+16 age. Alcoholic beverages may be transported by the mobile bar
+17 services permit holder to the premises of the event no earlier than 8:00
+18 A.M. on the day of the event. At the conclusion of the event, all
+19 alcoholic beverages must be removed from the premises no later than
+20 12:00 noon of the following day. A limited special occasion permit
+21 shall not be required for an event at which alcoholic beverages are
+22 exclusively provided by the holder of a mobile bar services permit.
+23 The holder of a mobile bar services permit may bring alcoholic
+24 beverages onto the premises and serve the alcoholic beverages at an
+25 event regardless of whether there is a charge or fee for guests to attend
+26 the event. This permit does not allow the retail sale of individual
+27 alcoholic beverages to guests at an event."
+28
+29 CLARIFY THAT THE ABC COMMISSION MAY ORDER CERTAIN DISPOSITIONS
+30 OF SEIZED ALCOHOLIC BEVERAGES AFTER AN OFFER IN COMPROMISE TO
+31 RESOLVE AN ABC LAW VIOLATION HAS BEEN ACCEPTED BY THE
+32 COMMISSION
+33 SECTION 8.(a) G.S. 18B-503 reads as rewritten:
+34 "§ 18B-503. Disposition of seized alcoholic beverages.
+35 (a) Storage. – A law-enforcement law enforcement officer who seizes alcoholic
+36 beverages as evidence of an ABC law violation shall provide for the storage of those alcoholic
+37 beverages until the commencement of the trial or administrative hearing relating to the violation,
+38 unless some other disposition is authorized under this section.
+39 (b) Disposition Before Trial. – After giving notice to each defendant, to any other known
+40 owner, and to the Commission, a judge may order any of the following dispositions of alcoholic
+41 beverages seized as evidence of an ABC law violation:
+42 (1) The destruction of any malt beverages except that amount needed for evidence
+43 at trial.
+44 (2) The sale of any alcoholic beverages other than malt beverages or nontaxpaid
+45 alcoholic beverages, and other than any alcoholic beverages needed for
+46 evidence at trial, if the trial is likely to be delayed for more than 90 days, or if
+47 the quantity or nature of the alcoholic beverages is such that storage is
+48 impractical or unduly expensive.
+49 (3) The destruction of the alcoholic beverages if storage or sale is not practical.
+50 (4) Continued storage of the alcoholic beverages.
+Page 6 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (c) Disposition After Trial. – After the criminal charge is resolved, a judge may order the
+2 following dispositions of seized alcoholic beverages:
+3 (1) If the owner or possessor of the alcoholic beverages is found guilty of a
+4 criminal charge relating to those alcoholic beverages, the judge may order the
+5 sale or destruction of any alcoholic beverages that were held until trial.
+6 (2) If the owner or possessor of the alcoholic beverages is found not guilty, or if
+7 charges are dismissed or otherwise resolved in favor of the owner or
+8 possessor, the judge shall order the alcoholic beverages returned to that owner
+9 or possessor, except as provided in subdivision (3).
+10 (3) If the owner or possessor of the alcoholic beverages is found not guilty, or if
+11 charges are otherwise resolved in favor of the owner or possessor, but
+12 possession of the alcoholic beverages by that owner or possessor would be
+13 unlawful, the judge shall order the alcoholic beverages either sold or
+14 destroyed.
+15 (4) If ownership of the alcoholic beverages remains uncertain after trial or after
+16 the charges have been dismissed, the judge may order the alcoholic beverages
+17 held, or the alcoholic beverages sold and the proceeds held, for a specified
+18 time, until ownership of the alcoholic beverages can be determined.
+19 (d) Holding for Administrative Hearings. – If alcoholic beverages used as evidence in a
+20 criminal proceeding are also needed as evidence at an administrative hearing, a judge shall not
+21 order any of the dispositions set out in subsection (c), but shall order the alcoholic beverages held
+22 for the administrative hearing and for a determination of final disposition by the Commission.
+23 The Commission may, before or after an administrative hearing, order any of the dispositions
+24 authorized under subsections (b) and (c). Subject to the restriction set forth in this subsection
+25 prohibiting sale or destruction without notice to the district attorney, if the Commission accepts
+26 an offer in compromise to resolve an ABC law violation, the Commission may order the
+27 applicable disposition set out in subdivision (2) or (3) of subsection (c) of this section. If no
+28 related criminal proceeding has commenced, the Commission shall not order sale or destruction
+29 of alcoholic beverages until notice has been given to the district attorney for the district where
+30 the alcoholic beverages were seized or any violation of ABC laws related to the seizure of the
+31 alcoholic beverages is likely to be prosecuted.
+32 …."
+33 SECTION 8.(b) This section is effective when it becomes law and applies to offers
+34 in compromise accepted on or after that date.
+35
+36 CLARIFY THAT WINE SHOP PERMITTEES MAY HOLD MALT BEVERAGE SHOP
+37 PERMITS AND THAT MALT BEVERAGE SHOP PERMITTEES MAY HOLD WINE
+38 SHOP PERMITS
+39 SECTION 9. G.S. 18B-1001 reads as rewritten:
+40 "§ 18B-1001. Kinds of ABC permits; places eligible.
+41 When the issuance of the permit is lawful in the jurisdiction in which the premises are located,
+42 the Commission may issue the following kinds of permits:
+43 …
+44 (16) Wine Shop Permit. – A wine shop permit authorizes (i) the retail sale of malt
+45 beverages, unfortified wine, and fortified wine in the manufacturer's original
+46 container for consumption off the premises, (ii) the retail sale of malt
+47 beverages or unfortified wine dispensed from a tap connected to a pressurized
+48 container utilizing carbon dioxide or similar gas in a cleaned and sanitized
+49 container that is filled or refilled and sealed for consumption off the premises
+50 and that identifies the permittee and the date the container was filled or
+51 refilled, and (iii) wine tastings on the premises conducted and supervised by
+House Bill 198-Fifth Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 the permittee in accordance with subdivision (15) of this section. It also
+2 authorizes the holder of the permit to ship malt beverages, unfortified wine,
+3 and fortified wine in closed containers to individual purchasers inside and
+4 outside the State. The permit may be issued for retail businesses whose
+5 primary purpose is selling malt beverages and wine for consumption off the
+6 premises and regularly and customarily educating consumers through tastings,
+7 classes, and seminars about the selection, serving, and storing of wine. The
+8 holder of the permit is authorized to sell unfortified wine for consumption on
+9 the premises, provided that that, except as otherwise provided in this
+10 subdivision, the sale of wine for consumption on the premises does not exceed
+11 forty percent (40%) of the establishment's total sales for any 30-day period.
+12 The holder of a wine-tasting permit not engaged in the preparation or sale of
+13 food on the premises is not subject to Part 6 of Article 8 of Chapter 130A of
+14 the General Statutes. A holder of a wine shop permit shall also be eligible to
+15 hold a malt beverage shop permit under G.S. 18B-1001(16a). If the holder of
+16 a wine shop permit also holds a malt beverage shop permit, then the sales of
+17 alcoholic beverages for consumption on the premises may not exceed forty
+18 percent (40%) of the establishment's total sales for any 30-day period.
+19 (16a) Malt Beverage Shop Permit. – A malt beverage shop permit authorizes (i) the
+20 retail sale of malt beverages, unfortified wine, and fortified wine in the
+21 manufacturer's original container for consumption off the premises, (ii) the
+22 retail sale of malt beverages dispensed from a tap connected to a pressurized
+23 container utilizing carbon dioxide or similar gas in a cleaned and sanitized
+24 container that is filled or refilled and sealed for consumption off the premises
+25 and that identifies the permittee and the date the container was filled or
+26 refilled, and (iii) malt beverage tastings on the premises conducted and
+27 supervised by the permittee in accordance with subdivision (18) of this
+28 section. It also authorizes the holder of the permit to ship malt beverages,
+29 unfortified wine, and fortified wine in closed containers to individual
+30 purchasers inside and outside the State. The permit may be issued for retail
+31 businesses whose primary purpose is selling malt beverages for consumption
+32 off the premises and regularly and customarily educating consumers through
+33 tastings, classes, and seminars about the selection, serving, and storing of malt
+34 beverages. The holder of the permit is authorized to sell malt beverages for
+35 consumption on the premises, provided that that, except as otherwise provided
+36 in this subdivision, the sale of malt beverages, combined, for consumption on
+37 the premises does not exceed forty percent (40%) of the establishment's total
+38 sales for any 30-day period. The holder of a malt beverage tasting permit not
+39 engaged in the preparation or sale of food on the premises is not subject to
+40 Part 6 of Article 8 of Chapter 130A of the General Statutes. A holder of a malt
+41 beverage shop permit shall also be eligible to hold a wine shop permit under
+42 G.S. 18B-1001(16). If the holder of a malt beverage shop permit also holds a
+43 wine shop permit, then the sales of alcoholic beverages for consumption on
+44 the premises may not exceed forty percent (40%) of the establishment's total
+45 sales for any 30-day period.
+46 …."
+47
+48 CLARIFY ABC COMMISSION NOTICE TO PERMIT HOLDER
+49 SECTION 10.(a) G.S. 18B-502(c) reads as rewritten:
+50 "(c) Notice to Permit Holders. – If the Commission receives a report from a law
+51 enforcement agency other than the Division of Alcohol Law Enforcement of the Department of
+Page 8 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 Public Safety or a local ABC officer any law enforcement agency documenting violations of this
+2 Chapter or Chapter 14 of the General Statutes for conduct occurring on the premises of a
+3 permitted establishment, the Commission shall send notice of the alleged violation to the holder
+4 of the permit within five business days of receipt of the law enforcement agency report. The
+5 written notice shall identify the currently alleged violations and the involved employee. Nothing
+6 in this subsection shall prevent or limit the Commission from taking any additional action
+7 warranted by the circumstances of the violation."
+8 SECTION 10.(b) This section is effective when it becomes law and applies to
+9 violations committed on or after that date.
+10
+11 PART III. OTHER ABC CHANGES
+12
+13 ESTABLISH SERVICE BUSINESS PERMIT
+14 SECTION 11.(a) G.S. 18B-300(a1) reads as rewritten:
+15 "(a1) Consumption on Premises During Time of Permit Revocation or Suspension. – It shall
+16 be unlawful to consume or for a permittee or his a permittee's agent or employee to allow the
+17 consumption of malt beverages or unfortified wine on the premises of any business during the
+18 period of time that any on-premises permit or service business permit issued to the business
+19 authorizing the sale and or consumption of malt beverages or unfortified wine has been
+20 suspended or revoked by the Commission. The prohibition in this subsection does not apply to
+21 the premises upon which the business was located at the time the permit was suspended or
+22 revoked if the business ceases to operate in that location and the owner of the property is not the
+23 permittee, provided that the permittee is not engaged in any other business or other activity on
+24 the premises during the period of suspension or revocation."
+25 SECTION 11.(b) G.S. 18B-603 is amended by adding a new subsection to read:
+26 "(i) Service Business Permits. – The Commission may only issue service business permits
+27 provided for in G.S. 18B-1001(26) to qualified persons and establishments located within a
+28 jurisdiction in which on-premises malt beverage permits or on-premises unfortified wine permits
+29 may be issued, subject to the following restrictions:
+30 (1) If on-premises malt beverage permits, but not on-premises unfortified wine
+31 permits, may be issued in the jurisdiction, the service business permittee may
+32 furnish only malt beverages to customers.
+33 (2) If on-premises unfortified wine permits, but not on-premises malt beverage
+34 permits, may be issued in the jurisdiction, the service business permittee may
+35 furnish only unfortified wine to customers.
+36 (3) If on-premises malt beverage permits and on-premises unfortified wine
+37 permits may be issued in the jurisdiction, the service business permittee may
+38 furnish malt beverages and unfortified wine to customers."
+39 SECTION 11.(c) G.S. 18B-902 reads as rewritten:
+40 "§ 18B-902. Application for permit; fees.
+41 …
+42 (d) Fees. – An application for an ABC permit shall be accompanied by payment of the
+43 following application fee:
+44 …
+45 (57) Service business permit – $50.00.
+46 …
+47 (h) Recycling Plan Required. – Each applicant for an on-premises malt beverage permit,
+48 on-premises unfortified wine permit, service business permit, on-premises fortified wine permit,
+49 or a mixed beverages permit shall prepare and submit with the application a plan for the collection
+50 and recycling of all recyclable beverage containers of all beverages to be furnished or sold at
+51 retail on the premises. Each applicant for a mobile bar services permit shall prepare and submit
+House Bill 198-Fifth Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 with the application a plan for the collection and recycling of all recyclable beverage containers
+2 of all beverages to be served at an event pursuant to the permit. A permittee who is not able to
+3 find a recycler for its beverage containers may apply to the Alcoholic Beverage Control
+4 Commission for a one-year stay of the requirement to implement a recycling program in
+5 compliance with G.S. 18B-1006.1. The application shall be made in a form specified by the
+6 Commission, shall detail the efforts made by the permittee to provide for the collection and
+7 recycling of beverage containers, and shall specify the impediments to implementation of a
+8 recycling plan. The Commission shall submit all such applications to the Division of
+9 Environmental Assistance and Outreach of the Department of Environmental Quality for review
+10 and certification. The Division of Environmental Assistance and Outreach shall investigate each
+11 application and prepare a summary of its investigation and shall submit the summary to the
+12 Commission along with a notation indicating certification or denial of the application. A
+13 permittee whose application for a stay is certified by the Division of Environmental Assistance
+14 and Outreach shall not be required to comply with the recycling requirement of the alcoholic
+15 beverage laws and regulations during the one-year stay period so certified."
+16 SECTION 11.(d) G.S. 18B-903, as amended by Section 6 of this act, reads as
+17 rewritten:
+18 "§ 18B-903. Duration of permit; renewal and transfer.
+19 (a) Duration. – Once issued, ABC permits shall be valid for the following periods, unless
+20 earlier surrendered, suspended or revoked:
+21 (1) On-premises and off-premises malt beverage, unfortified wine, and fortified
+22 wine permits; service business permits; culinary permits; and all permits listed
+23 in G.S. 18B-1100 shall remain valid indefinitely.
+24 …
+25 (b1) Registration. – Each person holding a malt beverage, fortified wine, or unfortified
+26 wine permit unfortified wine, or service business permit issued pursuant to G.S. 18B-902(d)(1)
+27 through G.S. 18B-902(d)(6) or G.S. 18B-902(d)(57) shall register by May 1 of each year on a
+28 form provided by the Commission, in order to provide information needed by the State in
+29 enforcing this Chapter and to support the costs of that enforcement. The For permits issued
+30 pursuant to G.S. 18B-902(d)(1) through G.S. 18B-902(d)(6), the registration required by this
+31 subsection shall be accompanied by an annual registration fee of four hundred dollars ($400.00)
+32 for each permit held. For permits issued pursuant to G.S. 18B-902(d)(57), the registration
+33 required by this subsection shall be accompanied by an annual registration fee of fifty dollars
+34 ($50.00) for each permit held. The fee shall be paid by May 1 of each year. A registration fee
+35 shall not be refundable. Failure to pay the annual registration fee shall result in revocation of the
+36 permit.
+37 (b2) Recycling Plan Required. – Each person holding an on-premises malt beverage
+38 permit, on-premises unfortified wine permit, service business permit, on-premises fortified wine
+39 permit, or a mixed beverages permit shall submit, along with the annual registration or renewal
+40 application, either a current plan for the collection and recycling of all recyclable beverage
+41 containers of all beverages furnished or sold at retail on the premises, or an application for a
+42 waiver pursuant to G.S. 18B-902(h). Each person holding a mobile bar services permit shall
+43 submit, along with the annual renewal application, either a current plan for the collection and
+44 recycling of all recyclable beverage containers of all beverages to be served at an event pursuant
+45 to the permit, or an application for a waiver pursuant to G.S. 18B-902(h).
+46 …."
+47 SECTION 11.(e) G.S. 18B-1000 reads as rewritten:
+48 "§ 18B-1000. Definitions concerning establishments.
+49 The following requirements and definitions shall apply to this Chapter:
+50 …
+Page 10 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (7a) Service business. – An establishment that is primarily engaged in the business
+2 of providing services to the general public that require an occupational license
+3 issued by the State.
+4 (7a)(7b) Sports and entertainment venue. – Stadiums, ballparks, and other similar
+5 facilities with a permanently constructed seating capacity of 3,000 or more
+6 which are not located on the campus of a school, college, or university.
+7 …."
+8 SECTION 11.(f) G.S. 18B-1001 is amended by adding a new subdivision to read:
+9 "(26) Service Business Permit. – A service business permit authorizes the permittee
+10 to furnish complimentary malt beverages and unfortified wine to customers,
+11 in conjunction with the provision of the service, for consumption on the
+12 permittee's premises at no extra charge to the customers. The permittee may
+13 furnish alcoholic beverages to customers only in accordance with
+14 G.S. 18B-603(i). The permittee may not serve more than two servings of
+15 alcoholic beverages to any individual customer in any calendar day. For
+16 purposes of this subdivision, a serving of malt beverage is 16 fluid ounces and
+17 a serving of unfortified wine is 8 fluid ounces. Notwithstanding
+18 G.S. 18B-1006(h), the permittee may purchase malt beverages and unfortified
+19 wine only from a retailer. The permit may be issued to service businesses."
+20 SECTION 11.(g) G.S. 18B-1006.1(a) reads as rewritten:
+21 "(a) Holders of on-premises malt beverage permits, on-premises unfortified wine permits,
+22 service business permits, on-premises fortified wine permits, and mixed beverages permits shall
+23 separate, store, and provide for the collection for recycling of all recyclable beverage containers
+24 of all beverages furnished or sold at retail on the premises. A permittee has satisfied the
+25 requirements of this section if it implements a recycling program that meets the minimum
+26 standards of the model recycling program developed by the Commission pursuant to
+27 G.S. 130A-309.14(m). Failure to comply with the requirements of this section shall not be
+28 grounds for revocation of a permit. A conviction for violation of this section shall not constitute
+29 an alcoholic beverage offense within the meaning of G.S. 18B-900(a)(4)."
+30 SECTION 11.(h) This section becomes effective September 1, 2026.
+31
+32 COUNTY MIXED BEVERAGE ELECTION AMENDMENT
+33 SECTION 12.(a) G.S. 18B-600(b) reads as rewritten:
+34 "(b) County Elections. – Any county may hold a malt beverage, unfortified wine, or ABC
+35 store election. A county may hold a mixed beverage election only if (i) the county already
+36 operates at least one county ABC store or a city located in the county operates at least one ABC
+37 store, or (ii) a county election on ABC stores is to be held at the same time as the mixed beverage
+38 election. Provided, if a county does not operate at least one ABC store, a mixed beverages
+39 permittee may purchase liquor from an ABC store that is designated as a mixed beverage ABC
+40 store operated by any local board operating in the same county as the permittee or any adjacent
+41 county."
+42 SECTION 12.(b) This section is retroactively effective October 1, 2024, and applies
+43 to elections held on or after that date.
+44
+45 REVISE LAW GOVERNING DISPLAY OF SPIRITUOUS LIQUOR DISTILLED OR
+46 PRODUCED IN NORTH CAROLINA
+47 SECTION 13. G.S. 18B-800(e) reads as rewritten:
+48 "(e) Each ABC store shall display spirits which are distilled or produced in North Carolina
+49 in an area dedicated solely to North Carolina products.products or otherwise in the store so long
+50 as the product is identified as a North Carolina product by a price tag or shelf tag."
+51
+House Bill 198-Fifth Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 INCLUDE WHIPPED CREAM IN THE DEFINITION OF ALCOHOL CONSUMABLE
+2 SECTION 14.(a) G.S. 18B-101(4a) reads as rewritten:
+3 "(4a) "Alcohol consumable" means any manufactured and packaged ice cream,
+4 whipped cream, ice pop, gum-based, or gelatin-based food product containing
+5 at least one-half of one percent (0.5%) alcohol by volume."
+6 SECTION 14.(b) This section becomes effective December 1, 2026, and applies to
+7 offenses committed on or after that date.
+8
+9 PROVIDE MIXED BEVERAGES PERMITTEES WITH PRIOR NOTICE OF
+10 APPORTIONED PRODUCT LOTTERY
+11 SECTION 15.(a) G.S. 18B-800 is amended by adding a new subsection to read:
+12 "(c6) Prior Notice of Lottery. – At least 30 days prior to the date it plans to conduct a lottery
+13 or other random drawing to sell apportioned products to mixed beverage permittee customers of
+14 an ABC store, the local board conducting the lottery or other random drawing shall provide each
+15 mixed beverage permittee with written notice of the lottery or other random drawing by email or
+16 first-class mail. For purposes of this subsection, the term "apportioned products" means
+17 containers of spirituous liquor that are made available to local boards only by random drawings
+18 conducted by the Commission."
+19 SECTION 15.(b) This section becomes effective October 1, 2026, and applies to
+20 lotteries or other random drawings to sell apportioned products held on or after that date.
+21
+22 CLARIFY WHEN SPECIAL ONE-TIME PERMITS ARE REQUIRED FOR
+23 NONPROFIT ORGANIZATIONS
+24 SECTION 16. G.S. 18B-1002(a) reads as rewritten:
+25 "(a) Kinds of Permits. – In addition to the other permits authorized by this Chapter, the
+26 Commission may issue permits for the following activities:
+27 …
+28 (2) A permit may be issued to a nonprofit organization to allow the retail sale of
+29 malt beverages, unfortified wine, fortified wine, or mixed beverages, or to
+30 allow brown-bagging, at a single fund-raising event of that organization. A
+31 permit for this purpose shall not be issued for the sale of any kind of alcoholic
+32 beverage in a jurisdiction where the sale of that alcoholic beverage is not
+33 lawful. A permit is not required under this subdivision for an event conducted
+34 by a nonprofit organization that meets any of the following:
+35 a. The event is held on premises permitted under G.S. 18B-1001(1),
+36 18B-1001(2), 18B-1001(3), 18B-1001(4), 18B-1001(5), 18B-1001(6),
+37 or 18B-1001(10) and the wine, malt beverages, and spirituous liquor
+38 sold at the event are sold by the retail permittee from the retail
+39 permittee's inventory.
+40 b. The event is held on a premises that does not hold a permit under this
+41 Chapter and the wine, malt beverages, and spirituous liquor sold or
+42 served at the event is provided by one of the following in a manner
+43 allowed under that permit:
+44 1. A mobile bar services permittee pursuant to
+45 G.S. 18B-1001(12a).
+46 2. A mixed beverage catering permittee pursuant to
+47 G.S. 18B-1001(12).
+48 3. A malt beverage special event permittee pursuant to
+49 G.S. 18B-1114.5.
+50 4. A winery special event permittee pursuant to G.S. 18B-1114.1.
+Page 12 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 5. A spirituous liquor special event permittee pursuant to
+2 G.S. 18B-1114.7.
+3 …
+4 (5) A permit may be issued to a unit of local government, or to a nonprofit
+5 organization or a political organization to serve wine, malt beverages, and
+6 spirituous liquor at a ticketed an event held to allow the unit of local
+7 government or organization to raise funds. A permit is not required under this
+8 subdivision for an event conducted by a unit of local government, a nonprofit
+9 organization, or a political organization that meets any of the following:
+10 a. The event is held on premises permitted under G.S. 18B-1001(1),
+11 18B-1001(2), 18B-1001(3), 18B-1001(4), 18B-1001(5), 18B-1001(6),
+12 or 18B-1001(10) and the wine, malt beverages, and spirituous liquor
+13 sold at the event are sold by the retail permittee from the retail
+14 permittee's inventory.
+15 b. The event is held on a premises that does not hold a permit under this
+16 Chapter and the wine, malt beverages, and spirituous liquor sold or
+17 served at the event is provided by one of the following in a manner
+18 allowed under that permit:
+19 1. A mobile bar services permittee pursuant to
+20 G.S. 18B-1001(12a).
+21 2. A mixed beverage catering permittee pursuant to
+22 G.S. 18B-1001(12).
+23 3. A malt beverage special event permittee pursuant to
+24 G.S. 18B-1114.5.
+25 4. A winery special event permittee pursuant to G.S. 18B-1114.1.
+26 5. A spirituous liquor special event permittee pursuant to
+27 G.S. 18B-1114.7.
+28 For purposes of this subdivision "nonprofit organization" means an
+29 organization that is exempt from taxation under Section 501(c)(3), 501(c)(4),
+30 501(c)(6), 501(c)(8), 501(c)(10), 501(c)(19), or 501(d) of the Internal
+31 Revenue Code or is exempt under similar provisions of the General Statutes
+32 as a bona fide nonprofit charitable, civic, religious, fraternal, patriotic, or
+33 veterans' organization or as a nonprofit volunteer fire department, or as a
+34 nonprofit volunteer rescue squad or a bona fide homeowners' or property
+35 owners' association. For purposes of this subdivision "political organization"
+36 means an organization covered by the provisions of G.S. 163-96(a)(1) or (2)
+37 or a campaign organization established by or for a person who is a candidate
+38 who has filed a notice of candidacy, paid the filing fees or filed the required
+39 petition, and been certified as a candidate. The issuance of this permit shall
+40 also allow the use for culinary purposes of spirituous liquor lawfully
+41 purchased for use in mixed beverages. The issuance of this permit shall also
+42 allow a nonprofit organization to offer alcoholic beverages in the
+43 manufacturer's original closed container as a prize in a raffle or sell alcoholic
+44 beverages in the manufacturer's original closed container at auction at the
+45 ticketed event to allow the nonprofit organization to raise funds.
+46 …."
+47
+48 SPECIAL MULTIPLE EVENT PERMIT
+49 SECTION 17.(a) Article 10 of Chapter 18B of the General Statutes is amended by
+50 adding a new section to read:
+51 "§ 18B-1002.2. Special multiple event permit.
+House Bill 198-Fifth Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 (a) Definitions. – The following definitions apply to this section:
+2 (1) Nonprofit organization. – An organization that is exempt from taxation under
+3 section 501(c)(3), 501(c)(4), 501(c)(6), 501(c)(8), 501(c)(10), 501(c)(19), or
+4 501(d) of the Internal Revenue Code or is exempt under similar provisions of
+5 the General Statutes as a bona fide nonprofit charitable, civic, religious,
+6 fraternal, patriotic, or veterans' organization or as a nonprofit volunteer fire
+7 department, or as a nonprofit volunteer rescue squad or a bona fide
+8 homeowners' or property owners' association.
+9 (2) Political organization. – An organization covered by the provisions of
+10 G.S. 163-96(a)(1) or (2) or a campaign organization established by or for a
+11 person who is a candidate who has filed a notice of candidacy, paid the filing
+12 fees or filed the required petition, and been certified as a candidate.
+13 (b) Permit Authorized. – A special multiple event permit may be issued to an individual
+14 person representing a nonprofit organization or a political organization to allow the following at
+15 multiple fund-raising events of that organization:
+16 (1) The retail sale of malt beverages, unfortified wine, fortified wine, and mixed
+17 beverages.
+18 (2) Brown-bagging.
+19 (3) The serving of malt beverages, unfortified wine, fortified wine, and mixed
+20 beverages at an event.
+21 (4) Offering alcoholic beverages in the manufacturer's original closed container
+22 as a prize in a raffle at an event.
+23 (5) Selling alcoholic beverages in the manufacturer's original closed container at
+24 auction at an event.
+25 The permit holder must be present at any fund-raising event conducted pursuant to a special
+26 multiple event permit.
+27 (c) Permit Holder Limitations. – Not more than two persons representing a single
+28 nonprofit organization or political organization may obtain permits pursuant to this section. No
+29 person may hold a special multiple event permit as a representative of more than one nonprofit
+30 organization or political organization.
+31 (d) Notice of Events. – The holder of the permit shall provide written notice of a
+32 fund-raising event to the Commission and to the governing body of the city or county in which
+33 the fund-raising event will be located at least 30 days prior to the event. The notice shall include
+34 the date, time, and location of the event and the types of alcoholic beverages to be sold or served
+35 at the event. If the event is occurring on premises located partially or entirely within the
+36 boundaries of a social district and is scheduled to occur during hours when alcoholic beverages
+37 may be consumed in the social district, the holder of the permit shall include that information in
+38 the notice.
+39 To be considered by the Commission, the local governing body must file any objection in
+40 writing with the Commission not less than 15 days prior to the event and must state the facts
+41 upon which the objection is based.
+42 The Commission shall have the sole power, in its discretion, to determine suitability of the
+43 location at which the permit will be used to conduct a fund-raising event.
+44 (e) Records. – The permit holder shall maintain for a period of at least one year a record
+45 of each fund-raising event conducted. The record shall include the date of the fund-raising event,
+46 the time of the fund-raising event, an identification of the venue at which the fund-raising event
+47 was held, and the types of alcoholic beverages sold or served at the event. The permit holder shall
+48 allow the Commission to inspect those records at any time.
+49 (f) General Limitations. – A permit issued pursuant to this section shall not allow any of
+50 the following:
+Page 14 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (1) The sale of any kind of alcoholic beverage in a jurisdiction where the sale of
+2 that alcoholic beverage is not lawful.
+3 (2) The sale or consumption of alcoholic beverages outside the hours authorized
+4 in G.S. 18B-1004.
+5 (g) A permit is not required under this section for an event conducted by a nonprofit
+6 organization or political organization that meets any of the following:
+7 (1) The event is held on premises permitted under G.S. 18B-1001(1),
+8 18B-1001(2), 18B-1001(3), 18B-1001(4), 18B-1001(5), 18B-1001(6), or
+9 18B-1001(10) and the wine, malt beverages, and spirituous liquor sold at the
+10 event are sold by the retail permittee from the retail permittee's inventory.
+11 (2) The event is held on a premises that does not hold a permit under this Chapter
+12 and the wine, malt beverages, and spirituous liquor sold or served at the event
+13 is provided by one of the following in a manner allowed under that permit:
+14 a. A mobile bar services permittee pursuant to G.S. 18B-1001(12a).
+15 b. A mixed beverage catering permittee pursuant to G.S. 18B-1001(12).
+16 c. A malt beverage special event permittee pursuant to G.S. 18B-1114.5.
+17 d. A winery special event permittee pursuant to G.S. 18B-1114.1.
+18 e. A spirituous liquor special event permittee pursuant to
+19 G.S. 18B-1114.7."
+20 SECTION 17.(b) G.S. 18B-125 reads as rewritten:
+21 "§ 18B-125. Exceptions.
+22 This Article does not create a claim for relief against any of the following:
+23 (1) One who holds only a brown bagging permit, a special occasions permit, or a
+24 limited special occasions permit;permit.
+25 (2) One who holds only a special one-time permit under G.S.
+26 18B-1002;G.S. 18B-1002.
+27 (2a) One who holds only a special multiple event permit under G.S. 18B-1002.2.
+28 (3) One who holds only permits listed in G.S. 18B-1100;G.S. 18B-1100.
+29 (4) One who holds any combination of the permits listed in this section."
+30 SECTION 17.(c) G.S. 18B-300.1(j) reads as rewritten:
+31 "(j) Interaction with Other Permits. – The Commission shall issue permits for special
+32 events occurring partially or entirely within the boundaries of a social district as follows:
+33 (1) The Commission may issue special one-time permits pursuant to
+34 G.S. 18B-1002(a)(2) or (a)(5) for events occurring on premises located
+35 partially or entirely within the boundaries of a social district. If the event is
+36 scheduled to occur during hours when alcoholic beverages may be consumed
+37 in the social district, the event permittee shall, in addition to obtaining such
+38 signed law enforcement notification as may be required under the
+39 Commission's rules, include in such notification a statement that the event is
+40 to occur in a social district during days and hours designated for consumption
+41 of alcoholic beverages.
+42 (2) A permittee holding a winery special event permit, malt beverage special
+43 event permit, or spirituous liquor special event permit pursuant to
+44 G.S. 18B-1114.1, 18B-1114.5, and 18B-1114.7, respectively, may sell and
+45 serve products at special events taking place in a social district.
+46 (3) A permittee holding a mixed beverages catering permit pursuant to
+47 G.S. 18B-1001(12) may serve spirituous liquor to guests at events taking place
+48 in a social district.
+49 (4) A permittee holding a special multiple event permit pursuant to
+50 G.S. 18B-1002.2 may hold an event in a social district."
+51 SECTION 17.(d) G.S. 18B-603(f) reads as rewritten:
+House Bill 198-Fifth Edition Page 15
+
+General Assembly Of North Carolina Session 2025
+1 "(f) Permits Not Dependent on Elections. – The Commission may issue the following
+2 kinds of permits without approval at an election:
+3 …
+4 (11) Special multiple event permits issued under G.S. 18B-1002.2."
+5 SECTION 17.(e) G.S. 18B-900(a) reads as rewritten:
+6 "(a) Requirements. – To be eligible to receive and to hold an ABC permit, a person must
+7 satisfy all of the following requirements:
+8 …
+9 (8) Be current in filing all applicable tax returns to the State and in payment of all
+10 taxes, interest, and penalties that are collectible under G.S. 105-241.22. This
+11 subdivision does not apply to the following ABC permits:
+12 a. Special occasion permit under G.S. 18B-1001(8).
+13 b. Limited special occasion permit under G.S. 18B-1001(9).
+14 c. Special one-time permit under G.S. 18B-1002.
+15 d. Salesman permit under G.S. 18B-1111.
+16 e. Special multiple event permit under G.S. 18B-1002.2.
+17 …."
+18 SECTION 17.(f) G.S. 18B-901(b) reads as rewritten:
+19 "(b) Notice to Local Government. – Before issuing a retail ABC permit, other than a:
+20 (1) Special occasion permit under G.S. 18B-1001(8);
+21 (2) Limited special occasion permit under G.S. 18B-1001(9);
+22 (3) Temporary permit under G.S. 18B-905; or
+23 (4) Special one-time permit under G.S. 18B-1002
+24 permit for an establishment, the Commission shall give notice of the permit application to the
+25 governing body of the city in which the establishment is located. If the establishment is not inside
+26 a city, the Commission shall give notice to the governing body of the county. The Commission
+27 shall allow the local governing body 15 days from the time the notice was mailed or delivered to
+28 file written objection to the issuance of the permit. To be considered by the Commission, the
+29 objection shall state the facts upon which it is based.
+30 This subsection shall not apply to the following permits:
+31 (1) A special occasion permit under G.S. 18B-1001(8).
+32 (2) A limited special occasion permit under G.S. 18B-1001(9).
+33 (3) A temporary permit under G.S. 18B-905.
+34 (4) A special one-time permit under G.S. 18B-1002.
+35 (5) A special multiple event permit under G.S. 18B-1002.2."
+36 SECTION 17.(g) G.S. 18B-902(d) reads as rewritten:
+37 "(d) Fees. – An application for an ABC permit shall be accompanied by payment of the
+38 following application fee:
+39 …
+40 (58) Special multiple event permit – $200.00."
+41
+42 REVISE REQUIREMENTS FOR RECEIVING A TEMPORARY PERMIT
+43 SECTION 18.(a) G.S. 18B-905 reads as rewritten:
+44 "§ 18B-905. Temporary permits.
+45 When an application has been received in proper form, with the required application fee, the
+46 Commission may issue a temporary permit for any of the activities for which permits are
+47 authorized under G.S. 18B-1001 and 18B-1100. If the person has applied to the applicable local
+48 government for the Inspection/Zoning Compliance and Local Government Opinion forms
+49 required for the application but has not received approvals or denials from the local government,
+50 the applicant may submit a sworn affidavit with the application stating that the person has applied
+51 to the local government for the Inspection/Zoning Compliance and Local Government Opinion
+Page 16 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 approvals in lieu of those approvals. The person shall send the local government approvals or
+2 denials to the Commission within three business days of receiving the approvals or denials. A
+3 temporary permit may be revoked summarily by the Commission without complying with the
+4 provisions of Chapter 150B. Revocation of a temporary permit or withdrawal by the Commission
+5 of a pending application by a permittee possessing a temporary permit shall be effective upon
+6 service of the notice of revocation or withdrawal upon the permittee at either the permittee's
+7 residence or the address given for the business in the permit application or upon the expiration
+8 of five business days after the notice of the revocation or withdrawal has been mailed to the
+9 permittee at either the permittee's residence or the address given for the business in the permit
+10 application. No further notice shall be required."
+11 SECTION 18.(b) This section becomes effective October 1, 2026, and applies to
+12 applications received on or after that date.
+13
+14 REVISE LAW REGULATING THE SALE AND DELIVERY OF MORE THAN ONE
+15 DRINK AT A TIME TO A SINGLE PATRON
+16 SECTION 19.(a) G.S. 18B-1010(a) reads as rewritten:
+17 "(a) Except as otherwise provided in this section, the holder of an on-premises malt
+18 beverage permit, on-premises unfortified wine permit, on-premises fortified wine permit, or
+19 mixed beverages permit issued under G.S. 18B-1001 permit, or a permittee otherwise authorized
+20 to sell malt beverages, unfortified wine, fortified wine, or mixed beverages for on-premises
+21 consumption, may sell and deliver not more than two alcoholic beverage drinks at one time to a
+22 single patron with the following limitations:patron.
+23 (1) Not more than two alcoholic beverage drinks at one time if the alcoholic
+24 beverage drinks are any of the following:
+25 a. A malt beverage.
+26 b. Unfortified wine.
+27 c. Fortified wine.
+28 (2) Not more than one alcoholic beverage at one time if an alcoholic beverage
+29 drink is a mixed beverage or contains spirituous liquor."
+30 SECTION 19.(b) G.S. 18B-1001(10) reads as rewritten:
+31 "(10) Mixed Beverages Permit. – A mixed beverages permit authorizes the retail
+32 sale of mixed beverages for consumption on the premises. The permit also
+33 authorizes a mixed beverages permittee to obtain an antique spirituous liquor
+34 permit under subdivision (20) of this section and to use for culinary purposes
+35 spirituous liquor lawfully purchased for use in mixed beverages. The permit
+36 may be issued for any of the following:
+37 a. Restaurants.
+38 b. Hotels.
+39 c. Private clubs.
+40 d. Convention centers.
+41 e. Community theatres.
+42 f. Nonprofit organizations.
+43 g. Political organizations.
+44 h. Sports and entertainment venues.
+45 i. Bars.
+46 j. The holder of a distillery permit authorized under G.S. 18B-1105.
+47 k. Breweries.
+48 l. Wineries.
+49 Additionally, a mixed beverages permit authorizes a permittee that is a
+50 restaurant, hotel, private club, bar, brewery, winery, or the holder of a
+51 distillery permit to sell at retail mixed beverages for consumption off the
+House Bill 198-Fifth Edition Page 17
+
+General Assembly Of North Carolina Session 2025
+1 premises, including delivery by the permittee or a delivery service permittee.
+2 A mixed beverage sold for consumption off the premises must be sold with
+3 food and shall be (i) a premixed cocktail in the manufacturer's original closed
+4 container, or (ii) packaged in a container with a secure lid or cap, and in a
+5 manner designed to prevent consumption without removal of the lid or cap.
+6 The container shall be no greater than 24 fluid ounces. In accordance with
+7 G.S. 20-138.7, the transportation of a mixed beverage in a motor vehicle shall
+8 not be unlawful if the container is an unopened manufacturer's original
+9 container or is transported in a locked container, in the trunk, or in the area
+10 behind the last upright seat in a motor vehicle not equipped with a trunk.
+11 Notwithstanding G.S. 18B-1010, the sale of more than one mixed beverage
+12 drink two mixed beverage drinks at one time shall not be unlawful if the mixed
+13 beverage drinks are sold for delivery or consumption off the permittee's
+14 premises. No mixed beverage ordered for off-premises consumption shall be
+15 provided to any person other than the purchaser of the mixed beverage, except
+16 that in the case of delivery, the delivery service permittee through its
+17 employees or agents may provide the mixed beverage to a person other than
+18 the purchaser if the permittee or the permittee's employees or agents verify
+19 that the person is over 21 years of age using age verification software requiring
+20 the recipient to provide a form of photographic identification authorized in
+21 G.S. 18B-302(d)(1)."
+22 SECTION 19.(c) This section becomes effective October 1, 2026, and applies to
+23 alcoholic beverages sold on or after that date.
+24
+25 ALLOW THE SALE OF MULTIPLE ALCOHOLIC BEVERAGE DRINKS TO A
+26 SINGLE PATRON IN A VESSEL
+27 SECTION 20.(a) G.S. 18B-1010 is amended by adding a new subsection to read:
+28 "(c) The holder of an on-premises malt beverage permit, on-premises unfortified wine
+29 permit, on-premises fortified wine permit, or mixed beverages permit, or a permittee otherwise
+30 authorized to sell malt beverages, unfortified wine, fortified wine, or mixed beverages for
+31 on-premises consumption, may sell and deliver up to six alcoholic beverage drinks at one time
+32 to a single patron for on-premises consumption if the alcoholic beverage drinks are in the
+33 manufacturer's original unopened container and delivered to the patron in a single vessel."
+34 SECTION 20.(b) The Revisor of Statutes shall replace all references to
+35 "G.S. 18B-1010" with "G.S. 18B-1010(a)" in G.S. 18B-300.1(f), 18B-1001, and 18B-1001.5(g).
+36
+37 MODIFY REQUIREMENTS FOR TOURISM ABC ESTABLISHMENTS
+38 SECTION 21. G.S. 18B-101(14a) reads as rewritten:
+39 "(14a) "Tourism ABC establishment" means a restaurant or hotel that is in a county
+40 in which the on-premises or off-premises sale of malt beverages or unfortified
+41 wine is authorized in at least one city and that meets both either of the
+42 following requirements:
+43 a. Is located on property, a property line of which is located within 1.5
+44 miles 2 miles of the end of an entrance or exit ramp of a junction on a
+45 national scenic parkway designed to attract local, State, national, and
+46 international tourists between the State line and Milepost 469,
+47 provided that the Eastern Band of Cherokee Indians tribal alcoholic
+48 beverage control commission established under G.S. 18B-112 shall
+49 have exclusive authority to issue permits pursuant to this subdivision
+50 between Milepost 460 and the southern terminus of the national scenic
+Page 18 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 byway at Milepost 469 for any restaurant or hotel that is located
+2 wholly on Indian Country lands.
+3 b. Is located in a county in which the on-premises or off-premises sale of
+4 malt beverages or unfortified wine is authorized in at least one city.on
+5 property, a property line of which is located within 3 miles of the State
+6 line, that is adjacent to a North Carolina scenic byway."
+7
+8 CLEANING OF DRAFT LINES
+9 SECTION 22.(a) G.S. 18B-1116(a)(4) reads as rewritten:
+10 "(4) Provide or offer to provide draft line cleaning services (i) to an alcoholic
+11 beverage retailer unless the retailer pays the fair market value for such
+12 services.at a different cost per line than to another alcoholic beverage retailer
+13 or (ii) to some alcoholic beverage retailers but not others. Nothing in this
+14 subdivision shall require any manufacturer, bottler, or wholesaler of any
+15 alcoholic beverages, or any officer, director, or affiliate thereof, to provide or
+16 offer to provide draft line cleaning services."
+17 SECTION 22.(b) G.S. 18B-1003 is amended by adding a new subsection to read:
+18 "(e) Draft Line Cleaning. – Any permittee that provides draft alcoholic beverages shall
+19 ensure that draft lines are cleaned on a regular basis and shall maintain a record of each date of
+20 cleaning and the person or entity that performed the cleaning for at least 12 months."
+21 SECTION 22.(c) This section becomes effective October 1, 2026.
+22
+23 ALLOW ABC COMMISSION TO REQUIRE REAL-TIME REPORTING
+24 SECTION 23. G.S. 18B-205 reads as rewritten:
+25 "§ 18B-205. Accounts and reports required.
+26 (a) Accounts and Reports. – The Commission may require local boards to submit
+27 quarterly mixed beverage reports, quarterly and annual audits, monthly sales records, and any
+28 other reports or audits relating to the operations of the local ABC systems.
+29 (b) Accounting System. – The Commission may require local boards to use generally
+30 accepted accounting standards and a chart of accounts prescribed by the Commission in the
+31 operation of ABC stores, and to record all information necessary and useful to the Commission
+32 in auditing the operation of ABC systems and administering the ABC law.
+33 (c) Audits. – The Commission may audit the operation of any local ABC store or board,
+34 and the books of those stores and boards shall remain open to the Commission for inspection.
+35 (d) Real-Time Reporting. – The Commission may require local boards to submit daily,
+36 weekly, and monthly sales data to a designated vendor in real time. A local board may satisfy
+37 this requirement by connecting or integrating the point-of-sale system used in its ABC stores
+38 with the designated vendor."
+39
+40 ALLOW CERTAIN ABC PERMITTEES TO PREPARE MIXED BEVERAGES FOR
+41 CONSUMER TASTINGS IN ABC STORES
+42 SECTION 24. G.S. 18B-1114.7(c) reads as rewritten:
+43 "(c) Additional Limitations on Tastings in ABC Stores. – Consumer tastings conducted in
+44 an ABC store shall have the following additional limitations:
+45 …
+46 (4) Notwithstanding subdivision (3) of subsection (b) of this section, the total
+47 amount of the tasting samples offered to and consumed by each consumer at
+48 a consumer tasting event shall not exceed one-half ounce of spirituous liquor
+49 in any calendar day.day, including any spirituous liquor in mixed beverages
+50 offered for consumer tasting pursuant to subdivision (4a) of this subsection.
+House Bill 198-Fifth Edition Page 19
+
+General Assembly Of North Carolina Session 2025
+1 (4a) The permit holder conducting the event may prepare and offer for tasting
+2 mixed beverages containing the spirituous liquor offered for tasting at the
+3 ABC store. A mixed beverage offered for tasting pursuant to this subdivision
+4 shall contain no more than 0.25 ounces of spirituous liquor.
+5 …."
+6
+7 MODIFY THE PROHIBITIONS ON ABC PERMITTEES EMPLOYING CERTAIN
+8 INDIVIDUALS
+9 SECTION 25.(a) G.S. 18B-1003(c) reads as rewritten:
+10 "(c) Certain Employees Prohibited. – A permittee shall not knowingly employ in the sale
+11 or distribution of alcoholic beverages any person who has been:
+12 (1) Convicted of a felony within three years;
+13 (2) Convicted of a felony more than three years previously and has not had his
+14 the person's citizenship restored;
+15 (3) Convicted of an alcoholic beverage offense within two years; or
+16 (4) Convicted of a misdemeanor controlled substances offense within two years;
+17 (5) A past permit holder under Chapter 18B of the General Statutes whose permit
+18 had been revoked within the last 18 months and who had been the permit
+19 holder at the location where the person would be employed.
+20 For purposes of this subsection, "conviction" has the same meaning as in G.S. 18B-900(b).
+21 To avoid undue hardship, the Commission may, in its discretion, exempt persons on a
+22 case-by-case basis from this subsection. If the Commission has notified a permittee of a potential
+23 violation of this subsection and the permittee claims undue hardship within 30 days of receipt of
+24 the notification, the permittee may continue to employ the person in question until the final
+25 determination of undue hardship."
+26 SECTION 25.(b) The ABC Commission shall adopt rules to amend its rules
+27 consistent with this section.
+28 SECTION 25.(c) This section is effective when it becomes law and applies to
+29 individuals employed by ABC permittees and undue hardship proceedings on or after that date.
+30
+31 ALLOW OFF-PREMISES WINE TASTINGS
+32 SECTION 26. G.S. 18B-1001, as amended by Section 9 of this act, reads as
+33 rewritten:
+34 "§ 18B-1001. Kinds of ABC permits; places eligible.
+35 When the issuance of the permit is lawful in the jurisdiction in which the premises are located,
+36 the Commission may issue the following kinds of permits:
+37 …
+38 (3) On-Premises Unfortified Wine Permit. – An on-premises unfortified wine
+39 permit authorizes (i) the retail sale of unfortified wine for consumption on the
+40 premises, either alone or mixed with other beverages, (ii) the retail sale of
+41 unfortified wine in the manufacturer's original container for consumption off
+42 the premises, and (iii) the retail sale of unfortified wine dispensed from a tap
+43 connected to a pressurized container utilizing carbon dioxide or similar gas
+44 into a cleaned and sanitized container that is filled or refilled and sealed for
+45 consumption off the premises and that identifies the permittee and the date the
+46 container was filled or refilled. refilled, and (iv) wine tastings conducted at a
+47 consumer's private residence or a location not holding a permit under this
+48 section where consumers are educated about selection, serving, and storing of
+49 wine by the permittee or the permittee's employee or agent utilizing wine from
+50 the permit holder's inventory and consumers may purchase wine for future
+51 delivery or pick-up at the permittee's permitted premises. The permit also
+Page 20 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 authorizes the permittee to transfer unfortified wine, not more than four times
+2 per calendar year, to another on-premises unfortified wine permittee that is
+3 under common ownership or control as the transferor. Except as authorized
+4 by this subdivision, transfers of wine by on-premises unfortified wine
+5 permittees, purchases of wine by a retail permittee from another retail
+6 permittee for the purpose of resale, and sale of wine by a retail permittee to
+7 another retail permittee for the purpose of resale are unlawful. In addition, a
+8 particular brand of wine may be transferred only if both the transferor and
+9 transferee are located within the territory designated between the winery and
+10 the wholesaler on file with the Commission. Prior to or contemporaneous with
+11 any such transfer, the transferor shall notify each wholesaler who distributes
+12 the transferred product of the transfer. The notice shall be in writing or
+13 verifiable electronic format and shall identify the transferor and transferee, the
+14 date of the transfer, quantity, and items transferred. The holder of the permit
+15 is authorized to ship unfortified wine in closed containers to individual
+16 purchasers inside and outside the State. Orders received by a winery by
+17 telephone, Internet, mail, facsimile, or other off-premises means of
+18 communication shall be shipped pursuant to a wine shipper permit and not
+19 pursuant to this subdivision. The permit may be issued for any of the
+20 following:
+21 a. Restaurants.
+22 b. Hotels.
+23 c. Eating establishments.
+24 d. Private clubs.
+25 e. Convention centers.
+26 f. Cooking schools.
+27 g. Community theatres.
+28 h. Wineries.
+29 i. Wine producers.
+30 j. Retail businesses.
+31 k. Sports and entertainment venues.
+32 l. Bars.
+33 m. The holder of a distillery permit authorized under G.S. 18B-1105.
+34 n. Breweries.
+35 Additionally, an on-premises unfortified wine permit authorizes a permittee
+36 that is a restaurant, eating establishment, hotel, private club, bar, brewery,
+37 winery, or wine producer to sell at retail single-serving unfortified wine drinks
+38 for consumption off the premises, including delivery by the permittee or a
+39 delivery service permittee. Single-serving unfortified wine drinks sold for
+40 consumption off the premises must be sold with food and shall be packaged
+41 in a container with a secure lid or cap and in a manner designed to prevent
+42 consumption without removal of the lid or cap. The container shall be no
+43 greater than 24 fluid ounces. In accordance with G.S. 20-138.7, the
+44 transportation of single-serving unfortified wine drinks in a motor vehicle
+45 shall not be unlawful if the container is an unopened manufacturer's original
+46 container or is transported in a locked container, in the trunk, or in the area
+47 behind the last upright seat in a motor vehicle not equipped with a trunk.
+48 Notwithstanding G.S. 18B-1010, the sale of more than two single-serving
+49 unfortified wine drinks at one time shall not be unlawful if the single-serving
+50 unfortified wine drinks are sold for delivery or consumption off the permittee's
+51 premises. No single-serving unfortified wine by the drink ordered for
+House Bill 198-Fifth Edition Page 21
+
+General Assembly Of North Carolina Session 2025
+1 off-premises consumption shall be provided to any person other than the
+2 purchaser of the single-serving unfortified wine drink, except that in the case
+3 of delivery, the delivery service permittee through its employees or agents
+4 may provide the single-serving unfortified wine drink to a person other than
+5 the purchaser if the permittee or the permittee's employees or agents verify
+6 that the person is over 21 years of age using age verification software requiring
+7 the recipient to provide a form of photographic identification authorized in
+8 G.S. 18B-302(d)(1).
+9 …
+10 (16) Wine Shop Permit. – A wine shop permit authorizes (i) the retail sale of malt
+11 beverages, unfortified wine, and fortified wine in the manufacturer's original
+12 container for consumption off the premises, (ii) the retail sale of malt
+13 beverages or unfortified wine dispensed from a tap connected to a pressurized
+14 container utilizing carbon dioxide or similar gas in a cleaned and sanitized
+15 container that is filled or refilled and sealed for consumption off the premises
+16 and that identifies the permittee and the date the container was filled or
+17 refilled, and (iii) wine tastings on the premises conducted and supervised by
+18 the permittee in accordance with subdivision (15) of this section. section, and
+19 (iv) wine tastings conducted at a consumer's private residence or a location
+20 not holding a permit under this section where consumers are educated about
+21 selection, serving, and storing of wine by the permittee or the permittee's
+22 employee or agent utilizing wine from the permit holder's inventory and
+23 consumers may purchase wine for future delivery or pick-up at the permittee's
+24 permitted premises. It also authorizes the holder of the permit to ship malt
+25 beverages, unfortified wine, and fortified wine in closed containers to
+26 individual purchasers inside and outside the State. The permit may be issued
+27 for retail businesses whose primary purpose is selling malt beverages and wine
+28 for consumption off the premises and regularly and customarily educating
+29 consumers through tastings, classes, and seminars about the selection, serving,
+30 and storing of wine. The holder of the permit is authorized to sell unfortified
+31 wine for consumption on the premises, provided that, except as otherwise
+32 provided in this subdivision, the sale of wine for consumption on the premises
+33 does not exceed forty percent (40%) of the establishment's total sales for any
+34 30-day period. The holder of a wine-tasting permit not engaged in the
+35 preparation or sale of food on the premises is not subject to Part 6 of Article 8
+36 of Chapter 130A of the General Statutes. A holder of a wine shop permit shall
+37 also be eligible to hold a malt beverage shop permit under
+38 G.S. 18B-1001(16a). If the holder of a wine shop permit also holds a malt
+39 beverage shop permit, then the sales of alcoholic beverages for consumption
+40 on the premises may not exceed forty percent (40%) of the establishment's
+41 total sales for any 30-day period.
+42 …."
+43
+44 ON-PREMISES SALES AT WINERIES AND BREWERIES
+45 SECTION 27.(a) G.S. 18B-1001, as amended by Section 26 of this act, reads as
+46 rewritten:
+47 "§ 18B-1001. Kinds of ABC permits; places eligible.
+48 When the issuance of the permit is lawful in the jurisdiction in which the premises are located,
+49 the Commission may issue the following kinds of permits:
+50 (1) On-Premises Malt Beverage Permit. – An on-premises malt beverage permit
+51 authorizes (i) the retail sale of malt beverages for consumption on the
+Page 22 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 premises, either alone or mixed with other beverages, (ii) the retail sale of malt
+2 beverages in the manufacturer's original container for consumption off the
+3 premises, and (iii) the retail sale of malt beverages in a cleaned and sanitized
+4 container that is filled or refilled and sealed for consumption off the premises
+5 and that identifies the permittee and the date the container was filled or
+6 refilled. The permit also authorizes the permittee to transfer malt beverages,
+7 not more than four times per calendar year, to another on-premises malt
+8 beverage permittee that is under common ownership or control as the
+9 transferor. Except as authorized by this subdivision, transfers of malt
+10 beverages by on-premises malt beverage permittees, purchases of malt
+11 beverages by a retail permittee from another retail permittee for the purpose
+12 of resale, and sales of malt beverages by a retail permittee to another retail
+13 permittee for the purpose of resale are unlawful. In addition, a particular brand
+14 of malt beverages may be transferred only if both the transferor and transferee
+15 are located within the territory designated between the brewery and the
+16 wholesaler on file with the Commission. Prior to or contemporaneous with
+17 any such transfer, the transferor shall notify each wholesaler who distributes
+18 the transferred product of the transfer. The notice shall be in writing or
+19 verifiable electronic format and shall identify the transferor and transferee, the
+20 date of the transfer, quantity, and items transferred. It also authorizes the
+21 holder of the permit to ship malt beverages in closed containers to individual
+22 purchasers inside and outside the State. The permit may be issued for any of
+23 the following:
+24 a. Restaurants.
+25 b. Hotels.
+26 c. Eating establishments.
+27 d. Food businesses.
+28 e. Retail businesses.
+29 f. Private clubs.
+30 g. Convention centers.
+31 h. Community theatres.
+32 i. Breweries as authorized by subdivisions (7)(7), (7b), and (8) of
+33 G.S. 18B-1104(a).
+34 j. Sports and entertainment venues.
+35 k. Bars.
+36 l. The holder of a distillery permit authorized under G.S. 18B-1105.
+37 m. Wineries as authorized by G.S. 18B-1101(5a) and G.S. 18B-1102(5a).
+38 …
+39 (3) On-Premises Unfortified Wine Permit. – An on-premises unfortified wine
+40 permit authorizes (i) the retail sale of unfortified wine for consumption on the
+41 premises, either alone or mixed with other beverages, (ii) the retail sale of
+42 unfortified wine in the manufacturer's original container for consumption off
+43 the premises, (iii) the retail sale of unfortified wine dispensed from a tap
+44 connected to a pressurized container utilizing carbon dioxide or similar gas
+45 into a cleaned and sanitized container that is filled or refilled and sealed for
+46 consumption off the premises and that identifies the permittee and the date the
+47 container was filled or refilled, and (iv) wine tastings conducted at a
+48 consumer's private residence or a location not holding a permit under this
+49 section where consumers are educated about selection, serving, and storing of
+50 wine by the permittee or the permittee's employee or agent utilizing wine from
+51 the permit holder's inventory and consumers may purchase wine for future
+House Bill 198-Fifth Edition Page 23
+
+General Assembly Of North Carolina Session 2025
+1 delivery or pick-up at the permittee's permitted premises. The permit also
+2 authorizes the permittee to transfer unfortified wine, not more than four times
+3 per calendar year, to another on-premises unfortified wine permittee that is
+4 under common ownership or control as the transferor. Except as authorized
+5 by this subdivision, transfers of wine by on-premises unfortified wine
+6 permittees, purchases of wine by a retail permittee from another retail
+7 permittee for the purpose of resale, and sale of wine by a retail permittee to
+8 another retail permittee for the purpose of resale are unlawful. In addition, a
+9 particular brand of wine may be transferred only if both the transferor and
+10 transferee are located within the territory designated between the winery and
+11 the wholesaler on file with the Commission. Prior to or contemporaneous with
+12 any such transfer, the transferor shall notify each wholesaler who distributes
+13 the transferred product of the transfer. The notice shall be in writing or
+14 verifiable electronic format and shall identify the transferor and transferee, the
+15 date of the transfer, quantity, and items transferred. The holder of the permit
+16 is authorized to ship unfortified wine in closed containers to individual
+17 purchasers inside and outside the State. Orders received by a winery by
+18 telephone, Internet, mail, facsimile, or other off-premises means of
+19 communication shall be shipped pursuant to a wine shipper permit and not
+20 pursuant to this subdivision. The permit may be issued for any of the
+21 following:
+22 a. Restaurants.
+23 b. Hotels.
+24 c. Eating establishments.
+25 d. Private clubs.
+26 e. Convention centers.
+27 f. Cooking schools.
+28 g. Community theatres.
+29 h. Wineries.
+30 i. Wine producers.
+31 j. Retail businesses.
+32 k. Sports and entertainment venues.
+33 l. Bars.
+34 m. The holder of a distillery permit authorized under G.S. 18B-1105.
+35 n. Breweries.Breweries as authorized by subdivisions (7) and (7c) of
+36 G.S. 18B-1104(a).
+37 Additionally, an on-premises unfortified wine permit authorizes a permittee
+38 that is a restaurant, eating establishment, hotel, private club, bar, brewery,
+39 winery, or wine producer to sell at retail single-serving unfortified wine drinks
+40 for consumption off the premises, including delivery by the permittee or a
+41 delivery service permittee. Single-serving unfortified wine drinks sold for
+42 consumption off the premises must be sold with food and shall be packaged
+43 in a container with a secure lid or cap and in a manner designed to prevent
+44 consumption without removal of the lid or cap. The container shall be no
+45 greater than 24 fluid ounces. In accordance with G.S. 20-138.7, the
+46 transportation of single-serving unfortified wine drinks in a motor vehicle
+47 shall not be unlawful if the container is an unopened manufacturer's original
+48 container or is transported in a locked container, in the trunk, or in the area
+49 behind the last upright seat in a motor vehicle not equipped with a trunk.
+50 Notwithstanding G.S. 18B-1010, the sale of more than two single-serving
+51 unfortified wine drinks at one time shall not be unlawful if the single-serving
+Page 24 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 unfortified wine drinks are sold for delivery or consumption off the permittee's
+2 premises. No single-serving unfortified wine by the drink ordered for
+3 off-premises consumption shall be provided to any person other than the
+4 purchaser of the single-serving unfortified wine drink, except that in the case
+5 of delivery, the delivery service permittee through its employees or agents
+6 may provide the single-serving unfortified wine drink to a person other than
+7 the purchaser if the permittee or the permittee's employees or agents verify
+8 that the person is over 21 years of age using age verification software requiring
+9 the recipient to provide a form of photographic identification authorized in
+10 G.S. 18B-302(d)(1).
+11 …."
+12 SECTION 27.(b) G.S. 18B-1101 reads as rewritten:
+13 "§ 18B-1101. Authorization of unfortified winery permit.
+14 The holder of an unfortified winery permit may:
+15 …
+16 (5) Regardless of the results of any local wine election, sell the wine owned by
+17 the winery at the winery for on- or off-premise consumption upon obtaining
+18 the appropriate permit under G.S. 18B-1001;
+19 (5a) Regardless of the results of any local malt beverage election, sell malt
+20 beverages for on-premise consumption upon obtaining the appropriate permit
+21 under G.S. 18B-1001;
+22 …."
+23 SECTION 27.(c) G.S. 18B-1102 reads as rewritten:
+24 "§ 18B-1102. Authorization of fortified winery permit.
+25 The holder of a fortified winery permit may:
+26 …
+27 (5) Regardless of the results of any local wine election, sell the winery's wine for
+28 on-or on- or off-premise consumption upon obtaining the appropriate permit
+29 under G.S. 18B-1001.
+30 (5a) Regardless of the results of any local malt beverage election, sell malt
+31 beverages for on-premise consumption upon obtaining the appropriate permit
+32 under G.S. 18B-1001.
+33 …."
+34 SECTION 27.(d) G.S. 18B-1104 reads as rewritten:
+35 "§ 18B-1104. Authorization of brewery permit.
+36 (a) Authorized Acts. – The holder of a brewery permit may:
+37 …
+38 (7) In an area where the sale of any type of alcoholic beverage is authorized by
+39 law, and upon receiving the appropriate permit under G.S. 18B-1001, sell at
+40 the brewery, and any additional retail location authorized under subdivision
+41 (8) of this subsection, any or all of the following:
+42 a. The brewery's malt beverages that have been approved by the
+43 Commission for sale in North Carolina.
+44 b. Malt beverages manufactured by the permittee in some other state that
+45 have been approved by the Commission for sale in North Carolina.
+46 c. Any other alcoholic beverages approved by the Commission for sale
+47 in North Carolina, if sale of the alcoholic beverage is otherwise
+48 authorized in that area.
+49 (7a) Repealed by Session Laws 2019-182, s. 21(a), effective October 1, 2019.
+House Bill 198-Fifth Edition Page 25
+
+General Assembly Of North Carolina Session 2025
+1 (7b) Regardless of the results of any local malt beverage election, sell the malt
+2 beverages owned by the brewery at the brewery for on- or off-premise
+3 consumption upon obtaining the appropriate permit under G.S. 18B-1001.
+4 (7c) Regardless of the results of any local unfortified wine election, sell unfortified
+5 wine for on-premise consumption upon obtaining the appropriate permit
+6 under G.S. 18B-1001.
+7 …."
+8
+9 ALLOW ABC PERMITTEES TO PURCHASE SPIRITUOUS LIQUOR FROM
+10 DESIGNATED ABC STORES IN ADJACENT COUNTIES
+11 SECTION 28.(a) G.S. 18B-404 reads as rewritten:
+12 "§ 18B-404. Additional provisions for purchase and transportation by mixed beverage
+13 permittees.
+14 …
+15 (c) Designated Store. – A mixed beverage permittee may purchase spirituous liquor from
+16 an any ABC store that is designated as a mixed beverage ABC store operated by any local board
+17 operating in the same county as the permittee.permittee or any adjacent county.
+18 (c1) Non-Solicitation. – A local board shall not solicit any mixed beverage permittee to
+19 purchase spirituous liquor except for permittees located within the board's jurisdiction.
+20 …
+21 (f) Delivery Service. – A local board shall offer make available delivery service to mixed
+22 beverage permittees. permittees operating in the same jurisdiction as the local board. A local
+23 board may provide delivery service to mixed beverage permittees operating in the same county
+24 in which the local board is located or any adjacent county. In providing delivery of purchased
+25 products to mixed beverage permittees, the local board may use its employees or contract with
+26 one or more independent contractors and may charge a fee to the permittee. A local board in a
+27 Tier 1 or Tier 2 county, as defined in G.S. 143B-472.35(a2)(18), may request an exemption to
+28 this requirement from the ABC Commission. The Commission shall grant the request if the local
+29 board can show evidence of unreasonable hardship or difficulty incurred by implementing
+30 delivery service."
+31 SECTION 28.(b) G.S. 18B-600 reads as rewritten:
+32 "§ 18B-600. Places eligible to hold alcoholic beverage elections.
+33 …
+34 (e) City Mixed Beverage Elections. – A city may hold a mixed beverage election if the
+35 city has at least 500 registered voters. Provided, that if a city that qualifies for an election under
+36 this subsection approves the sale of mixed beverages, a mixed beverages permittee in the city
+37 may purchase liquor from an ABC store that is designated as a mixed beverage ABC store
+38 operated by any local board operating in the same county as the permittee.permittee or any
+39 adjacent county.
+40 (e1) Small City Mixed Beverage Elections. – A city may also hold a mixed beverage
+41 election if the city has at least 200 registered voters and is located in a county with at least one
+42 other city that has approved the sale of mixed beverages. Provided, that if a city that qualifies for
+43 an election under this subsection approves the sale of mixed beverages, a mixed beverages
+44 permittee in the smaller city may purchase liquor from an ABC store that is designated as a mixed
+45 beverage ABC store operated by any local board operating in the same county as the
+46 permittee.permittee or any adjacent county.
+47 …
+48 (e4) Multicounty/City ABC Elections. – If a city is located in two or more counties, the
+49 following provisions shall apply:
+50 …
+Page 26 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (3) If an election is held by a city under this subsection, all of the city voters may
+2 vote in the election. If the vote is for approval, alcoholic beverages may be
+3 sold on the basis of that approval and under the provisions of this Chapter. If
+4 the sale of mixed beverages is approved, a mixed beverage permittee may
+5 purchase liquor from an ABC store that is designated as a mixed beverage
+6 ABC store operated by any local board operating in the same county as the
+7 permittee. permittee or any adjacent county. The remaining gross receipts
+8 shall be distributed in accordance with existing law applicable to those ABC
+9 stores, except that after the applicable distributions have been made pursuant
+10 to G.S. 18B-805(b), (c), and (d), the local share of the mixed beverages
+11 surcharge and the guest room cabinet surcharge required by
+12 G.S. 18B-804(b)(8) and (9) shall be distributed one-half to the general fund of
+13 the city where the mixed beverage permittees are located and one-half to the
+14 local ABC boards from whose stores liquor is purchased.
+15 (e5) Small Resort Town ABC Elections. – A town may hold a mixed beverage election if
+16 it:
+17 (1) Was incorporated after 1990 and prior to the effective date of this subsection;
+18 (2) Has at least 100 residents;
+19 (3) Is located in a county that borders another state and that has two other
+20 municipalities which have ABC stores; and
+21 (4) At the time of the election, has corporate boundaries that border or include
+22 land in three counties.
+23 Provided, that if a town that qualifies for an election under this subsection approves the sale
+24 of mixed beverages, a mixed beverages permittee in the town may purchase liquor from an ABC
+25 store that is designated as a mixed beverage ABC store operated by any local board operating in
+26 the same county as the permittee.permittee or any adjacent county.
+27 …."
+28 SECTION 28.(c) G.S. 18B-603(h) reads as rewritten:
+29 "(h) Permits Based on Existing Permits. – In any county which borders on the Atlantic
+30 Ocean and where (i) the sale of malt beverage on and off premises, the sale of unfortified wine
+31 on and off premises, the sale of mixed beverages, and the operation of an ABC system has been
+32 allowed in at least six cities in the county, or in any county adjacent to that county in which an
+33 ABC system has been allowed, or (ii) the sale of malt beverage on and off premises, the sale of
+34 unfortified wine on and off premises, the sale of mixed beverages, and the operation of an ABC
+35 system has been allowed in at least eight cities in the county, the Commission may issue permits
+36 to sports clubs as defined in G.S. 18B-1000(8) throughout the county.
+37 The Commission may issue the following permits:
+38 (1) On and Off Premises Malt Beverage;
+39 (2) On and Off Premises Unfortified Wine;
+40 (3) On and Off Premises Fortified Wine; or
+41 (4) Mixed Beverages.
+42 The Commission may also issue on-premises malt beverage, unfortified wine, fortified wine
+43 and mixed beverages permits to a sports club located in a county adjacent to any county that has
+44 approved the sale of mixed beverages pursuant to G.S. 18B-603(d1), if the county in which the
+45 sports club is located borders another state and has at least one city that has approved the sale of
+46 mixed beverages. Sports clubs holding mixed beverages permits shall purchase their spirituous
+47 liquor at the nearest any ABC system store that is located in the county.county or an adjacent
+48 county.
+49 The Commission may further issue on-premises malt beverage and on-premises unfortified
+50 wine permits to a sports club located in a county bordering on another state that is adjacent to
+51 any county in which permits were issued pursuant to this subsection prior to August 1, 1993. The
+House Bill 198-Fifth Edition Page 27
+
+General Assembly Of North Carolina Session 2025
+1 sports clubs must be located in the unincorporated areas of a county, in which the sale of malt
+2 beverages and unfortified wine is not permitted, and where there are six or more municipalities
+3 in that county where the sale of malt beverages and unfortified wine is permitted."
+4 SECTION 28.(d) G.S. 18B-701(a) reads as rewritten:
+5 "(a) Powers. – A local board shall have authority to do all of the following:
+6 (1) Buy, sell, transport, and possess alcoholic beverages as necessary for the
+7 operation of its ABC stores. In providing delivery of spirituous liquor to a
+8 mixed beverages permittee, as required by in accordance with
+9 G.S. 18B-404(f), the local board may use its employees or contract with one
+10 or more independent contractors and may charge a fee to the permittee. A
+11 mixed beverage permittee may contract with an independent contractor to
+12 provide delivery of spirituous liquor from an ABC board's store or warehouse
+13 to the permittee's premises.
+14 …."
+15 SECTION 28.(e) G.S. 18B-1001(12a), as amended by Section 7 of this act, reads as
+16 rewritten:
+17 "(12a) Mobile Bar Services Permit. –
+18 a. A mobile bar services permit may be issued to a business that provides
+19 bartending services for events. The permit authorizes the permittee to
+20 bring malt beverages, unfortified wine, fortified wine, and spirituous
+21 liquor onto the premises of a business that is not an ABC permittee
+22 and to serve the alcoholic beverages to guests at the event. Except as
+23 provided in sub-subdivision b. of this subdivision, the permittee may
+24 purchase malt beverages and unfortified wine only from a retailer. The
+25 permittee may purchase fortified wine and spirituous liquor only from
+26 an ABC store that is designated as a mixed beverage ABC store
+27 operated by any local board operating in the same county where the
+28 permittee's principal office is located. located or in any county
+29 adjacent to the county where the permittee's principal office is located.
+30 If the permittee's premises for storage of inventory is a residential
+31 address, the permittee may designate an area of the premises to be used
+32 for storage of inventory pursuant to the permit. An inspection of the
+33 premises pursuant to G.S. 18B-502 shall extend only to the area that
+34 the permittee has designated for storage of inventory unless the law
+35 enforcement officer conducting the inspection has (i) a warrant to
+36 search the residence, or (ii) probable cause to search the residence and
+37 exigent circumstances exist.
+38 b. The holder of a permit issued pursuant to G.S. 18B-1001(1), (3), (5),
+39 (16), or (16a) may also hold a mobile bar services permit at the same
+40 permitted premises. Notwithstanding sub-subdivision a. of this
+41 subdivision, a permittee who holds both a mobile bar services permit
+42 and a permit issued pursuant to G.S. 18B-1001(1), (3), (5), (16), or
+43 (16a) may not obtain or serve alcoholic beverages that the permittee is
+44 not allowed to sell under the permit or permits that the permittee holds
+45 that are issued pursuant to G.S. 18B-1001(1), (3), (5), (16), or (16a).
+46 The permittee shall only use as inventory for the mobile bar services
+47 permit the permittee's inventory of alcoholic beverages lawfully
+48 purchased from a wholesaler pursuant to the permit or permits that the
+49 permittee holds under G.S. 18B-1001(1), (3), (5), (16), or (16a). The
+50 mobile bar services permit shall authorize such a permittee to bring
+51 those alcoholic beverages onto the premises of a business that is not
+Page 28 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 an ABC permittee and serve the alcoholic beverages to guests at the
+2 event. Alcoholic beverages that are taken from the permittee's
+3 inventory to an event at another premises under a mobile bar services
+4 permit may be restored to inventory after the event if the alcoholic
+5 beverages are still in the manufacturer's original unopened container.
+6 c. A mobile bar services permittee may not serve alcoholic beverages
+7 pursuant to a mobile bar services permit on the premises of any
+8 location owned or possessed by the permittee. The permittee shall
+9 notify the Commission, in writing, of the location of any event where
+10 the permittee will serve alcoholic beverages not less than one week
+11 before the event and shall have the permission of the owner or
+12 possessor of the property on which the event is to be held. Any person
+13 serving alcoholic beverages at the event shall be at least 21 years of
+14 age. Alcoholic beverages may be transported by the mobile bar
+15 services permit holder to the premises of the event no earlier than 8:00
+16 A.M. on the day of the event. At the conclusion of the event, all
+17 alcoholic beverages must be removed from the premises no later than
+18 12:00 noon of the following day. A limited special occasion permit
+19 shall not be required for an event at which alcoholic beverages are
+20 exclusively provided by the holder of a mobile bar services permit.
+21 The holder of a mobile bar services permit may bring alcoholic
+22 beverages onto the premises and serve the alcoholic beverages at an
+23 event regardless of whether there is a charge or fee for guests to attend
+24 the event. This permit does not allow the retail sale of individual
+25 alcoholic beverages to guests at an event."
+26 SECTION 28.(f) G.S. 18B-1007(a) reads as rewritten:
+27 "(a) Purchases. – A mixed beverages permittee may purchase spirituous liquor for resale
+28 as mixed beverages and a guest room cabinet permittee may purchase spirituous liquor for resale
+29 from a guest room cabinet only at an ABC store that is designated as a mixed beverage ABC
+30 store operated by any local board operating in the same county as the permittee.permittee or any
+31 adjacent county."
+32 SECTION 28.(g) This section is effective when it becomes law and applies to
+33 spirituous liquor purchased on or after that date.
+34
+35 ALLOW IN-STAND SALES AT CONCERTS
+36 SECTION 29. G.S. 18B-1009 reads as rewritten:
+37 "§ 18B-1009. In-stand sales.
+38 (a) Nothing in this Chapter shall be construed to prohibit a retail permittee from selling
+39 for consumption, malt beverages in the seating areas of stadiums, ballparks, theaters,
+40 amphitheaters, and other similar public places with a seating capacity of 3,000 or more during
+41 concerts or professional sporting events, provided that:
+42 (1) The seating areas are designated as part of the retail permittee's licensed
+43 premises;
+44 (2) The retail permittee has notified the Commission, in writing, of its intent to
+45 sell malt beverages in the seating areas at concerts or sporting events;
+46 (3) Service of food and nonalcoholic beverages is available in the seating areas;
+47 (4) The retail permittee has certified to the Commission that it has trained its
+48 employees:
+49 a. To identify underage persons and intoxicated persons; and
+50 b. To refuse to sell malt beverages to those persons as required by
+51 G.S. 18B-305; and
+House Bill 198-Fifth Edition Page 29
+
+General Assembly Of North Carolina Session 2025
+1 (5) The employees do not verbally shout or hawk the sale of malt beverages.
+2 (b) The North Carolina Alcoholic Beverage Control Commission shall adopt rules for the
+3 suspension of alcohol sales in the latter portion of concerts or professional sporting events in
+4 order to protect public safety at these events."
+5
+6 CREATE AUCTION HOUSE PERMIT
+7 SECTION 30.(a) G.S. 18B-101 reads as rewritten:
+8 "§ 18B-101. Definitions.
+9 As used in this Chapter, unless the context requires otherwise:
+10 …
+11 (5a) "Antique spirituous liquor" means spirituous liquor that has not been in
+12 production or bottled in the last 20 years, 10 years or has not been in inventory
+13 in the State warehouse in the last 10 years, is in the original manufacturer's
+14 unopened container, is not owned by a distillery, and is not otherwise available
+15 for purchase by an ABC Board except through the special order process
+16 pursuant to G.S. 18B-1001(20).
+17 …
+18 (6a) "Decorative decanter" means a manufacturer's original sealed decanter of
+19 spirituous liquor, limited in quantities as a specialized limited run, a limited
+20 edition, or with historical significance with the manufacturer's distillery
+21 markings and labeling.
+22 (6a)(6b) "Finance officer" means the local board employee, other than a general
+23 manager, who is responsible for keeping the accounts of the local board,
+24 receiving and depositing receipts, disbursing funds, and any other duties
+25 assigned by the local board or Commission.
+26 …."
+27 SECTION 30.(b) G.S. 18B-902(d) reads as rewritten:
+28 "(d) Fees. – An application for an ABC permit shall be accompanied by payment of the
+29 following application fee:
+30 …
+31 (45) Special auction permit - $750.00.
+32 …
+33 (59) Auction house permit – $1,000."
+34 SECTION 30.(c) G.S. 18B-1002.1 is repealed.
+35 SECTION 30.(d) Article 10 of Chapter 18B of the General Statutes is amended by
+36 adding a new section to read:
+37 "§ 18B-1002.3. Auction house permit.
+38 An auction house permit may be issued upon application to an auction firm or auctioneer
+39 licensed by the North Carolina Auctioneers Commission pursuant to Chapter 85B of the General
+40 Statutes to allow the licensed auction firm or auctioneer to sell at auction items described in
+41 G.S. 18B-1002(a)(4) on the permittee's premises. An auction held under this section may receive
+42 competing bids that are in person or by telephone, fax, or online. The permittee shall store any
+43 auction items described in G.S. 18B-1002(a)(4) on the permittee's premises or at a secondary
+44 location in this State that is disclosed in the permit application."
+45 SECTION 30.(e) G.S. 18B-603(f), as amended by Section 17(d) of this act, reads as
+46 rewritten:
+47 "(f) Permits Not Dependent on Elections. – The Commission may issue the following
+48 kinds of permits without approval at an election:
+49 (1) Special occasion permits.
+50 (2) Limited special occasion permits.
+Page 30 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (3) Brown-bagging permits for private clubs and congressionally chartered
+2 veterans organizations.
+3 (4) Culinary permits, except as restricted by subdivision (d)(5).
+4 (5) Special one-time permits issued under G.S. 18B-1002.
+5 (6) All permits listed in G.S. 18B-1100.
+6 (7) The permits authorized by G.S. 18B-1001(1), (3), (5), and (10) for tourism
+7 ABC establishments.
+8 (8) The permits authorized by G.S. 18B-1001(1), (3), (5), and (10) for tourism
+9 resorts.
+10 (9) The permits authorized by G.S. 18B-1001(1), (3), (5), and (10) for historic
+11 ABC establishments.
+12 (10) Special auction permits issued under G.S. 18B-1002.1.
+13 (11) Special multiple event permits issued under G.S. 18B-1002.2.
+14 (12) Auction house permits issued under G.S. 18B-1002.3."
+15
+16 PART IV. STATE GOVERNMENT AND LOCAL BOARD ORGANIZATIONAL
+17 CHANGES
+18
+19 TOWN OF ANGIER ABC BOARD DISTRIBUTIONS
+20 SECTION 31.(a) Section 6 of Chapter 626, Session Laws of 1969, as amended by
+21 Chapter 144, Session Laws of 1971, reads as rewritten:
+22 "Sec. 6. The net profits, as determined by quarterly audit, shall be distributed and used as
+23 follows:
+24 1. Ten per cent (10%) of the net profit shall be paid to the Angier Community
+25 Library.allocated to recreation programs within the town limits of the Town of Angier.
+26 2. Ten per cent (10%) of the net profit may be used by the town Alcoholic Control
+27 Board, in its discretion, for educational programs as to the effect of the use of alcoholic beverages
+28 and for the rehabilitation of alcoholics. Whenever a person becomes an inebriate from the use of
+29 alcoholic beverages and has been committed by the Clerk of Court of Harnett County, as provided
+30 in G.S. 35-2, and such person is indigent so that expenses of his care and cure shall constitute a
+31 valid charge against the county, as provided in G.S. 35-2, the town Alcoholic Control Board shall
+32 pay to the county such charges; provided, that the town Alcoholic Control Board shall not be
+33 required to pay any such charges except where it has agreed with the Clerk of Superior Court to
+34 pay such charges prior to the person's commitment. The town Alcoholic Control Board is
+35 authorized to participate in and to make contributions to public and private organizations which
+36 have rehabilitation programs for alcoholics, when the organization and its programs have been
+37 approved by the board. Nothing herein shall be construed as limiting the Alcoholic Control
+38 Board's discretion in establishing its educational and rehabilitation program and expenditures
+39 therefor within the ten per cent (10%) net profits herein allocated.
+40 3. The remainder of the net profits shall be allocated to the general fund of the town of
+41 Angier. The governing body of the town is hereby authorized to appropriate such funds for any
+42 proper governmental purpose. Out of the funds allocated to it, the governing body of the town is
+43 authorized, at its discretion, to expend up to twenty-five per cent (25%) of such funds for
+44 recreational programs in the town."
+45 SECTION 31.(b) Any undistributed funds accrued by the town Alcoholic Control
+46 Board prior to the effective date of this act for distribution to the Angier Community Library
+47 shall be distributed for the purpose of recreation programs within the town limits of the Town of
+48 Angier.
+49
+50 ADD TWO MEMBERS TO THE ABC COMMISSION
+51 SECTION 32.(a) G.S. 18B-200 reads as rewritten:
+House Bill 198-Fifth Edition Page 31
+
+General Assembly Of North Carolina Session 2025
+1 "§ 18B-200. North Carolina Alcoholic Beverage Control Commission.
+2 (a) Creation of Commission; compensation. – The North Carolina Alcoholic Beverage
+3 Control Commission is created to consist of a chairman and two four associate members. The
+4 Commission shall be administratively located within the Department of Public Safety but shall
+5 exercise its powers independently of the Secretary of Public Safety. The chairman shall devote
+6 his or her full time to his or her official duties and receive a salary fixed by the General Assembly
+7 in the Current Operations Appropriations Act. The associate members shall be compensated for
+8 per diem, subsistence and travel as provided in Chapter 138 of the General Statutes.
+9 (b) Appointment of Members. – Members The chairman of the Commission and two
+10 associate members shall be appointed by the Governor to serve at his pleasure.the pleasure of the
+11 Governor. One associate member shall be appointed by the President Pro Tempore of the Senate
+12 to serve at the pleasure of the President Pro Tempore and one associate member shall be
+13 appointed by the Speaker of the House of Representatives to serve at the pleasure of the Speaker.
+14 (c) Vacancy. – The Governor appointing authority shall fill any vacancy on the
+15 Commission by appointing a successor to serve at the Governor's pleasure. the pleasure of the
+16 appointing authority. If the chairman's seat becomes vacant, the Governor may designate either
+17 the new member or an existing member of the Commission as the chairman.
+18 (d) Employees. – The Commission may authorize the chairman to employ, discharge, and
+19 otherwise supervise subordinate personnel of the Commission. The Commission shall appoint at
+20 least one employee to make investigations, hold hearings requested under G.S. 18B-1205, and
+21 represent the Commission in contested case hearings or perform any other duties authorized by
+22 Chapter 150B."
+23 SECTION 32.(b) This section becomes effective December 1, 2026.
+24
+25 ALLOW ABC COMMISSION TO CONDUCT CONTESTED CASES UNDER ARTICLE
+26 3A OF THE ADMINISTRATIVE PROCEDURE ACT
+27 SECTION 33.(a) G.S. 150B-38(a) reads as rewritten:
+28 "(a) The provisions of this Article shall apply to:
+29 (1) Occupational licensing agencies.
+30 (2) The State Banking Commission, the Commissioner of Banks, and the Credit
+31 Union Division of the Department of Commerce.
+32 (3) The Department of Insurance and the Commissioner of Insurance.
+33 (4) The State Chief Information Officer in the administration of the provisions of
+34 Article 15 of Chapter 143B of the General Statutes.
+35 (5) The North Carolina State Building Code Council and Residential Code
+36 Council, Article 9 of Chapter 143 of the General Statutes.
+37 (5a) The Office of the State Fire Marshal and the State Fire Marshal.
+38 (6) Repealed by Session Laws 2018-146, s. 4.4(b), effective December 27, 2018.
+39 (7) The North Carolina Alcoholic Beverage Control Commission."
+40 SECTION 33.(b) This section becomes effective October 1, 2026, and applies to
+41 contested cases filed on or after that date.
+42
+43 PROHIBIT PRESENT MEMBERS OF CITY GOVERNING BODIES AND BOARDS OF
+44 COUNTY COMMISSIONERS FROM BEING APPOINTED TO SERVE ON LOCAL
+45 ABC BOARDS
+46 SECTION 34.(a) G.S. 18B-700(d) reads as rewritten:
+47 "(d) Qualifications. – The appointing authority shall appoint members of a local board on
+48 the basis of the appointees' interest in public affairs, good judgment, knowledge, ability, and good
+49 moral character. Notwithstanding any other provision in this Article, no appointing authority
+50 shall appoint any present member of a city governing body or board of county commissioners to
+51 serve as a member on any local board."
+Page 32 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 34.(b) This section is effective when it becomes law and applies to
+2 appointments made on or after that date. A person who is a member of a city governing body or
+3 board of county commissioners who is a member of a local board on the effective date of this
+4 section may serve the remainder of the person's term as a member of the local board.
+5
+6 AMEND DISTRIBUTION OF LOCAL BOARD REVENUES FOR THE CITY OF
+7 SANFORD
+8 SECTION 35. S.L. 1961-105, as amended by S.L. 1961-888, reads as rewritten:
+9 "…
+10 "Sec. 4. If a majority of the votes cast in such election shall be for the legal sale of beer and/or
+11 wine, then the Board of Aldermen of the City of Sanford shall issue license to sell beer and/or
+12 wine as defined in General Statutes 18-64 as provided in Chapter 18 Chapter 18B of the General
+13 Statutes notwithstanding any Public, Special, Local or Private Act to the contrary whether passed
+14 before or after the ratification of this Act; provided, however, in no event shall a license be issued
+15 to any person, firm or corporation to sell beer and/or wine for "on premises" consumption
+16 anywhere in the City of Sanford. Notwithstanding any other provisions of this Act, it shall be
+17 unlawful to sell any beer or wine in the City of Sanford when such beer or wine has been
+18 refrigerated to a temperature less than the general temperature of the establishment wherein the
+19 sale is made, and any sale of refrigerated beer or wine shall be unlawful. Notwithstanding any
+20 other provisions of this Act, it shall be unlawful to sell beer in individual containers containing
+21 less than one gallon, except when six containers are sold at the same time to the same person:
+22 Provided, that more than six containers may be sold to the same person at the same time when
+23 the number of containers is some multiple of six.
+24 A violation of either of the foregoing shall constitute a general misdemeanor punishable in
+25 the discretion of the court and a conviction or plea of nolo contendere to said charge shall operate
+26 to permanently revoke the license of the violator.
+27 …
+28 "Sec. 8. The City Board of Alcoholic Beverage Control shall have all the powers and duties
+29 prescribed for County Boards of Alcoholic Control by G. S. 18-45 and shall be subject to the
+30 powers and authority of the State Board of Alcoholic Control to the same extent as are County
+31 Boards of Alcoholic Control set forth in G. S. 18-39. local boards set forth in G.S. 18B-701. The
+32 City of Sanford Board of Alcoholic Control and the operation of Municipal Alcoholic Beverage
+33 Control Stores authorized under the provisions of this Act shall be subject to the provisions of
+34 Article 3 of Chapter 18 Articles 7 and 8 of Chapter 18B of the General Statutes except to the
+35 extent that such provisions may be in conflict with this Act. Wherever the word "County" Board
+36 of Alcoholic Control appears in said Article it shall apply to and include the City of Sanford
+37 Board of Alcoholic Control. The City of Sanford Board of Alcoholic Control shall have authority
+38 to employ legal counsel and such other employees as it may deem necessary and fix their
+39 compensation. The per diem and subsistence allowance for the City of Sanford Board of
+40 Alcoholic Control shall be fixed by the Board of Aldermen of the City of Sanford.
+41 The City of Sanford Board of Alcoholic Beverage Control may appoint one of its members,
+42 or any other person, as Supervisor of the system and pay such appointee an annual salary not to
+43 exceed six thousand dollars ($6,000.00), which shall, in the case of a board member, be in lieu
+44 of all other compensation for services rendered; provided, no person shall serve as Supervisor
+45 and Chairman. Designation or appointment by the board of one of its members as Supervisor
+46 shall not remove said member from the board, but if such appointment shall vacate the office of
+47 Chairman, the Board of Aldermen of the City of Sanford shall designate another board member
+48 to serve as Chairman.
+49 The designation of particular persons for particular terms by the Board of Aldermen of the
+50 City of Sanford heretofore made is ratified and confirmed.
+House Bill 198-Fifth Edition Page 33
+
+General Assembly Of North Carolina Session 2025
+1 "Sec. 9. Out of the gross profits derived from the operation of said Alcoholic Beverage
+2 Control Stores and after the payment of all costs and operating expenses, and after obtaining
+3 sufficient and proper working capital, the amount thereof to be determined by the City of Sanford
+4 Board of Alcoholic Beverage Control, said Board shall expend an amount for law enforcement
+5 purposes of not less than five per cent (5%) nor more than ten per cent (10%) thereof to be
+6 determined by quarterly audits, which amount shall supplement and not supplant the amount
+7 usually budgeted for such purposes by the City of Sanford.
+8 Before making any other distribution, the City of Sanford Board of Alcoholic Control shall
+9 pay, from its gross proceeds, all costs and expenses incurred for education and law enforcement
+10 purposes required by G.S. 18B-805(b) and (c).
+11 The Board may contract with any law enforcement agency located within the jurisdiction of
+12 Lee County for the provision of law enforcement services related to the enforcement of the
+13 alcoholic beverage laws of this State within the Board's jurisdiction. Any contract entered into
+14 pursuant to this section shall be approved by the Board and shall set forth the scope of services,
+15 compensation, and terms of engagement.
+16 In the expenditure of said funds, the City Board of Alcoholic Control shall The Board may
+17 also employ one or more persons as law enforcement officer or officers to be appointed by and
+18 directly responsible to the said Board. The person or persons so appointed shall, after taking the
+19 oath prescribed by law for peace officers, have the same powers and authorities within Lee
+20 County as other peace officers. Any such person or persons so appointed, or any other peace
+21 officer while in hot pursuit of anyone found to be violating the prohibition alcohol laws of this
+22 State, shall have the right to go into any other county of the State and arrest such defendant
+23 therein so long as such hot pursuit of such person shall continue, and the common law of hot
+24 pursuit shall be applicable to said offenses and such officer or officers. Any law enforcement
+25 officer appointed by the said Board of Alcoholic Control and any other peace officer is hereby
+26 authorized, upon request of the sheriff or other lawful officer in any other county, to go into such
+27 other county and assist in suppressing a violation of the prohibition alcohol laws therein, and
+28 while so acting shall have such powers as a peace officer as are granted to him in Lee County
+29 and be entitled to all the protection provided for said officer while acting in his own County.
+30 Out of the net profits derived from the operation of said Alcoholic Beverage Control Stores,
+31 the City of Sanford Board of Alcoholic Beverage Control shall on a quarterly basis pay over
+32 equal amounts to the general fund of the City of Sanford and to the general fund of Lee County.
+33 The Board shall at all times maintain a sustainable operating budget. The Board's
+34 unencumbered operating reserve shall not fall below fifteen percent (15%) of the Board's total
+35 annual operating budget. In any quarter in which a distribution of this section would cause the
+36 Board's operating reserve to fall below the minimum required by this section, the Board shall
+37 first retain from net proceeds an amount sufficient to restore the operating reserve to the required
+38 minimum before making any other distributions.
+39 After paying all costs, operating expenses, and education and enforcement expenditures, and
+40 satisfying the operating reserve requirement, the Board shall distribute the remaining net
+41 proceeds on a quarterly basis as follows: (i) thirty percent (30%) to the general fund of Lee
+42 County; (ii) thirty percent (30%) to the general fund of the City of Sanford; and (iii) forty percent
+43 (40%) to be retained by the Board for day-to-day operating expenses, capital needs, and other
+44 lawful purposes of the Board.
+45 Any amounts which may be due the City of Sanford by way of distribution from taxes
+46 collected by the State of North Carolina by reason of the sales of wine or beer sold under the
+47 terms of this Act, instead of being paid entirely to the City of Sanford, shall be distributed as
+48 follows: One-half to the general fund of the City of Sanford and one-half to the general fund of
+49 Lee County.
+50 …."
+51
+Page 34 House Bill 198-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 PART V. RAFFLES
+2
+3 REVISE LAW GOVERNING RAFFLES
+4 SECTION 37.(a) G.S. 14-309.15 reads as rewritten:
+5 "§ 14-309.15. Raffles.
+6 (a) It is lawful for any nonprofit organization, candidate, political committee, or any
+7 government entity within the State, to conduct raffles in accordance with this section. Each
+8 regional or county chapter of a nonprofit organization is eligible to conduct raffles in accordance
+9 with this section independently of its parent organization. Any person who conducts a raffle in
+10 violation of any provision of this section is guilty of a Class 2 misdemeanor. Upon conviction
+11 that person shall not conduct a raffle for a period of one year. It is lawful to participate in a raffle
+12 conducted pursuant to this section. It is not a violation of State law to advertise a raffle conducted
+13 in accordance with this section. A raffle conducted pursuant to this section is not "gambling."
+14 For the purpose of this section, "candidate" and "political committee" have the meaning provided
+15 by Article 22A of Chapter 163 of the General Statutes, who have filed organization reports under
+16 that Article, and who are in good standing with the appropriate board of elections. Receipts and
+17 expenditures of a raffle by a candidate or political committee shall be reported in accordance
+18 with Article 22A of Chapter 163 of the General Statutes, and ticket purchases are contributions
+19 within the meaning of that Article.
+20 (b) For purposes of this section "raffle" means a The following definitions apply in this
+21 section:
+22 (1) 50/50 raffle. – A raffle conducted by a nonprofit organization or any
+23 government entity within the State whereby funds collected by sale of raffle
+24 tickets are split evenly between the prize winner or winners and the nonprofit
+25 organization or government entity after the raffle drawing.
+26 (2) Candidate. – As defined in Article 22A of Chapter 163 of the General Statutes.
+27 This term only includes candidates who have filed organization reports under
+28 that Article and who are in good standing with the appropriate board of
+29 elections.
+30 (3) Net proceeds of a raffle. – The receipts less the cost of prizes awarded.
+31 (4) Political committee. – As defined in Article 22A of Chapter 163 of the General
+32 Statutes. This term only includes political committees that have filed
+33 organization reports under that Article and that are in good standing with the
+34 appropriate board of elections.
+35 (5) Raffle. – A game in which the prize is won by random drawing of the name
+36 or number of one or more persons purchasing chances.
+37 (c) A nonprofit organization may hold no more than five raffles per year.
+38 (d) Except as provided in subsection (g) of this section, the maximum cash prize that may
+39 be offered or paid for any one raffle is one hundred twenty-five thousand dollars ($125,000) and
+40 if merchandise is used as a prize, and it is not redeemable for cash, the maximum fair market
+41 value of that prize may be one hundred twenty-five thousand dollars ($125,000). The total cash
+42 prizes offered or paid by any nonprofit organization shall not exceed two hundred fifty thousand
+43 dollars ($250,000) in any calendar year. The total fair market value of all prizes offered by any
+44 nonprofit organization, either in cash or in merchandise that is not redeemable for cash, shall not
+45 exceed two hundred fifty thousand dollars ($250,000) in any calendar year.
+46 (e) Raffles shall not be conducted in conjunction with bingo.
+47 (f) As used in this subsection, "net proceeds of a raffle" means the receipts less the cost
+48 of prizes awarded. No less than ninety percent (90%) of the net proceeds of a raffle shall be used
+49 by the nonprofit organization for charitable, religious, educational, civic, or other nonprofit
+50 purposes. None of the net proceeds of the raffle shall be used to pay any person to conduct the
+51 raffle, or to rent a building where the tickets are received or sold or the drawing is conducted.
+House Bill 198-Fifth Edition Page 35
+
+General Assembly Of North Carolina Session 2025
+1 (g) Real property may be offered as a prize in a raffle. Any nonprofit organization
+2 offering real property as a prize in a raffle shall provide the property free from all liens, provide
+3 an owner affidavit and indemnity agreement, and provide a title commitment for the property
+4 and shall make that commitment available for inspection upon request. The total appraised value
+5 of all real estate prizes offered by any nonprofit organization shall not exceed two million two
+6 hundred fifty thousand dollars ($2,250,000) in any calendar year.
+7 (h) Notwithstanding any other subsection of this section, it is lawful for a federally
+8 insured depository institution to conduct a savings promotion raffle under G.S. 53C-6-20,
+9 54-109.64, 54B-140, or 54C-180.
+10 (i) The restrictions set forth in subsections (c) through (g) of this section do not apply to
+11 50/50 raffles conducted by nonprofit organizations or government entities within the State."
+12 SECTION 37.(b) This section becomes effective December 1, 2026, and applies to
+13 offenses committed on or after that date.
+14
+15 PART VI. SEVERABILITY CLAUSE AND EFFECTIVE DATE
+16 SECTION 38.(a) If any provision of this act or the application thereof to any person
+17 or circumstances is held invalid, such invalidity shall not affect other provisions or applications
+18 of this act that can be given effect without the invalid provision or application and, to this end,
+19 the provisions of this act are declared to be severable.
+20 SECTION 38.(b) Except as otherwise provided, this act is effective when it becomes
+21 law.
+Page 36 House Bill 198-Fifth Edition

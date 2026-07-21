@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - Edition 2
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 2
+SENATE BILL 1076
+State and Local Government Committee Substitute Adopted 5/12/26
+Short Title: Limit Electric/Natural Gas Revenue Uses. (Local)
+Sponsors:
+Referred to:
+May 6, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROHIBIT THE CITY OF ROCKY MOUNT FROM TRANSFERRING THE
+3 REVENUES OF ITS ELECTRIC AND NATURAL GAS SYSTEMS TO OTHER
+4 MUNICIPAL FUNDS; TO PROHIBIT THE TOWN OF LOUISBURG FROM
+5 TRANSFERRING THE REVENUES OF ITS ELECTRIC SYSTEM TO OTHER
+6 MUNICIPAL FUNDS; AND TO DISALLOW THE TOWN OF LOUISBURG FROM
+7 USING REVENUE DERIVED FROM RATES FOR ELECTRIC SERVICE FOR
+8 ECONOMIC DEVELOPMENT PROJECTS.
+9 The General Assembly of North Carolina enacts:
+10 SECTION 1.(a) G.S. 159B-39 reads as rewritten:
+11 "§ 159B-39. Permitted uses of revenue from electric power rates.
+12 (a) A municipality as authorized in this Chapter shall use revenue derived from rates for
+13 electric service to (i) pay the direct and indirect costs of operating the electric system and (ii)
+14 transfer to other funds of the municipality a sum that reflects a rate of return on the investment
+15 in the electric system to the extent allowed in subsection (c) of this section. system. Any
+16 remaining revenue shall be used to produce lower rates on electric service within the area served
+17 by the municipal electric system and to make additional debt service payments on bonds or other
+18 indebtedness incurred by the municipality to finance improvements to the electric system. A
+19 municipality shall not otherwise transfer revenue from an electric utility fund to any other fund
+20 of the municipality for any other purpose not explicitly authorized by law.
+21 (b) The direct and indirect costs of operating the electric system include all of the
+22 following:
+23 (1) Debt service payments on indebtedness incurred for the electric system or
+24 secured by revenues of the electric system.
+25 (2) Capital improvements or equipment for the electric system.
+26 (3) Payments for the cost of power purchased under contractual arrangements.
+27 (4) Debt service, maintenance, renewal, and replacement or other reserves
+28 required by legal documents entered into by the municipality in connection
+29 with the issuance of bonds or other indebtedness for the electric system.
+30 (5) Reserves deemed necessary by the governing body of the municipality to
+31 assure that funds are available to maintain the financial and operational
+32 integrity of the electric system.
+33 (6) Maintaining a rate stabilization fund to minimize the impact of periodic rate
+34 changes that would otherwise be required to reflect changes in costs of
+35 operations and demand for electric service.
+*S1076-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 (7) Making payments in lieu of taxes to other governmental units to reflect
+2 property taxes that would have been collected by the other governmental unit
+3 if the municipality were not the owner of the electric system.
+4 (8) Making transfers to the general fund or other funds of the municipality to
+5 reimburse the general fund or other funds for costs paid from the fund that are
+6 reasonably allocable to the electric system.
+7 (c) The total amount transferred to other funds of the municipality authorized as a rate of
+8 return on the investment of the municipality in the electric system shall be calculated using
+9 amounts reported in the municipality's audited financial statements for the preceding fiscal year.
+10 The amount transferred may be less than the following, but in no event may the amount
+11 transferred exceed the greater of the following:
+12 (1) Three percent (3%) of the gross capital assets of the electric system at the end
+13 of the preceding fiscal year.
+14 (2) Five percent (5%) of the gross annual revenues of the electric system for the
+15 preceding fiscal year.
+16 (d) The restrictions in this section shall not apply to any action required to be taken for a
+17 municipality by the Local Government Commission in accordance with G.S. 159-181(c).
+18 (e) This section applies only to the following cities and towns that are members of the
+19 North Carolina Eastern Municipal Power Agency: Apex, Ayden, Belhaven, Benson, Clayton,
+20 Edenton, Elizabeth City, Farmville, Fremont, Greenville, Hamilton, Hertford, Hobgood,
+21 Hookerton, Kinston, LaGrange, Laurinburg, Louisburg, Lumberton, New Bern, Pikeville, Red
+22 Springs, Robersonville, Rocky Mount, Scotland Neck, Selma, Smithfield, Southport, Tarboro,
+23 Wake Forest, Washington, and Wilson."
+24 SECTION 1.(b) This section applies only to the City of Rocky Mount and the Town
+25 of Louisburg.
+26 SECTION 2. S.L. 2021-103 is repealed.
+27 SECTION 3. Article 16 of Chapter 160A of the General Statutes is amended by
+28 adding a new section to read:
+29 "§ 160A-314.2. Permitted uses of revenue from natural gas rates.
+30 (a) A municipality that operates a natural gas utility shall use revenue derived from rates
+31 for natural gas service to pay the direct and indirect costs of operating the natural gas system.
+32 Any remaining revenue shall be used to produce lower rates on natural gas service within the
+33 area served by the municipal natural gas system and to make additional debt service payments
+34 on bonds or other indebtedness incurred by the municipality to finance improvements to the
+35 natural gas system. A municipality shall not otherwise transfer revenue from a natural gas utility
+36 fund to any other fund of the municipality for any other purpose not explicitly authorized by law.
+37 (b) The direct and indirect costs of operating the natural gas system include all of the
+38 following:
+39 (1) Debt service payments on indebtedness incurred for the natural gas system or
+40 secured by revenues of the natural gas system.
+41 (2) Capital improvements or equipment for the natural gas system.
+42 (3) Debt service, maintenance, renewal, and replacement or other reserves
+43 required by legal documents entered into by the municipality in connection
+44 with the issuance of bonds or other indebtedness for the natural gas system.
+45 (4) Reserves deemed necessary by the governing body of the municipality to
+46 assure that funds are available to maintain the financial and operational
+47 integrity of the natural gas system.
+48 (5) Maintaining a rate stabilization fund to minimize the impact of periodic rate
+49 changes that would otherwise be required to reflect changes in costs of
+50 operations and demand for natural gas service.
+Page 2 Senate Bill 1076-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (6) Making payments in lieu of taxes to other governmental units to reflect
+2 property taxes that would have been collected by the other governmental unit
+3 if the municipality were not the owner of the natural gas system.
+4 (7) Making transfers to the general fund or other funds of the municipality to
+5 reimburse the general fund or other funds for costs paid from the fund that are
+6 reasonably allocable to the natural gas system.
+7 (c) The restrictions in this section shall not apply to any action required to be taken for a
+8 municipality by the Local Government Commission in accordance with G.S. 159-181(c).
+9 (d) This section applies only to the City of Rocky Mount."
+10 SECTION 4. This act is effective when it becomes law.
+Senate Bill 1076-Second Edition Page 3

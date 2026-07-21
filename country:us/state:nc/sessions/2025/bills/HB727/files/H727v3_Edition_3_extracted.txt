@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Edition 3
+Media Type: application/pdf
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 3
+HOUSE BILL 727
+Committee Substitute Favorable 4/29/25
+Senate Health Care Committee Substitute Adopted 4/30/26
+Short Title: Limit Medicaid Reimb. for Facility Fees. (Public)
+Sponsors:
+Referred to:
+April 3, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO LIMIT MEDICAID REIMBURSEMENT FOR CERTAIN FACILITY FEES.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1.(a) To the extent allowed under federal law, the Department of Health
+5 and Human Services is directed to ensure that the Medicaid program does not reimburse for
+6 facility fees unless the services are provided on a hospital's main campus, at a facility that
+7 includes an emergency department, or at an ambulatory surgical facility.
+8 SECTION 1.(b) For purposes of this section, the following definitions apply:
+9 (1) Ambulatory surgical facility. – As defined in G.S. 131E-176.
+10 (2) Campus. – Any of the following:
+11 a. The main building of a hospital.
+12 b. The physical area immediately adjacent to a hospital's main building.
+13 c. Other structures not contiguous to the main building of a hospital that
+14 are within 250 yards of the main building.
+15 d. Any other area that has been determined to be part of a hospital's
+16 campus by the Centers for Medicare and Medicaid Services.
+17 (3) Facility fee. – Any fee charged or billed by a health care provider for
+18 outpatient services provided in a hospital-based facility that is (i) intended to
+19 compensate the health care provider for the operational expenses of the health
+20 care provider, (ii) separate and distinct from a professional fee, and (iii)
+21 charged regardless of the modality through which the health care services
+22 were provided.
+23 (4) Hospital. – As defined in G.S. 131E-176.
+24 (5) Professional fee. – Any fee charged or billed by a provider for hospital or
+25 professional medical services provided in a hospital-based facility.
+26 SECTION 2. Except for statutory changes or where otherwise specified, the
+27 Department of Health and Human Services shall not be required to maintain, after June 30, 2027,
+28 any modifications to the Medicaid program required by this act.
+29 SECTION 3. This act is effective when it becomes law and shall be implemented as
+30 soon as practicable after that date.
+*H727-v-3*

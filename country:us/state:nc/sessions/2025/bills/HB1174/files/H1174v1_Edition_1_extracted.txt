@@ -1,0 +1,124 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1174
+Short Title: HOA Oversight Act. (Public)
+Sponsors: Representatives Ward, Pike, Liu, and Iler (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE DEPARTMENT OF JUSTICE TO PROVIDE OVERSIGHT OF
+3 COMPLAINTS REGARDING OWNERS' ASSOCIATIONS AND THEIR MEMBERS
+4 AND TO REQUIRE THE DEPARTMENT TO PUT FORTH A COMMITTEE REPORT
+5 AS WELL AS A PUBLIC REPORT.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. Article 1 of Chapter 114 of the General Statutes is amended by adding
+8 a new section to read:
+9 "§ 114-8.8. Collection and report of owners' association complaint data.
+10 (a) The Department of Justice shall receive and record complaints by members of
+11 associations of unit owners or lot owners concerning disputes with their associations as required
+12 by this section. For the purposes of this section, the term "association" means an association of
+13 unit or lot owners organized under Chapter 47C or Chapter 47F of the General Statutes. The
+14 Department of Justice shall publish a complaint form providing for electronic submission of those
+15 complaints on its website. When the Department receives a complaint via phone, mail, or online,
+16 it shall collect the following information from the complainant:
+17 (1) The name and contact information of the complainant.
+18 (2) Name of the association and their contact information, including their phone
+19 number, address, city, and county of the association's location.
+20 (3) The name and contact information of any other party or parties to the dispute
+21 giving rise to the complaint.
+22 (4) Name of the association's management company, if any, and its contact
+23 information, including telephone number, owner's name, and street and
+24 mailing addresses.
+25 (5) Which of the following statements apply to the association member involved
+26 in the dispute:
+27 a. The unit or lot owner was informed of the requirement of membership
+28 in the association as a condition of unit or lot ownership, including
+29 when that information was provided and by whom.
+30 b. The unit or lot owner received a copy of the governing documents of
+31 the association and the copy was obtained before receiving title to the
+32 property.
+33 c. Was the unit or lot owner denied access to the governing documents
+34 and, if so, what remedies the unit or lot owner took to obtain the
+35 governing documents.
+*H1174-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 d. Does the unit or lot owner understand their rights and obligations
+2 under the governing documents.
+3 (6) The nature of the complaint.
+4 (7) The background information regarding the dispute, including whether the
+5 member and association communicated about the dispute and whether all
+6 other remedies available under the association's governing documents were
+7 exhausted before the complaint was made.
+8 (8) The desired remedy regarding this dispute.
+9 (9) Whether an attorney has been engaged in the dispute and if the complaint has
+10 been heard or is scheduled to be heard in court.
+11 (10) Whether the homeowner agrees or disagrees with the provisions of the
+12 governing documents.
+13 (11) Any supporting documentation, including any response received from a
+14 homeowners association or homeowner, relative to a specific complaint
+15 provided by the Department and whether or not a response was provided by
+16 the applicable homeowners association or homeowner.
+17 (b) Upon receiving a complaint, the Department shall provide the complaint to the party
+18 complained against in a manner that verifies receipt of such complaint by the receiving party and
+19 allowing for the party to respond.
+20 (c) The Department shall include on its publicly available website:
+21 (1) Information on the process to submit complaints pursuant to this section.
+22 (2) Information concerning the regulation of associations as provided in this
+23 section and other provisions of the General Statutes.
+24 (3) Educational and reference materials about homeowners associations,
+25 including general information about the roles, rights, and responsibilities of
+26 the board, declarant, homeowners, and other parties.
+27 (4) A summary report of complaints on the Department's website that is publicly
+28 accessible, categorized, filterable, and searchable. Personal data of members
+29 must be redacted, including names, addresses, and telephone numbers of
+30 members. The redaction requirement does not apply to information
+31 concerning an association or association management company.
+32 (5) An executive summary of the previous reporting year's complaints. The
+33 executive summary may contain the following:
+34 a. The number of complaints received and how many were against
+35 homeowners associations or their management companies.
+36 b. The top three counties for complaints reported.
+37 c. Statistics on the outcomes of the complaints.
+38 (d) By July 1 of each year, the Department shall submit a report to the chairs of the House
+39 Standing Committee on Commerce and Economic Development, the chairs of the Senate
+40 Standing Committee on Commerce and Insurance, and the Fiscal Research Division and shall
+41 also publish the report on its website. The report shall include, at a minimum, a summary of all
+42 of the following:
+43 (1) The total number of complaints received pursuant to this section.
+44 (2) The number of those complaints submitted by unit owners or lot owners.
+45 (3) The number of complaints originating in each county of this State.
+46 (4) The number of complaints that involved association management companies.
+47 (5) The nature of the disputes reflected in the complaints, including the following:
+48 a. Access to association records.
+49 b. Access to executive board meetings.
+50 c. Assessments.
+51 d. Executive board transparency.
+Page 2 House Bill 1174-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 e. Fines.
+2 f. Collections of delinquent accounts.
+3 g. Liens.
+4 h. Foreclosures.
+5 i. Content of restrictive covenants.
+6 j. Enforcement of restrictive covenants.
+7 (e) Under the provisions of this Article, the Department is prohibited from promulgating
+8 regulations or issuing guidelines concerning homeowners association administration,
+9 governance, or governing documents. The Department shall not serve as an arbiter in disputes
+10 between an association of unit owners or lot owners and its members."
+11 SECTION 2. There is appropriated from the General Fund to the Department of
+12 Justice the sum of one hundred thousand dollars ($100,000) in recurring funds beginning with
+13 the 2026-2027 fiscal year for the implementation and management of this act.
+14 SECTION 3. This act is effective when it becomes law.
+House Bill 1174-First Edition Page 3
