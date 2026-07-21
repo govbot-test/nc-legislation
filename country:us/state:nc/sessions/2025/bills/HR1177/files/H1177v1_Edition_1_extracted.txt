@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE RESOLUTION 1177
+Sponsors: Representatives Hawkins, Rubin, Lopez, and Johnson (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+May 4, 2026
+1 A HOUSE RESOLUTION ENCOURAGING CONGRESS TO PRESERVE NORTH
+2 CAROLINA'S AUTHORITY TO REGULATE ARTIFICIAL INTELLIGENCE IN
+3 MATTERS RELATED TO CONSUMER PROTECTION AND TO OPPOSE FEDERAL
+4 MORATORIA THAT WOULD RESTRICT STATES FROM ENFORCING EXISTING
+5 LAWS.
+6 Whereas, states have a legitimate interest in and duty to protect their citizens from
+7 fraud, price gouging, unfair and deceptive trade practices, and other harmful or abusive
+8 commercial practices; and
+9 Whereas, artificial intelligence and automated systems are increasingly being used by
+10 malicious actors in the commercial space to take unfair advantage of consumers; and
+11 Whereas, many states, including North Carolina, have laws providing for consumer
+12 protection and such laws should be enforceable and remain within the province of the State to
+13 the extent necessary to conform and apply the laws as the circumstances require to address these
+14 new systems of abuse; and
+15 Whereas, states should proactively continue to monitor the commercial space and take
+16 actions against abusive practices in order to protect consumers regardless of the modalities used
+17 by malicious actors to prey upon others; and
+18 Whereas, North Carolina affirms its authority to enforce consumer protection laws
+19 when AI is involved and rejects limitations imposed by federal action where that action material
+20 diminishes or compromises the State's duty to protect its citizenry; Now, therefore,
+21 Be it resolved by the House of Representatives:
+22 SECTION 1. The United States Congress is urged to take any and all necessary steps
+23 to continue to allow states to regulate harmful uses of artificial intelligence, to allow State entities
+24 to retain full investigative and enforcement authority over such harmful uses, to affirm that states
+25 may enact laws addressing consumer harms arising from artificial intelligence usage, and to
+26 otherwise preserve North Carolina's authority and duty to investigate, regulate, and enforce laws
+27 against harmful and deceptive trade practices perpetrated by unlawful actors, regardless of
+28 whether those actors use artificial intelligence or more traditional means of subterfuge.
+29 SECTION 2. This resolution is effective upon adoption.
+*H1177-v-1*

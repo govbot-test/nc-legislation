@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 994
+Short Title: Early Voting Procedures at Fire Stations. (Public)
+Sponsors: Senators Johnson, Settle, and Moffitt (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENSURE CERTAIN PROVISIONS ARE IN PLACE AT EARLY VOTING
+3 SITES LOCATED AT FIRE STATIONS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 163-166.35 is amended by adding a new subsection to read:
+6 "(d1) For early voting occurring at fire stations, county boards of elections shall do each of
+7 the following:
+8 (1) Provide traffic control measures.
+9 (2) Provide security as a physical safeguard for county board staff and officials,
+10 voters, and fire station staff at the voting place.
+11 (3) Provide phone support for voters needing assistance with matters pertaining
+12 to the elections process.
+13 (4) Provide sufficient signage on election day to voters if the same fire station will
+14 not be a voting place on election day.
+15 (5) Agree to indemnify and hold harmless a fire station for any claims for
+16 damages to voters or property arising from use of the fire station as a voting
+17 place while engaged in the voting process.
+18 (6) Ensure service levels for those fire stations are not affected, including entrance
+19 and exit accessibility."
+20 SECTION 2. This act is effective when it becomes law and applies to elections
+21 occurring on or after that date.
+*S994-v-1*
