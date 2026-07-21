@@ -1,0 +1,352 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 1026
+Short Title: Power Bill Protection/Large Load Tariff. (Public)
+Sponsors: Senators Salvador and Grafstein (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REFORM NORTH CAROLINA'S APPROACH TO INTEGRATION OF
+3 LARGE-LOAD ELECTRICITY CUSTOMERS THROUGH AMENDMENT OF THE
+4 PUBLIC UTILITIES ACT.
+5 The General Assembly of North Carolina enacts:
+6
+7 LARGE-LOAD ELECTRICITY CUSTOMERS
+8 SECTION 1.(a) G.S. 62-3 reads as rewritten:
+9 "§ 62-3. Definitions.
+10 As used in this Chapter, unless the context otherwise requires, the term:
+11 …
+12 (16a) "Large-load customer" means a nonresidential customer for retail electric
+13 service who has an actual or projected peak demand equal to or greater than
+14 50 megawatts (MW). For a nonresidential customer who operates facilities
+15 located at multiple sites, the aggregate demand of the nonresidential customer
+16 across multiple sites shall be used for purposes of determining the
+17 applicability of any threshold, requirement, or limitation in this Chapter.
+18 (16a)(16b) "Local exchange company" means a person holding, on January 1, 1995,
+19 a certificate to provide local exchange services or exchange access services.
+20 …
+21 (19a) "Panel" means a panel of three commissioners, a division of the Utilities
+22 Commission authorized for the purpose of carrying out certain functions of
+23 the Commission.
+24 …
+25 (30) "Panel" means a panel of three commissioners, a division of the Utilities
+26 Commission authorized for the purpose of carrying out certain functions of
+27 the Commission.
+28 (31) Very large-load customer. – A large-load customer who has an actual or
+29 projected peak demand equal or greater than 100 megawatts (MW)."
+30 SECTION 1.(b) G.S. 62-133.5(h)(1)a. reads as rewritten:
+31 "a. Local exchange company. – The same meaning as provided in
+32 G.S. 62-3(16a).G.S. 62-3(16b)."
+33 SECTION 2.(a) Chapter 62 of the General Statutes is amended by adding a new
+34 Article to read:
+35 "Article 6C.
+36 "Large-Load Electricity Customers.
+*S1026-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 "§ 62-127.1. Electric service tariffs for large-load customers.
+2 (a) Application. – Each electric public utility shall file for approval by the Commission
+3 tariffs for the provision of electric service to large-load customers. Subject to the limitations set
+4 forth in this section, the Commission may approve a tiered tariff schedule that includes different
+5 rates, terms, and conditions for different classes of large-load customers based on load
+6 requirements or other factors related to the cost of service.
+7 (b) General Terms and Conditions. – The Commission shall require an electric public
+8 utility to incorporate the following terms and conditions in any tariff applicable to large-load
+9 customers:
+10 (1) A minimum contract term that obligates a large-load customer to receive
+11 service for a term of no less than twenty years.
+12 (2) A minimum billing demand requirement that obligates a large load customer
+13 to take or pay for a certain percentage of the customer's maximum contracted
+14 demand following commencement of service.
+15 (3) A contribution in aid of construction mechanism that requires large-load
+16 customers, prior to receiving initial service, to pay the electric public utility
+17 the entire cost of any transmission, distribution, or interconnection
+18 improvements attributable to serving that customer.
+19 (4) An authorization on behalf of the large-load customer granting the electric
+20 public utility sufficient access to review any relevant commercial agreement
+21 or other confidential business information for the purpose of verifying the
+22 feasibility of the customer's projected load requirement prior to making the
+23 infrastructure improvements necessary to serve the customer.
+24 (5) A reasonable credit or financial assurance requirement sufficient to protect
+25 other ratepayers against any material increase in rates that could occur as a
+26 result of a large-load customer either ceasing operations or taking less than
+27 the contracted demand for electric service.
+28 (6) A load ramp period, not to exceed four years, during which time the large-load
+29 customer increases its electricity usage in accordance with a defined schedule
+30 until authorized to receive its maximum contracted demand.
+31 (7) A requirement that a large-load customer give the electric public utility
+32 advanced notice prior to any anticipated reduction in its demand for electric
+33 service.
+34 (8) An exit fee or similar mechanism that allows an electric public utility to
+35 recover from a large-load customer any forgone revenue as a result of the
+36 large-load customer's (i) early termination of the electric service agreement,
+37 (ii) failure to maintain contracted electric load, or (iii) abandonment or
+38 downsizing of facilities receiving electric service.
+39 (9) Any other provision that the Commission determines to be reasonable and in
+40 the public interest.
+41 (c) Specific Eligibility Conditions for Very Large-Load Customers. – The Commission
+42 shall require that an electric public utility limit which very large-load customers can receive
+43 electric service under a tariff filed in accordance with this section to those very large-load
+44 customers who either (i) procure dedicated or incremental energy resources under the program
+45 established in G.S. 62-127.2, or (ii) participate in a Commission-approved mechanism to mitigate
+46 system cost impacts.
+47 (d) Commission Approval. – The Commission shall approve a proposed electric service
+48 tariff for large-load customers only upon finding that the tariff is just and reasonable, and
+49 sufficiently designed to ensure all of the following:
+50 (1) That the proposed rates are based on the cost causation principle, as defined
+51 in G.S. 62-133.16, and that large-load customers will be responsible for the
+Page 2 Senate Bill 1026-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 entire cost of any capital investments or incremental operational expenses
+2 necessary for the electric public utility to serve large-load customers,
+3 including any transmission, distribution, or interconnection costs reasonably
+4 attributable to serving large-load customers.
+5 (2) That the proposed rates will not result in the electric public utility's other retail
+6 customers who are classified as residential or small commercial customers
+7 having to cross-subsidize large-load customers.
+8 (3) That the electric public utility's other retail customers who are classified as
+9 residential or small commercial customers will be held harmless, and neither
+10 advantaged nor disadvantaged, from large-load customers either commencing
+11 service or discontinuing service under the proposed tariff.
+12 (4) That the proposed tariff incorporates to the satisfaction of the Commission all
+13 terms and conditions required under subsections (b) and (c) of this section.
+14 (5) That the proposed tariff complies with any other rule or order adopted by the
+15 Commission pursuant to this Article.
+16 "§ 62-127.2. Dedicated or incremental energy supply for large-load customers.
+17 (a) Definitions. – For purposes of this section, the terms "clean energy facility" and "clean
+18 energy resource" have the same meaning as provided in G.S. 62-133.8.
+19 (b) Application. – Each electric public utility shall file with the Commission an
+20 application requesting approval of a program to allow large-load customers to select clean energy
+21 facilities from which the electric public utility will procure energy and capacity on behalf of the
+22 large-load customer. Each application shall provide standard contract terms and conditions for
+23 participating large-load customers and for the suppliers of clean energy resources from which the
+24 electric public utility procures energy and capacity on behalf of the participating customer. The
+25 standard terms and conditions available to suppliers of clean energy resources shall provide a
+26 range of terms from which the participating customer may elect. Large-load customers shall be
+27 allowed to negotiate with suppliers of clean energy resources regarding price terms.
+28 (c) Limitations. – Each contracted amount of capacity shall be limited to no more than
+29 one hundred twenty-five percent (125%) of the maximum annual peak demand of the large-load
+30 customer's facilities. The electric public utility shall establish such requirements consistent with
+31 G.S. 62-127.1(b) to protect other ratepayers against any material increase in rates that could occur
+32 as a result of the large-load customer either ceasing operations or breaching any contractual
+33 obligations made in accordance with the program.
+34 (d) Cost Recovery; Bill Credits. – In addition to the large-load customer's normal retail
+35 bill, the total cost of any clean energy resources and capacity procured by the electric public
+36 utility for the benefit of the large-load customer shall be paid by that customer. The electric public
+37 utility shall pay the owner of the clean energy facility which provided the electricity. The
+38 participating large-load customer shall receive a bill credit for the energy in an amount
+39 determined by the Commission, not to exceed the utility's avoided cost. The Commission shall
+40 ensure that all other ratepayers are held neutral, neither advantaged nor disadvantaged, from the
+41 impact of the clean energy resources procured on behalf of the large-load customer.
+42 "§ 62-127.3. Rules.
+43 Pursuant to G.S. 62-31, the Commission shall adopt rules to implement the requirements of
+44 this Article. These rules shall include specific procedures and requirements for very large-load
+45 customers to demonstrate eligibility, in accordance with G.S. 62-127.1(c), to receive service
+46 under an electric service tariff for large-load customers by mitigating system cost impacts."
+47 SECTION 2.(b) The tariff application required to be filed with the Utilities
+48 Commission pursuant to G.S. 62-127.1, as enacted by subsection (a) of this section, shall be filed
+49 by the electric public utility no later than 180 days after the effective date of this section. Effective
+50 January 1, 2028, an electric public utility shall not provide electric service to a large-load
+Senate Bill 1026-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 customer except under the terms of a tariff approved by the Utilities Commission in accordance
+2 with G.S. 62-127.1.
+3 SECTION 2.(c) The application required to be filed with the Utilities Commission
+4 pursuant to G.S. 62-127.2, as enacted by subsection (a) of this section, shall be filed by the
+5 electric public utility no later than 180 days after the effective date of this section.
+6 SECTION 2.(d) This section is effective when it becomes law.
+7
+8 STANDBY ELECTRICITY SERVICE
+9 SECTION 3. The Utilities Commission shall evaluate and modify as necessary
+10 existing standby service charges, including any eligibility limits based on maximum electricity
+11 demands, for the purpose of enabling large-load customers to self-develop dedicated or
+12 incremental generation resources in order to meet their electricity needs through self-supply.
+13
+14 SURCHARGE ON LARGE-LOAD CUSTOMERS TO FUND GRID MODERNIZATION
+15 PROJECTS
+16 SECTION 4. Article 7 of Chapter 62 of the General Statutes is amended by adding
+17 a new section to read:
+18 "§ 62-157.1. Grid modernization projects fund; large-load customer surcharge.
+19 (a) Findings. – The General Assembly finds that substantial investments in electric
+20 generation and transmission infrastructure will be required to meet the growing demand for
+21 electric power in the North Carolina, which is primarily attributable to the proliferation of new
+22 data centers and other large-load facilities locating in the State. These investments have been
+23 made at significant cost to the electric public utilities, which ultimately recover these costs from
+24 other utility customers in the form of higher retail rates. The General Assembly finds it to be in
+25 the public interest to establish a surcharge on the purchases of electric power by large-load
+26 customers to be used to fund grid modernization projects to reduce system-wide costs and to
+27 mitigate the disproportionate impact that higher electric rates have on other retail customers in
+28 the State.
+29 (b) Grid Modernization Projects Fund.– In order to mitigate the impact of higher electric
+30 rates faced by residents of the State, the Commission shall, after a hearing, order an electric public
+31 utility to create a special fund to be used by that utility to implement grid modernization projects
+32 for the purpose of reducing the system-wide costs incurred as a result of serving the growing
+33 electricity demands of large-load customers. The fund shall be supervised and administered by
+34 the Commission. Any applicable taxes shall be paid out of the fund.
+35 (c) Eligible Projects. – Pursuant to an order of the Commission, the electric public utility
+36 may apply funds to grid modernization projects that are designed to reduce low-income energy
+37 burdens and to encourage peak load reduction, energy efficiency, demand response measures,
+38 and distributed energy resources, including virtual power plants. The Commission shall ensure
+39 that all projects to which the grid modernization projects funds are applied are consistent with
+40 the intent of this section and G.S. 62-110.9.
+41 (d) Authority to Require Surcharge. – The Commission shall require electric public
+42 utilities to assess a surcharge on the purchases of electric power by large-load customers to fund
+43 grid modernization projects. Upon petition by an electric public utility, and after giving notice
+44 and an opportunity for other interested parties to be heard, the Commission shall set a monthly
+45 surcharge on electricity consumption by large-load customers, assessed on a kilowatt-hour (kWh)
+46 basis, at a rate that generates sufficient revenue to offset the incremental costs attributable to
+47 serving large-load customers.
+48 (e) Adjustment Proceedings. – The Commission may, on its own motion or upon petition
+49 of an electric public utility or interested party, conduct a hearing to review an electric public
+50 utility's implementation of grid modernization projects and the surcharge on electricity purchased
+51 by large-load customers. The Commission may, after giving notice and an opportunity for other
+Page 4 Senate Bill 1026-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 parties to be heard, approve a revision to the surcharge or make other appropriate adjustments to
+2 the administration of the grid modernization projects fund.
+3 (f) Annual Report. – An electric public utility shall submit a report each year to the
+4 Utilities Commission and the State Energy Office that includes aggregated data on the amount
+5 of funds collected by the surcharge on purchases of electric power by large-load customers, the
+6 amount of funds expended on grid modernization projects, the number and types of grid
+7 modernization projects implemented, and the estimated average reduction in retail electric utility
+8 bills as a result of the grid modernization projects carried out in accordance with this section."
+9
+10 GRID MODERNIZATION PLANNING
+11 SECTION 5.(a) Article 5A of Chapter 62 of the General Statutes is amended by
+12 adding a new section to read:
+13 "§ 62-108. Grid modernization plan.
+14 (a) The Commission shall develop, publicize, and keep current a grid modernization plan
+15 to maintain and improve the adequacy, reliability, and resiliency of the electric grid for the benefit
+16 of the people of North Carolina. In developing the grid modernization plan, the Commission shall
+17 assess the capability of the grid system to withstand and recover from climate-induced natural
+18 disasters and other significant multi-hazard threats with minimal resulting damage or loss of
+19 operability. The Commission shall propose measures informed by this assessment that are
+20 designed to improve the efficiency of the grid system, reduce energy losses, enable flexible load
+21 management, and lower long-term system costs. The Commission shall consider the grid
+22 modernization plan in acting upon any petition by an applicant for a certificate to construct a new
+23 transmission line.
+24 (b) In the course of developing the grid modernization plan, the Commission shall consult
+25 with electric power suppliers, the Public Staff, and other interested parties. The Commission shall
+26 also provide opportunities for public hearings on the proposals set forth in the grid modernization
+27 plan.
+28 (c) No later than April 1 of each year, the Commission shall submit a report on the
+29 activities taken by the Commission to develop, and by electric public utilities to implement, the
+30 grid modernization plan to the Governor, the Environmental Review Commission, the Joint
+31 Legislative Commission on Energy Policy, and the Joint Legislative Oversight Committee on
+32 Agriculture and Natural and Economic Resources. The report shall include a summary of public
+33 comments received by the Commission."
+34 SECTION 5.(b) G.S. 62-102(a) reads as rewritten:
+35 "§ 62-102. Application for certificate.
+36 (a) An applicant for the certificate described in G.S. 62-101 shall file an application with
+37 the Commission containing the following information:
+38 (1) The reasons the transmission line is needed;
+39 (2) A description of the proposed location of the transmission line;
+40 (3) A description of the proposed transmission line;
+41 (4) An environmental report setting forth:
+42 a. The environmental impact of the proposed action;
+43 b. Any proposed mitigating measures that may minimize the
+44 environmental impact; and
+45 c. Alternatives to the proposed action.
+46 (4a) A statement on the project's consistency with the Commission's grid
+47 modernization plan, as provided in G.S. 62-108.
+48 (5) A list of all necessary approvals that the applicant must obtain before it may
+49 begin to construct the transmission line; and
+50 (6) Any other information the Commission requires."
+51 SECTION 5.(c) G.S. 62-105 reads as rewritten:
+Senate Bill 1026-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 "§ 62-105. Burden of proof; decision.
+2 (a) The burden of proof is on the applicant in all cases under this Article, except that any
+3 party proposing an alternative location for the proposed transmission line shall have the burden
+4 of proof in sustaining its position. The Commission may consider any factors that it finds are
+5 relevant and material to its decision. The Commission shall grant a certificate for the
+6 construction, operation, and maintenance of the proposed transmission line if it finds:upon
+7 finding each of the following:
+8 (1) That the proposed transmission line is necessary to satisfy the reasonable
+9 needs of the public for an adequate and reliable supply of electric
+10 energy;energy.
+11 (2) That, when compared with reasonable alternative courses of action,
+12 construction of the transmission line in the proposed location is reasonable,
+13 preferred, and in the public interest;interest.
+14 (3) That the costs associated with the proposed transmission line are
+15 reasonable;reasonable.
+16 (4) That the impact the proposed transmission line will have on the environment
+17 is justified considering the state of available technology, the nature and
+18 economics of the various alternatives, and other material considerations;
+19 andconsiderations.
+20 (4a) That the proposed transmission line is consistent with the grid modernization
+21 plan developed by the Commission under G.S. 62-108.
+22 (5) That the environmental compatibility, public convenience, and necessity
+23 require the transmission line.
+24 (b) If the Commission determines that the location of the proposed transmission line
+25 should be modified, it may condition its certificate upon modifications it finds necessary to make
+26 the findings and determinations set forth in subsection (a) of this section."
+27
+28 LOAD FORECASTING FOR NEW ELECTRIC GENERATING FACILITIES
+29 SECTION 6. G.S. 62-110.1 is amended by adding a new subsection to read:
+30 "(d1) In acting on a petition by an electric public utility for the construction of an electric
+31 generating facility to serve future growth in electricity demand attributable to new large-load
+32 customers, the Commission shall require the applicant to demonstrate the reasonableness of such
+33 future growth projections by distinguishing between confirmed and speculative sources of new
+34 electricity demand, and by filing with the Commission any agreements between the utility and
+35 its large-load customers obligating the customers to receive electric services. The Commission
+36 shall not grant a certificate for the construction of an electric generating facility to meet demand
+37 attributable to new large-load customers unless the applicant demonstrates that its future demand
+38 growth projections are reasonable and supported by competent evidence."
+39
+40 LARGE-LOAD CUSTOMER ENERGY AND WATER REPORTING
+41 SECTION 7.(a) Article 17 of Chapter 62 of the General Statutes is amended by
+42 adding a new section to read:
+43 "§ 62-353. Large-load customers; annual reporting on energy and water consumption.
+44 (a) Annual Report. – Each large-load customer shall file an annual report to the
+45 Commission and the Department of Environmental Quality that provides the following
+46 information about the operation of its facilities during the prior year:
+47 (1) The total amount of electricity consumed.
+48 (2) The maximum annual peak demand, as defined in G.S. 62-126.3.
+49 (3) The load factor, as calculated based on the total electricity consumed relative
+50 to the maximum annual peak demand.
+51 (4) The total amount of water consumed.
+Page 6 Senate Bill 1026-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (5) The source of the customer's water supplies.
+2 (6) A description of the cooling methods used in the customer's facilities,
+3 including available data indicating the efficiency of the cooling methods used.
+4 (7) Any additional information requested by the Commission or the Department
+5 of Environmental Quality to inform planning related to the State's electricity
+6 and water supply needs.
+7 (b) Statistical Compilation – The Commission, in consultation with the Department of
+8 Environmental Quality, shall compile statistical information on the aggregate amounts of energy
+9 and water consumed by large-load customers. The Commission shall publish this statistical
+10 compilation on its website each year, provided that the annual reports filed by the large-load
+11 customers in accordance with subsection (a) of this section shall not be considered public records
+12 within the meaning of Chapter 132 of the General Statutes but shall remain confidential."
+13 SECTION 7.(b) G.S. 143-355(b) is amended by adding a new subdivision to read:
+14 "(18) Cooperate with the Utilities Commission in evaluating the water usage of
+15 large-load customers, as defined in G.S. 62-3, and any resulting impacts to the
+16 availability of water supply. In carrying out this evaluation, the Department
+17 shall coordinate with units of local government and any other agency or
+18 organization concerned with the conservation and development of water
+19 resources."
+20
+21 APPROPRIATION
+22 SECTION 8. There is appropriated from the General Fund to the Utilities
+23 Commission the sum of ten thousand dollars ($10,000) in nonrecurring funds for the 2026-2027
+24 fiscal year to be used for purposes consistent with this act.
+25
+26 EFFECTIVE DATE
+27 SECTION 9. Except as otherwise provided, this act becomes effective July 1, 2026.
+Senate Bill 1026-First Edition Page 7

@@ -1,0 +1,518 @@
+Title: 
+Official Title: 
+Source: versions - Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+H.B. 1211
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 30, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH40710-NNf-68
+Short Title: Home Equity Investment Loan Act. (Public)
+Sponsors: Representative Longest.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REGULATE HOME EQUITY INVESTMENT LOANS AS RESIDENTIAL
+3 MORTGAGE LOANS, TO IMPOSE CERTAIN CONSUMER PROTECTIONS ON
+4 THOSE LOANS, TO PROHIBIT CERTAIN MANDATORY ARBITRATION TERMS IN
+5 COVERED MORTGAGE TRANSACTIONS, TO MAKE VIOLATIONS UNFAIR OR
+6 DECEPTIVE ACTS OR PRACTICES, AND TO AUTHORIZE FEES TO IMPLEMENT
+7 THIS ACT.
+8 The General Assembly of North Carolina enacts:
+9 SECTION 1. Chapter 53 of the General Statutes is amended by adding a new Article
+10 to read:
+11 "Article 21A.
+12 "Home Equity Investment Loans.
+13 "§ 53-274.1. Title.
+14 This Article shall be known and may be cited as the "Home Equity Investment Loan Act."
+15 "§ 53-274.2. Definitions.
+16 The following definitions apply in this Article:
+17 (1) Commissioner. – The Commissioner of Banks of this State.
+18 (2) Company. – Any person that makes, brokers, purchases, or services a home
+19 equity investment loan.
+20 (3) Dwelling. – As defined in G.S. 53-244.030(9).
+21 (4) Home equity investment loan or loan. – A transaction or arrangement,
+22 including an option contract, futures contract, derivative, shared appreciation
+23 agreement, shared value agreement, home equity sharing agreement, home
+24 equity investment, equity investment option, or similar agreement, however
+25 denominated, under which funds are advanced to or on behalf of a homeowner
+26 and a person obtains a right to receive from or on behalf of the homeowner,
+27 or from the proceeds of the dwelling or residential real estate, an amount
+28 determined in whole or in part by reference to the value, equity, appreciation,
+29 sale proceeds, or future value of a dwelling or of residential real estate upon
+30 which a dwelling is constructed or intended to be constructed. The term
+31 includes any transaction or arrangement described in this subdivision that is
+32 secured by a mortgage, deed of trust, or other equivalent consensual security
+33 interest in a dwelling located in this State or in residential real estate upon
+34 which there is constructed or intended to be constructed a dwelling, and any
+35 transaction or arrangement structured to evade the application of this Article.
+36 The term does not include a transaction or arrangement made, insured,
+*DRH40710-NNf-68*
+
+General Assembly Of North Carolina Session 2025
+1 guaranteed, or administered by a federal, State, or local government agency,
+2 a government-sponsored enterprise, or an agency or enterprise of a political
+3 subdivision of this State.
+4 (5) Homeowner. – A natural person who receives funds under a home equity
+5 investment loan and who, at the time of application or closing, owns and
+6 occupies, or intends to occupy, the dwelling securing the loan as the person's
+7 principal dwelling.
+8 (6) Residential real estate. – As defined in G.S. 53-244.030(31).
+9 "§ 53-274.3. Applicability; construction.
+10 (a) A home equity investment loan is a residential mortgage loan for purposes of this
+11 Chapter and Chapters 24 and 45 of the General Statutes and is subject to all otherwise applicable
+12 State residential mortgage laws, including licensing, collection, foreclosure, and usury laws.
+13 (b) A home equity investment loan shall not be treated as a reverse mortgage transaction
+14 for purposes of any exclusion, exception, or limitation under Chapter 24 or Chapter 45 of the
+15 General Statutes unless the transaction independently satisfies Article 21 of this Chapter.
+16 (c) Regardless of how a transaction is denominated, labeled, or structured, including as
+17 an investment, option, sale of future appreciation, sale of an interest in equity, shared appreciation
+18 agreement, shared value agreement, or similar arrangement, any transaction that in substance
+19 meets the definition of a home equity investment loan under G.S. 53-274.2 is governed by this
+20 Article.
+21 "§ 53-274.4. Licensing; home equity investment loan authorization and fees; purchasers
+22 and assignees.
+23 (a) No person shall make, broker, or service a home equity investment loan with respect
+24 to a dwelling located in this State unless the person is authorized to engage in the mortgage
+25 business under Article 19B of this Chapter.
+26 (b) A person authorized to engage in the mortgage business under Article 19B of this
+27 Chapter shall not make a home equity investment loan on or after October 1, 2026, unless the
+28 person is authorized by the Commissioner to make home equity investment loans under this
+29 subsection. The Commissioner may accept applications and fees under this subsection before
+30 October 1, 2026. An application for authorization shall be in writing, in the form prescribed by
+31 the Commissioner, and accompanied by a nonrefundable fee of five hundred dollars ($500.00).
+32 Authorization under this subsection expires annually and may be renewed in the form prescribed
+33 by the Commissioner upon payment of a renewal fee of two hundred fifty dollars ($250.00).
+34 (c) A purchaser or assignee of a home equity investment loan is subject to this Article to
+35 the extent the purchaser or assignee owns, holds, services, collects, or enforces the loan. This
+36 section does not require licensure under Article 19B of this Chapter or authorization under
+37 subsection (b) of this section solely because a person purchases or acquires a home equity
+38 investment loan, but a purchaser or assignee that services the loan or otherwise engages in the
+39 mortgage business is subject to Article 19B of this Chapter.
+40 (d) Notwithstanding any agreement to the contrary, a purchaser or assignee of a home
+41 equity investment loan is subject to all affirmative claims, counterclaims, defenses, rights of
+42 setoff, and rights of recoupment with respect to the loan that the homeowner may assert against
+43 the company or any prior holder, servicer, or assignee of the loan.
+44 "§ 53-274.5. Required disclosures.
+45 (a) Within 10 business days after application, and in any event not less than 20 business
+46 days before closing, a company shall provide to the homeowner all of the following and any
+47 additional disclosures required by the Commissioner by rule:
+48 (1) A statement that the transaction is a residential mortgage loan secured by the
+49 homeowner's dwelling and that failure to pay may result in foreclosure or
+50 forced sale of the dwelling.
+51 (2) The amount of funds to be advanced to the homeowner.
+Page 2 DRH40710-NNf-68
+
+General Assembly Of North Carolina Session 2025
+1 (3) The maximum dollar amount, if any, that the homeowner may be required to
+2 pay, and if there is no maximum dollar amount, a clear and conspicuous
+3 statement that the amount due is not subject to a dollar cap.
+4 (4) The term of the loan and each event that may trigger payment or acceleration.
+5 (5) The method that will be used to determine the value of the dwelling at
+6 origination and at payment.
+7 (6) The specific value-based payment formula elected in the contract, the
+8 contractual payment cap required by G.S. 53-274.9, and a statement that a
+9 contract that exceeds, omits, or provides for value-based payment in a manner
+10 not authorized by that section is void and unenforceable against the
+11 homeowner.
+12 (7) A statement that the company shall pay all closing costs, the actual and
+13 reasonable fees and expenses of the attorney required by G.S. 53-274.6, and
+14 the actual and reasonable fees and expenses of the housing counseling
+15 required by G.S. 53-274.7.
+16 (8) A description of the market-rate refinance option required by G.S. 53-274.11.
+17 (9) Illustrative examples of the total amount due at payment assuming no
+18 appreciation, moderate appreciation, and high appreciation of the dwelling, as
+19 specified by the Commissioner by rule.
+20 (10) The name, address, telephone number, and electronic mail address, if any, of
+21 the company employee or agent designated to respond to inquiries concerning
+22 the loan.
+23 (b) The disclosures required by this section shall be clear and conspicuous and may not
+24 be waived by the homeowner. The disclosures shall be provided in English and in each other
+25 language in which the company, or a person acting on its behalf, advertises, solicits, negotiates,
+26 or explains the transaction to the homeowner.
+27 (c) The Commissioner may prescribe by rule forms for disclosures required by this
+28 section. Until a form becomes effective, a company complies with this section by providing the
+29 disclosures in a clear written document containing the information required by this section.
+30 "§ 53-274.6. Independent legal counsel.
+31 (a) A company shall not close a home equity investment loan unless the homeowner has
+32 been represented in the transaction by an attorney licensed to practice law in this State who is
+33 selected by the homeowner and who certifies in writing that the attorney has explained the
+34 material terms and legal consequences of the transaction to the homeowner.
+35 (b) The company shall pay the actual and reasonable fees and expenses of the attorney
+36 required by this section and shall not directly or indirectly seek reimbursement from the
+37 homeowner.
+38 (c) A waiver of the requirements of this section is void.
+39 "§ 53-274.7. Housing counseling.
+40 (a) A company shall not close a home equity investment loan unless the homeowner has
+41 received counseling from a housing counselor approved or designated by the Commissioner and
+42 selected by the homeowner, and the company has received written certification from the
+43 counselor that the homeowner has received counseling on the advisability of the home equity
+44 investment loan, the material terms and payment triggers of the loan, the risk of foreclosure or
+45 forced sale, the availability of other financial options and resources, and potential tax
+46 consequences.
+47 (b) The Commissioner may adopt rules establishing standards for housing counselor
+48 approval, training, certification, and disclosures under this section. Until rules become effective,
+49 the Commissioner may designate as approved counselors counselors whose names are
+50 maintained on the Commissioner's list of approved reverse mortgage counselors under Article 21
+DRH40710-NNf-68 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 of this Chapter or counselors employed by housing counseling agencies approved by the United
+2 States Department of Housing and Urban Development.
+3 (c) The company shall pay the actual and reasonable fees and expenses of counseling
+4 required by this section and shall not directly or indirectly seek reimbursement from the
+5 homeowner.
+6 (d) A waiver of the requirements of this section is void.
+7 "§ 53-274.8. Closing costs.
+8 (a) The company shall pay all closing costs associated with a home equity investment
+9 loan.
+10 (b) No company shall directly or indirectly charge, collect, finance, capitalize, or include
+11 in the amount due under a home equity investment loan any application fee, authorization fee or
+12 renewal fee required by G.S. 53-274.4(b), origination fee, broker fee, appraisal fee, title fee,
+13 settlement fee, recording fee, document preparation fee, underwriting fee, processing fee, notary
+14 fee, courier fee, or similar cost.
+15 (c) A contract term in violation of this section is void.
+16 "§ 53-274.9. Permitted value-based payment; contractual payment cap; valuation; void
+17 terms.
+18 (a) A home equity investment loan may require payment determined in whole or in part
+19 by reference to the value, equity, appreciation, sale proceeds, or future value of the dwelling or
+20 residential real estate only as expressly authorized by this section.
+21 (b) The total amount that may be required to be paid by or on behalf of a homeowner to
+22 satisfy a home equity investment loan may not exceed the sum of all of the following:
+23 (1) The total amount of funds actually advanced to or for the benefit of the
+24 homeowner, excluding any amount the company is required to pay under this
+25 Article.
+26 (2) The total amount of property taxes, insurance premiums, assessments, and
+27 other similar charges actually and reasonably advanced by the company to
+28 protect the collateral and not reimbursed by the homeowner within 60 days
+29 after the date of payment.
+30 (3) Only one of the following amounts, if expressly elected in the contract:
+31 a. Shared appreciation. – An amount not exceeding ten percent (10%) of
+32 the increase in the value of the property from the date of origination of
+33 the loan to the date of payment.
+34 b. Shared value. – An amount not exceeding ten percent (10%) of the
+35 value of the property at the time of payment.
+36 (c) No amount described in subdivision (3) of subsection (b) of this section is due,
+37 collectible, or enforceable unless the home equity investment loan has been outstanding for at
+38 least 24 months. This subsection does not prohibit a homeowner from satisfying the loan before
+39 that period by paying the amounts described in subdivisions (1) and (2) of subsection (b) of this
+40 section.
+41 (d) A contract term that calculates or requires payment by reference to the value, equity,
+42 appreciation, sale proceeds, or future value of the dwelling or residential real estate in any manner
+43 not expressly authorized by this section is void and unenforceable.
+44 (e) No company shall contract for, receive, collect, or attempt to collect from or on behalf
+45 of the homeowner any amount, however denominated, except as expressly authorized by this
+46 section.
+47 (f) For purposes of this section, the value of the property at origination shall be the fair
+48 market value of the property, as determined by an appraisal performed by an appraiser licensed
+49 or certified under Chapter 93E of the General Statutes. The company shall not apply any discount,
+50 risk adjustment, or other reduction to the appraised fair market value. The company shall provide
+51 a copy of the appraisal to the homeowner not less than 20 business days before closing. If
+Page 4 DRH40710-NNf-68
+
+General Assembly Of North Carolina Session 2025
+1 payment is not made in conjunction with a bona fide arm's-length sale of the property, the value
+2 of the property at the time of payment shall be the fair market value of the property, as determined
+3 by an appraisal performed by an appraiser licensed or certified under Chapter 93E of the General
+4 Statutes. If the parties are unable to agree on a single appraiser within 30 days after written
+5 demand for payment, each party may obtain an appraisal, and the value of the property shall be
+6 the average of the appraisals. If the homeowner does not obtain an appraisal within 30 days after
+7 the company provides the homeowner a copy of the company's appraisal, the company may rely
+8 on its appraisal.
+9 (g) If payment is made in conjunction with a bona fide arm's-length sale of the property,
+10 the value of the property at the time of payment is the sale price, less the actual and reasonable
+11 costs of sale.
+12 (h) Nothing in this section shall be construed to limit the application of Chapter 24 of the
+13 General Statutes to a home equity investment loan or to prevent any amount required to be paid
+14 by or on behalf of a homeowner under a home equity investment loan from being treated as
+15 interest, charges, or consideration for the use or forbearance of money. Any amount required to
+16 be paid by or on behalf of a homeowner under a home equity investment loan in excess of the
+17 amounts authorized by this section shall be treated as interest, charges, or consideration for the
+18 use or forbearance of money for purposes of Chapter 24 of the General Statutes.
+19 (i) A home equity investment loan contract that exceeds the payment cap required by
+20 this section, omits the applicable cap, or provides for value-based payment in a manner not
+21 expressly authorized by this section is void and unenforceable against the homeowner.
+22 "§ 53-274.10. Homeowner protections.
+23 (a) Prepayment of a home equity investment loan, in whole or in part, shall be permitted
+24 without penalty at any time during the term of the loan.
+25 (b) The company's sole remedy after the loan becomes due is to enforce the debt through
+26 the property securing the loan, and the company shall not obtain a deficiency judgment against
+27 the homeowner.
+28 (c) A home equity investment loan contract may not waive or disclaim any protection
+29 provided to the homeowner by this Article.
+30 "§ 53-274.11. Payment; refinance option; foreclosure.
+31 (a) A home equity investment loan contract may provide that the loan becomes due only
+32 upon one or more of the following:
+33 (1) The scheduled maturity date of the loan.
+34 (2) The homeowner sells or otherwise voluntarily conveys title to the dwelling.
+35 (3) The homeowner fails to pay property taxes, insurance premiums, or
+36 assessments affecting the dwelling and does not cure the failure within 90 days
+37 after written notice from the company.
+38 (4) The homeowner commits waste that materially impairs the security for the
+39 loan and fails to cure the impairment within 90 days after written notice from
+40 the company.
+41 (5) The homeowner dies and the dwelling is no longer occupied as a principal
+42 dwelling by any person who is a surviving joint owner, surviving spouse, heir,
+43 devisee, or other successor in interest and who holds or succeeds to an
+44 ownership interest in the dwelling and remains bound by the security
+45 instrument.
+46 (b) If a home equity investment loan becomes due and the homeowner notifies the
+47 company then entitled to collect or enforce the loan that the homeowner cannot pay without
+48 selling the dwelling, the company shall, directly or through a person authorized to engage in the
+49 mortgage business under Article 19B of this Chapter and before initiating foreclosure or
+50 otherwise enforcing the security instrument, offer the homeowner a market-rate refinance under
+51 all of the following:
+DRH40710-NNf-68 Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (1) Converts the amount due into a closed-end residential mortgage loan.
+2 (2) Provides a fixed interest rate not exceeding the average prime offer rate for a
+3 comparable transaction, as published by the Consumer Financial Protection
+4 Bureau or its successor, on the date of the offer.
+5 (3) Requires substantially equal monthly payments of principal and interest over
+6 a term of not less than 120 months.
+7 (4) Does not require points, origination fees, or a prepayment penalty.
+8 (c) When a homeowner's obligation to pay a home equity investment loan is triggered
+9 under subsection (a) of this section, in addition to any other notice required by Chapter 45 of the
+10 General Statutes, the company shall give the homeowner not less than 90 days' written notice
+11 and an opportunity to cure before commencing foreclosure or otherwise enforcing the debt.
+12 "§ 53-274.12. Annual statement and account history.
+13 Within 60 days after the end of each calendar year and when the loan becomes due, the
+14 company shall issue to the homeowner a written statement regarding the activity of the loan for
+15 the preceding calendar year, or for the period since the last statement was provided. The statement
+16 shall include all of the following:
+17 (1) The amount advanced to the homeowner during the statement period and
+18 cumulatively.
+19 (2) Any taxes, insurance premiums, assessments, or similar protective advances
+20 paid by the company during the statement period and cumulatively.
+21 (3) Any amounts paid by or on behalf of the homeowner during the statement
+22 period and cumulatively.
+23 (4) The current amount that would be due if the loan were paid on the date of the
+24 statement without a sale, calculated in accordance with G.S. 53-274.9.
+25 (5) The method most recently used to determine the value of the dwelling for
+26 purposes of the loan.
+27 (6) The name, address, telephone number, and electronic mail address, if any, of
+28 the company employee or agent designated to respond to inquiries concerning
+29 the loan.
+30 "§ 53-274.13. Company default.
+31 (a) A company's failure to advance funds to or on behalf of the homeowner, pay an
+32 amount the company is required to pay to or for the benefit of the homeowner under this Article,
+33 or otherwise perform a material funding obligation under a home equity investment loan contract
+34 or written commitment is a default by the company.
+35 (b) Upon default by the company, the company forfeits any right to collect an amount
+36 described in G.S. 53-274.9(b)(3), interest, fees, charges, or any other amount in excess of the
+37 funds actually advanced to or for the benefit of the homeowner, excluding any amount the
+38 company is required to pay under this Article, and any protective advances described in
+39 G.S. 53-274.9(b)(2). The company's right to recover when the loan becomes due is limited to
+40 those amounts, less all amounts paid by or on behalf of the homeowner.
+41 (c) Subsection (b) of this section does not apply if the company cures the default within
+42 the time stated in the home equity investment loan contract or written commitment or within 30
+43 days after receiving written notice from the homeowner that the advance, payment, or other
+44 performance was not made, whichever is later.
+45 (d) The remedies in this section are in addition to any other remedy available under this
+46 Article or other law.
+47 "§ 53-274.14. Prohibited acts.
+48 (a) A company shall not engage in any of the following acts in connection with the
+49 making, brokering, purchasing, servicing, collecting, or enforcing of a home equity investment
+50 loan:
+Page 6 DRH40710-NNf-68
+
+General Assembly Of North Carolina Session 2025
+1 (1) Misrepresenting material facts, making false promises, or engaging in a course
+2 of misrepresentation through agents or otherwise.
+3 (2) Failing to provide disclosures in accordance with this Article.
+4 (3) Closing a loan without receiving each certification required by G.S. 53-274.6
+5 and G.S. 53-274.7.
+6 (4) Improperly refusing to issue a satisfaction of the security instrument.
+7 (5) Failing, within 10 business days after written request from the homeowner or
+8 the holder or servicer of an existing loan secured by a first lien on the dwelling,
+9 to execute and deliver in recordable form, without charge to the homeowner,
+10 a subordination agreement subordinating the home equity investment loan and
+11 any security instrument or other recorded instrument securing, evidencing, or
+12 making enforceable the home equity investment loan to any refinancing or
+13 modification of that existing first lien loan.
+14 (6) Contracting for or enforcing a provision that prohibits, limits, or penalizes a
+15 homeowner's disclosure to any person of the existence, terms, cost, risks, or
+16 performance of a home equity investment loan.
+17 (7) Contracting for, receiving, collecting, or attempting to collect any amount
+18 prohibited by G.S. 53-274.8 or G.S. 53-274.9.
+19 (8) Failing to offer the market-rate refinance option required by G.S. 53-274.11.
+20 (9) Defaulting under G.S. 53-274.13 and failing to cure the default within the time
+21 allowed by that section.
+22 (10) Failing to comply with this Article.
+23 (b) A provision described in subdivision (6) of subsection (a) of this section is void and
+24 unenforceable against the homeowner.
+25 "§ 53-274.15. Rules.
+26 The Commissioner may adopt rules necessary to implement and enforce this Article.
+27 "§ 53-274.16. Enforcement and civil remedies.
+28 (a) In addition to any authority under Article 19B of this Chapter, the Commissioner
+29 may, after notice and opportunity for hearing, order a company to cease and desist from
+30 violating this Article or any rule adopted under this Article and may impose a civil penalty of
+31 not more than five thousand dollars ($5,000) for each violation. For purposes of this subsection,
+32 each loan transaction and each failure to provide a disclosure, notice, certification, cure
+33 opportunity, or satisfaction required by this Article constitutes a separate violation.
+34 (b) Upon a finding that a company has violated this Article, the Commissioner may
+35 suspend or revoke any license held by the company under Article 19B of this Chapter to the
+36 extent permitted by law.
+37 (c) A violation of this Article is an unfair or deceptive act or practice in or affecting
+38 commerce under G.S. 75-1.1."
+39 SECTION 2. G.S. 53-244.030(30) reads as rewritten:
+40 "(30) Residential mortgage loan. – Any loan or obligation made or represented to
+41 be made to one or more individuals primarily for personal, family, or
+42 household use that is secured by a mortgage, deed of trust, or other equivalent
+43 consensual security interest on a dwelling located within this State or
+44 residential real estate upon which is constructed or intended to be constructed
+45 a dwelling. This term includes reverse mortgage loans under Article 21 of this
+46 Chapter Chapter, home equity investment loans under Article 21A of this
+47 Chapter, and contracts for deed under Chapter 47H of the General Statutes."
+48 SECTION 3. G.S. 53-244.118(a) reads as rewritten:
+49 "(a) The Commissioner may adopt any rules that the Commissioner deems necessary to
+50 carry out the provisions of this Article, to provide for the protection of the borrowing public, to
+51 prohibit unfair or deceptive practices, to instruct licensees or registrants in interpreting this
+DRH40710-NNf-68 Page 7
+
+General Assembly Of North Carolina Session 2025
+1 Article, and to implement and interpret the provisions of G.S. 24-1.1E, 24-1.1F, and 24-10.2
+2 24-10.2, and 24-10.3 as they apply to licensees and registrants under this Article. "
+3 SECTION 4.(a) G.S. 24-9(c) reads as rewritten:
+4 "(c) The provisions of G.S. 24-1.2A, 24-11, and 24-11.1 shall not apply to equity lines of
+5 credit offered by banks. Except as provided in this subsection and notwithstanding any other
+6 provision of this Chapter or any other provision of State law, any bank may charge and collect
+7 from any borrower interest at any rate and fees and other charges in any amount that the borrower
+8 agrees to pay in connection with an equity line of credit. However, an equity line of credit made
+9 by a bank shall be subject to the following, to the extent otherwise applicable:
+10 (1) The provisions of G.S. 24-1.1E (relating to restrictions and limitations on
+11 high-cost home loans).
+12 (2) The provisions of G.S. 24-10.2 (relating to consumer protections in certain
+13 home loans).
+14 (2a) The provisions of G.S. 24-10.3 (relating to certain mandatory arbitration
+15 provisions prohibited in covered mortgage transactions).
+16 (3) Notwithstanding the limitation against prepayment penalties contained in
+17 G.S. 45-82.4, a bank may charge and collect prepayment fees or penalties
+18 following the borrower's voluntary exercise of a right or option to repay all or
+19 any portion of the outstanding balance of a variable interest rate equity line of
+20 credit at a fixed interest rate over a specified period of time, subject to the
+21 following limitations:
+22 a. Prepayment fees or penalties may be charged only with respect to the
+23 prepayment of that portion of the outstanding balance the borrower
+24 voluntarily agrees to repay at a fixed interest rate over a specified time;
+25 b. No prepayment fees or penalties may be charged for prepayments
+26 made more than 30 months after the borrower voluntarily exercises the
+27 right or option to repay that portion of the outstanding balance of the
+28 equity line of credit at a fixed interest rate over a specified period of
+29 time; and
+30 c. The prepayment fees or penalties charged with respect to that portion
+31 of the outstanding balance to be repaid at a fixed rate over a specified
+32 period of time may not exceed, in the aggregate, more than two percent
+33 (2%) of the amount prepaid.
+34 Otherwise, no prepayment fees or penalties may be charged or collected by
+35 the bank with respect to an equity line of credit."
+36 SECTION 4.(b) G.S. 24-9 is amended by adding a new subsection to read:
+37 "(e) This section does not apply to a home equity investment loan under Article 21A of
+38 Chapter 53 of the General Statutes."
+39 SECTION 5. G.S. 24-10.2(a) reads as rewritten:
+40 "(a) For purposes of this section, the term "consumer home loan" means a loan, including
+41 an open-end credit plan but excluding a reverse mortgage transaction, in which (i) the borrower
+42 is a natural person, (ii) the debt is incurred by the borrower primarily for personal, family, or
+43 household purposes, and (iii) the loan is secured by a mortgage or deed of trust upon real estate
+44 upon which there is located or there is to be located a structure or structures designed principally
+45 for occupancy of from one to four families which is or will be occupied by the borrower as the
+46 borrower's principal dwelling. The term also includes a home equity investment loan under
+47 Article 21A of Chapter 53 of the General Statutes."
+48 SECTION 6. Chapter 24 of the General Statutes is amended by adding a new section
+49 to read:
+50 "§ 24-10.3. Certain mandatory arbitration provisions prohibited in covered mortgage
+51 transactions.
+Page 8 DRH40710-NNf-68
+
+General Assembly Of North Carolina Session 2025
+1 (a) The following definitions apply in this section:
+2 (1) Borrower. – A natural person obligated or applying to become obligated on a
+3 covered mortgage transaction.
+4 (2) Covered mortgage transaction. – Any of the following:
+5 a. A residential mortgage loan, as defined in G.S. 53-244.030(30),
+6 including a contract for deed under Chapter 47H of the General
+7 Statutes.
+8 b. An extension of credit under an open-end consumer credit plan
+9 secured by the principal dwelling of the borrower.
+10 (b) To the extent prohibited by 15 U.S.C. § 1639c(e), as amended, 12 C.F.R. §
+11 1026.36(h), as amended, or any successor provision, no covered mortgage transaction and no
+12 contract or other agreement relating to a covered mortgage transaction may include terms that
+13 require arbitration or any other nonjudicial procedure as the method for resolving any controversy
+14 or settling any claims arising out of the transaction.
+15 (c) This section does not prohibit a borrower and a creditor, company, lender, holder,
+16 assignee, or servicer from agreeing, after a dispute or claim arises, to arbitration or another
+17 nonjudicial procedure to resolve that dispute or claim.
+18 (d) To the extent prohibited by 15 U.S.C. § 1639c(e), as amended, 12 C.F.R. §
+19 1026.36(h), as amended, or any successor provision, no covered mortgage transaction and no
+20 contract or other agreement relating to a covered mortgage transaction may be applied or
+21 interpreted so as to bar a borrower from bringing an action in any court of competent jurisdiction
+22 pursuant to State or federal law for damages or other relief in connection with an alleged violation
+23 of law.
+24 (e) A term included in violation of this section is void and unenforceable.
+25 (f) This section shall be construed consistent with 15 U.S.C. § 1639c(e), 12 C.F.R. §
+26 1026.36(h), and any successor provision.
+27 (g) A violation of this section is an unfair or deceptive act or practice in or affecting
+28 commerce under G.S. 75-1.1."
+29 SECTION 7. G.S. 45-101(1b) reads as rewritten:
+30 "(1b) Home loan. – Any of the following:
+31 a. A loan that has all of the following characteristics:
+32 a. 1. The loan is not (i) an equity line of credit as defined in
+33 G.S. 24-9, (ii) a construction loan as defined in G.S. 24-10, (iii)
+34 a reverse mortgage transaction, or (iv) a bridge loan with a term
+35 of 12 months or less, such as a loan to purchase a new dwelling
+36 where the borrower plans to sell a current dwelling within 12
+37 months.
+38 b. 2. The borrower is a natural person.
+39 c. 3. The debt is incurred by the borrower primarily for personal,
+40 family, or household purposes.
+41 d. 4. The principal amount of the loan does not exceed the
+42 conforming loan size limit for a single-family dwelling as
+43 established from time to time by Fannie Mae.
+44 e. 5. The loan is secured by (i) a security interest in a manufactured
+45 home, as defined in G.S. 143-145, in the State which is or will
+46 be occupied by the borrower as the borrower's principal
+47 dwelling, (ii) a mortgage or deed of trust on real property in the
+48 State upon which there is located an existing structure designed
+49 principally for occupancy of from one to four families that is
+50 or will be occupied by the borrower as the borrower's principal
+51 dwelling, or (iii) a mortgage or deed of trust on real property
+DRH40710-NNf-68 Page 9
+
+General Assembly Of North Carolina Session 2025
+1 in the State upon which there is to be constructed using the loan
+2 proceeds a structure or structures designed principally for
+3 occupancy of from one to four families which, when
+4 completed, will be occupied by the borrower as the borrower's
+5 principal dwelling.
+6 f. 6. A purpose of the loan is to (i) purchase the dwelling, (ii)
+7 construct, repair, rehabilitate, remodel, or improve the
+8 dwelling or the real property on which it is located, (iii) satisfy
+9 and replace an existing obligation secured by the same real
+10 property, or (iv) consolidate existing consumer debts into a
+11 new home loan.
+12 b. A home equity investment loan under Article 21A of Chapter 53 of the
+13 General Statutes secured by the borrower's principal dwelling."
+14 SECTION 8. Until rules adopted under G.S. 53-274.15 specifying the examples
+15 required by G.S. 53-274.5(a)(9), as enacted by Section 1 of this act, become effective, a company
+16 complies with G.S. 53-274.5(a)(9) by providing examples of the total amount due at payment
+17 assuming (i) no appreciation, (ii) annual appreciation of three percent (3%), and (iii) annual
+18 appreciation of six percent (6%).
+19 SECTION 9.(a) G.S. 53-274.4(b) and G.S. 53-274.15, as enacted by Section 1 of this
+20 act, are effective when this act becomes law.
+21 SECTION 9.(b) Section 2 of this act, Section 3 of this act, Section 4(a) of this act,
+22 and Section 6 of this act become effective October 1, 2026. Section 2 of this act applies to home
+23 equity investment loans and contracts for deed entered into on or after that date. Section 4(a) of
+24 this act applies to equity lines of credit entered into on or after that date. Section 6 of this act
+25 applies to covered mortgage transactions entered into, and to contracts or other agreements
+26 relating to covered mortgage transactions executed, on or after that date.
+27 SECTION 9.(c) The remainder of Section 1 of this act, Section 4(b) of this act, and
+28 Sections 5, 7, and 8 of this act become effective October 1, 2026, and apply to home equity
+29 investment loan applications made on or after that date.
+30 SECTION 9.(d) The remainder of this act is effective when it becomes law.
+Page 10 DRH40710-NNf-68

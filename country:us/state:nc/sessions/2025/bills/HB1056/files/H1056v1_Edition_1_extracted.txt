@@ -1,0 +1,332 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1056
+Short Title: Relieving Housing Bottlenecks. (Public)
+Sponsors: Representatives Alston, Lopez, Prather, and Dahle (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+April 28, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ALLOW RESIDENTIAL DEVELOPMENT IN ALL COMMERCIAL ZONES,
+3 TO PROHIBIT MINIMUM PARKING REQUIREMENTS, TO REQUIRE THE NORTH
+4 CAROLINA HOUSING FINANCE AGENCY TO ESTABLISH A MUNICIPAL
+5 HOUSING APPROVAL ACCELERATION PROGRAM, TO PRESERVE
+6 SINGLE-FAMILY HOMEOWNERSHIP, TO ESTABLISH A WORKFORCE HOUSING
+7 PRECONSTRUCTION REVOLVING LOAN PROGRAM, AND TO PROVIDE
+8 ADDITIONAL FUNDING FOR THE NORTH CAROLINA HOUSING FINANCE
+9 AGENCY.
+10 Whereas, housing costs in North Carolina have risen sharply over the past decade,
+11 with median home prices increasing by more than 50 percent statewide since 2015 and rents
+12 rising significantly in both urban and rural communities; and
+13 Whereas, more than one in three renter households in North Carolina are cost
+14 burdened, paying over 30 percent of their income toward housing, and hundreds of thousands of
+15 households face severe cost burdens, paying more than half of their income for housing; and
+16 Whereas, wages for many working families have not kept pace with rising housing
+17 costs, placing homeownership further out of reach and increasing financial strain on teachers,
+18 first responders, health care workers, and service employees; and
+19 Whereas, North Carolina continues to experience strong population growth, adding
+20 thousands of new residents each year, while housing production has failed to keep pace with
+21 demand, resulting in low vacancy rates and sustained upward pressure on prices; and
+22 Whereas, regulatory barriers, infrastructure constraints, and lengthy or unpredictable
+23 approval processes increase the cost and time required to build housing, limiting supply and
+24 contributing to higher prices; and
+25 Whereas, expanding housing supply and removing unnecessary bottlenecks are
+26 essential to restoring affordability, strengthening workforce stability, and ensuring that North
+27 Carolina remains competitive and accessible for current and future residents; and
+28 Whereas, the General Assembly declares that addressing housing affordability is an
+29 urgent statewide priority and that effective, supply-focused policy reforms are necessary to
+30 reduce costs and support price-burdened households across North Carolina; Now, therefore,
+31 The General Assembly of North Carolina enacts:
+32
+33 PART I. ALLOW RESIDENTIAL DEVELOPMENT IN ALL COMMERCIAL ZONES
+34 SECTION 1.1. Article 7 of Chapter 160D of the General Statutes is amended by
+35 adding a new section to read:
+*H1056-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 "§ 160D-707. Residential development allowed in all commercial zones.
+2 (a) In all areas and districts zoned for commercial use, a local government shall allow
+3 residential development by right at a density and intensity no less than that allowed in the least
+4 restrictive residential zoning district in the jurisdiction in which residential development is
+5 permitted by right.
+6 (b) Nothing in this section shall be construed to apply to areas zoned for industrial use or
+7 to supersede or diminish any applicable building code, fire code, or other general public health
+8 and safety regulations or other building design elements generally applicable to residential
+9 development."
+10 SECTION 1.2. This Part becomes effective July 1, 2027, and applies to permit
+11 applications submitted on or after that date.
+12
+13 PART II. PROHIBIT PARKING MINIMUMS
+14 SECTION 2.1. G.S. 160D-702 reads as rewritten:
+15 "§ 160D-702. Grant of power.
+16 …
+17 (c) A zoning or other development regulation shall not do any of the following:
+18 (1) Set a minimum square footage of any structures subject to regulation under
+19 the North Carolina Residential Code.
+20 (2) Require a or otherwise establish a minimum size, placement, configuration,
+21 allocation, location, or number of parking space to be larger than 9 feet wide
+22 by 20 feet long unless the parking space is designated for handicap, parallel,
+23 or diagonal parking.spaces, except as required by the Americans with
+24 Disabilities Act of 1990, 42 U.S.C. § 12101, et seq., as amended, or federal
+25 regulations promulgated under that Act.
+26 (3) Require additional fire apparatus access roads into developments of one- or
+27 two-family dwellings that are not in compliance with the required number of
+28 fire apparatus access roads into developments of one- or two-family dwellings
+29 set forth in the Fire Code of the North Carolina Residential Code for One- and
+30 Two-Family Dwellings.
+31 …."
+32 SECTION 2.2. This Part becomes effective July 1, 2027, and applies to ordinances
+33 and regulations enacted or amended on or after that date.
+34
+35 PART III. SUPPORT LOCAL GOVERNMENT PERMITTING
+36 SECTION 3.1. Chapter 122A of the General Statutes is amended by adding a new
+37 section to read:
+38 "§ 122A-5.16. Municipal Housing Approval Acceleration Program.
+39 (a) As used in this section, "residential development application" means an application
+40 submitted to a local government for the approvals required for the construction of residential
+41 dwelling units or the conversion of buildings or portions of buildings into residential dwelling
+42 units. This definition includes rezonings, subdivision approvals, site plan approvals, special use
+43 permits, and building permits, but excludes post-construction ministerial reviews such as
+44 inspections and certificates of occupancy.
+45 (b) The North Carolina Housing Finance Agency shall establish and administer the
+46 Municipal Housing Approval Acceleration Program to reimburse eligible local governments up
+47 to one hundred twenty-five percent (125%) for eligible documented costs incurred to accelerate
+48 the review and disposition of residential development applications, including approval, denial,
+49 and other final action. The Agency shall do all of the following:
+50 (1) Develop performance reimbursement limits and eligibility guidelines in
+51 consultation with the North Carolina League of Municipalities, taking into
+Page 2 House Bill 1056-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 consideration geography, market conditions, and local capacity. The
+2 eligibility guidelines must clearly define and explain which local governments
+3 may apply for performance reimbursement under this Program and for which
+4 categories of documented costs.
+5 (2) Develop a standardized reporting form for local governments to use in
+6 applying for performance reimbursement. The form must require a local
+7 government to include all of the following from the year in which it is applying
+8 for reimbursement:
+9 a. Total number of residential development applications received.
+10 b. Number of residential development applications that have been
+11 approved or denied or remain pending.
+12 c. Processing time lines for approvals.
+13 d. Amount of eligible costs incurred in granting approvals, identified by
+14 category.
+15 e. Documentation of eligible costs.
+16 (3) Annually review completed applications for performance reimbursement as
+17 described in subdivision (2) of this subsection and reimburse local
+18 governments in accordance with the Agency's established reimbursement
+19 limits. Performance reimbursement amounts may exceed one hundred percent
+20 (100%), up to one hundred twenty-five percent (125%), on an individualized
+21 basis. The Agency shall consider all of the following local factors in
+22 determining whether to reimburse a local government more than one hundred
+23 percent (100%):
+24 a. Constrained fiscal capacity.
+25 b. Constrained staffing availability in rural or small jurisdictions.
+26 c. High-growth or high-cost housing markets.
+27 d. Extensive reduction in processing time lines for approvals.
+28 e. High number of approvals.
+29 f. Adoption of best-practice reforms that materially accelerate residential
+30 development and housing production.
+31 (c) Application. – To receive performance reimbursement for eligible costs, eligible local
+32 governments shall first apply to the Agency for reimbursement using the standardized reporting
+33 form described in subdivision (2) of subsection (b) of this section.
+34 (d) Funds. – The Agency shall use funds appropriated to it for this Program only as
+35 provided in this section.
+36 (e) Quarterly Report. – The Agency shall report quarterly to the Joint Legislative
+37 Economic Development and Global Engagement Oversight Committee and the Fiscal Research
+38 Division on all of the following:
+39 (1) Total funds obligated and disbursed.
+40 (2) Categories of eligible costs being reimbursed.
+41 (3) Identification of local governments receiving performance reimbursement.
+42 (4) Total number of residential development applications processed by each local
+43 government receiving performance reimbursement.
+44 (5) Number of residential development applications that have been approved or
+45 denied or remain pending for each local government receiving performance
+46 reimbursement.
+47 (6) Average processing time lines for approvals for each local government
+48 receiving performance reimbursement before and after participating in the
+49 Program.
+50 (7) Any reduction observed by the Agency in processing time lines for approvals
+51 attributable to the Program."
+House Bill 1056-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.2. This Part becomes effective July 1, 2027.
+2
+3 PART IV. PRESERVE SINGLE-FAMILY HOMEOWNERSHIP
+4 SECTION 4.1. Chapter 75 of the General Statutes is amended by adding a new
+5 Article to read:
+6 "Article 9.
+7 "Preservation of Single-Family Homeownership.
+8 "§ 75-146. Definitions.
+9 The following definitions apply in this Article:
+10 (1) Affiliate. – A business entity that wholly or substantially owns, is wholly or
+11 substantially owned by, or is under common ownership or control with and
+12 that acts directly or indirectly on behalf of, in concert with, or for the benefit
+13 of another corporate buyer.
+14 (2) Business entity. – A corporation, limited liability company, partnership, real
+15 estate investment trust, association, joint venture, fund, trust, or other legal
+16 entity, whether organized for profit or not for profit, but excluding a
+17 governmental entity.
+18 (3) Corporate buyer. – An individual or business entity who acquires or holds title
+19 to a single-family home for any purpose other than owner-occupancy.
+20 (4) Owner-occupant. – An individual who acquires or holds title to a
+21 single-family home and who occupies, or intends in good faith to occupy, the
+22 home as the individual's primary residence.
+23 (5) Single-family home. – A residential structure that is either a fully detached or
+24 semi-detached building or that is a row or town home that (i) is separate from
+25 any adjacent unit by a ground-to-roof wall, (ii) does not share heating or
+26 air-conditioning systems or utilities, and (iii) does not have dwelling units
+27 located above or below.
+28 "§ 75-147. Legislative findings and purpose.
+29 (a) The General Assembly finds all of the following:
+30 (1) The availability of single-family homes for owner-occupancy is vital to the
+31 health, safety, welfare, and prosperity of the people of this State.
+32 (2) Homeownership remains one of the principal means by which households
+33 build equity, accumulate intergenerational wealth, achieve residential
+34 stability, and participate fully in the economic and civic life of their
+35 communities.
+36 (3) Single-family homes are distinct from other forms of real property in that they
+37 are traditionally intended to serve as the primary residences of individuals and
+38 families, rather than as a large-scale financial asset class.
+39 (4) The large-scale acquisition and holding of single-family homes by corporate,
+40 institutional, and other business entities for rental or speculative purposes can
+41 reduce the supply of homes available for owner-occupants, intensify
+42 competition for entry-level and moderate-cost homes, and contribute to the
+43 displacement of prospective homebuyers by portfolio purchasers.
+44 (5) When substantial numbers of single-family homes are converted from
+45 opportunities for family ownership into instruments of large-scale rent
+46 extraction, the State suffers not only economic harm, but social and civic harm
+47 through reduced neighborhood stability, diminished opportunities for wealth
+48 formation, and increased dependence of residents upon concentrated private
+49 market power for basic housing.
+50 (6) Single-family homes should, as a matter of public policy, be preserved
+51 primarily for ownership and occupancy by individuals and families and should
+Page 4 House Bill 1056-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 not be subject to indefinite aggregation by large-scale landlord interests or
+2 accumulated at scale by corporate buyers whose principal purpose is to hold
+3 such homes as rental inventory, speculative inventory, or other investment
+4 assets.
+5 (b) Therefore, the purpose of this Article is to protect the single-family housing market
+6 from excessive concentration, preserve meaningful opportunities for owner-occupancy, deter the
+7 treatment of single-family homes as a large-scale commodity class, and promote the broad
+8 distribution of the benefits of homeownership among the people of North Carolina.
+9 "§ 75-148. Prohibited large-scale acquisition of single-family homes.
+10 (a) It is unlawful for a corporate buyer to purchase, acquire, or otherwise obtain an
+11 ownership interest in a single-family home in this State if, upon consummation of the transaction,
+12 that corporate buyer would own, lease-purchase, control, or hold a beneficial interest in more
+13 than 25 single-family homes in this State that are used primarily for rental, speculative, or other
+14 non-owner-occupancy purposes.
+15 (b) For purposes of this section, homes owned or controlled by affiliates are aggregated.
+16 (c) A purchase made in violation of this section is an unfair or deceptive act or practice
+17 affecting commerce under G.S. 75-1.1.
+18 "§ 75-149. Exemptions.
+19 This Article does not apply to any of the following:
+20 (1) A single-family home acquired by devise, descent, or other inheritance.
+21 (2) A single-family home acquired by a lender, loan servicer, or governmental
+22 entity through foreclosure, deed in lieu of foreclosure, enforcement of a
+23 security interest, tax foreclosure, or similar process, provided the acquiring
+24 party does not retain the home for rental or speculative purposes longer than
+25 24 months after acquisition.
+26 (3) A single-family home acquired, in whole or majority part, by a nonprofit
+27 organization, community land trust, or public housing-related entity for the
+28 purpose of affordable homeownership, transitional housing, community
+29 stabilization, or other public or charitable housing purpose.
+30 (4) A builder or developer acquiring, constructing, or holding a single-family
+31 home in the ordinary course of development for initial sale to an
+32 owner-occupant, and not for long-term rental portfolio purposes.
+33 (5) An individual acting in the individual's own name for personal, family, or
+34 household purposes.
+35 "§ 75-150. Enforcement; remedies.
+36 (a) The Attorney General shall have the same authority under this Article to investigate,
+37 bring civil actions, seek injunctive relief, and obtain other remedies as provided under this
+38 Chapter.
+39 (b) In addition to any other relief authorized by law, a court may do any of the following
+40 upon finding a violation of this Article:
+41 (1) Enjoin the acquisition or continued ownership of a single-family home
+42 acquired in violation of this Article.
+43 (2) Order divestiture of a single-family home acquired in violation of this Article
+44 within a reasonable period set by the court.
+45 (3) Order disgorgement to the State of any rents, proceeds, appreciation, fees, or
+46 other profits derived from a single-family home acquired or held in violation
+47 of this Article.
+48 (4) Award restitution, damages, costs, and reasonable attorneys' fees.
+49 (5) Impose a civil penalty of not more than ten thousand dollars ($10,000) per
+50 home acquired in violation of this Article,
+House Bill 1056-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (c) A court may join affiliates and other interested parties as necessary to ensure a full
+2 accounting of ownership and effective enforcement of this Article.
+3 (d) The remedies under this Article are cumulative and do not limit any other rights or
+4 remedies available under law."
+5 SECTION 4.2. This Part becomes effective October 1, 2026, and applies to
+6 acquisitions occurring on or after that date.
+7
+8 PART V. ESTABLISH WORKFORCE HOUSING PRECONSTRUCTION REVOLVING
+9 LOAN PROGRAM
+10 SECTION 5. Chapter 122A of the General Statutes is amended by adding a new
+11 section to read:
+12 "§ 122A-5.17. Revolving loan fund to finance short-term workforce housing
+13 preconstruction costs.
+14 (a) Definitions. – The following definitions apply in this section:
+15 (1) Preconstruction costs. – Land surveys, environmental due diligence and soil
+16 testing, utility connections, planning and permit fees, and site clearing and
+17 grading.
+18 (2) Workforce housing. – Housing that is affordable to households earning
+19 between sixty percent (60%) and one hundred twenty percent (120%) of the
+20 county area median income or the State area median income, whichever is
+21 higher.
+22 (b) Program. – The North Carolina Housing Finance Agency shall establish and
+23 administer the Workforce Housing Preconstruction Revolving Loan Program for the purpose of
+24 making revolving loans for preconstruction costs for workforce housing projects before
+25 developers obtain permanent, private financing. The Agency shall establish guidelines for project
+26 equity requirements for applicants between twenty percent (20%) and thirty-five percent (35%)
+27 based on market conditions in the county where the project is located. Funds appropriated to the
+28 North Carolina Housing Trust Fund for the Workforce Housing Preconstruction Revolving Loan
+29 Program shall be used by the Agency only as provided in this section.
+30 (c) Requirements. – The following shall apply to loans issued pursuant to this section:
+31 (1) No loan shall exceed one million dollars ($1,000,000).
+32 (2) Eighty percent (80%) of loans shall be reserved for projects in counties
+33 designated as development tier one and tier two areas, as defined in
+34 G.S. 143B-437.08.
+35 (3) Twenty percent (20%) of loans shall be reserved for projects in counties
+36 designated as a development tier three area, as defined in G.S. 143B-437.08.
+37 For the purposes of this subsection, the development tier designation that is in effect as of the
+38 beginning of a fiscal year shall be applied for all loans issued for that fiscal year.
+39 (d) Report. – Before February 15 of each year, the Agency shall report to the Joint
+40 Legislative Oversight Committee on General Government and the Fiscal Research Division on
+41 the number of loans made under this section in the previous calendar year, the amount of each
+42 loan, and the recipient of each loan."
+43
+44 PART VI. INCREASE FUNDING FOR NORTH CAROLINA HOUSING FINANCE
+45 AGENCY
+46 SECTION 6.1. There is appropriated from the General Fund to the North Carolina
+47 Housing Finance Agency the sum of one hundred twenty million dollars ($120,000,000) in
+48 nonrecurring funds for the 2026-2027 fiscal year as a directed grant to establish the Municipal
+49 Housing Approval Acceleration Program pursuant to this act.
+50 SECTION 6.2. The State Controller shall transfer the sum of forty million dollars
+51 ($40,000,000) in nonrecurring funds for the 2026-2027 fiscal year from funds available in the
+Page 6 House Bill 1056-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 Economic Development Project Reserve, established in Section 2.2 of S.L. 2021-180, to the
+2 North Carolina Housing Trust Fund for the Workforce Housing Preconstruction Revolving Loan
+3 Program established by this act.
+4
+5 PART VII. EFFECTIVE DATE
+6 SECTION 7. Except as otherwise provided, this act is effective when it becomes
+7 law.
+House Bill 1056-First Edition Page 7

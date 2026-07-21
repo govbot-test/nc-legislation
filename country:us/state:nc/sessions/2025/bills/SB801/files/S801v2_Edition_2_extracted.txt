@@ -1,0 +1,274 @@
+Title: 
+Official Title: 
+Source: versions - Edition 2
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 2
+SENATE BILL 801
+Judiciary Committee Substitute Adopted 6/17/26
+Short Title: Protect Special Ops Forces/No Doxing. (Public)
+Sponsors:
+Referred to:
+April 22, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT EXEMPTING FROM PUBLIC RECORDS REQUIREMENTS THE DISCLOSURE
+3 OF IDENTIFICATION AND LOCATION INFORMATION OF CERTAIN CURRENT
+4 AND FORMER MILITARY PERSONNEL AND THEIR DEPENDENTS, CREATING A
+5 PILOT PROGRAM FOR CERTAIN MILITARY PERSONNEL TO PARTICIPATE IN
+6 THE ADDRESS CONFIDENTIALITY PROGRAM, AND ENACTING THE CIVIL
+7 LIABILITY FOR DOXING ACT.
+8 The General Assembly of North Carolina enacts:
+9 SECTION 1.(a) Chapter 132 of the General Statutes is amended by adding a new
+10 section to read:
+11 "§ 132-1.15. Identification and location information of current and former military
+12 personnel exempted from disclosure.
+13 (a) Definitions. – The following definitions apply in this section:
+14 (1) Identification and location information or information. – Includes the
+15 following:
+16 a. Home addresses, telephone numbers, and dates of birth of current and
+17 former military personnel and the telephone numbers associated with
+18 the personal communication devices of current and former military
+19 personnel.
+20 b. Home addresses, telephone numbers, and dates of birth of the spouses
+21 and dependents of current and former military personnel, and the
+22 telephone numbers associated with the personal communication
+23 devices of such spouses and dependents.
+24 c. Names and locations of schools attended by the spouses of current and
+25 former military personnel and schools or daycare facilities attended by
+26 dependents of current and former military personnel.
+27 (2) Military personnel. – Persons employed by the United States Department of
+28 Defense who are authorized to access information deemed "secret" or "top
+29 secret" by the federal government or persons who are servicemembers of a
+30 special operations force.
+31 (3) Special operations force. – The active and reserve component forces of the
+32 United States military services, designated by the Secretary of War or
+33 Secretary of Defense, and specifically organized, trained, and equipped to
+34 conduct and support special operations. The term includes servicemembers of
+35 the United States Army Special Forces and the United States Army 75th
+36 Ranger Regiment; the United States Navy SEALs and Special Warfare
+*S801-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 Combatant-Craft Crewmen; the United States Air Force Combat Control,
+2 Pararescue, and Tactical Air Control Party specialists; the United States
+3 Marine Corps Critical Skills Operators; and any other component of the
+4 United States Special Operations Command.
+5 (4) State agency. – A unit of the executive, legislative, or judicial branch of State
+6 government, such as a department, institution, division, commission, board,
+7 council, community college, or The University of North Carolina system. The
+8 term includes a unit of local government as defined in G.S. 143C-1-1.
+9 (b) Findings. – The General Assembly finds that:
+10 (1) Military personnel perform among the most critical, most effective, and most
+11 dangerous operations in defense of our nation's freedom.
+12 (2) Terrorist groups, insurgents, and hostile nations have threatened military
+13 personnel and their families and have encouraged actions to harm military
+14 personnel and their families within the United States. Such actions can
+15 intimidate communities, demoralize military families, and potentially weaken
+16 operations.
+17 (3) Allowing continued public access to the identification and location
+18 information of current and former military personnel and their families
+19 jeopardizes the safety of these personnel, their spouses, and their dependents.
+20 (4) Protecting the safety and security of current and former military personnel,
+21 and their spouses and dependents, outweighs any public benefit that may be
+22 derived from the public disclosure of the identification and location
+23 information.
+24 (c) Information Protected. – Identification and location information held by a State
+25 agency is confidential, not a public record as defined by G.S. 132-1, and shall be exempt from
+26 disclosure under this Chapter when the current or former military personnel member submits the
+27 following to the State agency that has custody of the identification and location information:
+28 (1) A written request to exempt the member's identification and location
+29 information from public disclosure; and
+30 (2) A written statement that the member has made reasonable efforts to protect
+31 the identification and location information from being accessible through
+32 other means available to the public.
+33 (d) The head of each State agency shall ensure that current and archived identification
+34 and location information is removed as soon as practicable from the State agency website in
+35 conformity with the requirements of this section."
+36 SECTION 1.(b) The provisions of this section apply to identification and location
+37 information as defined in G.S. 132-1.15, as enacted by this act, held by a custodian before, on,
+38 or after the effective date of this act.
+39 SECTION 2.(a) The Department of Justice shall study extending coverage under
+40 Chapter 15C of the General Statutes (Address Confidentiality Program) to military personnel as
+41 defined in G.S. 132-1.15, as enacted by this act. The Department of Justice shall complete the
+42 study and report its findings and recommendations to the General Assembly and Fiscal Research
+43 Division by October 1, 2027.
+44 SECTION 2.(b) Notwithstanding Chapter 15C of the General Statutes, during the
+45 period from July 1, 2026, through June 30, 2027, the Attorney General may authorize
+46 participation in the Address Confidentiality Program by military personnel, as defined in
+47 G.S. 132-1.15, for the purpose of evaluating program administration, participant demand,
+48 resource needs, and other implementation considerations associated with a potential expansion
+49 of program eligibility. Participation authorized under this subsection shall be subject to any
+50 procedures and requirements established by the Attorney General.
+Page 2 Senate Bill 801-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.(c) The Attorney General shall charge military personnel who apply to
+2 participate in the Address Confidentiality Program a fee for processing the applicant's application
+3 and administering the program. The fee amount is ten dollars ($10.00). The applicant shall submit
+4 the fee with the application to the Attorney General.
+5 SECTION 2.(d) The report required by this section, and all records, data, analyses,
+6 and materials prepared or collected by the Department of Justice in connection with the study or
+7 pilot program authorized by this section, are confidential and are not public records as defined in
+8 G.S. 132-1. Such information shall not be subject to inspection, examination, or disclosure under
+9 Chapter 132 of the General Statutes.
+10 SECTION 3.(a) This section shall be known, and may be cited, as the "Civil Liability
+11 for Doxing Act."
+12 SECTION 3.(b) Chapter 1 of the General Statutes is amended by adding a new
+13 Article to read:
+14 "Article 54.
+15 "Civil Liability for Doxing Act.
+16 "§ 1-670. Definitions.
+17 The following definitions apply in this Article:
+18 (1) Close relation. – A current or former spouse or domestic partner, parent, child,
+19 sibling, stepchild, stepparent, grandparent, any person who regularly resides
+20 in the household or who within the prior six months regularly resided in the
+21 household, or any person with a significant personal or professional
+22 relationship.
+23 (2) Course of conduct. – A pattern of conduct composed of two or more acts,
+24 evidencing a continuity of purpose.
+25 (3) Doxing. – Unauthorized publication of identification and location information
+26 with intent or knowledge that the information will be used to harm the
+27 individual whose information is published or with reckless disregard for the
+28 risk that the information will be used to harm the individual whose
+29 information is published.
+30 (4) Electronic communication. – The transmission of information by wire, radio,
+31 optical cable, electromagnetic, or other similar means. The term includes
+32 email, internet-based communications, pager service, and electronic text
+33 messaging.
+34 (5) Identification and location information or information. – As defined in
+35 G.S. 132-1.15.
+36 (6) Military personnel. – As defined in G.S. 132-1.15.
+37 (7) Publish. – To circulate, deliver, distribute, disseminate, post, transmit, or
+38 otherwise make available to another person, through any oral, written, visual,
+39 or electronic communication.
+40 (8) Regularly resides. – Residing in the household with some permanency or
+41 regular frequency in the resident's living arrangement.
+42 (9) Special operations force. – As defined in G.S. 132-1.15.
+43 (10) State agency. – A unit of the executive, legislative, or judicial branch of State
+44 government, such as a department, institution, division, commission, board,
+45 council, community college, or The University of North Carolina system. The
+46 term includes a unit of local government as defined in G.S. 143C-1-1.
+47 (11) Substantial life disruption. – When a person significantly modifies their
+48 actions, routines, employment, residence, appearance, name, or contact
+49 information to avoid or protect against an actor who has obtained or is using
+50 the person's information, or because of the course of conduct of an actor who
+51 has obtained or is using the person's personal identifying information.
+Senate Bill 801-Second Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 Examples include, without limitation, changing a phone number, changing an
+2 electronic mail address, deleting personal electronic accounts, significantly
+3 decreasing use of the internet, moving from an established residence,
+4 changing daily routines, changing routes to and from work, changing
+5 employment or work schedule, or losing time from work or a job.
+6 "§ 1-671. Civil liability for doxing.
+7 (a) Doxing is unlawful. A person may be held civilly liable for publishing an individual's
+8 identification and location information under the following circumstances:
+9 (1) Without the express consent of the individual whose information is published
+10 with intent or knowledge that the information will be used to harm the
+11 individual whose information is published; or
+12 (2) In reckless disregard of the risk that the information will be used to harm the
+13 individual whose information is published; and
+14 (3) The publication causes the individual whose information is published to suffer
+15 one or more of the following:
+16 a. Physical injury.
+17 b. Significant economic injury.
+18 c. Mental anguish.
+19 d. Fear of serious bodily injury or death for themselves or a close relation
+20 to themselves.
+21 e. A substantial life disruption.
+22 (b) A person is not civilly liable for providing identification and location information as
+23 follows:
+24 (1) When reporting criminal activity, which the person making the report
+25 reasonably believes occurred, to an employee of a law enforcement agency,
+26 intelligence agency, or other government agency in the United States; or in
+27 connection with any existing investigative, protective, or intelligence activity
+28 of any law enforcement agency, intelligence agency, or other government
+29 agency in the United States. This subdivision only applies if the person
+30 providing the information reasonably believes it to be accurate and provides
+31 the information in good faith and not for a malicious, fraudulent, or unlawful
+32 purpose.
+33 (2) In connection with an exercise of the right of freedom of speech or of the
+34 press, the right to assemble or petition, or the right of association, guaranteed
+35 by the United States Constitution or North Carolina Constitution.
+36 (3) To, or in the course of acting as, or on behalf of the news media.
+37 (4) When required to do so by any federal, State, or local law or regulation, or
+38 court rule or court order. This subdivision only applies if the person providing
+39 the information reasonably believes it to be accurate and provides the
+40 information in good faith and not for a malicious, fraudulent, or unlawful
+41 purpose.
+42 (5) In connection with a lawful requirement for a court filing or recording,
+43 including recording judgments or filing liens, unless otherwise specifically
+44 allowed by law.
+45 (6) Under the Gramm-Leach-Bliley Act and Consumer Financial Protection
+46 Bureau Regulation P, 12 C.F.R. Part 1016, consistent with privacy policy
+47 disclosures provided pursuant to that regulation.
+48 (7) In compliance with the Fair Credit Reporting Act (15 U.S.C. § 1681 et seq.);
+49 or the Fair Debt Collection Practices Act (91 Stat. 874; 15 U.S.C. § 1692 et
+50 seq.).
+Page 4 Senate Bill 801-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (8) In a consumer alert or public notice arising from a regulatory, civil, or criminal
+2 investigation, complaint, or enforcement action. This subdivision only applies
+3 to publications made by government agencies.
+4 (9) Within or to a government agency, corporation, company, partnership, labor
+5 union, or another legal entity, or to any employees or agents thereof, but only
+6 if all of the following requirements are satisfied:
+7 a. The information is provided for a legitimate and lawful purpose,
+8 including, without limitation, the reporting of criminal or fraudulent
+9 activity, facilitating a lawful commercial transaction, or furthering an
+10 existing business relationship.
+11 b. The personal identifying information is provided through a private
+12 channel of communication and is not provided to the public.
+13 c. The person providing the personal information:
+14 1. Reasonably believes it to be accurate; or
+15 2. Has reasonable suspicion to believe it is being used
+16 fraudulently; and
+17 3. The person providing the personal identifying information
+18 provides it in good faith, and not for a malicious or fraudulent
+19 purpose.
+20 (10) On behalf of a State agency under exigent circumstances if the information
+21 was provided in a manner legally permitted under federal or State law.
+22 (c) It is not a defense that the identification and location information at issue was
+23 voluntarily given to the publisher, has been previously publicly disclosed, or is readily
+24 discoverable through research or investigation.
+25 (d) This section is not intended to allow actions to be brought for constitutionally
+26 protected activity.
+27 (e) Nothing in this section shall be construed in any manner to:
+28 (1) Conflict with 47 U.S.C. § 230;
+29 (2) Conflict with 42 U.S.C. § 1983; or
+30 (3) Prohibit any activity protected under the Constitution of the United States or
+31 the North Carolina Constitution.
+32 (f) An individual whose identification and location information is published in violation
+33 of this Article may bring a civil action against (i) the person or persons who published the
+34 personal identifying information and (ii) any person who knowingly benefits, financially or by
+35 receiving anything of value, from participation in a venture that the person knew or should have
+36 known has engaged in an act in violation of this Article.
+37 (g) A prevailing claimant who brings a civil action pursuant to this Article is entitled to
+38 recover any or all of the following remedies upon request: (i) compensatory damages, (ii)
+39 punitive damages, (iii) statutory damages of five thousand dollars ($5,000) per violation, (iv)
+40 costs and reasonable attorneys' fees, (v) injunctive relief, and (vi) any other relief deemed
+41 appropriate by the court.
+42 (h) When an action is brought under this Article, a court may, on its own motion or upon
+43 the motion of any party, issue a temporary restraining order, or a temporary or permanent
+44 injunction, to restrain and prevent the disclosure or continued disclosure of a party's personal
+45 identifying information.
+46 (i) A civil action may be brought in any county in which an element of any violation of
+47 this Article occurred, or in which an individual resides who is the subject of the information
+48 published in violation of this Article.
+49 "§ 1-672. Severability.
+Senate Bill 801-Second Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 If any section or provision of this Article is declared unconstitutional or invalid by the courts,
+2 it does not affect the validity of this act as a whole or any part other than the part so declared to
+3 be unconstitutional or invalid."
+4 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+5 law.
+Page 6 Senate Bill 801-Second Edition

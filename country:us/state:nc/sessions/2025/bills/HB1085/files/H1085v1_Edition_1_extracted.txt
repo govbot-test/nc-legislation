@@ -1,0 +1,75 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1085
+Short Title: Improve Cable Service Complaint Resolutions. (Public)
+Sponsors: Representatives Buansi, Ward, and Longest (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ADD AN ENFORCEMENT MECHANISM AVAILABLE TO THE CONSUMER
+3 PROTECTION DIVISION OF THE DEPARTMENT OF JUSTICE FOR REPEAT
+4 VIOLATIONS COMMITTED BY A CABLE SERVICE PROVIDER OF THE FEDERAL
+5 CUSTOMER SERVICE REQUIREMENTS OR THE TERMS AND CONDITIONS OF
+6 THE CABLE SERVICE PROVIDER'S AGREEMENT WITH CUSTOMERS.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1. G.S. 66-356 reads as rewritten:
+9 "§ 66-356. Service standards and requirements.
+10 …
+11 (c) Complaints. – The Consumer Protection Division of the Attorney General's Office is
+12 designated as the State agency to receive and respond to receive, investigate, and resolve
+13 customer complaints concerning cable services. Persistent or repeated violations of the federal
+14 customer service requirements or the terms and conditions of the cable service provider's
+15 agreement with customers are unfair or deceptive acts or practices under G.S. 75-1.1.
+16 To facilitate the resolution of customer complaints, the cable service provider must include
+17 the following statement on the customer's bill: "If you have a complaint about your cable service,
+18 you should first contact customer service at the following telephone number: (insert the cable
+19 service provider's customer service telephone number). If the cable service provider does not
+20 satisfactorily resolve your complaint, contact the Consumer Protection Division of the Attorney
+21 General's Office of the State of North Carolina (insert information on how to contact the
+22 Consumer Protection Division of the Attorney General's Office).
+23 Two or more violations of the same federal customer service requirement or the same term
+24 and condition of the cable service provider's agreement with customers are unfair or deceptive
+25 acts or practices under G.S. 75-1.1. Additionally, the Division may bring a civil action for
+26 forfeiture of revenue received from subscribers to the cable service (i) in the area where the
+27 violations were committed for the period during which the violations were committed and (ii)
+28 who were directly affected by the violations. A forfeiture does not affect the liability of the cable
+29 service provider for sales tax due under G.S. 105-164.4 on cable service. The amount required to
+30 be forfeited in the action must be remitted to the Civil Penalty and Forfeiture Fund established
+31 in G.S. 115C-457.2.
+32 …
+33 (e) Report to Revenue Laws Study Committee. – The Consumer Protection Division of
+34 the Attorney General's Office must report to the Revenue Laws Study Committee on or before
+*H1085-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 April 1 of each year, beginning April 1, 2008, year on the following information concerning cable
+2 service complaints the Division has received from cable customers under this section:
+3 (1) The number of customer complaints.
+4 (2) The types of customer complaints.
+5 (3) The different means of resolving customer complaints.
+6 (f) Construction. – Nothing in this section shall be construed as applying to video
+7 streaming services. For purposes of this subsection, the term "video streaming service" means an
+8 entity that makes available directly to the consumer, through a distribution method that uses
+9 internet protocol, video programming or video content the entity makes available for users to
+10 view."
+11 SECTION 2. There is appropriated from the General Fund to the Department of
+12 Justice the sum of one hundred thirty-three thousand dollars ($133,000) in recurring funds for
+13 the 2026-2027 fiscal year to be used to hire one Administrative Specialist I and one Program
+14 Coordinator to focus on complaints received under G.S. 66-356(c), as amended by Section 1 of
+15 this act. There is appropriated from the General Fund to the Department of Justice the sum of
+16 five hundred thousand dollars ($500,000) in nonrecurring funds for the 2026-2027 fiscal year to
+17 be used for costs incurred from implementing G.S. 66-356(c), as amended by Section 1 of this
+18 act.
+19 SECTION 3. Section 2 of this act becomes effective July 1, 2026. The remainder of
+20 this act becomes effective June 1, 2027, and applies to violations committed on or after that date.
+Page 2 House Bill 1085-First Edition

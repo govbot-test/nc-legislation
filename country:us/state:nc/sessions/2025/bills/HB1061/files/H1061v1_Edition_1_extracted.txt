@@ -1,0 +1,196 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1061
+Short Title: Plyler Educational Protections Act. (Public)
+Sponsors: Representatives Greenfield, K. Brown, Morey, and Johnson-Hostler (Primary
+Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 28, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO GRANT STUDENTS EQUAL ACCESS TO PUBLIC EDUCATION
+3 REGARDLESS OF IMMIGRATION STATUS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Chapter 115C of the General Statutes is amended by adding a new
+6 Article to read:
+7 "Article 26A.
+8 "Plyler Educational Protections Act.
+9 "§ 115C-386.1. Short title; purpose.
+10 (a) This Article may be cited as the "Plyler Educational Protections Act."
+11 (b) The purpose of the Plyler Educational Protections Act is to codify the right of every
+12 child to equal access to a free public education and a school that is safe from intimidation and
+13 fear, consistent with the landmark U.S. Supreme Court decision in Plyler v. Doe, 457 U.S. 202
+14 (1982), which held that it is unconstitutional for states to deny children a free public education
+15 based on immigration status in violation of the equal protection clause of the Fourteenth
+16 Amendment to the United States Constitution. To promote the right to educational equality
+17 established in Plyler, schools must take steps to protect the integrity of school learning
+18 environments for all children, including from the threat of immigration enforcement or other law
+19 enforcement activity on a school campus, so that no parent is discouraged from sending their
+20 child to school and no child is discouraged from attending school.
+21 (c) The provisions of this Article are severable. If any provision of this Article or its
+22 application is held invalid, that invalidity shall not affect other provisions or applications that can
+23 be given effect without the invalid provision or application.
+24 "§ 115C-386.2. Definitions.
+25 As used in this Article, the following definitions apply:
+26 (1) Citizenship status. – The legal classification of a person's presence in the
+27 United States, whether real or perceived.
+28 (2) Directory information. – Information contained in a student's educational
+29 record that would not generally be considered harmful or an invasion of
+30 privacy if disclosed.
+31 (3) Immigration authorities. – Persons representing, working for, or deputized by
+32 United States Immigration and Customs Enforcement (ICE) or United States
+33 Customs and Border Protection (CBP), and any State or local law enforcement
+34 officers or employees authorized to perform immigration officer functions
+*H1061-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 pursuant to section 287(g) of the Immigration and Nationality Act, 8 U.S.C. §
+2 1357.
+3 (4) Parent. – Any of the following:
+4 a. A natural, adoptive, or foster parent.
+5 b. A guardian, but not the State if the child is a ward of the State.
+6 c. An individual acting in the place of a natural or adoptive parent,
+7 including a grandparent, stepparent, or other relative, and with whom
+8 the child lives.
+9 d. An individual who is legally responsible for the child's welfare.
+10 e. A surrogate if one is appointed under G.S. 115C-109.2.
+11 "§ 115C-386.3. All children guaranteed access to a free public education.
+12 (a) Public school units shall not take any of the following actions based on the citizenship
+13 status of a student or the student's parent:
+14 (1) Deny a student admission to or enrollment in a public school.
+15 (2) Exclude a child from participating in or benefiting from an educational
+16 program or activity.
+17 (3) Exclude a parent from participating in parent engagement activities or
+18 programs.
+19 (b) Public school units shall not adopt any policies that, either on their face or in practice,
+20 differentiate between students based on citizenship status.
+21 (c) If a student experiences disruptions to instruction as a result of immigration
+22 enforcement actions, a school shall make its best efforts to develop an alternate instruction plan
+23 for the student.
+24 "§ 115C-386.4. Information privacy.
+25 (a) A public school unit shall not take any of the following actions, except as provided in
+26 subsection (b) of this section:
+27 (1) Inquire about or require documentation of the citizenship status of a student
+28 or the student's parent or the manner in which a student or the student's parent
+29 entered the country.
+30 (2) Include citizenship status, place of birth, or national origin in student directory
+31 information.
+32 (3) Disclose any information collected about the place of birth, national origin, or
+33 citizenship status of a student or the student's parent to any immigration
+34 authority, law enforcement, nongovernmental entity, or individual person.
+35 (b) A public school unit may take an action listed in subsection (a) of this section in any
+36 of the following circumstances:
+37 (1) When required by State or federal law or when legally obligated under a
+38 judicial warrant, subpoena, or court order.
+39 (2) When strictly necessary to administer a State or federally supported
+40 educational program.
+41 (3) In relation to an application for employment or as a condition of employment.
+42 (4) When a parent has given written consent for the action.
+43 (c) A public school unit may only provide accurate information about a student or parent
+44 to immigration authorities and shall not provide speculative information.
+45 "§ 115C-386.5. Immigration authority Action Response Plans.
+46 (a) Each school within a public school unit shall develop an immigration authority Action
+47 Response Plan (ARP) to instruct school staff on the proper course of action when immigration
+48 authorities request information from a school or request to enter school grounds.
+49 (b) The ARP shall be updated before the beginning of each school year and shall, at a
+50 minimum, include the following:
+Page 2 House Bill 1061-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (1) Identification of a Designated Authorized Person (DAP). The DAP is the
+2 primary person that will interact with immigration authorities on behalf of the
+3 school. The DAP may select a designee to act in the DAP's absence. The
+4 superintendent, or equivalent authority, of the public school unit in which the
+5 school is located also has concurrent authority to perform the same duties as
+6 the DAP.
+7 (2) A description of the DAP's duties, which shall include at least the following:
+8 a. Receiving and reviewing immigration authority requests for
+9 information or to enter school grounds.
+10 b. Asking if the request for information or entry is pursuant to a judicial
+11 warrant or court order and, if so, requesting a copy of such.
+12 c. As soon as practicable, sending a copy of any judicial warrant or court
+13 order to the school's or public school unit's legal counsel to review.
+14 d. Recording the name, badge or identification number, and telephone
+15 number of any immigration authority the DAP interacts with.
+16 (3) Procedures for immigration authorities to contact the DAP to request
+17 information or entry to school grounds.
+18 (4) Procedures for monitoring and accompanying immigration authorities when
+19 on school grounds, including documenting all interactions with people and
+20 any information, records, or areas that were accessed. The procedures shall
+21 also address how to notify staff and students of the presence of immigration
+22 authorities on school grounds without divulging personally identifiable or
+23 sensitive information related to the reason for entry.
+24 (5) Procedures to notify parents within 24 hours that immigration authorities
+25 accessed the school campus.
+26 (6) Procedures for obtaining consent from parents to share a student's information
+27 at the request of immigration authorities and for notifying parents within 24
+28 hours when information has been provided to authorities, regardless of
+29 whether the information was provided with consent.
+30 (7) A plan to provide training on the ARP to teachers, administrators, school
+31 resource officers, bus drivers, school nutrition program workers, and school
+32 staff.
+33 (8) Procedures to allow a parent to list a secondary emergency contact for a
+34 student. The parent may authorize the secondary contact to act on the parent's
+35 behalf in any matter related to the school if the parent is incapacitated or in
+36 law enforcement custody.
+37 (c) The ARP shall be posted on the school's or public school unit's website, which may
+38 include links to additional resources for families with information on educational and
+39 constitutional rights, privacy and confidentiality of student information, counseling services, and
+40 support services. At the beginning of each school year, a copy of the plan shall also be sent to the
+41 following:
+42 (1) Parents of students enrolled in the school.
+43 (2) The Department of Public Instruction.
+44 (3) Local law enforcement agencies.
+45 "§ 115C-386.6. Regulations on school resource officers.
+46 (a) This section applies to school resource officers (SROs), as defined in
+47 G.S. 115C-105.58.
+48 (b) Unless required under a judicial warrant, court order, or State or federal law, SROs
+49 shall not do any of the following while performing their duties:
+50 (1) Cooperate with immigration authorities in activity related to civil immigration
+51 enforcement, including detaining a student.
+House Bill 1061-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (2) Question any student about the student's citizenship status.
+2 (3) Share any student's information with immigration authorities.
+3 "§ 115C-386.7. Attorney General guidance and model policies.
+4 The Attorney General, in consultation with the Department of Public Instruction, shall
+5 publish guidance and model policies for law enforcement agencies intended to limit, to the fullest
+6 extent possible consistent with State and federal law, immigration enforcement at public schools.
+7 "§ 115C-386.8. Retaliation; enforcement.
+8 (a) Public school units shall not retaliate against employees for complying with a school's
+9 immigration authority ARP or any other requirement of this Article by suspending the employee,
+10 removing or decreasing planning time, giving extra duties, or in any other way.
+11 (b) For purposes of this Article, a threat to take any action prohibited by this Article is a
+12 violation of this Article.
+13 (c) If a violation of this Article occurs related to a student, parent, or public school unit
+14 employee, that student, parent, or public school unit employee may bring a cause of action against
+15 the public school unit, or any employee or agent thereof acting in their official capacity, for the
+16 violation, subject to the following:
+17 (1) The party bringing the action does not have to exhaust all administrative
+18 remedies prior to bringing the cause of action.
+19 (2) If the court finds a willful violation of this Article has occurred, the court may
+20 award any of the following:
+21 a. Actual damages.
+22 b. Declaratory relief.
+23 c. Injunctive relief, including temporary restraining orders or preliminary
+24 or permanent injunctions.
+25 d. Any other relief the court deems appropriate.
+26 (3) A party prevailing in a claim brought for a violation of this Article shall be
+27 entitled to reasonable attorneys' fees and court costs."
+28 SECTION 2. There is appropriated from the General Fund to the Department of
+29 Justice the sum of one hundred fifty thousand dollars ($150,000) in nonrecurring funds for the
+30 2026-2027 fiscal year to be used to develop and disseminate the guidance and policies required
+31 under Article 26A of Chapter 115C of the General Statutes, as enacted by this act.
+32 SECTION 3. Section 2 of this act becomes effective July 1, 2026. The remainder of
+33 this act is effective when it becomes law and applies beginning with the 2026-2027 school year.
+Page 4 House Bill 1061-First Edition

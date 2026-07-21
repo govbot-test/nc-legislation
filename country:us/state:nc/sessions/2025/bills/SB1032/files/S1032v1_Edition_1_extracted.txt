@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 1032
+Short Title: Modify Emergency Judge Provisions. (Public)
+Sponsors: Senator Mohammed (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO EXPAND THE REASONS FOR WHICH AN EMERGENCY JUDGE MAY BE
+3 ASSIGNED.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 7A-52(a) reads as rewritten:
+6 "(a) Judges of the district court and judges of the superior court who have not reached the
+7 mandatory retirement age specified in G.S. 7A-40.1 and G.S. 7A-140.1, respectively, but who
+8 have retired under the provisions of G.S. 7A-51, or under the Uniform Judicial Retirement Act
+9 after having completed five years of creditable service, may apply as provided in G.S. 7A-53 to
+10 become emergency judges of the court from which they retired. From the commissioned
+11 emergency district, superior, and special superior court judges, the Chief Justice of the Supreme
+12 Court shall create two lists of active emergency judges and two lists of inactive emergency
+13 judges. For emergency superior and special superior court judges, the active list shall be limited
+14 to a combined total of 10 emergency judges; all other emergency superior and special superior
+15 court judges shall be on an inactive list. For emergency district court judges, the active list shall
+16 be limited to 25 emergency judges; all other emergency district court judges shall be on an
+17 inactive list. There is no limit to the number of emergency judges on either inactive list. In the
+18 Chief Justice's discretion, emergency judges may be added or removed from their respective
+19 active and inactive lists, as long as the respective numerical limits on the active lists are observed.
+20 The Chief Justice is requested to consider geographical distribution in assigning emergency
+21 judges to an active list but may utilize any factor in determining which emergency judges are
+22 assigned to an active list. The Chief Justice of the Supreme Court may order any emergency
+23 district, superior, or special superior court judge on an active list who, in the Chief Justice's
+24 opinion, is competent to perform the duties of a judge and to hold regular or special sessions of
+25 the court from which the judge retired, as needed. Order of assignment shall be in writing and
+26 entered upon the minutes of the court to which the emergency judge is assigned. An emergency
+27 judge shall only be assigned in the event of a:
+28 …
+29 (7) Court coverage need (i) created by holdover sessions, administrative
+30 responsibilities of the chief district court judge, or cases in which a judge has
+31 a conflict or judicial educational responsibilities.responsibilities or (ii) as
+32 determined by the chief district court judge."
+33 SECTION 2. There is appropriated from the General Fund to the Administrative
+34 Office of the Courts the sum of five hundred thousand dollars ($500,000) in nonrecurring funds
+35 for the 2026-2027 fiscal year to be used to pay for costs of emergency judges.
+*S1032-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3. Section 2 of this act becomes effective July 1, 2026. The remainder of
+2 this act is effective when it becomes law.
+Page 2 Senate Bill 1032-First Edition

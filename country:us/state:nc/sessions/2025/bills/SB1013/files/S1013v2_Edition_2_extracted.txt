@@ -1,0 +1,162 @@
+Title: 
+Official Title: 
+Source: versions - Edition 2
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 2
+SENATE BILL 1013
+State and Local Government Committee Substitute Adopted 6/17/26
+Short Title: 2026 Office of the State Auditor Agency Bill.-AB (Public)
+Sponsors:
+Referred to:
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES FOR THE OFFICE OF THE STATE AUDITOR.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1.(a) G.S. 147-64.6 reads as rewritten:
+5 "§ 147-64.6. Duties and responsibilities.
+6 …
+7 (c) Responsibilities. – The Auditor is responsible for the following acts and activities:
+8 …
+9 (3) The Auditor, on the Auditor's own initiative and as often as the Auditor deems
+10 necessary, or as requested by the Governor or the General Assembly, shall, to
+11 the extent deemed practicable and consistent with the Auditor's overall
+12 responsibility as contained in this Article, make or cause to be made audits of
+13 all or any part of the activities of the State agencies. Each State agency
+14 receiving a financial statement audit by the Auditor under this subdivision
+15 subsection shall prepare a and submit financial statement statements and
+16 supplementary information in the format required by the Auditor. Financial
+17 statements and supplementary information prepared as required by this
+18 subdivision shall be completed and submitted to the Auditor not later than 60
+19 days after the deadline for the State agency's Annual Comprehensive Annual
+20 Financial Report submission as established by the State Controller.
+21 …
+22 (5) The Auditor may contract with federal audit agencies, or any governmental
+23 agency, on a cost reimbursable basis, for the Auditor to perform audits of
+24 federal grants and programs administered by State agencies in accordance
+25 with agreements negotiated between the Auditor and the contracting federal
+26 audit agencies or any governmental agency. In instances where the grantee
+27 State agency subgrants these federal funds to local governments, regional
+28 councils of government, and other local groups or private or semiprivate
+29 institutions or agencies, the Auditor may examine the books and records of
+30 these subgrantees to the extent necessary to determine eligibility and proper
+31 use in accordance with State and federal laws.
+32 The Auditor shall charge and collect from the contracting federal audit
+33 agencies, or any governmental agencies, the actual cost of all the audits of the
+34 grants and programs contracted by the Auditor to do. Amounts collected under
+35 these arrangements shall be deposited in the State Treasury and be budgeted
+36 in the Department of State Auditor and shall be available to hire sufficient
+*S1013-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 personnel to perform these contracted audits and to pay for related travel,
+2 supplies, and other necessary expenses.
+3 …
+4 (11) The Auditor shall, through appropriate tests, satisfy himself or herself
+5 concerning the propriety of the data presented in the Annual Comprehensive
+6 Annual Financial Report and shall express the appropriate auditor's an audit
+7 opinion of it in accordance with generally accepted auditing standards.
+8 …
+9 (13) At the conclusion of an audit, the Auditor or the Auditor's designated
+10 representative shall discuss the audit with the official whose office is subject
+11 to audit and submit necessary underlying facts developed for all findings and
+12 recommendations that may be included in the audit report. On audits of
+13 economy and efficiency and program results, the auditee's written response
+14 shall be included in the final report if received within 15 to 30 days from
+15 receipt of the draft report. The length of time shall be determined by the
+16 Auditor and shall be commensurate with the number and complexity of the
+17 findings.
+18 …
+19 (25) The Auditor may elect to be exempted from oversight by the Department of
+20 Administration on the matters of purchasing, contracts, acquisition and
+21 maintenance of real property, and leasing of office space under
+22 G.S. 143-341(2), (4)d. and d1., and (8)d. and Article 6 of Chapter 146 of the
+23 General Statutes. This election shall be made in writing by the Auditor and
+24 shall be sent to the Secretary of Administration.
+25 (26) The Auditor may enter into an agreement with the Conference of District
+26 Attorneys to assign resource prosecutors under G.S. 7A-415 to matters
+27 referred by the Auditor to district attorneys. A resource prosecutor working
+28 under this agreement may do all of the following:
+29 a. Handle financial crimes and any criminal matters that result from an
+30 investigation conducted by the Auditor.
+31 b. Assist the Auditor and Auditor's staff in criminal matters.
+32 c. At the request of a district attorney, prosecute criminal matters that
+33 result from an investigation by the Auditor.
+34 d. Perform other duties assigned by the Executive Director of the
+35 Conference of District Attorneys.
+36 (27) The Auditor may enter into agreements under G.S. 147-64.7(b) for
+37 subject-matter expertise and assistance in auditing Medicaid providers, as
+38 defined in G.S. 108C-2. Any contingent fees paid to contractors that enter into
+39 agreements with the Auditor under this subdivision shall be calculated in the
+40 same manner and subject to the same procedural requirements as payments
+41 made under G.S. 108C-5.1 and shall be paid from the final overpayment, as
+42 defined in G.S. 108C-2, when the overpayment was identified and referred to
+43 the Department of Health and Human Services by the Auditor's respective
+44 contractors. The Auditor and any contractors that enter into agreements under
+45 this subdivision shall work with the Department of Health and Human
+46 Services with respect to potential adverse determinations, as defined in
+47 G.S. 108C-2, and refer any matter to the appropriate law enforcement entities
+48 in accordance with G.S. 147-64.6B.
+49 The Auditor and any contractors that enter into agreements with the
+50 Auditor under this subdivision are not acting under the Medicaid Recovery
+51 Audit Contractors Program set forth in 42 U.S.C. § 1396a(a)(42) and 42
+Page 2 Senate Bill 1013-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 C.F.R. Part 455, Subpart F. Nothing in this subdivision limits the authority of
+2 the Department of Health and Human Services as the single State agency
+3 designated under 42 C.F.R. § 431.10.
+4 …
+5 (f) Costs of Audits. – The Auditor shall charge and collect from contracting federal audit
+6 agencies, or any governmental agencies, the actual cost of all audits of the grants and programs
+7 contracted by the Auditor to do pursuant to subdivision (5) of subsection (c) of this section. The
+8 Auditor may charge and collect from each State agency the actual cost of the financial statement
+9 audits completed pursuant to subdivision (3) of subsection (c) of this section and the actual cost
+10 of audits of the financial information and workbooks prepared by State agencies for submission
+11 into the Annual Comprehensive Financial Report when the audits support the Auditor's opinion
+12 of the Annual Comprehensive Financial Report. The Auditor shall not charge or collect from the
+13 Office of the State Controller any costs associated with auditing the Annual Comprehensive
+14 Financial Report. Amounts collected under this subsection shall be deposited with the
+15 Department of State Treasurer and shall be budgeted for the Department of State Auditor. The
+16 Department of State Auditor may use these funds to hire sufficient personnel to perform these
+17 contracted audits and to pay for related travel, supplies, and other necessary expenses."
+18 SECTION 1.(b) G.S. 147-64.7(b)(2) reads as rewritten:
+19 "(2) No State agency may shall enter into any a contract for auditing services which
+20 that may impact on the State's comprehensive annual financial report Annual
+21 Comprehensive Financial Report without consultation with, and the prior
+22 written approval of, the Auditor, except in instances where audits are called
+23 for by the Governor under G.S. 143C-2-1 and he shall so notify the Auditor.
+24 The Auditor shall prescribe policy and establish guidelines containing
+25 appropriate criteria for selection and use of independent public accountants,
+26 qualified management consultants, or other professional persons by State
+27 agencies and governing bodies to perform all or part of the audit function."
+28 SECTION 1.(c) This section becomes effective October 1, 2026.
+29 SECTION 2.(a) Notwithstanding any other provision of law, the Auditor may
+30 change existing appropriated positions and benefits responsible for performing financial
+31 statement audits to receipt-supported positions and benefits. These appropriated funds shall not
+32 revert to the General Fund.
+33 SECTION 2.(b) This section becomes effective July 1, 2026.
+34 SECTION 3. G.S. 143B-1208.3 reads as rewritten:
+35 "§ 143B-1208.3. General powers and duties of Director and law enforcement officers of the
+36 State Bureau of Investigation.
+37 The Director of the Bureau and other sworn law enforcement officers of the State Bureau of
+38 Investigation are given the same power of arrest as is now vested in the sheriffs of the several
+39 counties, and their jurisdiction shall be statewide. The Director of the Bureau and other sworn
+40 law enforcement officers of the Bureau may give assistance to sheriffs, police officers, district
+41 attorneys, and judges judges, and the State Auditor when called upon by them and so directed.
+42 They shall also give assistance, when requested, to the Department of Public Safety in the
+43 investigation of cases pending before the parole office and of complaints lodged against parolees,
+44 when so directed by the Governor."
+45 SECTION 4.(a) There is appropriated from the General Fund to the Office of State
+46 Auditor the sum of five hundred thousand dollars ($500,000) in recurring funds for the
+47 2026-2027 fiscal year to be used by the Office of State Auditor to pay for the cost of auditing the
+48 Annual Comprehensive Financial Report.
+49 SECTION 4.(b) This section becomes effective July 1, 2026.
+50 SECTION 5. Except as otherwise provided, this act is effective when it becomes
+51 law.
+Senate Bill 1013-Second Edition Page 3
