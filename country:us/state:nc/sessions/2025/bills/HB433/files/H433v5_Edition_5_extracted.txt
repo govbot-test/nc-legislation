@@ -1,0 +1,205 @@
+Title: 
+Official Title: 
+Source: versions - Edition 5
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 5
+HOUSE BILL 433
+Committee Substitute Favorable 4/29/25
+Committee Substitute #2 Favorable 4/30/25
+Senate Appropriations/Base Budget Committee Substitute Adopted 4/30/26
+Fifth Edition Engrossed 5/5/26
+Short Title: SFRF/NCPRO Revisions. (Public)
+Sponsors:
+Referred to:
+March 19, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT DIRECTING THE OFFICE OF STATE BUDGET AND MANAGEMENT TO
+3 RECLASSIFY UNEXPENDED STATE FISCAL RECOVERY FUND BALANCES AND
+4 OTHER FUNDING, AUTHORIZING THE NORTH CAROLINA PANDEMIC
+5 RECOVERY OFFICE TO REALLOCATE STATE FISCAL RECOVERY FUNDS,
+6 DIRECTING THE OFFICE OF STATE BUDGET AND MANAGEMENT TO USE
+7 INTEREST EARNED ON VARIOUS FUNDS FOR OPERATIONS PERTAINING TO
+8 PANDEMIC RELIEF, AND EXTENDING THE DATE ON WHICH THE NORTH
+9 CAROLINA PANDEMIC RECOVERY OFFICE WILL CEASE TO OPERATE.
+10 The General Assembly of North Carolina enacts:
+11
+12 STATE FISCAL RECOVERY FUND AND OTHER ADJUSTMENTS
+13 SECTION 1.(a) Section 6.9 of S.L. 2025-97 reads as rewritten:
+14 "…
+15 "SECTION 6.9.(b) The Office of State Budget and Management (OSBM), in consultation
+16 with NCPRO, shall identify all State Fiscal Recovery Fund (SFRF)-funded projects with
+17 remaining unexpended balances that were categorized as revenue loss and used for government
+18 services. The Director of the Budget may reclassify such unexpended SFRF balances to support
+19 other eligible government services (i) only to the extent permitted under federal law and federal
+20 guidance; (ii) only from funds that were properly obligated on or before December 31, 2024; and
+21 (iii) with expenditures made consistent with 31 C.F.R. Part 35 and related United States
+22 Department of the Treasury guidance. A reclassification under this subsection may occur during
+23 the 2025-2026 fiscal year and, to the extent necessary to comply with federal requirements,
+24 within the applicable federal period of performance, if all of the following conditions are
+25 satisfied:
+26 (1) The governmental service to receive SFRF support was previously supported
+27 by SFRF appropriations.
+28 (2) The governmental service receives a net General Fund appropriation in the
+29 2025-2026 fiscal year.
+30 (3) The governmental service is an eligible use of SFRF under 31 C.F.R. Part 35
+31 and related United States Department of the Treasury guidance during the
+32 period of performance.
+*H433-v-5*
+
+General Assembly Of North Carolina Session 2025
+1 "SECTION 6.9.(c) To implement subsection (b) of this section, the Director of the Budget
+2 shall make nonrecurring, budget-neutral adjustments as follows:
+3 (1) Reduce, on a nonrecurring basis, the 2025-2026 or 2026-2027 fiscal year net
+4 General Fund appropriation for each agency receiving SFRF pursuant to this
+5 section by an amount equal to the SFRF reclassified to that agency.
+6 (2) Increase, on a nonrecurring basis, the net General Fund appropriation for each
+7 agency from which SFRF were reclassified under this section by an amount
+8 equal to the SFRF removed from that agency.
+9 (3) Notwithstanding G.S. 143C-1-2(b), the net General Fund appropriations made
+10 under subdivision (2) of this subsection shall be used only for the projects for
+11 which SFRF were reduced under this section and shall not revert but shall
+12 remain available until the earlier of project completion or June 30, 2027.
+13 (4) In no event shall a project from which SFRF are reclassified receive net
+14 General Fund appropriations in excess of the project's unexpended SFRF
+15 balance as of the date of reclassification.
+16 …
+17 "SECTION 6.9.(e) No later than April 15, 2026, OSBM and NCPRO shall jointly report to
+18 the Joint Legislative Commission on Governmental Operations and the Fiscal Research Division
+19 on all actions taken under this section, including:
+20 (1) For each agency and project meeting the revenue-loss criteria in subsection
+21 (a) of this section, the project name and the amount of remaining unexpended
+22 SFRF as of December 31, 2025. The report shall also identify which projects
+23 are complete and have excess SFRF funds and which SFRF projects need
+24 additional funds for completion.
+25 (2) For each agency and project from which unexpended SFRF were reclassified,
+26 the project name and the amount of the corresponding nonrecurring net
+27 General Fund appropriation provided in lieu of SFRF.
+28 (3) For each agency and project receiving SFRF pursuant to the reclassification,
+29 the project name and the amount of SFRF provided.
+30 The report shall also certify that all SFRF were obligated on or before December 31, 2024, and
+31 that expenditures are being made consistent with 31 C.F.R. Part 35 and related United States
+32 Department of the Treasury guidance.
+33 "SECTION 6.9.(f) The Director of the Budget shall ensure that implementation of this
+34 section results in no change to the net General Fund appropriations in either the 2025-2026 or
+35 2026-2027 fiscal year.years."
+36 SECTION 1.(b) No later than January 15, 2027, OSBM and NCPRO shall jointly
+37 update the report required by Section 6.9(e) of S.L. 2025-97, as amended by subsection (a) of
+38 this section, to reflect agency and project status through December 31, 2026.
+39 SECTION 1.1. Subdivision (5) of Section 6.2 of S.L. 2026-1 reads as rewritten:
+40 "(5) Funds allocated to the Office of State Budget and Management by Section
+41 12.2(f)(2) of S.L. 2023-134 to provide a grant to the Burke Partnership for
+42 Economic Development, Inc., a nonprofit corporation, (Partnership) to install
+43 water and wastewater at the Western NC Megasite shall, and remaining
+44 unspent and unencumbered as of the effective date of this section, shall,
+45 notwithstanding that subdivision or any provision of law to the contrary, be
+46 reallocated to Burke County to be used for water and wastewater projects in
+47 Burke County.identified in an application as, and used as, matching funds for
+48 a grant applied for and awarded by the United States Department of
+49 Commerce, Economic Development Administration. The Partnership shall
+50 not expend or encumber funds identified in the application until a
+51 determination regarding the grant is made. In the event the grant is not
+Page 2 House Bill 433-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 awarded on or before October 1, 2026, the Partnership shall distribute the
+2 funds, including any interest earned thereon, as follows: eighty percent (80%)
+3 to Burke County and twenty percent (20%) to McDowell County. The
+4 recipient counties shall use the funds distributed pursuant to this subdivision
+5 to construct or improve water infrastructure, sewer infrastructure, or both."
+6
+7 ADDITIONAL STATE FISCAL RECOVERY FUND FLEXIBILITY
+8 SECTION 2.(a) Notwithstanding any provision of law to the contrary, and subject
+9 to the conditions set out in subsection (b) of this section, the North Carolina Pandemic Recovery
+10 Office (NCPRO), in consultation with the Director of the Budget, may reallocate State Fiscal
+11 Recovery Funds (SFRF) appropriated by this act or any act of the General Assembly, including,
+12 but not limited to:
+13 (1) S.L. 2021-180.
+14 (2) S.L. 2021-189.
+15 (3) S.L. 2022-6.
+16 (4) S.L. 2022-74.
+17 (5) S.L. 2023-134.
+18 (6) S.L. 2024-1.
+19 (7) S.L. 2024-40.
+20 (8) S.L. 2024-53.
+21 (9) S.L. 2024-55.
+22 SECTION 2.(b) The funds set out in subsection (a) of this section may be reallocated
+23 only when all of the following conditions are met:
+24 (1) There is a reasonable expectation that the funds will not be expended before
+25 the deadline established by applicable federal law or guidance.
+26 (2) The reallocation is made to support activities that previously received an
+27 appropriation from the SFRF, are authorized under this act or one of the acts
+28 listed in subsection (a) of this section, and adhere to Federal SFRF
+29 Expenditure Category 5 (Water, Sewer, or Broadband Infrastructure)
+30 guidance. Reallocated funds shall not be used for any new activity, purpose,
+31 or program.
+32 SECTION 2.(c) The Director of the Budget shall reallocate funds under subsection
+33 (b) of this section by making nonrecurring transfers of General Fund appropriations from each
+34 agency receiving SFRF fund transfers to the agency from which the SFRF funds were transferred.
+35 The authorization to reallocate under this section is not an authorization to modify the purposes
+36 of the original appropriations to either the receiving or transferring agency.
+37 SECTION 2.(d) The Director of the Budget may allocate any funds remaining after
+38 the reallocation process authorized in subsection (b) of this section to the State Treasurer up to
+39 an amount equal to the remaining unreimbursed COVID-19-related expenses incurred by the
+40 North Carolina State Health Plan for Teachers and State Employees between March 3, 2021, and
+41 December 31, 2024, provided the reallocation is consistent with federal law and guidelines.
+42 SECTION 2.(e) To the extent that funds reallocated pursuant to this section are
+43 unappropriated, those funds are hereby appropriated and available for use pursuant to this section.
+44 SECTION 2.(f) Reporting. – No later than January 15, 2027, the Office of State
+45 Budget and Management (OSBM) shall report to the Fiscal Research Division on the
+46 reallocations made pursuant to this section in the same manner as required in Section 6.9(e) of
+47 S.L. 2025-97.
+48
+49 INTEREST TO SUPPORT NC PANDEMIC RECOVERY EFFORTS
+House Bill 433-Fifth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3. Any interest earned on the following is appropriated to the Office of
+2 State Budget and Management (OSBM) for operations pertaining to pandemic recovery and may
+3 be utilized in accordance with the requirements set out in Section 6.9 of S.L. 2025-97:
+4 (1) Local Fiscal Recovery Fund, Budget Code 63009, Budget Fund 610000.
+5 (2) Homeowner Assistance Fund, Budget Code 23023, Budget Fund 214150, that
+6 is allowed to be retained by the State.
+7 (3) Economic Development Assistance Strategy and Tourism grant funds, Budget
+8 Code 23025, Budget Funds 214250 and 214251, that is allowed to be retained
+9 by the State.
+10 (4) Project Fund, Budget Code 23022, Budget Fund 214102, that is allowed to be
+11 retained by the State.
+12
+13 NCPRO/EXTENSION OF OPERATIONS
+14 SECTION 4. Section 4.3 of S.L. 2020-4, as amended by Section 3.5 of S.L. 2021-1,
+15 Section 23.2 of S.L. 2021-180, Section 6.1 of S.L. 2021-189, and Section 23.1 of S.L. 2023-134,
+16 reads as rewritten:
+17 "SECTION 4.3.(a) OSBM shall establish a temporary North Carolina Pandemic Recovery
+18 Office (Office) to oversee and coordinate funds made available under COVID-19 Recovery
+19 Legislation, as defined in Section 1.2 of S.L. 2020-4, and the American Rescue Plan Act, as
+20 defined in Section 1.1 of S.L. 2021-25 and Section 4.9(b) of S.L. 2021-180. This Office shall
+21 also provide technical assistance and ensure coordination of federal funds received by State
+22 agencies and local governments and ensure proper reporting and accounting of all funds. The
+23 authorization set forth in this section expires on June 30, 2026, May 1, 2027, and the Office shall
+24 cease to operate upon expiration of the authorization.
+25 "SECTION 4.3.(b) Beginning March 1, 2021, and ending on No later than one week prior
+26 to the date the Office ceases to operate under subsection (a) of this section, the Office shall submit
+27 a monthly final report to the Joint Legislative Commission on Governmental Operations and the
+28 Fiscal Research Division that includes each of the following:
+29 (1) For each month since March 1, 2020, the number of staff hired to support the
+30 Office's duties and responsibilities, including the position numbers, whether
+31 the position is permanent or temporary, the start date and end date for each
+32 temporary position, the funding source for each position, and the total amount
+33 of funds spent on salary and benefits for personnel.
+34 (2) For each month since March 1, 2020, an accounting of nonpersonnel
+35 expenditures.
+36 (3) A description of the Office's activities during the 2020 2026 calendar year.
+37 (4) A description of the Office's activities related to the Fund that remain to be
+38 completed in the 2021 calendar year.Fund, including any funding returned to
+39 the United States Treasury.
+40 …."
+41
+42 EFFECTIVE DATE
+43 SECTION 5. This act is effective when it becomes law.
+Page 4 House Bill 433-Fifth Edition

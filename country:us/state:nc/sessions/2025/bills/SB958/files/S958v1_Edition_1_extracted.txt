@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 958
+Short Title: Safe Parks Act. (Public)
+Sponsors: Senators Chitlik, Murdock, and Mayfield (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROVIDE FUNDING FOR REMEDIATION OF ENVIRONMENTAL
+3 CONTAMINATION AT PUBLIC PARKS.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. ESTABLISH CONTAMINATED PARKS REMEDIAL ACCOUNT WITHIN
+7 INACTIVE HAZARDOUS SITES CLEANUP FUND
+8 SECTION 1.1. G.S. 130A-295.9 reads as rewritten:
+9 "§ 130A-295.9. Solid waste disposal tax; use of proceeds.proceeds; establishment of
+10 Contaminated Parks Remedial Account.
+11 It is the intent that the proceeds of the solid waste disposal tax imposed by Article 5G of
+12 Chapter 105 of the General Statutes credited to the Inactive Hazardous Sites Cleanup Fund
+13 pursuant to G.S. 105-187.63(1) shall be used as set forth in this section:
+14 (1) Thirty-three and one-third percent (33.33%) shall be used by the Department
+15 of Environmental Quality to fund the assessment and remediation of pre-1983
+16 landfills, except up to nineteen percent (19%) of the funds credited under this
+17 subdivision may be used to fund administrative expenses related to hazardous
+18 and solid waste management.
+19 (2) Sixty-seven and two-thirds percent (67.67%) shall be credited to the
+20 Contaminated Parks Remedial Account (CoPRA), which the Department shall
+21 establish as a separate account within the Inactive Hazardous Sites Cleanup
+22 Fund and use to fund assessment and remediation of pre-1983 landfills or
+23 other inactive hazardous sites that impair the use of a public park owned by a
+24 unit of local government. Activities under this subdivision shall be matched
+25 by the unit of local government that owns or operates the park on the basis of
+26 one dollar ($1.00) provided by the unit of local government for every four
+27 dollars ($4.00) provided from CoPRA."
+28
+29 PART II. FUNDING
+30 SECTION 2.1. G.S. 105-187.61 reads as rewritten:
+31 "§ 105-187.61. Tax imposed.
+32 (a) Tax Rate. – An excise tax is imposed on the disposal of municipal solid waste and
+33 construction and demolition debris in any landfill permitted pursuant to Article 9 of Chapter
+34 130A of the General Statutes at a rate of two dollars ($2.00) four dollars ($4.00) per ton of waste.
+35 An excise tax is imposed on the transfer of municipal solid waste and construction and demolition
+*S958-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 debris to a transfer station permitted pursuant to Article 9 of Chapter 130A of the General Statutes
+2 for disposal outside the State at a rate of two dollars ($2.00) four dollars ($4.00) per ton of waste.
+3 …."
+4 SECTION 2.2. G.S. 105-187.63 reads as rewritten:
+5 "§ 105-187.63. Use of tax proceeds.
+6 From the taxes received pursuant to this Article, the Secretary may retain the costs of
+7 collection, not to exceed two hundred twenty-five thousand dollars ($225,000) a year, as
+8 reimbursement to the Department. The Secretary must credit or distribute taxes received pursuant
+9 to this Article, less the cost of collection, on a quarterly basis as follows:
+10 (1) Fifty percent (50%) Seventy-five percent (75%) to the Inactive Hazardous
+11 Sites Cleanup Fund established by G.S. 130A-310.11.G.S. 130A-310.11, to
+12 be used as set forth in G.S. 130A-295.9.
+13 (2) Thirty-seven and one-half percent (37.5%) Eighteen and three-fourths percent
+14 (18.75%) to cities and counties in the State on a per capita basis, using the
+15 most recent annual estimate of population certified by the State Budget
+16 Officer. One-half of this amount must be distributed to cities, and one-half of
+17 this amount must be distributed to counties. For purposes of this distribution,
+18 the population of a county does not include the population of a city located in
+19 the county.
+20 A city or county is excluded from the distribution under this subdivision
+21 if it does not provide solid waste management programs and services and is
+22 not responsible by contract for payment for these programs and services. The
+23 Department of Environmental Quality must provide the Secretary with a list
+24 of the cities and counties that are excluded under this subdivision. The list
+25 must be provided by May 15 of each year and applies to distributions made in
+26 the fiscal year that begins on July 1 of that year.
+27 Funds distributed under this subdivision must be used by a city or county
+28 solely for solid waste management programs and services.
+29 (3) Twelve and one-half percent (12.5%) Six and one-fourth percent (6.25%) to
+30 the General Fund."
+31 SECTION 2.3.(a) G.S. 105-130.3 reads as rewritten:
+32 "§ 105-130.3. Corporations.
+33 A tax is imposed on the State net income of every C Corporation doing business in this State.
+34 An S Corporation is not subject to the tax levied in this section. The tax is a percentage of the
+35 taxpayer's State net income computed as follows:
+36 Taxable Years Beginning Tax
+37 In 2025 2.25%
+38 In 2026 2%2.5%
+39 In 2028 1%1.5%
+40 After 2029 0%.0.5%."
+41 SECTION 2.3.(b) Article 4 of Chapter 105 of the General Statutes is amended by
+42 adding a new section to read:
+43 "§ 105-130.3D. Portion of tax on C Corporations credited to Inactive Hazardous Sites
+44 Cleanup Fund.
+45 The Secretary must credit or distribute a portion of the taxes received pursuant to
+46 G.S. 105-130.3, less the cost of collection, to the Contaminated Parks Remedial Account
+47 established within the Inactive Hazardous Sites Cleanup Fund by G.S. 130A-295.9 on a quarterly
+48 basis as follows:
+49 Taxable Years Beginning Portion of Proceeds
+50 In 2026 25%
+51 In 2028 33.33%
+Page 2 Senate Bill 958-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 After 2029 100%."
+2 SECTION 2.3.(c) This Part is effective for taxable years beginning on or after
+3 January 1, 2026.
+4
+5 PART III. EFFECTIVE DATE
+6 SECTION 3.1. Except as otherwise provided, this act becomes effective July 1,
+7 2026.
+Senate Bill 958-First Edition Page 3

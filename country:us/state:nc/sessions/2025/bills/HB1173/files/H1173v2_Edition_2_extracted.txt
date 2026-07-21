@@ -1,0 +1,208 @@
+Title: 
+Official Title: 
+Source: versions - Edition 2
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 1173
+Committee Substitute Favorable 6/2/26
+Short Title: Jaleeyah's Law. (Public)
+Sponsors:
+Referred to:
+May 4, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE CERTAIN MODIFICATIONS RELATED TO THE CRIMINAL LAWS
+3 OF NORTH CAROLINA AND TO APPROPRIATE CERTAIN FUNDS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1.(a) There is appropriated from the General Fund to the Conference of
+6 District Attorneys (Budget Code 12000, Budget Fund 100072) the sum of three hundred
+7 ninety-seven thousand fourteen dollars ($397,014) in recurring funds beginning in the 2026-2027
+8 fiscal year and seven thousand five hundred four dollars ($7,504) in nonrecurring funds to be
+9 used to hire two additional resource prosecutors in accordance with G.S. 7A-415. The
+10 prosecutors hired under this section shall focus on the prosecutions of criminal gang activity but
+11 may also perform other duties as assigned by the executive director of the Conference of District
+12 Attorneys.
+13 SECTION 1.(b) There is appropriated from the General Fund to the Conference of
+14 District Attorneys (Budget Code 12000, Budget Fund 100072) the sum of one hundred thirty-six
+15 thousand two hundred ninety-eight dollars ($136,298) in recurring funds beginning in the
+16 2026-2027 fiscal year and four thousand one hundred ninety-eight dollars ($4,198) in
+17 nonrecurring funds to be used to hire a district attorney investigator. The investigator hired under
+18 this section shall focus on the prosecutions of criminal gang activity but may also perform other
+19 duties as assigned by the executive director of the Conference of District Attorneys.
+20 SECTION 1.(c) This section becomes effective July 1, 2026.
+21 SECTION 2.(a) G.S. 14-50.16A reads as rewritten:
+22 "§ 14-50.16A. Criminal gang activity.
+23 Definitions. – The following definitions apply in this Article:
+24 (1) Criminal gang. – Any ongoing organization, association, or group of three or
+25 more persons, whether formal or informal, that (i) has as one of its primary
+26 activities the commission of criminal or delinquent acts and (ii) shares a
+27 common name, identification, signs, symbols, tattoos, graffiti, attire, or other
+28 distinguishing characteristics, including common activities, customs, or
+29 behaviors. The term shall not include three or more persons associated in fact,
+30 whether formal or informal, who are not engaged in criminal gang
+31 activity.behaviors, and engages in criminal gang activity.
+32 (2) Criminal gang activity. – The commission of, attempted commission of, or
+33 solicitation, coercion, or intimidation of another person to commit (i) any
+34 offense under Article 5 of Chapter 90 of the General Statutes or (ii) any
+35 offense under Chapter 14 of the General Statutes except Article 9, 22A, 40,
+36 46, or 59 thereof, and further excepting G.S. 14-82, 14-145, 14-183, 14-184,
+*H1173-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 14-186, 14-190.9, 14-247, 14-248, or 14-313 thereof, and either of the
+2 following conditions is met:
+3 a. The offense is committed with the intent to benefit, promote, or further
+4 the interests of a criminal gang or for the purposes of increasing a
+5 person's own standing or position within a criminal gang.
+6 b. The participants in the offense are identified as criminal gang members
+7 acting individually or collectively to further any criminal purpose of a
+8 criminal gang.collectively.
+9 (3) Criminal gang leader or organizer. – Any criminal gang member who acts in
+10 any position of management with regard to the criminal gang and who meets
+11 two or more at least one of the following criteria:
+12 a. Exercises decision-making authority over matters regarding a criminal
+13 gang.
+14 b. Participates in the direction, planning, organizing, or commission of
+15 criminal gang activity.
+16 c. Recruits other gang members.
+17 d. Receives a larger portion of the proceeds of criminal gang activity.
+18 e. Exercises control and authority over other criminal gang members.
+19 (4) Criminal gang member. – Any person who meets three two or more of the
+20 following criteria:
+21 a. The person admits to being a member of a criminal gang.
+22 b. The person is identified as a criminal gang member by a reliable
+23 source, including a parent or a guardian.
+24 c. The person has been previously involved in criminal gang activity.
+25 d. The person has adopted symbols, hand signs, or graffiti associated
+26 with a criminal gang.
+27 e. The person has adopted the display of colors or the style of dress
+28 associated with a criminal gang.
+29 f. The person is in possession of or linked to a criminal gang by physical
+30 evidence, including photographs, ledgers, rosters, written or electronic
+31 communications, or membership documents.
+32 g. The person has tattoos or markings associated with a criminal gang.
+33 h. The person has adopted language or terminology associated with a
+34 criminal gang.
+35 i. The person appears in any form of social media to promote a criminal
+36 gang."
+37 SECTION 2.(b) This section becomes effective December 1, 2026, and applies to
+38 offenses committed on or after that date.
+39 SECTION 3.(a) G.S. 14-50.17 reads as rewritten:
+40 "§ 14-50.17. Soliciting; encouraging participation.
+41 (a) It is unlawful for any person to cause, encourage, solicit, or coerce a person 16 18
+42 years of age or older to participate in criminal gang activity.
+43 (b) A violation of this section is a Class H Class F felony."
+44 SECTION 3.(b) G.S. 14-50.18 reads as rewritten:
+45 "§ 14-50.18. Soliciting; encouraging participation; minor.
+46 (a) It is unlawful for any person to cause, encourage, solicit, or coerce a person under 16
+47 18 years of age to participate in criminal gang activity.
+48 (b) A violation of this section is a Class F Class D felony.
+49 (c) Nothing in this section shall preclude a person who commits a violation of this section
+50 from criminal culpability for the underlying offense committed by the minor under any other
+51 provision of law."
+Page 2 House Bill 1173-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.(c) This section becomes effective December 1, 2026, and applies to
+2 offenses committed on or after that date.
+3 SECTION 4.(a) Article 13A of Chapter 14 of the General Statutes is amended by
+4 adding a new section to read:
+5 "§ 14-50.32. Use, carry, or possess a firearm by a member of a criminal gang in relation to
+6 or in furtherance of a drug felony or a crime of violence.
+7 (a) For the purposes of this section, the following definitions apply:
+8 (1) Brandish. – To display all or part of a firearm or otherwise make the presence
+9 of the firearm known to another person.
+10 (2) Crime of violence. – A crime where there is a use or threatened use of physical
+11 force against the person or property of another or that by its nature involves a
+12 substantial risk of physical force against the person or property of another in
+13 the course of committing the crime.
+14 (3) Drug crime. – Any offense that would be chargeable by indictment under
+15 Article 5 of Chapter 90 of the General Statutes.
+16 (4) Firearm. – Any (i) weapon, including a starter gun, which will or is designed
+17 to or may readily be converted to expel a projectile by the action of an
+18 explosive, or its frame or receiver, or (ii) firearm muffler or firearm silencer.
+19 This term does not include an antique firearm as defined in G.S. 14-409.11.
+20 (b) It shall be unlawful for any member of a criminal gang during and in relation to any
+21 crime of violence or drug crime for which the person would be chargeable by indictment under
+22 the laws of this State to use, carry, or possess a firearm in furtherance of that crime. A violation
+23 of this subsection is a Class G felony, unless subsection (c) or (d) of this section applies.
+24 (c) If a firearm is brandished during the commission of the offense, then the violation is
+25 a Class F felony.
+26 (d) If a firearm is discharged during the commission of the offense, then the violation is
+27 a Class D felony."
+28 SECTION 4.(b) Article 13A of Chapter 14 of the General Statutes is amended by
+29 adding a new section to read:
+30 "§ 14-50.33. Sell, deliver, give, or transfer a firearm to a juvenile by a member of a criminal
+31 gang.
+32 (a) It shall be unlawful for a member of a criminal gang to sell, deliver, give, or otherwise
+33 transfer a firearm to a person whom the criminal gang member knows or has reasonable cause to
+34 believe is a juvenile. For purposes of this section, the term "juvenile" means a person who is less
+35 than 18 years of age.
+36 (b) A violation of this section is a Class G felony."
+37 SECTION 4.(c) Article 13A of Chapter 14 of the General Statutes is amended by
+38 adding a new section to read:
+39 "§ 14-50.34. Use of witness testimony.
+40 Criminal gang activity, membership, association, leadership, and existence may be proven
+41 through the testimony of a fact witness, an expert witness, or a combined fact and expert witness
+42 pursuant to Chapter 8C of the General Statutes. In any proceeding pursuant to this Article, expert
+43 testimony is admissible to show particular conduct, status, and customs indicative of criminal
+44 gangs and criminal gang activity, including any of the following:
+45 (1) Characteristics of persons who are members of a criminal gang.
+46 (2) Specific rivalries between criminal gangs.
+47 (3) Common practices and operations of criminal gangs and members of those
+48 criminal gangs.
+49 (4) Social customs and behavior of members of criminal gangs.
+50 (5) Terminology used by members of criminal gangs.
+51 (6) Codes of conduct, including criminal conduct, of particular criminal gangs.
+House Bill 1173-Second Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (7) The types of crimes that are likely to be committed by a particular criminal
+2 gang or by criminal gangs in general."
+3 SECTION 4.(d) Article 13A of Chapter 14 of the General Statutes is amended by
+4 adding a new section to read:
+5 "§ 14-50.35. Venue.
+6 In any criminal proceeding brought under this Article, the crime shall be construed to have
+7 been committed in any county in which any act was performed as part of criminal gang activity."
+8 SECTION 4.(e) This section becomes effective December 1, 2026, and applies to
+9 offenses committed on or after that date.
+10 SECTION 5.(a) Article 4 of Chapter 8C of the General Statutes is amended by
+11 adding a new section to read:
+12 "Rule 416. Evidence of criminal gang activity.
+13 (a) For purposes of this rule, the term "criminal gang activity" is as defined in
+14 G.S. 14-50.16A.
+15 (b) In any proceeding in which a person is accused of conducting, participating in, or
+16 conspiring to commit criminal gang activity, or in any proceeding under Article 13B of Chapter
+17 14 of the General Statutes, evidence of the defendant's commission of criminal gang activity may
+18 be considered for the purpose of proving any element of the alleged criminal offense.
+19 (c) In any proceeding in which the prosecution intends to offer evidence under this rule,
+20 the prosecutor shall disclose the evidence to the defendant, including statements of witnesses or
+21 a summary of the substance of any testimony that is expected to be offered, at least 10 days in
+22 advance of trial, unless the time is shortened or lengthened or pretrial notice is excused by the
+23 judge upon good cause shown.
+24 (d) This rule shall not be the exclusive means to admit or consider the evidence described
+25 in this rule."
+26 SECTION 5.(b) This section becomes effective December 1, 2026, and applies to
+27 offenses committed on or after that date.
+28 SECTION 6.(a) G.S. 15A-1340.16E reads as rewritten:
+29 "§ 15A-1340.16E. Enhanced sentence for offenses committed by criminal gang members as
+30 a part of criminal gang activity.
+31 (a) Except as otherwise provided in subsection (b) of this section, if a person is convicted
+32 of any felony other than a Class A, B1, or B2 felony, and it is found that the offense was
+33 committed as part of criminal gang activity as defined in G.S. 14-50.16A(2), then the person shall
+34 be sentenced at a felony class level one class two classes higher than the principal felony for
+35 which the person was convicted.
+36 (b) If subsection (a) of this section applies and the person is found to be a criminal gang
+37 leader or organizer as defined in G.S. 14-50.16A(3), the person shall be sentenced at a felony
+38 class level two three classes higher than the principal felony for which the person was convicted.
+39 …."
+40 SECTION 6.(b) This section becomes effective December 1, 2026, and applies to
+41 offenses committed on or after that date.
+42 SECTION 7. Except as otherwise provided, this act is effective when it becomes
+43 law.
+Page 4 House Bill 1173-Second Edition

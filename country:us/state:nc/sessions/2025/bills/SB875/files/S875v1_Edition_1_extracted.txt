@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 875
+Short Title: No Firearm Possession After DV Misdemeanors. (Public)
+Sponsors: Senators Murdock, Theodros, and Bradley (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+April 29, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROHIBIT A PERSON CONVICTED OF A MISDEMEANOR CRIME OF
+3 DOMESTIC VIOLENCE OFFENSE FROM PURCHASING OR POSSESSING A
+4 FIREARM, TO ADD INTIMATE PARTNERS TO THE MISDEMEANOR CRIME OF
+5 DOMESTIC VIOLENCE STATUTE, AND TO APPROPRIATE FUNDS FOR
+6 ESTABLISHING A DOMESTIC VIOLENCE EDUCATION PROGRAM.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1.(a) Article 35 of Chapter 14 of the General Statutes is amended by
+9 adding a new section to read:
+10 "§ 14-269.9. Purchase or possession of firearms by person convicted of misdemeanor crime
+11 of domestic violence.
+12 (a) Offense. – It is unlawful for a person to possess, purchase, or receive or attempt to
+13 possess, purchase, or receive a firearm, as defined in G.S. 14-409.39, machine gun, ammunition,
+14 or permits to purchase or carry concealed firearms if the person has been adjudicated guilty of or
+15 received a prayer for judgment continued or suspended sentence for an offense (i) under
+16 G.S. 14-32.5 or (ii) in another state that, if committed in this State, is substantially similar to an
+17 offense under G.S. 14-32.5.
+18 (b) Punishment. – A person violating the provisions of this section is guilty of a Class A1
+19 misdemeanor."
+20 SECTION 1.(b) This section becomes effective December 1, 2026, and applies to
+21 offenses committed on or after that date.
+22 SECTION 2.(a) G.S. 14-32.5 reads as rewritten:
+23 "§ 14-32.5. Misdemeanor crime of domestic violence.
+24 (a) Offense and Punishment. – A person is guilty of a Class A1 misdemeanor if that
+25 person uses or attempts to use physical force, or threatens the use of a deadly weapon, against
+26 another person and the person who commits the offense is:
+27 (1) A current or former spouse, parent, or guardian of the victim.
+28 (1a) A current or former intimate partner of the victim.
+29 (2) A person with whom the victim shares a child in common.
+30 (3) A person who is cohabitating with or has cohabitated with the victim as a
+31 spouse, parent, or guardian.
+32 (4) A person similarly situated to a spouse, parent, or guardian of the victim.
+33 (5) A person who has a current or recent former dating relationship with the
+34 victim.
+35 …."
+*S875-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.(b) This section becomes effective December 1, 2026, and applies to
+2 offenses committed on or after that date.
+3 SECTION 3. There is appropriated from the General Fund to the North Carolina
+4 Department of Administration, Domestic Violence Commission, the sum of one million dollars
+5 ($1,000,000) in nonrecurring funds for the 2026-2027 fiscal year to establish an educational
+6 program on domestic violence.
+7 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+8 law.
+Page 2 Senate Bill 875-First Edition

@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+FILED SENATE
+Apr 30, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 999
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS45539-NSa-9
+Short Title: North Carolina Let Them Build Act. (Public)
+Sponsors: Senator Bradley (Primary Sponsor).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO STREAMLINE ENVIRONMENTAL REVIEW FOR HOUSING, DEFINE
+3 TIMELINES FOR STATE AGENCY DECISIONS IN RESIDENTIAL CONSTRUCTION,
+4 EXEMPT SMALL-SCALE INFILL PROJECTS FROM EXTENDED REVIEWS,
+5 ACCELERATE INFRASTRUCTURE, AND CREATE HOUSING AND
+6 INFRASTRUCTURE DASHBOARDS.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1. G.S. 113A-10 reads as rewritten:
+9 "§ 113A-10. Provisions supplemental.
+10 The policies, obligations and provisions of this Article are supplementary to those set forth
+11 in existing authorizations of and statutory provisions applicable to State agencies and local
+12 governments.
+13 (1) In those instances where a State agency is required to prepare an
+14 environmental document or to comment on an environmental document under
+15 provisions of federal law, no separate environmental document shall be
+16 required to be prepared or published under this Article so long as the
+17 environmental document or comment meets the provisions of this Article.
+18 (2) In those instances where a State agency is required to prepare an
+19 environmental document or to comment on an environmental document under
+20 provisions of local law for a residential development that are (i) within
+21 existing residential development zones, (ii) do not impact protected
+22 environmental areas, and (iii) meet defined density and footprint thresholds,
+23 no separate environmental document shall be required to be prepared or
+24 published under this Chapter so long as the environmental document or
+25 comment meets the provisions of this Chapter. This subsection is not intended
+26 to override local zoning authority, eliminate environmental safeguards,
+27 weaken water or air quality standards, and bypass public notice requirements."
+28 SECTION 2. All agencies involved in the predevelopment phase, including the
+29 Department of Environmental Quality, the Department of Transportation, licensing boards, and
+30 the Department of Public Safety, of residential construction shall provide written decisions on
+31 qualifying housing projects by personal delivery, email, or first-class mail no later than 60 days
+32 from receipt of the submission of the related application. An agency that fails to deliver notice
+33 of determination within the 60-day period prescribed herein shall be subject to escalation to
+34 agency leadership for review. A written explanation must be provided for delays past the
+35 prescribed period herein no later than 30 days past the prescribed period. This section is not
+*DRS45539-NSa-9*
+
+General Assembly Of North Carolina Session 2025
+1 intended to override local zoning authority, eliminate environmental safeguards, weaken water
+2 or air quality standards, and bypass public notice requirements.
+3 SECTION 3. Article 4 of Chapter 160D of the General Statutes is amended by
+4 adding a new section to read:
+5 "§ 160D-403.1. Expedited review for certain classes of buildings in residential zones.
+6 In all areas and districts zoned for residential use, a local government shall be exempt from
+7 extended review requirements, and no amendment to zoning regulations or conditional use permit
+8 shall be required, duplexes, accessory dwelling units, and small multi-family units. This section
+9 is not intended to override local zoning authority, eliminate environmental safeguards, weaken
+10 water or air quality standards, or bypass public notice requirements."
+11 SECTION 4. The Department of Environmental Quality shall provide rules for and
+12 manage processes for expedited reviews of water and sewer expansions supporting housing, child
+13 chare facility construction, workforce housing tied to major employers, and broadband expansion
+14 supporting new housing. This section is not intended to override local zoning authority, eliminate
+15 environmental safeguards, weaken water or air quality standards, and bypass public notice
+16 requirements.
+17 SECTION 5. Local housing authorities shall create publicly available dashboards
+18 that track average permit review time, agency backlog, and project approval timelines. The
+19 housing authorities shall submit an annual report to the General Assembly on program
+20 performance and funds allocated.
+21 SECTION 6. There is appropriated from the General Fund to the Department of
+22 Environmental Quality the sum of one hundred thousand dollars ($100,000) in recurring funds
+23 beginning with the 2026-2027 fiscal year to be used for staffing support to implement the North
+24 Carolina Let Them Build Act.
+25 SECTION 7. This act will become effective when it becomes law.
+Page 2 DRS45539-NSa-9

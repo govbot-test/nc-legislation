@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1230
+Short Title: No Federal Interference in Elections. (Public)
+Sponsors: Representatives Morey, Butler, Cervania, and Harrison (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+May 12, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROHIBIT INTERFERENCE WITH THE CONDUCT OF ELECTIONS AT
+3 VOTING PLACES AND TO PROTECT A VOTER'S PRIVATE DATA.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Article 22 of Chapter 163 of the General Statutes is amended by adding
+6 a new section to read:
+7 "§ 163-271.2. Interference with conduct of elections.
+8 (a) A person acting under the color of law shall not order or authorize the presence of any
+9 troops or armed persons in the civil, military, or naval service of this State or the United States
+10 at any location used as a voting place, including any parking areas used for voting, beginning 17
+11 days before an election through the close of the voting place on election day, unless such force
+12 is necessary to repel armed enemies of the United States. For purposes of this section, "color of
+13 law" means to act or purport to act in the performance of official duties under the authority of a
+14 statute, ordinance, regulation, rule, proclamation, or order of the United States or this State.
+15 (b) Nothing in this section shall be construed to prevent any officer or member of any
+16 troops or the armed forces of this State or the United States from exercising the right to vote.
+17 (c) This section shall not apply to (i) law enforcement whose presence is otherwise
+18 required by law or who is responding to a request for assistance regarding a specific emergency
+19 or disturbance that exists at the time the request for assistance is made, or (ii) a request for
+20 assistance from an election officer with jurisdiction over the election process in question.
+21 (d) Any person aggrieved by a violation of this section may bring an action for preventive
+22 relief, including an application in a district court for a permanent or temporary injunction,
+23 restraining order, or other order. In any action commenced pursuant to this section, the court, in
+24 its discretion, may allow the prevailing party reasonable attorneys' fees.
+25 (e) In addition to any other fine or penalty imposed by this section, the court may order
+26 any person liable for violating this section to pay a civil penalty, the amount of which shall be
+27 determined by the court and be commensurate with the seriousness of the offense.
+28 (f) This section shall be enforced in addition to any other existing civil and criminal
+29 penalties established under this Chapter."
+30 SECTION 2. G.S. 163-82.10(a1) reads as rewritten:
+31 "(a1) Personal Identifying Information. – Full or partial social security numbers; dates of
+32 birth; the identity of the public agency at which the voter registered under G.S. 163-82.20; any
+33 email address submitted under this Article, Article 20, or Article 21A of this Chapter;
+34 photographs for voter photo identification under G.S. 163-82.8A; photocopies of identification
+35 for voting; voter registration numbers; passport numbers; telephone numbers; and drivers license
+*H1230-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 numbers, whether held by the State Board or a county board of elections, are confidential and
+2 shall not be considered public records and subject to disclosure to the general public under
+3 Chapter 132 of the General Statutes. Cumulative data based on those items of information may
+4 be publicly disclosed as long as information about any individual cannot be discerned from the
+5 disclosed data. The State Board or a county board of elections shall not disclose any information
+6 described under this subsection pursuant to a request by the federal government or a federal
+7 agency without a court order or an arrest warrant signed by a judge. Disclosure of information in
+8 violation of this subsection shall not give rise to a civil cause of action. This limitation of liability
+9 does not apply to the disclosure of information in violation of this subsection as a result of gross
+10 negligence, wanton conduct, or intentional wrongdoing that would otherwise be actionable."
+11 SECTION 3. If any clause, sentence, paragraph, section, or part of this act shall be
+12 adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect,
+13 impair, or invalidate the remainder of this act but shall be confined in its operation to the clause,
+14 sentence, paragraph, subdivision, section, or part directly involved in the controversy in which
+15 such judgment shall have been rendered.
+16 SECTION 4. Sections 2 and 3 of this act are effective when they become law. The
+17 remainder of this act is effective when it becomes law and applies to elections held on or after
+18 that date.
+Page 2 House Bill 1230-First Edition
