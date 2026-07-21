@@ -1,0 +1,736 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 945
+Short Title: Safe Camps Act. (Public)
+Sponsors: Senators Sawyer and Chitlik (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+April 30, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ESTABLISH A YOUTH CAMP PERMITTING AND SAFETY PROGRAM; TO
+3 PROHIBIT PERMITTING OF YOUTH CAMPS WITH CABINS IN FLOODPLAINS
+4 EXCEPT AS AUTHORIZED; TO REQUIRE EMERGENCY PLANNING AND
+5 WARNING COMMUNICATIONS; TO ESTABLISH MINIMUM SAFETY
+6 REQUIREMENTS FOR CAMPGROUNDS; AND TO PROVIDE IMPLEMENTATION
+7 FUNDS.
+8 The General Assembly of North Carolina enacts:
+9 SECTION 1.(a) Chapter 130A of the General Statutes is amended by adding a new
+10 Article to read:
+11 "Article 25.
+12 "Youth Camps and Campground Safety.
+13 "Part 1. Youth Camps.
+14 "§ 130A-512. Definitions.
+15 The following definitions apply in this Part:
+16 (1) Cabin. – A structure used to provide temporary sleeping quarters for campers.
+17 (2) Camper. – A minor attending a youth camp on a day or residential basis.
+18 (3) Day camp. – A youth camp that operates during any portion of the day
+19 between 7:00 A.M. and 10:00 P.M. for a period of four or more consecutive
+20 days and that provides no more than two incidental overnight stays per camp
+21 session. The term does not include a facility required to be licensed as a child
+22 care facility under Article 7 of Chapter 110 of the General Statutes.
+23 (4) Floodplain. – The base floodplain or 100-year floodplain as defined in
+24 G.S. 143-215.52(1b). The term includes any area removed from the 100-year
+25 floodplain by a letter of map amendment, a letter of map revision based on
+26 fill, or a substantially similar administrative process conducted by the Federal
+27 Emergency Management Agency.
+28 (5) Floodway. – The regulatory floodway, if any, as shown on the current
+29 floodplain maps prepared pursuant to the National Flood Insurance Program
+30 or approved by the Department of Public Safety. If a regulatory floodway is
+31 not shown on the applicable floodplain map used for a determination under
+32 this Part, the term includes a floodway delineated in accordance with rules
+33 adopted pursuant to G.S. 130A-515(d).
+34 (6) Youth camp. – A facility or property, not licensed under Article 7 of Chapter
+35 110 of the General Statutes, that provides structured recreational, athletic,
+*S945-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 religious, or educational activities to minors for four or more consecutive
+2 days, including residential, primitive, and day camps.
+3 (7) Youth camp operator. – A person who owns, operates, controls, or supervises
+4 a youth camp, regardless of profit status.
+5 "§ 130A-513. Religious sponsored child care facilities.
+6 (a) Applicability. – Notwithstanding G.S. 110-106(b)(4), a religious sponsored child care
+7 facility operating pursuant to G.S. 110-106 that operates a day camp, as defined in
+8 G.S. 130A‑512(3), shall comply with G.S. 130A-520(d) and G.S. 130A-522 with respect to that
+9 day camp.
+10 (b) Permit and Other Requirements Not Applicable. – A facility described in subsection
+11 (a) of this section is not required to obtain a permit under G.S. 130A-514 to operate the day camp
+12 and is not subject to the requirements of this Part or rules adopted under this Part. This subsection
+13 does not exempt the facility from G.S. 130A-520(d) or G.S. 130A-522, or rules adopted to
+14 implement those sections, and G.S. 130A-523 applies to the extent necessary to inspect and
+15 enforce compliance with G.S. 130A-520(d) and G.S. 130A-522.
+16 (c) Religious Training; No Regulation of Doctrine. – Consistent with G.S. 110-106(b)(4),
+17 nothing in this Article shall be construed to authorize the Department, the Commission, or a local
+18 health department to regulate or otherwise interfere with religious doctrine, religious instruction,
+19 worship, curriculum, or internal church governance. This Article shall be applied to a facility
+20 described in subsection (a) of this section solely as a program of health and safety regulation.
+21 (d) Inspection Scope. – Any inspection or request for records by the Department or a
+22 local health department under this Article of a facility described in subsection (a) of this section
+23 shall be limited to matters reasonably necessary to determine compliance with G.S. 130A-520(d)
+24 and G.S. 130A-522.
+25 (e) Floodplain Documentation. – A facility described in subsection (a) of this section
+26 shall maintain documentation supporting floodplain and floodway determinations made to
+27 comply with G.S. 130A-520(d) and the parent notice required by G.S. 130A-522(j)(2) and shall
+28 make the documentation available to the Department or a local health department upon request
+29 in the form and manner prescribed by rule.
+30 "§ 130A-514. Permit required; issuance by Department.
+31 (a) Permit Required. – Except as provided in G.S. 130A-513, no person shall operate a
+32 youth camp without a permit issued annually by the Department.
+33 (b) Issuance and Renewal; Conditions. – The Department shall issue or renew a permit
+34 under this Part only if the Department determines the youth camp is in compliance with this Part
+35 and rules adopted pursuant to this Part, including approval of the emergency plan required by
+36 G.S. 130A-522. In making this determination, the Department shall consider the most recent
+37 inspection report submitted under G.S. 130A-523 and other information required by rule.
+38 (c) Continuation Pending Renewal. – If a youth camp operator submits a complete
+39 application for renewal under G.S. 130A-517, including payment of the applicable fee required
+40 by G.S. 130A-518, in a form and manner prescribed by the Department, before expiration of the
+41 current permit, the current permit shall remain in effect until the Department takes final action
+42 on the renewal application. During the period the current permit remains in effect under this
+43 subsection, the youth camp operator shall comply with the most recent emergency plan approved
+44 under G.S. 130A-522. This subsection does not limit the authority of the Department or a local
+45 health director to take enforcement action as authorized by law.
+46 (d) Updated Application Required After Material Changes. – A youth camp operator
+47 shall submit an updated application to the Department in the manner prescribed by the
+48 Department not later than 30 days after the operator does any of the following:
+49 (1) Alters the boundaries of a youth camp.
+50 (2) Completes construction of one or more new cabins on the premises of the
+51 camp.
+Page 2 Senate Bill 945-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (3) Completes any renovation to an existing cabin on the premises of the camp
+2 that does either of the following:
+3 a. Increases or decreases the number of beds in the cabin.
+4 b. Alters the method of ingress or egress for the cabin.
+5 (e) Single Youth Camp Permit. – A permit issued under this Part satisfies any permit
+6 requirement under rules adopted by the Commission for Public Health for the operation of a
+7 youth camp, including rules governing summer camps, resident camps, and primitive experience
+8 camps. This subsection does not affect the applicability of permits required for food service
+9 establishments, lodging establishments, public swimming pools, onsite wastewater systems, or
+10 potable water supplies under other applicable provisions of law.
+11 "§ 130A-515. Administration; Department oversight; rulemaking; coordination with other
+12 health and safety programs.
+13 (a) Department Oversight. – The Department shall oversee implementation of this Part
+14 and shall provide standardized forms, technical assistance, data systems, and program audits. The
+15 Department may enter into agreements with local health departments and other governmental
+16 agencies as authorized by law to carry out the purposes of this Part.
+17 (b) Rulemaking. – The Commission for Public Health shall adopt rules to implement this
+18 Part, including rules to classify youth camps and to establish minimum statewide standards for
+19 their health and safety. Such rules may create subclasses of camps, including day camps,
+20 residential camps, and primitive experience camps, and shall address sanitation, potable water
+21 and wastewater, food service, lodging, aquatic safety, emergency planning and communications,
+22 staffing qualifications and ratios, incident reporting, record keeping, inspections, and related
+23 matters. Rules adopted under this subsection shall be consistent with this Part and other
+24 applicable law.
+25 (c) Coordination. – Nothing in this Part limits the applicability of other State health and
+26 safety laws or rules concerning food service, lodging and sanitation, public swimming pools and
+27 bathing places, onsite wastewater systems, communicable disease control, or related matters. The
+28 Department shall, to the extent practicable, coordinate inspections and enforcement under this
+29 Part with those programs to minimize duplication and burden on regulated entities.
+30 (d) Floodplain and Floodway Determinations. – The Commission after consultation with
+31 the Division of Emergency Management of the Department of Public Safety shall adopt rules
+32 establishing a uniform statewide methodology for determinations under G.S. 130A-517(5),
+33 130A-520, and 130A-522(j)(2). The rules shall do all of the following:
+34 (1) Specify the floodplain mapping sources and flood hazard maps that shall be
+35 used and the order of precedence among those sources, consistent with the
+36 definition of "base floodplain" or "100‑year floodplain" in
+37 G.S. 143-215.52(1b) and the definition of "floodway" in G.S. 130A-512(5).
+38 (2) Specify the minimum documentation required to support a determination as
+39 to whether (i) any cabin is located within a floodplain and (ii) any portion of
+40 the youth camp premises is located within a floodplain, including required
+41 map identifiers, effective dates, and geospatial exhibits.
+42 (3) Specify the methodology for determining whether a cabin is located at least
+43 1,000 feet from a floodway for purposes of G.S. 130A-520(b)(2), including
+44 the method of measurement and the minimum documentation required to
+45 support the determination. The rules shall also do all of the following:
+46 a. Specify procedures and minimum technical standards for delineating
+47 a floodway for purposes of G.S. 130A-520(b)(2) when a regulatory
+48 floodway is not shown on the applicable floodplain map.
+49 b. Specify the minimum documentation required to support a delineation
+50 under sub-subdivision a. of this subdivision, which may include a
+51 geospatial exhibit. The rules may require certification of the
+Senate Bill 945-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 delineation by a professional engineer licensed to practice in this State
+2 or by another qualified professional as determined by rule.
+3 (4) Require the Department to provide standardized forms, templates, and
+4 instructions for documenting floodplain determinations and floodway
+5 measurements and to make those materials available to local health
+6 departments and applicants.
+7 (5) Provide a process or identify an existing process by which an applicant may
+8 submit supplemental information recognized by rule to resolve a disputed
+9 determination.
+10 (6) Require retention of the documentation supporting the determination in the
+11 permit file or, for a facility described in G.S. 130A-513, in the records
+12 maintained by the facility in accordance with G.S. 130A-513(e), for a period
+13 specified by rule.
+14 "§ 130A-516. Youth Camp Safety Multidisciplinary Team.
+15 (a) Establishment. – The Youth Camp Safety Multidisciplinary Team (Team) is
+16 established within the Department to advise the Department and the Commission for Public
+17 Health on implementation of this Part, including emergency planning, flood hazards, warning
+18 and communications capabilities, and coordination with other public safety and health and safety
+19 programs.
+20 (b) Membership. – The Team shall consist of the following members, or their designees:
+21 (1) The Secretary of the Department of Health and Human Services, who shall
+22 serve as chair.
+23 (2) A representative of the Division of Public Health.
+24 (3) A representative of the Division of Emergency Management in the
+25 Department of Public Safety.
+26 (4) A representative of the Office of the State Fire Marshal in the Department of
+27 Insurance.
+28 (5) A representative of the Department of Environmental Quality with expertise
+29 in flood hazards, floodplain mapping, or dam safety.
+30 (6) A representative of the North Carolina Forest Service in the Department of
+31 Agriculture and Consumer Services.
+32 (7) A representative of the Wildlife Resources Commission.
+33 (8) One local health director appointed by the Secretary.
+34 (9) One county emergency management coordinator or director appointed by the
+35 Director of the Division of Emergency Management.
+36 (c) Duties. – The Team shall do all of the following:
+37 (1) Advise the Department and the Commission on rulemaking under this Part
+38 related to emergency planning, warning and communications capabilities, and
+39 flood hazards.
+40 (2) Recommend model emergency plan templates, checklists, training materials,
+41 and inspection tools to support consistent statewide implementation.
+42 (3) Identify best practices for severe weather and flood preparedness and for
+43 coordination between youth camps and local emergency services and
+44 emergency management.
+45 (4) Recommend methods to prioritize oversight, training, and audits based on risk
+46 factors such as flood hazards, proximity to watercourses, camper capacity, and
+47 remoteness.
+48 (5) Review anonymized program data and incident trends made available by the
+49 Department, consistent with confidentiality requirements, and recommend
+50 updates to guidance and training.
+Page 4 Senate Bill 945-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (6) Develop and recommend to the Commission and the Department proposed
+2 minimum statewide standards for youth camp health and safety for adoption
+3 by rule under this Part.
+4 (d) Administration. – The Department shall provide staff support to the Team. Members
+5 shall receive no compensation for serving but may receive travel and subsistence expenses in
+6 accordance with State law.
+7 (e) Meetings. – The Team shall meet at least twice each year and may meet more
+8 frequently at the call of the chair.
+9 "§ 130A-517. Permit application.
+10 (a) Application Requirements. – An application for a youth camp permit shall be
+11 submitted to the Department on Department-prescribed forms and shall include all of the
+12 following:
+13 (1) Facility plans and approvals required by rule.
+14 (2) Documentation of potable water supply approval and wastewater system
+15 approval, as applicable.
+16 (3) A staffing and training plan as required by rule.
+17 (4) The emergency plan required by G.S. 130A-522.
+18 (5) Documentation sufficient to determine whether any cabin on the youth camp
+19 premises is located within a floodplain and whether any portion of the youth
+20 camp premises is located within a floodplain, as specified by rule, including
+21 rules governing mapping source hierarchy and documentation standards. If
+22 the youth camp operator seeks to qualify for the exception under
+23 G.S. 130A-520(b)(2), the application shall also include documentation
+24 sufficient to determine whether each cabin located within a floodplain is
+25 located at least 1,000 feet from a floodway, as shown on the applicable
+26 floodplain map or delineated in accordance with rules adopted pursuant to
+27 G.S. 130A-515(d), measured in the manner prescribed by rule.
+28 (6) Proof of liability insurance in an amount set by rule.
+29 (b) Completeness Review. – Within 10 business days after submission to the Department,
+30 through the Department's electronic submission process, of (i) an application under this section
+31 or (ii) an emergency plan under G.S. 130A-522(f), the Department shall notify the submitter
+32 whether the submission is complete. A submission identified as incomplete shall not be
+33 considered received for purposes of any statutory review period.
+34 "§ 130A-518. Fees; Youth Camp Oversight Fund.
+35 (a) Fee Schedule. – The Commission shall establish by rule a uniform statewide fee
+36 schedule for initial and renewal permits issued under this Part. The fee schedule may include
+37 tiers based on camp classification, camper capacity, or other factors specified by rule. Fees shall
+38 be set in an amount reasonably related to the cost of administering and enforcing this Part at the
+39 State and local levels. A fee established under this subsection shall not exceed the applicable
+40 maximum amount set in subsection (b) of this section. An application for an initial permit or
+41 renewal submitted under G.S. 130A-517 is not complete unless accompanied by the applicable
+42 fee established under this section.
+43 (b) Maximum Fees. – The fee schedule established under subsection (a) of this section
+44 shall not exceed the following maximum amounts:
+45 (1) Initial permit. – One thousand dollars ($1,000) per youth camp.
+46 (2) Renewal permit. – One thousand dollars ($1,000) per youth camp.
+47 (3) Review of updated application. – Two hundred fifty dollars ($250.00) per
+48 submission required under G.S. 130A-514(d).
+49 (c) Collection; Allocation; Remittance; Local Use. – The Department shall collect all fees
+50 assessed under subsection (a) of this section. Twenty percent (20%) of each fee collected under
+51 this section (the State share) shall be credited to the Youth Camp Oversight Fund established in
+Senate Bill 945-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 subsection (d) of this section. Eighty percent (80%) of each fee collected under this section (the
+2 local share) shall be remitted to the local health department having jurisdiction over the youth
+3 camp to support inspections and enforcement under this Part, in the manner and at intervals
+4 prescribed by the Department. The Department shall remit the local share not less than quarterly.
+5 The local health department shall deposit amounts remitted under this subsection to the account
+6 of the local health department and shall use the amounts only for local youth camp safety
+7 programs and activities under this Part, in accordance with the Local Government Budget and
+8 Fiscal Control Act.
+9 (d) Youth Camp Oversight Fund. – The Youth Camp Oversight Fund is established as a
+10 special, nonreverting fund within the Department. Funds in the Fund shall be used only to support
+11 implementation of this Part, including statewide rulemaking, oversight, training, audits, technical
+12 assistance, and data systems.
+13 (e) Review. – The Commission shall review the fee schedule at least once every two
+14 years and shall revise the schedule as necessary to ensure that fees remain reasonably related to
+15 program costs.
+16 (f) Late Payment; Suspension for Nonpayment; Reinstatement. – The Department shall
+17 assess a late payment fee of twenty‑five dollars ($25.00) to a youth camp operator that fails to
+18 pay a fee assessed under subsection (a) of this section within 45 days after billing by the
+19 Department. The Department may, in accordance with G.S. 130A-23, suspend a permit of a youth
+20 camp that fails to pay the required fee within 60 days after billing by the Department. The
+21 Department shall assess a reinstatement fee of one hundred fifty dollars ($150.00) to a youth
+22 camp operator that requests reinstatement of its permit after the permit has been suspended under
+23 this subsection. Late payment fees and reinstatement fees collected under this subsection shall
+24 be credited to the Youth Camp Oversight Fund. The Commission shall adopt rules to implement
+25 this subsection.
+26 (g) Refunds. – Fees collected under this section are not refundable, except when the
+27 Department determines a fee was collected in error.
+28 "§ 130A-519. Online list of permitted youth camps.
+29 The Department shall establish, maintain, and update on its public website a list of youth
+30 camps holding an active permit under this Part.
+31 "§ 130A-520. Floodplain cabins; permitting prohibited.
+32 (a) General Prohibition. – The Department shall not issue or renew a permit to a youth
+33 camp if any cabin on the youth camp premises is located wholly or partially within a floodplain.
+34 (b) Exception. – Notwithstanding subsection (a) of this section, the Department may issue
+35 or renew a permit to a youth camp described by subsection (a) of this section only if the youth
+36 camp operator demonstrates, in the form and manner prescribed by the Department and as
+37 specified by rule, that at least one of the following applies:
+38 (1) Each cabin located wholly or partially within a floodplain is within the
+39 floodplain as a result of the cabin's proximity to a lake, pond, or other still
+40 body of water that meets either of the following conditions:
+41 a. The body of water is not connected to a stream, river, or other
+42 watercourse.
+43 b. The body of water is dammed.
+44 (2) Each cabin located wholly or partially within a floodplain is located at least
+45 1,000 feet from a floodway, as shown on the applicable floodplain map or
+46 delineated in accordance with rules adopted pursuant to G.S. 130A-515(d),
+47 measured in the manner prescribed by rule.
+48 (c) Emergency Ladders for Floodplain Cabins. – If the Department issues or renews a
+49 permit under subsection (b) of this section, the youth camp operator shall install and maintain,
+50 for each cabin located wholly or partially within a floodplain, an emergency ladder capable of
+51 providing access to the cabin's roof. The ladder shall meet minimum standards established by
+Page 6 Senate Bill 945-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 rule. The rules may be adopted under Part 2 of this Article and shall be consistent with
+2 G.S. 130A-527(a)(1).
+3 (d) Religious Sponsored Child Care Facilities. – Notwithstanding G.S. 110-106(b)(4), a
+4 facility described in G.S. 130A-513 shall not use, for lodging or sleeping by campers, any cabin
+5 located wholly or partially within a floodplain unless the facility demonstrates, in the form and
+6 manner prescribed by the Department and as specified by rule, that at least one of the conditions
+7 in subdivision (1) or (2) of subsection (b) of this section applies for each such cabin and installs
+8 and maintains an emergency ladder meeting the minimum standards established by rule pursuant
+9 to subsection (c) of this section for each such cabin.
+10 "§ 130A-521. Minimum standards; rule coordination.
+11 (a) Minimum Standards. – The Commission for Public Health shall adopt and maintain
+12 rules establishing minimum standards for youth camps, including all of the following:
+13 (1) Camper health screening and communicable disease prevention, reporting,
+14 and control.
+15 (2) Staffing ratios and staff training, including cardiopulmonary resuscitation,
+16 first aid, and child abuse recognition and reporting.
+17 (3) Facility sanitation, drinking water, wastewater, food service, and lodging.
+18 (4) Swimming pools, natural water activities, and aquatic safety.
+19 (5) Emergency action planning, drills, communications, and records under
+20 G.S. 130A-522.
+21 (6) Incident reporting and record keeping.
+22 (b) Coordination. – Rules adopted under this section shall be coordinated with other State
+23 health and safety programs and shall avoid duplicative requirements. The rules may rely on
+24 existing State rules concerning food service, lodging and sanitation, public swimming pools and
+25 bathing places, onsite wastewater systems, potable water supplies, communicable disease
+26 control, and related matters.
+27 (c) Applicability of Part 2. – The Commission shall adopt rules making applicable to
+28 youth camps the requirements of Part 2 of this Article in the same manner those requirements
+29 apply to a campground under that Part.
+30 "§ 130A-522. Emergency plans; communications; orientation; training; submissions.
+31 (a) Emergency Plan. – Each youth camp operator shall develop, implement, and maintain
+32 an emergency plan that, at a minimum, provides procedures for all of the following:
+33 (1) Responding to a lost camper.
+34 (2) Fire in a structure or open area on camp premises.
+35 (3) Severe injury, severe illness, serious accident, or fatality of campers, visitors,
+36 volunteers, or staff on premises or under camp supervision.
+37 (4) Aquatic emergencies if the camp borders or uses a watercourse, lake, pond, or
+38 other body of water.
+39 (5) Severe weather and disasters, including tornado, flash flood or flood,
+40 hurricane, wildfire, dam failure, hazardous materials release, extreme heat,
+41 and winter storm conditions.
+42 (6) Evacuation and shelter in place, including designation of muster zones for
+43 campers and youth camp staff and procedures to identify and account for each
+44 camper.
+45 (7) Notification and communication with all of the following:
+46 a. Local emergency services and the county emergency management
+47 coordinator for the county in which the youth camp is located and, if
+48 applicable, the municipal emergency management coordinator for the
+49 municipality in which the youth camp is located.
+50 b. Camp administrative and medical staff.
+Senate Bill 945-First Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 c. Parents or legal guardians of campers participating in the camp
+2 session.
+3 (8) An epidemic or other communicable disease outbreak affecting campers or
+4 staff.
+5 (9) An unauthorized or unknown individual present on the youth camp premises.
+6 (10) A transportation emergency, including incidents occurring while campers are
+7 in transit under camp supervision.
+8 (11) Any other natural disaster or emergency event designated by rule.
+9 (b) Activation Triggers. – The emergency plan shall identify objective triggers for
+10 activating the procedures required by subsection (a) of this section, which shall include (i)
+11 issuance by the National Weather Service of a tornado warning, flash flood warning, or flood
+12 warning for the area of the camp and (ii) issuance of an evacuation order, shelter in place order,
+13 or other movement or shelter directive by the Governor or by a municipality or county with
+14 jurisdiction under Chapter 166A of the General Statutes, and may include site-specific indicators
+15 of an imminent hazard observable by camp staff.
+16 (c) Implementation. – A youth camp operator shall implement the emergency plan
+17 required by this section upon the occurrence of an activation trigger identified in the plan under
+18 subsection (b) of this section. At a minimum, the youth camp operator shall implement the
+19 evacuation and shelter in place procedures required by subdivision (a)(6) of this section on
+20 issuance by the National Weather Service of a tornado warning, flash flood warning, or flood
+21 warning for the area of the camp.
+22 (d) Emergency Preparedness Coordinator. – The youth camp operator shall designate an
+23 emergency preparedness coordinator in the plan.
+24 (e) Warning and Communications Capabilities. – The Commission shall adopt rules
+25 requiring a youth camp operator to provide and maintain, at each youth camp operated by the
+26 operator, warning and communications capabilities. A youth camp operator shall certify
+27 annually, in a form and manner prescribed by the Department, to the Department that the youth
+28 camp is in compliance with this subsection and rules adopted pursuant to this subsection. The
+29 rules shall require that the capabilities meet at least all of the following performance
+30 requirements:
+31 (1) An operable radio capable of providing real-time weather alerts issued by the
+32 National Weather Service or a comparable professional weather service, as
+33 specified by rule.
+34 (2) A camp-wide warning method capable of alerting all campers and camp
+35 occupants of an emergency, including a public address function operable
+36 without reliance on an internet connection.
+37 (3) Capability to monitor applicable local emergency notification systems.
+38 (4) Where, in accordance with criteria established by rule, the Department
+39 determines that a communications pathway not relying on commercial cellular
+40 voice service or commercial cellular data service is available for installation
+41 and operation to serve the youth camp, at least one required pathway shall not
+42 rely on commercial cellular voice service or commercial cellular data service.
+43 (f) Submission and Review. – The following apply:
+44 (1) Submission. – The youth camp operator shall submit the emergency plan
+45 required by this section with the permit application under G.S. 130A-517 and
+46 annually thereafter with each application for renewal. A facility described in
+47 G.S. 130A-513 shall submit the emergency plan required by this section to the
+48 Department annually, and before beginning operation of the day camp in each
+49 calendar year, in the form and manner prescribed by the Department,
+50 including through any Department-administered electronic system.
+Page 8 Senate Bill 945-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (2) Department action. – Within 30 days after receipt of a plan submitted under
+2 subdivision (1) of this subsection, the Department shall approve the plan or
+3 provide the operator written notice of deficiencies.
+4 (3) Deficiencies; resubmission. – If the Department determines the plan does not
+5 meet the requirements of this section and minimum standards prescribed by
+6 rules adopted by the Commission, the operator shall revise and resubmit the
+7 plan within 45 days after receipt of the written notice of deficiencies.
+8 (4) Department action on revised plan. – Within 30 days after receipt of a revised
+9 plan submitted under subdivision (3) of this subsection, the Department shall
+10 approve the revised plan or provide the operator written notice of any
+11 remaining deficiencies.
+12 (5) Permit condition. – Approval of the emergency plan under this subsection is
+13 a condition of permit issuance and renewal under G.S. 130A-514.
+14 (g) Consultation. – In reviewing and approving emergency plans under subsection (f) of
+15 this section, the Department may consult with the local health department having jurisdiction,
+16 county or municipal emergency management, and the Youth Camp Safety Multidisciplinary
+17 Team established in G.S. 130A-516.
+18 (h) Transmittal to Emergency Management. – The following apply:
+19 (1) County transmittal. – Within 10 business days after approval of a plan under
+20 subsection (f) of this section, the youth camp operator shall provide a copy of
+21 the approved plan to the county emergency management coordinator
+22 appointed pursuant to G.S. 166A-19.15(b) or otherwise designated for an
+23 emergency management agency established under that statute, for the county
+24 in which the youth camp is located, or the coordinator's designee.
+25 (2) Municipal transmittal. – If the youth camp is located within a municipality
+26 that has established an emergency management agency pursuant to
+27 G.S. 166A-19.15(c), the operator shall also provide a copy of the approved
+28 plan to the municipal emergency management coordinator, if any, or the
+29 coordinator's designee.
+30 (3) Religious sponsored child care facilities. – A facility described in
+31 G.S. 130A-513 shall provide a copy of the plan submitted under subdivision
+32 (f)(1) of this section to the county emergency management coordinator, or the
+33 coordinator's designee, and, if applicable, to the municipal emergency
+34 management coordinator, or the coordinator's designee, not later than 10
+35 business days after submission and shall provide updated copies not later than
+36 10 business days after any resubmission under subdivision (f)(3) of this
+37 section.
+38 (4) Joint agency. – If a joint emergency management agency has been formed
+39 pursuant to G.S. 166A-19.15(d) with jurisdiction over the youth camp's
+40 location, delivery to the coordinator, or the coordinator's designee, of the joint
+41 agency satisfies subdivisions (1) and (2) of this subsection.
+42 (i) Department Database. – The Department shall store in a digital database each
+43 emergency plan approved under this section and each emergency plan submitted under
+44 subdivision (f)(1) of this section by a facility described in G.S. 130A-513 and shall provide
+45 access to that database to all of the following:
+46 (1) The Division of Emergency Management in the Department of Public Safety.
+47 (2) The county and municipal emergency management coordinators who receive
+48 plans under subsection (h) of this section.
+49 (3) The local health department having jurisdiction over the youth camp.
+50 (4) The Youth Camp Safety Multidisciplinary Team established in
+51 G.S. 130A-516, including each member or the member's designee.
+Senate Bill 945-First Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (j) Parent Notice. – A youth camp operator shall:
+2 (1) Provide the most recent emergency plan approved under this section to the
+3 parent or legal guardian of a camper who is participating in a camp session
+4 and to the parent or legal guardian of a prospective camper registered to
+5 participate in a future camp session.
+6 (2) Notify the parent or legal guardian described in subdivision (1) of this
+7 subsection if any portion of the youth camp premises is located within a
+8 floodplain.
+9 (3) Ensure the parent or legal guardian signs and submits to the operator a
+10 statement acknowledging receipt of the notice required under subdivision (2)
+11 of this subsection.
+12 (k) Camper Safety Orientation. – The youth camp operator or a youth camp staff member
+13 shall conduct a mandatory safety orientation before a camper participates in any camp activities
+14 other than check-in and, in all cases, not later than the end of the first day of the youth camp
+15 session. The orientation shall do all of the following:
+16 (1) Notify each camper of the camp's boundaries and hazards present on the camp
+17 premises.
+18 (2) Instruct each camper on behavioral expectations in an emergency event.
+19 (3) Provide each camper developmentally appropriate instruction on actions and
+20 procedures to follow in an emergency event, in accordance with the camp's
+21 emergency plan required under this section.
+22 (l) Annual Staff and Volunteer Training. – Before a youth camp staff member or
+23 volunteer begins duties that involve supervising campers, and at least annually thereafter, a youth
+24 camp operator shall do all of the following:
+25 (1) Provide each youth camp staff member and volunteer with a copy of the
+26 camp's most recent emergency plan.
+27 (2) Ensure each staff member and volunteer successfully completes training on
+28 the emergency plan that meets minimum standards and required hours
+29 established by rule.
+30 (3) Instruct each staff member and volunteer on proper procedures to follow in an
+31 emergency event.
+32 (4) Maintain written records documenting completion of training required by this
+33 subsection.
+34 (m) Posting; Illumination. – A youth camp operator shall do all of the following:
+35 (1) Conspicuously post in each cabin on the youth camp premises the proper
+36 evacuation route described in the emergency plan.
+37 (2) Ensure each evacuation route designated in the emergency plan is illuminated
+38 or otherwise clearly marked and visible at night, as specified by rule.
+39 (n) Confidentiality. – An emergency plan submitted to, received by, or accessed by the
+40 Department, the Youth Camp Safety Multidisciplinary Team, the Division of Emergency
+41 Management, a county or municipal emergency management coordinator or director, a local
+42 health department, or any other governmental entity under this section is not a public record as
+43 defined in G.S. 132-1 and shall be kept confidential. The plan may be disclosed only to the extent
+44 necessary to administer this section and for emergency management, public health, or law
+45 enforcement purposes.
+46 "§ 130A-523. Inspections and enforcement authority.
+47 (a) Inspections. – A local health department shall inspect each youth camp at least once
+48 each calendar year and as needed to ensure compliance. A local health department is not required
+49 to conduct an annual inspection of a facility described in G.S. 130A-513 and may inspect such a
+50 facility as needed to enforce G.S. 130A-520(d) and G.S. 130A-522. The local health department
+Page 10 Senate Bill 945-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 shall submit to the Department an inspection report in the form and manner prescribed by the
+2 Department.
+3 (b) Right of Entry. – The Secretary and a local health director shall have the right of entry
+4 upon the premises where entry is necessary to enforce this Chapter or rules adopted by the
+5 Commission or a local board of health, as set out in G.S. 130A-17.
+6 (c) Enforcement Authority. – The Secretary may deny, suspend, revoke, or refuse to
+7 renew a permit issued under this Part in accordance with G.S. 130A-23. The Secretary and a local
+8 health director may issue administrative orders requiring corrective action and may order
+9 immediate closure where an imminent hazard exists in accordance with G.S. 130A-20, and other
+10 remedies are available under G.S. 130A-18 and G.S. 130A-19. The local health department shall
+11 notify the Department of enforcement actions taken under this subsection in the form and manner
+12 prescribed by the Department.
+13 (d) Appeals. – Appeals of actions taken by the Department under this Part shall proceed
+14 as contested cases under Chapter 150B of the General Statutes, as provided in G.S. 130A-24(a)
+15 through (a1). Appeals concerning the enforcement of rules adopted by the local board of health
+16 or actions of the local health director shall be conducted in accordance with G.S. 130A-24(b)
+17 through (d).
+18 "§ 130A-524. Uniform data and reporting.
+19 The Commission shall establish by rule uniform data elements and reporting intervals for
+20 youth camps. Local health departments shall submit required data to the Department. The
+21 Department shall publish an annual summary of program activity and compliance, subject to
+22 applicable confidentiality laws. By October 1 each year, the Department shall publish a summary
+23 of receipts and expenditures from the Youth Camp Oversight Fund for the prior fiscal year.
+24 "Part 2. Campground Safety.
+25 "§ 130A-526. Definitions.
+26 The following definitions apply in this Part:
+27 (1) Cabin. – A structure used to provide temporary sleeping quarters for
+28 occupants of a campground.
+29 (2) Campground. – A property that is designed to provide cabins or recreational
+30 vehicle sites for transient overnight occupancy or use.
+31 (3) Campground operator. – A person or governmental entity that owns, operates,
+32 controls, or supervises a campground, regardless of profit status.
+33 (4) Floodplain. – As defined in G.S. 130A-512(4).
+34 (5) Governmental entity. – The State, a State agency, or a political subdivision of
+35 the State.
+36 "§ 130A-527. Safety requirements; emergency plans; submissions.
+37 (a) Emergency Ladder; Plan Required. – A campground operator shall do all of the
+38 following:
+39 (1) Install and maintain in each cabin located within the floodplain an emergency
+40 ladder capable of providing access to the cabin's roof.
+41 (2) Develop an emergency plan addressing all of the following:
+42 a. Evacuation of occupants upon issuance of a flash flood or flood
+43 warning affecting an area of the campground within the floodplain.
+44 b. Evacuation upon issuance of an evacuation order due to wildfire,
+45 hurricane, or other disaster by the Governor or by a municipality or
+46 county exercising authority under Chapter 166A of the General
+47 Statutes.
+48 c. Shelter in place upon issuance of a tornado warning or an order to
+49 shelter in place by the Governor or by a municipality or county
+50 exercising authority under Chapter 166A of the General Statutes.
+Senate Bill 945-First Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 (b) Implementation Trigger. – A campground operator shall implement the plan upon
+2 issuance of the specified warnings by the National Weather Service or upon issuance of the
+3 specified evacuation or shelter directives by the Governor or by a municipality or county
+4 exercising authority under Chapter 166A of the General Statutes.
+5 (c) Submission. – The following apply:
+6 (1) County submission. – A campground operator shall furnish the emergency
+7 plan to the county emergency management coordinator appointed pursuant to
+8 G.S. 166A-19.15(b) for the county in which the campground is located, or the
+9 coordinator's designee.
+10 (2) Municipal submission. – If the campground is located within a municipality
+11 that has established an emergency management agency pursuant to
+12 G.S. 166A-19.15(c), the operator shall also furnish the emergency plan to the
+13 municipal emergency management coordinator, if any, or the coordinator's
+14 designee.
+15 (3) Joint agency. – If a joint emergency management agency has been formed
+16 pursuant to G.S. 166A-19.15(d) with jurisdiction over the campground's
+17 location, delivery to the coordinator, or the coordinator's designee, of the joint
+18 agency satisfies subdivisions (1) and (2) of this subsection.
+19 (d) Confidentiality. – An emergency plan furnished to a governmental entity under this
+20 section is not a public record as defined in G.S. 132-1 and shall be kept confidential. The plan
+21 may be disclosed only to the extent necessary for emergency management, public health, or law
+22 enforcement purposes.
+23 "§ 130A-528. Fire and life-safety standards.
+24 (a) Building Code and Fire Code Authority. – Nothing in this Part alters the authority of
+25 the Building Code Council, the Office of the State Fire Marshal, or any local official enforcing
+26 the North Carolina State Building Code, including the North Carolina Fire Code.
+27 (b) Documentation. – For purposes of inspection and enforcement of this Part, a
+28 campground operator shall maintain documentation of approvals and inspections issued by the
+29 authority having jurisdiction under the North Carolina State Building Code for any cabins or
+30 other structures for which such approvals or inspections are required and shall make the
+31 documentation available to the Department or the local health department upon request.
+32 (c) Building Code Interpretation. – Nothing in this Part authorizes the Department or a
+33 local health department to interpret or enforce the North Carolina State Building Code.
+34 "§ 130A-529. Rulemaking; enforcement; coordination with Building Code.
+35 (a) Rulemaking. – The Commission for Public Health may adopt rules necessary to
+36 implement this Part. Rules adopted under this Part shall not conflict with the North Carolina State
+37 Building Code, including the Fire Code, and the Commission shall consult with the Building
+38 Code Council and the Office of the State Fire Marshal in developing such rules.
+39 (b) Enforcement. – The Department and local health departments may enforce this Part
+40 using the enforcement authorities available under Part 2 of Article 1 of this Chapter, as
+41 applicable, including those provided in G.S. 130A‑17 through G.S. 130A-20. Appeals shall
+42 proceed in accordance with G.S. 130A-24.
+43 (c) Coordination. – Where a campground is operated as part of a youth camp, the
+44 Department and local health departments shall coordinate inspections and enforcement under this
+45 Part with Part 1 of this Article to minimize duplicative actions."
+46 SECTION 1.(b) G.S. 130A-22 is amended by adding a new subsection to read:
+47 "(b4) The Secretary or the local health director may assess an administrative penalty of not
+48 more than one thousand dollars ($1,000) for each violation of Part 1 of Article 25 of this Chapter
+49 or a rule adopted under it. Each day of a continuing violation may be treated as a separate
+50 violation. In determining the amount of the penalty, the assessing official shall consider factors,
+Page 12 Senate Bill 945-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 including the degree of risk to public health and safety, the duration and gravity of the violation,
+2 corrective actions, prior record, and costs to the State and county of enforcement."
+3 SECTION 2. G.S. 130A-248 is amended by adding a new subsection to read:
+4 "(h) When a facility is permitted as a youth camp under G.S. 130A-514, the Department
+5 and local health departments shall coordinate permitting and inspection activities under this
+6 section with permitting and inspection under Part 1 of Article 25 of this Chapter to minimize
+7 duplication. A permit issued under G.S. 130A-514 does not substitute for any permit required by
+8 this section or by other law for food service establishments or lodging establishments or for any
+9 public swimming pool or onsite wastewater system regulated elsewhere in this Chapter; however,
+10 inspections may be scheduled and documented on a consolidated basis using standardized forms
+11 prescribed by the Department."
+12 SECTION 3.(a) Rulemaking Authority. – The Commission for Public Health shall
+13 adopt permanent rules to implement this act and may adopt temporary rules pursuant to
+14 G.S. 150B-21.1. In developing rules, the Commission shall consult with the North Carolina
+15 Building Code Council and the Office of the State Fire Marshal and shall not adopt rules that
+16 conflict with the North Carolina State Building Code, including the Fire Code.
+17 SECTION 3.(b) Conforming Rule Changes. – The Commission shall amend its
+18 rules, as necessary, to conform to the provisions of this act, including rules governing summer
+19 camps, resident camps, and primitive experience camps, to recognize the Department as the
+20 permitting authority under G.S. 130A-514 and to implement the emergency plan requirements of
+21 G.S. 130A-522.
+22 SECTION 3.(c) Temporary Rules. – Temporary rules shall be adopted and become
+23 effective no later than March 1, 2027. Temporary rules shall not establish an initial compliance
+24 date earlier than 30 days after the date the temporary rules become effective. Temporary rules
+25 shall remain in effect until the effective date of permanent rules adopted pursuant to this act that
+26 replace the temporary rules.
+27 SECTION 3.(d) Permanent Rules. – The Commission shall adopt permanent rules
+28 no later than October 1, 2027.
+29 SECTION 4.(a) Forms, Systems, and Training. – The Department of Health and
+30 Human Services shall do all of the following on or before the date temporary rules adopted
+31 pursuant to this act become effective:
+32 (1) Make available standardized forms, templates, instructions, and an electronic
+33 submission process sufficient to accept permit applications, emergency plans,
+34 and other submissions required under Article 25 of Chapter 130A of the
+35 General Statutes.
+36 (2) Establish the database required by G.S. 130A-522(i) and provide access to the
+37 entities described in that subsection.
+38 (3) Provide guidance and training materials to local health departments to support
+39 consistent implementation.
+40 SECTION 4.(b) Emergency Plan Submissions. – Notwithstanding
+41 G.S. 130A-522(f), a youth camp operator or a facility described in G.S. 130A-513 is not required
+42 to submit an emergency plan to the Department before the date that is 60 days after the date
+43 temporary rules adopted pursuant to this act become effective. On and after that date, emergency
+44 plans shall be submitted in the form and manner prescribed by the Department and in accordance
+45 with G.S. 130A-522(f).
+46 SECTION 4.(c) Permit Phase-In. – Notwithstanding G.S. 130A-514(a), the
+47 following apply:
+48 (1) Permit requirement. – A permit under Article 25 of Chapter 130A of the
+49 General Statutes is required on and after the date that is 60 days after the date
+50 temporary rules adopted pursuant to this act become effective. This
+51 subdivision applies to permit applications submitted on or after that date.
+Senate Bill 945-First Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 (2) Temporary bridge for emergency plan approval. – For the period beginning
+2 on the date described in subdivision (1) of this subsection and ending
+3 December 31, 2027, the Department may issue or renew a permit
+4 notwithstanding the requirement for plan approval in G.S. 130A-514(b) and
+5 G.S. 130A-522(f)(5) if the youth camp operator has submitted an emergency
+6 plan in accordance with G.S. 130A-522(f)(1) and certifies compliance with
+7 temporary rules adopted pursuant to this act, in the form and manner
+8 prescribed by the Department. The Department may deny, suspend, revoke,
+9 or refuse to renew a permit as authorized by law if the operator fails to cure
+10 deficiencies identified by the Department within the time allowed under
+11 G.S. 130A-522(f).
+12 (3) Hard launch. – On and after January 1, 2028, the Department shall not issue
+13 or renew a permit unless the emergency plan has been approved in accordance
+14 with G.S. 130A-522(f).
+15 SECTION 4.(d) Online List. – The Department shall establish the online list required
+16 by G.S. 130A-519 no later than the date the permit requirement begins under subsection (c) of
+17 this section.
+18 SECTION 4.(e) Inspections. – Notwithstanding G.S. 130A-523(a), the requirement
+19 to inspect each youth camp at least once each calendar year applies to inspections conducted on
+20 or after January 1, 2028. Nothing in this subsection limits inspections conducted as needed to
+21 ensure compliance or to address an imminent hazard as authorized by law.
+22 SECTION 4.(f) Youth Camp Safety Multidisciplinary Team. – The appointing
+23 authorities for the members described in G.S. 130A-516(b)(8) and (9) shall make the initial
+24 appointments no later than 30 days after this act becomes law. Each agency or entity listed in
+25 G.S. 130A-516(b)(1) through (7) shall designate its representative not later than 30 days after
+26 this act becomes law. The Secretary of the Department of Health and Human Services shall
+27 convene the first meeting of the Team no later than 60 days after this act becomes law.
+28 SECTION 4.(g) Agency Preparations. – The Commission for Public Health, the
+29 Department of Health and Human Services, the Youth Camp Safety Multidisciplinary Team
+30 established in G.S. 130A-516, and the agencies represented on the Team may begin rulemaking,
+31 guidance development, interagency coordination, and implementation when this act becomes
+32 law.
+33 SECTION 5. Funding. – The sum of five hundred thousand dollars ($500,000) in
+34 recurring funds beginning with the 2026-2027 fiscal year is appropriated from the General Fund
+35 to the Department of Health and Human Services for implementation of the requirements of this
+36 act. The Department may establish up to four positions with the funds appropriated by this
+37 section.
+38 SECTION 6. Effective Date. – Section 5 of this act becomes effective July 1, 2026.
+39 The remainder of this act is effective when it becomes law.
+Page 14 Senate Bill 945-First Edition

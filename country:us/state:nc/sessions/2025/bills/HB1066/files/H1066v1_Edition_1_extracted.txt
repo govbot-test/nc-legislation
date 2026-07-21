@@ -1,0 +1,543 @@
+Title: 
+Official Title: 
+Source: versions - Edition 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1066
+Short Title: Child Care Stabilization & Affordability Act. (Public)
+Sponsors: Representatives Helfrich, Lofton, Prather, and von Haefen (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 29, 2026
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PERMIT OPPORTUNITY SCHOLARSHIP FUNDS TO BE AWARDED FOR
+3 PREKINDERGARTEN; TO MAKE PERMANENT THE TRI-SHARE CHILD CARE
+4 PILOT PROGRAM; TO REENACT THE CHILD CARE TAX CREDIT; TO EXPAND
+5 THE EARLY CHILDHOOD EDUCATION WORKFORCE; TO STREAMLINE
+6 ADMINISTRATIVE REQUIREMENTS FOR CHILD CARE PROVIDERS; TO UTILIZE
+7 PUBLIC FACILITIES FOR CHILD CARE; TO CLARIFY REGULATORY GUIDANCE
+8 FOR RELIGIOUS CHILD CARE PROGRAMS; TO STABILIZE CHILD CARE
+9 FUNDING AND BENEFITS IN NORTH CAROLINA; AND TO ENHANCE CHILD
+10 CARE WORKFORCE COMPENSATION AND BENEFITS.
+11 Whereas, affordable and accessible child care is essential to workforce participation,
+12 small business stability, and economic growth across the State; and
+13 Whereas, North Carolina faces significant shortages in licensed child care capacity
+14 due to workforce constraints, regulatory bottlenecks, and rising operating costs; and
+15 Whereas, early childhood educators are often paid wages insufficient to sustain the
+16 workforce needed to meet statewide demand; and
+17 Whereas, expanding training pathways, including apprenticeships and community
+18 college programs, can strengthen the child care workforce pipeline; and
+19 Whereas, the lack of coordinated administrative systems requires child care providers
+20 to interact with multiple agencies and funding streams; and
+21 Whereas, the General Assembly has a compelling interest in expanding safe,
+22 high-quality child care while ensuring regulatory clarity, workforce development, and economic
+23 participation; Now, therefore,
+24 The General Assembly of North Carolina enacts:
+25
+26 PART I. REVISE ELIGIBILITY REQUIREMENTS AND REDUCE FUNDS FOR THE
+27 OPPORTUNITY SCHOLARSHIP PROGRAM
+28 SECTION 1.1.(a) G.S. 115C-562.1(3a) reads as rewritten:
+29 "(3a) Eligible student. – A student residing in North Carolina who has not yet
+30 received a high school diploma and who meets all of the following
+31 requirements:
+32 a. Is eligible to attend a North Carolina public school pursuant to Article
+33 25 of this Chapter. A child who is the age of 4 on or before April 16 is
+34 eligible to attend the following school year if the principal, or
+35 equivalent, of the school in which the child seeks to enroll finds that
+*H1066-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 the student meets the requirements established by the Authority
+2 pursuant to G.S. 115C-562.2(d) and those findings are submitted to the
+3 Authority.
+4 b. Has not been enrolled in a postsecondary institution as a full-time
+5 student taking at least 12 hours of academic credit.
+6 c. Has not been placed in a nonpublic school or facility by a public
+7 agency at public expense.
+8 d. Resides in a household with an income level not in excess of two
+9 hundred percent (200%) of the amount required for the student to
+10 qualify for the federal free or reduced-price lunch program."
+11 SECTION 1.1.(b) G.S. 115C-562.2 reads as rewritten:
+12 "§ 115C-562.2. Scholarship grants.
+13 (a) The Authority shall make available no later than February 1 annually applications to
+14 eligible students for the award of scholarship grants to attend any nonpublic school on a full- or
+15 part-time basis. Information about scholarship grants and the application process shall be made
+16 available on the Authority's website. Beginning March 15, the Authority shall begin awarding
+17 scholarship grants to students who have applied by March 1 in the following order:
+18 (1) Eligible students who received a scholarship grant for the school year prior to
+19 the school year for which the students are applying.
+20 (2) Eligible students qualifying for a scholarship grant in the amount provided
+21 under subdivision (1) of subsection (b2) of this section.
+22 (3) Eligible students qualifying for a scholarship grant in the amount provided
+23 under subdivision (2) of subsection (b2) of this section.
+24 (4) Eligible students qualifying for a scholarship grant in the amount provided
+25 under subdivision (3) of subsection (b2) of this section.
+26 (5) All other students.
+27 …
+28 (b2) Scholarship grants shall be awarded to eligible students as follows:
+29 (1) For students residing in households with an income level not in excess of the
+30 amount required for the student to qualify for the federal free or reduced-price
+31 lunch program, per year per eligible student, an amount of up to one hundred
+32 percent (100%) of the average State per pupil allocation for average daily
+33 membership in the prior fiscal year.
+34 (2) For students residing in households with an income level between the amount
+35 required for the student to qualify for the federal free or reduced-price lunch
+36 program and not in excess of two hundred percent (200%) of that amount, per
+37 year per eligible student, an amount of up to ninety percent (90%) of the
+38 average State per pupil allocation for average daily membership in the prior
+39 fiscal year.
+40 (3) For students residing in households with an income level of between two
+41 hundred percent (200%) of the amount required for the student to qualify for
+42 the federal free or reduced-price lunch program and not in excess of four
+43 hundred fifty percent (450%) of that amount, per year per eligible student, an
+44 amount of up to sixty percent (60%) of the average State per pupil allocation
+45 for average daily membership in the prior fiscal year.
+46 (4) For all students, per year per eligible student, an amount of up to forty-five
+47 percent (45%) of the average State per pupil allocation for average daily
+48 membership in the prior fiscal year, unless the student qualifies for a higher
+49 amount under this subsection.
+50 …."
+51 SECTION 1.1.(c) G.S. 115C-562.8 reads as rewritten:
+Page 2 House Bill 1066-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 "§ 115C-562.8. The Opportunity Scholarship Grant Fund Reserve.
+2 …
+3 (b) The General Assembly finds that, due to the critical need in this State to provide
+4 opportunity for school choice for North Carolina students, it is imperative that the State provide
+5 an increase of funds for 15 years to the Opportunity Scholarship Grant Fund Reserve. Therefore,
+6 there There is appropriated from the General Fund to the Reserve the following amounts for each
+7 fiscal year to be used for the purposes set forth in this section:
+8 Fiscal Year Appropriation
+9 …
+10 2027-2028 $700,000,000$460,000,000
+11 2028-2029 $725,000,000$485,000,000
+12 2029-2030 $750,000,000$510,000,000
+13 2030-2031 $775,000,000$535,000,000
+14 2031-2032 $800,000,000$560,000,000
+15 For the 2032-2033 fiscal year and each fiscal year thereafter, there is appropriated from the
+16 General Fund to the Reserve the sum of eight hundred twenty-five million dollars ($825,000,000)
+17 five hundred eighty-five million dollars ($585,000,000) to be used for the purposes set forth in
+18 this section. When developing the base budget, as defined by G.S. 143C-1-1, for each fiscal year
+19 specified in this subsection, the Director of the Budget shall include the appropriated amount
+20 specified in this subsection for that fiscal year.
+21 …."
+22 SECTION 1.1.(d) Notwithstanding any other provision of law to the contrary, funds
+23 appropriated to the Opportunity Scholarship Grant Fund Reserve for the award of opportunity
+24 scholarship grants pursuant to Part 2A of Article 39 of Chapter 115C of the General Statutes are
+25 reduced as follows:
+26 (1) By the sum of one hundred fifty million dollars ($150,000,000) in
+27 nonrecurring funds appropriated in the 2025-2026 fiscal year for the award of
+28 scholarship grants in the 2026-2027 fiscal year.
+29 (2) By the sum of two hundred forty million dollars ($240,000,000) in recurring
+30 funds appropriated in the 2026-2027 fiscal year for the award of scholarship
+31 grants in the 2027-2028 fiscal year.
+32 SECTION 1.1.(e) This section becomes effective July 1, 2026, and applies to
+33 applications for the award of scholarship funds beginning in the 2027-2028 school year.
+34
+35 CHILD CARE SUBSIDY FUNDS FROM REDUCTIONS IN OPPORTUNITY
+36 SCHOLARSHIP FUNDS
+37 SECTION 1.2. There is appropriated from the General Fund to the Department of
+38 Health and Human Services, Division of Child Development and Early Education, the sum of
+39 one hundred fifty million dollars ($150,000,000) in nonrecurring funds for the 2026-2027 fiscal
+40 year and the sum of two hundred forty million dollars ($240,000,000) in recurring funds
+41 beginning in the 2026-2027 fiscal year, as a result of the reductions made under Section 1.1 of
+42 this Part, to be used to assist in reducing the waitlist for subsidized child care in this State.
+43
+44 PART II. TRI-SHARE CHILD CARE PROGRAM PERMANENCY/FUNDS
+45 SECTION 2.1.(a) Part 10B of Article 3 of Chapter 143B of the General Statutes is
+46 amended by adding a new section to read:
+47 "§ 143B-168.17. Tri-Share Child Care Program.
+48 (a) There is established the Tri-Share Child Care Program (Program), a program that
+49 creates a public/private partnership to share the cost of child care equally between employers,
+50 eligible employees, and the State to:
+51 (1) Make high-quality child care affordable and accessible for working families.
+House Bill 1066-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (2) Help employers retain and attract employees.
+2 (3) Help stabilize child care businesses across the State.
+3 (b) The North Carolina Partnership, in collaboration with the Department, shall facilitate
+4 the Program. Up to three local partnerships shall serve as regional facilitator hubs to implement
+5 and administer the Program and act as regional intermediaries between employers, families, child
+6 care providers, and the State. Local partnerships serving as regional facilitator hubs shall be
+7 selected from geographically diverse areas across the State, with one selected from a tier one
+8 county. For purposes of this subsection, a tier one county shall have the same designation as that
+9 established by the most current version of the North Carolina Department of Commerce's County
+10 Tier Designations.
+11 (c) The North Carolina Partnership shall be accountable for the programmatic and fiscal
+12 integrity of the Program and services and shall implement standardized procedures to ensure the
+13 Program is operated consistently among all regional facilitator hubs to include, at a minimum,
+14 each of the following:
+15 (1) Design of the Program.
+16 (2) Establishment of the Program infrastructure.
+17 (3) Recruitment of participating child care providers and employers.
+18 (d) The North Carolina Partnership may contract with a third-party administrator to assist
+19 with centralized enrollment, payment processing, and other financial transactions associated with
+20 the Program. The North Carolina Partnership shall conduct financial and compliance monitoring
+21 of the regional facilitator hubs and the third-party administrator, if applicable.
+22 (e) The North Carolina Partnership and local partnerships serving as regional facilitator
+23 hubs shall determine Program eligibility based on standardized criteria. For purposes of this
+24 Program, an employee is eligible to participate in the Program if the employee (i) is employed
+25 by a participating employer, (ii) has a household income between one hundred eighty-five percent
+26 (185%) and three hundred percent (300%) of the federal poverty level, and (iii) is not otherwise
+27 eligible for subsidized child care in this State. An eligible employee may reside outside of the
+28 designated region for the respective facilitator hub. Other criteria the North Carolina Partnership
+29 and regional facilitator hubs shall implement for the Program include, at a minimum, each of the
+30 following:
+31 (1) Ensuring payment for the cost of child care is divided equally between an
+32 employer, an eligible employee, and the State.
+33 (2) Soliciting participating employers.
+34 (3) Ensuring participating employers agree to (i) identify and recruit eligible
+35 employees, (ii) provide the employer portion of each participating employee's
+36 child care costs, and (iii) maintain communication with the regional facilitator
+37 hub regarding each eligible employee's continued employment and eligibility.
+38 (4) Verifying that child care providers seeking to participate in the Program are
+39 licensed in this State.
+40 (5) Upon determining an employee's eligibility, ensuring payment by the
+41 employee of the employee's portion of the cost of child care.
+42 (6) Coordinating payments between employers and licensed child care providers.
+43 (f) For purposes of this section, child care includes part-time and full-time care, before
+44 and after school care, and summer day camps.
+45 (g) The North Carolina Partnership shall collaborate with the Department of Commerce
+46 to prioritize businesses in sectors experiencing persistent labor shortages.
+47 (h) Funds provided for the Program pursuant to this section shall be divided evenly in
+48 each fiscal year among the regional facilitator hubs administering the Program. These funds shall
+49 not revert but shall remain available for costs associated with the Program. A regional facilitator
+50 hub may use up to nine percent (9%) of its allocation for administrative costs.
+Page 4 House Bill 1066-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (i) The North Carolina Partnership shall include in its annual report required by
+2 G.S. 143B-168.12(d), at a minimum, each of the following regarding the Program:
+3 (1) The number of children served, by age and county.
+4 (2) The list of employers participating in the Program.
+5 (3) Total Program costs, including any administrative costs."
+6 SECTION 2.1.(b) G.S. 143B-168.12(d) is amended by adding a new subdivision to
+7 read:
+8 "(6a) A description of the information required to be reported for the Tri-Share
+9 Child Care Program under G.S. 143B-168.17."
+10 SECTION 2.1.(c) Employees deemed eligible to participate in the Tri-Share Child
+11 Care pilot program pursuant to Section 9D.9 of S.L. 2023-134, as amended by Section 15 of S.L.
+12 2024-34, shall remain eligible to participate in the Tri-Share Child Care Program under
+13 G.S. 143B-168.17, as enacted under subsection (a) of this section, upon enactment of this section.
+14 SECTION 2.1.(d) There is appropriated from the General Fund to the Department
+15 of Health and Human Services, Division of Child Development and Early Education, to be
+16 allocated to the North Carolina Partnership for Children, Inc. (NCPC), the sum of nine million
+17 dollars ($9,000,000) in recurring funds for the 2026-2027 fiscal year to provide the State portion
+18 of funding for continuation of the Tri-Share Child Care Program established in Section 9D.9 of
+19 S.L. 2023-134, as amended by Section 15 of S.L. 2024-34. Funds provided under this section
+20 shall be divided evenly in each fiscal year among the regional facilitator hubs, as described in
+21 G.S. 143B-168.17, enacted in subsection (a) of this section.
+22
+23 PART III. REENACT CHILD CARE TAX CREDIT
+24 SECTION 3.1.(a) G.S. 105-153.10 is reenacted as it existed immediately before its
+25 expiration and reads as rewritten:
+26 "§ 105-153.10. Credit for children.
+27 (a) Credit. – A taxpayer who is allowed a federal child tax credit under section 24 of the
+28 Code for the taxable year is allowed a credit against the tax imposed by this Part for each
+29 dependent child for whom the taxpayer is allowed the federal credit. A taxpayer is allowed a
+30 credit against the tax imposed by this Part for each qualifying child of the taxpayer. A "qualifying
+31 child" is defined by section 152(c) of the Code. The amount of credit allowed under this section
+32 for the taxable year is equal to the amount listed in the table below based on the taxpayer's
+33 adjusted gross income, as calculated under the Code:
+34 Filing Status AGI Credit Amount
+35 Married, filing jointly Up to $40,000 $125.00$250.00
+36 Over $40,000
+37 Up to $100,000 $100.00$125.00
+38 Over $100,000 0
+39
+40 Head of Household Up to $32,000 $125.00$250.00
+41 Over $32,000
+42 Up to $80,000 $100.00$125.00
+43 Over $80,000 0
+44
+45 Single Up to $20,000 $125.00$250.00
+46 Over $20,000
+47 Up to $50,000 $100.00$125.00
+48 Over $50,000 0
+49
+50 Married, filing separately Up to $20,000 $125.00$250.00
+51 Over $20,000
+House Bill 1066-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 Up to $50,000 $100.00$125.00
+2 Over $50,000 0.
+3
+4 (b) Limitations. – A nonresident or part-year resident who claims the credit allowed by
+5 this section shall reduce the amount of the credit by multiplying it by the fraction calculated under
+6 G.S. 105-134.5(b) or (c), as appropriate.The credit allowed under this section may not exceed the
+7 amount of tax imposed by this Part for the taxable year reduced by the sum of all credits allowed,
+8 except payments of tax made by or on behalf of the taxpayer.G.S. 105-153.4. Married individuals
+9 qualifying for a credit under this section who file separate returns may not collectively claim
+10 more than the maximum credit allowed under a joint return.
+11 (c) Credit Refundable. – If the credit allowed by this section exceeds the amount of tax
+12 imposed by this Part for the taxable year reduced by the sum of all credits allowable, the Secretary
+13 must refund the excess to the taxpayer. The refundable excess is governed by the provisions
+14 governing a refund of an overpayment by the taxpayer of the tax imposed in this Part. In
+15 computing the amount of tax against which multiple credits are allowed, nonrefundable credits
+16 are subtracted before refundable credits."
+17 SECTION 3.1.(b) This section is effective for taxable years beginning on or after
+18 January 1, 2026.
+19
+20 PART IV. CHILD CARE WORKFORCE DEVELOPMENT
+21
+22 EARLY CHILDHOOD APPRENTICESHIPS
+23 SECTION 4.1.(a) Part 3 of Article 1 of Chapter 115C of the General Statutes is
+24 amended by adding a new section to read:
+25 "§ 115C-10.52. Early Childhood Apprenticeship Grant Program.
+26 (a) Program Established; Purpose. – There is established the North Carolina Community
+27 College Early Childhood Apprenticeship Grant Program (Program) to be administered by the
+28 State Board of Community Colleges. The purpose of the Program is to provide additional funds
+29 to community colleges to establish or expand registered apprenticeships in early childhood
+30 education recognized by ApprenticeshipNC. The State Board shall adopt rules for the
+31 disbursement of the grants pursuant to this section.
+32 (b) Program Participation. – Any community college in the State may participate in the
+33 Program by providing notice of intent to participate to the State Board.
+34 (c) Grant Fund Usage. – Grant funds awarded pursuant to this section shall only be used
+35 for the following purposes:
+36 (1) Establish or expand registered apprenticeships recognized by
+37 ApprenticeshipNC in early childhood education.
+38 (2) Provide tuition assistance, wage supplements, and employer support payments
+39 for employers participating in registered apprenticeships recognized by
+40 ApprenticeshipNC in early childhood education.
+41 (3) Align apprenticeship coursework with credential requirements in Chapter 110
+42 of the General Statutes.
+43 (4) Prioritize apprenticeship placements in licensed child care facilities serving
+44 subsidy-eligible children.
+45 (d) Report. – By July 15 of each year, the Community Colleges System Office shall report
+46 to the Joint Legislative Oversight Committee on Health and Human Services on the following:
+47 (1) Enrollment changes in programs involving apprenticeships in early childhood
+48 education compared to the prior year.
+49 (2) Completion rates of apprentices compared to the prior year.
+50 (3) To the extent information is available, workforce retention rates for
+51 apprentices who complete their internship."
+Page 6 House Bill 1066-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.1.(b) There is appropriated from the General Fund to the Community
+2 Colleges System Office the sum of five million dollars ($5,000,000) in recurring funds to
+3 implement the provisions of this section.
+4
+5 PART V. STREAMLINED ADMINISTRATIVE SYSTEM FOR CHILD CARE
+6 PROVIDERS
+7
+8 UNIFIED CHILD CARE ADMINISTRATIVE PORTAL
+9 SECTION 5.1.(a) The Department of Health and Human Services, Division of Child
+10 Development and Early Education (DCDEE), shall develop and implement a unified online
+11 portal for child care providers. The portal shall allow child care providers to do each of the
+12 following:
+13 (1) Submit required applications, licensing documentation, and compliance
+14 materials.
+15 (2) Apply for State or federally funded programs related to child care.
+16 (3) Access reporting requirements for child care subsidy programs and workforce
+17 initiatives.
+18 (4) Integrate administrative processes from the following agencies:
+19 a. DCDEE.
+20 b. Department of Public Instruction.
+21 c. North Carolina Partnership for Children, Inc.
+22 d. North Carolina Community Colleges System.
+23 e. Other relevant State or federally administered child care funding
+24 programs.
+25 SECTION 5.1.(b) DCDEE shall submit an implementation report to the Joint
+26 Legislative Oversight Committee on Health and Human Services and the Joint Legislative
+27 Oversight Committee on Information Technology within 18 months from the date this act
+28 becomes effective.
+29
+30 PART VI. FACILITIES FOR CHILD CARE
+31
+32 USE OF PUBLIC FACILITIES FOR CHILD CARE
+33 SECTION 6.1.(a) The Department of Public Instruction, in collaboration with the
+34 Community Colleges System Office, shall develop a plan to use underutilized classrooms or
+35 campus spaces for licensed child care facilities. The plan shall do all of the following:
+36 (1) Identify suitable classrooms or campus spaces for use as licensed child care
+37 facilities.
+38 (2) Prioritize classrooms or campus spaces in counties with limited child care
+39 capacity.
+40 (3) Allow for partnerships with licensed providers or nonprofit operators of child
+41 care.
+42 SECTION 6.1.(b) The Department of Public Instruction shall submit a report
+43 detailing the plan developed pursuant to subsection (a) of this section to the Joint Legislative
+44 Education Oversight Committee, the Joint Legislative Oversight Committee on Health and
+45 Human Services, and the Fiscal Research Division no later than December 15, 2027.
+46 SECTION 6.1.(c) There is appropriated from the General Fund to the Department
+47 of Public Instruction the sum of one hundred thousand dollars ($100,000) in nonrecurring funds
+48 for the 2026-2027 fiscal year to develop the plan required by this section.
+49
+50 STATE EMPLOYEE CHILD CARE FACILITIES
+House Bill 1066-First Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 6.2.(a) The Department of Administration (DOA) shall inventory
+2 underutilized State-owned buildings suitable for conversion into child care facilities that will
+3 serve State employees. DOA shall develop recommendations for each of the following:
+4 (1) Piloting on-site child care facilities.
+5 (2) Public-private partnerships with licensed providers.
+6 (3) Leasing or licensing space for child care operations.
+7 SECTION 6.2.(b) The Department of Administration shall submit a report of its
+8 findings and any recommendations to the Joint Legislative Oversight Committee on General
+9 Government within 18 months from the date this act becomes effective.
+10 SECTION 6.2.(c) There is appropriated from the General Fund to the Department
+11 of Administration the sum of one hundred thousand dollars ($100,000) for the 2026-2027 fiscal
+12 year to develop the recommendations required by this section.
+13
+14 PART VII. REGULATORY CLARITY FOR RELIGIOUS-SPONSORED CHILD CARE
+15
+16 GUIDANCE FOR RELIGIOUS-SPONSORED CHILD CARE FACILITIES
+17 SECTION 7.1.(a) The Department of Health and Human Services, Division of Child
+18 Development and Early Education, shall develop and publish a clear, regulatory guidance
+19 document to assist religious-sponsored organizations seeking to provide child care that outlines
+20 each of the following:
+21 (1) Licensing pathways.
+22 (2) Religious exemption eligibility.
+23 (3) Health and safety requirements.
+24 (4) Application procedures, including, but not limited to, steps in applying for
+25 licensure and ways to participate in existing exemptions.
+26 SECTION 7.1.(b) The Division of Child Development and Early Education shall
+27 conduct outreach to faith‑based organizations regarding these guidelines.
+28
+29 PART VIII. CHILD CARE FUNDING STABILIZATION
+30
+31 UPDATES TO CHILD CARE SUBSIDY REIMBURSEMENT RATES
+32 SECTION 8.1.(a) Beginning July 1, 2026, the Department of Health and Human
+33 Services, Division of Child Development and Early Education, shall increase the child care
+34 subsidy market rates to the seventy-fifth percentile as recommended by the most recent Child
+35 Care Market Rate Study for children in three-, four-, and five-star-rated child care centers and
+36 homes.
+37 SECTION 8.1.(b) Beginning July 1, 2026, provisions of payment rates for child care
+38 providers in counties that have a county rate below the State rate for center-based and
+39 home-based care are as follows:
+40 (1) Except as applicable in subdivision (2) of this subsection, payment rates shall
+41 be set at the seventy-fifth percentile statewide market rate as recommended
+42 by the most recent Child Care Market Rate Study for children birth through 5
+43 years of age for licensed three-, four-, and five-star-rated child care centers
+44 and homes.
+45 (2) If it can be demonstrated that the application of the statewide rate to a county
+46 with fewer than 50 children in each age group is lower than the county market
+47 rate and would inhibit the ability of the county to purchase child care for
+48 low-income children, then the county market rate may be applied.
+49 SECTION 8.1.(c) There is appropriated from the General Fund to the Department
+50 of Health and Human Services, Division of Child Development and Early Education, the sum of
+51 two hundred five million dollars ($205,000,000) in recurring funds for the 2026-2027 fiscal year
+Page 8 House Bill 1066-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 to implement the market rate increases and to establish a floor for child care subsidy rates as set
+2 forth in subsections (a) and (b) of this section.
+3
+4 AUTOMATIC SUBSIDIZED CHILD CARE RATE ADJUSTMENT
+5 SECTION 8.2. Part 10C of Article 3 of Chapter 143B of the General Statutes is
+6 amended by adding a new section to read:
+7 "§ 143B-168.28. Automatic rate adjustment for subsidized child care.
+8 (a) Effective July 1, 2027, the Department shall adjust annually the child care subsidy
+9 reimbursement rates based on one of the following, whichever is greater:
+10 (1) The percentage change in the Consumer Price Index for All Urban Consumers
+11 (CPI-U), South Region, or any subsequent similar publication, as published
+12 by the United States Bureau of Labor Statistics, for the preceding 12-month
+13 period.
+14 (2) The percentage change reflected in the most recent North Carolina Child Care
+15 Market Rate Study.
+16 (b) If the Child Care Market Rate Study results in higher reimbursement rates than those
+17 calculated under subdivision (a)(1) of this section, the Department shall implement the higher
+18 rates.
+19 (c) Updated reimbursement rates calculated pursuant to this section shall be implemented
+20 administratively and shall not require further appropriation or legislative approval, subject to the
+21 availability of funds.
+22 (d) The Department shall publish updated reimbursement rate schedules by August 1 of
+23 each year and report the adjustments to the Joint Legislative Oversight Committee on Health and
+24 Human Services and the Fiscal Research Division of the General Assembly."
+25
+26 PART IX. CHILD CARE WORKFORCE COMPENSATION AND BENEFITS
+27
+28 EXPANSION OF THE CHILD CARE WAGE$ PROGRAM
+29 SECTION 9.1. There is appropriated from the General Fund to the Department of
+30 Health and Human Services, Division of Child Development and Early Education (Division), the
+31 sum of twenty-two million seven hundred thousand dollars ($22,700,000) in nonrecurring funds
+32 for the 2026-2027 fiscal year and the sum of thirty-six million dollars ($36,000,000) for the
+33 2027-2028 fiscal year in recurring funds to expand the Child Care WAGE$ program, which
+34 provides salary supplements for early childhood educators. When developing the base budget, as
+35 defined by G.S. 143C-1-1, for the 2027-2028 fiscal year, the Director of the Budget shall include
+36 the appropriated amount specified in this section for that fiscal year.
+37
+38 CHILD CARE EMPLOYER HEALTH COVERAGE POOL
+39 SECTION 9.2.(a) Article 7 of Chapter 110 of the General Statutes is amended by
+40 adding a new section to read:
+41 "§ 110-90.3. Child care employer health coverage pool.
+42 (a) Establishment. – The Department of State Treasurer, in consultation with the
+43 Department and the Department of Insurance, shall establish and administer a State-run group
+44 health coverage pool to make health benefit coverage available for purchase by eligible child
+45 care employers on behalf of their employees. The pool shall be operated separately from the State
+46 Health Plan for Teachers and State Employees; provided, however, that the State Treasurer may
+47 use administrative, contracting, actuarial, enrollment, and other operational resources of the State
+48 Health Plan to the extent practicable.
+49 (b) Eligible Employers. – An employer is eligible to participate in the pool if the
+50 employer satisfies all of the following criteria:
+House Bill 1066-First Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (1) Holds a valid license issued by the Department to operate a child care facility
+2 or child care program in this State.
+3 (2) Elects to participate in the pool in accordance with rules, policies, or
+4 procedures adopted by the State Treasurer.
+5 (3) Agrees to satisfy the employer premium contribution requirements of this
+6 section and any other participation requirements established by the State
+7 Treasurer.
+8 (c) Eligible Employees. – Employees of participating child care employers who satisfy
+9 eligibility requirements established by the State Treasurer shall be eligible to enroll in coverage
+10 offered through the pool established in this section. The State Treasurer may provide for
+11 dependent coverage on terms established by the State Treasurer.
+12 (d) Employer and Employee Premium Share. – A participating child care employer shall
+13 pay not less than fifty percent (50%) of the premium for employee-only coverage elected through
+14 the pool established under this section. An enrolled employee shall pay the remaining percentage
+15 of the premium for employee-only coverage through payroll withholding or other method
+16 approved by the State Treasurer.
+17 (e) Premium Withholdings Rebate. – Subject to the availability of funds appropriated for
+18 this purpose, the Department shall provide a premium withholdings rebate to each child care
+19 employer participating in the pool under this section in an amount equal to the actual employee
+20 premium withholdings remitted by the employer for employee-only coverage, not to exceed
+21 twenty-five percent (25%) of the applicable premium. A rebate provided under this subsection
+22 shall be used solely to offset the employee share of premium required by subsection (d) of this
+23 section.
+24 (f) Administration. – The State Treasurer may contract with one or more third-party
+25 administrators, carriers, pharmacy benefit managers, or other vendors as necessary to operate the
+26 pool established under this section and may determine benefit design, enrollment periods,
+27 coverage effective dates, and other operational matters necessary to implement this section.
+28 (g) Rulemaking and Standards. – The State Treasurer may adopt rules, policies,
+29 procedures, and participation standards necessary to implement this section, including standards
+30 governing employer entry into and withdrawal from the pool, minimum participation
+31 requirements, verification of premium contributions, and coordination with federal requirements.
+32 (h) Reporting. – No later than March 1, 2027, and annually thereafter for two years, the
+33 State Treasurer, in consultation with the Department, shall report to the Joint Legislative
+34 Oversight Committee on Health and Human Services and the Fiscal Research Division on
+35 implementation of the pool established in accordance with this section, including employer
+36 participation, employee enrollment, premium levels, rebate utilization, administrative costs, and
+37 recommendations for statutory changes."
+38 SECTION 9.2.(b) The Department of State Treasurer shall ensure that coverage is
+39 available under the child care employer health coverage pool under G.S. 110-90.3, as enacted by
+40 subsection (a) of this section, no later than January 1, 2027.
+41 SECTION 9.2.(c) There is appropriated from the General Fund to the Department
+42 of Health and Human Services the sum of thirty-five million dollars ($35,000,000) in recurring
+43 funds for the 2026-2027 fiscal year to provide the premium withholdings rebate authorized by
+44 G.S. 110-90.3(e), as enacted by subsection (a) of this section.
+45 SECTION 9.2.(d) There is appropriated from the General Fund to the Department
+46 of State Treasurer the sum of two million dollars ($2,000,000) in nonrecurring funds for the
+47 2026-2027 fiscal year for administrative and start-up costs associated with establishing the child
+48 care employer health coverage pool authorized by G.S. 110-90.3, as enacted by subsection (a) of
+49 this section.
+50
+51 PART X. EFFECTIVE DATE
+Page 10 House Bill 1066-First Edition
+
+General Assembly Of North Carolina Session 2025
+1
+2 EFFECTIVE DATE
+3 SECTION 10.1. Except as otherwise provided, this act becomes effective July 1,
+4 2026.
+House Bill 1066-First Edition Page 11

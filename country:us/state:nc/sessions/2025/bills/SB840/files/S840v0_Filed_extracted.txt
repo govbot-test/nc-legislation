@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+FILED SENATE
+Apr 27, 2026
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 840
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS35371-DEa-9
+Short Title: Teacher Licensure Modifications. (Public)
+Sponsors: Senators McInnis, Lee, and Burgin (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REMOVE TESTING REQUIREMENTS FOR ADMISSION TO AN
+3 EDUCATOR PREPARATION PROGRAM, TO MODIFY THE TEACHER LICENSURE
+4 EXAM TIME LINE, AND TO MODIFY TEACHER LICENSURE REQUIREMENTS FOR
+5 OUT-OF-STATE APPLICANTS.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. G.S. 115C-269.15(a) is repealed.
+8 SECTION 2. G.S. 115C-270.15(c) reads as rewritten:
+9 "(c) Time Line for Completion of Examinations. – The State Board of Education shall
+10 permit an applicant to fulfill any such examination requirement before or during the third year of
+11 licensure, provided the applicant took the examination at least once during the first year of
+12 licensure.licensure."
+13 SECTION 3. G.S. 115C-270.25 reads as rewritten:
+14 "§ 115C-270.25. Out-of-state license applicants.
+15 The State Board of Education shall grant a CPL to a teacher licensed in another state with
+16 substantially similar licensure requirements who has at least three years of teaching experience
+17 and is in good standing with the other state."
+18 SECTION 4.(a) There is appropriated from the General Fund to the Department of
+19 Public Instruction the sum of fifty thousand dollars ($50,000) in nonrecurring funds for the
+20 2026-2027 fiscal year for the purpose of implementing the requirements of this act.
+21 SECTION 4.(b) This section becomes effective July 1, 2026.
+22 SECTION 5. Except as otherwise provided, this act is effective when it becomes
+23 law.
+*DRS35371-DEa-9*
